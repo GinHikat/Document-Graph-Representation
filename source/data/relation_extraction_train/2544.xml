@@ -1,0 +1,920 @@
+Thông tư Hướng dẫn hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán
+
+Căn_cứ <L rel="Pursuant"> Luật_Chứng_khoán ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật_Chứng_khoán </L> ngày 24 tháng 11 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật_Doanh_nghiệp ngày 29 tháng 11 năm 2005 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 58/2012/NĐ-CP ngày 20 tháng 7 năm 2012 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật_Chứng_khoán </L> và <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Pursuant"> Luật_Chứng_khoán </L> </L> ;
+Căn_cứ <NĐ rel="Others"> Nghị_định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định về hoạt_động đăng_ký , lưu ký , bù_trừ và thanh_toán giao_dịch chứng_khoán trên thị_trường chứng_khoán Việt_Nam . 
+
+2 . Đối_tượng áp_dụng Thông_tư này bao_gồm : Trung_tâm Lưu ký Chứng_khoán Việt_Nam ( sau đây viết tắt là VSD ) , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp , tổ_chức phát_hành , ngân_hàng thanh_toán và các khách_hàng đăng_ký , lưu ký , thanh_toán giao_dịch chứng_khoán . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Chứng_khoán chứng_chỉ là chứng_khoán được phát_hành dưới hình_thức chứng_chỉ vật_chất .  Thông_tin về việc sở_hữu hợp_pháp của người sở_hữu_chứng_khoán được ghi_nhận trên chứng_chỉ chứng_khoán . 
+
+2 . Chứng_khoán ghi sổ là chứng_khoán được phát_hành dưới hình_thức bút_toán ghi sổ hoặc dữ_liệu điện_tử .  Thông_tin về việc sở_hữu hợp_pháp của người sở_hữu_chứng_khoán ghi sổ được ghi_nhận trên sổ đăng_ký người sở_hữu_chứng_khoán . 
+
+3 . Sổ đăng_ký người sở_hữu_chứng_khoán ( hay sổ đăng_ký chứng_khoán ) là sổ ghi_chép thông_tin về người sở_hữu_chứng_khoán do tổ_chức phát_hành lập khi nộp hồ_sơ đăng_ký chứng_khoán tại VSD và sổ do VSD lập khi quản_lý_chứng_khoán đã đăng_ký . 
+
+4 . Người sở_hữu_chứng_khoán là người có tên trên sổ đăng_ký người sở_hữu_chứng_khoán tại VSD . 
+
+5 . Giấy chứng_nhận/Sổ chứng_nhận sở_hữu_chứng_khoán là văn_bản do tổ_chức phát_hành hoặc tổ_chức được tổ_chức phát_hành ủy_quyền cấp cho người sở_hữu_chứng_khoán ghi sổ để xác_nhận thông_tin về việc sở_hữu_chứng_khoán tại một thời_điểm nhất_định . 
+
+6 . Ngày đăng_ký cuối_cùng là ngày VSD xác_lập danh_sách người sở_hữu_chứng_khoán được hưởng quyền phù_hợp với quy_định của pháp_luật . 
+
+7 . Thành_viên lưu ký là công_ty_chứng_khoán , ngân_hàng thương_mại hoạt_động tại Việt_Nam được Ủy_ban Chứng_khoán Nhà_nước ( sau đây viết tắt là UBCKNN ) cấp Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán và được VSD chấp_thuận trở_thành thành_viên lưu ký . 
+
+8 . Tổ_chức mở tài_khoản trực_tiếp là tổ_chức mở tài_khoản lưu ký chứng_khoán trực_tiếp tại VSD và sử_dụng các dịch_vụ lưu ký , thanh_toán bù_trừ của VSD trên cơ_sở hợp_đồng cung_cấp dịch_vụ với VSD . 
+
+9 . Bù_trừ đa_phương là phương_thức bù_trừ các giao_dịch chứng_khoán được khớp trong cùng ngày giữa tất_cả các bên tham_gia giao_dịch theo từng loại chứng_khoán để xác_định nghĩa_vụ thanh_toán ròng của mỗi bên thanh_toán . 
+
+10 .  Nghĩa_vụ thanh_toán ròng là số tiền , chứng_khoán mà bên thanh_toán giao_dịch có nghĩa_vụ phải thanh_toán thực căn_cứ vào kết_quả bù_trừ đa_phương . 
+
+11 .  Thanh_toán trực_tiếp qua VSD là phương_thức thanh_toán tiền và chứng_khoán được thực_hiện trực_tiếp giữa các bên tham_gia giao_dịch thông_qua VSD . 
+
+12 .  Ký_gửi chứng_khoán là việc đưa chứng_khoán vào lưu_giữ tập_trung tại VSD để thực_hiện giao_dịch . 
+
+13 .  Giấy_tờ có giá là các loại giấy_tờ có_giá theo quy_định của pháp_luật về ngân_hàng được sử_dụng trong các nghiệp_vụ thị_trường tiền_tệ giữa Ngân_hàng Nhà_nước với các khách_hàng lưu ký . 
+
+14 .  Ngân_hàng thanh_toán là ngân_hàng thương_mại được UBCKNN lựa_chọn phục_vụ cho hoạt_động thanh_toán tiền các giao_dịch trên Sở Giao_dịch Chứng_khoán ( sau đây viết tắt là SGDCK ) và cho các hoạt_động thanh_toán khác . 
+
+15 .  Hồ_sơ hợp_lệ là hồ_sơ có đầy_đủ giấy_tờ và có nội_dung kê_khai đầy_đủ theo quy_định . 
+
+Điều 3 .  Điều_kiện đăng_ký hoạt_động lưu ký chứng_khoán 
+
+Điều_kiện đăng_ký hoạt_động lưu ký chứng_khoán thực_hiện theo quy_định tại Điều 48 <L rel="Reference"> Luật_Chứng_khoán </L> .
+Điều 4 .  Hồ_sơ đăng_ký hoạt_động lưu ký chứng_khoán , chi_nhánh hoạt_động lưu ký chứng_khoán 
+
+1 . Hồ_sơ đăng_ký hoạt_động lưu ký chứng_khoán của công_ty_chứng_khoán , ngân_hàng thương_mại bao_gồm : 
+
+a ) Giấy đăng_ký hoạt_động lưu ký chứng_khoán ( Phụ_lục I ban_hành kèm theo Thông_tư này ) ; 
+
+b ) Bản_sao Giấy_phép thành_lập và hoạt_động ; 
+
+c ) Bản thuyết_minh về cơ_sở vật_chất , kỹ_thuật bảo_đảm thực_hiện hoạt_động lưu ký chứng_khoán ( Phụ_lục II ban_hành kèm theo Thông_tư này ) ; 
+
+d ) Báo_cáo tài_chính đã được kiểm_toán của năm gần nhất , trừ trường_hợp công_ty_chứng_khoán , ngân_hàng thương_mại mới thành_lập . 
+
+2 . Sau khi được UBCKNN cấp Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán , công_ty_chứng_khoán , ngân_hàng thương_mại được đăng_ký cho một ( 01 ) hoặc một_số chi_nhánh của mình thực_hiện hoạt_động lưu ký chứng_khoán .  Hồ_sơ đăng_ký hoạt_động lưu ký chứng_khoán cho chi_nhánh công_ty_chứng_khoán , chi_nhánh ngân_hàng thương_mại bao_gồm : 
+
+a ) Bản_sao Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán do UBCKNN cấp cho công_ty_chứng_khoán , ngân_hàng thương_mại ; 
+
+b ) Giấy đăng_ký hoạt_động lưu ký chứng_khoán cho chi_nhánh ( Phụ_lục III ban_hành kèm theo Thông_tư này ) ; 
+
+c ) Bản thuyết_minh về cơ_sở vật_chất kỹ_thuật bảo_đảm thực_hiện hoạt_động lưu ký chứng_khoán tại chi_nhánh ( Phụ_lục II ban_hành kèm theo Thông_tư này ) ; 
+
+d ) Giấy_ủy quyền cho chi_nhánh thực_hiện hoạt_động lưu ký chứng_khoán ( Phụ_lục IV ban_hành kèm theo Thông_tư này ) . 
+
+Điều 5 .  Trình_tự , thủ_tục đăng_ký và triển_khai hoạt_động lưu ký chứng_khoán 
+
+1 . Hồ_sơ theo quy_định tại Điều 4 Thông_tư này được lập thành một ( 01 ) bộ hồ_sơ gốc và nộp trực_tiếp hoặc gửi qua đường bưu_điện cho UBCKNN . 
+
+2 . Trong thời_hạn mười_lăm ( 15 ) ngày , kể từ ngày nhận được hồ_sơ hợp_lệ , UBCKNN cấp Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán cho công_ty_chứng_khoán , ngân_hàng thương_mại .  Trường_hợp từ_chối , UBCKNN phải có văn_bản trả_lời và nêu rõ lý_do . 
+
+3 . Trong thời_hạn mười ( 10 ) ngày , kể từ ngày nhận được hồ_sơ hợp_lệ , UBCKNN cấp Quyết_định chấp_thuận cho chi_nhánh công_ty_chứng_khoán , chi_nhánh ngân_hàng thương_mại được thực_hiện hoạt_động lưu ký chứng_khoán .  Trường_hợp từ_chối , UBCKNN phải có văn_bản trả_lời và nêu rõ lý_do . 
+
+4 . Trong thời_hạn mười hai ( 12 ) tháng , kể từ ngày được cấp Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán , công_ty_chứng_khoán , ngân_hàng thương_mại phải làm thủ_tục đăng_ký thành_viên lưu ký tại VSD và tiến_hành hoạt_động . 
+
+5 . Trong thời_hạn ba ( 03 ) tháng , kể từ ngày chi_nhánh được cấp Quyết_định chấp_thuận thực_hiện hoạt_động lưu ký chứng_khoán , công_ty_chứng_khoán , ngân_hàng thương_mại phải làm thủ_tục đăng_ký chi_nhánh hoạt_động lưu ký với VSD . 
+
+Điều 6 .  Đình_chỉ , thu_hồi Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán , chấm_dứt hoạt_động lưu ký chứng_khoán của chi_nhánh công_ty_chứng_khoán , chi_nhánh ngân_hàng thương_mại 
+
+1 . UBCKNN đình_chỉ , thu_hồi Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán của công_ty_chứng_khoán , ngân_hàng thương_mại theo quy_định tại Điều 51 <L rel="Reference"> Luật_Chứng_khoán </L> .
+2 . UBCKNN chấm_dứt hoạt_động lưu ký chứng_khoán của chi_nhánh công_ty_chứng_khoán , chi_nhánh ngân_hàng thương_mại trong các trường_hợp sau : 
+
+a ) Công_ty_chứng_khoán , ngân_hàng thương_mại bị thu_hồi Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán do UBCKNN cấp ; 
+
+b ) Công_ty_chứng_khoán , ngân_hàng thương_mại không làm thủ_tục đăng_ký chi_nhánh hoạt_động lưu ký tại VSD theo quy_định tại Khoản 5 Điều 5 Thông_tư này ; 
+
+c ) Công_ty_chứng_khoán , ngân_hàng thương_mại tự_nguyện chấm_dứt hoạt_động lưu ký chứng_khoán tại chi_nhánh ; 
+
+d ) Chi_nhánh bị thu_hồi Giấy chứng_nhận chi_nhánh hoạt_động lưu ký do VSD cấp ; 
+
+đ ) Chi_nhánh chấm_dứt hoạt_động . 
+
+3 . Công_ty_chứng_khoán , ngân_hàng thương_mại chịu hoàn_toàn trách_nhiệm đối_với khách_hàng , nhà đầu_tư trong trường_hợp chi_nhánh bị chấm_dứt hoạt_động lưu ký chứng_khoán . 
+
+Điều 7 .  Đăng_ký làm thành_viên lưu ký của VSD 
+
+1 . Công_ty_chứng_khoán , ngân_hàng thương_mại đăng_ký làm thành_viên lưu ký của VSD phải đáp_ứng các điều_kiện sau : 
+
+a ) Có Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán do UBCKNN cấp ; 
+
+b ) Có tối_thiểu một ( 01 ) thành_viên Ban_Giám_đốc được phân_công phụ_trách hoạt_động đăng_ký , lưu ký , thanh_toán bù_trừ ; 
+
+c ) Có_nhân_viên làm_việc tại bộ_phận nghiệp_vụ lưu ký đã hoàn_thành khóa học nghiệp_vụ của VSD ; 
+
+d ) Có quy_trình nghiệp_vụ đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán phù_hợp với quy_định pháp_luật hiện_hành và các quy_chế hoạt_động nghiệp_vụ của VSD ; 
+
+đ ) Hệ_thống phần_mềm nghiệp_vụ đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán có khả_năng kết_nối với cổng giao_tiếp điện_tử hoặc cổng giao_tiếp trực_tuyến của VSD và phần_mềm quản_lý hoạt_động đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán phù_hợp với quy_định pháp_luật hiện_hành và các quy_chế hoạt_động nghiệp_vụ của VSD . 
+
+2 . Thành_viên lưu ký được đăng_ký cung_cấp dịch_vụ lưu ký chứng_khoán cho chi_nhánh của mình .  Điều_kiện đăng_ký bao_gồm : 
+
+a ) Các điều_kiện quy_định tại Điểm b , c , d và đ Khoản 1 Điều này ; 
+
+b ) Có Quyết_định chấp_thuận cho chi_nhánh thực_hiện hoạt_động lưu ký chứng_khoán do UBCKNN cấp cho chi_nhánh . 
+
+3 . VSD hướng_dẫn trình_tự , thủ_tục đăng_ký và cấp Giấy chứng_nhận thành_viên lưu ký , Giấy chứng_nhận chi_nhánh hoạt_động lưu ký . 
+
+Điều 8 .  Quyền và nghĩa_vụ của thành_viên lưu_ký 
+
+1 . Tuân_thủ các quyền và nghĩa_vụ quy_định tại Khoản 2 và Khoản 3 Điều 47 <L rel="Reference"> Luật_Chứng_khoán </L> .
+2 . Có các quyền và nghĩa_vụ khác theo quy_định pháp_luật và quy_chế của VSD . 
+
+Điều 9 .  Xử_lý vi_phạm của VSD đối_với thành_viên lưu_ký 
+
+1 . VSD được áp_dụng các hình_thức xử_lý vi_phạm sau đây đối_với thành_viên lưu ký không tuân_thủ đúng quy_định tại các quy_chế hướng_dẫn hoạt_động nghiệp_vụ của VSD : 
+
+a ) Công_văn nhắc_nhở ; 
+
+b ) Khiển_trách ; 
+
+c ) Đình_chỉ hoạt_động của thành_viên lưu ký ; 
+
+d ) Thu_hồi Giấy chứng_nhận thành_viên lưu ký , Giấy chứng_nhận chi_nhánh hoạt_động lưu ký . 
+
+2 . VSD quy_định cụ_thể các hành_vi vi_phạm , trình_tự , thủ_tục xử_lý vi_phạm của thành_viên lưu ký . 
+
+Điều 10 .  Đình_chỉ hoạt_động của thành_viên lưu_ký 
+
+1 . Đình_chỉ hoạt_động của thành_viên lưu ký bao_gồm : 
+
+a ) Đình_chỉ hoạt_động lưu ký chứng_khoán ; 
+
+b ) Đình_chỉ hoạt_động bù_trừ và thanh_toán chứng_khoán . 
+
+2 . VSD ra quyết_định đình_chỉ hoạt_động của thành_viên lưu ký sau khi được UBCKNN chấp_thuận trong các trường_hợp sau : 
+
+a ) Thường_xuyên vi_phạm nghĩa_vụ của thành_viên lưu ký do VSD quy_định ; 
+
+b ) Để xảy ra thiếu_sót gây tổn_thất nghiêm_trọng cho khách_hàng . 
+
+3 . Thời_gian thành_viên lưu ký bị đình_chỉ hoạt_động tối_đa là chín_mươi ( 90 ) ngày kể từ ngày ra quyết_định đình_chỉ . 
+
+Điều 11 .  Thu_hồi Giấy chứng_nhận thành_viên lưu_ký 
+
+1 . VSD thu_hồi Giấy chứng_nhận thành_viên lưu ký trong các trường_hợp sau : 
+
+a ) Bị thu_hồi Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán theo quy_định tại Khoản 2 Điều 51 <L rel="Reference"> Luật_Chứng_khoán </L> ;
+b ) Bị UBCKNN_rút nghiệp_vụ môi_giới chứng_khoán ; 
+
+c ) Không duy_trì được các điều_kiện đăng_ký hoạt_động lưu ký chứng_khoán theo quy_định tại Điều 48 <L rel="Reference"> Luật_Chứng_khoán </L> ;
+d ) Vi_phạm nghiêm_trọng các quy_định về thành_viên lưu ký của VSD . 
+
+2 . Nguyên_tắc xử_lý thu_hồi Giấy chứng_nhận thành_viên lưu ký : 
+
+a ) Trong vòng một ( 01 ) ngày làm_việc kể từ ngày nhận được các tài_liệu liên_quan đến việc thu_hồi Giấy chứng_nhận thành_viên lưu ký , VSD ngừng cung_cấp dịch_vụ đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán đối_với thành_viên lưu ký , ngoại_trừ các trường_hợp bù_trừ và thanh_toán chứng_khoán để hoàn_tất các giao_dịch đã thực_hiện trên SGDCK , chuyển_khoản tất toán tài_khoản khách_hàng , chuyển_khoản giải_tỏa chứng_khoán cầm_cố , thực_hiện quyền cho người sở_hữu_chứng_khoán và điều_chỉnh thông_tin nhà đầu_tư ; 
+
+b ) Việc chuyển_khoản tất toán tài_khoản khách_hàng được thực_hiện theo yêu_cầu của khách_hàng , trường_hợp không có yêu_cầu của khách_hàng thực_hiện theo văn_bản thỏa_thuận hoặc hợp_đồng chuyển_giao tài_khoản giữa thành_viên lưu ký bị thu_hồi Giấy chứng_nhận thành_viên lưu ký và thành_viên lưu ký khác ; 
+
+c ) VSD ra quyết_định thu_hồi Giấy chứng_nhận thành_viên lưu ký sau khi thành_viên lưu ký hoàn_tất việc chuyển_khoản tất toán tài_khoản khách_hàng , tài_khoản tự doanh ( nếu có ) và đã thực_hiện đầy_đủ nghĩa_vụ với VSD . 
+
+3 . VSD hướng_dẫn trình_tự , thủ_tục xử_lý thu_hồi Giấy chứng_nhận thành_viên lưu ký . 
+
+Điều 12 .  Thu_hồi Giấy chứng_nhận chi_nhánh hoạt_động lưu_ký 
+
+1 . VSD thu_hồi Giấy chứng_nhận chi_nhánh hoạt_động lưu ký trong các trường_hợp sau : 
+
+a ) Thành_viên lưu ký_tự_nguyện chấm_dứt hoạt_động lưu ký của chi_nhánh ; 
+
+b ) Thành_viên lưu ký chấm_dứt hoạt_động của chi_nhánh theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền . 
+
+2 . Thành_viên lưu ký có nghĩa_vụ tiếp_nhận mọi nghĩa_vụ của chi_nhánh bị thu_hồi Giấy chứng_nhận chi_nhánh hoạt_động lưu ký với VSD , khách_hàng và các đơn_vị có liên_quan . 
+
+Điều 13 .  Tổ_chức mở tài_khoản trực_tiếp tại VSD 
+
+1 . Các tổ_chức sau đây được mở tài_khoản trực_tiếp tại VSD : 
+
+a ) Tổng_công_ty đầu_tư và kinh_doanh vốn Nhà_nước ; 
+
+b ) Các tổ_chức tín_dụng , bảo_hiểm tham_gia thị_trường trái_phiếu do SGDCK tổ_chức ; 
+
+c ) Các đối_tượng khác theo quy_định của VSD sau khi được UBCKNN chấp_thuận . 
+
+2 . Các tổ_chức mở tài_khoản trực_tiếp quy_định tại Khoản 1 Điều này mở tài_khoản để lưu ký chứng_khoán thuộc sở_hữu của chính mình và được sử_dụng dịch_vụ đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán của VSD . 
+
+3 . VSD cung_cấp dịch_vụ cho tổ_chức mở tài_khoản trực_tiếp trên cơ_sở hợp_đồng được ký_kết giữa hai bên .  Hợp_đồng gồm những nội_dung chính sau : 
+
+a ) Phạm_vi cung_cấp dịch_vụ ; 
+
+b ) Quyền và nghĩa_vụ của VSD , tổ_chức mở tài_khoản trực_tiếp ; 
+
+c ) Giải_quyết tranh_chấp ; 
+
+d ) Chấm_dứt hợp_đồng ; 
+
+đ ) Phí cung_cấp dịch_vụ . 
+
+4 . VSD ban_hành mẫu hợp_đồng cung_cấp dịch_vụ giữa VSD với tổ_chức mở tài_khoản trực_tiếp . 
+
+Điều 14 .  Mở tài_khoản trong các trường_hợp đặc_biệt 
+
+1 . Các tổ_chức đặc_biệt sau đây được mở tài_khoản trực_tiếp tại VSD : 
+
+a ) Ngân_hàng Nhà_nước ; 
+
+b ) Kho_bạc Nhà_nước ; 
+
+c ) Trung_tâm lưu ký các nước . 
+
+2 . Ngân_hàng Nhà_nước mở tài_khoản để lưu ký giấy_tờ có_giá thuộc sở_hữu của Ngân_hàng Nhà_nước và khách_hàng lưu ký của Ngân_hàng Nhà_nước nhằm phục_vụ cho các nghiệp_vụ thị_trường tiền_tệ . 
+
+3 . Kho_bạc Nhà_nước mở tài_khoản để lưu ký trái_phiếu Chính_phủ thuộc sở_hữu của Kho_bạc Nhà_nước nhằm phục_vụ cho các nghiệp_vụ liên_quan của Kho_bạc Nhà_nước . 
+
+4 . Trung_tâm lưu ký các nước được mở tài_khoản để cung_cấp các dịch_vụ liên_quan đến hoạt_động đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán căn_cứ vào văn_bản thỏa_thuận với VSD sau khi được UBCKNN phê_duyệt . 
+
+Điều 15 .  Đăng_ký chứng_khoán tại VSD 
+
+1 . Loại_chứng_khoán và hình_thức đăng_ký tại VSD : 
+
+a ) Các loại chứng_khoán sau đây phải thực_hiện đăng_ký tại VSD : 
+
+- Trái_phiếu Chính_phủ , trái_phiếu được Chính_phủ bảo_lãnh , trái_phiếu chính_quyền địa_phương , tín_phiếu kho_bạc và các loại trái_phiếu khác niêm_yết trên SGDCK ; 
+
+- Cổ_phiếu , chứng_chỉ quỹ đầu_tư niêm_yết trên SGDCK ; 
+
+- Chứng_khoán của công_ty đại_chúng và các loại chứng_khoán phải đăng_ký tại VSD theo quy_định của pháp_luật ; 
+
+- Các loại chứng_khoán khác được đăng_ký tại VSD trên cơ_sở thỏa_thuận giữa VSD và tổ_chức phát_hành . 
+
+b ) Chứng_khoán đăng_ký tại VSD theo hình_thức đăng_ký ghi sổ . 
+
+2 . Công_ty đại_chúng phải thực_hiện việc đăng_ký chứng_khoán tại VSD khi đăng_ký là công_ty đại_chúng với UBCKNN theo quy_định của pháp_luật chứng_khoán về đăng_ký công_ty đại_chúng . 
+
+3 . Tổ_chức phát_hành thực_hiện đăng_ký các thông_tin sau đây về chứng_khoán với VSD : 
+
+a ) Thông_tin về tổ_chức phát_hành chứng_khoán ; 
+
+b ) Thông_tin về chứng_khoán phát_hành ; 
+
+c ) Thông_tin về danh_sách người sở_hữu_chứng_khoán , loại chứng_khoán và số_lượng chứng_khoán sở_hữu . 
+
+4 . Tổ_chức phát_hành làm thủ_tục đăng_ký chứng_khoán trực_tiếp với VSD hoặc thông_qua công_ty_chứng_khoán . 
+
+5 . VSD hướng_dẫn trình_tự , thủ_tục đăng_ký chứng_khoán tại VSD . 
+
+Điều 16 .  Cấp mã_chứng_khoán 
+
+1 . Mã_chứng_khoán trong nước cho các chứng_khoán đăng_ký được VSD cấp để sử_dụng thống_nhất khi niêm_yết , đăng_ký giao_dịch tại SGDCK . 
+
+2 . VSD là tổ_chức chính_thức thực_hiện cấp mã_số định_danh quốc_tế ( mã ISIN ) cho các loại chứng_khoán phát_hành tại Việt_Nam . 
+
+3 . VSD hướng_dẫn nguyên_tắc , trình_tự thủ_tục cấp mã_chứng_khoán trong nước và mã_số định_danh quốc_tế . 
+
+Điều 17 .  Quản_lý thông_tin chứng_khoán đã đăng_ký 
+
+1 . Tổ_chức phát_hành phải hoàn_toàn chịu trách_nhiệm về tính chính_xác , đầy_đủ và kịp_thời của các thông_tin chứng_khoán đã đăng_ký với VSD . 
+
+2 . VSD quản_lý tập_trung toàn_bộ thông_tin tổ_chức phát_hành đã đăng_ký theo quy_định tại Khoản 3 Điều 15 Thông_tư này .  Mọi thay_đổi liên_quan đến các thông_tin chứng_khoán đã đăng_ký phải được thực_hiện theo các quy_định về quản_lý thông_tin của VSD . 
+
+3 . VSD hướng_dẫn quản_lý thông_tin , quy_trình , thủ_tục thực_hiện điều_chỉnh thông_tin chứng_khoán đăng_ký tại VSD . 
+
+Điều 18 .  Hợp_đồng cung_cấp dịch_vụ giữa VSD với tổ_chức phát_hành 
+
+1 . Hợp_đồng cung_cấp dịch_vụ giữa VSD với tổ_chức phát_hành gồm những nội_dung chính sau : 
+
+a ) Các dịch_vụ tổ_chức phát_hành ủy_quyền cho VSD thực_hiện : 
+
+- Quản_lý thông_tin về chứng_khoán đã đăng_ký tại VSD theo quy_định tại Khoản 3 Điều 15 Thông_tư này ; 
+
+- Xác_nhận chuyển quyền sở_hữu_chứng_khoán cho người sở_hữu_chứng_khoán ; 
+
+- Tính_toán và phân_bổ quyền cho người sở_hữu_chứng_khoán . 
+
+b ) Quyền và nghĩa_vụ của VSD , tổ_chức phát_hành ; 
+
+d ) Chấm_dứt hợp_đồng ;  đ ) Phí cung_cấp dịch_vụ . 
+
+2 . VSD ban_hành mẫu hợp_đồng cung_cấp dịch_vụ giữa VSD với tổ_chức phát_hành . 
+
+Điều 19 .  Chuyển quyền sở_hữu_chứng_khoán 
+
+1 . Chứng_khoán của công_ty đại_chúng đã đăng_ký với VSD nhưng chưa niêm_yết , đăng_ký giao_dịch tại SGDCK được thực_hiện chuyển quyền sở_hữu qua VSD theo quy_định của <L rel="Reference"> Luật_Chứng_khoán </L> .
+2 . Việc chuyển quyền sở_hữu đối_với chứng_khoán niêm_yết , đăng_ký giao_dịch trên SGDCK được VSD thực_hiện theo nguyên_tắc sau : 
+
+a ) Chuyển quyền sở_hữu_chứng_khoán thông_qua các giao_dịch mua_bán thực_hiện qua hệ_thống giao_dịch của SGDCK ; 
+
+b ) Chuyển quyền sở_hữu_chứng_khoán ngoài hệ_thống giao_dịch chứng_khoán đối_với các giao_dịch không mang tính_chất mua_bán hoặc không_thể thực_hiện được qua hệ_thống giao_dịch của SGDCK trong các trường_hợp sau : 
+
+- Biếu , tặng , cho , thừa_kế chứng_khoán theo quy_định của <L rel="Reference"> Luật Dân_sự </L> ;
+- Giao_dịch chứng_khoán lô lẻ theo quy_định của pháp_luật về chứng_khoán và thị_trường chứng_khoán ; 
+
+- Tổ_chức phát_hành mua lại cổ_phiếu ưu_đãi hoặc thu_hồi cổ_phiếu ( không phát_sinh_tiền mua lại ) của cán_bộ , công_nhân_viên khi chấm_dứt hợp_đồng lao_động làm cổ_phiếu quỹ , cổ_phiếu thưởng cho cán_bộ , công_nhân_viên ; 
+
+- Công_đoàn của tổ_chức phát_hành mua lại cổ_phiếu ưu_đãi hoặc thu_hồi cổ_phiếu ( không phát_sinh_tiền mua lại ) của cán_bộ , công_nhân_viên khi chấm_dứt hợp_đồng lao_động làm cổ_phiếu thưởng cho cán_bộ , công_nhân_viên ; 
+
+- Tổ_chức phát_hành mua lại cổ_phiếu của cổ_đông biểu_quyết phản_đối quyết_định về việc tổ_chức lại công_ty hoặc thay_đổi quyền , nghĩa_vụ của cổ_đông quy_định tại Điều_lệ công_ty ; 
+
+- Tổ_chức phát_hành dùng cổ_phiếu quỹ , cổ_phiếu thu_hồi , công_đoàn của tổ_chức phát_hành dùng cổ_phiếu của mình từ các nguồn như được phân_phối , mua lại , thu_hồi để phân_phối , thưởng cho cán_bộ , công_nhân_viên ; 
+
+- Giao_dịch của cổ_đông sáng_lập trong thời_gian hạn_chế chuyển_nhượng phù_hợp với quy_định của pháp_luật ; 
+
+- Tổ_chức phát_hành thay_đổi cổ_đông chiến_lược trong thời_gian hạn_chế chuyển_nhượng ; 
+
+- Nhà_đầu_tư ủy_thác chuyển quyền sở_hữu_chứng_khoán của mình sang công_ty quản_lý quỹ trong trường_hợp công_ty quản_lý quỹ nhận quản_lý danh_mục đầu_tư ủy_thác bằng tài_sản ;  hoặc công_ty quản_lý quỹ chuyển quyền sở_hữu_chứng_khoán được ủy_thác sang nhà đầu_tư ủy_thác hoặc công_ty quản_lý quỹ khác trong trường_hợp chấm_dứt hợp_đồng quản_lý danh_mục đầu_tư ;  hoặc công_ty quản_lý quỹ giải_thể , phá_sản , phải hoàn_trả nhà đầu_tư ủy_thác tài_sản hoặc chuyển danh_mục tài_sản sang công_ty quản_lý quỹ khác quản_lý ; 
+
+- Chuyển quyền sở_hữu theo bản_án , quyết_định của tòa_án , phán_quyết của trọng_tài hoặc quyết_định của cơ_quan thi_hành án ; 
+
+- Chia , tách , sáp_nhập , hợp_nhất , góp vốn bằng cổ_phiếu thành_lập doanh_nghiệp theo quy_định của <L rel="Reference"> Luật Dân_sự </L> , <L rel="Reference"> Luật Doanh_nghiệp </L> và <L rel="Reference"> Luật_Chứng_khoán </L> ;
+- Chào mua công_khai theo quy_định của pháp_luật ; 
+
+- Bán_đấu_giá phần vốn nhà_nước theo quy_định của pháp_luật ; 
+
+- Chuyển quyền sở_hữu_chứng_khoán cơ_cấu , chứng_chỉ quỹ trong giao_dịch hoán_đổi với quỹ hoán_đổi danh_mục ; 
+
+- Chuyển quyền sở_hữu giấy_tờ có_giá trên thị_trường tiền_tệ theo đề_nghị của Ngân_hàng Nhà_nước ; 
+
+- Chuyển quyền sở_hữu trong hoạt_động vay và cho vay chứng_khoán theo quy_định tại Điều 47 Thông_tư này gồm chuyển quyền sở_hữu_chứng_khoán từ bên cho vay sang bên vay và ngược_lại hoặc chuyển quyền sở_hữu tài_sản bảo_đảm là chứng_khoán từ bên vay chứng_khoán sang bên cho vay chứng_khoán trong trường_hợp bên vay bị mất khả_năng hoàn_trả khoản vay ; 
+
+- Chuyển quyền sở_hữu do xử_lý_tài_sản bảo_đảm là chứng_khoán trong các giao_dịch cầm_cố , thế_chấp , ký_quỹ .  Trường_hợp chuyển quyền sở_hữu liên_quan đến nhà đầu_tư nước_ngoài chỉ thực_hiện sau khi có ý_kiến của cơ_quan nhà_nước có thẩm_quyền ; 
+
+- Các trường_hợp chuyển quyền sở_hữu khác sau khi có ý_kiến của UBCKNN . 
+
+3 . Người sở_hữu_chứng_khoán phải thực_hiện lưu ký chứng_khoán trước khi thực_hiện chuyển quyền sở_hữu theo quy_định tại Khoản 1 và Khoản 2 Điều này .  Các trường_hợp chuyển quyền sở_hữu_chứng_khoán chưa lưu ký phải có ý_kiến của UBCKNN . 
+
+4 . VSD hướng_dẫn trình_tự , thủ_tục chuyển quyền sở_hữu_chứng_khoán đăng_ký ngoài hệ_thống giao_dịch quy_định tại Điểm b Khoản 2 Điều này . 
+
+Điều 20 .  Hủy đăng_ký chứng_khoán 
+
+1 . Việc_hủy đăng_ký đối_với chứng_khoán tại VSD được áp_dụng trong các trường_hợp sau : 
+
+a ) Trái_phiếu , tín_phiếu đến thời_gian đáo_hạn ; 
+
+b ) Trái_phiếu được tổ_chức phát_hành mua lại trước thời_gian đáo_hạn ; 
+
+c ) Tổ_chức phát_hành giải_thể , phá_sản , chia , tách , sáp_nhập , hợp_nhất , giảm vốn ; 
+
+d ) Tổ_chức phát_hành hoán_đổi cổ_phiếu , trái_phiếu ; 
+
+đ ) Chứng_chỉ quỹ đầu_tư hủy niêm_yết trên SGDCK ; 
+
+e ) Quỹ hoán_đổi danh_mục giải_thể ; 
+
+g ) Chứng_khoán của các công_ty đại_chúng đã đăng_ký tại VSD nhưng không còn đáp_ứng điều_kiện là công_ty đại_chúng và có yêu_cầu hủy đăng_ký ; 
+
+h ) Tự_nguyện hủy đăng_ký chứng_khoán của tổ_chức phát_hành đăng_ký chứng_khoán theo thỏa_thuận với VSD . 
+
+2 . VSD hướng_dẫn trình_tự , thủ_tục hủy đăng_ký chứng_khoán . 
+
+Điều 21 .  Thực_hiện quyền của người sở_hữu_chứng_khoán 
+
+1 . Trên_cơ_sở các tài_liệu dưới đây , VSD lập danh_sách người sở_hữu_chứng_khoán tại ngày đăng_ký cuối_cùng , tính_toán và phân_bổ quyền mà người sở_hữu_chứng_khoán được nhận theo quy_định của pháp_luật : 
+
+a ) Văn_bản thông_báo của tổ_chức phát_hành hoặc tổ_chức , cá_nhân có thẩm_quyền triệu_tập_họp Đại_hội_đồng cổ_đông theo quy_định của <L rel="Reference"> Luật_Doanh_nghiệp </L> ;
+b ) Ủy_quyền của tổ_chức phát_hành . 
+
+2 . Chỉ những người có tên trên danh_sách người sở_hữu_chứng_khoán do VSD lập vào ngày đăng_ký cuối_cùng mới được nhận các quyền phát_sinh liên_quan đến chứng_khoán mà mình sở_hữu . 
+
+3 . Tổ_chức phát_hành , tổ_chức , cá_nhân có thẩm_quyền triệu_tập_họp Đại_hội_đồng cổ_đông theo quy_định của <L rel="Reference"> Luật_Doanh_nghiệp </L> chỉ được sử_dụng danh_sách người sở_hữu_chứng_khoán do VSD cung_cấp vào mục_đích đã nêu trong văn_bản thông_báo quy_định tại Điểm a Khoản 1 Điều này và chịu mọi trách_nhiệm nếu sử_dụng sai mục_đích hoặc làm lộ bí_mật thông_tin .
+4 . Người sở_hữu_chứng_khoán đã lưu ký nhận quyền , lợi_ích được phân_bổ thông_qua VSD và các thành_viên lưu ký nơi người sở_hữu mở tài_khoản lưu ký .  Người sở_hữu_chứng_khoán chưa lưu ký nhận quyền , lợi_ích được phân_bổ trực_tiếp tại tổ_chức phát_hành hoặc tổ_chức được tổ_chức phát_hành ủy_quyền . 
+
+5 . VSD , thành_viên lưu ký chịu trách_nhiệm thực_hiện quyền cho người sở_hữu_chứng_khoán đăng_ký , lưu ký tại VSD , chịu trách_nhiệm về các thiệt_hại gây ra cho người sở_hữu_chứng_khoán do không tuân_thủ đúng các quy_định về thực_hiện quyền của Thông_tư này hoặc quy_chế nghiệp_vụ đăng_ký , lưu ký , bù_trừ và thanh_toán của VSD trong phạm_vi trách_nhiệm của mình . 
+
+6 . Việc lập danh_sách , cung_cấp danh_sách và tổ_chức thực_hiện quyền của người sở_hữu_chứng_khoán được thực_hiện trên cơ_sở ủy_quyền của tổ_chức phát_hành hoặc theo quy_chế nghiệp_vụ của VSD . 
+
+Điều 22 .  Quyền và nghĩa_vụ của tổ_chức phát_hành có chứng_khoán đăng_ký 
+
+1 . Tuân_thủ các quy_định của pháp_luật và các quy_chế về đăng_ký chứng_khoán , thực_hiện quyền đối_với người sở_hữu_chứng_khoán đăng_ký và các quy_chế nghiệp_vụ có liên_quan khác của VSD . 
+
+2 . Ký hợp_đồng cung_cấp dịch_vụ với VSD theo quy_định tại Điều 18 Thông_tư này . 
+
+3 . Cung_cấp kịp_thời và chính_xác cho VSD những thông_tin hoặc các tài_liệu cần_thiết để thực_hiện việc đăng_ký chứng_khoán và thực_hiện quyền theo quy_định hoặc khi VSD có yêu_cầu bằng văn_bản , chịu trách_nhiệm hoàn_toàn về các nội_dung thông_tin đã cung_cấp với VSD . 
+
+4 . Chịu trách_nhiệm về các thiệt_hại gây ra cho VSD và người sở_hữu_chứng_khoán khi không thực_hiện đúng quy_định của pháp_luật và quy_chế của VSD , trừ trường_hợp bất_khả_kháng . 
+
+5 . Nộp phí dịch_vụ do VSD cung_cấp theo quy_định của Bộ Tài_chính . 
+
+6 . Được VSD cung_cấp các dịch_vụ đăng_ký , thực_hiện quyền và các dịch_vụ khác theo thỏa_thuận giữa hai bên phù_hợp quy_định của Thông_tư này và các quy_định khác của pháp_luật . 
+
+7 . Được yêu_cầu VSD cung_cấp thông_tin người sở_hữu_chứng_khoán , thông_tin chứng_khoán đã đăng_ký theo thỏa_thuận giữa hai bên và phù_hợp với quy_định của Thông_tư này và quy_định khác của pháp_luật . 
+
+8 . Các quyền và nghĩa_vụ khác theo quy_định pháp_luật và quy_chế của VSD . 
+
+Điều 23 .  Nguyên_tắc lưu ký chứng_khoán 
+
+1 . Việc lưu ký chứng_khoán của khách_hàng tại VSD được thực_hiện theo nguyên_tắc : khách_hàng lưu ký chứng_khoán tại thành_viên lưu ký và thành_viên lưu ký tái_lưu ký chứng_khoán của khách_hàng tại VSD . 
+
+2 . Thành_viên lưu ký nhận lưu ký các chứng_khoán của khách_hàng với tư_cách là người được khách_hàng ủy_quyền thực_hiện các nghiệp_vụ đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán .  Để lưu ký chứng_khoán , khách_hàng phải ký hợp_đồng mở tài_khoản lưu ký chứng_khoán với thành_viên lưu ký . 
+
+3 . VSD nhận tái_lưu ký chứng_khoán từ các thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp .  Để tái_lưu ký chứng_khoán , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp phải mở tài_khoản lưu ký chứng_khoán đứng_tên thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp tại VSD . 
+
+Điều 24 .  Mở tài_khoản lưu ký chứng_khoán 
+
+1 . Thành_viên lưu ký phải mở tài_khoản lưu ký chứng_khoán tại VSD để thực_hiện các giao_dịch đối_với chứng_khoán lưu ký tại VSD .  Mỗi thành_viên lưu ký chỉ được mở một ( 01 ) tài_khoản lưu ký chứng_khoán tại VSD và không được mở tài_khoản lưu ký tại thành_viên lưu ký khác , trừ các trường_hợp sau : 
+
+a ) Thành_viên lưu ký mở tài_khoản tại thành_viên lập quỹ để thực_hiện giao_dịch hoán_đổi với quỹ hoán_đổi danh_mục ; 
+
+b ) Thành_viên lưu ký là công_ty_chứng_khoán đã rút nghiệp_vụ môi_giới chứng_khoán , rút nghiệp_vụ tự doanh , chấm_dứt tư_cách thành_viên tại các SGDCK được phép mở tài_khoản lưu ký tại các thành_viên lưu ký khác để xử_lý_số chứng_khoán còn lại trên tài_khoản tự doanh . 
+
+2 . Tổ_chức mở tài_khoản trực_tiếp được phép mở tài_khoản lưu ký chứng_khoán tại VSD theo hợp_đồng cung_cấp dịch_vụ với VSD . 
+
+3 . Mở tài_khoản lưu ký đối_với nhà đầu_tư : 
+
+a ) Tại mỗi thành_viên lưu ký , nhà đầu_tư chỉ được mở một ( 01 ) tài_khoản lưu ký chứng_khoán ; 
+
+b ) Nhà_đầu_tư là tổ_chức , cá_nhân nước_ngoài mở tài_khoản lưu ký chứng_khoán tại thành_viên lưu ký sau khi đăng_ký mã_số giao_dịch chứng_khoán theo quy_định của pháp_luật có liên_quan . 
+
+4 . Mỗi quỹ đầu_tư chỉ được mở một ( 01 ) tài_khoản lưu ký tại một ( 01 ) ngân_hàng lưu ký , ngân_hàng giám_sát theo quy_định của pháp_luật có liên_quan . 
+
+5 . Công_ty quản_lý quỹ phải mở tài_khoản lưu ký chứng_khoán tách_biệt cho công_ty và cho từng quỹ đầu_tư chứng_khoán do công_ty quản_lý .  Trường_hợp thực_hiện quản_lý danh_mục đầu_tư , tại mỗi ngân_hàng lưu ký , công_ty quản_lý quỹ được mở hai ( 02 ) tài_khoản lưu ký đứng_tên công_ty quản_lý quỹ thay_mặt cho nhà đầu_tư ủy_thác ( một ( 01 ) tài_khoản lưu ký cho khách_hàng ủy_thác trong nước và một ( 01 ) tài_khoản lưu ký cho nhà đầu_tư ủy_thác nước_ngoài ) . 
+
+6 . Quỹ đầu_tư nước_ngoài , tổ_chức đầu_tư nước_ngoài được quản_lý bởi nhiều công_ty quản_lý quỹ được mở nhiều tài_khoản lưu ký chứng_khoán theo nguyên_tắc cứ mỗi mã_số giao_dịch chứng_khoán được cấp thì được mở một ( 01 ) tài_khoản lưu ký chứng_khoán tại ngân_hàng lưu ký . 
+
+7 . Nhà_đầu_tư nước_ngoài là công_ty_chứng_khoán nước_ngoài thành_lập theo pháp_luật nước_ngoài được mở hai ( 02 ) tài_khoản lưu ký chứng_khoán tách_biệt tại thành_viên lưu ký để quản_lý_chứng_khoán thuộc sở_hữu của chính công_ty và khách_hàng của công_ty . 
+
+8 . Công_ty bảo_hiểm 100 % vốn nước_ngoài phải mở hai ( 02 ) tài_khoản lưu ký chứng_khoán tại một ( 01 ) thành_viên lưu ký để quản_lý tách_biệt các khoản đầu_tư từ nguồn vốn chủ sở_hữu và từ nguồn phí bảo_hiểm khi thực_hiện đầu_tư trên thị_trường chứng_khoán . 
+
+9 . VSD hướng_dẫn trình_tự , thủ_tục mở tài_khoản lưu ký chứng_khoán tại VSD . 
+
+Điều 25 .  Tài_khoản lưu ký chứng_khoán tại VSD 
+
+1 . Tài_khoản lưu ký chứng_khoán của thành_viên lưu ký và tổ_chức mở tài_khoản trực_tiếp tại VSD bao_gồm : 
+
+a ) Tài_khoản chứng_khoán giao_dịch ; 
+
+b ) Tài_khoản chứng_khoán tạm ngừng giao_dịch ; 
+
+c ) Tài_khoản chứng_khoán cầm_cố ; 
+
+d ) Tài_khoản chứng_khoán phong_tỏa , tạm giữ ; 
+
+đ ) Tài_khoản chứng_khoán chờ thanh_toán ; 
+
+e ) Tài_khoản chứng_khoán chờ về ; 
+
+g ) Tài_khoản chứng_khoán chờ cho vay ; 
+
+h ) Tài_khoản chứng_khoán ký_quỹ đảm_bảo khoản vay ; 
+
+i ) Tài_khoản chứng_khoán chờ giao_dịch ; 
+
+k ) Tài_khoản chứng_khoán sửa lỗi giao_dịch ; 
+
+l ) Các tài_khoản khác theo quy_định của pháp_luật . 
+
+2 . Tài_khoản lưu ký chứng_khoán của thành_viên lưu ký nêu tại Khoản 1 Điều này được phân_loại như sau : 
+
+a ) Tài_khoản của chính thành_viên lưu ký ; 
+
+b ) Tài_khoản cho khách_hàng trong nước của thành_viên lưu ký ; 
+
+c ) Tài_khoản cho khách_hàng nước_ngoài của thành_viên lưu ký . 
+
+3 . Tài_khoản lưu ký chứng_khoán của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp tại VSD bao_gồm các nội_dung sau đây : 
+
+a ) Số tài_khoản lưu ký chứng_khoán ; 
+
+b ) Tên và địa_chỉ của thành_viên lưu ký ; 
+
+c ) Số_lượng , loại và mã_chứng_khoán lưu ký ; 
+
+d ) Số_lượng chứng_khoán tăng giảm và lý_do của việc tăng giảm ; 
+
+đ ) Các thông_tin cần_thiết khác . 
+
+Điều 26 .  Quản_lý_tài_khoản lưu ký chứng_khoán tại VSD 
+
+1 . VSD quản_lý_tài_khoản lưu ký chứng_khoán theo nguyên_tắc sau : 
+
+a ) Chứng_khoán lưu ký tại VSD là tài_sản thuộc sở_hữu của khách_hàng , được quản_lý tách_biệt với tài_sản của VSD ; 
+
+b ) VSD không được sử_dụng chứng_khoán của khách_hàng vì lợi_ích của chính VSD hoặc của bên thứ ba , trừ trường_hợp pháp_luật có quy_định khác . 
+
+2 . VSD chỉ thực_hiện hạch_toán trên tài_khoản lưu ký chứng_khoán khi các chứng_từ hạch_toán đầy_đủ , hợp_lệ và là chứng_từ gốc . 
+
+3 . Tổng_số_dư trên các tài_khoản lưu ký chứng_khoán của khách_hàng mở tại thành_viên lưu ký phải luôn khớp với số_dư các tài_khoản lưu ký chứng_khoán của thành_viên lưu ký mở tại VSD .  Số_dư chi_tiết trên tài_khoản lưu ký chứng_khoán của từng khách_hàng tại thành_viên lưu ký phải khớp với số_liệu sở_hữu của khách_hàng đó tại VSD . 
+
+4 . Khi có bất_cứ sự thay_đổi hay sai_sót nào về thông_tin tài_khoản lưu ký chứng_khoán , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp có nghĩa_vụ báo_cáo và điều_chỉnh ngay với VSD .  Quy_trình , thủ_tục điều_chỉnh thông_tin tài_khoản lưu ký chứng_khoán thực_hiện theo hướng_dẫn của VSD . 
+
+5 . Khi phát_hiện sai_sót thông_tin trong tài_khoản lưu ký chứng_khoán của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp hoặc khách_hàng của thành_viên lưu ký , VSD phải thông_báo ngay cho thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp và các tổ_chức này có trách_nhiệm điều_chỉnh cho phù_hợp . 
+
+Điều 27 .  Tài_khoản lưu ký chứng_khoán của khách_hàng tại thành_viên lưu_ký 
+
+1 . Tài_khoản lưu ký chứng_khoán của khách_hàng mở tại thành_viên lưu ký bao_gồm : 
+
+2 . Tài_khoản lưu ký chứng_khoán của khách_hàng mở tại thành_viên lưu ký bao_gồm các nội_dung sau : 
+
+b ) Tên và địa_chỉ liên_lạc của khách_hàng là chủ tài_khoản ; 
+
+c ) Số chứng_minh nhân_dân và ngày cấp đối_với khách_hàng cá_nhân là người Việt_Nam , số Giấy chứng_nhận đăng_ký kinh_doanh hoặc Giấy_phép thành_lập và ngày cấp đối_với khách_hàng là tổ_chức trong nước , mã_số giao_dịch chứng_khoán và ngày cấp đối_với khách_hàng nước_ngoài ; 
+
+d ) Số_lượng , loại và mã_chứng_khoán lưu ký ; 
+
+đ ) Số_lượng chứng_khoán lưu ký tăng , giảm và lý_do của việc tăng , giảm ; 
+
+e ) Các thông_tin cần_thiết khác . 
+
+3 . Đối_với hoạt_động quản_lý danh_mục đầu_tư của công_ty quản_lý quỹ thì tài_khoản lưu ký tại ngân_hàng lưu ký phải có đầy_đủ thông_tin về khách_hàng ủy_thác theo quy_định tại Điểm b , c , d , đ và e Khoản 2 Điều này . 
+
+Điều 28 .  Quản_lý_tài_khoản lưu ký chứng_khoán tại thành_viên lưu_ký 
+
+1 . Thành_viên lưu ký phải quản_lý các tài_khoản lưu ký chứng_khoán của khách_hàng theo nguyên_tắc sau : 
+
+a ) Thành_viên lưu ký phải mở tài_khoản lưu ký chứng_khoán chi_tiết cho từng khách_hàng và quản_lý tách_biệt tài_sản cho từng khách_hàng ; 
+
+b ) Chứng_khoán lưu ký của khách_hàng tại thành_viên lưu ký là tài_sản thuộc sở_hữu của khách_hàng và được quản_lý tách_biệt với tài_sản của thành_viên lưu ký ; 
+
+c ) Thành_viên lưu ký không được sử_dụng chứng_khoán trong tài_khoản lưu ký chứng_khoán của khách_hàng vì lợi_ích của bên thứ ba hoặc vì lợi_ích của chính thành_viên lưu ký trừ trường_hợp_thành_viên lưu ký là công_ty_chứng_khoán xử_lý_chứng_khoán trên tài_khoản của khách_hàng trong giao_dịch ký_quỹ phù_hợp với quy_định của pháp_luật ; 
+
+d ) Thành_viên lưu ký có trách_nhiệm thông_báo kịp_thời và đầy_đủ các quyền_lợi phát_sinh liên_quan đến chứng_khoán lưu ký cho khách_hàng ; 
+
+đ ) Thành_viên lưu ký có trách_nhiệm bảo_mật các thông_tin liên_quan đến sở_hữu_chứng_khoán của khách_hàng ; 
+
+e ) Thành_viên lưu ký có trách_nhiệm cập_nhật hàng ngày thông_tin mở , đóng tài_khoản lưu ký của khách_hàng thực_hiện trong ngày tại thành_viên lưu ký cho VSD và thực_hiện đối_chiếu thông_tin số_dư tài_khoản lưu ký của từng khách_hàng với số_liệu sở_hữu_chứng_khoán của khách_hàng tại VSD trên cơ_sở các số_liệu về sở_hữu_chứng_khoán của khách_hàng mà VSD cung_cấp cho thành_viên lưu ký .  Trình_tự , thủ_tục thực_hiện cập_nhật thông_tin tài_khoản và đối_chiếu số_dư thực_hiện theo quy_định của VSD . 
+
+2 . Theo yêu_cầu của khách_hàng , thành_viên lưu ký phải gửi cho từng khách_hàng bản Sao kê tài_khoản lưu ký chứng_khoán sau một ( 01 ) ngày làm_việc kể từ ngày có yêu_cầu . 
+
+3 . Khách_hàng có nghĩa_vụ thông_báo ngay cho thành_viên lưu ký khi có bất_cứ sự thay_đổi hay sai_sót nào về những thông_tin tài_khoản lưu ký chứng_khoán của khách_hàng tại thành_viên lưu ký . 
+
+Điều 29 .  Hiệu_lực lưu ký chứng_khoán 
+
+1 . Việc lưu ký chứng_khoán tại VSD có hiệu_lực kể từ thời_điểm VSD thực_hiện hạch_toán trên tài_khoản lưu ký chứng_khoán liên_quan của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp mở tại VSD . 
+
+2 . Việc hạch_toán , chuyển_khoản chứng_khoán bằng bút_toán ghi sổ giữa các tài_khoản lưu ký chứng_khoán của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp hoặc khách_hàng lưu ký tại VSD có hiệu_lực pháp_lý như đối_với chuyển_giao chứng_khoán vật_chất và được pháp_luật thừa_nhận . 
+
+Điều 30 .  Ký_gửi chứng_khoán 
+
+1 . Việc ký_gửi chứng_khoán của khách_hàng tại VSD ( trừ trường_hợp ký_gửi trái_phiếu Chính_phủ , trái_phiếu được Chính_phủ bảo_lãnh , trái_phiếu chính_quyền địa_phương , tín_phiếu kho_bạc ) được thực_hiện theo nguyên_tắc sau : 
+
+a ) Khách_hàng ký_gửi chứng_khoán vào VSD thông_qua thành_viên lưu ký nơi mình mở tài_khoản ; 
+
+b ) Thành_viên lưu ký có trách_nhiệm làm thủ_tục nhận chứng_khoán ký_gửi của khách_hàng và tái ký_gửi vào VSD trong vòng một ( 01 ) ngày làm_việc kể từ ngày nhận được hồ_sơ hợp_lệ của khách_hàng ; 
+
+c ) VSD có trách_nhiệm xử_lý hồ_sơ ký_gửi chứng_khoán trong vòng một ( 01 ) ngày làm_việc kể từ khi nhận được hồ_sơ hợp_lệ của thành_viên lưu ký ; 
+
+d ) VSD hướng_dẫn trình_tự , thủ_tục ký_gửi chứng_khoán của thành_viên lưu ký tại VSD . 
+
+2 . Thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp , khách_hàng ký_gửi chứng_khoán không hợp_lệ , chứng_khoán giả_mạo , bị thông_báo mất_cắp hoặc không có đủ thông_tin theo yêu_cầu phải hoàn_toàn chịu trách_nhiệm về việc ký_gửi số chứng_khoán này và phải bồi_thường cho các bên liên_quan thiệt_hại do việc lưu ký chứng_khoán đó gây ra . 
+
+3 . VSD thực_hiện yêu_cầu ký_gửi chứng_khoán cho nhà đầu_tư đồng_thời với đăng_ký chứng_khoán khi có yêu_cầu từ tổ_chức phát_hành đứng ra đại_diện cho các cổ_đông .  VSD hướng_dẫn trình_tự , thủ_tục ký_gửi chứng_khoán đối_với trường_hợp này . 
+
+4 . VSD thực_hiện hạch_toán chứng_khoán vào tài_khoản lưu ký chứng_khoán của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp hoặc khách_hàng của thành_viên lưu ký có liên_quan trong các trường_hợp ký_gửi trái_phiếu Chính_phủ , trái_phiếu được Chính_phủ bảo_lãnh , trái_phiếu chính_quyền địa_phương , tín_phiếu kho_bạc và ký_gửi cổ_phiếu , chứng_chỉ quỹ đăng_ký bổ_sung phát_sinh từ các chứng_khoán đã lưu ký tại VSD .  VSD hướng_dẫn trình_tự , thủ_tục ký_gửi chứng_khoán đối_với các trường_hợp này . 
+
+5 . Trường_hợp tổ_chức phát_hành quản_lý_chứng_khoán bằng hình_thức ghi sổ trên tài_khoản và không phát_hành tờ chứng_chỉ , việc ký_gửi chứng_khoán của nhà đầu_tư được thực_hiện theo hướng_dẫn của VSD . 
+
+Điều 31 .  Rút_chứng_khoán 
+
+1 . Rút_chứng_khoán theo yêu_cầu : 
+
+a ) Khách_hàng chỉ được yêu_cầu rút chứng_khoán trong phạm_vi số_lượng chứng_khoán sở_hữu trên các tài_khoản lưu ký , trừ các chứng_khoán đang bị tạm giữ , phong_tỏa ; 
+
+b ) Thành_viên lưu ký phải chuyển cho VSD hồ_sơ rút chứng_khoán trong vòng một ( 01 ) ngày làm_việc kể từ ngày nhận được hồ_sơ hợp_lệ của khách_hàng ; 
+
+c ) VSD có trách_nhiệm xử_lý hồ_sơ rút chứng_khoán trong vòng một ( 01 ) ngày làm_việc kể từ khi nhận được hồ_sơ hợp_lệ của thành_viên lưu ký ; 
+
+d ) Thông_tin sở_hữu_chứng_khoán của nhà đầu_tư rút chứng_khoán lưu ký được ghi_nhận vào danh_sách người sở_hữu_chứng_khoán chưa lưu ký ; 
+
+đ ) Tổ_chức phát_hành có trách_nhiệm cấp lại giấy chứng_nhận/sổ chứng_nhận sở_hữu_chứng_khoán cho người sở_hữu_chứng_khoán . 
+
+2 . Việc rút chứng_khoán hết hiệu_lực lưu_hành , rút chứng_khoán do_hủy đăng_ký_tự_nguyện được thực_hiện theo nguyên_tắc VSD tự_động hạch_toán giảm số_lượng chứng_khoán lưu ký trên tài_khoản lưu ký chứng_khoán của các thành_viên liên_quan sau khi tổ_chức phát_hành hoàn_tất việc hủy đăng_ký chứng_khoán tại VSD . 
+
+3 . VSD hướng_dẫn trình_tự , thủ_tục rút chứng_khoán tại VSD . 
+
+Điều 32 .  Chuyển_khoản chứng_khoán 
+
+1 . Việc chuyển_khoản để thanh_toán các giao_dịch mua , bán thực_hiện thông_qua hệ_thống giao_dịch của SGDCK được thực_hiện theo quy_định về bù_trừ và thanh_toán giao_dịch chứng_khoán tại Chương VI_Thông_tư này . 
+
+2 . VSD được thực_hiện chuyển_khoản chứng_khoán lưu ký không qua hệ_thống giao_dịch tập_trung của SGDCK trong các trường_hợp sau : 
+
+a ) Khách_hàng tất toán tài_khoản lưu ký tại thành_viên lưu ký này sang tài_khoản lưu ký tại thành_viên lưu ký khác ; 
+
+b ) Chuyển_khoản chứng_khoán từ tài_khoản lưu ký của khách_hàng tại thành_viên lưu ký này sang tài_khoản lưu ký của chính_khách_hàng tại thành_viên lưu ký khác ; 
+
+c ) Chuyển_khoản phục_vụ giao_dịch giấy_tờ có_giá trên thị_trường tiền_tệ ; 
+
+d ) Chuyển_khoản chứng_khoán do chuyển danh_mục đầu_tư giữa các tài_khoản lưu ký theo yêu_cầu của nhà đầu_tư nước_ngoài ; 
+
+đ ) Chuyển_khoản chứng_khoán do thay_đổi thông_tin về loại chứng_khoán , điều_chỉnh sai_sót về số_lượng chứng_khoán sở_hữu ; 
+
+e ) Khi thành_viên lưu ký nơi khách_hàng đang mở tài_khoản bị UBCKNN thu_hồi Giấy chứng_nhận đăng_ký hoạt_động lưu ký chứng_khoán , rút nghiệp_vụ môi_giới chứng_khoán hoặc bị VSD thu_hồi Giấy chứng_nhận thành_viên lưu ký ; 
+
+g ) Khi tổ_chức mở tài_khoản trực_tiếp chấm_dứt hợp_đồng cung_cấp dịch_vụ với VSD ; 
+
+h ) Các trường_hợp chuyển quyền sở_hữu theo quy_định tại Khoản 1 và Điểm b Khoản 2 Điều 19 Thông_tư này ; 
+
+i ) Các trường_hợp chuyển_khoản khác sau khi có ý_kiến của UBCKNN . 
+
+3 . Thành_viên lưu ký phải chuyển cho VSD hồ_sơ chuyển_khoản chứng_khoán trong vòng một ( 01 ) ngày làm_việc kể từ ngày nhận được yêu_cầu chuyển_khoản của khách_hàng . 
+
+4 . VSD có trách_nhiệm xử_lý hồ_sơ chuyển_khoản chứng_khoán trong vòng một ( 01 ) ngày làm_việc đối_với các trường_hợp chuyển_khoản quy_định tại Điểm a , b , c , d , đ và tối_đa năm ( 05 ) ngày làm_việc đối_với các trường_hợp chuyển_khoản quy_định tại Điểm e , g , h , i Khoản 2 Điều này kể từ ngày nhận được hồ_sơ hợp_lệ . 
+
+5 . VSD hướng_dẫn trình_tự , thủ_tục chuyển_khoản chứng_khoán tại VSD . 
+
+Điều 33 .  Phong_tỏa , giải_tỏa chứng_khoán 
+
+1 . Phong_tỏa , giải_tỏa chứng_khoán theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền : 
+
+a ) VSD chỉ thực_hiện phong_tỏa , giải_tỏa chứng_khoán sau khi có yêu_cầu bằng văn_bản của cơ_quan nhà_nước có thẩm_quyền theo quy_định của pháp_luật ; 
+
+b ) Sau khi phong_tỏa , giải_tỏa chứng_khoán trên các tài_khoản lưu ký chứng_khoán , VSD có trách_nhiệm thông_báo để thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp thực_hiện phong_tỏa , giải_tỏa chứng_khoán , đồng_thời thông_báo cho khách_hàng có liên_quan của thành_viên lưu ký . 
+
+2 . Phong_tỏa , giải_tỏa chứng_khoán của nhà đầu_tư , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp : 
+
+a ) VSD thực_hiện phong_tỏa , giải_tỏa chứng_khoán của nhà đầu_tư khi có yêu_cầu của chính nhà đầu_tư gửi cho VSD thông_qua thành_viên lưu ký nơi nhà đầu_tư có chứng_khoán lưu ký thực_hiện phong_tỏa , giải_tỏa .  Trường_hợp nhà đầu_tư sử_dụng chứng_khoán của mình làm tài_sản bảo_đảm cho các khoản vay tại các tổ_chức tín_dụng , thành_viên lưu ký nơi nhà đầu_tư mở tài_khoản lưu ký chứng_khoán có trách_nhiệm phong_tỏa , giải_tỏa chứng_khoán trên tài_khoản chứng_khoán cầm_cố của khách_hàng , đồng_thời gửi hồ_sơ đề_nghị phong_tỏa , giải_tỏa chứng_khoán cầm_cố cho VSD để hạch_toán tương_ứng tại VSD ; 
+
+b ) VSD thực_hiện phong_tỏa , giải_tỏa chứng_khoán của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp khi có yêu_cầu của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp gửi cho VSD .  Trường_hợp_thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp sử_dụng chứng_khoán của mình làm tài_sản bảo_đảm cho các khoản vay tại các tổ_chức tín_dụng , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp có trách_nhiệm gửi hồ_sơ đề_nghị phong_tỏa , giải_tỏa chứng_khoán cầm_cố tại VSD để hạch_toán tương_ứng tại VSD ; 
+
+c ) VSD có trách_nhiệm xử_lý hồ_sơ phong_tỏa , giải_tỏa chứng_khoán cầm_cố trong vòng một ( 01 ) ngày làm_việc kể từ ngày nhận được hồ_sơ hợp_lệ . 
+
+3 . VSD hướng_dẫn trình_tự , thủ_tục phong_tỏa , giải_tỏa chứng_khoán theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền , chứng_khoán cầm_cố tại VSD quy_định tại Khoản 1 và Khoản 2 Điều này . 
+
+Điều 34 .  Hoạt_động bù_trừ và thanh_toán giao_dịch chứng_khoán 
+
+1 . Hoạt_động bù_trừ và thanh_toán giao_dịch chứng_khoán theo quy_định tại Thông_tư này là việc tổ_chức hoạt_động bù_trừ và thanh_toán đối_với giao_dịch chứng_khoán thực_hiện_tại các SGDCK bao_gồm cả giao_dịch trái_phiếu Chính_phủ , trái_phiếu được Chính_phủ bảo_lãnh , trái_phiếu chính_quyền địa_phương và tín_phiếu kho_bạc . 
+
+2 . Trường_hợp có sự thay_đổi về cơ_chế thanh_toán giao_dịch trái_phiếu Chính_phủ , trái_phiếu được Chính_phủ bảo_lãnh , trái_phiếu chính_quyền địa_phương và tín_phiếu kho_bạc thì việc tổ_chức hoạt_động bù_trừ và thanh_toán giao_dịch được thực_hiện theo văn_bản quy_phạm pháp_luật có liên_quan . 
+
+3 . Hoạt_động bù_trừ và thanh_toán giao_dịch chứng_khoán phái_sinh được quy_định tại văn_bản quy_phạm pháp_luật về thị_trường giao_dịch chứng_khoán phái_sinh . 
+
+Điều 35 .  Nguyên_tắc bù_trừ và thanh_toán giao_dịch chứng_khoán 
+
+1 . VSD thanh_toán theo kết_quả bù_trừ đa_phương và thanh_toán theo từng giao_dịch cho các giao_dịch chứng_khoán thực_hiện_tại các SGDCK . 
+
+2 . Việc bù_trừ chứng_khoán được VSD thực_hiện theo từng chứng_khoán và tách_biệt theo loại tài_khoản môi_giới cho khách_hàng trong nước , tài_khoản môi_giới cho khách_hàng nước_ngoài và tài_khoản tự doanh của thành_viên lưu ký . 
+
+3 . Việc bù_trừ tiền được VSD thực_hiện cho từng thành_viên lưu ký trên cơ_sở bù_trừ chung giữa số tiền được nhận và số tiền phải trả cho các giao_dịch có cùng thời_gian , phương_thức thanh_toán tại các SGDCK và tách_biệt theo loại tài_khoản môi_giới cho khách_hàng trong nước , tài_khoản môi_giới cho khách_hàng nước_ngoài và tài_khoản tự doanh của thành_viên lưu ký . 
+
+4 . VSD thực_hiện thanh_toán các giao_dịch mua , bán chứng_khoán thực_hiện_tại các SGDCK căn_cứ vào kết_quả giao_dịch do SGDCK cung_cấp . 
+
+5 . Việc thanh_toán giao_dịch được thực_hiện theo nguyên_tắc chuyển_giao chứng_khoán đồng_thời với thanh_toán tiền ( DVP ) . 
+
+6 . UBCKNN hướng_dẫn cụ_thể về thời_hạn thực_hiện bán_chứng_khoán sau giao_dịch , sau khi được Bộ Tài_chính chấp_thuận . 
+
+7 . Tổng_Giám_đốc VSD quyết_định áp_dụng các phương_thức thanh_toán , thời_gian thanh_toán chứng_khoán sau khi được UBCKNN chấp_thuận . 
+
+8 . VSD hướng_dẫn trình_tự , thủ_tục bù_trừ và thanh_toán giao_dịch chứng_khoán thực_hiện_tại các SGDCK . 
+
+Điều 36 .  Thanh_toán giao_dịch của thành_viên lưu ký và tổ_chức mở tài_khoản trực_tiếp 
+
+1 . Các thành_viên lưu ký và tổ_chức mở tài_khoản trực_tiếp tại VSD phải mở tài_khoản tiền gửi thanh_toán bù_trừ tại ngân_hàng thanh_toán để thanh_toán tiền cho các giao_dịch chứng_khoán thực_hiện_tại các SGDCK . 
+
+2 . Trường_hợp khách_hàng mở tài_khoản lưu ký chứng_khoán tại thành_viên lưu ký là ngân_hàng thương_mại ( ngân_hàng lưu ký ) và đặt lệnh giao_dịch qua công_ty_chứng_khoán , việc thanh_toán giao_dịch sẽ do ngân_hàng lưu ký thực_hiện . 
+
+Điều 37 .  Đối_chiếu và xác_nhận giao_dịch 
+
+1 . Sau khi nhận kết_quả giao_dịch từ SGDCK , VSD có trách_nhiệm thông_báo kết_quả giao_dịch cho các thành_viên lưu ký và các tổ_chức mở tài_khoản trực_tiếp . 
+
+2 . Thành_viên lưu ký và tổ_chức mở tài_khoản trực_tiếp có trách_nhiệm đối_chiếu chi_tiết giao_dịch giữa lệnh gốc được lưu_giữ tại thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp với thông_báo kết_quả giao_dịch của VSD và xác_nhận lại với VSD . 
+
+Điều 38 .  Nguyên_tắc sửa lỗi sau giao_dịch 
+
+1 . VSD thực_hiện sửa lỗi sau giao_dịch của thành_viên lưu ký trong các trường_hợp_thành_viên lưu ký là công_ty_chứng_khoán đặt nhầm , sai lệnh của khách_hàng như : sai_số tài_khoản của khách_hàng , sai_chứng_khoán , sai mức giá , thừa lệnh , nhầm lệnh mua thành lệnh bán và ngược_lại , sai số_lượng chứng_khoán . 
+
+2 . Việc sửa lỗi sau giao_dịch được thực_hiện theo nguyên_tắc : 
+
+a ) Trường_hợp_thành_viên lưu ký sửa lỗi có tài_khoản tự doanh , lệnh giao_dịch của khách_hàng sẽ được VSD điều_chỉnh thành lệnh giao_dịch tự doanh của thành_viên lưu ký ; 
+
+b ) Trường_hợp_thành_viên lưu ký sửa lỗi không có tài_khoản tự doanh , VSD sẽ mở tài_khoản chứng_khoán sửa lỗi giao_dịch cho thành_viên lưu ký để hạch_toán tạm_thời số chứng_khoán mà thành_viên lưu ký được nhận hoặc phải trả do phải thực_hiện sửa lỗi .  Cơ_chế thực_hiện như sau : 
+
+- Khi được nhận chứng_khoán từ việc sửa lỗi , thành_viên lưu ký này phải có nghĩa_vụ bán ngay số chứng_khoán được nhận về trên tài_khoản chứng_khoán sửa lỗi giao_dịch vào phiên giao_dịch gần nhất để VSD tất toán tài_khoản ; 
+
+- Khi phải hoàn_trả chứng_khoán vay từ bên cho vay , thành_viên lưu ký này được phép duy_trì tài_khoản chứng_khoán sửa lỗi giao_dịch cho đến khi hoàn_tất nghĩa_vụ đối_với bên cho vay chứng_khoán . 
+
+3 . Đối_với các lỗi không thuộc các trường_hợp nêu tại Khoản 1 Điều này , Tổng_Giám_đốc VSD có thẩm_quyền xem_xét , xử_lý sau khi có ý_kiến chấp_thuận của UBCKNN . 
+
+4 . Trách_nhiệm của các bên liên_quan trong việc sửa lỗi sau giao_dịch : 
+
+a ) Các bên tham_gia giao_dịch phải chịu trách_nhiệm đối_với lỗi do mình gây ra trong phạm_vi quyền_hạn và trách_nhiệm của mình .  Thành_viên lưu ký chịu trách_nhiệm trong phạm_vi quyền_hạn và trách_nhiệm của mình đối_với lỗi sau giao_dịch của khách_hàng ; 
+
+b ) Trường_hợp lỗi của thành_viên lưu ký là công_ty_chứng_khoán dẫn đến việc khách_hàng của thành_viên lưu ký là ngân_hàng thương_mại ( ngân_hàng lưu ký ) thiếu_chứng_khoán để thanh_toán , ngân_hàng lưu ký được phép đơn_phương từ_chối thanh_toán giao_dịch , thành_viên lưu ký là công_ty_chứng_khoán liên_quan phải chịu trách_nhiệm thanh_toán giao_dịch lỗi . 
+
+5 . Thành_viên lưu ký do sửa lỗi sau giao_dịch dẫn tới tạm_thời mất khả_năng thanh_toán chứng_khoán được áp_dụng các cơ_chế hỗ_trợ theo quy_định tại Điều 41 Thông_tư này . 
+
+6 . VSD hướng_dẫn trình_tự , thủ_tục sửa lỗi sau giao_dịch đối_với chứng_khoán giao_dịch qua SGDCK . 
+
+Điều 39 .  Xử_lý lỗi giao_dịch tự doanh của công_ty_chứng_khoán 
+
+1 . Trường_hợp công_ty_chứng_khoán nhập sai_số hiệu tài_khoản tự doanh vào hệ_thống giao_dịch của SGDCK , VSD sẽ thực_hiện điều_chỉnh về đúng số hiệu tài_khoản tự doanh của công_ty_chứng_khoán để thực_hiện thanh_toán giao_dịch . 
+
+2 . Trường_hợp công_ty_chứng_khoán nhập sai lệnh dẫn tới thiếu_chứng_khoán để thanh_toán hoặc thành_viên lập quỹ ETF bị thiếu_chứng_khoán hoặc chứng_chỉ quỹ ETF để thanh_toán do giao_dịch hoán_đổi không thành_công theo quy_định của <TT rel="Reference"> Thông_tư 229/2014/TT-BTC </TT> thì được áp_dụng các cơ_chế hỗ_trợ theo quy_định tại Điều 41 Thông_tư này .
+Điều 40 .  Xử_lý lỗi giao_dịch tự doanh trái_phiếu Chính_phủ 
+
+1 . Trường_hợp_thành_viên giao_dịch là công_ty_chứng_khoán , ngân_hàng lưu ký , tổ_chức mở tài_khoản trực_tiếp nhập sai_số hiệu tài_khoản tự doanh vào hệ_thống giao_dịch trái_phiếu chuyên_biệt của SGDCK Hà_Nội , VSD sẽ thực_hiện điều_chỉnh về đúng số hiệu tài_khoản tự doanh của thành_viên giao_dịch để thực_hiện thanh_toán giao_dịch . 
+
+2 . Trừ trường_hợp quy_định tại Khoản 1 Điều này , VSD sẽ thực_hiện loại_bỏ giao_dịch và không thanh_toán cho giao_dịch lỗi của thành_viên giao_dịch .  Thành_viên giao_dịch có trách_nhiệm bồi_thường tổn_thất phát_sinh ( nếu có ) cho tổ_chức , cá_nhân có giao_dịch đối_ứng liên_quan do giao_dịch không được thanh_toán . 
+
+Điều 41 .  Các biện_pháp khắc_phục tình_trạng mất khả_năng thanh_toán giao_dịch chứng_khoán 
+
+1 . Thành_viên lưu ký tạm_thời mất khả_năng thanh_toán giao_dịch chứng_khoán sẽ được áp_dụng các cơ_chế hỗ_trợ thanh_toán sau : 
+
+a ) Trường_hợp thiếu tiền : sử_dụng tiền vay của quỹ hỗ_trợ thanh_toán hoặc tiền vay của ngân_hàng thanh_toán ; 
+
+b ) Trường_hợp thiếu_chứng_khoán : sử_dụng chứng_khoán vay qua hệ_thống vay và cho vay chứng_khoán do VSD quản_lý . 
+
+2 . Trường_hợp đến ngày thanh_toán giao_dịch chứng_khoán , thành_viên lưu ký không đủ điều_kiện để vay tiền từ quỹ hỗ_trợ thanh_toán theo quy_chế quản_lý quỹ hỗ_trợ thanh_toán của VSD , không được ngân_hàng thanh_toán cho vay tiền theo quy_định của ngân_hàng thanh_toán hoặc không vay được chứng_khoán qua hệ_thống vay và cho vay chứng_khoán , VSD sẽ thực_hiện lùi thời_hạn thanh_toán đối_với giao_dịch tạm_thời mất khả_năng thanh_toán của thành_viên lưu ký để xử_lý theo quy_định tại Điều 44 Thông_tư này . 
+
+Điều 42 .  Cơ_chế xử_lý việc mất khả_năng thanh_toán tiền 
+
+1 . Cơ_chế sử_dụng quỹ hỗ_trợ thanh_toán : tùy theo giá_trị thực_tế của quỹ hỗ_trợ thanh_toán và tần_suất , mức_độ sử_dụng quỹ hỗ_trợ thanh_toán của thành_viên lưu ký , VSD quy_định_mức trần sử_dụng trong từng trường_hợp hỗ_trợ thanh_toán .  Lãi_suất vay quỹ hỗ_trợ thanh_toán do VSD quy_định sau khi tham_khảo ý_kiến của thành_viên lưu ký và được sự chấp_thuận của UBCKNN nhưng không vượt quá 150 % lãi_suất cơ_bản do Ngân_hàng Nhà_nước quy_định . 
+
+2 . Cơ_chế sử_dụng tiền vay từ ngân_hàng thanh_toán : thành_viên lưu ký phải đáp_ứng điều_kiện vay vốn theo quy_định của pháp_luật , ngân_hàng thanh_toán và ký hợp_đồng vay vốn hoặc thỏa_thuận hỗ_trợ tiền thanh_toán giao_dịch chứng_khoán với ngân_hàng thanh_toán .  Thỏa_thuận hỗ_trợ tiền thanh_toán giao_dịch gồm các nội_dung chính sau : 
+
+a ) Lãi_suất vay theo nguyên_tắc không vượt quá lãi_suất sử_dụng quỹ hỗ_trợ thanh_toán ; 
+
+b ) Thời_hạn vay ; 
+
+c ) Phương_thức đảm_bảo hoàn_trả khoản vay phù_hợp với các quy_định của pháp_luật . 
+
+3 . Thành_viên lưu ký mất khả_năng thanh_toán tiền phải chịu mọi chi_phí , tổn_thất phát_sinh và chịu xử_phạt theo quy_định của pháp_luật . 
+
+4 . VSD hướng_dẫn cụ_thể trình_tự , thủ_tục áp_dụng các cơ_chế hỗ_trợ xử_lý tình_trạng mất khả_năng thanh_toán tiền của thành_viên lưu ký . 
+
+Điều 43 .  Cơ_chế xử_lý việc mất khả_năng thanh_toán chứng_khoán 
+
+1 . Trường_hợp do sửa lỗi sau giao_dịch dẫn tới thiếu_chứng_khoán để thanh_toán , thành_viên lưu ký thực_hiện vay chứng_khoán qua hệ_thống vay và cho vay chứng_khoán của VSD . 
+
+2 . VSD hướng_dẫn cụ_thể trình_tự , thủ_tục áp_dụng cơ_chế vay và cho vay chứng_khoán để hỗ_trợ thanh_toán . 
+
+Điều 44 .  Lùi thời_hạn thanh_toán 
+
+1 . Việc lùi thời_hạn thanh_toán được thực_hiện theo nguyên_tắc sau : 
+
+a ) VSD sẽ thực_hiện tách riêng giao_dịch thiếu tiền , chứng_khoán để lùi thời_hạn thanh_toán đối_với các giao_dịch này ; 
+
+b ) Thời_hạn lùi thanh_toán tối_đa là ba ( 03 ) ngày làm_việc kể từ ngày làm_việc liền kề trước ngày thanh_toán của giao_dịch thiếu tiền , chứng_khoán ; 
+
+c ) Việc thanh_toán cho giao_dịch bị lùi thời_hạn thanh_toán được thực_hiện theo phương_thức trực_tiếp qua VSD ; 
+
+d ) Thành_viên lưu ký có giao_dịch bị lùi thời_hạn thanh_toán phải bồi_thường cho tổ_chức , cá_nhân có giao_dịch đối_ứng liên_quan theo mức 5 % giá_trị giao_dịch lùi thanh_toán/một ( 01 ) ngày lùi thanh_toán . 
+
+2 . VSD hướng_dẫn cụ_thể trình_tự , thủ_tục áp_dụng cơ_chế lùi thời_hạn thanh_toán . 
+
+Điều 45 .  Loại_bỏ không thanh_toán giao_dịch của thành_viên lưu_ký 
+
+1 . VSD có quyền loại_bỏ không thanh_toán giao_dịch chứng_khoán trong các trường_hợp sau : 
+
+a ) Thành_viên lưu ký đã áp_dụng cơ_chế lùi thời_hạn thanh_toán nhưng vẫn không có đủ tiền , chứng_khoán để thanh_toán giao_dịch ; 
+
+b ) Thành_viên , khách_hàng thành_viên bán khống_chứng_khoán khi chưa có hướng_dẫn của Bộ Tài_chính ; 
+
+c ) Thông_tin về danh_tính tài_khoản giao_dịch của khách_hàng có liên_quan không được cập_nhật tại ngày làm_việc liền kề sau ngày thực_hiện giao_dịch . 
+
+2 . Thành_viên lưu ký có giao_dịch bị loại_bỏ không thanh_toán phải bồi_thường cho tổ_chức , cá_nhân có giao_dịch đối_ứng liên_quan theo mức 20 % giá_trị không thanh_toán .  Trường_hợp là hành_vi vi_phạm pháp_luật , thành_viên lưu ký còn bị xử_lý theo quy_định của pháp_luật về xử_lý vi_phạm hành_chính trong lĩnh_vực chứng_khoán và thị_trường chứng_khoán . 
+
+3 . VSD có trách_nhiệm thông_báo cho SGDCK các giao_dịch loại_bỏ không thanh_toán . 
+
+Điều 46 .  Quản_lý quỹ hỗ_trợ thanh_toán 
+
+1 . Quỹ hỗ_trợ thanh_toán được hình_thành từ các khoản đóng_góp bằng tiền của các thành_viên lưu ký theo mức cố_định ban_đầu và mức đóng_góp hàng năm . 
+
+2 . Tiền đóng_góp vào quỹ hỗ_trợ thanh_toán thuộc sở_hữu của thành_viên lưu ký và được VSD quản_lý tách_biệt với tài_sản của VSD .  Thành_viên lưu ký chỉ được hoàn_trả lại số tiền đóng_góp quỹ hỗ_trợ thanh_toán khi thành_viên lưu ký đó bị thu_hồi Giấy chứng_nhận thành_viên lưu ký theo quy_định tại quy_chế nghiệp_vụ của VSD . 
+
+3 . Lãi phát_sinh từ tiền đóng_góp quỹ hỗ_trợ thanh_toán được phân_bổ cho thành_viên lưu ký phù_hợp với số tiền và thời_gian đóng_góp của từng thành_viên lưu ký sau khi trừ phí quản_lý cho VSD . 
+
+4 . VSD hướng_dẫn việc lập , quản_lý và sử_dụng quỹ hỗ_trợ thanh_toán . 
+
+Điều 47 .  Quản_lý hệ_thống vay và cho vay chứng_khoán 
+
+1 . Hệ_thống vay và cho vay chứng_khoán của VSD nhằm mục_đích : 
+
+a ) Hỗ_trợ thanh_toán giao_dịch chứng_khoán trong trường_hợp_thành_viên lưu ký của VSD do sửa lỗi sau giao_dịch dẫn đến tạm_thời thiếu_hụt_chứng_khoán để thanh_toán ; 
+
+b ) Hỗ_trợ các tổ_chức đủ tiêu_chí làm thành_viên lập quỹ ETF có đủ chứng_khoán để góp vốn , thực_hiện giao_dịch của quỹ hoán_đổi danh_mục và giao_dịch hạn_chế chênh_lệch giá theo quy_định hiện_hành ; 
+
+c ) Các mục_đích khác sau khi được sự chấp_thuận của Bộ Tài_chính . 
+
+2 . Hệ_thống vay và cho vay chứng_khoán thực_hiện trên các nguyên_tắc sau : 
+
+a ) Hoạt_động vay và cho vay chứng_khoán được thực_hiện theo cơ_chế thỏa_thuận giữa bên vay và bên cho vay trên nguyên_tắc bên vay phải có tài_sản bảo_đảm ; 
+
+b ) Tài_sản bảo_đảm có_thể là tiền hoặc chứng_khoán đủ điều_kiện .  Việc xác_định giá_trị tài_sản bảo_đảm được thực_hiện theo nguyên_tắc : tỷ_lệ chiết_khấu đối_với tài_sản bảo_đảm bằng tiền là 0 % , bằng trái_phiếu Chính_phủ , trái_phiếu được Chính_phủ bảo_lãnh , trái_phiếu chính_quyền địa_phương tối_thiểu là 5 % , bằng các loại chứng_khoán khác tối_thiểu là 30 % .  VSD quy_định tỷ_lệ chiết_khấu tài_sản bảo_đảm sau khi được sự chấp_thuận của UBCKNN ; 
+
+c ) Giá_trị tài_sản bảo_đảm phải đạt tỷ_lệ tối_thiểu 110 % giá_trị khoản vay .  VSD quy_định tỷ_lệ giá_trị tài_sản bảo_đảm so với giá_trị khoản vay sau khi được UBCKNN chấp_thuận ; 
+
+d ) Lãi_suất cho vay được thỏa_thuận trên nguyên_tắc tuân_thủ các quy_định pháp_luật có liên_quan ; 
+
+đ ) Thời_hạn vay , cho vay chứng_khoán tối_đa là năm ( 05 ) ngày làm_việc đối_với thỏa_thuận vay để hỗ_trợ thanh_toán giao_dịch chứng_khoán và tối_đa không quá chín_mươi ( 90 ) ngày đối_với thỏa_thuận vay , cho vay để góp vốn hoặc thực_hiện giao_dịch hoán_đổi với quỹ hoán_đổi danh_mục .  Việc gia_hạn khoản vay thực_hiện theo thỏa_thuận của bên vay và bên cho vay nhưng tối_đa không quá ba ( 03 ) lần ; 
+
+e ) Khoản vay phải được hoàn_trả bằng_chứng_khoán đã vay hoặc hoàn_trả bằng tiền sau khi được chấp_thuận của bên cho vay .  Trường_hợp bên cho vay nhận hoàn_trả khoản vay bằng_chứng_khoán dẫn tới vượt tỷ_lệ sở_hữu tối_đa theo quy_định , phần vượt quá phải được hoàn_trả bằng tiền ; 
+
+g ) Trường_hợp bên cho vay nhận chuyển_giao tài_sản bảo_đảm bằng_chứng_khoán khi bên vay mất khả_năng thanh_toán dẫn tới vượt tỷ_lệ sở_hữu tối_đa theo quy_định , bên cho vay có trách_nhiệm bán số chứng_khoán vượt tỷ_lệ sở_hữu tối_đa theo quy_định trong ngày giao_dịch kế_tiếp ngày nhận chuyển_giao . 
+
+3 . VSD có trách_nhiệm tổ_chức , quản_lý , vận_hành hệ_thống vay và cho vay chứng_khoán tại VSD . 
+
+4 . VSD hướng_dẫn cụ_thể về tổ_chức hoạt_động vay và cho vay chứng_khoán . 
+
+Điều 48 .  Tiêu_chí đối_với ngân_hàng thanh_toán 
+
+1 . Tiêu_chí đối_với ngân_hàng thanh_toán , bao_gồm : 
+
+a ) Là ngân_hàng thương_mại Việt_Nam ; 
+
+b ) Có vốn điều_lệ thực góp trên 10.000 tỷ đồng ; 
+
+c ) Có kết_quả hoạt_động kinh_doanh có lãi trong vòng hai ( 02 ) năm gần nhất ; 
+
+d ) Đáp_ứng tỷ_lệ an_toàn vốn tối_thiểu theo quy_định của pháp_luật về ngân_hàng ; 
+
+đ ) Có hệ_thống cơ_sở vật_chất kỹ_thuật đảm_bảo thực_hiện thanh_toán giao_dịch và kết_nối được với VSD ; 
+
+e ) Có cam_kết với UBCKNN về việc cho vay thanh_toán giao_dịch chứng_khoán trong trường_hợp_thành_viên lưu ký mất khả_năng thanh_toán ; 
+
+g ) Hệ_thống có khả_năng lưu_giữ số_liệu thông_tin thanh_toán giao_dịch trong vòng ít_nhất năm ( 05 ) năm và có_thể cung_cấp ngay cho UBCKNN hoặc VSD trong vòng bốn mươi tám ( 48 ) giờ khi có yêu_cầu . 
+
+2 . UBCKNN chỉ được lựa_chọn duy_nhất một ( 01 ) ngân_hàng thương_mại làm ngân_hàng thanh_toán để cung_cấp dịch_vụ thanh_toán cho giao_dịch chứng_khoán trên các SGDCK .  Việc lựa_chọn ngân_hàng thanh_toán do UBCKNN thực_hiện định_kỳ năm ( 05 ) năm một lần . 
+
+Điều 49 .  Hồ_sơ đăng_ký làm ngân_hàng thanh_toán 
+
+1 . Hồ_sơ đăng_ký làm ngân_hàng thanh_toán bao_gồm : 
+
+a ) Giấy đăng_ký làm ngân_hàng thanh_toán ; 
+
+b ) Bản cung_cấp thông_tin về ngân_hàng , trong đó nêu rõ khả_năng đáp_ứng các tiêu_chí theo yêu_cầu tại Điều 48 Thông_tư này ; 
+
+c ) Bản_sao Quyết_định thành_lập và hoạt_động của ngân_hàng thương_mại ; 
+
+d ) Bản cam_kết với UBCKNN về việc cho vay thanh_toán giao_dịch chứng_khoán trong trường_hợp_thành_viên lưu ký mất khả_năng thanh_toán ; 
+
+đ ) Các tài_liệu khác liên_quan . 
+
+2 . Hồ_sơ theo quy_định tại Khoản 1 Điều này được lập thành một ( 01 ) bộ hồ_sơ gốc và nộp trực_tiếp hoặc gửi qua đường bưu_điện cho UBCKNN . 
+
+Điều 50 .  Thủ_tục chấp_thuận ngân_hàng thanh_toán 
+
+Trong vòng mười_lăm ( 15 ) ngày kể từ ngày nhận được hồ_sơ hợp_lệ , UBCKNN quyết_định chấp_thuận hoặc từ_chối đăng_ký làm ngân_hàng thanh_toán .  Trường_hợp từ_chối , UBCKNN phải có văn_bản trả_lời và nêu rõ lý_do . 
+
+Điều 51 .  Thay_thế ngân_hàng thanh_toán 
+
+1 . Trường_hợp ngân_hàng thanh_toán không duy_trì được các điều_kiện tại Điều 48 hoặc không thực_hiện nghĩa_vụ của mình theo quy_định tại Điều 52 Thông_tư này hoặc trong trường_hợp ngân_hàng thanh_toán không khôi_phục được các điều_kiện đối_với ngân_hàng thanh_toán theo thời_hạn do UBCKNN quy_định , UBCKNN có quyền lựa_chọn ngân_hàng thương_mại khác đáp_ứng đủ điều_kiện làm ngân_hàng thanh_toán . 
+
+2 . UBCKNN phải công_bố thông_tin về việc lựa_chọn ngân_hàng thương_mại làm ngân_hàng thanh_toán trong thời_gian tối_thiểu ba_mươi ( 30 ) ngày để các ngân_hàng thương_mại nộp hồ_sơ đăng_ký làm ngân_hàng thanh_toán .  Hồ_sơ , trình_tự , thủ_tục lựa_chọn ngân_hàng thanh_toán thực_hiện theo quy_định tại Điều 49 và Điều 50 Thông_tư này . 
+
+3 . Ngân_hàng thanh_toán bị thay_thế chịu trách_nhiệm hoạt_động thanh_toán giao_dịch chứng_khoán cho đến khi có ngân_hàng thanh_toán khác thay_thế và phải hoàn_tất các nghĩa_vụ liên_quan đến hoạt_động thanh_toán giao_dịch chứng_khoán đối_với khách_hàng . 
+
+Điều 52 .  Quyền và nghĩa_vụ của ngân_hàng thanh_toán 
+
+1 . Quyền của ngân_hàng thanh_toán : 
+
+a ) Chỉ_định hội_sở chính hoặc chi_nhánh làm đầu_mối tổ_chức thanh_toán giao_dịch chứng_khoán ; 
+
+b ) Đề_nghị VSD , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp tuân_thủ cam_kết về thanh_toán giữa các bên và cung_cấp thông_tin cần_thiết để thực_hiện thanh_toán giao_dịch ; 
+
+c ) Thu phí cung_cấp dịch_vụ theo quy_định của pháp_luật . 
+
+2 . Nghĩa_vụ của ngân_hàng thanh_toán : 
+
+a ) Thanh_toán đầy_đủ và đúng hạn cho các giao_dịch chứng_khoán đã thực_hiện trên SGDCK ; 
+
+b ) Hỗ_trợ tiền cho thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp khi thiếu tiền thanh_toán giao_dịch theo quy_định ; 
+
+c ) Ký_kết_hợp_đồng theo nguyên_tắc đảm_bảo cho thành_viên lưu ký vay khi thiếu tiền thanh_toán giao_dịch chứng_khoán .  Các điều_khoản của hợp_đồng phải theo nguyên_tắc cho vay tín_dụng , đảm_bảo tính công_bằng giữa các thành_viên lưu ký ; 
+
+d ) Tuân_thủ chế_độ thông_tin , báo_cáo và bảo_mật thông_tin theo quy_định của pháp_luật hiện_hành ; 
+
+đ ) Đảm_bảo cơ_sở vật_chất kỹ_thuật và nhân_lực cần_thiết phục_vụ_việc thanh_toán bằng tiền cho các giao_dịch chứng_khoán . 
+
+Điều 53 .  Báo_cáo định_kỳ 
+
+1 . VSD phải cung_cấp đầy_đủ dữ_liệu , báo_cáo định_kỳ cho UBCKNN theo các quy_định hiện_hành về giám_sát , thống_kê để phục_vụ công_tác giám_sát của UBCKNN , SGDCK . 
+
+2 . Định_kỳ hàng tháng các thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp phải gửi báo_cáo hoạt_động lưu ký chứng_khoán cho VSD theo nội_dung quy_định tại quy_chế hướng_dẫn nghiệp_vụ đăng_ký , lưu ký , bù_trừ và thanh_toán của VSD . 
+
+3 . Định_kỳ hàng tháng , hàng quý , hàng năm , ngân_hàng thanh_toán phải báo_cáo UBCKNN về hoạt_động thanh_toán bù_trừ các giao_dịch của ngân_hàng thanh_toán theo nội_dung quy_định tại Phụ_lục V_ban_hành kèm theo Thông_tư này . 
+
+4 . Thời_hạn báo_cáo được quy_định như sau : 
+
+a ) Báo_cáo tháng gửi UBCKNN trong vòng mười ( 10 ) ngày của tháng tiếp_theo ; 
+
+b ) Báo_cáo quý gửi UBCKNN trong vòng hai mươi ( 20 ) ngày của tháng đầu_tiên trong quý tiếp_theo ; 
+
+c ) Báo_cáo năm gửi UBCKNN trong vòng chín_mươi ( 90 ) ngày đầu của năm tiếp_theo . 
+
+Điều 54 .  Báo_cáo bất_thường 
+
+1 . VSD phải báo_cáo UBCKNN trong thời_hạn tối_đa bảy mươi hai ( 72 ) giờ kể từ khi xảy ra các sự_kiện sau đây : 
+
+a ) Đình_chỉ hoạt_động lưu ký chứng_khoán , đình_chỉ hoạt_động thanh_toán bù_trừ giao_dịch chứng_khoán của thành_viên lưu ký ; 
+
+b ) Thu_hồi Giấy chứng_nhận thành_viên lưu ký , Giấy chứng_nhận Chi_nhánh hoạt_động lưu ký ; 
+
+c ) Cung_cấp thông_tin theo chế_độ mật cho cơ_quan nhà_nước có thẩm_quyền ; 
+
+d ) Hoạt_động đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán bị tê_liệt một phần hay toàn_bộ . 
+
+2 . Ngân_hàng thanh_toán phải báo_cáo UBCKNN và VSD ngay lập_tức khi hoạt_động thanh_toán tiền giao_dịch chứng_khoán bị tê_liệt một phần hay toàn_bộ . 
+
+Điều 55 .  Báo_cáo theo yêu_cầu 
+
+1 . Ngoài các trường_hợp báo_cáo định_kỳ và bất_thường quy_định tại Điều 53 , 54 Thông_tư này , trong những trường_hợp cần_thiết , nhằm bảo_vệ lợi_ích chung và lợi_ích của nhà đầu_tư , UBCKNN có_thể yêu_cầu VSD , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp , ngân_hàng thanh_toán báo_cáo hoạt_động đăng_ký , lưu ký , bù_trừ và thanh_toán giao_dịch chứng_khoán . 
+
+2 . VSD , thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp và ngân_hàng thanh_toán phải báo_cáo UBCKNN trong thời_hạn bốn mươi tám ( 48 ) giờ kể từ khi nhận được yêu_cầu báo_cáo theo quy_định tại Khoản 1 Điều này . 
+
+Điều 56 .  Thanh_tra , giám_sát 
+
+1 . Thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp , nhân_viên liên_quan của thành_viên lưu ký , tổ_chức mở tài_khoản trực_tiếp và những nhân_viên liên_quan phải chịu sự giám_sát của VSD và chịu sự kiểm_tra , thanh_tra của UBCKNN phù_hợp với quy_định của pháp_luật hiện_hành . 
+
+2 . VSD , ngân_hàng thanh_toán chịu sự giám_sát , kiểm_tra và thanh_tra của UBCKNN phù_hợp với các quy_định của pháp_luật hiện_hành . 
+
+Điều 57 .  Xử_lý vi_phạm 
+
+Các hành_vi vi_phạm các quy_định tại Thông_tư này bị xử_phạt theo quy_định của pháp_luật hiện_hành . 
+
+Điều 58 .  Tổ_chức thực_hiện 
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 15 tháng 3 năm 2015 và thay_thế cho <QĐ rel="Replace"> Quyết_định số 87/2007/QĐ-BTC ngày 22 tháng 10 năm 2007 </QĐ> của Bộ_trưởng Bộ Tài_chính về việc ban_hành Quy_chế hoạt_động đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán và <TT rel="Replace"> Thông_tư số 43/2010/TT-BTC ngày 25 tháng 3 năm 2010 </TT> của Bộ_trưởng Bộ Tài_chính về việc sửa_đổi , bổ_sung Quy_chế hoạt_động đăng_ký , lưu ký , bù_trừ và thanh_toán chứng_khoán ban_hành kèm theo <QĐ rel="Others"> Quyết_định số 87/2007/QĐ-BTC ngày 22 tháng 10 năm 2007 </QĐ> của Bộ_trưởng Bộ Tài_chính .
+2 . Trên_cơ_sở quy_định tại Thông_tư này , VSD ban_hành các quy_chế hoạt_động nghiệp_vụ sau khi được sự chấp_thuận của UBCKNN . 
+
+3 . Quá_trình thực_hiện , nếu có vướng_mắc đề_nghị các tổ_chức , cá_nhân có liên_quan phản_ánh về Bộ Tài_chính để nghiên_cứu , hướng_dẫn , giải_quyết ./. 

@@ -1,0 +1,681 @@
+Thông tư Quy định các yêu cầu kỹ thuật về an toàn bảo mật đối với trang thiết bị phục vụ thanh toán thẻ ngân hàng
+
+Căn_cứ <L rel="Pursuant"> Luật Ngân_hàng Nhà_nước Việt_Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Các tổ_chức tín_dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29 tháng 11 năm 2005 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 35/2007/NĐ-CP ngày 08 tháng 3 năm 2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động ngân_hàng ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 </NĐ> của Chính_phủ về thanh_toán không dùng tiền_mặt ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 </NĐ> quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định các yêu_cầu kỹ_thuật về an_toàn bảo_mật đối_với trang_thiết_bị phục_vụ thanh_toán thẻ ngân_hàng tại Việt_Nam . 
+
+2 . Thông_tư này áp_dụng đối_với các tổ_chức hoạt_động thẻ , bao_gồm : 
+
+a ) Tổ_chức phát_hành thẻ ( viết tắt là TCPHT ) ; 
+
+b ) Tổ_chức thanh_toán thẻ ( viết tắt là TCTTT ) ; 
+
+c ) Tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán ( viết tắt là TCTGTT ) có trang_thiết_bị phục_vụ thanh_toán thẻ ngân_hàng . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Trang_thiết_bị phục_vụ thanh_toán thẻ bao_gồm các thiết_bị , phần_mềm sử_dụng cho việc tiếp_nhận , xử_lý các giao_dịch thẻ . 
+
+2 . ATM ( Automated_Teller Machine ) đặt bên ngoài là ATM đặt tại nơi công_cộng và nơi không có người giám_sát trực_tiếp thiết_bị . 
+
+3 . Máy POS ( Point_Of_Sale ) là thiết_bị chấp_nhận thẻ được sử_dụng để thực_hiện giao_dịch thẻ tại các đơn_vị chấp_nhận thẻ ( viết tắt là ĐVCNT ) . 
+
+4 . Máy_mpos ( Mobile Point_Of_Sale ) là máy POS bao_gồm phần_mềm và thiết_bị chuyên_dụng tích_hợp với thiết_bị thông_tin di_động . 
+
+5 . Thẻ ngân_hàng ( sau đây gọi tắt là thẻ ) bao_gồm thẻ từ và thẻ chip 
+
+a ) Thẻ từ là loại thẻ mà các thông_tin của thẻ và chủ thẻ được mã_hóa và lưu_trữ trong dải băng_từ ở mặt sau của thẻ ; 
+
+b ) Thẻ chip là loại thẻ được gắn vi_mạch máy_tính hoặc mạch tích_hợp để nhận_dạng , lưu_trữ thông_tin và giao_dịch của chủ thẻ , xử_lý vi_mô khác . 
+
+6 . Số thẻ là dãy số dùng để xác_định tổ_chức phát_hành và chủ thẻ . 
+
+7 . Dữ_liệu thẻ bao_gồm dữ_liệu chủ thẻ và dữ_liệu xác_thực thẻ . 
+
+a ) Dữ_liệu chủ thẻ bao_gồm các dữ_liệu chính sau : số thẻ ;  tên của chủ thẻ ( đối_với thẻ định_danh ) ;  ngày có hiệu_lực của thẻ ;  mã dịch_vụ ( 3 ( ba ) hoặc 4 ( bốn ) số trên bề_mặt thẻ để xác_định quyền_hạn trên giao_dịch ( nếu có ) ) ; 
+
+b ) Dữ_liệu xác_thực thẻ bao_gồm các dữ_liệu sau : toàn_bộ dữ_liệu trên dải băng_từ đối_với thẻ từ hoặc dữ_liệu trên vi_mạch máy_tính , mạch tích_hợp của thẻ chip ;  dãy số giá_trị hoặc mã xác_thực thẻ được in trên thẻ ;  mã_số xác_định chủ thẻ ( PIN ) hoặc khối mã_số xác_định chủ thẻ ( PIN block ) . 
+
+8 . Môi_trường dữ_liệu chủ thẻ là môi_trường bao_gồm các trang_thiết_bị và quy_trình xử_lý , truyền_dẫn , lưu_trữ dữ_liệu thẻ . 
+
+9 . Mã_hóa mạnh là phương_pháp mã_hóa dựa trên các thuật_toán đã được kiểm_tra , chấp_nhận rộng_rãi trên thế_giới cùng với độ dài khóa tối_thiểu 112 ( một trăm mười hai ) bit và kỹ_thuật quản_lý khóa phù_hợp .  Các thuật_toán tối_thiểu bao_gồm : AES ( 128 bit ) ;  TDES ( 112 bit ) ;  RSA ( 2048 bit ) ;  ECC ( 160 bit ) ;  elgamal ( 2048 bit ) . 
+
+10 .  Dữ_liệu nhật_ký là các dữ_liệu được hệ_thống thanh_toán thẻ hoặc con_người tạo ra để lưu lại các quá_trình giao_dịch , hoạt_động của hệ_thống bằng hình_thức điện_tử , văn_bản để phục_vụ hoạt_động giám_sát , tra soát , khiếu_nại . 
+
+11 .  Người có thẩm_quyền tại văn_bản này được hiểu là người đại_diện theo pháp_luật của tổ_chức hoặc người được người đại_diện theo pháp_luật của tổ_chức ủy_quyền . 
+
+12 .  Tổ_chức hỗ_trợ hoạt_động thẻ là các tổ_chức , cá_nhân có chuyên_môn được tổ_chức hoạt_động thẻ thuê hoặc hợp_tác nhằm cung_cấp hàng_hóa , dịch_vụ kỹ_thuật cho hệ_thống thanh_toán thẻ . 
+
+Điều 3 .  Thiết_lập và quản_lý cấu_hình thiết_bị an_ninh mạng 
+
+1 . Các yêu_cầu về thiết_lập và quản_lý cấu_hình thiết_bị an_ninh mạng : 
+
+a ) Việc thiết_lập và thay_đổi cấu_hình thiết_bị an_ninh mạng phải được kiểm_thử và được người có thẩm_quyền phê_duyệt trước khi thực_hiện ; 
+
+b ) Sơ_đồ kết_nối hệ_thống mạng phải được thiết_kế đáp_ứng yêu_cầu : 
+
+- Tách_biệt giữa vùng dữ_liệu chủ thẻ và các vùng mạng khác bao_gồm cả vùng mạng không dây ; 
+
+- Tách_biệt chức_năng của máy_chủ theo nguyên_tắc các máy_chủ ứng_dụng , máy_chủ cơ_sở dữ_liệu , máy_chủ_quản_lý tên_miền phải để trên các máy_chủ khác nhau ( có_thể là các máy_chủ ảo trên một máy_chủ vật_lý ) ; 
+
+- Có tường lửa tại các điểm kết_nối giữa các vùng của hệ_thống mạng ; 
+
+- Sơ_đồ mạng phải mô_tả được toàn_bộ đường đi của dữ_liệu chủ thẻ . 
+
+c ) Phân_định trách_nhiệm và quyền_hạn đối_với bộ_phận , cá_nhân trong quản_lý , cấu_hình các thiết_bị an_ninh mạng bằng văn_bản ; 
+
+d ) Không cung_cấp địa_chỉ mạng ( địa_chỉ IP ) nội_bộ và thông_tin định_tuyến cho các tổ_chức khác khi chưa được người có thẩm_quyền phê_duyệt ; 
+
+đ ) Quy_định bằng văn_bản các cổng , dịch_vụ , giao_thức sử_dụng trên hệ_thống mạng bao_gồm cả những cổng , giao_thức , dịch_vụ không an_toàn .  Triển_khai đầy_đủ các giải_pháp an_ninh khi sử_dụng các cổng , dịch_vụ và giao_thức không an_toàn ; 
+
+e ) Thực_hiện đánh_giá lại các chính_sách thiết_lập trên thiết_bị an_ninh mạng tối_thiểu 02 lần/năm nhằm loại_bỏ các chính_sách không sử_dụng , hết thời_hạn hoặc thiết_lập sai chính_sách , đảm_bảo chính_sách được thiết_lập trên thiết_bị đúng với các chính_sách đã được người có thẩm_quyền phê_duyệt . 
+
+2 . Cấu_hình thiết_bị an_ninh mạng 
+
+a ) Giới_hạn các truy_cập đến môi_trường dữ_liệu chủ thẻ , chỉ chấp_nhận các truy_cập thực_sự cần_thiết và kiểm_soát được ; 
+
+b ) Giới_hạn các truy_cập đến thiết_bị mạng và thiết_bị an_ninh mạng khớp đúng với trách_nhiệm của cá_nhân , bộ_phận được quy_định tại Điểm_c Khoản 1 Điều này ; 
+
+c ) Các tập_tin cấu_hình phải được đồng_bộ với cấu_hình đang hoạt_động của thiết_bị và được lưu_trữ an_toàn theo chế_độ mật để tránh các truy_cập trái_phép ; 
+
+d ) Thực_hiện thiết_lập chức_năng giám_sát trạng_thái gói tin hoặc lọc dữ_liệu tự_động trên thiết_bị tường lửa hoặc định_tuyến để phát_hiện các gói tin không hợp_lệ . 
+
+3 . Kiểm_soát các truy_cập trực_tiếp từ Internet đến môi_trường dữ_liệu chủ thẻ 
+
+a ) Thiết_lập vùng trung_gian cung_cấp dịch_vụ ra ngoài Internet ( xác_định rõ các máy_chủ , dịch_vụ , địa_chỉ IP , cổng , giao_thức được phép truy_cập ) .  Việc kết_nối ra , vào giữa Internet và môi_trường dữ_liệu chủ thẻ phải kết_nối qua vùng trung_gian cung_cấp dịch_vụ ; 
+
+b ) Thực_hiện các biện_pháp chống giả_mạo để ngăn_chặn và loại_bỏ các khả_năng giả_mạo địa_chỉ IP nguồn ; 
+
+c ) Không cho phép các truy_cập từ môi_trường dữ_liệu chủ thẻ ra ngoài Internet khi chưa được người có thẩm_quyền phê_duyệt . 
+
+4 . Yêu_cầu thiết_lập phần_mềm tường lửa trên tất_cả các thiết_bị , máy_tính cá_nhân có kết_nối đến dữ_liệu thẻ 
+
+a ) Các chính_sách an_ninh trên phần_mềm tường lửa chỉ cho phép thực_hiện các hoạt_động đủ phục_vụ cho nhu_cầu xử_lý các quy_trình nghiệp_vụ ; 
+
+b ) Đảm_bảo các thiết_lập trên phần_mềm tường lửa là đang hoạt_động ; 
+
+c ) Đảm_bảo người dùng không_thể thay_đổi cấu_hình phần_mềm tường lửa trên thiết_bị . 
+
+Điều 4 .  Thay_đổi , loại_bỏ hoặc vô_hiệu_hóa các tham_số , chức_năng mặc_định trong hệ_thống trang_thiết_bị phục_vụ thanh_toán thẻ 
+
+1 . Thay_đổi hoặc vô_hiệu_hóa các tham_số và chức_năng mặc_định của hệ_thống ( tài_khoản , mã khóa bí_mật , tham_số hệ điều_hành , phần_mềm , ứng_dụng không sử_dụng ;  tham_số trên máy POS không sử_dụng ;  chuỗi ký_tự mặc_định trong giao_thức giám_sát mạng ( giao_thức SNMP ) ) . 
+
+2 . Thay_đổi các tham_số mặc_định ( khóa mã_hóa trong mạng không dây ;  các mã khóa bí_mật ;  chuỗi ký_tự mặc_định trong giao_thức SNMP tại các môi_trường mạng không dây có kết_nối đến dữ_liệu thẻ ) . 
+
+3 . Chỉ bật hoặc cài_đặt các chức_năng mặc_định ( dịch_vụ , giao_thức , các chương_trình nền ) khi có nhu_cầu sử_dụng . 
+
+4 . Loại_bỏ các chức_năng , dịch_vụ , tập_tin , ổ_đĩa không cần_thiết .  Thực_hiện thêm các biện_pháp an_toàn bổ_sung ( các công_nghệ SSH , S-FTP , SSL , ipsec VPN ) khi sử_dụng các dịch_vụ , giao_thức không an_toàn để truyền dữ_liệu trên mạng ( chia_sẻ tệp_tin ( File_Sharing ) , netbios , Telnet , FTP ) . 
+
+Điều 5 .  An_toàn bảo_mật trong phát_triển , duy_trì các trang_thiết_bị phục_vụ thanh_toán thẻ 
+
+1 . Thực_hiện nhận_dạng các lỗ_hổng bảo_mật bằng công_cụ dò quét và các nguồn thông_tin của các tổ_chức an_ninh mạng bên ngoài có uy_tín để xác_định mức_độ ảnh_hưởng của các lỗ_hổng bảo_mật mới đối_với hệ_thống thanh_toán thẻ , bao_gồm các mức_độ ảnh_hưởng : mức_độ cao ;  mức_độ trung_bình ;  mức_độ thấp . 
+
+2 . Đảm_bảo toàn_bộ các thiết_bị phục_vụ thanh_toán thẻ được cập_nhật các bản vá lỗ_hổng bảo_mật đã được công_bố từ các nhà sản_xuất .  Đối_với các bản vá các lỗ_hổng bảo_mật mức_độ cao phải được cài_đặt trong thời_gian sớm nhất và không quá 01 tháng kể từ khi nhà sản_xuất công_bố_bản vá . 
+
+3 . Phát_triển các phần_mềm ứng_dụng trong lĩnh_vực thẻ đảm_bảo tuân_thủ các quy_định của pháp_luật và các chuẩn_mực phát_triển phần_mềm ứng_dụng được áp_dụng rộng_rãi trong lĩnh_vực công_nghệ thông_tin .  Trong chu_trình phát_triển phần_mềm phải tích_hợp với các yêu_cầu đảm_bảo an_toàn thông_tin và tối_thiểu đáp_ứng các yêu_cầu sau : 
+
+a ) Tách_biệt môi_trường phát_triển và kiểm_thử với môi_trường vận_hành ; 
+
+b ) Không sử_dụng dữ_liệu thẻ trong môi_trường vận_hành cho môi_trường kiểm_thử ; 
+
+c ) Loại_bỏ toàn_bộ dữ_liệu và tài_khoản kiểm_thử trước khi đưa phần_mềm vào sử_dụng ; 
+
+d ) Đánh_giá , xem_xét lại mã_nguồn phần_mềm ứng_dụng để phát_hiện , khắc_phục lỗ_hổng bảo_mật tiềm_tàng trước khi đưa vào sử_dụng .  Nhân_sự thực_hiện đánh_giá phải độc_lập với nhân_sự phát_triển mã nguồn ứng_dụng . 
+
+4 . Thực_hiện các thủ_tục kiểm_soát sự thay_đổi khi cập_nhật các bản vá lỗ_hổng bảo_mật , thay_đổi phần_mềm ứng_dụng : 
+
+a ) Xây_dựng tài_liệu đánh_giá tác_động đến toàn_bộ hệ_thống và được người có thẩm_quyền phê_duyệt trước khi thực_hiện ; 
+
+b ) Không được làm ảnh_hưởng đến tính an_toàn bảo_mật của hệ_thống ; 
+
+c ) Thực_hiện sao lưu , có kế_hoạch dự_phòng trước khi thực_hiện thay_đổi . 
+
+5 . Khi phát_triển mã nguồn ứng_dụng cần kiểm_tra , loại_bỏ các lỗ_hổng bảo_mật trong ứng_dụng , bao_gồm : 
+
+a ) Các lỗ_hổng chèn mã lệnh truy vấn cơ_sở dữ_liệu ( SQL injection ) , câu_lệnh hệ điều_hành ( OS injection ) , các phương_tiện lưu_trữ dữ_liệu khác ; 
+
+b ) Lỗi tràn bộ_nhớ đệm ; 
+
+c ) Lỗi mã_hóa không an_toàn trong lưu_trữ dữ_liệu ; 
+
+d ) Lỗi không an_toàn trong truyền_thông ; 
+
+đ ) Rò_rỉ thông_tin qua thông_báo lỗi ( error handling ) ; 
+
+e ) Các nguy_cơ chèn mã , đoạn mã javascript , jscript , DHTML , các thẻ HTML ; 
+
+g ) Các kiểm_soát truy_cập không đúng ; 
+
+h ) Các hình_thức tấn_công chiếm quyền xác_thực của người sử_dụng trên một website thông_qua một website giả_mạo khác ( Cross_Site Request Forgery ) ; 
+
+i ) Lỗi trong quản_lý phiên truy_cập ( session ID ) ; 
+
+k ) Các lỗ_hổng bảo_mật được xác_định có mức_độ cao được quy_định tại Khoản 1 Điều này . 
+
+6 . Các ứng_dụng cung_cấp dịch_vụ trên các môi_trường mạng bên ngoài ( mạng internet , mạng không dây , mạng truyền_thông di_động và các mạng khác ) phải có các biện_pháp để xử_lý các mối đe_dọa và lỗ_hổng bảo_mật , bao_gồm : 
+
+a ) Đánh_giá an_toàn bảo_mật tối_thiểu 01 lần/quý hoặc sau khi có sự thay_đổi bằng các công_cụ đánh_giá tự_động hoặc thủ_công ; 
+
+b ) Thực_hiện các giải_pháp kỹ_thuật tự_động phát_hiện và phòng_chống tấn_công_bằng thiết_bị tường lửa ứng_dụng web ( Web Application_Firewall ) . 
+
+7 . Phần_mềm hệ_thống thanh_toán thẻ phải có tính_năng lọc , không chấp_nhận thanh_toán cho các giao_dịch không được phép thực_hiện theo quy_định của pháp_luật . 
+
+Điều 6 .  Yêu_cầu cấp_phát và kiểm_soát tài_khoản truy_cập vào hệ_thống thanh_toán thẻ 
+
+1 . Việc truy_cập vào ứng_dụng thanh_toán thẻ phải được xác_thực bằng ít_nhất một trong các phương_thức sau : mã khóa bí_mật , thiết_bị , thẻ xác_thực và sinh trắc học . 
+
+2 . Việc truy_cập từ xa vào hệ_thống mạng phải được xác_thực bằng tối_thiểu hai phương_thức quy_định tại Khoản 1 Điều này . 
+
+3 . Mã_hóa toàn_bộ mã khóa bí_mật trên đường truyền và khi lưu_trữ bằng các phương_pháp mã_hóa mạnh . 
+
+4 . Thực_hiện các biện_pháp kiểm_soát tài_khoản vận_hành và tài_khoản quản_trị : 
+
+a ) Cấp_phát_tài_khoản truy_cập riêng_biệt , phân_quyền tương_ứng cho từng cá_nhân làm nhiệm_vụ vận_hành và quản_trị các thiết_bị phục_vụ thanh_toán thẻ ; 
+
+b ) Kiểm_soát việc thêm mới , xóa , sửa các định_danh , thông_tin tài_khoản người sử_dụng đúng mục_tiêu quản_lý ; 
+
+c ) Thu_hồi quyền truy_cập ngay khi người sử_dụng hết hạn sử_dụng hoặc chuyển công_việc khác hoặc không làm nhiệm_vụ vận_hành , quản_trị ; 
+
+d ) Thẩm_tra , xác_nhận lại danh_tính người sử_dụng khi nhận được yêu_cầu gián_tiếp qua email , điện_thoại trước khi thay_đổi , phục_hồi lại mã khóa bí_mật tài_khoản ; 
+
+đ ) Tài_khoản cấp_phát lần đầu phải thiết_lập mã khóa bí_mật và mã khóa bí_mật đó trên các tài_khoản phải khác nhau .  Tài_khoản chỉ được hoạt_động khi người dùng thay_đổi mã khóa bí_mật ban_đầu ; 
+
+e ) Quy_định và thực_hiện việc thu_hồi , loại_bỏ hoặc vô_hiệu_hóa các tài_khoản không sử_dụng , hết hạn sử_dụng hoặc các tài_khoản trong trạng_thái không_kích_hoạt trong một khoảng thời_gian ; 
+
+g ) Việc cấp tài_khoản truy_cập từ xa cho tổ_chức hỗ_trợ hoạt_động thẻ phải được giới_hạn về thời_gian , phải được người có thẩm_quyền phê_duyệt và được giám_sát hoạt_động ; 
+
+h ) Không được chia_sẻ hoặc dùng chung tài_khoản để truy_cập hệ_thống ; 
+
+i ) Tài_khoản phải được thay_đổi mã khóa bí_mật tối_thiểu 01 lần/quý ;  mã khóa bí_mật phải có độ dài tối_thiểu 07 ( bảy ) ký_tự , bao_gồm cả ký_tự chữ và số ( ngoại_trừ PIN ) ;  mã khóa bí_mật không được sử_dụng lặp_lại trong bốn lần gần nhất ; 
+
+k ) Số lần nhập sai mã khóa bí_mật tối_đa được phép không quá 03 ( ba ) lần .  Có biện_pháp khóa tài_khoản tự_động khi nhập sai mã khóa bí_mật quá số lần quy_định .  Thời_gian phục_hồi tài_khoản bị khóa sau khi nhập sai mã khóa bí_mật tối_thiểu 30 phút hoặc theo yêu_cầu ; 
+
+l ) Phiên làm_việc với hệ_thống thanh_toán thẻ ở trạng_thái chờ quá 15 phút hệ_thống phải yêu_cầu xác_thực lại để vào hệ_thống ; 
+
+m ) Phổ_biến và đào_tạo các chính_sách , quy_trình truy_cập và xác thực_tài_khoản vào hệ_thống , đảm_bảo các tổ_chức , cá_nhân liên_quan nắm rõ được quyền_hạn , trách_nhiệm khi được cấp tài_khoản truy_cập . 
+
+5 . Ban_hành chính_sách và thủ_tục xác thực_tài_khoản truy_cập , trong đó phải bao_gồm các nội_dung : 
+
+a ) Hướng_dẫn lựa_chọn và bảo_vệ thông_tin xác_thực , mã khóa bí_mật ; 
+
+b ) Hướng_dẫn không dùng lại mã khóa bí_mật đã sử_dụng trước đó ; 
+
+c ) Hướng_dẫn thay_đổi mã khóa bí_mật định_kỳ hoặc ngay khi có nghi_ngờ mã khóa bí_mật bị lộ . 
+
+6 . Quản_lý truy_cập cơ_sở dữ_liệu thanh_toán thẻ 
+
+a ) Chỉ người quản_trị cơ_sở dữ_liệu được trực_tiếp truy_cập cơ_sở dữ_liệu ; 
+
+b ) Người sử_dụng khác khi truy_cập cơ_sở dữ_liệu phải thông_qua các chương_trình ứng_dụng có kiểm_soát quyền_hạn xem , nhập , xóa , thay_đổi thông_tin ; 
+
+c ) Không sử_dụng các tài_khoản truy_cập cơ_sở dữ_liệu của chương_trình ứng_dụng cho cá_nhân hoặc các tiến_trình khác ; 
+
+d ) Mã_khóa bí_mật của tài_khoản truy_cập cơ_sở dữ_liệu của ứng_dụng phải được mã_hóa trên ứng_dụng và trong cơ_sở dữ_liệu ; 
+
+đ ) Mọi thao_tác trên cơ_sở dữ_liệu phải được ghi nhật_ký và nhật_ký phải được lưu_giữ tối_thiểu 01 năm . 
+
+Điều 7 .  Các yêu_cầu kỹ_thuật lắp_đặt và an_toàn vật_lý ATM 
+
+1 . Yêu_cầu về lắp_đặt ATM 
+
+a ) Tổ_chức hoạt_động thẻ có cung_cấp dịch_vụ ATM ( sau đây gọi chung là tổ_chức cung_cấp dịch_vụ ATM ) phải đảm_bảo các yêu_cầu về việc lắp_đặt ATM theo quy_định của Ngân_hàng Nhà_nước Việt_Nam về trang_bị , quản_lý , vận_hành và đảm_bảo an_toàn hoạt_động của ATM . 
+
+b ) Đối_với ATM đặt bên ngoài 
+
+Ngoài các yêu_cầu tại Điểm a Khoản 1 Điều này , tổ_chức cung_cấp dịch_vụ ATM thực_hiện thêm các biện_pháp đảm_bảo an_toàn cho ATM đặt bên ngoài đối_với những nguy_cơ mất an_toàn vật_lý sau : 
+
+- Có biện_pháp đảm_bảo ATM tránh bị kéo để di_dời trái_phép ; 
+
+- Che_giấu các thành_phần , bộ_phận ATM không cần_thiết để lộ ra bên ngoài . 
+
+2 . Yêu_cầu về hệ_thống báo_động 
+
+a ) Tổ_chức cung_cấp dịch_vụ ATM trang_bị thiết_bị cảm_biến cho ATM đặt bên ngoài để cảnh_báo tác_động nhiệt từ các thiết_bị khò hàn và nhận_biết các lực tác_động với cường_độ lớn , hoặc liên_tục từ bên ngoài lên thân vỏ máy ; 
+
+b ) Tổ_chức cung_cấp dịch_vụ ATM trang_bị các thiết_bị báo_động cho ATM nhằm phòng_chống : 
+
+- Mở_cửa máy trái_phép ; 
+
+- Di_dời trái_phép khỏi khu_vực đặt máy ; 
+
+- Đập_phá máy trái_phép .  Các thiết_bị báo_động ngoài việc phát tín_hiệu báo_động tại_chỗ , phải gửi cảnh_báo về trung_tâm giám_sát . 
+
+3 . Yêu_cầu về két đựng tiền 
+
+a ) Tổ_chức cung_cấp dịch_vụ ATM trang_bị két đựng tiền của ATM làm bằng vật_liệu chịu được lực tác_động lớn , chống được ăn_mòn , tản nhiệt nhanh hoặc hấp_thụ nhiệt chậm nhằm giảm_thiểu mức_độ hư_hỏng vỏ két và tổn_thất tiền bên trong do tác_động_lực , hóa_chất và nhiệt từ bên ngoài ; 
+
+b ) Két đựng tiền của ATM phải được trang_bị ít_nhất hai khóa , do hai người nắm giữ . 
+
+4 . Bàn_phím nhập mã PIN phải đạt các yêu_cầu nêu tại Điều 13 Thông_tư này . 
+
+5 . ATM phải có chứng_nhận xuất_xứ và có chứng_nhận chất_lượng của nhà sản_xuất . 
+
+Điều 8 .  Các yêu_cầu kỹ_thuật về phần_mềm , đường truyền , liên_thông cho ATM 
+
+1 . Tổ_chức cung_cấp dịch_vụ ATM phải đảm_bảo các yêu_cầu về phần_mềm của ATM 
+
+a ) Hệ điều_hành máy ATM phải có bản_quyền , được hỗ_trợ bởi nhà cung_cấp và được cập_nhật_bản vá lỗi kịp_thời ; 
+
+b ) Hệ điều_hành được cài_đặt hoặc thiết_lập phải đảm_bảo phân_tách các quyền khác nhau : quyền được sử_dụng thiết_bị lưu_trữ ngoài ;  quyền được phép thay_đổi cấu_hình và chạy các ứng_dụng , dịch_vụ ; 
+
+c ) Phần_mềm giao_dịch trên ATM phải được thiết_lập tính_năng thông_báo bằng hình_ảnh hoặc âm_thanh để cảnh_báo người dùng các biện_pháp an_toàn trước khi nhập số PIN hoặc để thông_báo người dùng nhận thẻ , nhận tiền sau khi thực_hiện giao_dịch ; 
+
+d ) Phần_mềm điều_khiển thiết_bị , phần_mềm giao_dịch phải được thiết_lập các tính_năng chống lại việc lộ thông_tin thẻ , thất_thoát tiền do sai_sót , gian_lận hoặc do yếu_tố lỗi kỹ_thuật , các tính_năng bao_gồm : 
+
+- Khi phần_mềm điều_khiển thiết_bị chi tiền hoặc phần_mềm ghi nhật_ký giao_dịch điện_tử không hoạt_động , ATM phải tự_động dừng hoạt_động chức_năng rút_tiền và tự_động thông_báo lỗi về trung_tâm ; 
+
+- Phần_mềm giao_dịch trên ATM phải thiết_lập tính_năng bắt_buộc người dùng phải nhập lại số PIN khi thực_hiện giao_dịch rút_tiền tiếp_theo ;  có thông_báo nhắc_nhở người dùng các biện_pháp an_toàn trước khi nhập số PIN và nhận thẻ sau khi thực_hiện giao_dịch . 
+
+2 . Yêu_cầu đường truyền cho ATM 
+
+Tổ_chức cung_cấp dịch_vụ ATM thiết_lập đường truyền cho ATM phải ngăn_chặn được các truy_cập Internet_trừ các kết_nối về trung_tâm để thực_hiện giao_dịch .  Việc cập_nhật_bản vá lỗi hệ điều_hành , phần_mềm phòng_chống virus và các cập_nhật khác tại ATM phải được thực_hiện tại_chỗ hoặc thông_qua hệ_thống tập_trung nội_bộ . 
+
+3 . Yêu_cầu về kết_nối liên_thông hệ_thống thanh_toán thẻ 
+
+Hợp_đồng , thỏa_thuận kết_nối liên_thông hệ_thống thanh_toán thẻ qua ATM phải quy_định dữ_liệu được mã_hóa và trách_nhiệm của các bên trong việc đảm_bảo tính bí_mật của khóa dùng cho mã_hóa .  Khóa dùng cho mã_hóa phải thay_đổi tối_thiểu 01 lần/năm . 
+
+Điều 9 .  Các yêu_cầu về giám_sát , an_ninh hệ_thống ATM 
+
+1 . Tổ_chức cung_cấp dịch_vụ ATM phải trang_bị phần_mềm quản_lý tập_trung , theo_dõi đầy_đủ tức_thời về tình_trạng của ATM . 
+
+2 . Tổ_chức cung_cấp dịch_vụ ATM có biện_pháp kỹ_thuật , hành_chính để quản_lý chặt_chẽ hệ_thống ATM , phát_hiện kịp_thời các truy_cập bất_hợp_pháp , lắp_đặt trái_phép thiết_bị sao_chép thông_tin thẻ hoặc ghi_hình các thao_tác người sử_dụng 
+
+a ) Có hệ_thống giám_sát giao_dịch trên hệ_thống thanh_toán thẻ , liên_tục theo_dõi nhằm phát_hiện giao_dịch thanh_toán thẻ đáng ngờ , gian_lận dựa vào thời_gian , vị_trí địa_lý , tần_suất giao_dịch , số tiền giao_dịch , số lần nhập PIN sai quá quy_định và các dấu_hiệu bất_thường khác để kịp_thời xử_lý và cảnh_báo cho chủ thẻ ; 
+
+b ) Hình_ảnh ghi được của camera phải đủ rõ nét để phục_vụ yêu_cầu giải_quyết tra soát , khiếu_nại . 
+
+3 . Dữ_liệu nhật_ký trên ATM phải được sẵn_sàng truy_cập trong thời_gian tối_thiểu 03 tháng và lưu_trữ tối_thiểu 01 năm . 
+
+4 . Tổ_chức cung_cấp dịch_vụ ATM đảm_bảo các yêu_cầu khác về an_toàn hoạt_động ATM theo quy_định của Ngân_hàng Nhà_nước Việt_Nam về trang_bị , quản_lý , vận_hành và đảm_bảo an_toàn hoạt_động của ATM . 
+
+Điều 10 .  Các yêu_cầu đối_với máy POS 
+
+1 . TCTTT , TCTGTT và ĐVCNT phải có thỏa_thuận rõ về trách_nhiệm của ĐVCNT , bao_gồm : 
+
+a ) Quản_lý , bảo_vệ , lắp_đặt máy POS tại nơi an_toàn .  Có biện_pháp phòng_chống việc sử_dụng trái_phép , trộm_cắp máy POS , lắp_đặt các thiết_bị đọc trộm dữ_liệu thẻ trên máy POS ; 
+
+b ) Lắp_đặt nguồn điện , đường truyền đúng theo yêu_cầu kỹ_thuật của nhà sản_xuất ; 
+
+c ) Máy POS phải có tên và logo của TCTTT . 
+
+2 . Máy POS phải có chứng_nhận xuất_xứ và có chứng_nhận chất_lượng của nhà sản_xuất . 
+
+3 . Trên tất_cả các máy POS phải có số điện_thoại liên_hệ của TCTTT và tổ_chức cung_cấp dịch_vụ hỗ_trợ ( nếu có ) . 
+
+5 . TCTTT , TCPHT phải có hệ_thống giám_sát , cảnh_báo các giao_dịch bất_thường ( số_lượng , giá_trị , thời_gian , địa_điểm giao_dịch ) . 
+
+Điều 11 .  Các yêu_cầu đối_với máy mpos 
+
+1 . TCTTT , TCTGTT và ĐVCNT phải có thỏa_thuận rõ về tiêu_chuẩn kỹ_thuật và trách_nhiệm kiểm_tra giám_sát hoạt_động của máy mpos đáp_ứng tối_thiểu các yêu_cầu sau : 
+
+a ) Yêu_cầu đối_với thiết_bị thông_tin di_động cài_đặt phần_mềm mpos 
+
+- Thiết_bị không bị bẻ khóa ( jailbreaking hoặc rooting ) , tắt các kết_nối không cần_thiết cho việc sử_dụng thanh_toán ; 
+
+- Thiết_lập thêm các tính_năng bảo_mật phòng_chống bị mất , trộm_cắp ( tính_năng theo_dõi vị_trí qua GPS , mã_hóa ổ_đĩa lưu_trữ ) .  Đồng_thời , ĐVCNT phải quản_lý thông_tin về số serial , phiên_bản phần_mềm của thiết_bị . 
+
+b ) Yêu_cầu đối_với phần_mềm mpos ; 
+
+- Phần_mềm mpos được cài_đặt theo hướng_dẫn của đơn_vị cung_cấp giải_pháp hoặc TCTTT ; 
+
+- Phần_mềm mpos không được phép thanh_toán khi thiết_bị mpos không kết_nối được về trung_tâm thanh_toán thẻ và không được lưu_trữ các giao_dịch thẻ ; 
+
+- Màn_hình mpos phải hiển_thị tình_trạng sẵn_sàng phục_vụ để người dùng biết ; 
+
+- Hóa_đơn thanh_toán được gửi đến khách_hàng qua email , SMS hoặc được in ra ( khi có yêu_cầu ) , trong đó số thẻ phải được che_giấu ( chỉ hiển_thị tối_đa 06 ( sáu ) số đầu và 04 ( bốn ) số cuối ) . 
+
+2 . TCTTT phải công_bố danh_sách các ĐVCNT đã đăng_ký sử_dụng máy mpos để chấp_nhận thanh_toán trên website của đơn_vị hoặc các phương_tiện truyền_thông khác ( nếu có ) . 
+
+Điều 12 .  Chính_sách an_toàn bảo_mật thông_tin thẻ 
+
+1 . Tổ_chức hoạt_động thẻ phải lập và cập_nhật danh_sách các trang_thiết_bị phục_vụ thanh_toán thẻ và mô_tả chức_năng liên_quan đến hệ_thống thanh_toán thẻ . 
+
+2 . Tổ_chức hoạt_động thẻ phải thiết_lập , công_bố , duy_trì và phổ_biến chính_sách an_toàn bảo_mật trong toàn đơn_vị .  Đánh_giá chính_sách an_toàn bảo_mật ít_nhất 01 lần/năm và cập_nhật chính_sách khi thiết_bị phục_vụ thanh_toán thẻ có thay_đổi . 
+
+3 . Tổ_chức hoạt_động thẻ phải thực_hiện quy_trình đánh_giá rủi_ro ít_nhất 01 lần/năm và ngay sau khi hệ_thống có thay_đổi về sơ_đồ mạng , an_ninh bảo_mật , bổ_sung hệ_thống máy_chủ dịch_vụ hoặc bổ_sung , sửa_đổi nghiệp_vụ . 
+
+4 . Tổ_chức hoạt_động thẻ phải xây_dựng và triển_khai thực_hiện quy_định về việc sử_dụng các công_nghệ có rủi_ro cao ( các truy_cập từ xa , mạng không dây , sử_dụng các thiết_bị di_động , email và Internet ) .  Nội_dung quy_định bao_gồm các yêu_cầu sau : 
+
+a ) Phải được người có thẩm_quyền phê_duyệt trước khi sử_dụng ; 
+
+b ) Phải được xác_thực bằng tài_khoản và mã khóa bí_mật hoặc phương_pháp xác_thực khác trước khi sử_dụng ; 
+
+c ) Liệt_kê và giám_sát hoạt_động toàn_bộ danh_sách các thiết_bị , công_nghệ và người dùng được cấp quyền sử_dụng ; 
+
+d ) Có phương_pháp để xác_định dễ_dàng và thuận_tiện người sở_hữu , thông_tin liên_hệ và mục_đích sử_dụng của thiết_bị ( bằng cách dán nhãn , ghi mã_vạch hoặc kiểm_kê các thiết_bị ) ; 
+
+đ ) Xác_định phạm_vi áp_dụng công_nghệ có rủi_ro cao ; 
+
+e ) Xác_định các vị_trí hệ_thống mạng sử_dụng công_nghệ có rủi_ro cao ; 
+
+g ) Đối_với các truy_cập từ xa phải tự_động ngắt kết_nối phiên làm_việc một thời_gian cụ_thể khi hệ_thống không hoạt_động ; 
+
+h ) Chỉ kích_hoạt truy_cập từ xa cho tổ_chức hỗ_trợ hoạt_động thẻ khi thực_sự cần_thiết theo yêu_cầu và đồng_thời phải vô_hiệu_hóa truy_cập ngay sau phiên làm_việc kết_thúc ; 
+
+i ) Khi cấp quyền truy_cập từ xa vào dữ_liệu chủ thẻ phải thực_hiện các biện_pháp kỹ_thuật cấm sao_chép , di_chuyển và lưu_trữ dữ_liệu chủ thẻ vào các ổ_cứng , phương_tiện mang tin , thiết_bị ngoại_vi .  Đối_với trường_hợp đặc_biệt cần thực_hiện sao_chép , di_chuyển , lưu_trữ dữ_liệu chủ thẻ bằng truy_cập từ xa , phải quy_định rõ_ràng trách_nhiệm bảo_vệ dữ_liệu chủ thẻ theo các quy_định tại Thông_tư này . 
+
+5 . Tổ_chức hoạt_động thẻ phải quy_định rõ_ràng trách_nhiệm bảo_vệ an_toàn bảo_mật dữ_liệu thẻ đối_với các tổ_chức , cá_nhân thuộc đơn_vị mình và các bên liên_quan . 
+
+6 . Phân_công nhiệm_vụ trong quản_lý đảm_bảo an_toàn thông_tin thẻ 
+
+a ) Giám_sát và phân_tích các thông_tin , cảnh_báo về rủi_ro an_ninh thông_tin và chuyển thông_tin đến bộ_phận có trách_nhiệm để phối_hợp giải_quyết ; 
+
+b ) Có biện_pháp ứng_phó sự_cố kịp_thời để kiểm_soát được mọi tình_huống ; 
+
+c ) Quản_lý_tài_khoản người dùng trên hệ_thống ; 
+
+d ) Giám_sát và kiểm_soát toàn_bộ truy_cập đến dữ_liệu ; 
+
+đ ) Việc phân_công được lập thành_văn_bản . 
+
+7 . Tổ_chức hoạt_động thẻ phải thực_hiện đào_tạo nhận_thức về an_ninh bảo_mật thẻ cho nhân_viên khi mới tuyển_dụng và định_kỳ ít_nhất 01 lần/năm cho toàn_bộ nhân_viên ;  phải kiểm_tra , kiểm_soát đảm_bảo nhân_viên trong đơn_vị nhận_thức được các chính_sách an_toàn bảo_mật thẻ . 
+
+8 . Tổ_chức hoạt_động thẻ phải thiết_lập và duy_trì quy_trình , chính_sách quản_lý tổ_chức hỗ_trợ hoạt_động thẻ có chia_sẻ dữ_liệu hoặc có ảnh_hưởng đến an_toàn bảo_mật dữ_liệu thẻ .  Quy_trình , chính_sách quản_lý đáp_ứng tối_thiểu các yêu_cầu sau : 
+
+a ) Cập_nhật danh_sách tổ_chức hỗ_trợ hoạt_động thẻ ; 
+
+b ) Tổ_chức hoạt_động thẻ phải thực_hiện lựa_chọn các tổ_chức hỗ_trợ hoạt_động thẻ trước khi ký_kết , thỏa_thuận hợp_đồng .  Quá_trình lựa_chọn phải thể_hiện rõ yêu_cầu của đơn_vị đối_với tổ_chức hỗ_trợ hoạt_động thẻ , hồ_sơ đáp_ứng yêu_cầu của tổ_chức hỗ_trợ hoạt_động thẻ phải đáp_ứng an_toàn bảo_mật thông_tin thẻ ; 
+
+c ) Hợp_đồng với các tổ_chức hỗ_trợ hoạt_động thẻ phải quy_định rõ trách_nhiệm của tổ_chức hỗ_trợ hoạt_động thẻ tuân_thủ các quy_định có liên_quan tại Thông_tư này .  Phải có cam_kết bằng văn_bản các điều_khoản và trách_nhiệm trong đó tổ_chức hỗ_trợ hoạt_động thẻ cung_cấp dịch_vụ có trách_nhiệm đảm_bảo an_toàn bảo_mật thông_tin thẻ trong các dịch_vụ mình cung_cấp hoặc lưu_giữ , xử_lý , trao_đổi thông_tin .  Cam_kết phải nêu rõ phạm_vi cung_cấp và dịch_vụ được tổ_chức hỗ_trợ hoạt_động thẻ cung_cấp ; 
+
+d ) Tổ_chức hoạt_động thẻ phải tổ_chức quản_lý , cập_nhật thông_tin về các tổ_chức hỗ_trợ hoạt_động thẻ đáp_ứng theo các yêu_cầu Thông_tư này . 
+
+9 . Tổ_chức hoạt_động thẻ phải xây_dựng quy_trình và thực_hiện ứng_phó các sự_cố để đảm_bảo xử_lý được ngay khi có sự_cố xảy ra .  Quy_trình ứng_phó sự_cố đáp_ứng tối_thiểu các yêu_cầu sau : 
+
+a ) Vai_trò , trách_nhiệm , truyền_thông và liên_lạc của các cá_nhân , tổ_chức trong trường_hợp xảy ra xâm_phạm hệ_thống ; 
+
+b ) Có kịch_bản cụ_thể để ứng_phó sự_cố ; 
+
+c ) Có kịch_bản phục_hồi và đảm_bảo hoạt_động liên_tục ; 
+
+d ) Có kịch_bản_sao lưu dữ_liệu ; 
+
+đ ) Kiểm_thử quy_trình tối_thiểu 01 lần/năm ; 
+
+e ) Phân_công_nhân_sự cụ_thể để sẵn_sàng ứng_phó sự_cố 24/7 ; 
+
+g ) Thực_hiện các chương_trình đào_tạo cho nhân_viên để đáp_ứng công_việc ứng_phó sự_cố về an_toàn bảo_mật thẻ ; 
+
+h ) Quy_trình ứng_phó sự_cố bao_gồm cả các cảnh_báo từ hệ_thống giám_sát an_ninh ( các hệ_thống phát_hiện , phòng_chống xâm_nhập , thiết_bị tường lửa và hệ_thống giám_sát tính toàn_vẹn của các tệp_tin dữ_liệu ) ; 
+
+i ) Thực_hiện sửa_đổi và hoàn_thiện quy_trình ứng_phó sự_cố thông_qua bài_học kinh_nghiệm và đáp_ứng sự phát_triển về công_nghệ thông_tin . 
+
+Điều 13 .  Các yêu_cầu đối_với bàn_phím nhập số PIN 
+
+1 . Bàn_phím dùng để nhập số PIN phải tự_hủy được các thông_tin nhạy_cảm lưu_trữ trong đó bao_gồm các khóa mã_hóa , PIN , mã khóa bí_mật và không_thể khôi_phục lại được thông_tin này khi bị xâm_nhập vật_lý . 
+
+2 . Âm_thanh khi gõ một phím không phân_biệt được với âm_thanh khi gõ phím khác .  Ngoài_ra không_thể xác_định được bất_kỳ ký_tự PIN nào được nhập bằng cách theo_dõi điện_từ , điện_năng tiêu_thụ . 
+
+3 . Số PIN phải được mã_hóa ngay sau khi nhập xong ( người dùng ấn Enter ) .  Bộ_nhớ đệm_tự_động được xóa sau khi giao_dịch kết_thúc hoặc hết thời_gian chờ . 
+
+4 . Các tính_năng an_toàn của bàn_phím không bị thay_đổi bởi điều_kiện môi_trường , điều_kiện vận_hành . 
+
+Điều 14 .  Bảo_vệ vùng lưu_trữ dữ_liệu thẻ 
+
+1 . Lưu_trữ , phục_hồi , hủy thông_tin , dữ_liệu thẻ 
+
+a ) Thực_hiện chính_sách , thủ_tục , quy_trình lưu_trữ và hủy dữ_liệu chủ thẻ ;  hạn_chế lượng dữ_liệu , thời_gian cần lưu_trữ đáp_ứng theo yêu_cầu nghiệp_vụ và quy_định của pháp_luật về lưu_trữ ;  hàng quý thực_hiện xác_định và xóa an_toàn dữ_liệu chủ thẻ vượt quá thời_gian cần lưu_trữ ;  tuân_thủ các quy_định về lưu dữ_liệu chủ thẻ , bao_gồm các quy_định về thời_hạn bảo_quản hồ_sơ , tài_liệu lưu_trữ trong ngành ngân_hàng ; 
+
+b ) Dữ_liệu xác_thực thẻ phải đảm_bảo : Giữ bí_mật trong hoạt_động in_ấn , phát_hành thẻ ;  cá_nhân hoặc tổ_chức khi xử_lý dữ_liệu xác_thực thẻ phải cam_kết không tiết_lộ thông_tin ;  không lưu_trữ dữ_liệu xác_thực thẻ sau khi đã xác_thực , kể_cả thông_tin đã mã_hóa tại giao_dịch đến , các tập_tin dữ_liệu nhật_ký , tập_tin lịch_sử , tập_tin theo_dõi , các bảng sơ_đồ dữ_liệu và các nội_dung cơ_sở dữ_liệu ; 
+
+c ) Số thẻ phải được che_giấu khi hiển_thị và chỉ được hiển_thị đầy_đủ khi có yêu_cầu của cơ_quan có thẩm_quyền hoặc chủ sở_hữu hợp_pháp của thẻ ;  số thẻ phải đảm_bảo không đọc được tại các nơi lưu_trữ ; 
+
+d ) Đảm_bảo số thẻ không đọc được tại các nơi lưu_trữ bằng cách sử_dụng một trong các phương_pháp sau : 
+
+- Phương_pháp sử_dụng hàm băm một_chiều ( hàm hash ) dựa trên thuật_toán mã_hóa mạnh ; 
+
+- Phương_pháp phân_tách , cắt bớt dữ_liệu đảm_bảo không đọc được toàn_bộ dữ_liệu khi lưu_trữ trên các tập_tin , cơ_sở dữ_liệu , dữ_liệu nhật_ký ; 
+
+- Sử_dụng hệ_thống mật_mã sử_dụng một lần , trong đó đảm_bảo thiết_bị nhận mã phải được giữ bí_mật ; 
+
+- Phương_pháp mã_hóa_mạnh với quy_trình và thủ_tục quản_lý khóa phải được tuân_thủ ; 
+
+- Sử_dụng phương_pháp mã_hóa ổ_đĩa trong đó đảm_bảo thực_hiện mã_hóa các tập_tin thông_qua cơ_chế riêng_biệt và độc_lập với cơ_chế kiểm_soát truy_cập và xác_thực trên nền hệ điều_hành có sẵn . 
+
+2 . Quy_định mã_hóa dữ_liệu tại vùng lưu_trữ dữ_liệu thẻ 
+
+a ) Các khóa dùng trong mã_hóa phải được lưu_trữ và có biện_pháp đảm_bảo an_toàn tránh nguy_cơ lộ thông_tin : 
+
+- Giới_hạn số_lượng người có quyền truy_cập đến khóa mã_hóa ; 
+
+- Lưu_giữ các khóa riêng dùng để mã_hóa , giải_mã dữ_liệu chủ thẻ trong mọi thời_điểm theo một trong các phương_thức sau : 
+
++ Lưu_trữ trong thiết_bị chuyên_dụng hoặc thiết_bị bảo_mật PIN trong giao_dịch ; 
+
++ Lưu_giữ khóa thành tối_thiểu hai phần riêng_biệt . 
+
++ Thực_hiện mã_hóa khóa bằng thuật_toán phải mạnh bằng hoặc mạnh hơn thuật_toán dùng để mã_hóa dữ_liệu .  Khóa để mã_hóa khóa phải được lưu_trữ tách_biệt với khóa để mã_hóa dữ_liệu ; 
+
+b ) Ban_hành quy_trình thực_hiện tất_cả các công_việc liên_quan đến quản_lý khóa và thủ_tục mã_hóa để mã_hóa dữ_liệu chủ thẻ bao_gồm : 
+
+- Quá_trình tạo ra các khóa mã_hóa ; 
+
+- Phân_phối khóa mã_hóa ; 
+
+- Lưu_giữ khóa mã_hóa ; 
+
+- Định_kỳ thay_đổi các khóa khi hết vòng đời sử_dụng ; 
+
+- Thay_thế hoặc thu_hồi các khóa khi có nghi_ngờ bị lộ , bị sửa_đổi . 
+
+c ) Quản_lý khóa mã_hóa phải đáp_ứng tối_thiểu các yêu_cầu sau : 
+
+- Nếu sử_dụng các khóa mã_hóa dưới dạng bản rõ ( clear text ) phải đảm_bảo khóa này được chia thành nhiều phần quản_lý bởi tối_thiểu hai người , mỗi người giữ một phần khóa mã_hóa ; 
+
+- Ngăn_ngừa việc thay_thế các khóa mã_hóa khi chưa được phép ; 
+
+- Phải quy_định rõ trách_nhiệm của người giữ khóa mã_hóa . 
+
+Điều 15 .  Mã_hóa dữ_liệu thẻ trên đường truyền qua mạng bên ngoài 
+
+1 . Sử_dụng các phương_thức mã_hóa và các giao_thức bảo_mật thích_hợp ( tối_thiểu các giao_thức SSL/TLS , SSH , IPSEC ) để bảo_vệ dữ_liệu xác_thực thẻ trong quá_trình truyền_thông_tin qua mạng kết_nối với bên ngoài ( mạng internet , mạng không dây , mạng truyền_thông di_động và các mạng khác ) . 
+
+2 . Khi gửi số thẻ đến người sử_dụng thông_qua thông_điệp điện_tử , số phải được mã_hóa bằng phương_pháp mã_hóa mạnh . 
+
+Điều 16 .  Hạn_chế quyền truy_cập đến dữ_liệu thẻ 
+
+1 . Các truy_cập và xử_lý trên dữ_liệu thẻ phải đảm_bảo được phân_quyền đúng và ở mức tối_thiểu đủ để thực_hiện nhiệm_vụ của từng cá_nhân . 
+
+2 . Xây_dựng chính_sách hạn_chế quyền truy_cập từ xa , từ vùng mạng bên ngoài vào hệ_thống .  Giám_sát hoạt_động , ghi nhật_ký thời_gian truy_cập vào hệ_thống . 
+
+3 . Việc cấp quyền truy_cập các hệ_thống thanh_toán thẻ phải được người có thẩm_quyền phê_duyệt bằng văn_bản . 
+
+4 . Thiết_lập biện_pháp , hệ_thống kiểm_soát truy_cập cho toàn_bộ các thiết_bị phục_vụ thanh_toán thẻ , đảm_bảo giới_hạn các truy_cập theo đúng chức_trách , nhiệm_vụ được giao ;  các truy_cập không hợp_lệ phải bị loại_bỏ . 
+
+Điều 17 .  Hạn_chế quyền truy_cập vật_lý tới dữ_liệu thẻ 
+
+1 . Thực_hiện các kiểm_soát ra , vào tới khu_vực đặt hệ_thống thanh_toán thẻ , trung_tâm dữ_liệu thẻ , các môi_trường vật_lý có dữ_liệu thẻ : 
+
+a ) Thiết_lập kiểm_soát các điểm kết_nối_mạng có dây và không dây tại các khu_vực công_cộng đảm_bảo giới_hạn quyền truy_cập .  Kiểm_soát việc truy_cập vật_lý các thiết_bị di_động , các thiết_bị truyền_thông , thiết_bị mạng và các đường điện_thoại , viễn_thông ; 
+
+b ) Sử_dụng camera hoặc có biện_pháp khác để giám_sát truy_cập vật_lý tới khu_vực phòng máy_chủ , khu_vực in_ấn phát_hành , nơi lưu_trữ , xử_lý dữ_liệu thủ thẻ .  Các dữ_liệu giám_sát phải được lưu_trữ tối_thiểu 03 tháng . 
+
+2 . Xây_dựng thủ_tục để nhận_biết được nhân_viên và các cá_nhân bên ngoài ( tổ_chức hỗ_trợ hoạt_động thẻ , khách ) đến làm_việc bao_gồm : 
+
+a ) Thủ_tục để nhận_biết nhân_viên mới , cá_nhân bên ngoài ; 
+
+b ) Thủ_tục để thay_đổi các yêu_cầu truy_cập và thu_hồi quyền truy_cập của nhân_viên khi thôi_việc , các cá_nhân bên ngoài khi hết hạn . 
+
+3 . Kiểm_soát truy_cập vật_lý đối_với nhân_viên khi đến phòng máy_chủ , khu_vực in_ấn phát_hành thẻ , nơi lưu_trữ , xử_lý dữ_liệu chủ thẻ đáp_ứng yêu_cầu sau : 
+
+a ) Truy_cập phải được cấp quyền dựa trên yêu_cầu công_việc của mỗi cá_nhân ; 
+
+b ) Quyền truy_cập phải được thu_hồi ngay khi công_việc kết_thúc , tất_cả các công_cụ dùng để truy_cập ( chìa_khóa , thẻ truy_cập ) phải được thu_hồi hoặc vô_hiệu_hóa . 
+
+4 . Thực_hiện các thủ_tục để nhận_diện và cấp phép cho các cá_nhân bên ngoài khi ra vào khu_vực lưu_trữ , xử_lý dữ_liệu chủ thẻ 
+
+a ) Các cá_nhân bên ngoài phải được cho phép trước khi vào và được giám_sát toàn thời_gian tại khu_vực lưu_trữ , xử_lý dữ_liệu chủ thẻ ; 
+
+b ) Các cá_nhân bên ngoài phải được nhận_diện bằng thẻ hoặc phương_thức khác có thời_hạn hiệu_lực và phải nhận_diện được bằng mắt thường ; 
+
+c ) Các cá_nhân bên ngoài phải được yêu_cầu thu_hồi thẻ hoặc phương_thức nhận_diện khác trước khi rời khỏi đơn_vị hoặc khi hết thời_gian hiệu_lực ; 
+
+d ) Nhật_ký ra , vào của cá_nhân bên ngoài phải được lưu_giữ bằng các hình_thức văn_bản hoặc điện_tử tối_thiểu 01 năm . 
+
+5 . Phương_tiện chứa dữ_liệu sao lưu của hệ_thống thanh_toán thẻ phải bảo_quản tại nơi an_toàn .  Địa_điểm bảo_quản phải được kiểm_tra đảm_bảo các điều_kiện an_toàn ít_nhất 01 lần/năm . 
+
+6 . Đảm_bảo an_toàn các tài_sản_vật_lý , các thông_tin , hồ_sơ quan_trọng_liên_quan đến hoạt_động thẻ , phương_tiện mang tin .  Kiểm_soát việc vận_chuyển phương_tiện mang tin đảm_bảo an_toàn dữ_liệu thẻ .  Phải được người có thẩm_quyền phê_duyệt trước khi bàn_giao , di_chuyển , phân_phối các phương_tiện mang tin . 
+
+7 . Thực_hiện kiểm_soát chặt_chẽ việc lưu_trữ và truy_cập tới phương_tiện mang tin .  Tiến_hành kiểm_kê tài_sản , các phương_tiện mang tin tối_thiểu 01 lần/năm . 
+
+8 . Các thiết_bị đọc dữ_liệu thẻ phải được giám_sát bảo_vệ đảm_bảo các yêu_cầu sau : 
+
+a ) Thường_xuyên cập_nhật danh_sách các thiết_bị , các thông_tin về nhà sản_xuất , mẫu thiết_bị , nơi đặt thiết_bị , mã thiết_bị ( serial , product number ) ; 
+
+b ) Định_kỳ kiểm_tra các bề_mặt của thiết_bị nhằm phát_hiện giả_mạo hoặc các thành_phần bị gắn thêm vào bằng cách kiểm_tra các đặc_điểm để nhận_dạng hoặc số serial của thiết_bị ; 
+
+c ) Người quản_lý , sử_dụng thiết_bị phải được đào_tạo để nhận_biết các nguy_cơ giả_mạo hoặc thay_thế trên thiết_bị nhằm đánh_cắp thông_tin thẻ .  Nội_dung đào_tạo bao_gồm : 
+
+- Xác_minh danh_tính tổ_chức hỗ_trợ hoạt_động thẻ trước khi cho phép tham_gia vào quá_trình sửa_chữa , bảo_trì , khắc_phục lỗi của thiết_bị ; 
+
+- Kiểm_tra , xác_minh thiết_bị trước khi cho phép cài_đặt , thay_thế hoặc hoàn_trả thiết_bị ; 
+
+- Nhận_biết được nguy_cơ , hành_vi đáng ngờ xung_quanh thiết_bị ; 
+
+- Báo_cáo các nguy_cơ , hành_vi giả_mạo hoặc thay_thế trái_phép thiết_bị đến người có thẩm_quyền . 
+
+9 . Phá_hủy hồ_sơ , tài_liệu chứa dữ_liệu thẻ bằng hình_thức cắt thành các miếng nhỏ , đốt hoặc nghiền nát đảm_bảo dữ_liệu thẻ không_thể đọc hoặc tái_tạo lại .  Phương_tiện mang tin điện_tử chứa thông_tin chủ thẻ được hủy bằng các chương_trình xóa dữ_liệu chuyên_dụng hoặc bằng các biện_pháp hủy vật_lý , khử từ đảm_bảo dữ_liệu chủ thẻ không_thể đọc và khôi_phục . 
+
+Điều 18 .  Giám_sát , bảo_vệ và kiểm_tra các trang_thiết_bị phục_vụ thanh_toán thẻ 
+
+1 . Theo_dõi và giám_sát toàn_bộ truy_cập tới tài_nguyên và dữ_liệu chủ thẻ 
+
+a ) Thực_hiện ghi dữ_liệu nhật_ký toàn_bộ truy_cập đến các thiết_bị phục_vụ thanh_toán thẻ để lưu vết tất_cả các hành_vi của người sử_dụng ; 
+
+b ) Thực_hiện tự_động ghi dữ_liệu nhật_ký truy_cập đến toàn_bộ thiết_bị phục_vụ thanh_toán thẻ để xác_định lại các sự_kiện sau : 
+
+- Tất_cả truy_cập của người sử_dụng đến dữ_liệu chủ thẻ ; 
+
+- Tất_cả hành_động của người sử_dụng có tài_khoản đặc_quyền ; 
+
+- Các truy_cập đến toàn_bộ dữ_liệu nhật_ký ; 
+
+- Các cố_gắng truy_cập không được phép vào hệ_thống ; 
+
+- Quản_lý người sử_dụng ( bao_gồm các sự_kiện tạo mới tài_khoản và nâng quyền_quản_trị , các thay_đổi hoặc xóa tài_khoản của tài_khoản quản_trị ) ; 
+
+- Khởi tạo , chấm_dứt hoặc tạm ngừng việc ghi dữ_liệu nhật_ký ; 
+
+- Khởi tạo hoặc xóa các dữ_liệu , tài_nguyên , chức_năng , dịch_vụ trên thiết_bị phục_vụ thanh_toán thẻ . 
+
+c ) Dữ_liệu nhật_ký của mỗi sự_kiện ( quy_định tại Điểm b Khoản 1 Điều này ) bao_gồm tối_thiểu các thông_tin sau : 
+
+- Định_danh người sử_dụng ; 
+
+- Loại sự_kiện ; 
+
+- Ngày , tháng và thời_gian ; 
+
+- Trạng_thái thành_công hoặc thất_bại ; 
+
+- Nguồn_gốc của sự_kiện ; 
+
+- Tên hoặc định_danh của dữ_liệu , tài_nguyên hoặc chức_năng , dịch_vụ bị ảnh_hưởng bởi sự_kiện . 
+
+d ) Phải có hệ_thống đồng_bộ thời_gian đối_với hệ_thống máy_chủ , hệ_thống ATM phục_vụ thanh_toán thẻ ; 
+
+đ ) Bảo_vệ các dữ_liệu nhật_ký : 
+
+- Giới_hạn quyền được xem dữ_liệu nhật_ký tối_thiểu theo nhu_cầu công_việc ; 
+
+- Bảo_vệ các tập_tin dữ_liệu nhật_ký nhằm tránh sửa_đổi trái_phép ; 
+
+- Sao lưu dữ_liệu nhật_ký đến các máy_chủ tập_trung hoặc phương_tiện mang tin ; 
+
+e ) Tổ_chức hoạt_động thẻ phải sử_dụng công_cụ để giám_sát tính toàn_vẹn của tập_tin dữ_liệu nhật_ký hoặc phần_mềm phát_hiện thay_đổi dữ_liệu nhật_ký ; 
+
+g ) Tổ_chức hoạt_động thẻ phải tiến_hành xem_xét , đánh_giá các dữ_liệu nhật_ký và các sự_kiện an_ninh trên toàn_bộ thiết_bị phục_vụ thanh_toán thẻ để xác_định hoạt_động bất_thường , hoạt_động nghi_ngờ bằng cách sử_dụng các công_cụ phân_tích , khai_thác và cảnh_báo dựa trên dữ_liệu nhật_ký , cụ_thể như sau : 
+
+- Tổ_chức hoạt_động thẻ phải đánh_giá hàng ngày tối_thiểu các nội_dung dữ_liệu nhật_ký sau : 
+
++ Toàn_bộ các sự_kiện về an_toàn bảo_mật ; 
+
++ Các dữ_liệu nhật_ký của hệ_thống lưu_trữ , xử_lý , truyền nhận thông_tin thẻ ; 
+
++ Các dữ_liệu nhật_ký của các trang_thiết_bị an_toàn bảo_mật cho hệ_thống ( các thiết_bị tường lửa , hệ_thống phát_hiện xâm_nhập , phòng_chống xâm_nhập , các máy_chủ xác_thực ) . 
+
+- Tổ_chức hoạt_động thẻ phải đánh_giá toàn_bộ dữ_liệu nhật_ký theo quy_chế an_toàn bảo_mật và quy_định về quản_lý rủi_ro của đơn_vị .  Đánh_giá dữ_liệu nhật_ký tối_thiểu 01 lần/năm ; 
+
+- Trong quá_trình đánh_giá dữ_liệu nhật_ký , phải theo_dõi xử_lý các sự_kiện ngoại_lệ và sự_kiện bất_thường đã phát_hiện được . 
+
+h ) Dữ_liệu nhật_ký phải được lưu_trữ trực_tuyến tối_thiểu 03 tháng để sẵn_sàng truy_cập và sao lưu tối_thiểu 01 năm . 
+
+2 . Kiểm_tra về an_ninh hệ_thống thanh_toán thẻ 
+
+a ) Tổ_chức hoạt_động thẻ phải thực_hiện kiểm_soát các điểm truy_cập mạng không dây .  Có danh_sách các điểm truy_cập không dây ( nếu có ) được phép kết_nối vào mạng của đơn_vị , giải_thích rõ mục_đích sử_dụng và được người có thẩm_quyền phê_duyệt .  Định_kỳ hàng quý rà_soát các điểm truy_cập mạng không dây kết_nối vào mạng nội_bộ của đơn_vị ; 
+
+b ) Tổ_chức hoạt_động thẻ phải dò quét , đánh_giá các lỗ_hổng bảo_mật hệ_thống công_nghệ thông_tin từ bên trong và bên ngoài mạng đơn_vị tối_thiểu 01 lần/quý và ngay sau khi có bất_cứ thay_đổi quan_trọng nào trong hệ_thống ( bao_gồm : bổ_sung thêm các thiết_bị ;  thay_đổi mô_hình mạng ;  các thay_đổi chính_sách truy_cập của thiết_bị tường lửa ;  nâng_cấp , cập_nhật hệ điều_hành , ứng_dụng ) .  Thực_hiện khắc_phục ngay các lỗ_hổng bảo_mật ở mức_độ cao được xác_định theo Khoản 1 Điều 5 Thông_tư này ; 
+
+c ) Tổ_chức hoạt_động thẻ phải tổ_chức diễn_tập kịch_bản thử_nghiệm xâm_nhập theo các yêu_cầu sau : 
+
+- Thử_nghiệm xâm_nhập toàn_bộ các hệ_thống có lưu_trữ , xử_lý dữ_liệu chủ thẻ ; 
+
+- Thực_hiện thử_nghiệm xâm_nhập từ bên trong và bên ngoài hệ_thống ít_nhất 01 lần/năm và ngay sau khi có sự thay_đổi quan_trọng trong hệ_thống hoặc phát_hiện được các lỗ_hổng sau khi dò quét ; 
+
+- Thử_nghiệm xâm_nhập hệ_thống dựa trên các hướng_dẫn của các tổ_chức uy_tín về hoạt_động thử_nghiệm xâm_nhập và an_toàn bảo_mật ; 
+
+- Thử_nghiệm xâm_nhập khai_thác các lỗ_hổng được liệt_kê tại Khoản 5 Điều 5 của Thông_tư này ; 
+
+- Thử_nghiệm xâm_nhập đối_với cả mức mạng và mức ứng_dụng ; 
+
+- Đánh_giá và xem_xét các mối đe_dọa và lỗ_hổng bảo_mật đã xảy ra trong 12 tháng qua ; 
+
+- Lưu_trữ theo chế_độ mật kết_quả thử_nghiệm xâm_nhập và kết_quả hành_động khắc_phục ; 
+
+- Các lỗ_hổng có_thể bị khai_thác được phát_hiện được trong quá_trình thử_nghiệm xâm_nhập phải được khắc_phục và kiểm_tra lại đảm_bảo các lỗ_hổng được khắc_phục . 
+
+d ) Tổ_chức hoạt_động thẻ phải sử_dụng hệ_thống phát_hiện và phòng_chống xâm_nhập để phát_hiện và ngăn_chặn các xâm_nhập trái_phép vào hệ_thống mạng , giám_sát toàn_bộ các truy_cập đến môi_trường dữ_liệu chủ thẻ và cảnh_báo cho người quản_trị các nguy_cơ bị xâm_phạm .  Các thiết_bị phòng_chống xâm_nhập phải được cập_nhật các dấu_hiệu mã độc mới từ nhà cung_cấp ; 
+
+đ ) Tổ_chức hoạt_động thẻ phải kiểm_tra tính toàn_vẹn đối_với các dữ_liệu quan_trọng ( các tập_tin hệ_thống , các tập_tin cấu_hình , các tập_tin nội_dung ) tối_thiểu hàng tháng . 
+
+Điều 19 .  Yêu_cầu về đảm_bảo hoạt_động liên_tục 
+
+1 . Tổ_chức hoạt_động thẻ xây_dựng quy_trình khắc_phục sự_cố , quản_lý rủi_ro đối_với hệ_thống thanh_toán thẻ , định_kỳ tiến_hành rà_soát , cập_nhật quy_trình tối_thiểu 01 lần/năm . 
+
+2 . Hệ_thống công_nghệ thông_tin phục_vụ cho hoạt_động thanh_toán thẻ phải đảm_bảo khả_năng dự_phòng tại_chỗ và dự_phòng thảm_họa .  Hệ_thống dự_phòng thảm_họa phải thay_thế_hệ_thống chính trong thời_gian không quá 04 giờ kể từ khi hệ_thống chính bị sự_cố . 
+
+3 . Tối_thiểu 02 lần/năm , hệ_thống thanh_toán thẻ phải được chuyển hoạt_động từ hệ_thống chính sang hệ_thống dự_phòng để đảm_bảo tính đồng_nhất và sẵn_sàng của hệ_thống dự_phòng . 
+
+Điều 20 .  Chế_độ báo_cáo 
+
+1 . Báo_cáo định_kỳ hàng năm về việc thực_hiện các quy_định tại Thông_tư này : 
+
+a ) Thời_hạn gửi báo_cáo trước ngày 15 tháng 11 hàng năm ; 
+
+b ) Hình_thức gửi báo_cáo và mẫu báo_cáo theo hướng_dẫn của Ngân_hàng Nhà_nước Việt_Nam ( Cục Công_nghệ tin_học ) . 
+
+2 . Báo_cáo đột_xuất khi xảy ra vụ_việc mất an_toàn đối_với hệ_thống thanh_toán thẻ : 
+
+a ) Thời_hạn gửi báo_cáo : Trong vòng 10 ngày kể từ ngày vụ_việc được phát_hiện ; 
+
+b ) Nội_dung báo_cáo bao_gồm : ngày , địa_điểm phát_sinh vụ_việc ;  nguyên_nhân vụ_việc ;  đánh_giá rủi_ro , ảnh_hưởng đối_với hệ_thống thanh_toán thẻ và nghiệp_vụ tại nơi xảy ra vụ_việc và những địa_điểm khác có liên_quan ; 
+
+c ) Các biện_pháp tổ_chức đã tiến_hành để ngăn_chặn , khắc_phục và phòng_ngừa rủi_ro ;  kiến_nghị , đề_xuất . 
+
+Điều 21 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01/04/2015 . 
+
+Điều 22 .  Quy_định chuyển_tiếp 
+
+Tổ_chức hoạt_động thẻ có các trang_thiết_bị thanh_toán thẻ đã được lắp_đặt trước ngày Thông_tư này có hiệu_lực phải rà_soát , xây_dựng các phương_án xử_lý , trong đó , nêu rõ các yêu_cầu chưa đáp_ứng , biện_pháp và thời_hạn thực_hiện để đáp_ứng đầy_đủ các yêu_cầu tại Thông_tư và gửi Ngân_hàng Nhà_nước ( Cục Công_nghệ tin_học ) trước ngày 01/07/2015 . 
+
+Ngân_hàng Nhà_nước Việt_Nam ( Cục Công_nghệ tin_học ) xem_xét phương_án xử_lý , yêu_cầu tổ_chức hoạt_động thẻ sửa_đổi , bổ_sung phương_án xử_lý bao_gồm cả thời_hạn thực_hiện ( nếu thấy chưa đáp_ứng được yêu_cầu hoặc chưa đảm_bảo tính khả_thi ) và các biện_pháp trong phương_án xử_lý ;  giám_sát thực_hiện phương_án xử_lý của các tổ_chức hoạt_động thẻ . 
+
+Tổ_chức hoạt_động thẻ có trách_nhiệm thực_hiện phương_án xử_lý , sửa_đổi , bổ_sung và thực_hiện phương_án xử_lý theo ý_kiến của Ngân_hàng Nhà_nước Việt_Nam ( nếu có ) . 
+
+Điều 23 .  Trách_nhiệm tổ_chức thực_hiện 
+
+1 . Cục Công_nghệ tin_học có trách_nhiệm theo_dõi , kiểm_tra việc thực_hiện Thông_tư này và gửi kết_quả kiểm_tra cho các đơn_vị liên_quan để xử_lý . 
+
+2 . Cơ_quan Thanh_tra , giám_sát ngân_hàng có trách_nhiệm thanh_tra , giám_sát các tổ_chức , cá_nhân có liên_quan trong việc thực_hiện Thông_tư này và xử_lý vi_phạm theo quy_định của pháp_luật . 
+
+3 . Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm kiểm_tra , giám_sát , xử_lý vi_phạm theo thẩm_quyền đối_với hoạt_động ATM , POS trên địa_bàn theo các quy_định tại Thông_tư này và gửi kết_quả kiểm_tra về Ngân_hàng Nhà_nước Việt_Nam ( qua Cục Công_nghệ tin_học ) . 
+
+4 . Thủ_trưởng các đơn_vị liên_quan thuộc Ngân_hàng Nhà_nước Việt_Nam ;  Giám_đốc Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương ;  Chủ_tịch Hội_đồng quản_trị , Tổng_giám_đốc ( Giám_đốc ) các tổ_chức hoạt_động thẻ có trách_nhiệm tổ_chức thực_hiện Thông_tư này ./. 

@@ -1,0 +1,967 @@
+Thông tư Hướng dẫn kế toán áp dụng cho Người điều hành Dầu khí
+
+Căn_cứ <L rel="Pursuant"> Luật Kế_toán ngày 17 tháng 6 năm 2003 </L> ;
+Căn_cứ vào <L rel="Pursuant"> Luật_Dầu_khí ngày 06 tháng 7 năm 1993 </L> và <L rel="Pursuant"> Luật sửa_đổi bổ_sung một_số điều của <L rel="Others"> Luật_Dầu_khí </L> năm 2000 </L> , <L rel="Pursuant"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật_Dầu_khí </L> năm 2008 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 129/2004/NĐ-CP ngày 31 tháng 5 năm 2004 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Kế_toán </L> trong hoạt_động kinh_doanh ;
+Căn_cứ vào <NĐ rel="Pursuant"> Nghị_định 33/2013/NĐ-CP ngày 22 tháng 4 năm 2013 </NĐ> của Chính_phủ Ban_hành hợp_đồng mẫu của Hợp_đồng Chia sản_phẩm dầu_khí ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Căn_cứ vào <QĐ rel="Pursuant"> Quyết_định số 40/2007/QĐ-TTg ngày 21 tháng 3 năm 2007 </QĐ> của Thủ_tướng Chính_phủ về việc thu_dọn các công_trình cố_định , thiết_bị và phương_tiện phục_vụ hoạt_động dầu_khí ;
+Điều 1 .  Phạm_vi điều_chỉnh , đối_tượng áp_dụng 
+
+1 . Phạm_vi điều_chỉnh 
+
+- Thông_tư này quy_định kế_toán đối_với Người điều_hành dầu_khí . Những nội_dung không quy_định trong Thông_tư này , Người điều_hành dầu_khí thực_hiện theo quy_định của <L rel="Reference"> Luật Kế_toán </L> và các văn_bản hướng_dẫn <L rel="Others"> Luật kế_toán </L> ; Chế_độ Kế_toán doanh_nghiệp ban_hành theo <QĐ rel="Reference"> Quyết_định số 15/2006/QĐ-BTC ngày 20/3/2006 </QĐ> của Bộ_trưởng Bộ Tài_chính , <TT rel="Reference"> Thông_tư số 244/2009/TT-BTC ngày 31/12/2009 </TT> và các văn_bản hướng_dẫn sửa_đổi , bổ_sung , thay_thế Chế_độ Kế_toán doanh_nghiệp ( Dưới đây gọi tắt là Chế_độ kế_toán doanh_nghiệp hiện_hành ) .
+- Người điều_hành dầu_khí áp_dụng hệ_thống tài_khoản quy_định trong Chế_độ kế_toán doanh_nghiệp hiện_hành và những tài_khoản sửa_đổi , bổ_sung tại Thông_tư này để kế_toán phù_hợp với đặc_điểm hoạt_động và yêu_cầu quản_lý của mình . 
+
+2 . Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với Người điều_hành dầu_khí , công_ty điều_hành chung ( gọi chung là Người điều_hành dầu_khí ) đại_diện cho các bên tham_gia hợp_đồng dầu_khí tiến_hành hoạt_động tìm_kiếm , thăm_dò và khai_thác dầu_khí tại Việt_Nam . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . JOC : là hình_thức Công_ty điều_hành chung .  Theo hợp_đồng dầu_khí các bên nhà_thầu đồng_ý thành_lập một công_ty điều_hành chung , đóng vai_trò là đại_lý đại_diện cho các bên tham_gia hợp_đồng tiến_hành các hoạt_động thăm_dò , tìm_kiếm , phát_triển , khai_thác dầu_khí trong diện_tích_hợp_đồng , hoạt_động với tư_cách là người điều_hành duy_nhất thay_mặt các bên nhà_thầu thực_hiện quyền và nghĩa_vụ trong phạm_vi được ủy_quyền theo thỏa_thuận về điều_hành chung và phù_hợp với các quyết_định của Ủy_ban quản_lý . 
+
+2 . PSC : là hình_thức hợp_đồng_phân_chia sản_phẩm mà theo đó các bên tham_gia góp vốn cử ra một người điều_hành cho hợp_đồng , người điều_hành sẽ thay_mặt các bên tham_gia góp vốn thực_hiện các hoạt_động thăm_dò , tìm_kiếm , thẩm lượng , phát_triển và khai_thác dầu_khí theo các quyền_hạn , thỏa_thuận và theo các quy_định của Hợp_đồng_phân_chia sản_phẩm . 
+
+3 . POC : là hình_thức hợp_đồng điều_hành chung mà các bên nhà_thầu đồng_ý thành_lập một Công_ty điều_hành dầu_khí do phía Việt_Nam đại_diện là Tập_đoàn dầu_khí Việt_Nam ( PVN ) đứng ra làm Người điều_hành . 
+
+Điều 3 .  Chữ_viết sử_dụng trong kế_toán 
+
+1 . Trường_hợp Hợp_đồng dầu_khí quy_định sử_dụng chữ_viết là tiếng nước_ngoài thì thực_hiện theo quy_định của Hợp_đồng dầu_khí và phải dịch ra tiếng Việt khi có yêu_cầu cụ_thể của cơ_quan quản_lý Nhà_nước . 
+
+2 . Trường_hợp Hợp_đồng dầu_khí không quy_định chữ_viết sử_dụng trong kế_toán thì chữ_viết sử_dụng trên chứng từ kế_toán , sổ kế_toán và báo_cáo tài_chính ở Việt_Nam là tiếng Việt .  Nếu cần sử_dụng tiếng nước_ngoài thì phải sử_dụng đồng_thời cả tiếng Việt và tiếng nước_ngoài . 
+
+Điều 4 .  Đơn_vị tiền_tệ sử_dụng trong kế_toán 
+
+1 . Trường_hợp Hợp_đồng dầu_khí có quy_định về đơn_vị tiền_tệ sử_dụng trong kế_toán thì thực_hiện theo quy_định của Hợp_đồng dầu_khí . 
+
+2 . Trường_hợp Hợp_đồng dầu_khí không quy_định về đơn_vị tiền_tệ sử_dụng trong kế_toán thì đơn_vị tiền_tệ sử_dụng trong kế_toán được tuân theo quy_định của <L rel="Reference"> Luật Kế_toán </L> và các văn_bản hướng_dẫn <L rel="Others"> Luật Kế_toán </L> .
+Điều 5 .  Hệ_thống tài_khoản kế_toán 
+
+1 . Người điều_hành dầu_khí áp_dụng hệ_thống tài_khoản kế_toán ban_hành theo Chế_độ kế_toán doanh_nghiệp hiện_hành với sự sửa_đổi , bổ_sung một_số tài_khoản , đổi tên một_số tài_khoản kế_toán sau : 
+
+a ) Bổ_sung Tài_khoản 246-“ Chi_phí tìm_kiếm , thăm_dò , thẩm lượng ” .  Tài_khoản này dùng để phản_ánh chi_phí tìm_kiếm , thăm_dò , thẩm lượng dầu_khí và tình_hình quyết_toán chi_phí tìm_kiếm , thăm_dò , thẩm lượng dầu_khí .  Chi_phí tìm_kiếm , thăm_dò , thẩm lượng trong các hợp_đồng dầu_khí được theo_dõi chi_tiết theo từng Hợp_đồng dầu_khí . 
+
+b ) Bổ_sung Tài_khoản 247-“ Chi_phí phát_triển mỏ ” .  Tài_khoản này được dùng để phản_ánh chi_phí phát_triển các mỏ dầu_khí và tình_hình quyết_toán giá_trị đầu_tư phát_triển mỏ trong các Hợp_đồng dầu_khí . 
+
+c ) Bổ_sung Tài_khoản 248-“ Chi_phí khai_thác ” .  Tài_khoản này dùng để phản_ánh các chi_phí phát_sinh trong giai_đoạn khai_thác dầu_khí của từng Hợp_đồng dầu_khí . 
+
+d ) Bổ_sung Tài_khoản 249-“ Chi_phí không được thu_hồi ” : Tài_khoản này dùng để phản_ánh các chi_phí phát_sinh trong các giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển mỏ và giai_đoạn khai_thác nhưng không được phép thu_hồi theo quy_định của Hợp_đồng dầu_khí và các chi_phí bị treo , bị loại trong quá_trình kiểm_toán theo Báo_cáo kiểm_toán của Tập_đoàn Dầu_khí Việt_Nam . 
+
+đ ) Bổ_sung Tài_khoản 251-“ Chi_phí đã thu_hồi ” : Tài_khoản này phản_ánh số chi_phí đã được thu_hồi thông_qua dầu thu_hồi chi_phí trên cơ_sở chi trước-thu_hồi trước theo quy_định của Hợp_đồng dầu_khí . 
+
+e ) Đổi tên Tài_khoản 341-“ Vay dài_hạn ” thành “ Vốn góp của các bên nhà_thầu khác ” : Tài_khoản này dùng để phản_ánh số tiền góp của các bên nhà_thầu khác không phải là công_ty_mẹ-Người điều_hành tham_gia hợp_đồng theo quy_định của Hợp_đồng dầu_khí .  Tài_khoản 341-Vốn góp của các bên nhà_thầu khác được mở thêm hai tài_khoản cấp 2 như sau : 
+
+- Tài_khoản 3411-Vốn góp của các bên nhà_thầu khác : Tài_khoản này dùng để phản_ánh số vốn của các bên Nhà_thầu tham_gia hợp_đồng góp vào theo quy_định của Hợp_đồng dầu_khí . 
+
+- Tài_khoản 3412-Thu_hồi vốn góp của các bên nhà_thầu khác : Tài_khoản này dùng để phản_ánh số vốn góp của các bên Nhà_thầu tham_gia hợp_đồng đã được thu_hồi thông_qua dầu thu_hồi chi_phí trên cơ_sở chi trước-thu_hồi trước . 
+
+g ) Đổi tên Tài_khoản 411-“ Nguồn vốn kinh_doanh ” thành “ Vốn góp của công_ty_mẹ-Người điều_hành ” .  Tài_khoản này phản_ánh tình_hình hiện có và tình_hình tăng , giảm nguồn vốn góp của Công_ty_mẹ-Người điều_hành theo quy_định của Hợp_đồng dầu_khí .  Tài_khoản 411-Vốn góp của công_ty_mẹ-Người điều_hành được mở thêm hai tài_khoản cấp 2 như sau : 
+
+- Tài_khoản 4111-“ Vốn góp của Công_ty_mẹ-Người điều_hành ” : Tài_khoản này dùng để phản_ánh số vốn của công_ty_mẹ-Người điều_hành góp vào theo quy_định của Hợp_đồng dầu_khí . 
+
+- Tài_khoản 4112-“ Thu_hồi vốn góp của Công_ty_mẹ-Người điều_hành ” : Tài_khoản này dùng để phản_ánh số vốn góp của Công_ty_mẹ-Người điều_hành đã được thu_hồi thông_qua dầu thu_hồi chi_phí trên cơ_sở chi trước-thu_hồi trước . 
+
+h ) Đổi tên Tài_khoản 642-“ Chi_phí quản_lý doanh_nghiệp ” thành “ Chi_phí quản_lý hành_chính chung ” .  Tài_khoản này phản_ánh chi_phí bộ_phận quản_lý , hành_chính của Người điều_hành dầu_khí phát_sinh trong kỳ . 
+
+2 . Hệ_thống tài_khoản kế_toán áp_dụng cho Người điều_hành dầu_khí với những sửa_đổi , bổ_sung nêu trên ban_hành tại Phụ_lục số 01 kèm theo Thông_tư này .  Trường_hợp Người điều_hành dầu_khí có phát_sinh các hoạt_động kinh_tế khác thì được sử_dụng tài_khoản liên_quan ngoài hệ_thống tài_khoản được quy_định tại Thông_tư này nhưng nằm trong Hệ_thống tài_khoản kế_toán quy_định tại Chế_độ kế_toán doanh_nghiệp hiện_hành thì không cần phải đề_nghị Bộ Tài_chính chấp_thuận . 
+
+Điều 6 .  Kế_toán chi_phí tìm_kiếm , thăm_dò , thẩm lượng 
+
+1 . Tài_khoản 246-Chi_phí tìm_kiếm , thăm_dò , thẩm lượng dùng để phản_ánh chi_phí tìm_kiếm , thăm_dò , thẩm lượng dầu_khí phát_sinh trong quá_trình tìm_kiếm , thăm_dò , thẩm lượng dầu_khí .  Chi_phí tìm_kiếm , thăm_dò , thẩm lượng dầu_khí được theo_dõi chi_tiết theo từng Hợp_đồng dầu_khí . 
+
+2 . Nguyên_tắc kế_toán 
+
+a ) Chi_phí tìm_kiếm , thăm_dò , thẩm lượng dầu_khí là các chi_phí phát_sinh để nhằm mục_đích tìm_kiếm , đánh_giá tiềm_năng dầu_khí , xác_định sự tồn_tại trữ_lượng và khả_năng khai_thác thương_mại của dầu_khí trong phạm_vi đối_tượng ( vỉa , thành hệ ) cấu_tạo , cụm cấu_tạo , lô hoặc bể trầm_tích bao_gồm các công_việc : chuẩn_bị , khảo_sát địa_chất , địa_vật_lý , địa_hóa và các khảo_sát khác ;  các phân_tích và nghiên_cứu , khoan , đóng giếng ;  thử vỉa ;  hoàn_thiện giếng ;  sửa_chữa giếng ;  hủy giếng ;  các kế_hoạch thẩm lượng và các công_việc khác .  Chi_phí tìm_kiếm , thăm_dò , thẩm lượng có_thể bao_gồm : 
+
+- Chi_phí liên_quan đến việc thu_thập tài_liệu về địa_vật_lý , địa_hóa , địa_chất , địa_hình tầng chứa và thu_thập số_liệu khoan bao_gồm xử_lý , tái xử_lý , phân_tích và minh giải dữ_liệu ; 
+
+- Chi_phí nhân_công , nguyên_liệu , nhiên_liệu , vật_tư dự_trữ , thiết_bị và dịch_vụ được sử_dụng trong việc khoan các giếng thăm_dò và giếng thẩm lượng ; 
+
+- Chi_phí quản_lý hành_chính chung được phân_bổ cho hoạt_động tìm_kiếm , thăm_dò , thẩm lượng dầu_khí ; 
+
+- Các chi_phí khác liên_quan trực_tiếp đến giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng dầu_khí . 
+
+b ) Trường_hợp Hợp_đồng dầu_khí quy_định các khoản dưới đây được ghi giảm chi_phí tìm_kiếm , thăm_dò , thẩm lượng thì Người điều_hành dầu_khí thực_hiện ghi giảm chi_phí tìm_kiếm , thăm_dò , thẩm lượng ( sau khi đã thực_hiện đầy_đủ các nghĩa_vụ với ngân_sách Nhà_nước theo quy_định của pháp_luật-nếu có ) : 
+
+- Khoản thu từ dầu , khí khai_thác , được phép sử_dụng để bù_đắp chi_phí tìm_kiếm , thăm_dò , thẩm lượng dầu_khí ; 
+
+- Các khoản thu từ bảo_hiểm hoặc bồi_thường liên_quan trực_tiếp đến hoạt_động tìm_kiếm , thăm_dò , thẩm lượng dầu_khí ; 
+
+- Doanh_thu từ việc cho bên thứ ba thuê , sử_dụng tài_sản liên_quan trực_tiếp đến hoạt_động tìm_kiếm , thăm_dò , thẩm lượng dầu_khí ; 
+
+- Số thu từ việc thanh_lý_tài_sản liên_quan trực_tiếp đến hoạt_động tìm_kiếm , thăm_dò , thẩm lượng dầu_khí ; 
+
+- Các khoản thu khác liên_quan trực_tiếp đến hoạt_động tìm_kiếm , thăm_dò , thẩm lượng dầu_khí . 
+
+Trường_hợp các khoản thu được nêu trên liên_quan đến nhiều hoạt_động và không_thể bóc tách riêng cho từng hoạt_động như tìm_kiếm , thăm_dò , thẩm lượng ;  hoạt_động phát_triển và hoạt_động khai_thác thì Người điều_hành dầu_khí phân_bổ số thu và ghi giảm chi_phí ( Bao_gồm các chi_phí tìm_kiếm , thăm_dò , thẩm lượng , chi_phí phát_triển mỏ và chi_phí khai_thác ) theo tiêu_thức phù_hợp_nhất với từng hợp_đồng dầu_khí và đặc_điểm hoạt_động của Người điều_hành dầu_khí . 
+
+c ) Khi Hợp_đồng dầu_khí hết thời_hạn hoạt_động , Người điều_hành dầu_khí phải tất_toán số chi_phí tìm_kiếm , thăm_dò , thẩm lượng và số chi_phí đã thu_hồi .  Phần chênh_lệch giữa số chi_phí tìm_kiếm , thăm_dò , thẩm lượng cao hơn số chi_phí thực_tế thu_hồi được ghi giảm vào phần góp vốn của các bên . 
+
+d ) Người điều_hành dầu_khí phải tập_hợp và theo_dõi chi_tiết các chi_phí tìm_kiếm , thăm_dò , thẩm lượng có_thể được thu_hồi và chi_phí không được thu_hồi theo từng Hợp_đồng dầu_khí .  Người điều_hành dầu_khí được mở chi_tiết các Tài_khoản cấp 2 , cấp 3 của Tài_khoản 246-Chi_phí tìm_kiếm , thăm_dò , thẩm lượng phù_hợp với yêu_cầu quản_lý của mình . 
+
+3 . Nội_dung , kết_cấu và phương_pháp hạch_toán Tài_khoản 246-Chi_phí tìm_kiếm , thăm_dò , thẩm lượng 
+
+Bên Nợ : Các khoản chi_phí liên_quan đến hoạt_động tìm_kiếm , thăm_dò , thẩm lượng dầu_khí phát_sinh trong kỳ . 
+
+Bên Có : 
+
+- Các khoản thu khác được ghi giảm chi_phí tìm_kiếm , thăm_dò , thẩm lượng . 
+
+- Kết chuyển chi_phí tìm_kiếm , thăm_dò , thẩm lượng khi kết_thúc Hợp_đồng dầu_khí . 
+
+Số_dư Bên Nợ : Chi_phí tìm_kiếm , thăm_dò , thẩm lượng lũy_kế tại thời_điểm báo_cáo . 
+
+4 . Phương_pháp kế_toán chi_phí tìm_kiếm , thăm_dò , thẩm lượng 
+
+a ) Khi phát_sinh các chi_phí tìm_kiếm , thăm_dò , thẩm lượng liên_quan đến Hợp_đồng dầu_khí như chi_phí địa_chất-địa_vật_lý ;  chi_phí khoan , ghi : 
+
+Nợ TK 246-Chi_phí tìm_kiếm , thăm_dò , thẩm lượng 
+
+Nợ TK 133-Thuế_GTGT được khấu_trừ 
+
+Có các TK 111 , 112 , 331 . 
+
+b ) Trường_hợp theo quy_định của Hợp_đồng dầu_khí , nguyên vật_liệu , công_cụ dụng_cụ mua về không được tính luôn vào chi_phí tìm_kiếm , thăm_dò , thẩm lượng mà chỉ được ghi_nhận vào chi_phí khi đưa vào sử_dụng cho mục_đích tìm_kiếm , thăm_dò , thẩm lượng dầu_khí thì khi mua về phải làm thủ_tục nhập kho và kế_toán theo quy_định hiện_hành .  Khi xuất kho nguyên vật_liệu , công_cụ dụng_cụ , vật_tư dùng cho hoạt_động tìm_kiếm , thăm_dò , thẩm lượng , ghi : 
+
+Có các TK 152,153 . 
+
+c ) Định_kỳ phân_bổ chi_phí quản_lý hành_chính chung vào chi_phí tìm_kiếm , thăm_dò , thẩm lượng , ghi : 
+
+Có TK 642-Chi_phí quản_lý hành_chính chung . 
+
+d ) Kế_toán các khoản thu từ bảo_hiểm hoặc yêu_cầu bồi_thường liên_quan đến hoạt_động dầu_khí , số thu từ việc cho bên thứ ba thuê , sử_dụng quyền sở_hữu tài_sản , các khoản điều_chỉnh nhận được từ các nhà cung_cấp có liên_quan đến vật_tư kém phẩm_chất , hay không đúng quy_cách , mà trước đó đã được ghi_nhận vào chi_phí ;  thu từ việc thanh_lý vật_tư , tài_sản mà trước đó đã được ghi_nhận vào chi_phí nhưng không còn cần_thiết để sử_dụng trong hoạt_động dầu_khí và các khoản thu_nhập khác liên_quan trực_tiếp đến hoạt_động tìm_kiếm , thăm_dò , thẩm lượng dầu_khí ( sau khi thực_hiện các nghĩa_vụ thuế theo quy_định của pháp_luật-nếu có ) được ghi giảm chi_phí tìm_kiếm , thăm_dò , thẩm lượng theo quy_định của Hợp_đồng dầu_khí , ghi : 
+
+Nợ các TK 111 , 112 
+
+Có TK 246-Chi_phí tìm_kiếm , thăm_dò , thẩm lượng ( nếu được ghi giảm chi_phí thu_hồi ) 
+
+Có TK 338-Phải trả , phải nộp khác ( Nếu phải trả lại cho PVN ) 
+
+Có TK 33311-Thuế GTGT đầu_ra phải nộp ( nếu có ) 
+
+e ) Khi kết_thúc Hợp_đồng dầu_khí , Người điều_hành dầu_khí thực_hiện kết chuyển số chi_phí tìm_kiếm , thăm_dò , thẩm lượng đã được thu_hồi , ghi : 
+
+Nợ TK 251-Chi_phí đã thu_hồi 
+
+Có TK 246-Chi_phí tìm_kiếm , thăm_dò , thẩm lượng . 
+
+g ) Khi kết_thúc Hợp_đồng dầu_khí , trường_hợp chi_phí tìm_kiếm , thăm_dò , thẩm lượng phát_sinh cao hơn số chi_phí đã thu_hồi , phần chênh_lệch được ghi giảm vốn góp của các bên , ghi : 
+
+Nợ các TK 3411 , 4111 
+
+Có TK 246-Chi_phí tìm_kiếm , thăm_dò , thẩm lượng . 
+
+Điều 7 .  Kế_toán chi_phí phát_triển mỏ 
+
+1 . Tài_khoản 247-Chi_phí phát_triển mỏ được dùng để phản_ánh chi_phí phát_triển các mỏ dầu , khí .  Chi_phí phát_triển mỏ được theo_dõi chi_tiết theo từng Hợp_đồng dầu_khí . 
+
+a ) Chi_phí phát_triển mỏ là toàn_bộ chi_phí trực_tiếp và chi_phí gián_tiếp liên_quan đến hoạt_động phát_triển một hoặc nhiều vỉa dầu_khí trong một diện_tích phát_triển của từng Hợp_đồng dầu_khí , bao_gồm : 
+
+- Các chi_phí liên_quan đến việc khoan và hoàn_thiện các giếng phát_triển , như : Chi_phí khảo_sát địa_chất công_trình phục_vụ khoan , thiết_kế giếng_khoan và các chi_phí liên_quan đến công_tác khoan khác trong giai_đoạn phát_triển ; 
+
+- Các chi_phí xây_dựng phát_triển mỏ , như : Chi_phí thiết_kế mỏ , lập sơ_đồ công_nghệ mỏ , thiết_kế và xây_dựng dàn công_nghệ , hệ_thống đường_ống công_nghệ , các nghiên_cứu_khả_thi , thiết_kế công_nghệ và các chi_phí liên_quan đến giai_đoạn phát_triển mỏ ; 
+
+- Các chi_phí , như : Lao_động , vật_tư tiêu_hao và các dịch_vụ không có giá_trị tận_dụng lại phát_sinh trong quá_trình khoan và khoan sâu thêm các giếng ; 
+
+- Chi_phí quản_lý hành_chính chung được phân_bổ cho hoạt_động phát_triển mỏ ; 
+
+- Các chi_phí khác liên_quan trực_tiếp đến hoạt_động phát_triển mỏ . 
+
+b ) Trường_hợp Hợp_đồng dầu_khí có quy_định các khoản dưới đây được ghi giảm chi_phí phát_triển thì Người điều_hành dầu_khí thực_hiện ghi giảm chi_phí phát_triển theo quy_định của Hợp_đồng dầu_khí ( sau khi đã thực_hiện đầy_đủ các nghĩa_vụ với ngân_sách Nhà_nước theo quy_định của pháp_luật-nếu có ) : 
+
+- Khoản thu từ dầu , khí khai_thác , được phép sử_dụng để bù_đắp chi_phí phát_triển mỏ ; 
+
+- Các khoản thu từ bảo_hiểm hoặc bồi_thường liên_quan trực_tiếp đến hoạt_động phát_triển mỏ ; 
+
+- Doanh_thu từ việc cho bên thứ ba thuê , sử_dụng tài_sản liên_quan trực_tiếp đến hoạt_động phát_triển mỏ ; 
+
+- Số thu từ việc thanh_lý_tài_sản liên_quan trực_tiếp đến hoạt_động phát_triển mỏ ; 
+
+- Các khoản thu khác liên_quan trực_tiếp đến hoạt_động phát_triển mỏ . 
+
+Trường_hợp các khoản thu được nêu trên liên_quan đến nhiều hoạt_động và không_thể bóc tách riêng cho từng hoạt_động như tìm_kiếm , thăm_dò , thẩm lượng , hoạt_động phát_triển mỏ và hoạt_động khai_thác thì Người điều_hành dầu_khí phân_bổ số thu và ghi giảm ( bao_gồm các chi_phí tìm_kiếm , thăm_dò , thẩm lượng , chi_phí phát_triển mỏ và chi_phí khai_thác ) theo tiêu_thức phù_hợp_nhất với từng Hợp_đồng dầu_khí và đặc_điểm hoạt_động của Người điều_hành dầu_khí . 
+
+c ) Khi Hợp_đồng dầu_khí hết thời_hạn hoạt_động , Người điều_hành dầu_khí phải tất_toán số chi_phí phát_triển mỏ và số chi_phí đã thu_hồi .  Phần chênh_lệch giữa số chi_phí phát_triển mỏ cao hơn số chi_phí thực_tế thu_hồi được ghi giảm vào phần góp vốn của các bên . 
+
+d ) Người điều_hành dầu_khí phải tập_hợp và theo_dõi chi_tiết các chi_phí phát_triển mỏ có_thể được thu_hồi và chi_phí không được thu_hồi theo từng Hợp_đồng dầu_khí .  Người điều_hành dầu_khí được mở chi_tiết các Tài_khoản cấp 2 , cấp 3 của Tài_khoản 247-Chi_phí phát_triển mỏ phù_hợp với yêu_cầu quản_lý của mình . 
+
+3 . Nội_dung , kết_cấu và phương_pháp hạch_toán Tài_khoản 247-Chi_phí phát_triển mỏ 
+
+Bên Nợ : Các khoản chi_phí liên_quan đến hoạt_động phát_triển mỏ của Hợp_đồng dầu_khí phát_sinh trong kỳ . 
+
+- Kết chuyển chi_phí phát_triển mỏ khi kết_thúc Hợp_đồng dầu_khí ; 
+
+- Các khoản thu khác được ghi giảm chi_phí phát_triển mỏ . 
+
+Số_dư Bên Nợ : Chi_phí phát_triển mỏ lũy_kế tại thời_điểm báo_cáo . 
+
+4 . Phương_pháp kế_toán chi_phí phát_triển mỏ 
+
+a ) Khi phát_sinh các chi_phí liên_quan trực_tiếp đến hoạt_động phát_triển mỏ , ghi : 
+
+Nợ TK 247-Chi_phí phát_triển mỏ 
+
+b ) Trường_hợp theo quy_định của Hợp_đồng dầu_khí , nguyên vật_liệu , công_cụ dụng_cụ mua về không được tính luôn vào chi_phí phát_triển mỏ mà chỉ được ghi_nhận vào chi_phí khi đưa vào sử_dụng , thì khi mua về phải làm thủ_tục nhập kho và hạch_toán theo quy_định hiện_hành .  Khi xuất kho nguyên vật_liệu , công_cụ dụng_cụ , vật_tư dùng cho hoạt_động phát_triển mỏ , ghi : 
+
+c ) Định_kỳ phân_bổ chi_phí quản_lý hành_chính chung vào chi_phí phát_triển mỏ , ghi : 
+
+d ) Kế_toán các khoản thu từ bảo_hiểm hoặc yêu_cầu bồi_thường liên_quan đến hoạt_động dầu_khí , số thu từ việc cho bên thứ ba thuê , sử_dụng quyền sở_hữu tài_sản , các khoản điều_chỉnh nhận được từ các nhà cung_cấp có liên_quan đến vật_tư kém phẩm_chất , hay không đúng quy_cách , mà trước đó đã được ghi_nhận vào chi_phí ;  thu từ việc thanh_lý vật_tư , tài_sản mà trước đó đã được ghi_nhận vào chi_phí nhưng không còn cần_thiết để sử_dụng trong hoạt_động dầu_khí và các khoản thu_nhập khác liên_quan trực_tiếp đến hoạt_động phát_triển mỏ , ( sau khi thực_hiện các nghĩa_vụ thuế theo quy_định của pháp_luật-nếu có ) được ghi giảm chi_phí phát_triển mỏ , ghi : 
+
+Có TK 247-Chi_phí phát_triển mỏ ( nếu được ghi giảm chi_phí thu_hồi ) 
+
+e ) Khi kết_thúc Hợp_đồng dầu_khí , Người điều_hành dầu_khí thực_hiện kết chuyển số chi_phí phát_triển mỏ đã được thu_hồi , ghi : 
+
+Có TK 247-Chi_phí phát_triển mỏ . 
+
+f ) Khi kết_thúc hợp_đồng dầu_khí , trường_hợp chi_phí phát_triển mỏ phát_sinh cao hơn số chi_phí đã thu_hồi , phần chênh_lệch được ghi giảm vốn góp của các bên , ghi : 
+
+Điều 8 .  Kế_toán giai_đoạn khai_thác 
+
+1 . Tài_khoản 248-Chi_phí khai_thác dùng để phản_ánh các chi_phí phát_sinh trong giai_đoạn khai_thác dầu_khí . 
+
+a ) Chi_phí khai_thác là tất_cả các chi_phí trực_tiếp và gián_tiếp được phân_bổ , phát_sinh trong quá_trình khai_thác dầu_thô và khí thiên_nhiên trong từng Hợp_đồng dầu_khí bao_gồm cả phần chi_phí chung và chi_phí hành_chính có_thể được phân_bổ vào chi_phí khai_thác theo quy_định của Hợp_đồng dầu_khí .  Chi_phí khai_thác có_thể bao_gồm : 
+
+- Chi_phí cho việc vận_hành và bảo_dưỡng phương_tiện cần_thiết và lập lịch_trình , điều_khiển ; 
+
+- Chi_phí đo_lường , thử vỉa và gọi dòng , thu_gom ; 
+
+- Chi_phí xử_lý , tàng_trữ và vận_chuyển dầu_thô và khí thiên_nhiên từ bể chứa dầu_khí đến điểm giao_nhận ; 
+
+- Chi_phí quản_lý hành_chính chung được phân_bổ cho hoạt_động khai_thác ; 
+
+- Chi_phí thu_dọn mỏ ; 
+
+- Các chi_phí khác liên_quan trực_tiếp đến hoạt_động khai_thác . 
+
+b ) Trường_hợp Hợp_đồng dầu_khí có quy_định các khoản dưới đây được ghi giảm chi_phí khai_thác thì Người điều_hành dầu_khí thực_hiện ghi giảm chi_phí khai_thác theo quy_định của Hợp_đồng dầu_khí ( sau khi đã thực_hiện đầy_đủ các nghĩa_vụ với ngân_sách Nhà_nước theo quy_định của pháp_luật-nếu có ) : 
+
+- Khoản thu từ dầu , khí khai_thác , được phép sử_dụng để bù_đắp chi_phí khai_thác ; 
+
+- Các khoản thu từ bảo_hiểm hoặc bồi_thường liên_quan trực_tiếp đến hoạt_động khai_thác ; 
+
+- Doanh_thu từ việc cho bên thứ ba thuê , sử_dụng tài_sản liên_quan trực_tiếp đến hoạt_động khai_thác ; 
+
+- Số thu từ việc thanh_lý_tài_sản liên_quan trực_tiếp đến hoạt_động khai_thác ; 
+
+- Các khoản thu khác liên_quan trực_tiếp đến hoạt_động khai_thác . 
+
+Trường_hợp các khoản thu được nêu trên liên_quan đến nhiều hoạt_động và không_thể bóc tách riêng cho từng hoạt_động , như : Tìm_kiếm , thăm_dò , thẩm lượng ;  hoạt_động phát_triển và hoạt_động khai_thác thì Người điều_hành dầu_khí phân_bổ số thu và ghi giảm chi_phí ( bao_gồm các chi_phí tìm_kiếm , thăm_dò , thẩm lượng , chi_phí phát_triển mỏ và chi_phí khai_thác ) theo tiêu_thức phù_hợp_nhất với từng Hợp_đồng dầu_khí và đặc_điểm hoạt_động của Người điều_hành . 
+
+c ) Định_kỳ , Người điều_hành dầu_khí phải nộp tiền ký_quỹ cho nước chủ nhà ( đại_diện là Tập_đoàn Dầu_khí Việt_Nam-PVN ) để trích_lập Quỹ đảm_bảo nghĩa_vụ tài_chính cho việc thu_dọn mỏ , hoàn_trả mặt_bằng và được tính vào chi_phí khai_thác .  Trường_hợp_số tiền trích quỹ lớn hơn chi_phí thực_tế phát_sinh liên_quan đến việc thu_dọn mỏ thì phần số quỹ chưa sử_dụng hết được ghi giảm chi_phí khai_thác ( nếu chưa thu_hồi hết chi_phí ) hoặc phản_ánh là khoản phải trả cho các bên trong Hợp_đồng dầu_khí . 
+
+d ) Khi Hợp_đồng dầu_khí hết thời_hạn hoạt_động , Người điều_hành dầu_khí phải tất_toán số chi_phí khai_thác và số chi_phí đã thu_hồi .  Phần chênh_lệch giữa số chi_phí khai_thác cao hơn số chi_phí thực_tế thu_hồi được ghi giảm vào phần góp vốn của các bên . 
+
+đ ) Người điều_hành dầu_khí phải tập_hợp và theo_dõi chi_tiết các chi_phí khai_thác có_thể được thu_hồi theo từng Hợp_đồng dầu_khí .  Người điều_hành dầu_khí được mở chi_tiết các Tài_khoản cấp 2 , cấp 3 của Tài_khoản 248-Chi_phí khai_thác phù_hợp với yêu_cầu quản_lý của mình .  Người điều_hành dầu_khí được mở Tài_khoản cấp 2 để theo_dõi riêng các chi_phí được vốn_hóa và chi_phí phát_sinh trong kỳ của giai_đoạn khai_thác . 
+
+3 . Nội_dung , kết_cấu và phương_pháp hạch_toán Tài_khoản 248-Chi_phí khai_thác 
+
+Bên Nợ : Các khoản chi_phí liên_quan đến hoạt_động khai_thác của Hợp_đồng dầu_khí phát_sinh trong kỳ . 
+
+- Kết chuyển chi_phí khai_thác khi kết_thúc Hợp_đồng dầu_khí ; 
+
+- Các khoản thu khác được ghi giảm chi_phí khai_thác . 
+
+Số_dư Bên Nợ : Chi_phí khai_thác lũy_kế tại thời_điểm báo_cáo . 
+
+4 . Phương_pháp kế_toán chi_phí khai_thác 
+
+a ) Khi phát_sinh các chi_phí liên_quan trực_tiếp đến hoạt_động khai_thác , ghi : 
+
+Nợ TK 248-Chi_phí khai_thác 
+
+b ) Trường_hợp theo quy_định của Hợp_đồng dầu_khí nguyên vật_liệu , công_cụ dụng_cụ mua về không được tính luôn vào chi_phí khai_thác mà chỉ được ghi_nhận vào chi_phí khi đưa vào sử_dụng thì khi mua về phải làm thủ_tục nhập kho và hạch_toán theo quy_định hiện_hành .  Khi xuất kho nguyên vật_liệu , công_cụ dụng_cụ , vật_tư dùng cho hoạt_động khai_thác , ghi : 
+
+c ) Định_kỳ phân_bổ chi_phí quản_lý hành_chính chung vào chi_phí khai_thác , ghi : 
+
+d ) Kế_toán các khoản thu từ bảo_hiểm hoặc yêu_cầu bồi_thường liên_quan đến hoạt_động dầu_khí , số thu từ việc cho bên thứ ba sử_dụng quyền sở_hữu tài_sản , các khoản điều_chỉnh nhận được từ các nhà cung_cấp có liên_quan đến vật_tư kém phẩm_chất , hay không đúng quy_cách , mà trước đó đã được ghi_nhận vào chi_phí ;  thu từ việc thanh_lý vật_tư , tài_sản mà trước đó đã được ghi_nhận vào chi_phí nhưng không còn cần_thiết để sử_dụng trong hoạt_động dầu_khí và các khoản thu_nhập khác liên_quan trực_tiếp đến hoạt_động khai_thác ( sau khi thực_hiện các nghĩa_vụ thuế theo quy_định của pháp_luật-nếu có ) được ghi giảm chi_phí khai_thác , ghi : 
+
+Có TK 248-Chi_phí khai_thác ( Nếu được ghi giảm chi_phí thu_hồi ) 
+
+Có TK 338-Phải trả , phải nộp khác ( nếu phải trả cho PVN ) 
+
+e ) Khi trích_lập Quỹ đảm_bảo nghĩa_vụ tài_chính cho việc thu_dọn công_trình cố_định , thiết_bị và phương_tiện , ghi : 
+
+Có TK 335-Chi_phí phải trả . 
+
+f ) Khi kết_thúc việc thu_dọn mỏ , nếu Quỹ đảm_bảo nghĩa_vụ tài_chính không sử_dụng hết thì phần Quỹ còn lại sẽ được xử_lý như sau : 
+
+- Trường_hợp các bên Nhà_thầu chưa thu_hồi hết chi_phí , phần Quỹ còn lại được ghi giảm chi_phí khai_thác , ghi : 
+
+Nợ TK 335-Chi_phí phải trả 
+
+Có TK 248-Chi_phí khai_thác . 
+
+- Trường_hợp các bên nhà_thầu đã thu_hồi hết chi_phí , phần Quỹ còn lại sau khi đã nộp tiền lãi cho nước chủ nhà được phản_ánh là khoản phải trả khác cho các bên , theo từng trường_hợp cụ_thể sau : 
+
++ Nếu Người điều_hành dầu_khí thay_mặt cho các bên nộp Ngân_sách Nhà_nước phần lãi nước chủ nhà được hưởng , ghi : 
+
+Có TK 333-Thuế và các khoản phải nộp Nhà_nước ( phần lãi nước chủ nhà được hưởng ) 
+
+Có TK 338-Phải trả khác . 
+
++ Nếu PVN giữ lại phần lãi nước chủ nhà được hưởng , ghi : 
+
+Có TK 244-Ký_quỹ , ký cược ( Phần lãi nước chủ nhà được hưởng ) 
+
+g ) Khi kết_thúc Hợp_đồng dầu_khí , Người điều_hành dầu_khí thực_hiện kết chuyển số chi_phí khai_thác đã được thu_hồi , ghi : 
+
+h ) Khi kết_thúc hợp_đồng dầu_khí , trường_hợp chi_phí khai_thác phát_sinh cao hơn số chi_phí đã thu_hồi , phần chênh_lệch được ghi giảm vốn góp của các bên , ghi : 
+
+Điều 9 .  Kế_toán chi_phí không được thu_hồi 
+
+1 . Tài_khoản 249-Chi_phí không được thu_hồi được dùng để phản_ánh số chi_phí không được thu_hồi theo quy_định của Hợp_đồng dầu_khí và các chi_phí bị treo , bị loại trong quá_trình kiểm_toán theo Báo_cáo kiểm_toán của Tập_đoàn Dầu_khí Việt_Nam . 
+
+Người điều_hành dầu_khí phải tập_hợp và theo_dõi chi_tiết các chi_phí không được thu_hồi theo từng giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển , giai_đoạn khai_thác dầu_khí .  Người điều_hành dầu_khí được mở chi_tiết tài_khoản cấp 2 , cấp 3 của Tài_khoản 249-Chi_phí không được thu_hồi phù_hợp với yêu_cầu quản_lý của mình . 
+
+3 . Nội_dung , kết_cấu và phương_pháp hạch_toán Tài_khoản 249-Chi_phí không được thu_hồi 
+
+Bên Nợ : Các khoản chi_phí không được thu_hồi của các giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển và giai_đoạn khai_thác dầu_khí phát_sinh trong kỳ . 
+
+- Các chi_phí không được thu_hồi đáp_ứng đủ điều_kiện theo quy_định của pháp_luật và Hợp_đồng dầu_khí và được tái_phân_loại là chi_phí thu_hồi ; 
+
+- Ghi giảm chi_phí không được thu_hồi khi kết_thúc hợp_đồng dầu_khí . 
+
+Số_dư bên Nợ : Chi_phí không được thu_hồi lũy_kế tại thời_điểm báo_cáo . 
+
+4 . Phương_pháp hạch_toán chi_phí không được thu_hồi 
+
+a ) Khi các chi_phí trong giai_đoạn tìm_kiếm thăm_dò , thẩm lượng ;  giai_đoạn phát_triển , giai_đoạn khai_thác được xác_định là chi_phí không được thu_hồi , ghi : 
+
+Nợ TK 249-Chi_phí không được thu_hồi 
+
+Có các TK 246 , 247 , 248 . 
+
+b ) Khi các khoản chi_phí không được thu_hồi đáp_ứng đủ điều_kiện theo quy_định của pháp_luật và Hợp_đồng dầu_khí được tái_phân_loại là chi_phí thu_hồi , ghi : 
+
+Nợ TK 246 , 247 , 248 
+
+Có TK 249-Chi_phí không được thu_hồi . 
+
+c ) Khi kết_thúc Hợp_đồng dầu_khí , kế_toán ghi giảm chi_phí không được thu_hồi và số vốn góp của các bên , ghi : 
+
+d ) Khi thanh_lý_số nguyên vật_liệu , công_cụ dụng_cụ còn tồn_kho chưa xuất dùng cho các hoạt_động dầu_khí : 
+
+- Trường_hợp_số tiền thu từ việc thanh_lý nhỏ hơn giá_trị ghi sổ nguyên vật_liệu , công_cụ dụng_cụ , ghi : 
+
+, 131 .  . . Số thu từ việc thanh_lý 
+
+( Phần chênh_lệch giữa số thu từ việc thanh_lý nhỏ hơn giá_trị ghi sổ NVL , CC , DC thanh_lý ) 
+
+Có các TK 152 , 153 ( Giá_trị ghi sổ NVL , CC , DC thanh_lý ) 
+
+Có TK 3331-Thuế GTGT đầu_ra phải nộp ( nếu có ) 
+
+- Trường_hợp_số tiền thu từ việc thanh_lý lớn hơn giá_trị ghi sổ nguyên vật_liệu , công_cụ dụng_cụ , ghi : 
+
+Có TK 249-Chi_phí không được thu_hồi ( Phần chênh_lệch giữa số thu từ việc thanh_lý lớn hơn giá_trị ghi sổ NVL , CC , DC thanh_lý ) 
+
+Điều 10 .  Kế_toán chi_phí đã thu_hồi 
+
+1 . Tài_khoản 251-Chi_phí đã thu_hồi được dùng để phản_ánh số chi_phí của giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển và giai_đoạn khai_thác dầu_khí đã được thu_hồi thông_qua dầu thu_hồi chi_phí được phân_bổ từ sản_lượng dầu thực_tế ( không bao_gồm số dầu lãi ) trong mỗi quý .  Chi_phí hoạt_động dầu_khí được thu_hồi trên cơ_sở chi trước-thu_hồi trước . 
+
+Người điều_hành dầu_khí phải tập_hợp và theo_dõi chi_tiết các chi_phí đã thu_hồi theo từng giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển và giai_đoạn khai_thác dầu_khí .  Người điều_hành dầu_khí được mở chi_tiết tài_khoản cấp 2 , cấp 3 của Tài_khoản 251-Chi_phí đã thu_hồi phù_hợp với yêu_cầu quản_lý của mình . 
+
+3 . Nội_dung , kết_cấu và phương_pháp hạch_toán Tài_khoản 251-Chi_phí đã thu_hồi 
+
+Bên Nợ : Kết chuyển chi_phí đã thu_hồi của các giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển và giai_đoạn khai_thác dầu_khí khi kết_thúc Hợp_đồng dầu_khí . 
+
+Các khoản chi_phí đã thu_hồi của các giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển và giai_đoạn khai_thác dầu_khí phát_sinh trong kỳ . 
+
+Số_dư bên Có : Số chi_phí đã thu_hồi tại thời_điểm báo_cáo . 
+
+4 . Phương_pháp hạch_toán chi_phí đã thu_hồi 
+
+a ) Khi Nhà_thầu thu_hồi chi_phí hoạt_động dầu_khí thông_qua dầu thu_hồi chi_phí , ghi : 
+
+Nợ TK 3412-Thu_hồi vốn góp của các bên Nhà_thầu 
+
+Nợ TK 4112-Thu_hồi vốn góp của công_ty_mẹ-Người điều_hành 
+
+Có TK 251-Chi_phí đã thu_hồi . 
+
+b ) Khi kết_thúc Hợp_đồng dầu_khí , Người điều_hành dầu_khí thực_hiện kết chuyển số chi_phí đã thu_hồi , ghi : 
+
+Điều 11 .  Kế_toán thuế_thu_nhập doanh_nghiệp 
+
+1 . Nguyên_tắc kế_toán 
+
+a ) Nhà điều_hành dầu_khí phải thực_hiện đầy_đủ nghĩa_vụ về thuế_thu_nhập doanh_nghiệp đối_với các khoản thu_nhập hoặc các khoản được ghi giảm chi_phí phát_sinh trong kỳ theo quy_định của pháp_luật hiện_hành . 
+
+b ) Thuế_thu_nhập doanh_nghiệp ( TNDN ) phải nộp được kế_toán là khoản giảm_trừ vào số thu_nhập phát_sinh trong kỳ .  Đối_với các khoản thu được ghi giảm chi_phí tìm_kiếm , thăm_dò , thẩm lượng ;  chi_phí phát_triển và chi_phí khai_thác theo quy_định của Hợp_đồng dầu_khí , Người điều_hành dầu_khí chỉ thực_hiện việc ghi giảm sau khi đã nộp thuế_thu_nhập doanh_nghiệp ( nếu pháp_luật về thuế quy_định các khoản thu đó thuộc đối_tượng chịu thuế ) . 
+
+2 . Phương_pháp kế_toán thuế_thu_nhập doanh_nghiệp 
+
+- Khi có phát_sinh các khoản thu_nhập chịu thuế TNDN , Người điều_hành dầu_khí phản_ánh số thuế TNDN phải nộp , ghi : 
+
+Nợ các TK 515 , 711 
+
+Có TK 3334-Thuế TNDN phải nộp . 
+
+- Đối_với các khoản thu được ghi giảm chi_phí tìm_kiếm , thăm_dò , thẩm lượng , chi_phí phát_triển và chi_phí khai_thác , sau khi nộp thuế_thu_nhập doanh_nghiệp theo quy_định của pháp_luật ( nếu có ) , ghi : 
+
+, 131 , 138 
+
+Có các TK 246 , 247 , 248 
+
+Có TK 3334-Thuế TNDN phải nộp ( Nếu có ) . 
+
+- Khi nộp tiền vào Ngân_sách nhà_nước , ghi : 
+
+Nợ TK 3334-Thuế TNDN phải nộp 
+
+Có các TK 111 , 112 . 
+
+Điều 12 .  Kế_toán khấu_trừ thuế Giá_trị gia_tăng ( GTGT ) trong giai_đoạn khai_thác 
+
+1 . Trong giai_đoạn khai_thác có doanh_thu từ việc bán dầu , khí , khi phát_sinh thuế GTGT đầu_vào được khấu_trừ , Người điều_hành dầu_khí được khấu_trừ vào số thuế GTGT đầu_ra phải nộp .  Trường_hợp Người điều_hành dầu_khí chỉ thực_hiện việc kê_khai thuế cho Nhà_thầu nhưng không trực_tiếp nộp thuế GTGT đầu_ra , căn_cứ vào Tờ khai thuế , ghi : 
+
+Nợ TK 138-Phải thu khác 
+
+Có TK 133-Thuế GTGT đầu_vào được khấu_trừ . 
+
+2 . Khi có quyết_định của các bên Nhà_thầu về việc ghi_giảm phần vốn góp theo tỷ_lệ góp vốn đối_với số thuế GTGT được khấu_trừ , ghi : 
+
+Nợ TK 4111-Vốn góp của Công_ty_mẹ-Người điều_hành 
+
+Nợ TK 3411-Vốn góp của các bên Nhà_thầu khác 
+
+Có TK 138-Phải thu khác . 
+
+3 . Các quy_định khác liên_quan đến kế_toán thuế GTGT thực_hiện theo quy_định tại Chế_độ Kế_toán doanh_nghiệp hiện_hành . 
+
+Điều 13 .  Kế_toán khoản vốn góp của các bên Nhà_thầu 
+
+1 . Nguyên_tắc ghi_nhận vốn góp 
+
+a ) Người điều_hành dầu_khí phải theo_dõi khoản vốn góp nhận được chi_tiết cho từng bên nhà_thầu theo từng Hợp_đồng dầu_khí trên cơ_sở vốn thực góp . 
+
+b ) Đối_với trường_hợp Người điều_hành dầu_khí là hình_thức Công_ty điều_hành chung POC hoặc được thuê làm Người điều_hành dầu_khí ( không tham_gia góp vốn vào Hợp_đồng Dầu_khí ) , thì Người điều_hành dầu_khí ghi_nhận khoản vốn góp của các bên nhà_thầu vào Tài_khoản 341-Vốn góp của các bên nhà_thầu khác . 
+
+c ) Đối_với trường_hợp Người điều_hành dầu_khí hoạt_động theo quy_định của hợp_đồng dầu_khí dưới hình_thức JOC và PSC , việc ghi_nhận vốn góp của các bên được thực_hiện theo nguyên_tắc : 
+
+- Phần vốn góp của Công_ty_mẹ-Người điều_hành được ghi_nhận là vốn đầu_tư của chủ sở_hữu và hạch_toán khoản vốn góp nhận được vào Tài_khoản 411-Vốn góp của công_ty_mẹ-Người điều_hành . 
+
+- Phần vốn góp nhận được từ các bên khác trong Hợp_đồng được ghi_nhận là khoản nợ phải trả và được hạch_toán vào Tài_khoản 341-Vốn góp của các bên nhà_thầu khác . 
+
+d ) Khi kết_thúc Hợp_đồng dầu_khí , Người điều_hành dầu_khí phải ghi giảm vốn góp của các bên đối_với số dầu đã thu_hồi chi_phí và số chi_phí chưa được thu_hồi hết . 
+
+2 . Kết_cấu và nội_dung phản_ánh của tài_khoản 341-Vốn góp của các bên nhà_thầu khác 
+
+a ) .  Kết_cấu và nội_dung phản_ánh của tài_khoản 3411-Vốn góp của các bên nhà_thầu khác 
+
+Bên Nợ : Số vốn góp của các bên nhà_thầu khác giảm do thu_hồi vốn góp khi kết_thúc Hợp_đồng dầu_khí . 
+
+Số tiền thực góp vốn của các bên nhà_thầu khác phát_sinh trong kỳ . 
+
+Số_dư bên Có : Số tiền thực góp vốn của các bên nhà_thầu khác tại thời_điểm báo_cáo . 
+
+b ) Kết_cấu và nội_dung phản_ánh của tài_khoản 3412-Thu_hồi vốn góp của các bên nhà_thầu khác 
+
+Bên Nợ : Số vốn góp của các bên nhà_thầu khác được thu_hồi thông_qua dầu thu_hồi chi_phí phát_sinh trong kỳ . 
+
+Kết chuyển số vốn góp đã thu_hồi qua dầu thu_hồi chi_phí để ghi giảm vốn góp của các bên nhà_thầu khác khi kết_thúc Hợp_đồng dầu_khí . 
+
+Số_dư bên Nợ : Số vốn góp của các bên nhà_thầu khác được thu_hồi thông_qua dầu thu_hồi chi_phí lũy_kế đến thời_điểm báo_cáo . 
+
+3 . Kết_cấu và nội_dung phản_ánh của tài_khoản 411-Vốn góp của công_ty_mẹ-Người điều_hành 
+
+a ) Kết_cấu và nội_dung phản_ánh của tài_khoản 4111-Vốn góp của công_ty_mẹ-Người điều_hành 
+
+Bên Nợ : Số vốn góp của công_ty_mẹ-Người điều_hành giảm do thu_hồi vốn góp khi kết_thúc Hợp_đồng dầu_khí . 
+
+Số tiền thực góp vốn của công_ty_mẹ-Người điều_hành phát_sinh trong kỳ . 
+
+Số_dư bên Có : Số tiền thực góp vốn của công_ty_mẹ-Người điều_hành tại thời_điểm báo_cáo . 
+
+Bên Nợ : Số vốn góp của công_ty_mẹ-Nhà điều_hành được thu_hồi thông_qua dầu thu_hồi chi_phí phát_sinh trong kỳ . 
+
+Kết chuyển số vốn góp đã thu_hồi qua dầu thu_hồi chi_phí để ghi giảm vốn góp của công_ty_mẹ-Người điều_hành khi kết_thúc hợp_đồng dầu_khí . 
+
+Số_dư bên Nợ : Số vốn góp của công_ty_mẹ-Người điều_hành được thu_hồi thông_qua dầu thu_hồi chi_phí lũy_kế đến thời_điểm báo_cáo . 
+
+4 . Phương_pháp kế_toán khoản vốn góp của các bên 
+
+a ) Khi Người điều_hành dầu_khí nhận tiền góp vốn của các bên trong Hợp_đồng dầu_khí : 
+
+- Trường_hợp một bên tham_gia góp vốn được chỉ_định và chấp_thuận là Người điều_hành dầu_khí nhân_danh Nhà_thầu thực_hiện các công_việc và nghĩa_vụ theo quy_định của hợp_đồng , thì khi nhận vốn góp của các bên Nhà_thầu , ghi : 
+
+Nợ các TK 111,112 
+
+Có TK 3411-Vốn góp của các bên nhà_thầu khác ( Phần vốn góp tương_ứng của các bên nhà_thầu tham_gia hợp_đồng-Chi_tiết cho từng nhà_thầu ) 
+
+Có TK 4111-Vốn góp của công_ty_mẹ-Người điều_hành ( Phần vốn góp tương_ứng của công_ty_mẹ-người điều_hành theo quy_định của hợp_đồng dầu_khí ) . 
+
+- Trường_hợp Người điều_hành dầu_khí là Công_ty điều_hành chung được thành_lập để đại_diện cho các bên tham_gia góp vốn và các bên góp vốn cùng cử người tham_gia điều_hành chung hoặc Người điều_hành dầu_khí được các bên tham_gia góp vốn thuê để điều_hành các hoạt_động tìm_kiếm , thăm_dò , thẩm lượng , hoạt_động phát_triển và hoạt_động khai_thác dầu_khí , khi nhận vốn góp của các bên Nhà_thầu , ghi : 
+
+Nợ TK 112-Tiền gửi ngân_hàng 
+
+Có TK 3411-Vốn góp của các bên nhà_thầu khác . 
+
+b ) Khoản thu từ lãi tiền gửi ( sau khi thực_hiện nghĩa_vụ với Ngân_sách nhà_nước ) nếu được ghi tăng vốn góp của các bên , ghi : 
+
+Nợ TK 515-Doanh_thu hoạt_động tài_chính 
+
+Có TK 3411-Vốn góp của các bên nhà_thầu khác ( Phần các bên khác được hưởng ) 
+
+Có TK 4111-Vốn góp của công_ty_mẹ-Người điều_hành 
+
+Có TK 333-Thuế và các khoản phải nộp Nhà_nước . 
+
+c ) Trường_hợp các khoản thu khác ( ngoài các khoản thu được ghi giảm chi_phí ) theo quy_định trong Hợp_đồng dầu_khí sau khi thực_hiện nghĩa_vụ với Ngân_sách Nhà_nước được ghi tăng vốn góp của các bên , ghi : 
+
+Nợ các TK 711-Thu_nhập khác 
+
+Có TK 3411-Vốn góp của các bên nhà_thầu khác 
+
+d ) Định_kỳ ghi_nhận số vốn góp đã thu_hồi thông_qua dầu thu_hồi chi_phí , ghi : 
+
+Nợ TK 3412-Thu_hồi vốn góp của các bên nhà_thầu khác 
+
+đ ) Trong giai_đoạn khai_thác có doanh_thu từ việc bán dầu , khí , khi phát_sinh thuế GTGT đầu_vào được khấu_trừ , Người điều_hành dầu_khí được khấu_trừ vào số thuế GTGT đầu_ra phải nộp .  Khi xác_định thuế GTGT phải nộp trong kỳ , Người điều_hành dầu_khí căn_cứ vào Tờ khai thuế kế_toán ghi_giảm phần vốn góp của các bên Nhà_thầu theo tỷ_lệ góp vốn đối_với số thuế GTGT được khấu_trừ , ghi : 
+
+e ) Khi kết_thúc Hợp_đồng dầu_khí , kế_toán ghi giảm khoản vốn góp của các bên tương_ứng với số vốn góp đã được thu_hồi , ghi : 
+
+Nợ TK 3411-Vốn góp của các bên nhà_thầu khác ( Phần vốn góp tương_ứng của các bên Nhà_thầu tham_gia hợp_đồng-Chi_tiết cho từng Nhà_thầu ) 
+
+Nợ TK 4111-Vốn góp của công_ty_mẹ-Người điều_hành 
+
+Có TK 3412-Thu_hồi vốn góp của các bên Nhà_thầu khác 
+
+Có TK 4112-Thu_hồi vốn góp của công_ty_mẹ-Người điều_hành . 
+
+f ) Khi kết_thúc Hợp_đồng dầu_khí , trường_hợp chi_phí của hoạt_động dầu_khí chưa được thu_hồi hết thì Người điều_hành dầu_khí ghi giảm vốn góp của các bên tương_ứng với số chi_phí chưa thu_hồi , ghi : 
+
+. 
+
+g ) Khi kết_thúc Hợp_đồng dầu_khí , kế_toán ghi giảm chi_phí không được thu_hồi và số vốn góp của các bên , ghi : 
+
+h ) Khi trả lại tiền góp vốn cho các bên , ghi : 
+
+Nợ TK 3411-Vốn góp của các bên nhà_thầu khác 
+
+Có TK 112-Tiền gửi ngân_hàng . 
+
+Điều 14 .  Kế_toán thanh_lý_tài_sản 
+
+a ) Người điều_hành dầu_khí có trách_nhiệm chuyển_giao các tài_sản cho Tập_đoàn Dầu_khí Việt_Nam ( PVN ) sau khi đã thu_hồi hết chi_phí mà không còn cần_thiết cho các hoạt_động dầu_khí .  Trường_hợp PVN không nhận tài_sản này thì Người điều_hành dầu_khí có_thể thanh_lý , toàn_bộ số thu phát_sinh từ việc bán những tài_sản này sẽ được trả cho PVN . 
+
+b ) Trường_hợp chi_phí hoạt_động dầu_khí chưa được thu_hồi hết nhưng tài_sản không còn cần_thiết cho hoạt_động dầu_khí , tùy thuộc vào sự phê_duyệt của PVN , Người điều_hành dầu_khí có_thể quyết_định các tài_sản đó .  Số thu từ việc thanh_lý , nhượng bán những tài_sản được ghi giảm Chi_phí thu_hồi của hoạt_động dầu_khí ( sau khi đã thực_hiện các nghĩa_vụ thuế theo quy_định của pháp_luật về thuế-nếu có ) . 
+
+c ) Trường_hợp hợp_đồng dầu_khí quy_định nguyên vật_liệu , công_cụ dụng_cụ chỉ được tính vào chi_phí thu_hồi khi xuất dùng cho hoạt_động dầu_khí , nếu nguyên vật_liệu , công_cụ , dụng_cụ chưa xuất dùng cho hoạt_động dầu_khí còn tồn_kho mà không còn cần_thiết sử_dụng cho hoạt_động dầu_khí , người điều_hành có_thể thanh_lý ( theo yêu_cầu của các nhà_thầu ) , phần chênh_lệch giữa số tiền thu được từ việc thanh_lý so với giá_trị ghi sổ của nguyên vật_liệu , công_cụ , dụng_cụ được ghi_nhận vào chi_phí không được thu_hồi . 
+
+2 . Phương_pháp hạch_toán kế_toán 
+
+a ) Trường_hợp chi_phí chưa được thu_hồi hết , số thu từ việc thanh_lý_tài_sản sau khi trừ đi các khoản chi_phí phát_sinh cho hoạt_động thanh_lý , nhượng bán , và thực_hiện nghĩa_vụ với Ngân_sách nhà_nước ( nếu có ) , ghi : 
+
+Có các TK 331 , 333 
+
+b ) Trường_hợp chi_phí hoạt_động dầu_khí đã được thu_hồi hết theo quy_định , số thu từ việc thanh_lý_tài_sản sau khi trừ đi các khoản chi phát_sinh cho hoạt_động thanh_lý , nhượng bán và thực_hiện các nghĩa_vụ thuế theo quy_định của pháp_luật về thuế ( nếu có ) được chuyển trả cho PVN , ghi : 
+
+Có TK 338-Phải trả , phải nộp khác ( Chi_tiết phải trả cho PVN ) . 
+
+c ) Khi thanh_lý_số nguyên vật_liệu , công_cụ dụng_cụ còn tồn_kho chưa xuất dùng cho các hoạt_động dầu_khí : 
+
+, 131 .  . . Số thu từ việc thanh_lý 
+
+. 
+
+- Trường_hợp các bên nhà_thầu quyết_định sử_dụng phần chênh_lệch giữa số thu từ việc thanh_lý và giá_trị ghi sổ của nguyên vật_liệu , công_cụ , dụng_cụ để điều_chỉnh khoản vốn góp , ghi : 
+
++ Trường_hợp_số tiền thu từ việc thanh_lý lớn hơn giá_trị ghi sổ nguyên vật_liệu , công_cụ dụng_cụ , kế_toán kết chuyển phần chênh_lệch đang được ghi_nhận trong chi_phí không được thu_hồi để ghi tăng vốn góp của các bên : 
+
+Có các TK 3411 , 4111 . 
+
++ Trường_hợp_số tiền thu từ việc thanh_lý nhỏ hơn giá_trị ghi sổ nguyên vật_liệu , công_cụ dụng_cụ , kế_toán kết chuyển phần chênh_lệch đang được ghi_nhận trong chi_phí không được thu_hồi để ghi tăng vốn góp của các bên : 
+
+Điều 15 .  Kế_toán các khoản thu khác 
+
+a ) Các khoản thu khác ngoài quy_định của hợp_đồng có_thể bao_gồm : 
+
+- Thu lãi tiền gửi ; 
+
+- Thu_nhập quà biếu , quà tặng của các cá_nhân , tổ_chức tặng ; 
+
+- Các khoản thu khác . 
+
+b ) Các khoản thu khác được ghi_nhận là thu_nhập khác hoặc doanh_thu hoạt_động tài_chính .  Sau khi trừ đi các khoản chi_phí có liên_quan và thực_hiện nghĩa_vụ với Ngân_sách Nhà_nước ( nếu có ) , các khoản thu này được ghi tăng vốn góp của các bên Nhà_thầu_dầu_khí trừ trường_hợp Hợp_đồng dầu_khí quy_định được ghi giảm chi_phí hoạt_động dầu_khí . 
+
+2 . Phương_pháp kế_toán 
+
+a ) Kế_toán lãi tiền gửi ngân_hàng 
+
+- Khi phát_sinh lãi tiền gửi ngân_hàng , ghi : 
+
+Nợ các TK 112 , 138 
+
+Có TK 515-Doanh_thu hoạt_động tài_chính . 
+
+- Phản_ánh số thuế TNDN phải nộp ( nếu có ) , ghi : 
+
+- Ghi_nhận số vốn góp của các bên tăng tương_ứng với số lãi tiền gửi ngân_hàng , ghi : 
+
+. 
+
+- Trường_hợp Hợp_đồng dầu_khí quy_định lãi tiền gửi ngân_hàng được ghi giảm chi_phí hoạt_động dầu_khí , ghi : 
+
+b ) Kế_toán các khoản thu khác 
+
+- Khi phát_sinh các khoản thu khác ngoài quy_định của Hợp_đồng dầu_khí như thu_nhập quà biếu , quà tặng bằng tiền , hiện_vật của các tổ_chức cá_nhân tặng , các khoản thu_nhập khác , ghi : 
+
+Nợ các TK 112 , 131 
+
+Có TK 711-Thu_nhập khác . 
+
+- Phản_ánh các chi_phí phát_sinh liên_quan đến các khoản thu_nhập , ghi : 
+
+Nợ TK 811-Chi_phí khác 
+
+Có các TK 112 , 331 . 
+
+- Kết chuyển chi_phí khác và thu_nhập khác để xác_định thu_nhập thuần , ghi : 
+
+Nợ TK 711-Thu_nhập khác 
+
+Có TK 811-Chi_phí khác . 
+
+- Phản_ánh số thuế TNDN phải nộp , ghi : 
+
+- Ghi_nhận số vốn góp của các bên tăng tương_ứng với số thu_nhập khác , ghi : 
+
+Có TK 3411-Vốn góp của các bên Nhà_thầu khác . 
+
+- Trường_hợp Hợp_đồng dầu_khí quy_định các khoản thu_nhập khác được ghi giảm chi_phí hoạt_động dầu_khí , ghi : 
+
+Điều 16 .  Kế_toán chênh_lệch tỷ_giá hối_đoái 
+
+1 . Tỷ_giá hối_đoái 
+
+a ) Trường_hợp Hợp_đồng dầu_khí có quy_định cụ_thể về việc áp_dụng tỷ_giá hối_đoái thì Người điều_hành dầu_khí thực_hiện theo quy_định của Hợp_đồng dầu_khí .  Trường_hợp Hợp_đồng dầu_khí không có quy_định cụ_thể về việc áp_dụng tỷ_giá hối_đoái thì Người điều_hành dầu_khí áp_dụng theo tỷ_giá giao_dịch thực_tế tại ngày giao_dịch . 
+
+b ) Tỷ_giá giao_dịch thực_tế trong các trường_hợp được xác_định cụ_thể như sau : 
+
+- Tỷ_giá giao_dịch thực_tế khi mua_bán ngoại_tệ ( Hợp_đồng mua_bán ngoại_tệ giao ngay , hợp_đồng kỳ_hạn , hợp_đồng tương_lai , hợp_đồng hoán_đổi ) : Là tỷ_giá ký_kết trong hợp_đồng mua , bán ngoại_tệ giữa doanh_nghiệp và ngân_hàng thương_mại . 
+
+- Tỷ_giá giao_dịch thực_tế khi nhận vốn góp : Là tỷ_giá mua ngoại_tệ của ngân_hàng mà nhà đầu_tư chuyển tiền góp vốn tại ngày góp vốn . 
+
+- Trường_hợp hợp_đồng không quy_định tỷ_giá thanh_toán thì đơn_vị ghi sổ kế_toán theo nguyên_tắc : 
+
++ Tỷ_giá giao_dịch thực_tế khi ghi_nhận nợ phải thu : Là tỷ_giá mua của ngân_hàng thương_mại nơi đơn_vị chỉ_định khách_hàng thanh_toán tại thời_điểm giao_dịch phát_sinh ; 
+
++ Tỷ_giá giao_dịch thực_tế khi ghi_nhận nợ phải trả : Là tỷ_giá bán của ngân_hàng thương_mại nơi đơn_vị dự_kiến giao_dịch tại thời_điểm giao_dịch phát_sinh ; 
+
++ Đối_với các giao_dịch mua_sắm tài_sản hoặc các khoản chi_phí được thanh_toán ngay bằng ngoại_tệ ( không qua các tài_khoản phải trả ) , tỷ_giá giao_dịch thực_tế là tỷ_giá mua của ngân_hàng thương_mại nơi đơn_vị thực_hiện thanh_toán . 
+
+- Tỷ_giá giao_dịch thực_tế khi đánh_giá lại các khoản mục tiền_tệ có gốc ngoại_tệ tại thời_điểm lập báo_cáo tài_chính : Là tỷ_giá công_bố của ngân_hàng thương_mại nơi đơn_vị thường_xuyên có giao_dịch ( do đơn_vị tự lựa_chọn ) theo nguyên_tắc : 
+
++ Tỷ_giá giao_dịch thực_tế khi đánh_giá lại các khoản mục tiền_tệ có gốc ngoại_tệ được phân_loại là tài_sản : Là tỷ_giá mua ngoại_tệ của ngân_hàng thương_mại tại thời_điểm lập báo_cáo tài_chính .  Đối_với các khoản ngoại_tệ gửi ngân_hàng thì tỷ_giá thực_tế khi đánh_giá lại là tỷ_giá mua của chính ngân_hàng nơi đơn_vị mở tài_khoản ngoại_tệ ; 
+
++ Tỷ_giá giao_dịch thực_tế khi đánh_giá lại các khoản mục tiền_tệ có gốc ngoại_tệ được phân_loại là nợ phải trả : Là tỷ_giá bán ngoại_tệ của ngân_hàng thương_mại tại thời_điểm lập báo_cáo tài_chính . 
+
+- Tỷ_giá giao_dịch thực_tế khi thay_đổi đơn_vị tiền_tệ trong kế_toán và quy_đổi tài_sản và nợ phải trả khi chuyển_đổi Báo_cáo tài_chính lập bằng đồng ngoại_tệ ra Việt_Nam_Đồng : Là tỷ_giá mua_bán bình_quân của một ngân_hàng thương_mại do đơn_vị tự lựa_chọn tại thời_điểm thay_đổi đơn_vị tiền_tệ trong kế_toán . 
+
+c ) Tỷ_giá ghi sổ ( tỷ_giá ghi sổ thực_tế đích_danh hoặc tỷ_giá ghi sổ bình_quân gia quyền ) trong các trường_hợp được xác_định cụ_thể như sau : 
+
+- Tỷ_giá ghi sổ thực_tế đích_danh : Là tỷ_giá khi thu_hồi các khoản nợ phải thu , các khoản ký cược , ký_quỹ hoặc thanh_toán các khoản nợ phải trả bằng ngoại_tệ được xác_định theo tỷ_giá tại thời_điểm giao_dịch phát_sinh của từng đối_tượng ; 
+
+- Tỷ_giá ghi sổ bình_quân gia quyền là tỷ_giá được sử_dụng tại bên Có tài_khoản tiền khi thanh_toán tiền bằng ngoại_tệ , được xác_định trên cơ_sở lấy tổng giá_trị được phản_ánh tại bên Nợ tài_khoản tiền chia cho số_lượng ngoại_tệ thực có tại thời_điểm thanh_toán . 
+
+2 . Các khoản mục tiền_tệ có gốc ngoại_tệ 
+
+Là các tài_sản được thu_hồi bằng ngoại_tệ hoặc các khoản nợ phải trả bằng ngoại_tệ .  Các khoản mục tiền_tệ có gốc ngoại_tệ có_thể bao_gồm : 
+
+a ) Tiền_mặt , các khoản tương_đương tiền , tiền gửi ngân_hàng ( có kỳ_hạn hoặc không kỳ_hạn ) bằng ngoại_tệ ; 
+
+b ) Các khoản nợ phải thu , nợ phải trả có gốc ngoại_tệ , ngoại_trừ : 
+
+- Các khoản trả trước cho người bán và các khoản chi_phí trả trước bằng ngoại_tệ .  Trường_hợp tại thời_điểm lập báo_cáo có bằng_chứng chắc_chắn về việc người bán không_thể cung_cấp hàng_hóa , dịch_vụ và đơn_vị sẽ phải nhận lại các khoản trả trước bằng ngoại_tệ thì các khoản này được coi là các khoản mục tiền_tệ có gốc ngoại_tệ . 
+
+- Các khoản người mua trả tiền trước và các khoản doanh_thu_nhận trước bằng ngoại_tệ .  Trường_hợp tại thời_điểm lập báo_cáo có bằng_chứng chắc_chắn về việc đơn_vị không_thể cung_cấp hàng_hóa , dịch_vụ và sẽ phải trả lại các khoản nhận trước bằng ngoại_tệ cho người mua thì các khoản này được coi là các khoản mục tiền_tệ có gốc ngoại_tệ . 
+
+c ) Các khoản đặt_cọc , ký cược , ký_quỹ bằng tiền hoặc tương_đương tiền bằng ngoại_tệ được quyền nhận lại ;  Các khoản nhận đặt_cọc , ký cược , ký_quỹ bằng tiền hoặc tương_đương tiền bằng ngoại_tệ phải hoàn_trả . 
+
+3 . Áp_dụng các loại tỷ_giá sử_dụng để ghi sổ kế_toán , lập và trình_bày báo_cáo tài_chính 
+
+a ) Khi phát_sinh các giao_dịch bằng ngoại_tệ , tỷ_giá giao_dịch thực_tế tại thời_điểm giao_dịch phát_sinh được sử_dụng để quy_đổi ra đồng_tiền ghi sổ kế_toán đối_với các tài_khoản phản_ánh tài_sản , nợ phải trả , vốn chủ sở_hữu , chi_phí , thu_nhập khác .  Một_số trường_hợp khác được quy_định cụ_thể như sau : 
+
+- Trường_hợp nhận trước tiền của người mua thì thu_nhập tương_ứng với số tiền nhận trước được áp_dụng tỷ_giá tại thời_điểm nhận trước của người mua ; 
+
+- Trường_hợp phân_bổ khoản chi_phí trả trước vào chi_phí có liên_quan trong kỳ thì chi_phí được ghi_nhận theo tỷ_giá tại thời_điểm trả trước ; 
+
+- Trường_hợp tài_sản , chi_phí được mua có liên_quan đến giao_dịch trả trước cho người bán thì giá_trị tài_sản tương_ứng với số tiền trả trước được áp_dụng tỷ_giá tại thời_điểm trả trước cho người bán . 
+
+b ) Khi phát_sinh các giao_dịch bằng ngoại_tệ , tỷ_giá ghi sổ thực_tế đích_danh được sử_dụng để quy_đổi ra đồng_tiền ghi sổ kế_toán đối_với các loại tài_khoản sau : 
+
+- Bên Có các TK phải thu ( ngoại_trừ giao_dịch nhận trước tiền của người mua ) , bên Có TK phản_ánh các khoản ký cược , ký_quỹ , chi_phí trả trước ; 
+
+- Bên Nợ các TK phải trả ( ngoại_trừ giao_dịch trả trước tiền cho người bán ) . 
+
+c ) Khi thực_hiện thanh_toán bằng ngoại_tệ , tỷ_giá ghi sổ bình_quân gia quyền được sử_dụng để quy_đổi ra đồng_tiền ghi sổ kế_toán ở bên Có các TK tiền . 
+
+4 . Nguyên_tắc kế_toán 
+
+a ) Các khoản chênh_lệch tỷ_giá phát_sinh từ việc thanh_toán trong kỳ và đánh_giá lại các khoản mục tiền_tệ có gốc ngoại_tệ cuối kỳ được ghi_nhận vào doanh_thu tài_chính ( nếu lãi ) hoặc chi_phí tài_chính ( nếu lỗ ) và kết chuyển điều_chỉnh tăng , giảm chi_phí hoạt_động dầu_khí ( nếu được tính là chi_phí thu_hồi ) hoặc ghi_nhận là khoản chênh_lệch tỷ_giá ( trên TK 413 ) của Bảng cân_đối kế_toán ( nếu không được tính vào chi_phí thu_hồi ) . 
+
+b ) Căn_cứ vào quyết_định của nhà_thầu hoặc cấp có thẩm_quyền , kế_toán kết chuyển_khoản chênh_lệch tỷ_giá ( trên TK 413 ) để điều_chỉnh tăng_giảm phần vốn góp của các bên hoặc phần chi_phí không được thu_hồi . 
+
+5 . Phương_pháp kế_toán chênh_lệch tỷ_giá 
+
+a ) Kế_toán chênh_lệch tỷ_giá phát_sinh từ việc thanh_toán trong kỳ 
+
+- Khi phát_sinh lãi , lỗ tỷ_giá , ghi : 
+
++ Ghi_nhận lãi tỷ_giá : 
+
+Nợ các TK liên_quan 
+
++ Ghi_nhận lỗ tỷ_giá : 
+
+Nợ TK 635-Chi_phí tài_chính 
+
+Có các TK liên_quan . 
+
+- Trường_hợp lãi , lỗ tỷ_giá được tính vào chi_phí thu_hồi , kế_toán kết chuyển ngay lãi , lỗ tỷ_giá để điều_chỉnh chi_phí hoạt_động dầu_khí tại thời_điểm phát_sinh : 
+
++ Kết chuyển_lãi tỷ_giá và ghi giảm chi_phí các hoạt_động dầu_khí , ghi : 
+
+Có các TK 246 , 247 , 248 , 642 . 
+
++ Kết chuyển_lỗ tỷ_giá và ghi tăng chi_phí các hoạt_động dầu_khí , ghi : 
+
+Nợ các TK 246 , 247 , 248 , 642 
+
+Có TK 635-Chi_phí tài_chính . 
+
+- Trường_hợp lãi , lỗ tỷ_giá không được tính vào chi_phí thu_hồi , cuối kỳ kế_toán kết chuyển lãi , lỗ tỷ_giá vào TK 413-Chênh_lệch tỷ_giá hối_đoái , ghi : 
+
++ Kết chuyển_lãi tỷ_giá , ghi : 
+
+Có TK 413-Chênh_lệch tỷ_giá hối_đoái . 
+
++ Kết chuyển_lỗ tỷ_giá , ghi : 
+
+Nợ TK 413-Chênh_lệch tỷ_giá hối_đoái . 
+
+- Trường_hợp Hợp_đồng dầu_khí có quy_định khác thì thực_hiện theo quy_định của Hợp_đồng dầu_khí . 
+
+b ) Kế_toán đánh_giá lại các khoản mục tiền_tệ có gốc ngoại_tệ cuối kỳ 
+
+- Cuối_kỳ , khi đánh_giá lại các khoản mục tiền_tệ có gốc ngoại_tệ : 
+
++ Trường_hợp phát_sinh lãi , ghi : 
+
++ Trường_hợp phát_sinh lỗ , ghi : 
+
+- Tùy_thuộc vào từng trường_hợp được tính là chi_phí thu_hồi hoặc không được thu_hồi , kế_toán xử_lý chênh_lệch tỷ giá_như quy_định tại điểm a khoản 5 Điều này .  Trường_hợp Hợp_đồng dầu_khí có quy_định khác thì thực_hiện theo quy_định của Hợp_đồng dầu_khí . 
+
+c ) Khi các bên nhà_thầu hoặc cấp có thẩm_quyền ra quyết_định xử_lý_số chênh_lệch tỷ giá lũy kế không được tính vào chi_phí thu_hồi , căn_cứ vào quyết_định kế_toán ghi : 
+
+- Trường_hợp chênh_lệch tỷ_giá được điều_chỉnh vào vốn góp của các bên : 
+
+Nợ TK 413-Chênh_lệch tỷ_giá hối_đoái 
+
+- Trường_hợp chênh_lệch tỷ_giá được điều_chỉnh trực_tiếp vào chi_phí không được thu_hồi : 
+
+Có TK 249-Chi_phí không dược thu_hồi . 
+
+Nợ TK 249-Chi_phí không dược thu_hồi . 
+
+Điều 17 .  Kế_toán chi_phí thu_dọn mỏ 
+
+. 
+
+Nguyên_tắc kế_toán 
+
+a ) Người điều_hành dầu_khí thay_mặt các bên tham_gia Hợp_đồng dầu_khí chịu trách_nhiệm thu_dọn mỏ , hoàn_trả mặt_bằng theo quy_định của pháp_luật sau khi kết_thúc Hợp_đồng dầu_khí . 
+
+b ) Định_kỳ , kể từ khi bắt_đầu đi vào khai_thác thương_mại , Người điều_hành dầu_khí phải nộp tiền ký_quỹ cho nước chủ nhà ( đại_diện là Tập_đoàn Dầu_khí Việt_Nam-PVN ) để đảm_bảo nghĩa_vụ tài_chính cho việc thực_hiện thu_dọn công_trình cố_định , thiết_bị và phương_tiện phục_vụ hoạt_động khai_thác dầu_khí tại Việt_Nam . 
+
+c ) Khi nộp tiền vào tài_khoản ký_quỹ của PVN , Người điều_hành dầu_khí đồng_thời được trích_lập Quỹ đảm_bảo nghĩa_vụ tài_chính và được tính vào chi_phí của giai_đoạn khai_thác . 
+
+d ) Việc trích_lập , sử_dụng và quyết_toán Quỹ thu_dọn mỏ phải được theo_dõi chi_tiết theo từng Hợp_đồng dầu_khí . 
+
+đ ) Trường_hợp_số trích Quỹ đảm_bảo nghĩa_vụ tài_chính lớn hơn số thực_chi cho việc thu_dọn mỏ thì phần kết_dư còn lại của quỹ được xử_lý như sau : 
+
+- Nếu đã thu_hồi hết chi_phí thì phần kết_dư còn lại của Quỹ sau khi thực_hiện nghĩa_vụ với Ngân_sách Nhà_nước được chia lại cho các bên theo nguyên_tắc phân_chia dầu lãi ; 
+
+- Nếu chưa thu_hồi hết chi_phí , phần kết_dư còn lại của Quỹ được ghi giảm chi_phí của giai_đoạn khai_thác . 
+
+2 . Phương_pháp hạch_toán kế_toán một_số nghiệp_vụ chủ_yếu 
+
+a ) Khi trích_lập Quỹ đảm_bảo nghĩa_vụ tài_chính ( chi_phí thu_dọn mỏ ) , ghi : 
+
+Nợ TK 248-Chi_phí khai_thác 
+
+Có TK 335-Chi_phí phải trả . 
+
+b ) Khi Người điều_hành dầu_khí nộp tiền ký_quỹ để đảm_bảo nghĩa_vụ tài_chính do PVN quản_lý , ghi : 
+
+Nợ TK 244-Ký_quỹ , ký cược 
+
+Có TK 112-Tiền gửi ngân_hàng . 
+
+c ) Khi phát_sinh chi_phí thu_dọn thực_tế , ghi : 
+
+Nợ TK 335-Chi_phí trích trước 
+
+Có TK 331-Phải trả cho người bán . 
+
+d ) Khi nhận lại tiền ký_quỹ từ PVN để thanh_toán chi_phí thu_dọn mỏ phát_sinh , ghi : 
+
+Nợ TK 112-Tiền gửi ngân_hàng 
+
+Có TK 244-Ký_quỹ , ký cược . 
+
+đ ) Thanh_toán tiền chi_phí thu_dọn mỏ đã phát_sinh , ghi : 
+
+Nợ TK 331-Phải trả cho người bán 
+
+e ) Khi kết_thúc việc thu_dọn mỏ , trường_hợp Quỹ đảm_bảo nghĩa_vụ tài_chính không sử_dụng hết thì kết_dư còn lại của Quỹ được xử_lý như sau : 
+
+- Trường_hợp chưa thu_hồi hết chi_phí hoạt_động dầu_khí , Người điều_hành dầu_khí ghi giảm chi_phí khai_thác tương_ứng với số Quỹ còn lại chưa sử_dụng , ghi : 
+
+Nợ TK 335-Chi_phí phải trả 
+
+Có TK 248-Chi_phí khai_thác . 
+
+- Trường_hợp đã thu_hồi hết chi_phí hoạt_động dầu_khí , Người điều_hành dầu_khí phản_ánh số Quỹ chưa sử_dụng hết là khoản phải trả cho các bên , theo các trường_hợp cụ_thể như sau : 
+
++ Trường_hợp Người điều_hành dầu_khí phải thay_mặt các bên Nhà_thầu nộp tiền vào Ngân_sách Nhà_nước đối_với phần lãi nước chủ nhà được hưởng : 
+
+Khi nhận lại tiền ký_quỹ từ PVN , ghi : 
+
+( số tiền ký_quỹ nhận lại từ PVN chưa trừ số phải nộp NSNN ) 
+
+Khi xác_định số phải nộp Ngân_sách Nhà_nước , ghi : 
+
+Có TK 333-Thuế và các khoản phải nộp Nhà_nước . 
+
+Khi thực nộp tiền vào Ngân_sách nhà_nước , ghi : 
+
+Nợ TK 333-Thuế và các khoản phải nộp Nhà_nước ( 3339 ) 
+
++ Trường_hợp PVN đã nộp thay Người điều_hành dầu_khí số lãi nước chủ nhà được hưởng , khi nhận lại tiền ký_quỹ từ PVN , ghi : 
+
+( số tiền ký_quỹ nhận lại từ PVN đã trừ số phải nộp NSNN ) 
+
+- Số Quỹ đảm_bảo nghĩa_vụ tài_chính chưa sử_dụng hết được ghi_nhận là khoản phải trả , phải nộp khác cho các bên Nhà_thầu sau khi đã trừ số tiền lãi nước chủ nhà được hưởng , ghi : 
+
+Có TK 338-Phải trả phải nộp khác ( Chi_tiết cho từng bên Nhà_thầu ) . 
+
+- Khi thanh_toán số tiền được phân_phối từ Quỹ đảm_bảo nghĩa_vụ tài_chính cho các bên nhà_thầu hoặc Công_ty_mẹ-Người điều_hành , ghi : 
+
+Nợ TK 338-Phải trả , phải nộp khác ( Chi_tiết cho từng Nhà_thầu ) 
+
+Điều 18 .  Kế_toán chi_phí quản_lý hành_chính chung 
+
+1 . Nguyên_tắc kế_toán 
+
+a ) Chi_phí quản_lý hành_chính chung là chi_phí hoạt_động của văn_phòng Người điều_hành dầu_khí cho từng Hợp_đồng dầu_khí .  Chi_phí quản_lý hành_chính chung là các chi_phí gián_tiếp liên_quan đến hoạt_động tìm_kiếm , thăm_dò , thẩm lượng ;  hoạt_động phát_triển và hoạt_động khai_thác dầu_khí .  Định_kỳ chi_phí quản_lý hành_chính chung được phân_bổ vào chi_phí tìm_kiếm thăm_dò , phát_triển , thẩm lượng ;  chi_phí phát_triển và chi_phí khai_thác một_cách phù_hợp với quy_định của từng Hợp_đồng dầu_khí và đặc_điểm của Người điều_hành dầu_khí .  Chi_phí quản_lý hành_chính chung có_thể bao_gồm : 
+
+- Chi_phí tiền_lương nhân_viên văn_phòng Người điều_hành dầu_khí ; 
+
+- Chi_phí thuê tài_sản của văn_phòng Người điều_hành dầu_khí ; 
+
+- Chi_phí dịch_vụ mua ngoài của văn_phòng Người điều_hành dầu_khí ; 
+
+- Chi_phí hành_chính khác của của văn_phòng Người điều_hành dầu_khí . 
+
+b ) Người điều_hành dầu_khí phải tập_hợp và theo_dõi chi_tiết chi_phí quản_lý chung cho từng Hợp_đồng dầu_khí để phục_vụ_việc quyết_toán ngân_sách với các bên Nhà_thầu trong Hợp_đồng .  Trường_hợp Người điều_hành dầu_khí thực_hiện nhiều Hợp_đồng dầu_khí mà không_thể tách riêng chi_phí quản_lý hành_chính chung cho từng Hợp_đồng thì được phân_bổ theo tiêu_thức phù_hợp với với quy_định của Hợp_đồng dầu_khí và các bên Nhà_thầu tham_gia hợp_đồng . 
+
+2 . Phương_pháp kế_toán 
+
+- Khi tính tiền_lương , phụ_cấp phải trả cho nhân_viên của Người điều_hành dầu_khí , ghi : 
+
+Nợ TK 642-Chi_phí quản_lý hành_chính chung 
+
+Có TK 334-Phải trả người lao_động . 
+
+- Khi trích các khoản BHXH , BHYT , BHTN tính vào chi_phí quản_lý hành_chính chung , ghi : 
+
+Có TK 338-Phải trả , phải nộp khác . 
+
+- Khi mua vật_tư , công_cụ , dụng_cụ sử_dụng ngay cho hoạt_động của văn_phòng Người điều_hành dầu_khí mà không qua nhập kho , ghi : 
+
+Nợ TK 133-Thuế_GTGT được khấu_trừ 
+
+Có các TK 111 , 112 , 331 . 
+
+- Khi xuất vật_liệu , công_cụ , dụng_cụ để sử_dụng cho hoạt_động của Người điều_hành dầu_khí , ghi : 
+
+Có các TK 152 , 153 . 
+
+- Khi mua vật_liệu , công_cụ , dụng_cụ để sử_dụng cho Người điều_hành dầu_khí bằng tiền tạm_ứng cho nhân_viên , ghi : 
+
+Có TK 141-Tạm_ứng 
+
+Có các TK 111 , 112 . 
+
+- Các khoản chi_phí dịch_vụ mua ngoài khác cho Người điều_hành dầu_khí như : tiền điện , tiền nước , điện_thoại , chi_phí thuê văn_phòng làm_việc , thuê phương_tiện đi_lại , chi_phí khác , ghi : 
+
+- Định_kỳ , Người điều_hành dầu_khí phân_bổ chi_phí quản_lý hành_chính chung vào chi_phí tìm_kiếm thăm_dò , chi_phí phát_triển mỏ , chi_phí khai_thác , ghi : 
+
+Nợ các TK 246 , 247 , 248 
+
+Có TK 642-Chi_phí quản_lý hành_chính chung . 
+
+Điều 19 .  Quy_định về việc lập , nộp báo_cáo tài_chính 
+
+1 . Quy_định chung việc lập và trình_bày Báo_cáo tài_chính 
+
+a ) Người điều_hành dầu_khí lập và trình_bày báo_cáo tài_chính theo quy_định của Hợp_đồng dầu_khí . 
+
+b ) Khi lập và trình_bày Bảng cân_đối kế_toán Người điều_hành dầu_khí thực_hiện theo biểu_mẫu quy_định tại phụ_lục 2 Thông_tư này và được bổ_sung thêm các chỉ_tiêu quy_định trong Chế_độ kế_toán doanh_nghiệp khi có nhu_cầu mà không cần sự chấp_thuận của Bộ Tài_chính .  Nội_dung và phương_pháp lập các chỉ_tiêu trong Bảng Cân_đối kế_toán tuân_thủ theo quy_định của Chế_độ kế_toán doanh_nghiệp hiện_hành và những hướng_dẫn bổ_sung tại khoản 2 Điều này .  Người điều_hành được tự đánh mã_số cho các chỉ_tiêu phù_hợp với đặc_điểm và tình_hình hoạt_động . 
+
+c ) Trường_hợp hợp_đồng dầu_khí không có quy_định cụ_thể về báo_cáo các khoản thu , chi trong kỳ , Người điều_hành dầu_khí vận_dụng báo_cáo kết_quả hoạt_động kinh_doanh của Chế_độ kế_toán doanh_nghiệp hiện_hành để báo_cáo các khoản thu , chi trong kỳ .  Phương_pháp lập các chỉ_tiêu của báo_cáo thu , chi phải phù_hợp với quy_định của Chế_độ kế_toán doanh_nghiệp hiện_hành . 
+
+d ) Người điều_hành dầu_khí vận_dụng Bản thuyết_minh báo_cáo tài_chính của Chế_độ kế_toán doanh_nghiệp để lập và trình_bày Bản thuyết_minh báo_cáo tài_chính của mình .  Trong bản thuyết_minh báo_cáo tài_chính , Người điều_hành phải trình_bày chi_tiết số chi_phí tìm_kiếm , thăm_dò , phát_triển và khai_thác được kiểm_toán của PVN chấp_thuận là chi_phí thu_hồi và không được chấp_thuận là chi_phí thu_hồi .  Nội_dung và phương_pháp lập các chỉ_tiêu trên Bản Thuyết_minh báo_cáo tài_chính phải phù_hợp với quy_định hướng_dẫn tại Chế_độ Kế_toán doanh_nghiệp hiện_hành . 
+
+2 . Hướng_dẫn nội_dung và phương_pháp lập các chỉ_tiêu trong Bảng Cân_đối kế_toán 
+
+Bổ_sung và hướng_dẫn nội_dung và phương_pháp lập một_số chỉ_tiêu đặc_thù trong Bảng Cân_đối kế_toán so với Chế_độ Kế_toán doanh_nghiệp hiện_hành .  Những chỉ_tiêu không hướng_dẫn tại Thông_tư này Người điều_hành dầu_khí thực_hiện theo quy_định của Chế_độ Kế_toán doanh_nghiệp hiện_hành . 
+
+a ) Chi_phí tìm_kiếm , thăm_dò , thẩm lượng 
+
+Chỉ_tiêu này dùng để phản_ánh chi_phí phát_sinh trong quá_trình tìm_kiếm , thăm_dò , thẩm lượng lũy_kế đến cuối kỳ báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Chi_phí tìm_kiếm , thăm_dò , thẩm lượng ” được căn_cứ vào số dư Nợ Tài_khoản 246 “ Chi_phí tìm_kiếm , thăm_dò , thẩm lượng ” trên sổ Cái hoặc Nhật_ký-Sổ cái . 
+
+b ) Chi_phí phát_triển mỏ 
+
+Chỉ_tiêu này dùng để phản_ánh chi_phí phát_sinh trong quá_trình phát_triển các mỏ dầu_khí lũy_kế đến cuối kỳ báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Chi_phí phát_triển ” được căn_cứ vào số dư Nợ Tài_khoản 247 “ Chi_phí phát_triển mỏ ” trên sổ Cái hoặc Nhật_ký-Sổ cái . 
+
+c ) Chi_phí khai_thác 
+
+Chỉ_tiêu này dùng để phản_ánh chi_phí phát_sinh trong quá_trình khai_thác dầu_khí lũy_kế đến cuối kỳ báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Chi_phí khai_thác ” được căn_cứ vào số dư Nợ Tài_khoản 248 “ Chi_phí khai_thác ” trên sổ Cái hoặc Nhật_ký-Sổ cái . 
+
+d ) Chi_phí không được thu_hồi 
+
+Chỉ_tiêu này dùng để phản_ánh số chi_phí không được thu_hồi theo quy_định của Hợp_đồng dầu_khí và các chi_phí bị treo , bị loại trong quá_trình kiểm_toán theo Báo_cáo kiểm_toán của Tập_đoàn dầu_khí Việt_Nam đến cuối kỳ báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Chi_phí không được thu_hồi ” được căn_cứ vào số dư Nợ Tài_khoản 249 “ Chi_phí không được thu_hồi ” trên sổ Cái hoặc Nhật_ký-Sổ cái . 
+
+đ ) Chi_phí đã thu_hồi 
+
+Chỉ_tiêu này dùng để phản_ánh số chi_phí đã được thu_hồi của các giai_đoạn tìm_kiếm , thăm_dò , thẩm lượng ;  giai_đoạn phát_triển mỏ và giai_đoạn khai_thác dầu_khí thông_qua dầu thu_hồi chi_phí đến thời_điểm cuối kỳ báo_cáo .  Số_liệu của chỉ_tiêu này được ghi bằng số_âm dưới hình_thức ghi trong ngoặc_đơn ( … ) .  Số_liệu để ghi vào chỉ_tiêu “ Chi_phí thu_hồi ” được căn_cứ vào số_dư Có Tài_khoản 251 “ Chi_phí thu_hồi ” , trên sổ Cái hoặc Nhật_ký-Sổ cái . 
+
+e ) Vốn góp của các bên Nhà_thầu khác 
+
+Chỉ_tiêu này dùng để phản_ánh số vốn góp của các bên Nhà_thầu khác không phải là Công_ty_mẹ-người điều_hành tại thời_điểm báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Vốn góp của các bên Nhà_thầu khác ” là số_dư Có chi_tiết của Tài_khoản 3411 “ Vốn góp của các bên Nhà_thầu khác ” trên sổ kế_toán chi_tiết Tài_khoản 3411 . 
+
+g ) Thu_hồi vốn góp của các bên Nhà_thầu khác 
+
+Chỉ_tiêu này dùng để phản_ánh số vốn góp của các bên Nhà_thầu khác đã được thu_hồi thông_qua dầu thu_hồi chi_phí tại thời_điểm báo_cáo .  Số_liệu của chỉ_tiêu này được ghi bằng số_âm dưới hình_thức ghi trong ngoặc_đơn ( … ) .  Số_liệu để ghi vào chỉ_tiêu “ Thu_hồi vốn góp của các bên Nhà_thầu ” là số dư Nợ chi_tiết của Tài_khoản 3412 “ Thu_hồi vốn góp của các bên Nhà_thầu ” trên sổ kế_toán chi_tiết Tài_khoản 3412 . 
+
+h ) Vốn góp của Công_ty_mẹ-Người điều_hành 
+
+Chỉ_tiêu này dùng để phản_ánh số vốn của Công_ty_mẹ-Người điều_hành tại thời_điểm báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Vốn góp của Công_ty_mẹ-Người điều_hành ” là số_dư Có chi_tiết của Tài_khoản 4111 “ Vốn góp của Công_ty_mẹ-Người điều_hành ” trên sổ kế_toán chi_tiết Tài_khoản 4111 . 
+
+k ) Thu_hồi vốn góp của Công_ty_mẹ-Người điều_hành 
+
+Chỉ_tiêu này dùng để phản_ánh số vốn góp của Công_ty_mẹ-Người điều_hành đã được thu_hồi thông_qua dầu thu_hồi chi_phí tại thời_điểm báo_cáo .  Số_liệu của chỉ_tiêu này được ghi bằng số_âm dưới hình_thức ghi trong ngoặc_đơn ( … ) .  Số_liệu để ghi vào chỉ_tiêu “ Thu_hồi vốn góp của Công_ty_mẹ-Người điều_hành ” là số dư Nợ chi_tiết của Tài_khoản 4112 “ Thu_hồi vốn góp của Công_ty_mẹ-Người điều_hành ” trên sổ kế_toán chi_tiết Tài_khoản 4112 . 
+
+3 . Nơi nộp báo_cáo 
+
+Các Báo_cáo tài_chính của Người điều_hành dầu_khí phải nộp cho Cục thuế địa_phương , Cơ_quan cấp giấy_phép đầu_tư , Cục thống_kê địa_phương và các cơ_quan khác theo quy_định . 
+
+Điều 20 .  Điều_khoản thi_hành 
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 1/1/2015 .  Người điều_hành dầu_khí đã được Bộ Tài_chính chấp_thuận Chế_độ kế_toán áp_dụng trước khi Thông_tư này có hiệu_lực phải chuyển sang thực_hiện theo quy_định tại Thông_tư này .  Những Hợp_đồng Dầu_khí hết hiệu_lực trước ngày 31/12/2016 Người điều_hành dầu_khí được tiếp_tục áp_dụng Chế_độ kế_toán đã được Bộ Tài_chính chấp_thuận . 
+
+2 . Người điều_hành dầu_khí , các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này .  Trong quá_trình thực_hiện nếu gặp khó_khăn , vướng_mắc , đề_nghị phản_ánh về Bộ Tài_chính để kịp_thời giải_quyết ./. 

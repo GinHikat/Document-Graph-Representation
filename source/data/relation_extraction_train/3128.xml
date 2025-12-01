@@ -1,0 +1,458 @@
+Thông tư Quy định về phát triển và bảo trì phần mềm nghiệp vụ ngân hàng 
+
+của Ngân hàng Nhà nước Việt Nam
+
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29/11/2005 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin số 67/2006/QH11 ngày 29/6/2006 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Ngân_hàng Nhà_nước Việt_Nam số 46/2010/QH12 ngày 16/6/2010 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10/4/2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 96/2008/NĐ-CP ngày 26/8/2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+1 . Thông_tư này quy_định về trách_nhiệm , quyền_hạn của các đơn_vị thuộc Ngân_hàng Nhà_nước Việt_Nam , các bên thứ ba trong việc phát_triển và bảo_trì phần_mềm nghiệp_vụ ngân_hàng của Ngân_hàng Nhà_nước Việt_Nam ( sau đây gọi tắt là Ngân_hàng Nhà_nước ) . 
+
+2 . Các phần_mềm nghiệp_vụ ngân_hàng dùng cho mục_đích nghiên_cứu , thử_nghiệm của Ngân_hàng Nhà_nước không thuộc phạm_vi điều_chỉnh của Thông_tư này . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này được áp_dụng đối_với các đơn_vị thuộc Ngân_hàng Nhà_nước , các bên thứ ba tham_gia phát_triển và bảo_trì phần_mềm nghiệp_vụ ngân_hàng cho Ngân_hàng Nhà_nước . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Phần_mềm nội_bộ là phần_mềm được phát_triển , nâng_cấp , chỉnh_sửa theo các yêu_cầu riêng của tổ_chức nhằm đáp_ứng yêu_cầu đặc_thù của tổ_chức và được sử_dụng trong nội_bộ tổ_chức đó . 
+
+2 . Phần_mềm thương_mại là phần_mềm được phát_triển hoàn_chỉnh , được đăng_ký thương_hiệu và nhân_bản hàng_loạt để cung_cấp ra thị_trường . 
+
+3 . Phần_mềm nghiệp_vụ ngân_hàng ( sau đây gọi tắt là phần_mềm nghiệp_vụ ) là phần_mềm nội_bộ hoặc phần_mềm thương_mại ứng_dụng trong các hoạt_động nghiệp_vụ của Ngân_hàng Nhà_nước nhằm tin_học_hóa một phần hoặc toàn_bộ các hoạt_động nghiệp_vụ đó . 
+
+4 . Phát_triển phần_mềm là việc xây_dựng mới hoặc sửa_đổi , bổ_sung các chức_năng của phần_mềm nghiệp_vụ đã có . 
+
+5 . Bảo_trì phần_mềm là các công_việc được thực_hiện nhằm duy_trì sự hoạt_động ổn_định của phần_mềm nghiệp_vụ đúng như chức_năng đã được thiết_kế . 
+
+6 . Đơn_vị chuyên_trách về công_nghệ thông_tin của Ngân_hàng Nhà_nước là Cục Công_nghệ tin_học . 
+
+7 . Đơn_vị chủ_trì nghiệp_vụ là đơn_vị thuộc Ngân_hàng Nhà_nước được giao nhiệm_vụ xây_dựng quy_trình nghiệp_vụ , tổ_chức thực_hiện và quản_lý nghiệp_vụ áp_dụng trong phần_mềm nghiệp_vụ . 
+
+8 . Đơn_vị chủ_trì công_nghệ thông_tin là Cục Công_nghệ tin_học hoặc đơn_vị thuộc Ngân_hàng Nhà_nước được Thống_đốc Ngân_hàng Nhà_nước giao nhiệm_vụ tổ_chức trang_bị , quản_lý phát_triển , bảo_trì phần_mềm nghiệp_vụ theo từng phần_mềm nghiệp_vụ cụ_thể . 
+
+9 . Đơn_vị phát_triển phần_mềm là đơn_vị chủ_trì công_nghệ thông_tin hoặc bên thứ ba trực_tiếp thực_hiện việc phát_triển phần_mềm nghiệp_vụ . 
+
+10 .  Đơn_vị bảo_trì phần_mềm là đơn_vị chủ_trì công_nghệ thông_tin hoặc bên thứ ba trực_tiếp thực_hiện việc bảo_trì phần_mềm nghiệp_vụ . 
+
+11 .  Đơn_vị sử_dụng là đơn_vị trực_tiếp sử_dụng phần_mềm nghiệp_vụ . 
+
+12 .  Bên thứ ba là tổ_chức không thuộc cơ_cấu tổ_chức Ngân_hàng Nhà_nước được Ngân_hàng Nhà_nước thuê để trực_tiếp phát_triển hoặc bảo_trì phần_mềm nghiệp_vụ . 
+
+13 .  Quy_trình nghiệp_vụ là tổng_hợp các quy_định điều_chỉnh về trình_tự , thủ_tục , mẫu biểu và nhiệm_vụ của các tổ_chức , cá_nhân tham_gia vào hoạt_động nghiệp_vụ của Ngân_hàng Nhà_nước . 
+
+14 .  Tài_liệu yêu_cầu người sử_dụng là tài_liệu mô_tả các yêu_cầu đối_với phần_mềm của đơn_vị chủ_trì nghiệp_vụ và đơn_vị sử_dụng . 
+
+15 .  Hạ_tầng công_nghệ thông_tin là hệ_thống trang_thiết_bị bao_gồm máy_chủ , máy trạm , mạng truyền_thông , cơ_sở dữ_liệu , thiết_bị bảo_mật , phần_mềm và các thiết_bị cần_thiết khác phục_vụ cho việc sản_xuất , truyền_dẫn , thu_thập , xử_lý , lưu_trữ và trao_đổi thông_tin số . 
+
+Điều 4 .  Nguyên_tắc chung 
+
+1 . Phần_mềm nghiệp_vụ được phát_triển dựa trên yêu_cầu nghiệp_vụ của đơn_vị chủ_trì nghiệp_vụ và đơn_vị sử_dụng .  Mỗi phần_mềm nghiệp_vụ phải có đơn_vị chủ_trì nghiệp_vụ chịu trách_nhiệm các vấn_đề liên_quan đến nghiệp_vụ và đơn_vị chủ_trì công_nghệ thông_tin chịu trách_nhiệm các vấn_đề liên_quan đến kỹ_thuật .  Phần_mềm nghiệp_vụ sau khi hết hạn bảo_hành phải được bảo_trì để vận_hành , khai_thác lâu_dài . 
+
+2 . Cục Công_nghệ tin_học , các đơn_vị thuộc Ngân_hàng Nhà_nước và bên thứ ba_phải xác_định rõ và thực_hiện đúng trách_nhiệm , quyền_hạn theo quy_định liên_quan trong quá_trình phát_triển , bảo_trì phần_mềm nghiệp_vụ . 
+
+3 . Trong trường_hợp một đơn_vị được phân_công đảm_nhận nhiều vai_trò trong quá_trình phát_triển và bảo_trì một phần_mềm nghiệp_vụ cụ_thể , đơn_vị đó phải có văn_bản phân_công rõ trách_nhiệm của các bộ_phận trong đơn_vị theo từng vai_trò được phân_công đảm_nhận và phải đảm_bảo nguyên_tắc độc_lập giữa các bộ_phận lập , kiểm_soát và phê_duyệt việc phát_triển và bảo_trì phần_mềm . 
+
+Điều 5 .  Định_hướng phát_triển phần_mềm 
+
+1 . Đơn_vị chuyên_trách về công_nghệ thông_tin tổ_chức xây_dựng kế_hoạch và kiến_trúc ứng_dụng công_nghệ thông_tin của Ngân_hàng Nhà_nước trong đó bao_gồm nội_dung định_hướng ứng_dụng công_nghệ thông_tin . 
+
+2 . Đơn_vị chủ_trì công_nghệ thông_tin , đơn_vị phát_triển phần_mềm bảo_đảm phát_triển phần_mềm nghiệp_vụ tuân_thủ theo đúng định_hướng ứng_dụng công_nghệ thông_tin của Ngân_hàng Nhà_nước . 
+
+Điều 6 .  Đảm_bảo hạ_tầng công_nghệ thông_tin 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin cung_cấp yêu_cầu sử_dụng hạ_tầng công_nghệ thông_tin cho đơn_vị chuyên_trách về công_nghệ thông_tin . 
+
+2 . Đơn_vị chuyên_trách về công_nghệ thông_tin chịu trách_nhiệm cung_cấp đầy_đủ điều_kiện hạ_tầng công_nghệ thông_tin như máy_chủ , hệ quản_trị cơ_sở dữ_liệu , mạng truyền_thông , trang_thiết_bị an_ninh bảo_mật cho việc triển_khai , vận_hành phần_mềm nghiệp_vụ của Ngân_hàng Nhà_nước . 
+
+3 . Đơn_vị chuyên_trách về công_nghệ thông_tin đáp_ứng yêu_cầu sử_dụng hạ_tầng công_nghệ thông_tin theo thời_hạn như sau : 
+
+a ) Trong vòng 30 ngày làm_việc kể từ ngày nhận được yêu_cầu trong trường_hợp hạ_tầng công_nghệ thông_tin_dùng chung của Ngân_hàng Nhà_nước đã có sẵn ; 
+
+b ) Trong khoảng thời_gian cần_thiết để trang_bị hạ_tầng công_nghệ thông_tin theo quy_định của Ngân_hàng Nhà_nước và pháp_luật về quản_lý đầu_tư ứng_dụng công_nghệ thông_tin sử_dụng nguồn vốn ngân_sách nhà_nước đối_với trường_hợp hạ_tầng công_nghệ thông_tin chưa được trang_bị hoặc trang_bị chưa đủ . 
+
+Điều 7 .  Điều_kiện năng_lực của đơn_vị chủ_trì công_nghệ thông_tin 
+
+Đơn_vị chủ_trì công_nghệ thông_tin phải có ít_nhất 5 cán_bộ có trình_độ đại_học chuyên_ngành công_nghệ thông_tin và có chứng_chỉ hoàn_thành các khóa học về nghiệp_vụ lập , quản_lý đầu_tư ứng_dụng công_nghệ thông_tin theo quy_định của Chính_phủ . 
+
+Điều 8 .  Trình_tự_phát_triển phần_mềm nghiệp_vụ 
+
+1 . Các giai_đoạn phát_triển phần_mềm nghiệp_vụ : 
+
+a ) Lập kế_hoạch ; 
+
+b ) Khảo_sát yêu_cầu người sử_dụng ; 
+
+c ) Phân_tích yêu_cầu hệ_thống ; 
+
+d ) Thiết_kế phần_mềm ; 
+
+đ ) Lập_trình phần_mềm ; 
+
+e ) Kiểm_tra , thử_nghiệm phần_mềm ; 
+
+g ) Triển_khai thí_điểm ; 
+
+h ) Đào_tạo , tập_huấn ; 
+
+i ) Đóng_gói , bàn_giao phần_mềm ; 
+
+k ) Triển_khai chính_thức ; 
+
+l ) Nghiệm_thu phần_mềm ; 
+
+m ) Hỗ_trợ vận_hành . 
+
+2 . Đối_với các phần_mềm nghiệp_vụ thực_hiện theo yêu_cầu cấp_bách được Thống_đốc Ngân_hàng Nhà_nước phê_duyệt , đơn_vị chủ_trì công_nghệ thông_tin được quyết_định trình_tự_phát_triển rút_gọn , có_thể không bao_gồm các giai_đoạn quy_định tại điểm a , b , g , i nêu tại Khoản 1 Điều này . 
+
+Điều 9 .  Lập kế_hoạch phát_triển phần_mềm nghiệp_vụ của Ngân_hàng Nhà_nước 
+
+1 . Thông_báo yêu_cầu phát_triển phần_mềm nghiệp_vụ 
+
+a ) Đơn_vị sử_dụng có yêu_cầu phát_triển phần_mềm nghiệp_vụ gửi yêu_cầu cho đơn_vị chủ_trì nghiệp_vụ .  Yêu_cầu phát_triển phần_mềm nghiệp_vụ phải xuất_phát từ nhu_cầu thực_tế công_việc và phải đảm_bảo phần_mềm nghiệp_vụ sau khi triển_khai được sử_dụng thường_xuyên ; 
+
+b ) Đơn_vị chủ_trì nghiệp_vụ rà_soát tính hợp_lý theo quy_định tại Điểm a Khoản 1 Điều này của các yêu_cầu nhận được và chậm nhất ngày 31/9 hàng năm , đơn_vị chủ_trì nghiệp_vụ tổng_hợp , gửi yêu_cầu phát_triển phần_mềm nghiệp_vụ ( theo Mẫu 01/PTBTPM ) cho đơn_vị chuyên_trách về công_nghệ thông_tin để lập kế_hoạch phát_triển phần_mềm của năm tiếp_theo . 
+
+2 . Tiếp_nhận và đánh_giá yêu_cầu 
+
+a ) Căn_cứ yêu_cầu phát_triển phần_mềm , đơn_vị chuyên_trách về công_nghệ thông_tin thực_hiện phân_tích khả_năng đáp_ứng về mặt kỹ_thuật và phối_hợp với đơn_vị chủ_trì nghiệp_vụ để hoàn_thiện nếu yêu_cầu có nội_dung chưa phù_hợp hoặc không khả_thi ; 
+
+b ) Trong thời_hạn 10 ngày làm_việc kể từ ngày nhận được đầy_đủ yêu_cầu phát_triển phần_mềm của đơn_vị chủ_trì nghiệp_vụ , đơn_vị chuyên_trách về công_nghệ thông_tin có văn_bản trả_lời đơn_vị chủ_trì nghiệp_vụ về việc tiếp_nhận và đánh_giá yêu_cầu phát_triển phần_mềm . 
+
+3 . Lập kế_hoạch phát_triển phần_mềm 
+
+a ) Kế_hoạch hàng năm 
+
+Hàng năm , căn_cứ yêu_cầu phát_triển phần_mềm nghiệp_vụ của các đơn_vị chủ_trì nghiệp_vụ , đơn_vị chuyên_trách về công_nghệ thông_tin phối_hợp với đơn_vị chủ_trì nghiệp_vụ thống_nhất kế_hoạch phát_triển đối_với từng phần_mềm nghiệp_vụ cụ_thể . 
+
+Chậm nhất ngày 31/10 hàng năm , đơn_vị chuyên_trách về công_nghệ thông_tin hoàn_thành Bảng tổng_hợp kế_hoạch phát_triển phần_mềm ( theo Mẫu 02/PTBTPM ) trình Thống_đốc Ngân_hàng Nhà_nước phê_duyệt . 
+
+b ) Kế_hoạch đột_xuất 
+
+Trường_hợp đơn_vị chủ_trì nghiệp_vụ gửi yêu_cầu phát_triển phần_mềm nghiệp_vụ đột_xuất chưa có trong kế_hoạch được duyệt , đơn_vị chuyên_trách về công_nghệ thông_tin xem_xét nội_dung yêu_cầu và trình Thống_đốc Ngân_hàng Nhà_nước phê_duyệt kế_hoạch điều_chỉnh . 
+
+c ) Thông_báo kế_hoạch được duyệt 
+
+Sau khi được Thống_đốc Ngân_hàng Nhà_nước phê_duyệt kế_hoạch phát_triển phần_mềm , đơn_vị chuyên_trách về công_nghệ thông_tin thông_báo cho các đơn_vị liên_quan để triển_khai tiếp các quy_định tại Điều 10 đến Điều 25 của Thông_tư này . 
+
+4 . Các phần_mềm nghiệp_vụ thuộc dự_án , đề_án 
+
+Trường_hợp yêu_cầu trang_bị phần_mềm nghiệp_vụ thuộc một dự_án , đề_án của Ngân_hàng Nhà_nước đã được người có thẩm_quyền phê_duyệt thì phần_mềm đó không phải lập và phê_duyệt theo các quy_định tại Khoản 1 , Khoản 2 và Khoản 3 của Điều này nhưng đơn_vị chủ_trì dự_án , đề_án phải gửi đơn_vị chuyên_trách về công_nghệ thông_tin các nội_dung chi_tiết của phần_mềm ( theo Mục II Mẫu 01/PTBTPM ) để tổng_hợp . 
+
+Điều 10 .  Xây_dựng tài_liệu yêu_cầu người sử_dụng 
+
+1 . Đơn_vị chủ_trì nghiệp_vụ chịu trách_nhiệm tổ_chức xây_dựng nội_dung tài_liệu yêu_cầu người sử_dụng ( theo Mẫu 03/PTBTPM ) . 
+
+2 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm hỗ_trợ đơn_vị chủ_trì nghiệp_vụ xây_dựng tài_liệu yêu_cầu người sử_dụng đảm_bảo về hình_thức , kết_cấu và nội_dung . 
+
+3 . Thủ_trưởng đơn_vị chủ_trì nghiệp_vụ trình Phó_Thống_đốc phụ_trách phê_duyệt tài_liệu yêu_cầu người sử_dụng và chuyển đơn_vị chủ_trì công_nghệ thông_tin tài_liệu yêu_cầu người sử_dụng đã được phê_duyệt . 
+
+4 . Trong thời_hạn 10 ngày làm_việc kể từ ngày nhận được tài_liệu yêu_cầu người sử_dụng đã được phê_duyệt , đơn_vị chủ_trì công_nghệ thông_tin lập báo_cáo đề_xuất phương_thức phát_triển phần_mềm nghiệp_vụ trình Phó_Thống_đốc phụ_trách công_nghệ thông_tin phê_duyệt . 
+
+5 . Trường_hợp có nhu_cầu bổ_sung , sửa_đổi tài_liệu yêu_cầu người sử_dụng đã được phê_duyệt , đơn_vị chủ_trì nghiệp_vụ gửi yêu_cầu bổ_sung , sửa_đổi có phê_duyệt của Phó_Thống_đốc phụ_trách cho đơn_vị chủ_trì công_nghệ thông_tin .  Đơn_vị chủ_trì công_nghệ thông_tin đánh_giá mức_độ ảnh_hưởng đối_với việc phát_triển phần_mềm của yêu_cầu bổ_sung , sửa_đổi tài_liệu yêu_cầu người sử_dụng , đề_xuất phương_án xử_lý trình Phó_Thống_đốc phụ_trách công_nghệ thông_tin phê_duyệt . 
+
+6 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm quản_lý , sử_dụng tài_liệu yêu_cầu người sử_dụng đã được phê_duyệt theo yêu_cầu của đơn_vị chủ_trì nghiệp_vụ về cấp_độ “ mật ” của tài_liệu . 
+
+Điều 11 .  Xác_định đơn_vị phát_triển phần_mềm nghiệp_vụ 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin đồng_thời là đơn_vị phát_triển phần_mềm đối_với các phần_mềm nghiệp_vụ được trang_bị theo phương_thức Ngân_hàng Nhà_nước tự xây_dựng . 
+
+2 . Đơn_vị chủ_trì công_nghệ thông_tin thực_hiện trang_bị theo các quy_định của Ngân_hàng Nhà_nước và pháp_luật về quản_lý đầu_tư ứng_dụng công_nghệ thông_tin để lựa_chọn đơn_vị phát_triển phần_mềm đối_với các phần_mềm nghiệp_vụ trang_bị theo phương_thức mua_sắm . 
+
+Điều 12 .  Lập kế_hoạch chi_tiết phát_triển phần_mềm nghiệp_vụ 
+
+1 . Trong vòng 15 ngày làm_việc sau khi được xác_định , đơn_vị phát_triển phần_mềm có trách_nhiệm lập kế_hoạch chi_tiết phát_triển phần_mềm nghiệp_vụ bao_gồm các thông_tin cơ_bản : nội_dung công_việc ;  thời_gian bắt_đầu ;  thời_gian kết_thúc ;  nhân_lực thực_hiện và kết_quả dự_kiến . 
+
+2 . Trong vòng 10 ngày làm_việc kể từ khi nhận được kế_hoạch chi_tiết phát_triển phần_mềm nghiệp_vụ , đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm xem_xét , phê_duyệt kế_hoạch này và gửi đơn_vị chuyên_trách về công_nghệ thông_tin , đơn_vị chủ_trì nghiệp_vụ để phối_hợp triển_khai trong các giai_đoạn tiếp_theo của dự_án . 
+
+Điều 13 .  Lập báo_cáo khảo_sát yêu_cầu người sử_dụng 
+
+1 . Đơn_vị phát_triển phần_mềm tiến_hành lập báo_cáo khảo_sát yêu_cầu người sử_dụng trên cơ_sở tài_liệu yêu_cầu người sử_dụng .  Trong trường_hợp cần_thiết , đơn_vị phát_triển phần_mềm có_thể tiến_hành khảo_sát tại đơn_vị chủ_trì nghiệp_vụ và các đơn_vị sử_dụng để thu_thập thêm thông_tin . 
+
+2 . Đơn_vị chủ_trì nghiệp_vụ , đơn_vị sử_dụng có trách_nhiệm phối_hợp , cung_cấp đầy_đủ , kịp_thời các thông_tin , tài_liệu theo yêu_cầu khảo_sát của đơn_vị phát_triển phần_mềm và có trách_nhiệm xác_nhận báo_cáo khảo_sát yêu_cầu người sử_dụng trong vòng 10 ngày làm_việc kể từ khi nhận được báo_cáo . 
+
+3 . Đơn_vị phát_triển phần_mềm có trách_nhiệm quản_lý , sử_dụng tài_liệu yêu_cầu người sử_dụng và các tài_liệu liên_quan trong quá_trình khảo_sát theo yêu_cầu của đơn_vị chủ_trì nghiệp_vụ , đơn_vị chủ_trì công_nghệ thông_tin và quy_định của pháp_luật về bảo_mật thông_tin . 
+
+4 . Trong quá_trình khảo_sát , nếu có phát_sinh yêu_cầu hoặc có thay_đổi tài_liệu yêu_cầu người sử_dụng đã được phê_duyệt , đơn_vị chủ_trì nghiệp_vụ và đơn_vị chủ_trì công_nghệ thông_tin thực_hiện theo quy_định tại Khoản 5 Điều 10 của Thông_tư này . 
+
+Điều 14 .  Phân_tích yêu_cầu hệ_thống 
+
+1 . Căn_cứ tài_liệu yêu_cầu người sử_dụng , báo_cáo khảo_sát và các văn_bản , tài_liệu liên_quan , đơn_vị phát_triển phần_mềm thực_hiện phân_tích yêu_cầu người sử_dụng và xây_dựng tài_liệu phân_tích yêu_cầu hệ_thống . 
+
+2 . Đối_với các phần_mềm nghiệp_vụ là phần_mềm thương_mại , tài_liệu phân_tích yêu_cầu hệ_thống là tài_liệu phân_tích_sự khác_biệt giữa yêu_cầu người sử_dụng và các tính_năng đã có sẵn trong phần_mềm nghiệp_vụ . 
+
+3 . Đơn_vị chủ_trì công_nghệ thông_tin và đơn_vị chủ_trì nghiệp_vụ có trách_nhiệm cho ý_kiến , thống_nhất phương_án xử_lý đối_với các nội_dung về kỹ_thuật và nghiệp_vụ trong quá_trình phân_tích yêu_cầu hệ_thống . 
+
+4 . Tài_liệu phân_tích yêu_cầu hệ_thống phải được đơn_vị chủ_trì công_nghệ thông_tin phê_duyệt . 
+
+Điều 15 .  Thiết_kế phần_mềm nghiệp_vụ 
+
+1 . Căn_cứ tài_liệu phân_tích yêu_cầu hệ_thống và các văn_bản , tài_liệu liên_quan , đơn_vị phát_triển phần_mềm xây_dựng tài_liệu thiết_kế phần_mềm và thực_hiện thiết_kế phần_mềm . 
+
+2 . Đối_với các phần_mềm nghiệp_vụ là phần_mềm thương_mại , tài_liệu thiết_kế phần_mềm là các tài_liệu mô_tả kiến_trúc hệ_thống , các chức_năng của phần_mềm , tổ_chức dữ_liệu , yêu_cầu cài_đặt , cấu_hình và các tài_liệu kỹ_thuật liên_quan khác . 
+
+3 . Tài_liệu thiết_kế phần_mềm phải được đơn_vị chủ_trì công_nghệ thông_tin phê_duyệt . 
+
+Điều 16 .  Lập_trình phần_mềm nghiệp_vụ 
+
+1 . Căn_cứ tài_liệu thiết_kế phần_mềm , đơn_vị phát_triển phần_mềm thực_hiện lập_trình và xây_dựng các tài_liệu kỹ_thuật liên_quan . 
+
+2 . Đối_với các phần_mềm nghiệp_vụ là phần_mềm thương_mại , lập_trình phần_mềm là quá_trình chỉnh_sửa các chức_năng có sẵn , phát_triển thêm chức_năng mới đáp_ứng theo tài_liệu thiết_kế phần_mềm . 
+
+3 . Trong quá_trình lập_trình phần_mềm , đơn_vị phát_triển phần_mềm phải tự thực_hiện kiểm_tra , thử_nghiệm nội_bộ phần_mềm trước khi bàn_giao cho đơn_vị chủ_trì công_nghệ thông_tin thực_hiện kiểm_tra , thử_nghiệm phần_mềm .  Kết_quả của quá_trình kiểm_tra , thử_nghiệm nội_bộ phải được thể_hiện bằng báo_cáo kết_quả kiểm_tra , thử_nghiệm nội_bộ và kèm theo kịch_bản kiểm_tra , thử_nghiệm . 
+
+4 . Đơn_vị phát_triển phần_mềm có trách_nhiệm xây_dựng tài_liệu hướng_dẫn cài_đặt , tài_liệu hướng_dẫn sử_dụng phần_mềm và các tài_liệu kỹ_thuật có liên_quan khác phục_vụ quá_trình triển_khai , vận_hành , chuyển_giao , bảo_hành và bảo_trì . 
+
+Điều 17 .  Quy_trình nghiệp_vụ 
+
+1 . Mỗi phần_mềm nghiệp_vụ phải có quy_trình nghiệp_vụ ban_hành kèm theo , quy_trình nghiệp_vụ phải thống_nhất với tài_liệu yêu_cầu người sử_dụng và tài_liệu thiết_kế đã được phê_duyệt . 
+
+2 . Trước thời_điểm kiểm_tra , thử_nghiệm phần_mềm , đơn_vị chủ_trì nghiệp_vụ có trách_nhiệm tổ_chức xây_dựng , ban_hành theo thẩm_quyền hoặc trình Thống_đốc Ngân_hàng Nhà_nước ký ban_hành quy_trình nghiệp_vụ cho phần_mềm . 
+
+Điều 18 .  Kiểm_tra , thử_nghiệm phần_mềm nghiệp_vụ 
+
+1 . Kịch_bản kiểm_tra , thử_nghiệm phần_mềm 
+
+a ) Đơn_vị phát_triển phần_mềm có trách_nhiệm xây_dựng kịch_bản kiểm_tra , thử_nghiệm phần_mềm và chuyển cho đơn_vị chủ_trì công_nghệ thông_tin xem_xét , phê_duyệt . 
+
+b ) Kịch_bản kiểm_tra , thử_nghiệm phần_mềm ứng_dụng bao_gồm các loại : kịch_bản kiểm_tra , thử_nghiệm chức_năng ;  kịch_bản kiểm_tra , thử_nghiệm hiệu_năng ;  kịch_bản kiểm_tra , thử_nghiệm an_ninh bảo_mật ;  kịch_bản kiểm_tra , thử_nghiệm khả_năng phục_hồi khi có sự_cố ;  và có_thể bao_gồm một_số loại kịch_bản kiểm_tra , thử_nghiệm khác căn_cứ vào tính_chất và đặc_điểm của từng phần_mềm . 
+
+2 . Tổ_chức kiểm_tra , thử_nghiệm hệ_thống 
+
+Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm tổ_chức , thực_hiện và lập báo_cáo kiểm_tra , thử_nghiệm hệ_thống theo kịch_bản kiểm_tra , thử_nghiệm đã được phê_duyệt . 
+
+3 . Tổ_chức kiểm_tra , thử_nghiệm chấp_nhận của đơn_vị sử_dụng 
+
+a ) Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm tổ_chức kiểm_tra , thử_nghiệm chấp_nhận của đơn_vị sử_dụng theo kịch_bản kiểm_tra , thử_nghiệm đã được phê_duyệt . 
+
+b ) Đơn_vị chủ_trì nghiệp_vụ , đơn_vị sử_dụng có trách_nhiệm phối_hợp với đơn_vị chủ_trì công_nghệ thông_tin thực_hiện kiểm_tra , thử_nghiệm chấp_nhận của đơn_vị sử_dụng . 
+
+c ) Kết_quả của quá_trình kiểm_tra , thử_nghiệm chấp_nhận của đơn_vị sử_dụng phải được thể_hiện bằng báo_cáo kết_quả kiểm_tra , thử_nghiệm chấp_nhận của đơn_vị sử_dụng có xác_nhận của đơn_vị chủ_trì nghiệp_vụ , đơn_vị sử_dụng và đơn_vị chủ_trì công_nghệ thông_tin . 
+
+Điều 19 .  Triển_khai thí_điểm 
+
+1 . Phần_mềm nghiệp_vụ áp_dụng cho nhiều đơn_vị sử_dụng phải thực_hiện triển_khai thí_điểm trước khi triển_khai diện rộng . 
+
+2 . Đơn_vị chủ_trì công_nghệ thông_tin tổ_chức lập và thực_hiện kế_hoạch triển_khai thí_điểm .  Kế_hoạch triển_khai thí_điểm phải nêu rõ nội_dung triển_khai thí_điểm , thời_gian triển_khai thí_điểm và trách_nhiệm cụ_thể của từng đơn_vị liên_quan trong đợt triển_khai thí_điểm gồm : 
+
+a ) Đơn_vị chủ_trì công_nghệ thông_tin ; 
+
+b ) Đơn_vị chủ_trì nghiệp_vụ ; 
+
+c ) Đơn_vị phát_triển phần_mềm ; 
+
+d ) Đơn_vị sử_dụng tham_gia triển_khai thí_điểm . 
+
+3 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm tổ_chức đào_tạo cho các đơn_vị sử_dụng tham_gia thí_điểm . 
+
+4 . Kết_thúc đợt triển_khai thí_điểm : 
+
+a ) Đơn_vị sử_dụng tham_gia triển_khai thí_điểm báo_cáo kết_quả triển_khai thí_điểm và yêu_cầu hiệu_chỉnh ( nếu có ) gửi đơn_vị chủ_trì công_nghệ thông_tin ; 
+
+a ) Đơn_vị chủ_trì công_nghệ thông_tin lập báo_cáo kết_quả triển_khai thí_điểm kèm theo tài_liệu yêu_cầu hiệu_chỉnh ( nếu có ) gửi đơn_vị chủ_trì nghiệp_vụ và đơn_vị phát_triển phần_mềm để phối_hợp .  Trường_hợp phát_sinh vướng_mắc về nghiệp_vụ , đơn_vị chủ_trì nghiệp_vụ và đơn_vị chủ_trì công_nghệ thông_tin phối_hợp thống_nhất phương_án xử_lý . 
+
+b ) Đơn_vị phát_triển phần_mềm tiến_hành hiệu_chỉnh phần_mềm sau khi kết_thúc triển_khai thí_điểm và tiến_hành cập_nhật các tài_liệu chỉnh_sửa liên_quan ( nếu có ) gửi đơn_vị chủ_trì công_nghệ thông_tin kiểm_tra và chấp_nhận kết_quả hiệu_chỉnh phần_mềm và tài_liệu liên_quan ( nếu có ) trước khi đào_tạo , tập_huấn . 
+
+Điều 20 .  Đào_tạo , tập_huấn 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin lập và tổ_chức thực_hiện kế_hoạch đào_tạo , tập_huấn cho các đơn_vị sử_dụng trước khi triển_khai chính_thức phần_mềm nghiệp_vụ .  Kế_hoạch đào_tạo , tập_huấn phải nêu rõ trách_nhiệm của từng đơn_vị liên_quan trong khóa đào_tạo , tập_huấn : 
+
+d ) Đơn_vị sử_dụng . 
+
+2 . Đơn_vị chủ_trì nghiệp_vụ có trách_nhiệm phối_hợp với các đơn_vị liên_quan tổ_chức đào_tạo , tập_huấn bảo_đảm đơn_vị sử_dụng có đủ kiến_thức chuyên_môn trong quá_trình vận_hành chính_thức phần_mềm . 
+
+3 . Đơn_vị sử_dụng có trách_nhiệm tiếp_thu kiến_thức chuyên_môn để triển_khai , vận_hành phần_mềm . 
+
+4 . Đơn_vị chủ_trì công_nghệ thông_tin lập báo_cáo kết_quả đào_tạo , tập_huấn kèm theo nội_dung tổng_hợp ý_kiến của các đơn_vị tham_gia đào_tạo , tập_huấn gửi đơn_vị chủ_trì nghiệp_vụ và đơn_vị phát_triển phần_mềm để phối_hợp hiệu_chỉnh phần_mềm , tài_liệu ( nếu cần_thiết ) . 
+
+Điều 21 .  Đóng_gói , bàn_giao phần_mềm nghiệp_vụ 
+
+1 . Đơn_vị phát_triển phần_mềm đóng_gói phần_mềm , bàn_giao và lập biên_bản bàn_giao phần_mềm với đơn_vị chủ_trì công_nghệ thông_tin . 
+
+2 . Việc đóng_gói phần_mềm phải được tổ_chức theo từng phiên_bản , dễ tham_chiếu và bao_gồm các nội_dung cơ_bản như sau : 
+
+a ) Tài_liệu kỹ_thuật , nghiệp_vụ gồm : 
+
+- Tài_liệu yêu_cầu người sử_dụng ; 
+
+- Báo_cáo khảo_sát ; 
+
+- Tài_liệu phân_tích yêu_cầu hệ_thống ; 
+
+- Tài_liệu thiết_kế phần_mềm ; 
+
+- Tài_liệu cài_đặt và cấu_hình hệ_thống ; 
+
+- Hướng_dẫn sử_dụng ; 
+
+- Quy_trình vận_hành ; 
+
+- Quy_trình nghiệp_vụ ; 
+
+- Tài_liệu khắc_phục sự_cố . 
+
+b ) Bộ cài_đặt phần_mềm ; 
+
+c ) Bộ mã_nguồn phần_mềm trong trường_hợp tự_phát_triển phần_mềm hoặc Ngân_hàng Nhà_nước có yêu_cầu cung_cấp mã nguồn trong hợp_đồng với bên thứ ba ; 
+
+d ) Quy_trình bảo_trì phần_mềm ; 
+
+đ ) Các công_cụ sử_dụng để phát_triển , triển_khai phần_mềm ( nếu có ) . 
+
+3 . Đơn_vị phát_triển phần_mềm có trách_nhiệm bổ_sung phiên_bản đóng_gói nếu có các thay_đổi trong quá_trình hỗ_trợ kỹ_thuật , bảo_hành và bảo_trì phần_mềm kể từ thời_điểm bàn_giao . 
+
+4 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm lưu_trữ sản_phẩm phần_mềm đóng_gói tối_thiểu ở hai nơi khác nhau , đảm_bảo an_toàn . 
+
+Điều 22 .  Triển_khai chính_thức 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin lập và tổ_chức thực_hiện kế_hoạch triển_khai chính_thức .  Kế_hoạch triển_khai chính_thức phải nêu rõ thời_gian triển_khai chính_thức và trách_nhiệm cụ_thể của từng đơn_vị liên_quan khi triển_khai chính_thức gồm : 
+
+2 . Trách_nhiệm của các đơn_vị khi kết_thúc đợt triển_khai chính_thức : 
+
+a ) Đơn_vị sử_dụng thông_báo kết_quả triển_khai chính_thức tại đơn_vị cho đơn_vị chủ_trì công_nghệ thông_tin tổng_hợp và theo_dõi . 
+
+b ) Đơn_vị chủ_trì công_nghệ thông_tin tổng_hợp báo_cáo triển_khai chính_thức gửi đơn_vị phát_triển phần_mềm để hoàn_thiện phần_mềm và thông_báo đơn_vị chủ_trì nghiệp_vụ để phối_hợp . 
+
+Điều 23 .  Nghiệm_thu phần_mềm nghiệp_vụ 
+
+1 . Tổ nghiệm_thu phần_mềm 
+
+a ) Đối_với các phần_mềm trang_bị theo phương_thức Ngân_hàng Nhà_nước tự xây_dựng , đơn_vị chủ_trì công_nghệ thông_tin thành_lập Tổ nghiệm_thu phần_mềm ; 
+
+b ) Đối_với các phần_mềm trang_bị theo phương_thức mua_sắm , chủ đầu_tư hoặc đơn_vị được chủ đầu_tư ủy_quyền thành_lập Tổ nghiệm_thu phần_mềm ; 
+
+c ) Thành_phần Tổ nghiệm_thu phần_mềm bao_gồm cán_bộ của đơn_vị chủ_trì công_nghệ thông_tin , đơn_vị chủ_trì nghiệp_vụ và các đơn_vị liên_quan khác ( nếu cần ) . 
+
+2 . Đơn_vị phát_triển phần_mềm có trách_nhiệm chuẩn_bị các điều_kiện và hỗ_trợ cho việc kiểm_tra nghiệm_thu . 
+
+3 . Tổ nghiệm_thu phần_mềm xây_dựng và thực_hiện kiểm_tra theo kịch_bản nghiệm_thu . 
+
+4 . Kết_thúc quá_trình kiểm_tra nghiệm_thu , Tổ nghiệm_thu phần_mềm lập báo_cáo kèm biên_bản nghiệm_thu phần_mềm gửi đơn_vị chủ_trì công_nghệ thông_tin .  Trường_hợp_phần_mềm chưa đáp_ứng yêu_cầu về nghiệp_vụ , kỹ_thuật , đơn_vị chủ_trì công_nghệ thông_tin tiếp_tục tổ_chức chỉnh_sửa , hoàn_thiện phần_mềm . 
+
+Điều 24 .  Hỗ_trợ vận_hành 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm tổ_chức hướng_dẫn , hỗ_trợ các đơn_vị sử_dụng xử_lý các sự_cố , vướng_mắc kỹ_thuật . 
+
+2 . Đơn_vị chủ_trì nghiệp_vụ có trách_nhiệm tổ_chức hướng_dẫn , hỗ_trợ các đơn_vị sử_dụng xử_lý các vướng_mắc về nghiệp_vụ . 
+
+3 . Đơn_vị sử_dụng có trách_nhiệm phản_ánh kịp_thời các vướng_mắc , đề_xuất liên_quan đến nghiệp_vụ , kỹ_thuật cho đơn_vị chủ_trì nghiệp_vụ và đơn_vị chủ_trì công_nghệ thông_tin để tổng_hợp , nghiên_cứu và xử_lý . 
+
+Điều 25 .  Báo_cáo kết_quả phát_triển phần_mềm nghiệp_vụ 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm lập báo_cáo kết_quả triển_khai phần_mềm và gửi đơn_vị chuyên_trách về công_nghệ thông_tin trong vòng 30 ngày kể từ thời_điểm triển_khai chính_thức phần_mềm nghiệp_vụ . 
+
+2 . Báo_cáo kết_quả triển_khai phần_mềm gồm các nội_dung : 
+
+a ) Kết_quả đạt được so với các mục_tiêu_đề ra ; 
+
+b ) Phạm_vi , thời_gian triển_khai thực_tế ; 
+
+c ) Các chức_năng chính của phần_mềm ; 
+
+d ) Kịch_bản và các báo_cáo kiểm_tra , thử_nghiệm ; 
+
+đ ) Báo_cáo triển_khai thí_điểm , báo_cáo triển_khai chính_thức ; 
+
+e ) Biên_bản nghiệm_thu , biên_bản bàn_giao phần_mềm . 
+
+Mục 2 
+
+QUY_ĐỊNH BẢO_TRÌ PHẦN_MỀM NGHIỆP_VỤ 
+
+Điều 26 .  Tổ_chức bảo_trì phần_mềm nghiệp_vụ 
+
+Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm tổ_chức thực_hiện bảo_trì phần_mềm theo quy_trình bảo_trì do đơn_vị phát_triển phần_mềm cung_cấp ;  chịu trách_nhiệm trước pháp_luật về việc chất_lượng phần_mềm xuống_cấp hay trục_trặc do không thực_hiện quy_trình bảo_trì theo quy_định . 
+
+Điều 27 .  Xác_định đơn_vị bảo_trì phần_mềm nghiệp_vụ 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin là đơn_vị bảo_trì phần_mềm đối_với các phần_mềm nghiệp_vụ trong trường_hợp đơn_vị chủ_trì công_nghệ thông_tin có đủ khả_năng tự thực_hiện bảo_trì . 
+
+2 . Trong trường_hợp không đủ điều_kiện , khả_năng tự thực_hiện bảo_trì , đơn_vị chủ_trì công_nghệ thông_tin trình Thống_đốc Ngân_hàng Nhà_nước thuê bảo_trì một phần hoặc toàn_bộ phần_mềm nghiệp_vụ .  Việc lựa_chọn đơn_vị bảo_trì phần_mềm phải được thực_hiện đồng_thời với việc lựa_chọn đơn_vị phát_triển phần_mềm theo quy_định tại Khoản 2 Điều 11 . 
+
+Điều 28 .  Bảo_trì định_kỳ phần_mềm nghiệp_vụ 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm lập kế_hoạch bảo_trì định_kỳ phần_mềm .  Kế_hoạch bảo_trì định_kỳ gồm các thông_tin chính sau : 
+
+a ) Nội_dung bảo_trì ; 
+
+b ) Thời_gian thực_hiện ; 
+
+c ) Cán_bộ thực_hiện , các bên liên_quan phối_hợp ; 
+
+d ) Các nội_dung cần_thiết khác . 
+
+2 . Kế_hoạch bảo_trì định_kỳ phần_mềm được gửi các bên liên_quan phối_hợp thực_hiện . 
+
+3 . Đơn_vị bảo_trì phần_mềm có trách_nhiệm xây_dựng kịch_bản bảo_trì định_kỳ phần_mềm gửi đơn_vị chủ_trì công_nghệ thông_tin xem_xét , phê_duyệt .  Việc bảo_trì định_kỳ phần_mềm gồm các hoạt_động sau đây : 
+
+a ) Kiểm_tra hoạt_động của phần_mềm ; 
+
+b ) Kiểm_tra sao lưu và khôi_phục dữ_liệu ; 
+
+c ) Kiểm_tra an_toàn , bảo_mật của phần_mềm ; 
+
+d ) Chỉnh_sửa các lỗi phát_sinh , cải_thiện hiệu_năng của phần_mềm ; 
+
+đ ) Kiểm_tra môi_trường hoạt_động và đưa ra những cảnh_báo có_thể gặp phải và cách_thức khắc_phục . 
+
+4 . Sau khi đơn_vị bảo_trì thực_hiện bảo_trì định_kỳ , đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm phối_hợp kiểm_tra và xác_nhận kết_quả bảo_trì định_kỳ bằng biên_bản . 
+
+Điều 29 .  Bảo_trì đột_xuất phần_mềm nghiệp_vụ 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm tiếp_nhận yêu_cầu bảo_trì đột_xuất phần_mềm và gửi đơn_vị bảo_trì phần_mềm thực_hiện . 
+
+2 . Nếu yêu_cầu bảo_trì liên_quan đến bổ_sung , nâng_cấp phần_mềm , đơn_vị chủ_trì công_nghệ thông_tin thực_hiện theo quy_định phát_triển phần_mềm tại Mục 1 Chương II của Thông_tư này . 
+
+3 . Đối_với các yêu_cầu bảo_trì nằm ngoài khả_năng xử_lý của đơn_vị bảo_trì phần_mềm hoặc sự_cố không_thể khắc_phục được , đơn_vị chủ_trì công_nghệ thông_tin thực_hiện : 
+
+a ) Phối_hợp đơn_vị bảo_trì phần_mềm đề_xuất phương_án xử_lý ; 
+
+b ) Xây_dựng phương_án trình Thống_đốc Ngân_hàng Nhà_nước xem_xét quyết_định . 
+
+Điều 30 .  Lưu_trữ hồ_sơ bảo_trì phần_mềm nghiệp_vụ 
+
+1 . Đơn_vị chủ_trì công_nghệ thông_tin có trách_nhiệm tổ_chức lưu_trữ hồ_sơ bảo_trì theo quy_định về thời_gian lưu_trữ chứng từ kế_toán trong trường_hợp hồ_sơ bảo_trì là chứng từ kế_toán hoặc là một phần của chứng từ kế_toán .  Đối_với các trường_hợp khác , hồ_sơ bảo_trì được lưu_trữ tối_thiểu là 05 năm . 
+
+2 . Hồ_sơ bảo_trì bao_gồm : 
+
+a ) Kế_hoạch , kịch_bản và biên_bản bảo_trì định_kỳ ; 
+
+b ) Giải_pháp kỹ_thuật , biên_bản xử_lý lỗi ; 
+
+c ) Bộ phần_mềm và tài_liệu liên_quan đến các nội_dung bảo_trì đã thực_hiện ; 
+
+d ) Các tài_liệu bảo_trì có liên_quan khác . 
+
+Điều 31 .  Kết_thúc bảo_trì phần_mềm nghiệp_vụ 
+
+1 . Việc bảo_trì phần_mềm kết_thúc khi phần_mềm nghiệp_vụ không sử_dụng trong thực_tế . 
+
+2 . Trường_hợp_phần_mềm không sử_dụng trong thực_tế nhưng hợp_đồng bảo_trì với bên thứ ba vẫn còn hiệu_lực , đơn_vị chủ_trì công_nghệ thông_tin phải báo_cáo Thống_đốc Ngân_hàng Nhà_nước phương_án chấm_dứt hợp_đồng bảo_trì . 
+
+3 . Khi kết_thúc bảo_trì phần_mềm , đơn_vị chủ_trì công_nghệ thông_tin thực_hiện lưu_trữ phần_mềm .  Hồ_sơ lưu_trữ phần_mềm bao_gồm : 
+
+a ) Tài_liệu kỹ_thuật , nghiệp_vụ như Điểm a Khoản 2 Điều 21 của Thông_tư này ; 
+
+c ) Bộ mã_nguồn phần_mềm trong trường_hợp_phần_mềm phát_triển theo phương_thức tự_phát_triển hoặc bản_quyền phần_mềm thuộc Ngân_hàng Nhà_nước ; 
+
+d ) Dữ_liệu của phần_mềm ; 
+
+đ ) Các công_cụ sử_dụng để phát_triển , triển_khai phần_mềm ( nếu có ) ; 
+
+e ) Hồ_sơ bảo_trì . 
+
+Điều 32 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 10 tháng 02 năm 2013 
+
+Điều 33 .  Tổ_chức thực_hiện 
+
+1 . Cục Công_nghệ tin_học có trách_nhiệm tổ_chức triển_khai thực_hiện Thông_tư này . 
+
+2 . Vụ Kiểm_toán nội_bộ có trách_nhiệm kiểm_tra việc thi_hành Thông_tư này đối_với các đơn_vị thuộc Ngân_hàng Nhà_nước . 
+
+3 . Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước , Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương , bên thứ ba trong phạm_vi chức_năng , nhiệm_vụ của mình chịu trách_nhiệm thi_hành Thông_tư này . 

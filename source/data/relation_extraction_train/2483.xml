@@ -1,0 +1,613 @@
+Thông tư Hướng dẫn việc quản lý, sử dụng và khai thác cơ sở dữ liệu lý lịch tư pháp
+
+Căn_cứ <L rel="Pursuant"> Luật Lý_lịch tư_pháp ngày 17 tháng 6 năm 2009 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Lưu_trữ ngày 11 tháng 11 năm 2011 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 111/2010/NĐ-CP ngày 23 tháng 11 năm 2010 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Lý_lịch tư_pháp </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan Nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 93/2008/NĐ-CP ngày 22 tháng 8 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tư_pháp ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này hướng_dẫn việc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp , trách_nhiệm của Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp và các cơ_quan , đơn_vị có liên_quan trong quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+2 . Thông_tư này áp_dụng đối_với công_chức , viên_chức , người lao_động tại Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp ( sau đây gọi là người làm công_tác lý_lịch tư_pháp ) và các cơ_quan , đơn_vị có liên_quan trong quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . “ Quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp ” là tập_hợp nhiệm_vụ , quyền_hạn của Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp trong xây_dựng , lưu_trữ , bảo_vệ cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp . 
+
+2 . “ Sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp ” là việc tiếp_cận cơ_sở dữ_liệu lý_lịch tư_pháp để tra_cứu , tìm_kiếm , sao_chép thông_tin trong cơ_sở dữ_liệu lý_lịch tư_pháp nhằm phục_vụ các mục_đích theo quy_định của <L rel="Reference"> Luật Lý_lịch tư_pháp </L> và các văn_bản quy_định chi_tiết , hướng_dẫn thi_hành Luật này .
+3 . “ Phần_mềm chuyên_dụng ” là phần_mềm được xây_dựng nhằm phục_vụ hoạt_động tiếp_nhận , kiểm_tra , phân_loại thông_tin , lập Lý_lịch tư_pháp , cập_nhật thông_tin lý_lịch tư_pháp , khai_thác , sử_dụng cơ_sở dữ_liệu lý_lịch tư_pháp và phù_hợp với tiêu_chuẩn , quy_chuẩn kỹ_thuật về công_nghệ thông_tin . 
+
+Điều 3 .  Nguyên_tắc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp 
+
+1 . Việc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp phải tuân_thủ theo quy_định của <L rel="Reference"> Luật Lý_lịch tư_pháp </L> , <NĐ rel="Reference"> Nghị_định số 111/2010/NĐ-CP ngày 23 tháng 11 năm 2010 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Lý_lịch tư_pháp </L> ( sau đây gọi là <NĐ rel="Reference"> Nghị_định số 111/2010/NĐ-CP </NĐ> ) và Thông_tư này .
+2 . Việc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp phải đúng mục_đích , bảo_đảm tính chính_xác , đầy_đủ , thống_nhất , bảo_đảm an_toàn , an_ninh thông_tin và lưu_trữ lâu_dài , bảo_đảm tôn_trọng bí_mật đời tư của cá_nhân , tạo thuận_lợi cho cơ_quan , tổ_chức , cá_nhân có yêu_cầu cấp Phiếu lý_lịch tư_pháp . 
+
+3 . Việc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp phải được phân_định quyền_hạn , trách_nhiệm rõ_ràng theo nhiệm_vụ , chức_trách của người làm công_tác lý_lịch tư_pháp . 
+
+Điều 4 .  Trách_nhiệm quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp 
+
+1 . Giám_đốc Trung_tâm Lý_lịch tư_pháp quốc_gia có trách_nhiệm sau đây : 
+
+a ) Tổng_hợp và cập_nhật tình_hình , thực_trạng quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp trong phạm_vi cả nước ; 
+
+b ) Quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp trong phạm_vi cả nước ; 
+
+c ) Kiểm_tra việc thực_hiện các quy_định của pháp_luật về quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại các Sở Tư_pháp ; 
+
+d ) Hướng_dẫn việc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp ; 
+
+đ ) Phối_hợp tổ_chức đào_tạo , bồi_dưỡng nghiệp_vụ cho người làm công_tác lý lý_lịch tư_pháp ; 
+
+e ) Phân_cấp quyền tiếp_nhận , kiểm_tra , phân_loại thông_tin , lập Lý_lịch tư_pháp , cập_nhật thông_tin lý_lịch tư_pháp , quyền sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia ; 
+
+g ) Ban_hành quy_chế quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia ;  quy_chế mẫu về quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Sở Tư_pháp ; 
+
+h ) Tổ_chức thực_hiện công_tác thống_kê , báo_cáo việc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp theo quy_định của pháp_luật . 
+
+2 . Giám_đốc Sở Tư_pháp có trách_nhiệm sau đây : 
+
+a ) Tổng_hợp và cập_nhật tình_hình , thực_trạng quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Sở Tư_pháp ; 
+
+b ) Quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp trong phạm_vi tỉnh , thành_phố trực_thuộc Trung_ương ; 
+
+c ) Tổ_chức cho người làm công_tác lý_lịch tư_pháp tại Sở Tư_pháp tham_gia các lớp đào_tạo , bồi_dưỡng về lý_lịch tư_pháp do Bộ Tư_pháp tổ_chức ; 
+
+d ) Phân_cấp quyền tiếp_nhận , kiểm_tra , phân_loại thông_tin , lập Lý_lịch tư_pháp , cập_nhật thông_tin lý_lịch tư_pháp , quyền khai_thác và sử_dụng cơ_sở dữ_liệu lý_lịch tư_pháp tại Sở Tư_pháp ; 
+
+đ ) Ban_hành quy_chế quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Sở Tư_pháp trên cơ_sở quy_chế mẫu do Giám_đốc Trung_tâm Lý_lịch tư_pháp quốc_gia ban_hành ; 
+
+e ) Tổ_chức thực_hiện công_tác thống_kê , báo_cáo việc quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Sở Tư_pháp . 
+
+3 . Người_làm công_tác lý_lịch tư_pháp được giao nhiệm_vụ trực_tiếp thực_hiện quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp có trách_nhiệm sau đây : 
+
+a ) Thực_hiện tiếp_nhận , kiểm_tra , phân_loại thông_tin , lập Lý_lịch tư_pháp , cập_nhật thông_tin lý_lịch tư_pháp theo phạm_vi , chức_trách , nhiệm_vụ được phân_công ; 
+
+b ) Rà_soát , đối_chiếu , bảo_đảm tính chính_xác của thông_tin khi cập_nhật vào cơ_sở dữ_liệu lý_lịch tư_pháp ; 
+
+c ) Tuân_thủ các quy_định của pháp_luật , quy_chế của cơ_quan , đơn_vị về quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp ; 
+
+d ) Trường_hợp phát_hiện thông_tin trong cơ_sở dữ_liệu lý_lịch tư_pháp bị mất , hủy_hoại , thay_đổi và có hành_vi khai_thác , sử_dụng thông_tin lý_lịch tư_pháp sai mục_đích , thẩm_quyền thì báo_cáo ngay cho Thủ_trưởng cơ_quan , đơn_vị biết để kịp_thời có kế_hoạch , biện_pháp truy_tìm , khắc_phục hậu_quả , xác_định trách_nhiệm cá_nhân và có hình_thức xử_lý ; 
+
+đ ) Kịp_thời báo_cáo Lãnh_đạo cơ_quan , đơn_vị khi có vướng_mắc , khó_khăn , sự_cố xảy ra và đề_xuất hướng giải_quyết . 
+
+Điều 5 .  Trách_nhiệm thực_hiện ứng_dụng công_nghệ thông_tin trong quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp 
+
+a ) Chủ_trì , phối_hợp với Cục Công_nghệ thông_tin tổ_chức triển_khai thực_hiện ứng_dụng công_nghệ thông_tin trong quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp ; 
+
+b ) Theo_dõi , cập_nhật tình_hình và báo_cáo Bộ_trưởng việc triển_khai thực_hiện ứng_dụng công_nghệ thông_tin trong quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp ; 
+
+c ) Quản_lý việc kết_nối , trao_đổi , chia_sẻ thông_tin dưới dạng dữ_liệu điện_tử giữa cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia với các Sở Tư_pháp và các cơ_sở dữ_liệu khác có liên_quan . 
+
+2 . Cục_trưởng Cục Công_nghệ thông_tin có trách_nhiệm sau đây : 
+
+a ) Phối_hợp với Trung_tâm Lý_lịch tư_pháp quốc_gia tổ_chức triển_khai và báo_cáo Bộ_trưởng việc thực_hiện ứng_dụng công_nghệ thông_tin trong quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp ; 
+
+b ) Khắc_phục sự_cố kỹ_thuật trong thực_hiện kết_nối , trao_đổi , chia_sẻ thông_tin dưới dạng dữ_liệu điện_tử giữa cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia với các Sở Tư_pháp và các cơ_sở dữ_liệu khác có liên_quan . 
+
+3 . Giám_đốc Sở Tư_pháp có trách_nhiệm triển_khai thực_hiện ứng_dụng công_nghệ thông_tin trong quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp theo hướng_dẫn của Bộ Tư_pháp . 
+
+Điều 6 .  Liên_kết , chia_sẻ thông_tin giữa cơ_sở dữ_liệu lý_lịch tư_pháp và các cơ_sở dữ_liệu khác có liên_quan 
+
+1 . Trung_tâm Lý_lịch tư_pháp quốc_gia có trách_nhiệm nghiên_cứu , đề_xuất việc kết_nối , chia_sẻ thông_tin giữa cơ_sở dữ_liệu lý_lịch tư_pháp và các cơ_sở dữ_liệu chuyên_ngành khác có liên_quan của cơ_quan Tòa_án , Viện kiểm_sát , Công_an , cơ_quan quản_lý hộ_tịch , cơ_quan thi_hành án dân_sự . 
+
+Việc phối_hợp cung_cấp thông_tin giữa cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp với cơ_quan quản_lý cơ_sở dữ_liệu về dân_cư , hộ_tịch , hộ_khẩu , chứng_minh nhân_dân được thực_hiện theo quy_định tại Điều 5 , Điều 16 <NĐ rel="Reference"> Nghị_định số 111/2010/NĐ-CP </NĐ> và Điều 24 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-TANDTC-VKSNDTC-BCA-BQP ngày 10/5/2012 </TTLT> hướng_dẫn trình_tự ; thủ_tục tra_cứu , xác_minh , trao_đổi , cung_cấp thông_tin lý_lịch tư_pháp ( sau đây gọi là <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-TANDTC-VKSNDTC-BCA-BQP </TTLT> ) .
+2 . Trung_tâm Lý_lịch tư_pháp quốc_gia có trách_nhiệm chủ_trì , phối_hợp với Cục Công_nghệ thông_tin nghiên_cứu giải_pháp kỹ_thuật để thực_hiện việc trao_đổi , cung_cấp , chia_sẻ thông_tin dưới dạng dữ_liệu điện_tử giữa cơ_sở dữ_liệu lý_lịch tư_pháp với các cơ_sở dữ_liệu khác có liên_quan theo quy_định tại khoản 1 Điều này . 
+
+Điều 7 .  Thông_tin lý_lịch tư_pháp 
+
+Thông_tin lý_lịch tư_pháp bao_gồm thông_tin lý_lịch tư_pháp dưới hình_thức văn_bản giấy và thông_tin lý_lịch tư_pháp dưới hình_thức dữ_liệu điện_tử ( nghĩa_là thông_tin lý_lịch tư_pháp dưới dạng số theo tiêu_chuẩn , quy_chuẩn kỹ_thuật về công_nghệ thông_tin , sau đây gọi là thông_tin lý_lịch tư_pháp điện_tử ) . 
+
+Điều 8 .  Tiếp_nhận thông_tin lý_lịch tư_pháp 
+
+1 . Khi nhận được thông_tin lý_lịch tư_pháp do các cơ_quan có liên_quan cung_cấp theo quy_định của <L rel="Reference"> Luật Lý_lịch tư_pháp </L> và các văn_bản khác có liên_quan , Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp thực_hiện tiếp_nhận thông_tin lý_lịch tư_pháp theo quy_định tại khoản 2 Điều 3 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> .
+Sau khi tiếp_nhận thông_tin lý_lịch tư_pháp do các cơ_quan cung_cấp , Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp thực_hiện ghi vào Sổ tiếp_nhận thông_tin lý_lịch tư_pháp theo mẫu ban_hành kèm theo <TT rel="Reference"> Thông_tư số 13/2011/TT-BTP ngày 27/6/2011 </TT> của Bộ_trưởng Bộ Tư_pháp về việc ban_hành và hướng_dẫn sử_dụng biểu_mẫu và mẫu sổ lý_lịch tư_pháp ( sau đây gọi là <TT rel="Reference"> Thông_tư số 13/2011/TT-BTP </TT> ) .
+2 . Trường_hợp cơ_quan , tổ_chức cung_cấp thông_tin lý_lịch tư_pháp điện_tử thì có trách_nhiệm sử_dụng chữ_ký số theo quy_định của pháp_luật về giao_dịch điện_tử để xác_thực thông_tin được cung_cấp chính_xác , toàn_vẹn và đúng thẩm_quyền .  Trường_hợp cơ_quan , tổ_chức cung_cấp thông_tin lý_lịch tư_pháp điện_tử nhưng không sử_dụng chữ_ký số thì phải có thông_tin về người gửi và bảo_đảm tính chính_xác , đúng thẩm_quyền và sự toàn_vẹn của thông_tin . 
+
+Điều 9 .  Kiểm_tra , phân_loại , cung_cấp thông_tin lý_lịch tư_pháp về án tích tại Sở Tư_pháp 
+
+1 . Kiểm_tra , phân_loại thông_tin lý_lịch tư_pháp do Tòa_án , Viện kiểm_sát nhân_dân cấp tỉnh , công_an cấp huyện , cơ_quan Thi_hành án dân_sự cung_cấp : 
+
+a ) Trường_hợp người bị kết_án thường_trú hoặc không có nơi thường_trú nhưng tạm_trú tại tỉnh , thành_phố trực_thuộc Trung_ương , nơi Sở Tư_pháp có trụ_sở thì Sở Tư_pháp nơi nhận được thông_tin thực_hiện lập Lý_lịch tư_pháp theo quy_định tại Điều 11 hoặc cập_nhật bổ_sung thông_tin vào Lý_lịch tư_pháp đã được lập theo quy_định tại Điều 13 Thông_tư này ; 
+
+b ) Trường_hợp người bị kết_án cư_trú ở tỉnh , thành_phố trực_thuộc Trung_ương khác , bao_gồm cả trường_hợp tạm_trú tại địa_phương nhưng vẫn còn hộ_khẩu thường_trú ở tỉnh , thành_phố trực_thuộc Trung_ương khác , Sở Tư_pháp đã nhận được thông_tin có nhiệm_vụ gửi bản_án , trích_lục bản_án và các quyết_định , giấy chứng_nhận có liên_quan đến quá_trình thi_hành án cho Sở Tư_pháp , nơi người đó thường_trú ; 
+
+c ) Trường_hợp người bị kết_án không có nơi cư_trú , bao_gồm cả người nước_ngoài mà không xác_định được nơi thường_trú hoặc nơi tạm_trú tại Việt_Nam , Sở Tư_pháp đã nhận được thông_tin có nhiệm_vụ gửi bản_án , trích_lục bản_án hoặc quyết_định có liên_quan đến quá_trình thi_hành án đó cho Trung_tâm Lý_lịch tư_pháp quốc_gia ; 
+
+d ) Trường_hợp bản_án , quyết_định có nhiều bị_cáo thường_trú hoặc tạm_trú ở các tỉnh , thành_phố trực_thuộc Trung_ương khác nhau , Sở Tư_pháp đã nhận được thông_tin thực_hiện thủ_tục sao bản_án , trích_lục bản_án , quyết_định và gửi bản_sao đó cho Sở Tư_pháp , nơi người bị kết_án thường_trú hoặc tạm_trú . 
+
+Bản_sao bản_án , quyết_định bao_gồm : bản_sao y bản_chính , bản_sao lục hoặc bản trích sao theo quy_định tại <NĐ rel="Reference"> Nghị_định số 110/2004/NĐ-CP ngày 08/4/2004 </NĐ> của Chính_phủ về công_tác văn_thư ;
+đ ) Trường_hợp nhận được thông_tin lý_lịch tư_pháp liên_quan đến tình_trạng thi_hành án của người đã bị Tòa_án Việt_Nam kết_án bằng bản_án có hiệu_lực pháp_luật trước ngày 01 tháng 7 năm 2010 như quyết_định thi_hành án , quyết_định xóa_án tích , giấy chứng_nhận xóa_án tích hoặc các thông_tin khác có liên_quan thì Sở Tư_pháp nơi có thẩm_quyền lập Lý_lịch tư_pháp đề_nghị Tòa_án có thẩm_quyền cung_cấp bản_án đó theo quy_định tại điểm a khoản 1 Điều 4 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> .
+2 . Kiểm_tra , phân_loại thông_tin lý_lịch tư_pháp do Sở Tư_pháp khác cung_cấp : 
+
+Trường_hợp nhận được thông_tin lý_lịch tư_pháp của người bị kết_án thường_trú hoặc tạm_trú tại địa_phương do các Sở Tư_pháp khác gửi đến , Sở Tư_pháp thực_hiện lập Lý_lịch tư_pháp theo quy_định tại khoản 1 Điều 11 hoặc cập_nhật thông_tin lý_lịch tư_pháp bổ_sung theo quy_định tại Điều 13 Thông_tư này . 
+
+3 . Kiểm_tra , phân_loại thông_tin lý_lịch tư_pháp do Trung_tâm Lý_lịch tư_pháp quốc_gia cung_cấp : 
+
+a ) Trường_hợp Sở Tư_pháp nhận được thông_tin lý_lịch tư_pháp liên_quan đến tình_trạng thi_hành án của người đã bị Tòa_án Việt_Nam kết_án bằng bản_án có hiệu_lực pháp_luật trước ngày 01 tháng 7 năm 2010 như giấy chứng_nhận chấp_hành xong án phạt tù , giấy chứng_nhận đặc_xá hoặc các quyết_định , giấy chứng_nhận khác thì Sở Tư_pháp đề_nghị Tòa_án đã xét_xử vụ án cung_cấp bản_án đó theo quy_định tại điểm a khoản 1 Điều 4 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> để lập Lý_lịch tư_pháp ;
+b ) Trường_hợp nhận được thông_tin lý_lịch tư_pháp bổ_sung của người đã có Lý_lịch tư_pháp thì Sở Tư_pháp thực_hiện cập_nhật thông_tin bổ_sung vào Lý_lịch tư_pháp đã được lập theo quy_định tại Điều 13 Thông_tư này . 
+
+4 . Trường_hợp cung_cấp nhiều thông_tin lý_lịch tư_pháp cho Trung_tâm Lý_lịch tư_pháp quốc_gia thì Sở Tư_pháp gửi kèm theo danh_sách các thông_tin đó .  Danh_sách thông_tin cần ghi rõ họ tên , loại thông_tin , số văn_bản , mã_số Lý_lịch tư_pháp ( nếu có ) . 
+
+Điều 10 .  Kiểm_tra , phân_loại , cung_cấp thông_tin lý_lịch tư_pháp về án tích tại Trung_tâm Lý_lịch tư_pháp quốc_gia 
+
+1 . Kiểm_tra , phân_loại thông_tin lý_lịch tư_pháp do Sở Tư_pháp cung_cấp : 
+
+a ) Trường_hợp Lý_lịch tư_pháp chưa đầy_đủ , có sai_sót thông_tin như : mã_số Lý_lịch tư_pháp , số bản_án , ngày_tháng năm tuyên_án hoặc ngày_tháng năm ra quyết_định , Tòa_án đã tuyên_án hoặc Tòa_án đã ra quyết_định , họ và tên , ngày_tháng năm_sinh , nơi cư_trú hoặc các thông_tin khác của người có Lý_lịch tư_pháp thì Trung_tâm Lý_lịch tư_pháp quốc_gia yêu_cầu Sở Tư_pháp đã cung_cấp thông_tin thực_hiện bổ_sung , đính_chính ; 
+
+b ) Trường_hợp Lý_lịch tư_pháp được lập trên cơ_sở bản_án hình_sự phúc_thẩm nhưng không có thông_tin của bản_án hình_sự sơ_thẩm thì Trung_tâm Lý_lịch tư_pháp quốc_gia yêu_cầu Sở Tư_pháp bổ_sung , cập_nhật thông_tin của bản_án sơ_thẩm vào Lý_lịch tư_pháp đã lập và cung_cấp thông_tin lý_lịch tư_pháp đã bổ_sung cho Trung_tâm Lý_lịch tư_pháp quốc_gia ; 
+
+c ) Đối_với bản Lý_lịch tư_pháp do Sở Tư_pháp lập sai thẩm_quyền , Trung_tâm Lý_lịch tư_pháp quốc_gia có nhiệm_vụ sau đây : 
+
+Trường_hợp Lý_lịch tư_pháp được lập đối_với người bị kết_án cư_trú tại tỉnh , thành_phố trực_thuộc Trung_ương khác thì Trung_tâm Lý_lịch tư_pháp quốc_gia yêu_cầu Sở Tư_pháp đã lập Lý_lịch tư_pháp thực_hiện gửi thông_tin lý_lịch tư_pháp của người bị kết_án cho Sở Tư_pháp , nơi người đó cư_trú để lập Lý_lịch tư_pháp . 
+
+Trường_hợp Lý_lịch tư_pháp được lập đối_với người bị kết_án mà không xác_định được nơi thường_trú hoặc nơi tạm_trú thì Trung_tâm Lý_lịch tư_pháp quốc_gia yêu_cầu Sở Tư_pháp gửi thông_tin lý_lịch tư_pháp của người đó cho Trung_tâm Lý_lịch tư_pháp quốc_gia để lập Lý_lịch tư_pháp . 
+
+Trung_tâm Lý_lịch tư_pháp quốc_gia thông_báo bằng văn_bản cho Sở Tư_pháp đã lập Lý_lịch tư_pháp sai thẩm_quyền để Sở Tư_pháp tiến_hành hủy mã_số Lý_lịch tư_pháp của bản Lý_lịch tư_pháp đó .  Mã_số Lý_lịch tư_pháp đã hủy được dùng cho bản Lý_lịch tư_pháp được lập mới . 
+
+2 . Kiểm_tra , phân_loại thông_tin lý_lịch tư_pháp do cơ_quan Công_an , Tòa_án quân_sự Trung_ương cung_cấp 
+
+Đối_với thông_tin lý_lịch tư_pháp do trại_giam , trại tạm giam , Phòng Cảnh_sát thi_hành án hình_sự và hỗ_trợ tư_pháp Công_an cấp tỉnh , Tòa_án quân_sự Trung_ương cung_cấp , Trung_tâm Lý_lịch tư_pháp quốc_gia tiến_hành phân_loại theo các tỉnh , thành_phố trực_thuộc Trung_ương , nơi người bị kết_án cư_trú để thực_hiện cung_cấp cho các Sở Tư_pháp . 
+
+3 . Kiểm_tra , phân_loại thông_tin lý_lịch tư_pháp do Viện_Kiểm_sát nhân_dân tối_cao cung_cấp 
+
+Đối_với thông_tin lý_lịch tư_pháp của người Việt_Nam phạm_tội ở nước_ngoài do Viện_Kiểm_sát nhân_dân tối_cao cung_cấp , Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện thủ_tục dịch sang tiếng Việt và chứng_thực theo quy_định của pháp_luật . 
+
+Đối_với quyết_định tạm đình_chỉ chấp_hành án phạt tù trong trường_hợp kháng_nghị theo thủ_tục giám_đốc_thẩm , tái_thẩm do Viện_Kiểm_sát nhân_dân tối_cao cung_cấp , Trung_tâm Lý_lịch tư_pháp quốc_gia tiến_hành phân_loại theo các tỉnh , thành_phố trực_thuộc Trung_ương , nơi người bị kết_án cư_trú để thực_hiện cung_cấp cho các Sở Tư_pháp . 
+
+4 . Sau khi kiểm_tra , phân_loại các thông_tin nhận được , Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện sao gửi các quyết_định , giấy chứng_nhận cho Sở Tư_pháp theo quy_định tại khoản 2 Điều 22 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> và khoản 2 Điều 11 <TT rel="Reference"> Thông_tư số 13/2011/TT-BTP </TT> . Trường_hợp cung_cấp nhiều thông_tin lý_lịch tư_pháp thì Trung_tâm Lý_lịch tư_pháp quốc_gia gửi kèm theo danh_sách thông_tin được cung_cấp . Danh_sách thông_tin cần ghi rõ họ tên , loại thông_tin , số văn_bản , mã_số Lý_lịch tư_pháp ( nếu có ) .
+5 . Đối_với thông_tin lý_lịch tư_pháp của người bị kết_án mà không xác_định được nơi thường_trú hoặc nơi tạm_trú do Sở Tư_pháp , cơ_quan Công_an , Viện kiểm_sát nhân_dân tối_cao cung_cấp , Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện lập Lý_lịch tư_pháp theo quy_định tại Điều 11 Thông_tư này hoặc thực_hiện cập_nhật thông_tin bổ_sung vào Lý_lịch tư_pháp đã được lập theo quy_định tại Điều 13 Thông_tư này . 
+
+Điều 11 .  Lập Lý_lịch tư_pháp 
+
+1 . Việc lập Lý_lịch tư_pháp đối_với người bị Tòa_án kết_án kể từ ngày 01 tháng 7 năm 2010 được thực_hiện như sau : 
+
+a ) Sở Tư_pháp thực_hiện lập Lý_lịch tư_pháp theo quy_định tại khoản 1 , khoản 3 , khoản 4 , khoản 5 Điều 26 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> trên cơ_sở thông_tin lý_lịch tư_pháp do các cơ_quan , tổ_chức cung_cấp ;
+b ) Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện lập Lý_lịch tư_pháp theo quy_định tại khoản 2 , khoản 3 , khoản 4 , khoản 5 Điều 26 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> trên cơ_sở thông_tin do Sở Tư_pháp và các cơ_quan khác có liên_quan cung_cấp .
+2 . Việc lập Lý_lịch tư_pháp đối_với người bị Tòa_án kết_án trước ngày 01 tháng 7 năm 2010 được thực_hiện như sau : 
+
+a ) Trường_hợp Sở Tư_pháp nhận được thông_tin lý_lịch tư_pháp của người bị Tòa_án Việt_Nam kết_án trước ngày 01 tháng 7 năm 2010 như quyết_định thi_hành án hình_sự , giấy chứng_nhận chấp_hành xong án phạt tù , đặc_xá , đại_xá , giấy xác_nhận kết_quả thi_hành án dân_sự hoặc các thông_tin lý_lịch tư_pháp khác có liên_quan đến người bị kết_án , nhưng chưa nhận được bản_án có hiệu_lực pháp_luật thì Sở Tư_pháp lập Lý_lịch tư_pháp trên cơ_sở quyết_định , giấy chứng_nhận đã nhận được và ghi rõ nguồn thông_tin để lập Lý_lịch tư_pháp . Đồng_thời , Sở Tư_pháp đề_nghị Tòa_án đã xét_xử vụ án cung_cấp bản_án có hiệu_lực pháp_luật theo quy_định tại điểm a khoản 1 Điều 4 của <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> . Trên_cơ_sở bản_án do Tòa_án cung_cấp , Sở Tư_pháp thực_hiện cập_nhật bổ_sung những thông_tin còn thiếu vào Lý_lịch tư_pháp đã được lập ;
+b ) Trường_hợp Trung_tâm Lý_lịch tư_pháp quốc_gia nhận được thông_tin lý_lịch tư_pháp của người bị Tòa_án Việt_Nam kết_án trước ngày 01 tháng 7 năm 2010 mà không xác_định được nơi thường_trú hoặc nơi tạm_trú thì Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện lập Lý_lịch tư_pháp trên cơ_sở quyết_định , giấy chứng_nhận theo quy_định tại điểm a khoản này ; 
+
+c ) Trường_hợp kết_quả tra_cứu , xác_minh của cơ_quan công_an , Tòa_án , cơ_quan có thẩm_quyền thuộc Bộ Quốc_phòng cho thấy người được cấp Phiếu lý_lịch tư_pháp “ có án tích ” , nhưng trong cơ_sở dữ_liệu lý_lịch tư_pháp chưa có Lý_lịch tư_pháp của người đó , thì Trung_tâm Lý_lịch tư_pháp quốc_gia hoặc Sở Tư_pháp nơi thực_hiện cấp Phiếu lý_lịch tư_pháp tiến_hành lập Lý_lịch tư_pháp trên cơ_sở kết_quả tra_cứu , xác_minh của cơ_quan Công_an , Tòa_án . Đồng_thời , Trung_tâm Lý_lịch tư_pháp quốc_gia hoặc Sở Tư_pháp đề_nghị Tòa_án đã xét_xử vụ án cung_cấp bản_án theo quy_định tại điểm a khoản 1 Điều 4 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> . Trên_cơ_sở bản_án do Tòa_án cung_cấp , Trung_tâm Lý_lịch tư_pháp quốc_gia hoặc Sở Tư_pháp thực_hiện bổ_sung những thông_tin còn thiếu vào Lý_lịch tư_pháp đã được lập .
+3 . Việc lập Lý_lịch tư_pháp trong trường_hợp nhận được bản_án phúc_thẩm được thực_hiện như sau : 
+
+a ) Trường_hợp bản_án phúc_thẩm không chấp_nhận kháng_cáo , kháng_nghị và giữ nguyên_bản_án sơ_thẩm thì Sở Tư_pháp lập Lý_lịch tư_pháp trên cơ_sở bản_án sơ_thẩm có hiệu_lực pháp_luật , đồng_thời cập_nhật cả bản_án xét_xử phúc_thẩm vào Lý_lịch tư_pháp ; 
+
+b ) Trường_hợp bản_án phúc_thẩm sửa bản_án sơ_thẩm thì Sở Tư_pháp lập Lý_lịch tư_pháp trên cơ_sở bản_án phúc_thẩm đồng_thời cập_nhật cả bản_án xét_xử sơ_thẩm vào Lý_lịch tư_pháp ; 
+
+c ) Trường_hợp bản_án phúc_thẩm hủy_án sơ_thẩm và chuyển hồ_sơ vụ án để điều_tra lại hoặc xét_xử lại thì Sở Tư_pháp chưa lập Lý_lịch tư_pháp mà chờ bản_án có hiệu_lực pháp_luật để lập Lý_lịch tư_pháp ; 
+
+d ) Trường_hợp bản_án phúc_thẩm_hủy bản_án sơ_thẩm và đình_chỉ vụ án thì Sở Tư_pháp không lập Lý_lịch tư_pháp ; 
+
+đ ) Trường_hợp nhận được quyết_định đình_chỉ xét_xử phúc_thẩm thì Sở Tư_pháp lập Lý_lịch tư_pháp trên cơ_sở bản_án hình_sự sơ_thẩm có hiệu_lực pháp_luật ; 
+
+e ) Mã_số bản_án của bản_án hình_sự sơ_thẩm có kháng_cáo , kháng_nghị cập_nhật trong Lý_lịch tư_pháp được sử_dụng theo mã_số của bản_án hình_sự phúc_thẩm , thêm ký_hiệu ST . 
+
+Ví_dụ : Bản_án hình_sự phúc_thẩm có mã_số bản_án trong Lý_lịch tư_pháp là 31HM2011/00001/01 thì bản_án hình_sự sơ_thẩm có kháng_cáo , kháng_nghị có mã_số bản_án là 31HM2011/00001/01ST . 
+
+4 . Trường_hợp nhận được bản_án tuyên_án tử_hình nhưng chưa nhận được quyết_định thi_hành bản_án hoặc quyết_định thi_hành án tử_hình do Tòa_án cung_cấp thì Sở Tư_pháp tiến_hành lập Lý_lịch tư_pháp của người bị kết_án . 
+
+5 . Trường_hợp nhận được bản_án xét_xử phúc_thẩm , bản_án tuyên_án tử_hình đối_với người bị kết_án mà không xác_định được nơi thường_trú hoặc tạm_trú thì Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện lập Lý_lịch tư_pháp theo quy_định tại khoản 3 , khoản 4 Điều này . 
+
+Điều 12 .  Trường_hợp không lập Lý_lịch tư_pháp 
+
+1 . Nhận được quyết_định đình_chỉ việc chấp_hành án phạt tù trong trường_hợp người đang chấp_hành án phạt tù chết , thông_báo phạm_nhân chết nhưng chưa nhận được bản_án hoặc các quyết_định , giấy chứng_nhận khác có liên_quan đến án tích của người đó . 
+
+2 . Nhận được bản_án có hiệu_lực pháp_luật tuyên bị_cáo vô_tội hoặc tuyên miễn_trách_nhiệm hình_sự . 
+
+3 . Nhận được quyết_định thi_hành bản_án hoặc quyết_định thi_hành án tử_hình nhưng chưa nhận được bản_án hoặc các quyết_định , giấy chứng_nhận khác có liên_quan đến án tích của người đó . 
+
+Điều 13 .  Cập_nhật thông_tin lý_lịch tư_pháp bổ_sung 
+
+1 . Sở Tư_pháp thực_hiện cập_nhật thông_tin bổ_sung vào Lý_lịch tư_pháp đã lập trên cơ_sở các thông_tin lý_lịch tư_pháp nhận được , cụ_thể như sau : 
+
+a ) Trường_hợp nhận được thông_tin lý_lịch tư_pháp theo quy_định tại Điều 16 , Điều 20 , Điều 21 , khoản 2 Điều 22 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> và Điều 13 , khoản 3 Điều 15 , khoản 4 Điều 16 , Điều 17 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> và các thông_tin lý_lịch tư_pháp khác do Trung_tâm Lý_lịch tư_pháp quốc_gia cung_cấp , Sở Tư_pháp thực_hiện cập_nhật thông_tin bổ_sung vào Lý_lịch tư_pháp đã được lập theo quy_định tại Điều 27 , Điều 28 , Điều 29 , khoản 1 Điều 30 và Điều 33 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> ;
+b ) Trường_hợp bản_án có thông_tin về tiền_án của người bị kết_án và nội_dung của tiền_án chưa có trong Lý_lịch tư_pháp của người đó , Sở Tư_pháp thực_hiện cập_nhật bổ_sung thông_tin của tiền_án như một bản_án tiếp_theo vào Lý_lịch tư_pháp của người đó và ghi_chú rõ là tiền_án trong bản_án nào . Đồng_thời , Sở Tư_pháp đề_nghị Tòa_án đã xét_xử vụ án cung_cấp bản_án có liên_quan theo quy_định tại điểm a khoản 1 Điều 4 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> . Trên_cơ_sở bản_án do Tòa_án cung_cấp , Sở Tư_pháp thực_hiện bổ_sung những thông_tin còn thiếu vào Lý_lịch tư_pháp của người bị kết_án ;
+c ) Trường_hợp Lý_lịch tư_pháp được lập trên cơ_sở bản_án hình_sự phúc_thẩm theo quy_định tại khoản 3 Điều 11 Thông_tư này , Sở Tư_pháp bổ_sung những thông_tin còn thiếu của bản_án hình_sự phúc_thẩm vào Lý_lịch tư_pháp của người bị kết_án khi nhận được bản_án hình_sự sơ_thẩm ; 
+
+d ) Trường_hợp nhận được quyết_định giám_đốc thẩm hoặc tái_thẩm , Sở Tư_pháp thực_hiện cập_nhật thông_tin vào Lý_lịch tư_pháp như sau : 
+
+Đối_với quyết_định giám_đốc thẩm hoặc tái_thẩm không chấp_nhận kháng_nghị và giữ nguyên_bản_án hoặc quyết_định đã có hiệu_lực pháp_luật thì Sở Tư_pháp ghi nội_dung quyết_định đó vào Lý_lịch tư_pháp theo quy_định tại điểm a khoản 4 Điều 6 và điểm c khoản 1 Điều 7 <TT rel="Reference"> Thông_tư số 13/2011/TT-BTP </TT> .
+Đối_với quyết_định giám_đốc thẩm hoặc tái thấm_hủy bản_án , quyết_định đã có hiệu_lực pháp_luật và Lý_lịch tư_pháp của người bị kết_án chỉ được lập trên cơ_sở bản_án hoặc quyết_định bị hủy thì Lý_lịch tư_pháp của người đó được xóa_bỏ trong cơ_sở dữ_liệu lý_lịch tư_pháp .  Đồng_thời , Sở Tư_pháp căn_cứ vào quyết_định giám_đốc thẩm hoặc tái_thẩm để xem_xét , quyết_định tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy và xóa_bỏ dữ_liệu lý_lịch tư_pháp điện_tử của người đó theo quy_định tại Điều 24 và khoản 2 , khoản 3 Điều 26 Thông_tư này . 
+
+Trường_hợp Lý_lịch tư_pháp được lập trên cơ_sở nhiều bản_án , quyết_định thì thông_tin về bản_án , quyết_định bị hủy trong Lý_lịch tư_pháp bằng giấy được gạch_chéo và ghi rõ “ xóa_bỏ theo quyết_định giám_đốc thẩm ” hoặc “ xóa_bỏ theo quyết_định tái_thẩm ” ;  đối_với dữ_liệu lý_lịch tư_pháp điện_tử thì được xóa_bỏ và ghi rõ " xóa_bỏ theo quyết_định giám_đốc thẩm ” hoặc “ xóa_bỏ theo quyết_định tái_thẩm ” ; 
+
+đ ) Trường_hợp người yêu_cầu cấp Phiếu lý_lịch tư_pháp đã có Lý_lịch tư_pháp và kết_quả tra_cứu , xác_minh của cơ_quan công_an , Tòa_án cho thấy người đó " có án tích ” mà án tích này chưa có trong Lý_lịch tư_pháp của người đó thì Sở Tư_pháp , nơi thực_hiện cấp Phiếu lý_lịch tư_pháp thực_hiện cập_nhật thông_tin đó vào Lý_lịch tư_pháp của người đó theo quy_định tại điểm b khoản 1 Điều này ; 
+
+e ) Trường_hợp Sở Tư_pháp nhận được quyết_định thi_hành án , quyết_định đình_chỉ phúc_thẩm , quyết_định ủy_thác thi_hành án , quyết_định đình_chỉ thi_hành án thì cập_nhật thông_tin bổ_sung vào mục Quyết_định thi_hành bản_án hình_sự trong Lý_lịch tư_pháp theo mẫu_số 01/TT-LLTP ban_hành kèm theo <TT rel="Reference"> Thông_tư số 13/2011/TT-BTP </TT> ;
+g ) Trường_hợp nhận được quyết_định tổng_hợp hình_phạt , thông_báo của giám_thị trại_giam , giám_thị trại tạm giam về việc phạm_nhân chết thì Sở Tư_pháp cập_nhật nội_dung của thông_báo này vào Lý_lịch tư_pháp của người bị kết_án .  Đồng_thời , Sở Tư_pháp căn_cứ vào quyết_định đình_chỉ việc chấp_hành án phạt tù do Tòa_án cung_cấp để xem_xét , quyết_định tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy của người đó theo quy_định tại Điều 24 Thông_tư này ; 
+
+h ) Trường_hợp nhận được quyết_định của Chủ_tịch nước về việc ân giảm_án tử_hình thì Sở Tư_pháp cập_nhật nội_dung của quyết_định này vào mục Quyết_định ân giảm_án phạt tử_hình trong Lý_lịch tư_pháp của người bị kết_án ; 
+
+i ) Trường_hợp Sở Tư_pháp nhận được quyết_định thi_hành án dân_sự thì cập_nhật thông_tin bổ_sung vào mục Quyết_định thi_hành án phạt tiền , án phạt tịch_thu tài_sản , án_phí và nghĩa_vụ dân_sự khác tại phần Tình_trạng thi_hành án trong Lý_lịch tư_pháp của người đó ; 
+
+k ) Sở Tư_pháp thực_hiện cung_cấp thông_tin lý_lịch tư_pháp bổ_sung cho Trung_tâm Lý_lịch tư_pháp quốc_gia trong thời_hạn 05 ngày làm_việc , kể từ ngày hoàn_thành việc cập_nhật thông_tin . 
+
+2 . Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện cập_nhật thông_tin bổ_sung vào Lý_lịch tư_pháp đã lập theo quy_định tại khoản 1 Điều này trên cơ_sở thông_tin do Sở Tư_pháp và các cơ_quan có liên_quan cung_cấp . 
+
+- Trường_hợp nhận được văn_bản thông_báo về việc thi_hành án phạt trục_xuất , quyết_định tạm đình_chỉ chấp_hành án phạt tù trong trường_hợp kháng_nghị theo thủ_tục giám_đốc_thẩm , tái_thẩm thì Trung_tâm Lý_lịch tư_pháp quốc_gia cập_nhật nội_dung của văn_bản thông_báo , quyết_định tạm đình_chỉ vào Lý_lịch tư_pháp của người bị kết_án . 
+
+Trường_hợp công_dân Việt_Nam đã có Lý_lịch tư_pháp mà sau đó nhận được trích_lục bản_án hoặc trích lục án tích của người đó do Viện kiểm_sát nhân_dân tối_cao cung_cấp thì Trung_tâm Lý_lịch tư_pháp quốc_gia cập_nhật thông_tin về trích_lục bản_án hoặc trích lục án tích như một bản_án tiếp_theo vào Lý_lịch tư_pháp của người đó . 
+
+Trường_hợp nhận được thông_báo về quyết_định đặc_xá , đại_xá , miễn , giảm hình_phạt của nước chuyển_giao đối_với người đang chấp_hành_hình_phạt tù từ nước_ngoài về Việt_Nam thì Trung_tâm Lý_lịch tư_pháp quốc_gia cập_nhật thông_tin về việc đặc_xá , đại_xá , miễn , giảm hình_phạt vào Lý_lịch tư_pháp của người bị kết_án theo quy_định tại Điều 27 và khoản 2 Điều 30 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> .
+Điều 14 .  Xử_lý thông_tin về cấm đảm_nhiệm chức_vụ , thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã 
+
+1 . Sở Tư_pháp thực_hiện tiếp_nhận , cung_cấp thông_tin về cấm đảm_nhiệm chức_vụ , thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã theo quy_định tại khoản 3 Điều 37 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> , Điều 11 , Điều 14 <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> . Trường_hợp người bị Tòa_án cấm đảm_nhiệm chức_vụ , thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã là người nước_ngoài và không có nơi cư_trú tại Việt_Nam thì Sở Tư_pháp gửi thông_tin lý_lịch tư_pháp của người đó cho Trung_tâm Lý_lịch tư_pháp quốc_gia .
+2 . Sở Tư_pháp thực_hiện lập Lý_lịch tư_pháp của người bị cấm đảm_nhiệm chức_vụ , thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã theo quy_định tại khoản 1 Điều 38 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> , Điều 14 <NĐ rel="Reference"> Nghị_định số 111/2010/NĐ-CP </NĐ> . Trường_hợp người bị Tòa_án cấm đảm_nhiệm chức_vụ , thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã là người nước_ngoài và không có nơi cư_trú tại Việt_Nam thì Trung_tâm Lý_lịch tư_pháp quốc_gia thực_hiện lập Lý_lịch tư_pháp trên cơ_sở quyết_định tuyên_bố phá_sản của Tòa_án .
+3 . Trường_hợp người bị Tòa_án cấm đảm_nhiệm chức_vụ , thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã đã có Lý_lịch tư_pháp thì Sở Tư_pháp bổ_sung thông_tin cấm đảm_nhiệm chức_vụ , thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã vào Lý_lịch tư_pháp của người đó theo quy_định tại khoản 2 Điều 38 <L rel="Reference"> Luật Lý_lịch tư_pháp </L> .
+4 . Trường_hợp hết thời_hạn không được thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã theo quyết_định tuyên_bố phá_sản của Tòa_án thì thông_tin về việc cá_nhân không được thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã trong Lý_lịch tư_pháp bằng giấy của người đó được gạch_chéo và ghi rõ “ đã hết thời_hạn cấm ” ;  đối_với dữ_liệu lý_lịch tư_pháp điện_tử thì được xóa_bỏ và ghi rõ “ đã hết thời_hạn cấm ” . 
+
+Điều 15 .  Tạo_lập dữ_liệu lý_lịch tư_pháp điện_tử 
+
+1 . Dữ_liệu lý_lịch tư_pháp điện_tử là dữ_liệu được số hóa từ văn_bản chứa thông_tin lý_lịch tư_pháp và dữ_liệu được tạo_lập , chuyển_đổi từ_thông_tin lý_lịch tư_pháp điện_tử do các cơ_quan , tổ_chức cung_cấp cho Trung_tâm Lý_lịch tư_pháp quốc_gia và Sở Tư_pháp theo đúng tiêu_chuẩn của dữ_liệu lý_lịch tư_pháp điện_tử . 
+
+2 . Dữ_liệu lý_lịch tư_pháp điện_tử bao_gồm : Lý_lịch tư_pháp được tạo_lập bằng phần_mềm chuyên_dụng ( sau đây gọi là Lý_lịch tư_pháp điện_tử ) và thông_tin lý_lịch tư_pháp điện_tử bảo_đảm tiêu_chuẩn của dữ_liệu lý_lịch tư_pháp điện_tử theo quy_định tại khoản 3 của Điều này . 
+
+Đối_với thông_tin lý_lịch tư_pháp điện_tử chưa bảo_đảm phù_hợp với tiêu_chuẩn của dữ_liệu lý_lịch tư_pháp điện_tử , Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp có nhiệm_vụ thực_hiện việc chuẩn_hóa và chuyển_đổi dữ_liệu sang dạng dữ_liệu lý_lịch tư_pháp điện_tử . 
+
+3 . Dữ_liệu lý_lịch tư_pháp điện_tử bảo_đảm các tiêu_chuẩn sau đây : 
+
+a ) Nội_dung , cấu_trúc và kiểu thông_tin của dữ_liệu lý_lịch tư_pháp điện_tử phải phù_hợp với nội_dung các biểu_mẫu theo quy_định của <L rel="Reference"> Luật Lý_lịch tư_pháp </L> , <TT rel="Reference"> Thông_tư số 13/2011/TT-BTP </TT> , <TTLT rel="Reference"> Thông_tư liên_tịch số 04/2012/TTLT-BTP-TANDTC-VKSNDTC-BCA-BQP </TTLT> và các văn_bản khác quy_định chi_tiết , hướng_dẫn thi_hành <L rel="Others"> Luật Lý_lịch tư_pháp </L> ;
+b ) Dữ_liệu lý_lịch tư_pháp điện_tử phải thống_nhất , phù_hợp với tiêu_chuẩn , quy_chuẩn kỹ_thuật về công_nghệ thông_tin ; 
+
+c ) Dữ_liệu lý_lịch tư_pháp điện_tử phải bảo_đảm được truy_cập và kết xuất để thuận_tiện trong việc liên_kết , tích_hợp , trao_đổi , cung_cấp thông_tin lý_lịch tư_pháp với các cơ_sở dữ_liệu khác có liên_quan . 
+
+4 . Dữ_liệu lý_lịch tư_pháp điện_tử được tạo_lập tại Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp bằng phần_mềm chuyên_dụng và được tập_hợp , sắp_xếp theo nguyên_tắc cá_thể hóa người có Lý_lịch tư_pháp . 
+
+Điều 16 .  Cập_nhật thông_tin lý_lịch tư_pháp bổ_sung vào Lý_lịch tư_pháp điện_tử 
+
+1 . Người_làm công_tác lý_lịch tư_pháp thực_hiện cập_nhật thông_tin lý_lịch tư_pháp bổ_sung vào Lý_lịch tư_pháp điện_tử đã được tạo_lập trong cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+2 . Việc cập_nhật thông_tin lý_lịch tư_pháp bổ_sung vào Lý_lịch tư_pháp điện_tử được thực_hiện theo quy_định tại Điều 13 Thông_tư này . 
+
+3 . Thông_tin lý_lịch tư_pháp bổ_sung được cập_nhật vào Lý_lịch tư_pháp điện_tử phải bảo_đảm các tiêu_chuẩn của dữ_liệu lý_lịch tư_pháp điện_tử theo quy_định tại khoản 3 Điều 15 Thông_tư này . 
+
+4 . Việc chỉnh_sửa dữ_liệu đã được cập_nhật vào dữ_liệu lý_lịch tư_pháp điện_tử chỉ được thực_hiện khi có sự phê_duyệt của Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền . 
+
+Điều 17 .  Lập hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+1 . " Hồ_sơ lý_lịch tư_pháp bằng giấy " bao_gồm Lý_lịch tư_pháp của cá_nhân , các văn_bản có chứa thông_tin lý_lịch tư_pháp do các cơ_quan , tổ_chức cung_cấp và các văn_bản khác có liên_quan đến cá_nhân người có Lý_lịch tư_pháp như quyết_định thay_đổi , cải_chính hộ_tịch , giấy chứng_tử , kết_quả xác_minh điều_kiện đương_nhiên được xóa_án tích , được tập_hợp và đưa vào hồ_sơ theo nguyên_tắc phân_loại , sắp_xếp thành hồ_sơ của từng cá_nhân . 
+
+2 . Sau khi Lý_lịch tư_pháp đã được lập , người làm công_tác lý_lịch tư_pháp có nhiệm_vụ lập hồ_sơ lý_lịch tư_pháp bằng giấy để lưu_trữ vào cơ_sở dữ_liệu lý_lịch tư_pháp , Lý_lịch tư_pháp đã lập phải được đóng_dấu của cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp ở góc bên trái , phía trên , nơi ghi tên cơ_quan lập Lý_lịch tư_pháp .  Lý_lịch tư_pháp có nhiều tờ thì phải được đóng_dấu giáp_lai . 
+
+3 . Tài_liệu trong hồ_sơ lý_lịch tư_pháp bằng giấy được sắp_xếp theo thứ_tự như sau : 
+
+a ) Danh_mục tài_liệu ; 
+
+b ) Lý_lịch tư_pháp ; 
+
+c ) Các văn_bản có chứa thông_tin lý_lịch tư_pháp do các cơ_quan , tổ_chức cung_cấp cho Trung_tâm Lý_lịch tư_pháp quốc_gia và Sở Tư_pháp ; 
+
+d ) Các văn_bản khác có liên_quan . 
+
+4 . Các văn_bản quy_định tại điểm b , điểm c , điểm d khoản 3 Điều này được sắp_xếp theo thứ_tự thời_gian nhận được văn_bản , đánh_số tờ , bắt_đầu_từ tờ số 01 cho đến tờ cuối_cùng . 
+
+Trường_hợp bổ_sung thêm số tờ của Lý_lịch tư_pháp trong quá_trình cập_nhật thông_tin bổ_sung thì đánh_số trùng với số tờ trước đó của Lý_lịch tư_pháp và thêm chữ_cái a , b , c ... .  Việc đánh_số tờ phải rõ_ràng , chính_xác , đánh bằng bút_chì đen , mềm và cách mép bên phải , phía trên tờ giấy 1 cm . 
+
+5 . Hồ_sơ lý_lịch tư_pháp bằng giấy được lập phải được đánh_số lưu_trữ hồ_sơ .  Số lưu_trữ hồ_sơ được đánh từ 01 đến n theo thứ_tự thời_gian đưa hồ_sơ bằng giấy vào lưu_trữ , không quay_vòng theo năm . 
+
+6 . Danh_mục tài_liệu được lập theo mẫu ban_hành kèm theo Thông_tư này ( mẫu_số 01/TT-BTP ) , bao_gồm những thông_tin sau : số thứ_tự , tên văn_bản , số hiệu văn_bản , tờ số , ngày lưu_văn_bản , người lưu_văn_bản . 
+
+Ví_dụ : Hồ_sơ lý_lịch tư_pháp gồm Lý_lịch tư_pháp gồm 03 trang , tờ số 01 , 02 , 03 và Quyết_định thi_hành án hình_phạt tù gồm 01 trang , tờ số 04 , sau đó Lý_lịch tư_pháp được bổ_sung thêm 02 tờ thì Danh_mục tài_liệu được ghi như sau : 
+
+STT 
+
+Tên văn_bản 
+
+Số_hiệu văn_bản 
+
+Tờ số 
+
+Ngày_lưu 
+
+Người lưu 
+
+1 
+
+Lý_lịch tư_pháp 
+
+31HM2011/00001 
+
+01 , 02 , 03 
+
+2 
+
+Quyết_định thi_hành án hình_phạt tù 
+
+01/QĐ-THA 
+
+04 
+
+3 
+
+HM20/0000 
+
+03a , 03b 
+
+7 . Bìa hồ_sơ lý_lịch tư_pháp theo mẫu ban_hành kèm theo Thông_tư này ( mẫu_số 02/TT-BTP ) , bao_gồm những thông_tin sau : Tên cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp ;  mã_số Lý_lịch tư_pháp ;  số lưu_trữ hồ_sơ ;  họ và tên người có Lý_lịch tư_pháp ;  ngày , tháng , năm_sinh ;  số Chứng_minh nhân_dân hoặc hộ_chiếu ;  nơi thường_trú ;  nơi tạm_trú . 
+
+Thông_tin trên bìa hồ_sơ lý_lịch tư_pháp phải ghi rõ_ràng bằng bút_dạ mực đen , không viết tắt , họ và tên của người có Lý_lịch tư_pháp viết bằng chữ in hoa , các mục khác viết chữ thường , mục ngày , tháng , năm sinh dùng dấu gạch_ngang . 
+
+8 . Hồ_sơ lý_lịch tư_pháp bằng giấy phải được lập và đưa vào lưu_trữ trong thời_hạn 10 ngày làm_việc kể từ ngày hoàn_thành việc lập Lý_lịch tư_pháp ;  trường_hợp Trung_tâm Lý_lịch tư_pháp quốc_gia nhận được Lý_lịch tư_pháp do Sở Tư_pháp cung_cấp thì thời_hạn là 20 ngày , kể từ ngày nhận được Lý_lịch tư_pháp đó . 
+
+Điều 18 .  Bổ_sung tài_liệu vào hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Sau khi cập_nhật thông_tin lý_lịch tư_pháp bổ_sung vào Lý_lịch tư_pháp đã được lập trong dữ_liệu lý_lịch tư_pháp điện_tử , người làm công_tác lý_lịch tư_pháp có trách_nhiệm bổ_sung các văn_bản có chứa thông_tin lý_lịch tư_pháp bổ_sung vào hồ_sơ lý_lịch tư_pháp bằng giấy . 
+
+. Khi bổ_sung tài_liệu vào hồ_sơ lý_lịch tư_pháp bằng giấy , người làm công_tác lý_lịch tư_pháp thực_hiện đánh_số tờ của tài_liệu đối_với các văn_bản có chứa thông_tin lý_lịch tư_pháp bổ_sung theo quy_định tại khoản 4 Điều 17 và ghi vào Danh_mục tài_liệu theo quy_định tại khoản 6 Điều 17 của Thông_tư này .  Việc bổ_sung tài_liệu vào hồ_sơ lý_lịch tư_pháp bằng giấy phải được sự phê_duyệt của người có thẩm_quyền . 
+
+Trong quá_trình bổ_sung tài_liệu vào hồ_sơ lý_lịch tư_pháp bằng giấy , người làm công_tác lý_lịch tư_pháp có trách_nhiệm bảo_quản hồ_sơ , không được làm mất , hư_hỏng , thay_đổi tài_liệu có trong hồ_sơ . 
+
+. Khi người bị kết_án đã chấp_hành xong bản_án và thông_tin về việc chấp_hành xong bản_án được cập_nhật vào Lý_lịch tư_pháp điện_tử thì người làm công_tác lý_lịch tư_pháp có nhiệm_vụ in toàn_bộ phần thông_tin về tình_trạng thi_hành bản_án đã được cập_nhật , bổ_sung để đưa vào hồ_sơ lý_lịch tư_pháp bằng giấy của người đó . 
+
+4 . Trường_hợp bổ_sung , đính_chính thông_tin về cá_nhân hoặc thông_tin về bản_án trong Lý_lịch tư_pháp điện_tử thì người làm công_tác lý_lịch tư_pháp in phần thông_tin cá_nhân hoặc thông_tin về bản_án đã được chỉnh_sửa để bổ_sung vào hồ_sơ lý_lịch tư_pháp bằng giấy của người đó kèm theo các văn_bản chứa thông_tin bổ_sung , đính_chính .  Việc bổ_sung thông_tin phải có sự xác_nhận , phê_duyệt của người có thẩm_quyền . 
+
+Điều 19 .  Hiệu_chỉnh thông_tin lý_lịch tư_pháp trong dữ_liệu lý_lịch tư_pháp điện_tử và hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Khi có sự sai_lệch về nội_dung giữa dữ_liệu lý_lịch tư_pháp điện_tử và hồ_sơ lý_lịch tư_pháp bằng giấy thì Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp phải tiến_hành kiểm_tra , xác_minh để hiệu_chỉnh cho phù_hợp .  Văn_bản có chứa thông_tin lý_lịch tư_pháp do các cơ_quan , tổ_chức cung_cấp và các giấy_tờ khác có liên_quan như quyết_định thay_đổi , cải_chính hộ_tịch , giấy chứng_tử , kết_quả xác_minh điều_kiện đương_nhiên được xóa_án tích có giá_trị là văn_bản_gốc để đối_chiếu và hiệu_chỉnh thông_tin . 
+
+. Trong trường_hợp Sở Tư_pháp tiến_hành hiệu_chỉnh đối_với Lý_lịch tư_pháp đã cung_cấp cho Trung_tâm Lý_lịch tư_pháp quốc_gia thì sau khi hiệu_chỉnh phải có văn_bản thông_báo về việc hiệu_chỉnh đó gửi cho Trung_tâm Lý_lịch tư_pháp quốc_gia . 
+
+. Trong trường_hợp Trung_tâm Lý_lịch tư_pháp quốc_gia phát_hiện sự sai_lệch thông_tin lý_lịch tư_pháp do Sở Tư_pháp gửi thì phải thông_báo bằng văn_bản để Sở Tư_pháp hiệu_chỉnh cho phù_hợp . 
+
+Điều 20 .  Tiếp_nhận , xử_lý thông_tin thay_đổi , cải_chính hộ_tịch , chứng_tử 
+
+. Thông_tin thay_đổi , cải_chính hộ_tịch , giấy chứng_tử được ghi vào Sổ tiếp_nhận riêng và được xử_lý , phân_loại , sắp_xếp , lưu_trữ để phục_vụ công_tác kiểm_tra , đối_chiếu , xác_minh thông_tin về nhân_thân của người có Lý_lịch tư_pháp . 
+
+. Trường_hợp xác_định được thông_tin về nhân_thân trong Lý_lịch tư_pháp của cá_nhân có sự thay_đổi , cải_chính thì Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp tiến_hành cập_nhật thông_tin trong Lý_lịch tư_pháp của người đó đúng với thông_tin mới về thay_đổi , cải_chính hộ_tịch và ghi rõ trong mục ghi_chú thông_tin về thay_đổi , cải_chính hộ_tịch . 
+
+. Trường_hợp nhận được giấy chứng_tử của người đã có Lý_lịch tư_pháp , Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp thực_hiện ghi_chú vào Lý_lịch tư_pháp điện_tử của người đó và xem_xét , quyết_định loại_bỏ , tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy theo quy_định tại Điều 24 Thông_tư này . 
+
+Mục 2 
+
+LƯU_TRỮ VÀ BẢO_VỆ HỒ_SƠ LÝ_LỊCH TƯ_PHÁP BẰNG GIẤY 
+
+Điều 21 .  Giao_nhận hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Hồ_sơ lý_lịch tư_pháp bằng giấy chỉ được đưa vào lưu_trữ trong cơ_sở dữ_liệu lý_lịch tư_pháp khi được lập và ghi đúng theo quy_định tại Điều 7 Thông_tư này . 
+
+. Người_làm công_tác lý_lịch tư_pháp có trách_nhiệm bàn_giao hồ_sơ lý_lịch tư_pháp bằng giấy cho người được phân_công làm nhiệm_vụ lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy ( sau đây gọi là người làm công_tác lưu_trữ ) .  Trường_hợp giao nhiều hồ_sơ thì người làm công_tác lý_lịch tư_pháp phải lập danh_sách hồ_sơ lý_lịch tư_pháp để đối_chiếu khi giao_nhận .  Danh_sách hồ_sơ lý_lịch tư_pháp bao_gồm : số thứ_tự , họ và tên người có Lý_lịch tư_pháp , mã_số Lý_lịch tư_pháp . 
+
+Việc giao_nhận hồ_sơ phải được ký xác_nhận giữa bên giao và bên nhận . 
+
+. Người_làm công_tác lưu_trữ có trách_nhiệm sau đây : 
+
+a ) Tiếp_nhận hồ_sơ , kiểm_tra hồ_sơ , đối_chiếu giữa danh_mục tài_liệu với tài_liệu có trong hồ_sơ lý_lịch tư_pháp bằng giấy ; 
+
+b ) Vào_sổ lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy .  Sổ lưu_trữ bao_gồm những thông_tin sau : mã_số Lý_lịch tư_pháp , số thứ_tự lưu_trữ , họ và tên người có Lý_lịch tư_pháp , ngày đưa hồ_sơ vào lưu_trữ trong cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+4 . Trường_hợp người làm công_tác lý_lịch tư_pháp kiêm_nhiệm công_tác lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy thì có trách_nhiệm vào_sổ lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy theo quy_định tại điểm b khoản 3 Điều này và phải có ký xác_nhận của người phụ_trách trực_tiếp . 
+
+Điều 22 .  Sắp_xếp , rà_soát , thống_kê hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Hồ_sơ lý_lịch tư_pháp bằng giấy được sắp_xếp vào tủ hoặc giá chuyên_dụng theo thứ_tự số lưu_trữ hồ_sơ được quy_định tại khoản 5 Điều 7 Thông_tư này . 
+
+. Ngăn_tủ hoặc giá lưu_trữ hồ_sơ phải ghi các thông_tin sau : 
+
+a ) Tên cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp ; 
+
+b ) Từ Hồ_sơ số .  . . đến Hồ_sơ số .  . . 
+
+. Định_kỳ hằng tháng hoặc khi có yêu_cầu , người làm công_tác lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy có nhiệm_vụ tiến_hành rà_soát , thống_kê số_lượng hồ_sơ lý_lịch tư_pháp ;  trường_hợp phát_hiện có sự chênh_lệch giữa số_lượng hồ_sơ lý_lịch tư_pháp bằng giấy với sổ lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy hoặc phát_hiện hồ_sơ bị mất , hư_hỏng thì phải báo_cáo với lãnh_đạo cấp trên trực_tiếp để có biện_pháp xử_lý kịp_thời . 
+
+Điều 23 .  Giao_nhận hồ_sơ lý_lịch tư_pháp bằng giấy để bổ_sung tài_liệu 
+
+. Trường_hợp cần bổ_sung tài_liệu vào hồ_sơ lý_lịch tư_pháp bằng giấy theo quy_định tại Điều 8 Thông_tư này , người làm công_tác lý_lịch tư_pháp yêu_cầu người làm công_tác lưu_trữ bàn_giao hồ_sơ lý_lịch tư_pháp để bổ_sung tài_liệu . 
+
+Trường_hợp cần bổ_sung nhiều hồ_sơ thì người làm công_tác lý_lịch tư_pháp thực_hiện lập danh_sách hồ_sơ lý_lịch tư_pháp cần bổ_sung để đối_chiếu khi giao , nhận .  Danh_sách hồ_sơ lý_lịch tư_pháp bằng giấy cần bổ_sung bao_gồm : số lưu_trữ ;  mã_số Lý_lịch tư_pháp ;  họ và tên người có Lý_lịch tư_pháp . 
+
+. Người_làm công_tác lưu_trữ có trách_nhiệm tìm_kiếm hồ_sơ lý_lịch tư_pháp cần bổ_sung và bàn_giao cho người có yêu_cầu . 
+
+Việc giao , nhận hồ_sơ lý_lịch tư_pháp phải được ký xác_nhận giữa bên giao , bên nhận và ghi rõ ngày giao , nhận . 
+
+. Sau khi hoàn_thành việc bổ_sung hồ_sơ , người làm công_tác lý_lịch tư_pháp có nhiệm_vụ bàn_giao hồ_sơ đã bổ_sung cho người làm công_tác lưu_trữ .  Việc bàn_giao hồ_sơ đã bổ_sung phải được ký xác_nhận giữa bên giao , bên nhận . 
+
+4 . Khi nhận lại hồ_sơ lý_lịch tư_pháp bằng giấy đã được bổ_sung thông_tin , người làm công_tác lưu_trữ có nhiệm_vụ sắp_xếp hồ_sơ lý_lịch tư_pháp bằng giấy vào đúng vị_trí của hồ_sơ đó trong kho lưu_trữ . 
+
+Điều 24 .  Tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Hồ_sơ lý_lịch tư_pháp bằng giấy được tiêu_hủy nếu thuộc một trong những trường_hợp sau đây : 
+
+a ) Người có Lý_lịch tư_pháp chết thuộc trường_hợp quy_định tại điểm g khoản 1 Điều 13 và khoản 3 Điều 20 Thông_tư này ; 
+
+b ) Lý_lịch tư_pháp của người bị kết_án chỉ được lập trên cơ_sở bản_án tuyên duy_nhất về một tội mà tội_phạm đó được xóa_bỏ theo quy_định của pháp luật hình_sự ; 
+
+c ) Lý_lịch tư_pháp của người bị kết_án chỉ được lập trên cơ_sở bản_án , quyết_định bị hủy theo quyết_định giám_đốc_thẩm , tái_thẩm theo quy_định tại điểm d khoản 1 Điều 13 Thông_tư này ; 
+
+d ) Lý_lịch tư_pháp của người bị tuyên_án tử_hình và Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp nhận được quyết_định thi_hành án tử_hình do Tòa_án cung_cấp ; 
+
+đ ) Lý_lịch tư_pháp chỉ được lập trên cơ_sở quyết_định tuyên_bố phá_sản của Tòa_án , trong đó có nội_dung cấm cá_nhân thành_lập , quản_lý doanh_nghiệp , hợp_tác_xã và đã hết thời_hạn cấm_thành_lập , quản_lý doanh_nghiệp hợp_tác_xã theo quyết_định tuyên_bố phá_sản của Tòa_án . 
+
+. Việc tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy được tiến_hành như sau : 
+
+a ) Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp , nơi có hồ_sơ lý_lịch tư_pháp bằng giấy cần tiêu_hủy có trách_nhiệm lập danh_sách hồ_sơ lý_lịch tư_pháp bằng giấy cần tiêu_hủy ; 
+
+b ) Giám_đốc Trung_tâm Lý_lịch tư_pháp quốc_gia , Giám_đốc Sở Tư_pháp quyết_định việc thành_lập Hội_đồng xác_định giá_trị hồ_sơ lý_lịch tư_pháp bằng giấy cần tiêu_hủy ( sau đây gọi là Hội_đồng xác_định giá_trị hồ_sơ ) .  Thành_phần Hội_đồng gồm có Phó_Giám_đốc Trung_tâm Lý_lịch tư_pháp quốc_gia/Phó_Giám_đốc Sở Tư_pháp ;  lãnh_đạo phòng ;  người làm công_tác lý_lịch tư_pháp và người làm công_tác lưu_trữ hồ_sơ lý_lịch tư_pháp ; 
+
+c ) Giám_đốc Trung_tâm Lý_lịch tư_pháp quốc_gia , Giám_đốc Sở Tư_pháp quyết_định việc tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy trên cơ_sở văn_bản thẩm_định của Hội_đồng xác_định giá_trị hồ_sơ ; 
+
+d ) Việc tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy phải được lập thành biên_bản . 
+
+. Việc tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy phải được lập thành hồ_sơ và được lưu_trữ tại Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp nơi có hồ_sơ lý_lịch tư_pháp bằng giấy đã tiêu_hủy trong thời_hạn 20 năm kể từ ngày tiêu_hủy hồ_sơ đó .  Hồ_sơ tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy gồm có : 
+
+a ) Quyết_định thành_lập Hội_đồng xác_định giá_trị hồ_sơ ; 
+
+b ) Danh_sách hồ_sơ lý_lịch tư_pháp bằng giấy cần tiêu_hủy ; 
+
+c ) Văn_bản thẩm_định của Hội_đồng xác_định giá_trị hồ_sơ ; 
+
+d ) Quyết_định tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy ; 
+
+đ ) Biên_bản tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy . 
+
+4 . Mã_số Lý_lịch tư_pháp của hồ_sơ lý_lịch tư_pháp bằng giấy đã bị hủy không được dùng cho bản Lý_lịch tư_pháp được lập mới . 
+
+5 . Sau khi tiêu_hủy hồ_sơ lý_lịch tư_pháp bằng giấy , Sở Tư_pháp có nhiệm_vụ gửi văn_bản thông_báo về việc tiêu_hủy kèm theo danh_sách hồ_sơ lý_lịch tư_pháp đã tiêu_hủy cho Trung_tâm Lý_lịch tư_pháp quốc_gia . 
+
+Điều 25 .  Trách_nhiệm bảo_vệ hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Bố_trí kho lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy theo những yêu_cầu sau : 
+
+a ) Vị_trí phòng kho bảo_quản tránh nơi ẩm_thấp hoặc chịu tác_động trực_tiếp của ánh_sáng mặt_trời ; 
+
+b ) Phòng kho bảo_quản phải bảo_đảm chắc_chắn , phòng_chống xâm_nhập , hư_hại do con_người hoặc tự_nhiên gây ra ; 
+
+c ) Môi_trường trong phòng kho bảo_quản phải bảo_đảm sạch_sẽ , thoáng mát .  Môi_trường trong kho phải duy_trì ở nhiệt_độ 20 ° C ( ± 2 ° C ) và độ_ẩm 50 % ( ± 5 % ) ;  độ chiếu sáng trong kho bảo_quản hồ_sơ từ 50-80 lux ;  không_khí trong kho phải được lưu_thông với tốc_độ khoảng 5m/giây ; 
+
+d ) Diện_tích kho lưu_trữ phù_hợp với số_lượng hồ_sơ lý_lịch tư_pháp bằng giấy đưa vào lưu_trữ và điều_kiện thực_tế . 
+
+. Bố_trí trang_thiết_bị để phục_vụ_việc lưu_trữ hồ_sơ lý_lịch tư_pháp bằng giấy , cụ_thể như sau : 
+
+a ) Tủ hoặc giá lưu_trữ chuyên_dụng thiết_kế phù_hợp với điều_kiện của cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp và bảo_đảm thuận_tiện cho việc lưu_trữ , sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy ; 
+
+b ) Túi hồ_sơ có bìa theo mẫu bìa hồ_sơ ban_hành kèm theo Thông_tư này ; 
+
+c ) Các phương_tiện , thiết_bị phòng cháy , chữa_cháy được thực_hiện theo các tiêu_chuẩn hiện_hành do Nhà_nước quy_định . 
+
+. Tổ_chức thực_hiện các biện_pháp kỹ_thuật nhằm bảo_quản hồ_sơ lý_lịch tư_pháp bằng giấy trong kho lưu_trữ theo quy_định như sau : 
+
+a ) Dùng thông gió , dùng hóa_chất hút ẩm hoặc dùng máy hút ẩm để chống ẩm cho hồ_sơ lý_lịch tư_pháp bằng giấy ; 
+
+b ) Thường_xuyên vệ_sinh tài_liệu .  Khi phát_hiện thấy nấm_mốc , mối , mọt phải cách_ly tài_liệu đó và phun , quét , chải chất chống nấm_mốc vào bìa hồ_sơ .  Định_kỳ 2 năm khử_trùng trong kho một lần để ngăn_chặn mối , mọt , côn_trùng vào kho . 
+
+4 . Thực_hiện tu_bổ , phục_chế hồ_sơ lý_lịch tư_pháp theo quy_định của pháp_luật lưu_trữ khi hồ_sơ bị hư , hỏng do mối , mọt và các nguyên_nhân khác . 
+
+Mục 3 
+
+LƯU_TRỮ VÀ BẢO_VỆ DỮ_LIỆU LÝ_LỊCH TƯ PHÁP ĐIỆN_TỬ 
+
+Điều 26 .  Lưu_trữ và xóa_bỏ dữ_liệu lý_lịch tư_pháp điện_tử 
+
+. Dữ_liệu lý_lịch tư_pháp điện_tử chỉ được đưa vào lưu_trữ tại cơ_sở dữ_liệu lý_lịch tư_pháp khi được sự phê_duyệt của người có thẩm_quyền về tính chính_xác , đầy_đủ của thông_tin theo quy_định của <L rel="Reference"> Luật Lý_lịch tư_pháp </L> và các văn_bản quy_định chi_tiết , hướng_dẫn thi_hành .
+. Dữ_liệu lý_lịch tư_pháp điện_tử được xóa_bỏ trong cơ_sở dữ_liệu lý_lịch tư_pháp trong các trường_hợp quy_định tại điểm b , c , d , đ khoản 1 Điều 4 Thông_tư này .  Mã_số Lý_lịch tư_pháp của dữ_liệu lý_lịch tư_pháp điện_tử đã được xóa_bỏ không được dùng cho bản Lý_lịch tư_pháp được lập mới . 
+
+. Việc xóa_bỏ dữ_liệu lý_lịch tư_pháp điện_tử phải được sự phê_duyệt của Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền . 
+
+4 . Sau khi xóa_bỏ dữ_liệu lý_lịch tư_pháp điện_tử , Sở Tư_pháp có nhiệm_vụ gửi văn_bản thông_báo về việc xóa_bỏ dữ_liệu lý_lịch tư_pháp điện_tử cho Trung_tâm Lý_lịch tư_pháp quốc_gia . 
+
+Điều 27 .  Yêu_cầu về bảo_vệ dữ_liệu lý_lịch tư_pháp điện_tử 
+
+. Dữ_liệu lý_lịch tư_pháp điện_tử phải được bảo_vệ trước sự xâm_nhập trái_phép của các nhân_tố bên ngoài và sự xâm_nhập , tấn_công của vi rút , mã độc và phần_mềm độc_hại . 
+
+. Dữ_liệu lý_lịch tư_pháp điện_tử phải được bảo_vệ , bảo_đảm không bị thay_đổi , sao_chép , tiết_lộ hoặc có hành_vi khác đe_dọa đến an_toàn , an_ninh thông_tin . 
+
+. Trang_thiết_bị , hệ_thống mạng phục_vụ hoạt_động quản_lý , sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp phải được đảm_bảo an_toàn , vận_hành thông_suốt . 
+
+4 . Mọi tác_nghiệp đối_với cơ_sở dữ_liệu lý_lịch tư_pháp phải được lưu vết và sẵn_sàng cho việc kiểm_tra , giám_sát khi cần_thiết . 
+
+Điều 28 .  Kiểm_soát truy_cập , sao lưu dự_phòng dữ_liệu lý_lịch tư_pháp điện_tử 
+
+. Cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp phải được thiết_lập chức_năng kiểm_soát truy_cập , cảnh_báo , ngăn_chặn người truy_cập trái_phép vào dữ_liệu lý_lịch tư_pháp điện_tử . 
+
+. Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp có trách_nhiệm thực_hiện quản_trị cơ_sở dữ_liệu lý_lịch tư_pháp trong phạm_vi quyền_hạn theo quy_định , tạo tài_khoản và phân_quyền truy_cập phù_hợp tới từng chức_năng trong phần_mềm và phù_hợp với nhiệm_vụ , quyền_hạn của người làm công_tác lý_lịch tư_pháp ;  thực_hiện các biện_pháp xác_thực , lưu vết khi có truy_cập cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+. Dữ_liệu lý_lịch tư_pháp điện_tử phải được sao lưu dự_phòng nhằm mục_đích bảo_vệ , khôi_phục dữ_liệu lý_lịch tư_pháp điện_tử theo những nguyên_tắc sau đây : 
+
+a ) Bảo_đảm tính toàn_vẹn và đầy_đủ của dữ_liệu lý_lịch tư_pháp điện_tử được sao lưu ; 
+
+b ) Phân_loại theo thời_gian sao lưu , phương_pháp sao lưu và thời_gian kiểm_tra phục_hồi hệ_thống ; 
+
+c ) Dữ_liệu lý_lịch tư_pháp điện_tử sao lưu phải được lưu_trữ riêng_biệt và được thường_xuyên kiểm_tra để bảo_đảm sẵn_sàng cho việc sử_dụng ; 
+
+d ) Tổ_chức , cá_nhân không được phép khai_thác , sử_dụng dữ_liệu lý_lịch tư_pháp điện_tử sao lưu nếu không có sự đồng_ý bằng văn_bản của Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền ;  trường_hợp phát_hiện có rủi_ro hoặc nguy_cơ xảy ra rủi_ro với dữ_liệu lý_lịch tư_pháp điện_tử phải báo_cáo ngay cho Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền để có biện_pháp xử_lý , khắc_phục ; 
+
+đ ) Việc sao lưu dữ_liệu lý_lịch tư_pháp điện_tử được thực_hiện thường_xuyên , ít_nhất vào cuối ngày làm_việc . 
+
+Điều 29 .  Mục_đích sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp 
+
+. Phục_vụ công_tác cấp Phiếu lý_lịch tư_pháp theo yêu_cầu của cá_nhân , cơ_quan , tổ_chức . 
+
+. Cung_cấp thông_tin lý_lịch tư_pháp cho các cơ_quan , tổ_chức có liên_quan theo quy_định của <L rel="Reference"> Luật Lý_lịch tư_pháp </L> .
+. Phục_vụ công_tác thống_kê , báo_cáo về lý_lịch tư_pháp . 
+
+Điều 30 .  Đối_tượng sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp 
+
+Cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp , người làm công_tác lý_lịch tư_pháp có quyền sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp theo thẩm_quyền , phạm_vi chức_trách , nhiệm_vụ được giao . 
+
+Điều 31 .  Phương_thức sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp 
+
+. Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử thông_qua phần_mềm chuyên_dụng . 
+
+. Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy thông_qua nghiệp_vụ tra_cứu , tìm_kiếm hồ_sơ được lưu_trữ . 
+
+Điều 32 .  Thẩm_quyền của Trung_tâm Lý_lịch tư_pháp quốc_gia và Sở Tư_pháp trong sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp 
+
+. Trung_tâm Lý_lịch tư_pháp quốc_gia có thẩm_quyền sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Trung_tâm Lý_lịch tư_pháp quốc_gia và tại các Sở Tư_pháp . 
+
+Trường_hợp thực_hiện việc sao_chép dữ_liệu lý_lịch tư_pháp điện_tử trong cơ_sở dữ_liệu lý_lịch tư_pháp tại Sở Tư_pháp , Trung_tâm Lý_lịch tư_pháp quốc_gia phải thông_báo cho Sở Tư_pháp . 
+
+Trung_tâm Lý_lịch tư_pháp quốc_gia có quyền yêu_cầu Sở Tư_pháp tra_cứu , cung_cấp thông_tin hồ_sơ lý_lịch tư_pháp bằng giấy trong cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+. Sở Tư_pháp có thẩm_quyền sử_dụng và khai_thác cơ_sở dữ_liệu lý_lịch tư_pháp tại Sở Tư_pháp và có quyền yêu_cầu Trung_tâm Lý_lịch tư_pháp quốc_gia , Sở Tư_pháp khác cung_cấp thông_tin trong cơ_sở dữ_liệu lý_lịch tư_pháp để phục_vụ hoạt_động quản_lý lý_lịch tư_pháp . 
+
+. Yêu_cầu cung_cấp thông_tin có_thể gửi qua mạng máy_tính hoặc qua bưu_điện . 
+
+SỬ_DỤNG VÀ KHAI_THÁC HỒ_SƠ LÝ_LỊCH TƯ_PHÁP BẰNG GIẤY 
+
+Điều 33 .  Yêu_cầu sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Việc sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy phải bảo_đảm đúng mục_đích , phạm_vi , quyền_hạn được giao . 
+
+. Khi sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy , người làm công_tác lý_lịch tư_pháp phải có văn_bản yêu_cầu . 
+
+. Việc sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy chỉ được thực_hiện khi có sự phê_duyệt của Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền . 
+
+4 . Việc sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy phải được ghi vào_sổ giao , nhận hồ_sơ lý_lịch tư_pháp bằng giấy . 
+
+Điều 34 .  Trách_nhiệm của người làm công_tác lý_lịch tư_pháp trong sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Bảo_vệ , bảo_quản hồ_sơ , không để rách_nát , hư_hỏng , thất_lạc hoặc làm lộ bí_mật nội_dung hồ_sơ , tài_liệu trong quá_trình sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy . 
+
+. Không được tự_ý sao_chụp , thay_đổi , rút tài_liệu lưu_trữ khi chưa được Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền phê_duyệt . 
+
+Điều 35 .  Trình_tự , thủ_tục sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy 
+
+. Trường_hợp cần sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy , người làm công_tác lý_lịch tư_pháp có văn_bản yêu_cầu .  Văn_bản yêu_cầu sử_dụng và khai_thác hồ_sơ lý_lịch tư_pháp bằng giấy phải được Thủ_trưởng đơn_vị hoặc người được ủy_quyền phê_duyệt . 
+
+. Người_làm công_tác lưu_trữ thực_hiện tìm_kiếm hồ_sơ lý_lịch tư_pháp bằng giấy sau khi có văn_bản yêu_cầu đã được phê_duyệt và bàn_giao hồ_sơ cho người có yêu_cầu . 
+
+. Việc giao_nhận hồ_sơ lý_lịch tư_pháp để sử_dụng và khai_thác phải được ký xác_nhận giữa bên giao , bên nhận trong số giao_nhận hồ_sơ lý_lịch tư_pháp bằng giấy và ghi rõ ngày giao_nhận . 
+
+4 . Người_làm công_tác lý_lịch tư_pháp có trách_nhiệm hoàn_trả hồ_sơ lý_lịch tư_pháp sau khi thực_hiện xong nhiệm_vụ , Thời_hạn hoàn_trả hồ_sơ không quá 05 ngày làm_việc , kể từ ngày nhận hồ_sơ , trừ trường_hợp đặc_biệt có sự cho phép của Thủ_trưởng đơn_vị hoặc người được ủy_quyền . 
+
+5 . Người_làm công_tác lưu_trữ có nhiệm_vụ kiểm_tra hồ_sơ lý_lịch tư_pháp được hoàn_trả .  Trường_hợp phát_hiện có sự sửa_chữa , tẩy xóa , làm thay_đổi , mất tài_liệu trong hồ_sơ , người làm công_tác lưu_trữ phải lập biên_bản và báo_cáo lãnh_đạo đơn_vị xử_lý . 
+
+Việc hoàn_trả hồ_sơ sau khi sử_dụng và khai_thác phải được ký xác_nhận theo quy_định tại khoản 3 Điều này . 
+
+SỬ_DỤNG VÀ KHAI_THÁC DỮ_LIỆU LÝ_LỊCH TƯ PHÁP ĐIỆN_TỬ 
+
+Điều 36 .  Yêu_cầu sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử 
+
+1 . Việc sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử phải bảo_đảm đúng mục_đích , phạm_vi , quyền_hạn được giao . 
+
+2 . Việc sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử để cung_cấp thông_tin theo yêu_cầu của cá_nhân , cơ_quan , tổ_chức chỉ được thực_hiện khi có sự phê_duyệt của Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền . 
+
+3 . Việc sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử phải được lưu vết trên phần_mềm chuyên_dụng nhằm phục_vụ hoạt_động rà_soát , đối_chiếu , thống_kê , báo_cáo . 
+
+Điều 37 .  Trách_nhiệm của người làm công_tác lý Iịch tư_pháp trong sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử 
+
+1 . Người_làm công_tác lý_lịch tư_pháp chỉ được sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử trong phạm_vi nhiệm_vụ , quyền_hạn được giao theo phân_quyền truy_cập vào cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+2 . Người_làm công_tác lý_lịch tư_pháp chịu trách_nhiệm bảo_đảm bí_mật tài_khoản được cấp ;  sử_dụng tài_khoản đúng mục_đích ;  khi phát_hiện có lỗi hoặc sự_cố phải báo_cáo ngay với Bộ_phận quản_trị hệ_thống để kịp_thời ngăn_chặn , xử_lý . 
+
+3 . Trường_hợp phát_hiện dữ_liệu có sai_lệch , mất hoặc thiếu thông_tin , người làm công_tác lý_lịch tư_pháp có trách_nhiệm thông_báo cho Lãnh_đạo cơ_quan , đơn_vị hoặc người được ủy_quyền để có biện_pháp kịp_thời khắc_phục chỉnh_sửa , bổ_sung thông_tin trong cơ_sở dữ_liệu lý_lịch tư_pháp . 
+
+4 . Trường_hợp người làm công_tác lý_lịch tư_pháp liên_quan đến quản_lý , sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử chấm_dứt hoặc thay_đổi công_việc thì phải cam_kết bảo_mật thông_tin , bàn_giao tài_khoản truy_cập cơ_sở dữ_liệu lý_lịch tư_pháp .  Việc cam_kết và bàn_giao tài_khoản phải được lập thành_văn_bản .  Bộ_phận quản_trị hệ_thống có trách_nhiệm thực_hiện biện_pháp xử_lý đối_với tài_khoản đã được bàn_giao sau khi có sự cho phép của Thủ_trưởng cơ_quan quản_lý cơ_sở dữ_liệu lý_lịch tư_pháp hoặc người được ủy_quyền . 
+
+Điều 38 .  Trình_tự , thủ_tục sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử 
+
+1 . Sau khi nhận được đề_nghị tra_cứu thông_tin đã được phê_duyệt của người có thẩm_quyền , người làm công_tác lý_lịch tư_pháp sử_dụng tài_khoản để truy_cập , tra_cứu , tìm_kiếm dữ_liệu lý_lịch tư_pháp điện_tử . 
+
+2 . Kết_quả tra_cứu dữ_liệu lý_lịch tư_pháp điện_tử được thể_hiện bằng văn_bản và có xác_nhận của người đã thực_hiện tra_cứu , tìm_kiếm . 
+
+Trường_hợp cung_cấp thông_tin , kết_quả tra_cứu qua mạng máy_tính thì kết_quả tra_cứu phải có xác_thực bằng chữ_ký số . 
+
+3 . Việc sử_dụng và khai_thác dữ_liệu lý_lịch tư_pháp điện_tử được lưu vết thông_qua phần_mềm chuyên_dụng để phục hoạt_động kiểm_tra , giám_sát khi cần_thiết . 
+
+Điều 39 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 01 tháng 4 năm 2013 . 
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , các cơ_quan , đơn_vị , cá_nhân có liên_quan phản_ánh kịp_thời về Bộ Tư_pháp để nghiên_cứu sửa_đổi , bổ_sung cho phù_hợp ./. 

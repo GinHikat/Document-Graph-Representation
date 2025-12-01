@@ -1,0 +1,264 @@
+Thông tư Quy định về kết nối viễn thông
+
+Căn_cứ <L rel="Pursuant"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Viễn_thông </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định việc kết_nối viễn_thông ( sau đây gọi là kết_nối ) giữa các mạng viễn_thông công_cộng , dịch_vụ viễn_thông của các doanh_nghiệp viễn_thông tại Việt_Nam , bao_gồm : tiêu_chuẩn , chất_lượng , giá cước kết_nối ;  đàm_phán , ký_kết , thực_hiện , giải_quyết tranh_chấp về kết_nối ;  chia_sẻ cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với các cơ_quan quản_lý nhà_nước , tổ_chức và cá_nhân có liên_quan tới hoạt_động kết_nối giữa các mạng viễn_thông công_cộng , dịch_vụ viễn_thông của các doanh_nghiệp viễn_thông tại Việt_Nam . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Địa_điểm kết_nối là địa_điểm lắp_đặt hệ_thống_thiết_bị viễn_thông có chức_năng chuyển mạch , định_tuyến , điều_khiển , giám_sát lưu_lượng được truyền_tải giữa hai mạng viễn_thông kết_nối với nhau . 
+
+2 . Đường kết_nối là đường truyền_dẫn nối hai địa_điểm kết_nối có chức_năng truyền_tải lưu_lượng giữa hai mạng viễn_thông kết_nối với nhau .  Dung_lượng kết_nối là dung_lượng của đường kết_nối . 
+
+3 . Thiết_bị kết_nối là thiết_bị truyền_dẫn đặt tại địa_điểm kết_nối có chức_năng truyền_tải lưu_lượng giữa hai mạng viễn_thông kết_nối với nhau . 
+
+4 . Điểm kết_nối là điểm nằm trên đường kết_nối , phân_định ranh_giới trách_nhiệm về kinh_tế và kỹ_thuật giữa hai doanh_nghiệp viễn_thông tham_gia kết_nối . 
+
+5 . Doanh_nghiệp cung_cấp kết_nối là doanh_nghiệp viễn_thông được doanh_nghiệp viễn_thông khác yêu_cầu cung_cấp kết_nối . 
+
+6 . Doanh_nghiệp yêu_cầu kết_nối là doanh_nghiệp viễn_thông yêu_cầu doanh_nghiệp viễn_thông khác cung_cấp kết_nối . 
+
+7 . Thỏa_thuận kết_nối là thỏa_thuận về kinh_tế và kỹ_thuật được ký_kết giữa các doanh_nghiệp viễn_thông phục_vụ cho mục_đích kết_nối giữa các mạng viễn_thông công_cộng , dịch_vụ viễn_thông . 
+
+Điều 4 .  Địa_điểm kết_nối 
+
+1 . Địa_điểm kết_nối sẽ do các doanh_nghiệp tham_gia kết_nối thỏa_thuận thông_qua thương_lượng trên cơ_sở lựa_chọn bất_kỳ địa_điểm kết_nối nào trên mạng viễn_thông khả_thi về mặt kỹ_thuật sau đây : 
+
+a ) Tổng_đài mạng điện_thoại chuyển mạch công_cộng ( PSTN ) : tổng_đài nội_hạt ( host/tandem ) , tổng_đài đường dài ( Toll ) ;  tổng_đài quốc_tế ( international gateway ) ; 
+
+b ) Tổng_đài mạng_di_động mặt_đất công_cộng ( PLMN ) : tổng_đài chuyển mạch di_động ( MSC/SGSN ) ;  tổng_đài cổng chuyển mạch di_động ( GMSC/GGSN ) ; 
+
+c ) Hệ_thống chuyển mạch , định_tuyến mạng thế_hệ sau ( NGN ) ; 
+
+d ) Trung_tâm truyền_dẫn nội_hạt , đường dài , quốc_tế ; 
+
+đ ) Các địa_điểm kết_nối khác do các doanh_nghiệp tham_gia kết_nối thỏa_thuận , nhưng không được vi_phạm các quy_định về kết_nối tại Điều 42 , Điều 43 <L rel="Reference"> Luật Viễn_thông </L> và Thông_tư này .
+2 . Số_lượng , chi_phí và phương_thức thiết_lập địa_điểm kết_nối do các doanh_nghiệp tham_gia kết_nối thỏa_thuận nhưng không được vi_phạm các quy_định về kết_nối tại Điều 42 , Điều 43 <L rel="Reference"> Luật Viễn_thông </L> và Thông_tư này .
+3 . Trong các trường_hợp thỏa_thuận về địa_điểm kết_nối của các doanh_nghiệp viễn_thông vi_phạm nguyên_tắc bảo_đảm sự phát_triển bền_vững của thị_trường viễn_thông ;  an_toàn cơ_sở hạ_tầng viễn_thông , an_ninh thông_tin ;  quyền , lợi_ích hợp_pháp của người sử_dụng dịch_vụ viễn_thông , Cục Viễn_thông sẽ yêu_cầu các doanh_nghiệp thỏa_thuận lại . 
+
+4 . Trong trường_hợp các doanh_nghiệp viễn_thông không thỏa_thuận được với nhau , Cục Viễn_thông sẽ quyết_định địa_điểm kết_nối giữa các doanh_nghiệp . 
+
+Điều 5 .  Sử_dụng chung vị_trí kết_nối 
+
+1 . Sử_dụng chung vị_trí kết_nối là việc các doanh_nghiệp viễn_thông thỏa_thuận thống_nhất về vị_trí , điều_kiện lắp_đặt thiết_bị kết_nối , thiết_bị phụ_trợ phục_vụ kết_nối ( nguồn điện , điều hòa , v .  v ) tại địa_điểm kết_nối và vị_trí cụ_thể của điểm kết_nối . 
+
+2 . Hình_thức sử_dụng chung điểm kết_nối : 
+
+a ) Sử_dụng chung điểm kết_nối thực : doanh_nghiệp yêu_cầu kết_nối chịu trách_nhiệm cho chi_phí thiết_lập ban_đầu đường truyền_dẫn dùng cho kết_nối ;  doanh_nghiệp cung_cấp kết_nối bố_trí mặt_bằng lắp_đặt thiết_bị kết_nối , thiết_bị phụ_trợ phục_vụ kết_nối ( nguồn điện , điều hòa , v .  v ) và điều_kiện cần_thiết khác ( vận_hành , bảo_dưỡng thiết_bị , v .  v ) tại địa_điểm kết_nối của mình . 
+
+Trong trường_hợp này điểm kết_nối sẽ là một điểm nằm trên giá phối dây trung kế ( DDF , ODF hoặc MDF ) tại địa_điểm kết_nối của doanh_nghiệp cung_cấp kết_nối do các doanh_nghiệp tham_gia kết_nối thỏa_thuận xác_định ; 
+
+b ) Sử_dụng chung điểm kết_nối ảo : các doanh_nghiệp tham_gia kết_nối tự bảo_đảm vị_trí lắp_đặt thiết_bị kết_nối của mình ;  thỏa_thuận thiết_lập đường kết_nối và mỗi bên tự chịu chi_phí đầu_tư , lắp_đặt , vận_hành , bảo_dưỡng thiết_bị kết_nối ở phía địa_điểm kết_nối của mình . 
+
+Trong trường_hợp này , điểm kết_nối sẽ là một điểm nằm trên đường kết_nối do các doanh_nghiệp tham_gia kết_nối thỏa_thuận xác_định . 
+
+3 . Trừ trường_hợp có quy_định khác của pháp_luật hoặc thỏa_thuận khác của các doanh_nghiệp tham_gia kết_nối , thống_nhất áp_dụng nguyên_tắc sử_dụng chung điểm kết_nối thực ở tất_cả những nơi điều_kiện cho phép , nhằm nâng cao chất_lượng , giảm chi_phí kết_nối và tạo thuận_lợi cho các doanh_nghiệp tham_gia kết_nối . 
+
+Điều 6 .  Tiêu_chuẩn , chất_lượng kết_nối 
+
+1 . Tiêu_chuẩn giao_diện , báo_hiệu , đồng_hồ của thiết_bị kết_nối : 
+
+a ) Giao_diện kết_nối do các doanh_nghiệp tham_gia kết_nối thỏa_thuận trên cơ_sở tuân_thủ các quy_chuẩn kỹ_thuật có liên_quan và các tiêu_chuẩn do Bộ Thông_tin và Truyền_thông quy_định bắt_buộc áp_dụng ; 
+
+b ) Trừ trường_hợp có thỏa_thuận khác giữa các doanh_nghiệp viễn_thông , báo_hiệu giữa các mạng viễn_thông tham_gia kết_nối thống_nhất sử_dụng hệ_thống báo_hiệu_số 7 trên cơ_sở tuân_thủ các quy_chuẩn kỹ_thuật có liên_quan và các tiêu_chuẩn do Bộ Thông_tin và Truyền_thông quy_định bắt_buộc áp_dụng ; 
+
+c ) Mạng của doanh_nghiệp yêu_cầu kết_nối có_thể lấy tín_hiệu đồng_bộ trực_tiếp từ đồng_hồ chuẩn của doanh_nghiệp cung_cấp kết_nối để đồng_bộ cho mạng của mình hoặc theo đồng_hồ được cung_cấp qua các thiết_bị viễn_thông của doanh_nghiệp cung_cấp kết_nối tại điểm kết_nối theo nguyên_tắc phân_cấp chủ-tớ .  Đồng_hồ đồng_bộ phải tuân_thủ các quy_chuẩn kỹ_thuật có liên_quan và các tiêu_chuẩn do Bộ Thông_tin và Truyền_thông quy_định bắt_buộc áp_dụng . 
+
+2 . Chất_lượng kết_nối : 
+
+a ) Nghẽn kết_nối áp_dụng theo chỉ_tiêu quy_định tại phụ_lục 01 ban_hành kèm theo Thông_tư này ; 
+
+b ) Mức_độ sử_dụng hiệu_quả kết_nối áp_dụng theo chỉ_tiêu quy_định tại phụ_lục 02 ban_hành kèm theo Thông_tư này ; 
+
+c ) Tổng dung_lượng kết_nối được xác_định theo phương_pháp quy_định tại phụ_lục 03 ban_hành kèm theo Thông_tư này . 
+
+Điều 7 .  Giá cước kết_nối 
+
+1 . Giá cước kết_nối được xây_dựng trên cơ_sở giá_thành , phân_tách hợp_lý theo các bộ_phận cấu_thành mạng hoặc theo công_đoạn dịch_vụ liên_quan trực_tiếp đến việc thực_hiện kết_nối các mạng viễn_thông và chính_sách của nhà_nước đối_với thị_trường viễn_thông , dịch_vụ viễn_thông theo từng thời_kỳ . 
+
+2 . Căn_cứ vào tình_hình thực_tế trong từng thời_kỳ , Bộ Thông_tin và Truyền_thông ban_hành giá cước kết_nối cho mạng viễn_thông của từng doanh_nghiệp viễn_thông hoặc nhóm doanh_nghiệp viễn_thông ( nhóm doanh_nghiệp thống_lĩnh thị_trường , nhóm doanh_nghiệp khác , v .  v ) trên cơ_sở giá_thành kết_nối của từng doanh_nghiệp hoặc giá_thành kết_nối trung_bình của nhóm doanh_nghiệp . 
+
+3 . Theo yêu_cầu và quy_định của Bộ Thông_tin và Truyền_thông , các doanh_nghiệp viễn_thông có trách_nhiệm xây_dựng giá_thành kết_nối và đề_xuất giá cước kết_nối báo_cáo Bộ Thông_tin và Truyền_thông xem_xét , quyết_định . 
+
+4 . Các doanh_nghiệp tham_gia kết_nối có trách_nhiệm thiết_lập hệ_thống kỹ_thuật , nghiệp_vụ dùng để ghi , đối_soát số_liệu phục_vụ cho việc thanh_toán giá cước kết_nối . 
+
+5 . Căn_cứ vào tình_hình kinh_doanh thực_tế của từng dịch_vụ , của từng doanh_nghiệp , các doanh_nghiệp tham_gia kết_nối thỏa_thuận về thời_gian thực_hiện đối_soát số_liệu và thanh_toán giá cước kết_nối .  Trừ trường_hợp có thỏa_thuận khác , các doanh_nghiệp thực_hiện đối_soát số_liệu và thanh_toán giá cước kết_nối theo từng tháng . 
+
+Điều 8 .  Đăng_ký Thỏa_thuận kết_nối mẫu 
+
+1 . Trong thời_hạn 30 ngày làm_việc , kể từ ngày doanh_nghiệp viễn_thông được xác_định là doanh_nghiệp viễn_thông nắm giữ phương_tiện thiết_yếu , doanh_nghiệp phải xây_dựng , gửi trực_tiếp hoặc qua đường bưu_chính về Cục Viễn_thông 01 bộ hồ_sơ đăng_ký Thỏa_thuận kết_nối mẫu .  Các doanh_nghiệp viễn_thông không phải là doanh_nghiệp viễn_thông nắm giữ phương_tiện thiết_yếu có_thể tự xây_dựng , ban_hành Thỏa_thuận kết_nối mẫu , không cần đăng_ký với Cục Viễn_thông , trên cơ_sở tuân_thủ theo các quy_định tại Thông_tư này để áp_dụng chung với các doanh_nghiệp viễn_thông . 
+
+2 . Hồ_sơ đăng_ký Thỏa_thuận kết_nối mẫu bao_gồm : 
+
+a ) Đơn đề_nghị đăng_ký Thỏa_thuận kết_nối mẫu có dấu và chữ_ký của người đại_diện theo quy_định pháp_luật của doanh_nghiệp theo mẫu tại phụ_lục 04 ban_hành kèm theo Thông_tư này ; 
+
+b ) Thỏa_thuận kết_nối mẫu ; 
+
+c ) Tài_liệu kinh_tế , kỹ_thuật có liên_quan đến các nội_dung trong Thỏa_thuận kết_nối mẫu ( nếu có ) . 
+
+3 . Thỏa_thuận kết_nối mẫu phải bao_gồm tối_thiểu các nội_dung theo quy_định tại khoản 2 Điều 13 Thông_tư này . 
+
+Điều 9 .  Chấp_thuận Thỏa_thuận kết_nối mẫu 
+
+1 . Cục Viễn_thông có trách_nhiệm xem_xét , thông_báo bằng văn_bản việc chấp_thuận hay không chấp_thuận ( nêu rõ các lý_do không chấp_thuận ) Thỏa_thuận kết_nối mẫu của doanh_nghiệp trong thời_hạn 20 ngày làm_việc kể từ ngày nhận được hồ_sơ đăng_ký đầy_đủ và hợp_lệ . 
+
+2 . Cục Viễn_thông sẽ không chấp_thuận Thỏa_thuận kết_nối mẫu trong trường_hợp sau đây : 
+
+a ) Thỏa_thuận kết_nối mẫu vi_phạm các quy_định về kinh_tế , kỹ_thuật tại Điều 4 , Điều 5 , Điều 6 , Điều 7 Thông_tư này , các quy_định của pháp_luật về viễn_thông và các quy_định pháp_luật có liên_quan khác ; 
+
+b ) Thỏa_thuận kết_nối mẫu có nội_dung gây tổn_hại đến quyền và lợi_ích hợp_pháp của doanh_nghiệp viễn_thông khác hoặc người sử_dụng dịch_vụ viễn_thông . 
+
+3 . Sau khi được Cục Viễn_thông chấp_thuận Thỏa_thuận kết_nối mẫu bằng văn_bản , doanh_nghiệp viễn_thông nắm giữ phương_tiện thiết_yếu có trách_nhiệm ban_hành và công_bố công_khai Thỏa_thuận kết_nối mẫu để áp_dụng thống_nhất , không phân_biệt đối_với tất_cả các doanh_nghiệp yêu_cầu kết_nối . 
+
+Điều 10 .  Bổ_sung , sửa_đổi Thỏa_thuận kết_nối mẫu 
+
+Khi cần bổ_sung , sửa_đổi Thỏa_thuận kết_nối mẫu doanh_nghiệp viễn_thông nắm giữ phương_tiện thiết_yếu thực_hiện việc đăng_ký lại Thỏa_thuận kết_nối mẫu như đăng_ký lần đầu theo quy_định tại Điều 8 , Điều 9 Thông_tư này . 
+
+Điều 11 .  Yêu_cầu kết_nối 
+
+1 . Thời_gian , địa_điểm thực_hiện đàm_phán thỏa_thuận kết_nối . 
+
+2 . Loại_hình mạng , dịch_vụ kết_nối . 
+
+3 . Địa_điểm kết_nối khả_thi trên mạng . 
+
+4 . Hình_thức sử_dụng chung vị_trí kết_nối . 
+
+5 . Tiêu_chuẩn , quy_chuẩn kỹ_thuật của thiết_bị kết_nối ;  giao_diện kết_nối ;  báo_hiệu , đồng_hồ trong kết_nối , v .  v . 
+
+6 . Dung_lượng kết_nối tối_thiểu cho 12 tháng tiếp_theo . 
+
+7 . Chỉ_tiêu chất_lượng kết_nối ( nghẽn kết_nối , hiệu_quả kết_nối , v .  v ) . 
+
+8 . Phương_thức , thời_hạn đối_soát số_liệu và thanh_toán giá cước kết_nối . 
+
+9 . Chia_sẻ cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối . 
+
+10 .  Thông_tin liên_hệ . 
+
+11 .  Các thông_tin khác ( nếu có ) . 
+
+Điều 12 .  Trả_lời yêu_cầu kết_nối 
+
+Trong thời_hạn 07 ngày làm_việc , kể từ ngày nhận được văn_bản yêu_cầu kết_nối , doanh_nghiệp cung_cấp kết_nối có trách_nhiệm trả_lời doanh_nghiệp yêu_cầu kết_nối bằng văn_bản về việc chấp_thuận đàm_phán Thỏa_thuận kết_nối ( nêu rõ thời_gian , địa_điểm đàm_phán Thỏa_thuận kết_nối ) hoặc không chấp_thuận đàm_phán Thỏa_thuận kết_nối ( nêu rõ các lý_do không chấp_thuận ) . 
+
+Điều 13 .  Đàm_phán và ký_kết Thỏa_thuận kết_nối 
+
+1 . Trong thời_hạn 07 ngày làm_việc , kể từ ngày doanh_nghiệp yêu_cầu kết_nối nhận được văn_bản chấp_thuận đàm_phán Thỏa_thuận kết_nối , các bên tham_gia kết_nối phải bắt_đầu tiến_hành đàm_phán Thỏa_thuận kết_nối . 
+
+2 . Nội_dung đàm_phán Thỏa_thuận kết_nối bao_gồm tối_thiểu các nội_dung sau đây : 
+
+a ) Yêu_cầu , nguyên_tắc kết_nối ; 
+
+b ) Quy_trình , thủ_tục kết_nối ; 
+
+c ) Loại_hình mạng , dịch_vụ kết_nối ; 
+
+d ) Địa_điểm kết_nối khả_thi trên mạng ; 
+
+đ ) Hình_thức sử_dụng chung vị_trí kết_nối ; 
+
+e ) Dung_lượng kết_nối ; 
+
+g ) Tiêu_chuẩn , quy_chuẩn kỹ_thuật thiết_bị kết_nối , giao_diện kết_nối , báo_hiệu , đồng_hồ trong kết_nối , v .  v ; 
+
+h ) Chỉ_tiêu chất_lượng kết_nối ( nghẽn kết_nối , hiệu_quả kết_nối , v .  v ) ; 
+
+i ) Phương_thức , thời_hạn đối_soát số_liệu và thanh_toán giá cước kết_nối ; 
+
+k ) Quy_trình thực_hiện khi có thay_đổi ( bổ_sung , cắt_giảm ) dịch_vụ , dung_lượng kết_nối ; 
+
+l ) Giải_pháp bảo_đảm an_toàn cơ_sở hạ_tầng , an_ninh thông_tin trong kết_nối ; 
+
+m ) Quy_trình phối_hợp khắc_phục sự_cố , khôi_phục thông_tin ; 
+
+n ) Chia_sẻ cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối ; 
+
+o ) Giải_quyết tranh_chấp , bồi_thường , khiếu_nại trong thực_hiện kết_nối ; 
+
+p ) Quyền và nghĩa_vụ của các bên trong việc thực_hiện kết_nối ; 
+
+q ) Thông_tin liên_hệ . 
+
+3 . Đối_với các doanh_nghiệp viễn_thông nắm giữ phương_tiện thiết_yếu , Thỏa_thuận kết_nối ký với các doanh_nghiệp khác phải được xây_dựng , đàm_phán trên cơ_sở các nội_dung của Thỏa_thuận kết_nối mẫu đã được Cục Viễn_thông chấp_thuận . 
+
+4 . Trừ trường_hợp có thỏa_thuận khác , trong thời_hạn 30 ngày làm_việc , kể từ ngày bắt_đầu đàm_phán thỏa_thuận kết_nối , các bên tham_gia đàm_phán Thỏa_thuận kết_nối phải hoàn_thành việc đàm_phán và ký_kết Thỏa_thuận kết_nối . 
+
+Điều 14 .  Đàm_phán và ký_kết_hợp_đồng cung_cấp dung_lượng kết_nối 
+
+1 . Trong thời_hạn 07 ngày làm_việc , sau khi ký_kết Thỏa_thuận kết_nối , trên cơ_sở thỏa_thuận kết_nối đã được ký_kết , các doanh_nghiệp tham_gia kết_nối phải tiến_hành đàm_phán và ký_kết_hợp_đồng cung_cấp dung_lượng kết_nối theo các quy_định về hợp_đồng . 
+
+2 . Trừ trường_hợp có thỏa_thuận khác , trong thời_hạn 30 ngày làm_việc , kể từ ngày bắt_đầu đàm_phán hợp_đồng cung_cấp dung_lượng kết_nối , các bên tham_gia phải hoàn_thành việc đàm_phán và ký_kết_hợp_đồng cung_cấp dung_lượng kết_nối . 
+
+Điều 15 .  Thực_hiện kết_nối 
+
+1 . Khi cần thay_đổi ( tăng hoặc giảm ) dung_lượng kết_nối để đảm_bảo chất_lượng kết_nối , doanh_nghiệp yêu_cầu thay_đổi dung_lượng kết_nối có trách_nhiệm gửi yêu_cầu bằng văn_bản tới doanh_nghiệp viễn_thông có liên_quan .  Văn_bản yêu_cầu phải bao_gồm tối_thiểu các nội_dung sau : 
+
+a ) Mục_đích thay_đổi ; 
+
+b ) Các số_liệu chứng_minh sự cần_thiết phải thay_đổi dung_lượng ; 
+
+c ) Dung_lượng cần thay_đổi ; 
+
+d ) Thời_gian thực_hiện . 
+
+2 . Trong thời_hạn 07 ngày làm_việc , kể từ ngày nhận được văn_bản yêu_cầu thay_đổi dung_lượng kết_nối , doanh_nghiệp viễn_thông nhận được yêu_cầu phải có văn_bản trả_lời về việc chấp_thuận hay không chấp_thuận thay_đổi dung_lượng kết_nối ( nêu rõ lý_do không chấp_thuận ) . 
+
+3 . Trừ trường_hợp có thỏa_thuận khác , trong thời_hạn 15 ngày làm_việc , kể từ ngày các doanh_nghiệp đồng_ý thay_đổi dung_lượng kết_nối , các doanh_nghiệp có trách_nhiệm thực_hiện thay_đổi dung_lượng kết_nối theo đúng thỏa_thuận giữa các bên . 
+
+1 . Định_kỳ hàng năm trước ngày 31 tháng 01 hoặc đột_xuất khi có yêu_cầu , doanh_nghiệp viễn_thông có trách_nhiệm gửi báo_cáo tình_hình thực_hiện kết_nối của năm trước đó bằng văn_bản về Cục Viễn_thông theo mẫu tại phụ_lục 05 ban_hành kèm theo Thông_tư này bằng đường bưu_chính hoặc trực_tuyến trên mạng . 
+
+2 . Doanh_nghiệp viễn_thông phải chịu trách_nhiệm về tính chính_xác và kịp_thời của nội_dung báo_cáo . 
+
+3 . Trong trường_hợp cần_thiết , khi có yêu_cầu của Cục Viễn_thông , doanh_nghiệp viễn_thông có trách_nhiệm : 
+
+a ) Chứng_minh tính chính_xác của báo_cáo ; 
+
+b ) Cử chuyên_gia phối_hợp và cung_cấp các trang_thiết_bị cần_thiết để Cục Viễn_thông kiểm_tra tính chính_xác trong báo_cáo của doanh_nghiệp viễn_thông . 
+
+CHIA_SẺ CƠ_SỞ HẠ_TẦNG KỸ_THUẬT PHỤC_VỤ KẾT_NỐI 
+
+Điều 18 .  Nguyên_tắc chia_sẻ cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối 
+
+1 . Chia_sẻ cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối là việc sử_dụng chung một phần mạng , công_trình , thiết_bị viễn_thông giữa các doanh_nghiệp tham_gia kết_nối nhằm giảm chi_phí và nâng cao chất_lượng kết_nối . 
+
+2 . Để bảo_đảm việc thực_hiện kết_nối hiệu_quả , thuận_lợi , nhanh_chóng các doanh_nghiệp viễn_thông có trách_nhiệm chia_sẻ các cơ_sở hạ_tầng kỹ_thuật sau đây : 
+
+a ) Công_trình hạ_tầng kỹ_thuật ( cống , bể , hào và tuy nen kỹ_thuật , cột treo cáp , cột ăng ten , v .  v ) để thiết_lập đường kết_nối ; 
+
+b ) Nhà trạm và các thiết_bị phụ_trợ phục_vụ kết_nối ( nguồn điện , điều hòa , giá phối dây , máng cáp , v .  v ) trong phạm_vi địa_điểm kết_nối . 
+
+3 . Việc chia_sẻ cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối được thực_hiện thông_qua việc giao_kết_hợp_đồng thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối giữa các bên trên cơ_sở bảo_đảm công_bằng , hợp_lý , không phân_biệt đối_xử , phù_hợp với quy_định của pháp_luật viễn_thông về kết_nối . 
+
+4 . Các doanh_nghiệp viễn_thông chia_sẻ cơ_sở hạ_tầng kỹ_thuật có trách_nhiệm tạo điều_kiện cho các doanh_nghiệp viễn_thông khác : 
+
+a ) Thuê cơ_sở hạ_tầng kỹ_thuật quy_định tại khoản 2 Điều này và bảo_đảm các điều_kiện cần_thiết khác phục_vụ kết_nối ; 
+
+b ) Lắp_đặt , vận_hành , bảo_dưỡng , sửa_chữa thiết_bị tại địa_điểm kết_nối . 
+
+5 . Các doanh_nghiệp viễn_thông được chia_sẻ cơ_sở hạ_tầng kỹ_thuật có trách_nhiệm : 
+
+a ) Tuân_thủ nội_quy về an_toàn , bảo_mật của doanh_nghiệp viễn_thông chia_sẻ cơ_sở hạ_tầng kỹ_thuật ; 
+
+b ) Thông_báo cho doanh_nghiệp viễn_thông chia_sẻ cơ_sở hạ_tầng kỹ_thuật biết kế_hoạch lắp_đặt , vận_hành , bảo_dưỡng , sửa_chữa thiết_bị kết_nối trong phạm_vi địa_điểm kết_nối trước khi thực_hiện ; 
+
+c ) Thanh_toán giá thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối theo hợp_đồng giữa các bên . 
+
+Điều 19 .  Giá thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối 
+
+1 . Giá thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối được xây_dựng trên cơ_sở giá_thành theo quy_định của pháp_luật về giá và về viễn_thông . 
+
+2 . Các doanh_nghiệp viễn_thông thỏa_thuận về giá thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối . 
+
+Điều 20 .  Ký_kết Hợp_đồng thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối 
+
+1 . Trừ trường_hợp có thỏa_thuận khác , nội_dung thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối là một phần của Hợp_đồng cung_cấp dung_lượng kết_nối . 
+
+2 . Trong trường_hợp việc thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối là một hợp_đồng riêng , thì việc đàm_phán , ký_kết Hợp_đồng thuê cơ_sở hạ_tầng kỹ_thuật phục_vụ kết_nối được thực_hiện đồng_thời với Hợp_đồng cung_cấp dung_lượng kết_nối . 

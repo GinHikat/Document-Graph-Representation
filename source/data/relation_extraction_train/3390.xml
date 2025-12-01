@@ -1,0 +1,232 @@
+Thông tư Quy định về điều phối các hoạt động ứng cứu sự cố mạng internet Việt Nam
+
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Viễn_thông ngày 04 tháng 12 năm 2009 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 97/2008/NĐ-CP ngày 28 tháng 8 năm 2008 </NĐ> về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin điện_tử trên Internet ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+Điều 1 .  Phạm_vi và đối_tượng áp_dụng 
+
+Thông_tư này quy_định về mạng_lưới ứng_cứu sự_cố , điều_phối các hoạt_động ứng_cứu sự_cố mạng Internet ;  trách_nhiệm của các tổ_chức , cá_nhân có liên_quan tới hoạt_động ứng_cứu sự_cố mạng Internet tại Việt_Nam . 
+
+Điều 2 .  Giải_thích thuật_ngữ 
+
+1 . Sự_cố mạng Internet là sự_kiện đã , đang hoặc có khả_năng xảy ra gây mất an_toàn thông_tin trên mạng Internet được phát_hiện thông_qua việc giám_sát , đánh_giá , phân_tích của các cơ_quan , tổ_chức , cá_nhân có liên_quan hoặc được cảnh_báo từ các chuyên_gia , tổ_chức về lĩnh_vực an_toàn thông_tin trong nước và trên thế_giới ( sau đây được gọi tắt là sự_cố ) . 
+
+2 . Sự_cố có tính_chất nghiêm_trọng là sự_cố có một hoặc nhiều tính_chất sau : có khả_năng xảy ra trên diện rộng , lan nhanh ;  có khả_năng phá_hoại hệ_thống mạng máy_tính và mạng Internet ;  có_thể gây thiệt_hại hay hậu_quả lớn cho các hệ_thống thông_tin trên mạng ;  đòi_hỏi phối_hợp nhiều nguồn_lực lớn của quốc_gia hay của quốc_tế để giải_quyết . 
+
+Điều 3 .  Mạng_lưới ứng_cứu sự_cố 
+
+1 . Mạng_lưới ứng_cứu sự_cố là tập_hợp các cơ_quan , tổ_chức , doanh_nghiệp tham_gia hoạt_động ứng_cứu sự_cố có sự điều_phối tại Việt_Nam ( sau đây gọi tắt là mạng_lưới , các cơ_quan , tổ_chức , doanh_nghiệp gọi chung là thành_viên mạng_lưới và gọi tắt là thành_viên ) .  Mạng_lưới bao_gồm các thành_viên có nghĩa_vụ tham_gia mạng_lưới và thành_viên tự_nguyện đăng_ký tham_gia mạng_lưới . 
+
+2 . Thành_viên có nghĩa_vụ tham_gia mạng_lưới gồm có : 
+
+a ) Cơ_quan điều_phối ; 
+
+b ) Đơn_vị chuyên_trách về công_nghệ thông_tin của các Bộ , Cơ_quan ngang Bộ , Cơ_quan thuộc Chính_phủ ;  Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương ; 
+
+c ) Các doanh_nghiệp cung_cấp dịch_vụ Internet ( ISP ) ; 
+
+d ) Trung_tâm Internet Việt_Nam ( VNNIC ) . 
+
+3 . Thành_viên tự_nguyện tham_gia mạng_lưới là cơ_quan , tổ_chức hay doanh_nghiệp tự_nguyện tham_gia hoạt_động trong mạng_lưới có bản khai đăng_ký theo mẫu tại Phụ_lục 1 gửi tới Cơ_quan điều_phối và được chấp_nhận .  Khuyến_khích các tổ_chức hoạt_động trong lĩnh_vực an_toàn thông_tin thành_lập các bộ_phận có chức_năng ứng_cứu sự_cố và tham_gia vào mạng_lưới . 
+
+4 . Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( Trung_tâm VNCERT ) là Cơ_quan điều_phối .  Trung_tâm VNCERT thực_hiện chức_năng điều_phối các hoạt_động ứng_cứu sự_cố trên toàn_quốc và có quyền điều_động các tổ_chức khác trong mạng_lưới phối_hợp ngăn_chặn , xử_lý và khắc_phục sự_cố mạng Internet tại Việt_Nam ;  có quyền quyết_định hình_thức điều_phối các hoạt_động ứng_cứu sự_cố và chịu trách_nhiệm về các yêu_cầu điều_phối ;  là đầu_mối trao_đổi thông_tin về hợp_tác ứng_cứu sự_cố với các tổ_chức ứng_cứu khẩn_cấp máy_tính quốc_tế .  Hoạt_động của Cơ_quan điều_phối nhằm điều_động các thành_viên mạng_lưới phối_hợp xử_lý , ứng_cứu sự_cố gọi là điều_phối ứng_cứu sự_cố . 
+
+5 . Thông_tin liên_lạc chi_tiết về địa_chỉ , số điện_thoại , số fax , địa_chỉ thư điện_tử , trang tin điện_tử của thành_viên mạng_lưới được công_bố công_khai trên trang tin điện_tử của Cơ_quan điều_phối ( www .  vncert .  gov .  vn ) . 
+
+Điều 4 .  Đầu_mối ứng_cứu sự_cố 
+
+1 . Đầu_mối ứng_cứu sự_cố là cá_nhân hay bộ_phận được phép thay_mặt cho thành_viên mạng_lưới để liên_lạc và trao_đổi thông_tin với các thành_viên mạng_lưới khác trong hoạt_động ứng_cứu sự_cố . 
+
+2 . Đầu_mối ứng_cứu sự_cố phải có trình_độ chuyên_môn và kỹ_năng nghiệp_vụ để thực_hiện các hoạt_động phối_hợp ứng_cứu sự_cố . 
+
+3 . Đầu_mối ứng_cứu sự_cố phải bảo_đảm khả_năng liên_lạc thông_suốt liên_tục ( 24 giờ trong một ngày và 7 ngày trong tuần ) . 
+
+Điều 5 .  Nguyên_tắc hoạt_động của mạng_lưới ứng_cứu sự_cố 
+
+1 . Thông_tin được trao_đổi , cung_cấp trong quá_trình điều_phối , xử_lý_sự_cố phải được bảo_đảm bí_mật theo yêu_cầu của tổ_chức , cá_nhân gặp sự_cố trừ khi sự_cố xảy ra có liên_quan tới nhiều đối_tượng người dùng khác mà Cơ_quan điều_phối có yêu_cầu cảnh_báo , nhắc_nhở . 
+
+2 . Việc trao_đổi thông_tin trong mạng_lưới phải được thực_hiện bằng một hoặc nhiều hình_thức như : công_văn , thư điện_tử , điện_thoại , fax .  Thành_viên mạng_lưới tiếp_nhận được thông_tin phải chủ_động xác_thực đối_tượng gửi nhằm bảo_đảm thông_điệp nhận được là tin_cậy . 
+
+3 . Thành_viên mạng_lưới có quyền được chia_sẻ thông_tin , kinh_nghiệm , tham_gia hoạt_động diễn_tập ứng_cứu sự_cố , tham_gia các khóa đào_tạo , bồi_dưỡng về hoạt_động ứng_cứu sự_cố . 
+
+Điều 6 .  Chế_độ báo_cáo 
+
+1 . Thành_viên mạng_lưới có trách_nhiệm báo_cáo định_kỳ 6 tháng_một lần cho Cơ_quan điều_phối về hoạt_động tiếp_nhận và xử_lý_sự_cố . 
+
+a ) Nội_dung báo_cáo theo mẫu báo_cáo định_kỳ tại Phụ_lục 2 .  Hướng_dẫn mẫu báo_cáo đăng trên trang tin điện_tử của Trung_tâm VNCERT ; 
+
+b ) Thời_gian gửi báo_cáo : trước ngày 15 tháng 6 và trước ngày 15 tháng 12 hàng năm ; 
+
+c ) Hình_thức báo_cáo : bằng công_văn và thư điện_tử ; 
+
+d ) Báo_cáo gửi về Trung_tâm VNCERT : 18 Nguyễn_Du , Hà_Nội ;  địa_chỉ thư điện_tử : baocao @ vncert .  vn . 
+
+2 . Thành_viên mạng_lưới có trách_nhiệm báo_cáo đột_xuất khi có yêu_cầu của Cơ_quan điều_phối hoặc khi phát_hiện ra các sự_cố có tính_chất nghiêm_trọng .  Hình_thức và địa_chỉ gửi báo_cáo theo quy_định tại khoản 1 Điều này . 
+
+Điều 7 .  Thông_báo sự_cố 
+
+1 . Khi gặp sự_cố mà không tự_khắc_phục được , tổ_chức hay cá_nhân sử_dụng Internet thông_báo sự_cố tới một hoặc nhiều thành_viên mạng_lưới sau : 
+
+a ) Thành_viên mạng_lưới chịu trách_nhiệm ứng_cứu sự_cố cho tổ_chức , cá_nhân đó ( nếu có ) ; 
+
+b ) Các ISP đang trực_tiếp cung_cấp dịch_vụ Internet cho tổ_chức , cá_nhân đó ; 
+
+c ) Cơ_quan điều_phối . 
+
+2 . Khi phát_hiện thấy các sự_cố có tính_chất nghiêm_trọng , tổ_chức , cá_nhân phải thông_báo ngay cho Cơ_quan điều_phối . 
+
+3 . Nội_dung thông_báo sự_cố gồm : 
+
+a ) Thông_tin mô_tả sự_cố theo mẫu thông_báo sự_cố tại Phụ_lục 3 ; 
+
+b ) Thông_tin khác theo yêu_cầu của đơn_vị tiếp_nhận thông_báo . 
+
+4 . Hướng_dẫn chi_tiết thông_báo sự_cố đăng tại trang tin điện_tử của Cơ_quan điều_phối . 
+
+5 . Tổ_chức , cá_nhân gửi thông_báo sự_cố phải phối_hợp chặt_chẽ , cung_cấp đầy_đủ và chính_xác thông_tin về sự_cố cho các thành_viên mạng_lưới tiếp_nhận thông_báo sự_cố và tạo mọi điều_kiện thuận_lợi cho các thành_viên này và Cơ_quan điều_phối tiếp_cận , nghiên_cứu hệ_thống , thiết_bị liên_quan đến sự_cố để thu_thập , phân_tích thông_tin xử_lý_sự_cố . 
+
+Điều 8 .  Tiếp_nhận và xử_lý thông_báo sự_cố 
+
+1 . Thành_viên mạng_lưới tiếp_nhận thông_báo sự_cố phải thực_hiện : 
+
+a ) Phản_hồi ngay và không vượt quá 24 giờ cho tổ_chức , cá_nhân gửi thông_báo để xác_nhận về việc đã nhận được thông_báo sự_cố ; 
+
+b ) Xử_lý_sự_cố trong khả_năng và trách_nhiệm của mình ; 
+
+c ) Thông_báo sự_cố về Cơ_quan điều_phối trong trường_hợp không xử_lý được . 
+
+2 . Cơ_quan điều_phối tiếp_nhận được thông_báo sự_cố phải thực_hiện : 
+
+a ) Các hoạt_động xử_lý_sự_cố với tư_cách thành_viên mạng_lưới như quy_định tại khoản 1 Điều này ; 
+
+b ) Đưa ra yêu_cầu điều_phối tới thành_viên mạng_lưới tham_gia ứng_cứu sự_cố khi cần_thiết ; 
+
+c ) Huy_động các nguồn_lực khác , mời chuyên_gia tham_gia ứng_cứu sự_cố khi cần_thiết ; 
+
+d ) Tổ_chức hoạt_động phối_hợp với các tổ_chức ứng_cứu sự_cố máy_tính quốc_tế để ứng_cứu các sự_cố có phạm_vi xuyên biên_giới . 
+
+Điều 9 .  Điều_phối ứng_cứu sự_cố 
+
+1 . Cơ_quan điều_phối thực_hiện việc điều_phối bằng cách gửi yêu_cầu điều_phối tới các thành_viên mạng_lưới có liên_quan tới sự_cố , sử_dụng mẫu biểu yêu_cầu điều_phối theo Phụ_lục 4 . 
+
+2 . Cơ_quan điều_phối có quyền yêu_cầu các thành_viên mạng_lưới hợp_tác và đề_nghị các tổ_chức ứng_cứu khẩn_cấp máy_tính quốc_tế tham_gia hoạt_động ứng_cứu sự_cố . 
+
+3 . Cơ_quan điều_phối thông_báo cho các tổ_chức , cá_nhân gặp sự_cố về yêu_cầu phối_hợp trong quá_trình thực_hiện điều_phối và ứng_cứu sự_cố . 
+
+4 . Thành_viên mạng_lưới tiếp_nhận yêu_cầu điều_phối , thực_hiện đúng yêu_cầu điều_phối và báo_cáo , phản_hồi đầy_đủ kết_quả thực_hiện cho Cơ_quan điều_phối . 
+
+Điều 10 .  Thành_viên mạng_lưới 
+
+1 . Công_bố địa_chỉ tiếp_nhận thông_báo sự_cố trên trang tin điện_tử của mình . 
+
+2 . Cử_nhân_sự làm Đầu_mối ứng_cứu sự_cố và bảo_đảm Đầu_mối tuân_thủ đúng quy_định tại Điều 4 . 
+
+3 . Tiếp_nhận và xử_lý các thông_báo sự_cố theo quy_định tại Điều 8 . 
+
+4 . Tuân_thủ các yêu_cầu điều_phối của Cơ_quan điều_phối theo quy_định tại Điều 9 . 
+
+5 . Phối_hợp , hỗ_trợ các thành_viên mạng_lưới khác trong các hoạt_động ứng_cứu sự_cố . 
+
+6 . Thông_báo và cập_nhật cho Cơ_quan điều_phối các thông_tin sau : 
+
+a ) Địa_chỉ tiếp_nhận thông_báo sự_cố ; 
+
+b ) Thông_tin về Đầu_mối ứng_cứu sự_cố bao_gồm : họ tên , chức_vụ , địa_chỉ liên_hệ , số điện_thoại cố_định , số điện_thoại_di_động , số fax , địa_chỉ thư điện_tử . 
+
+7 . Lưu_trữ thông_báo sự_cố và biên_bản xử_lý_sự_cố , lưu_trữ yêu_cầu điều_phối và báo_cáo kết_quả thực_hiện yêu_cầu điều_phối trong thời_gian tối_thiểu 01 năm , bao_gồm các thông_tin sau : 
+
+a ) Nội_dung thông_báo sự_cố , thời_gian tiếp_nhận thông_báo , thời_gian gửi xác_nhận ; 
+
+b ) Kết_quả xử_lý_sự_cố , nguyên_nhân gây ra sự_cố , thời_gian xử_lý_sự_cố và danh_sách các tổ_chức , cá_nhân cùng tham_gia phối_hợp xử_lý_sự_cố ( nếu có ) ; 
+
+c ) Thời_gian gửi thông_báo sự_cố cho Cơ_quan điều_phối , thời_gian nhận được xác_nhận từ Cơ_quan điều_phối đối_với trường_hợp thông_báo cho Cơ_quan điều_phối . 
+
+8 . Thực_hiện chế_độ báo_cáo theo quy_định tại Điều 6 . 
+
+Điều 11 .  Cơ_quan điều_phối ( Trung_tâm VNCERT ) 
+
+1 . Thực_hiện nghĩa_vụ thành_viên mạng_lưới theo quy_định tại khoản 1,2,3,5,7 Điều 10 , trong đó thời_hạn lưu_trữ tài_liệu đối_với khoản 7 Điều 10 thực_hiện theo quy_định hiện_hành của Nhà_nước về thời_hạn bảo_quản hồ_sơ , tài_liệu hình_thành phổ_biến trong hoạt_động của cơ_quan nhà_nước . 
+
+2 . Tổ_chức hoạt_động cho mạng_lưới và điều_phối hoạt_động ứng_cứu sự_cố , xây_dựng các quy_định , hướng_dẫn trong mạng_lưới về ứng_cứu sự_cố . 
+
+3 . Tiếp_nhận , xử_lý trực_tiếp hoặc điều_phối xử_lý các thông_báo sự_cố . 
+
+4 . Xây_dựng và triển_khai hệ_thống kỹ_thuật hỗ_trợ cho hoạt_động liên_lạc , trao_đổi thông_tin trong mạng_lưới và tạo điều_kiện cho các thành_viên mạng_lưới sử_dụng hệ_thống . 
+
+5 . Tổng_hợp và công_bố trong mạng_lưới các thông_tin thông_báo , cảnh_báo về các điểm yếu , lỗ_hổng , các nguồn tấn_công trên mạng Internet . 
+
+6 . Tập_hợp , cập_nhật và công_bố trên trang tin điện_tử của Trung_tâm VNCERT thông_tin về các địa_chỉ tiếp_nhận thông_báo sự_cố của các thành_viên mạng_lưới . 
+
+7 . Tập_hợp , cập_nhật và công_bố thông_tin về danh_sách các đầu_mối cho các thành_viên mạng_lưới . 
+
+8 . Cung_cấp báo_cáo thống_kê hàng năm về hoạt_động ứng_cứu khẩn_cấp sự_cố . 
+
+Điều 12 .  Doanh_nghiệp cung_cấp dịch_vụ Internet 
+
+1 . Thực_hiện nghĩa_vụ thành_viên mạng_lưới theo quy_định tại Điều 10 . 
+
+2 . Hướng_dẫn người sử_dụng dịch_vụ Internet hoặc thuê bao Internet ( sau đây gọi chung là khách_hàng ) thực_hiện thông_báo sự_cố . 
+
+3 . Thực_hiện chức_năng xử_lý_sự_cố cho khách_hàng khi tiếp_nhận được thông_báo hoặc phát_hiện được sự_cố . 
+
+4 . Cung_cấp các thông_tin sau khi Cơ_quan điều_phối có yêu_cầu : 
+
+a ) Thông_tin về khách_hàng của mình có liên_quan tới sự_cố , thông_tin kỹ_thuật về hệ_thống của khách_hàng có liên_quan tới sự_cố ( địa_chỉ IP , tên_miền , nhật_ký truy_nhập , các thông_tin khác nếu có ) ; 
+
+b ) Thông_tin cấu_trúc mạng , thông_tin giám_sát , thống_kê về các luồng dữ_liệu mạng liên_quan tới sự_cố ( nếu có ) ; 
+
+c ) Cung_cấp phần_mềm , mã nguồn phần_mềm gây ra sự_cố , dữ_liệu lưu_trữ liên_quan tới sự_cố , thông_tin về phần_cứng gây ra sự_cố ( nếu có ) . 
+
+5 . Lắp_đặt sẵn các cổng kết_nối , giao_diện kết_nối dự_phòng tại các điểm kết_nối Internet quan_trọng để phục_vụ cho chính mình và cho các cơ_quan nhà_nước có thẩm_quyền thực_hiện giám_sát , phát_hiện các cuộc tấn_công hoặc sự phát_tán , lan_truyền của phần_mềm mã độc . 
+
+6 . Tạo điều_kiện cho Cơ_quan điều_phối tiếp_cận , nghiên_cứu hệ_thống , thiết_bị liên_quan đến sự_cố để thu_thập , phân_tích thông_tin nhằm mục_đích xử_lý_sự_cố . 
+
+7 . Thực_hiện theo yêu_cầu điều_phối các hoạt_động sau đây : 
+
+a ) Ngừng kết_nối với thiết_bị , hệ_thống dịch_vụ gây ra sự_cố ; 
+
+b ) Ngăn_chặn , chuyển_hướng tạm_thời các địa_chỉ IP , tên_miền gây ra sự_cố ; 
+
+c ) Gỡ bỏ hoặc gỡ bỏ tạm_thời các ứng_dụng , dịch_vụ gây ra sự_cố trên mạng Internet . 
+
+8 . Hỗ_trợ các nguồn_lực trong khả_năng của mình và trong khoảng thời_gian xác_định theo yêu_cầu của Cơ_quan điều_phối nhằm thực_hiện hoạt_động ứng_cứu sự_cố hoặc diễn_tập ứng_cứu sự_cố , bao_gồm : 
+
+a ) Đường truyền kết_nối Internet đối_với trường_hợp xảy ra sự_cố tấn_công từ_chối dịch_vụ làm cạn_kiệt tài_nguyên băng_thông hoặc cần tăng_cường tính sẵn_sàng cho các hệ_thống cung_cấp dịch_vụ quan_trọng ; 
+
+b ) Nhân_lực về an_toàn thông_tin tham_gia hoạt_động ứng_cứu sự_cố ; 
+
+c ) Thiết_bị , công_nghệ về an_toàn thông_tin ( nếu có ) . 
+
+Điều 13 .  Trung_tâm VNNIC 
+
+2 . Cung_cấp thông_tin chủ_thể đăng_ký_tên miền quốc_gia ( .  vn ) , đơn_vị quản_lý địa_chỉ IP , số hiệu mạng do VNNIC cấp và các thông_tin khác có liên_quan tới sự_cố theo yêu_cầu của Cơ_quan điều_phối . 
+
+3 . Thực_hiện các yêu_cầu điều_phối của Cơ_quan điều_phối về việc xử_lý các sự_cố liên_quan đến tài_nguyên Internet của Việt_Nam . 
+
+Điều 14 .  Đơn_vị chuyên_trách về công_nghệ thông_tin của các Bộ , Cơ_quan ngang Bộ , Cơ_quan thuộc Chính_phủ ;  Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương 
+
+2 . Xây_dựng và hướng_dẫn việc thực_hiện hoạt_động ứng_cứu sự_cố trong phạm_vi trách_nhiệm của đơn_vị . 
+
+3 . Phối_hợp , hỗ_trợ hoạt_động ứng_cứu khẩn_cấp sự_cố trong phạm_vi trách_nhiệm và địa_bàn hoạt_động của đơn_vị khi có yêu_cầu từ Cơ_quan điều_phối . 
+
+Điều 15 .  Các cá_nhân , tổ_chức khác 
+
+1 . Các tổ_chức cung_cấp dịch_vụ an_toàn thông_tin 
+
+a ) Chia_sẻ thông_tin và số_liệu về hoạt_động ứng_cứu sự_cố đã thực_hiện khi có yêu_cầu của Cơ_quan điều_phối ; 
+
+b ) Hỗ_trợ về nhân_lực , giải_pháp công_nghệ theo khả_năng khi có yêu_cầu của Cơ_quan điều_phối . 
+
+2 . Các tổ_chức , cá_nhân sử_dụng mạng Internet 
+
+a ) Chủ_động áp_dụng các biện_pháp , giải_pháp kỹ_thuật bảo_đảm an_toàn thông_tin , rà quét mã độc trong máy_tính nhằm phòng_chống sự_cố mạng Internet ; 
+
+b ) Chủ_động cung_cấp thông_tin và tích_cực phối_hợp với các thành_viên mạng_lưới ứng_cứu sự_cố trong hoạt_động phát_hiện , ngăn_chặn và xử_lý_sự_cố . 
+
+Điều 16 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 11 năm 2011 . 
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , phát_sinh tổ_chức , cá_nhân có liên_quan kịp_thời phản_ánh về Bộ Thông_tin và Truyền_thông ( Trung_tâm VNCERT ) để xem_xét , bổ_sung và sửa_đổi ./. 

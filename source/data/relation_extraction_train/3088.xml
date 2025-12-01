@@ -1,0 +1,342 @@
+Thông tư Quy định về an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet
+
+Căn_cứ <L rel="Pursuant"> Luật Ngân_hàng Nhà_nước Việt_Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Các tổ_chức tín_dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29 tháng 11 năm 2005 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 35/2007/NĐ-CP ngày 08 tháng 3 năm 2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động ngân_hàng ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định 64/2001/NĐ-CP ngày 20 tháng 9 năm 2001 </NĐ> của Chính_phủ về hoạt_động thanh_toán qua các tổ_chức cung_ứng dịch_vụ thanh_toán ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 26/2007/NĐ-CP ngày 25 tháng 2 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 96/2008/NĐ-CP ngày 26 tháng 8 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 97/2008/NĐ-CP ngày 28 tháng 8 năm 2008 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin điện_tử trên Internet ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định các yêu_cầu đảm_bảo an_toàn , bảo_mật cho việc cung_cấp dịch_vụ ngân_hàng trên Internet . 
+
+2 . Thông_tư này áp_dụng đối_với các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài cung_cấp dịch_vụ ngân_hàng trên Internet ( sau đây gọi chung là đơn_vị cung_cấp dịch_vụ ) tại Việt_Nam . 
+
+Điều 2 .  Giải_thích từ_ngữ và thuật_ngữ 
+
+1 . Dịch_vụ ngân_hàng trên Internet ( dịch_vụ Internet Banking ) : là các dịch_vụ ngân_hàng được cung_cấp thông_qua mạng Internet , bao_gồm : 
+
+a ) Thông_tin về đơn_vị cung_cấp dịch_vụ và các dịch_vụ của đơn_vị . 
+
+b ) Dịch_vụ tra_cứu thông_tin như : tra_cứu thông_tin khách_hàng , tài_khoản , truy vấn số_dư và các thông_tin khác . 
+
+c ) Thực_hiện các giao_dịch tài_chính_trực_tuyến như : dịch_vụ về tài_khoản , chuyển_khoản , cấp tín_dụng , thanh_toán qua tài_khoản . 
+
+d ) Các dịch_vụ khác theo quy_định của Ngân_hàng Nhà_nước . 
+
+2 . Hệ_thống Internet_Banking : là một tập_hợp có cấu_trúc các trang_thiết_bị phần_cứng , phần_mềm , cơ_sở dữ_liệu , hệ_thống mạng truyền_thông và an_ninh bảo_mật phục_vụ cho việc quản_lý và cung_cấp dịch_vụ ngân_hàng trên Internet . 
+
+3 . Khách_hàng : là các tổ_chức , cá_nhân liên_quan đến sử_dụng dịch_vụ Internet Banking . 
+
+4 . Xác_thực hai yếu_tố : là phương_pháp xác_thực yêu_cầu hai yếu_tố khác nhau để chứng_minh tính đúng_đắn của một danh_tính .  Xác_thực hai yếu_tố dựa trên những thông_tin mà người dùng biết như mã_số khách_hàng , mật_khẩu , cùng với những gì mà người dùng có như mật_khẩu sử_dụng một lần ( OTP ) , ma_trận lưới ngẫu_nhiên , dấu_hiệu sinh trắc học , hoặc các thiết_bị hỗ_trợ khác để chứng_minh danh_tính . 
+
+5 . Tài_khoản đặc_quyền : là tài_khoản truy_cập vào hệ_thống công_nghệ thông_tin nhằm thực_hiện các công_việc đặc_biệt hoặc truy_cập vào dữ_liệu nhạy_cảm .  Tài_khoản đặc_quyền thường sử_dụng cho việc cấu_hình thiết_bị , quản_trị hệ_thống , quản_trị hệ điều_hành , quản_trị cơ_sở dữ_liệu hay quản_trị ứng_dụng nghiệp_vụ ( ví_dụ như các tài_khoản root , supervisors , system , administrator ) . 
+
+Điều 3 .  Nguyên_tắc chung đối_với việc cung_cấp dịch_vụ ngân_hàng trên Internet của đơn_vị cung_cấp dịch_vụ 
+
+1 . Đảm_bảo tính bí_mật 
+
+a ) Đảm_bảo bí_mật thông_tin liên_quan đến tài_khoản , tiền gửi , tài_sản gửi và các giao_dịch của khách_hàng theo quy_định của pháp_luật . 
+
+b ) Mật_khẩu khách_hàng , khóa mã_hóa và các mã khóa khác phải được mã_hóa trong quá_trình giao_dịch , trên đường truyền và lưu_trữ tại đơn_vị cung_cấp dịch_vụ . 
+
+2 . Đảm_bảo tính sẵn_sàng 
+
+a ) Cam_kết khả_năng hoạt_động liên_tục của hệ_thống Internet Banking một_cách công_khai , rõ_ràng và được nêu rõ trong hợp_đồng cung_cấp dịch_vụ với khách_hàng .  Cam_kết này tối_thiểu phải bao_gồm cam_kết về tổng thời_gian dừng hệ_thống trong năm , khoảng thời_gian cung_cấp dịch_vụ trong ngày , thời_gian phục_hồi hệ_thống sau khi gặp sự_cố . 
+
+b ) Đáp_ứng đủ nguồn_lực về hạ_tầng công_nghệ thông_tin và nhân_sự đảm_bảo cung_cấp dịch_vụ Internet_Banking liên_tục đúng như cam_kết của đơn_vị cung_cấp dịch_vụ với khách_hàng . 
+
+c ) Xây_dựng , ban_hành và tuân_thủ các quy_trình của hệ_thống Internet Banking . 
+
+d ) Sử_dụng các công_cụ giám_sát , theo_dõi hiệu_năng của hệ_thống chính và hệ_thống dự_phòng đảm_bảo hoạt_động liên_tục . 
+
+3 . Đảm_bảo tính toàn_vẹn 
+
+a ) Đảm_bảo tính toàn_vẹn của thông_tin trong quá_trình xử_lý , lưu_trữ và truyền nhận giữa đơn_vị cung_cấp dịch_vụ và khách_hàng . 
+
+b ) Kết_hợp các biện_pháp an_ninh về mặt hành_chính và kỹ_thuật trong : 
+
+- Truy_cập vật_lý ; 
+
+- Truy_cập lô gíc ; 
+
+- Quá_trình nhập , xử_lý , truyền_dẫn , kết xuất , lưu_trữ , khôi_phục dữ_liệu . 
+
+4 . Xác_thực_khách_hàng và xác_thực giao_dịch 
+
+a ) Đảm_bảo xác_thực và nhận_dạng được khách_hàng khi khách_hàng truy_cập và sử_dụng dịch_vụ Internet Banking . 
+
+b ) Sử_dụng xác_thực hai yếu_tố trên hệ_thống Internet_Banking khi thực_hiện giao_dịch thanh_toán và các giao_dịch quan_trọng như : tạo kết_nối giữa các tài_khoản , đăng_ký thanh_toán cho bên thứ ba , thay_đổi hạn_mức giao_dịch trong ngày , thay_đổi thông_tin tài_khoản liên_quan đến dữ_liệu cá_nhân của khách_hàng ( như địa_chỉ cơ_quan hoặc nhà_riêng , số điện_thoại liên_lạc , địa_chỉ thư điện_tử và các thông_tin khác nhằm xác thực_khách_hàng ) . 
+
+5 . Bảo_vệ khách_hàng 
+
+a ) Cung_cấp đầy_đủ thông_tin về quyền_lợi và nghĩa_vụ của khách_hàng trước khi ký_kết_hợp_đồng cung_cấp dịch_vụ với khách_hàng .  Trong hợp_đồng cung_cấp dịch_vụ phải nêu rõ việc đơn_vị cung_cấp dịch_vụ đảm_bảo các khoản nêu ra tại Điều này đối_với khách_hàng .  Đơn_vị cung_cấp dịch_vụ chịu trách_nhiệm thực_hiện đầy_đủ các điều_khoản thuộc trách_nhiệm của mình nêu trong hợp_đồng cung_cấp dịch_vụ ký_kết với khách_hàng . 
+
+b ) Trong hợp_đồng cung_cấp dịch_vụ , đơn_vị cung_cấp dịch_vụ phải nêu rõ trách_nhiệm bảo_mật các thông_tin cá_nhân của khách_hàng khi sử_dụng dịch_vụ Internet_Banking ;  nêu rõ cách_thức ngân_hàng thu_thập ;  sử_dụng thông_tin khách_hàng , cam_kết không bán , tiết_lộ , rò_rỉ các thông_tin đó . 
+
+c ) Có biện_pháp đảm_bảo an_toàn , bảo_mật trong trường_hợp đơn_vị cung_cấp dịch_vụ phân_phối phần_mềm cho khách_hàng qua môi_trường Internet . 
+
+d ) Chịu trách_nhiệm kiểm_tra , cảnh_báo và thực_hiện các biện_pháp phòng , chống giả_mạo website cung_cấp dịch_vụ Internet_Banking của đơn_vị cung_cấp dịch_vụ ;  đồng_thời có trách_nhiệm thông_báo phương_thức xác_định website thật đến khách_hàng . 
+
+Điều 4 .  Chính_sách về an_toàn , bảo_mật hệ_thống 
+
+Xây_dựng , ban_hành các quy_định an_toàn , bảo_mật cho hệ_thống Internet_Banking phù_hợp với quy_định về an_toàn , bảo_mật hệ_thống công_nghệ thông_tin của Nhà_nước , ngành Ngân_hàng và quy_chế an_toàn bảo_mật công_nghệ thông_tin của đơn_vị .  Định_kỳ tối_thiểu mỗi năm một lần , đơn_vị phải rà_soát , chỉnh_sửa , hoàn_thiện các quy_định này đảm_bảo sự phù_hợp , đầy_đủ và có hiệu_quả của quy_định . 
+
+Điều 5 .  Quản_lý nguồn nhân_lực 
+
+1 . Lựa_chọn đội_ngũ cán_bộ có đủ tư_cách đạo_đức , trình_độ , năng_lực đáp_ứng được yêu_cầu về chuyên_môn nghiệp_vụ và công_nghệ khi phân_công nhiệm_vụ liên_quan đến hệ_thống Internet Banking . 
+
+2 . Các nhiệm_vụ quản_trị hệ_thống ;  phát_triển , bảo_trì phần_mềm ứng_dụng và vận_hành hệ_thống phải được phân_công cho từng bộ_phận , cá_nhân khác nhau .  Đảm_bảo kiểm_soát chéo và không một cá_nhân nào có toàn_quyền trên hệ_thống hoặc có_thể tự khởi tạo , can_thiệp vào các giao_dịch của hệ_thống Internet Banking .  Có quy_định trách_nhiệm và phân_quyền rõ_ràng cho từng nhóm bộ_phận , cá_nhân nêu trên .  Tài_khoản đặc_quyền trên hệ_thống Internet_Banking phải được thiết_kế để chỉ có_thể truy_cập được khi có khóa của ít_nhất hai người và phải được kiểm_soát chặt_chẽ đối_với mọi hoạt_động của tài_khoản này . 
+
+3 . Có quy_định cụ_thể , rõ_ràng và thực_hiện đầy_đủ công_tác quản_lý , giám_sát nhân_sự bên thứ ba khi truy_cập vào hệ_thống Internet Banking .  Các yêu_cầu về an_toàn , bảo_mật và thỏa_thuận cần xác_định rõ trong hợp_đồng với bên thứ ba . 
+
+Điều 6 .  Mạng truyền_thông 
+
+1 . Có biện_pháp phân_tách các phân_vùng mạng để đảm_bảo kiểm_soát được các truy_cập hệ_thống . 
+
+2 . Có biện_pháp phát_hiện và phòng_chống xâm_nhập , phòng_chống phát_tán mã độc_hại cho hệ_thống . 
+
+3 . Xây_dựng và thực_hiện phương_án dự_phòng cho các vị_trí quan_trọng có mức_độ ảnh_hưởng cao tới hệ_thống mạng hoặc có khả_năng gây tê_liệt toàn_bộ hệ_thống mạng của đơn_vị khi xảy ra sự_cố . 
+
+4 . Các kết_nối không dây phải sử_dụng các biện_pháp xác_thực đảm_bảo an_toàn . 
+
+5 . Đảm_bảo yêu_cầu về băng_thông đối_với việc cung_cấp dịch_vụ Internet Banking . 
+
+6 . Cập_nhật các bản vá lỗi hệ_thống , cập_nhật cấu_hình cho các thiết_bị mạng và các thiết_bị bảo_mật tối_thiểu sáu tháng_một lần .  Trong trường_hợp phát_hiện lỗi hệ_thống phải thực_hiện cập_nhật ngay . 
+
+7 . Các trang_thiết_bị mạng , an_ninh , bảo_mật , phần_mềm chống vi rút , công_cụ phân_tích , quản_trị mạng được cài_đặt trong mạng của đơn_vị phải có bản_quyền và nguồn_gốc , xuất_xứ rõ_ràng . 
+
+Điều 7 .  Phần_cứng và phần_mềm hệ_thống 
+
+1 . Đảm_bảo có hạ_tầng máy_chủ và các thiết_bị đi kèm phục_vụ hệ_thống Internet_Banking ( sau đây gọi_là máy_chủ Internet Banking ) đủ công_suất , đạt hiệu_năng yêu_cầu , đảm_bảo tốc_độ xử_lý truy_xuất đáp_ứng yêu_cầu của khách_hàng sử_dụng dịch_vụ . 
+
+2 . Yêu_cầu đối_với máy_chủ Internet_Banking 
+
+a ) Có tính_năng sẵn_sàng cao , cơ_chế dự_phòng linh_hoạt để đảm_bảo tính hoạt_động liên_tục . 
+
+b ) Được đặt ở nơi được bảo_vệ an_toàn và được giám_sát chặt_chẽ . 
+
+c ) Tách_biệt lô-gíc hoặc vật_lý với các máy_chủ hoạt_động nghiệp_vụ khác . 
+
+3 . Yêu_cầu đối_với phần_mềm hệ_thống : 
+
+a ) Được rà_soát , cập_nhật các phiên_bản vá_lỗi phần_mềm hệ_thống theo khuyến_cáo của nhà cung_cấp tối_thiểu sáu tháng_một lần . 
+
+b ) Lập danh_mục các phần_mềm được phép cài_đặt trên máy_chủ Internet_Banking và định_kỳ tối_thiểu ba tháng_một lần cập_nhật , kiểm_tra , đảm_bảo tuân_thủ danh_mục này . 
+
+Điều 8 .  Phần_mềm ứng_dụng 
+
+1 . Các yêu_cầu chung 
+
+a ) Các yêu_cầu an_toàn , bảo_mật của nghiệp_vụ phải được xác_định trước và tổ_chức , triển_khai vào toàn_bộ chu_trình phát_triển phần_mềm từ khâu phân_tích , thiết_kế đến triển_khai vận_hành và bảo_trì . 
+
+b ) Các tài_liệu về an_toàn , bảo_mật của phần_mềm phải được hệ_thống_hóa và lưu_trữ , sử_dụng theo chế_độ “ Mật ” . 
+
+c ) Trước khi triển_khai chương_trình ứng_dụng mới , phải đánh_giá những rủi_ro của quá_trình triển_khai đối_với hoạt_động nghiệp_vụ , các hệ_thống công_nghệ thông_tin liên_quan và lập , triển_khai các phương_án hạn_chế , khắc_phục rủi_ro . 
+
+d ) Phải xác_định , thống_kê được các hoạt_động và giao_dịch bất_thường phát_sinh trong hệ_thống . 
+
+2 . Kiểm_tra thử_nghiệm phần_mềm ứng_dụng 
+
+a ) Lập và phê_duyệt kế_hoạch , kịch_bản thử_nghiệm cho các ứng_dụng cung_cấp dịch_vụ Internet Banking , trong đó nêu rõ các điều_kiện về tính an_toàn , bảo_mật phải được đáp_ứng . 
+
+b ) Phát_hiện và loại_trừ các lỗi , các gian_lận có_thể xảy ra khi nhập số_liệu đầu_vào và các lỗ_hổng bảo_mật trong quá_trình kiểm_tra thử_nghiệm hệ_thống . 
+
+c ) Ghi lại các lỗi và quá_trình xử_lý lỗi , đặc_biệt là các lỗi về an_toàn , bảo_mật trong các báo_cáo về kiểm_tra thử_nghiệm . 
+
+d ) Kiểm_tra thử_nghiệm các tính_năng an_toàn , bảo_mật phải được thực_hiện trên các trình_duyệt phổ_biến như Internet_Explorer , Mozilla , Firefox , Google Chrome . 
+
+đ ) Tiến_hành thử_nghiệm trên môi_trường riêng_biệt và không ảnh_hưởng đến hoạt_động bình_thường của nghiệp_vụ .  Lập báo_cáo kết_quả thử_nghiệm trình cấp có thẩm_quyền phê_duyệt trước khi đưa vào sử_dụng . 
+
+e ) Việc sử_dụng dữ_liệu cho quá_trình thử_nghiệm phải có biện_pháp phòng_ngừa tránh bị lợi_dụng hoặc gây nhầm_lẫn . 
+
+3 . Quản_lý và nâng_cấp phiên_bản 
+
+a ) Đối_với mỗi yêu_cầu thay_đổi phần_mềm , phải phân_tích đánh_giá ảnh_hưởng của việc thay_đổi đối_với các hệ_thống hiện_tại cũng như các nghiệp_vụ và các hệ_thống công_nghệ thông_tin có liên_quan khác của đơn_vị . 
+
+b ) Các phiên_bản phần_mềm bao_gồm cả chương_trình nguồn cần được quản_lý tập_trung , lưu_trữ , bảo_mật và có cơ_chế phân_quyền cho từng thành_viên trong việc thao_tác với các tập_tin . 
+
+c ) Thông_tin về các phiên_bản , thời_gian cập_nhật , người cập_nhật các phiên_bản phải được lưu lại . 
+
+d ) Mỗi phiên_bản được nâng_cấp phải được kiểm_tra thử_nghiệm các tính_năng an_toàn , bảo_mật và tính ổn_định trước khi triển_khai chính_thức . 
+
+đ ) Việc nâng_cấp phiên_bản phải căn_cứ trên kết_quả thử_nghiệm và được cấp có thẩm_quyền phê_duyệt . 
+
+e ) Các phiên_bản phần_mềm sau khi thử_nghiệm thành_công phải được quản_lý chặt_chẽ ;  tránh bị sửa_đổi bất_hợp_pháp và sẵn_sàng cho việc triển_khai . 
+
+g ) Đi kèm với phiên_bản phần_mềm mới phải có các chỉ_dẫn rõ_ràng về nội_dung thay_đổi , hướng_dẫn cập_nhật phần_mềm và các thông_tin liên_quan khác và phải được thông_qua cấp có thẩm_quyền phê_duyệt trước khi triển_khai cho khách_hàng . 
+
+4 . Kiểm_soát chương_trình nguồn 
+
+a ) Kiểm_tra mã nguồn , nhằm loại_trừ các đoạn mã độc_hại , các lỗ_hổng bảo_mật ( back-door ) . 
+
+b ) Chỉ_định cụ_thể các cá_nhân quản_lý chương_trình nguồn của hệ_thống Internet Banking . 
+
+c ) Việc truy_cập tới chương_trình nguồn phải được sự phê_chuẩn của cấp có thẩm_quyền và được theo_dõi , ghi nhật_ký . 
+
+d ) Chương_trình nguồn phải được lưu_trữ an_toàn tại ít_nhất hai địa_điểm tách_biệt . 
+
+đ ) Trong trường_hợp đơn_vị cung_cấp dịch_vụ mua phần_mềm từ bên thứ ba mà không được bàn_giao chương_trình nguồn , đơn_vị cung_cấp dịch_vụ phải yêu_cầu bên thứ ba ký cam_kết không có các đoạn mã độc_hại trong phần_mềm ứng_dụng bàn_giao cho đơn_vị cung_cấp dịch_vụ . 
+
+Điều 9 .  An_toàn cơ_sở dữ_liệu 
+
+1 . Chỉ được sử_dụng các hệ quản_trị cơ_sở dữ_liệu có bản_quyền và xuất_xứ , nguồn_gốc rõ_ràng và đã được kiểm_nghiệm qua thực_tế hoạt_động nghiệp_vụ của các tổ_chức tương_tự trong hoặc ngoài nước . 
+
+2 . Hệ_quản_trị cơ_sở dữ_liệu sử_dụng cho hệ_thống Internet_Banking phải đáp_ứng được yêu_cầu hoạt_động ổn_định ;  xử_lý , lưu_trữ được khối_lượng dữ_liệu lớn theo yêu_cầu nghiệp_vụ ;  có cơ_chế bảo_vệ và phân_quyền truy_cập đối_với các tài_nguyên cơ_sở dữ_liệu . 
+
+3 . Rà_soát , cập_nhật các bản vá , các bản sửa lỗi hệ quản_trị cơ_sở dữ_liệu tối_thiểu sáu tháng_một lần hoặc ngay sau khi có khuyến_cáo của nhà cung_cấp . 
+
+4 . Xây_dựng phương_án sao lưu , dự_phòng đối_với cơ_sở dữ_liệu , đảm_bảo các hệ_thống Internet_Banking hoạt_động liên_tục khi xảy ra sự_cố với cơ_sở dữ_liệu . 
+
+5 . Thực_hiện phân_quyền và có quy_định chặt_chẽ với từng cá_nhân truy_cập đến cơ_sở dữ_liệu .  Phải ghi nhật_ký đối_với các truy_cập cơ_sở dữ_liệu , các thao_tác đối_với cấu_hình cơ_sở dữ_liệu . 
+
+6 . Có giải_pháp ngăn_chặn các hình_thức tấn_công cơ_sở dữ_liệu . 
+
+Điều 10 .  Mã_hóa dữ_liệu 
+
+1 . Lựa_chọn thuật_toán mã_hóa đáp_ứng yêu_cầu đảm_bảo tính bí_mật và khả_năng xử_lý của hệ_thống Internet Banking . 
+
+2 . Thuận_toán mã_hóa đang sử_dụng phải được định_kỳ mỗi năm một lần kiểm_tra , đánh_giá lại mức_độ an_toàn và xử_lý kịp_thời những yếu điểm nếu có . 
+
+3 . Không để một cá_nhân thực_hiện toàn_bộ quá_trình tạo khóa mã_hóa .  Các khóa mã_hóa phải được khởi tạo , thay_đổi , phân_phối , lưu_trữ một_cách an_toàn . 
+
+4 . Phải bảo_đảm khôi_phục được các thông_tin đã mã_hóa khi cần_thiết . 
+
+5 . Có những quy_định chặt_chẽ về việc thu_hồi các khóa mã_hóa , bao_gồm cả việc hủy khóa và phục_hồi khóa . 
+
+Điều 11 .  Quản_lý nhật_ký 
+
+1 . Ghi nhật_ký các sự_kiện sau đối_với hệ_thống Internet Banking : 
+
+a ) Quá_trình truy_cập hệ_thống . 
+
+b ) Các thao_tác cấu_hình hệ_thống . 
+
+c ) Các sự_kiện xác_thực . 
+
+d ) Các sự_kiện cấp , thu_hồi quyền truy_cập hệ_thống và sử_dụng dịch_vụ . 
+
+đ ) Xử_lý giao_dịch . 
+
+e ) Các truy_cập bất_thường . 
+
+2 . Ghi nhật_ký giao_dịch của khách_hàng và giám_sát các giao_dịch tài_chính trên hệ_thống Internet Banking . 
+
+3 . Các nhật_ký của hệ_thống Internet_Banking phải được lưu_trữ , bảo_vệ an_toàn và truy_xuất được khi cần_thiết .  Thời_gian lưu nhật_ký tối_thiểu là 03 năm . 
+
+4 . Kiểm_tra nhật_ký truy_cập để phát_hiện , phòng_ngừa những truy_cập bất_thường , bất_hợp_pháp tối_thiểu mỗi tháng_một lần . 
+
+Điều 12 .  Quản_lý_sự_cố 
+
+1 . Xây_dựng quy_trình quản_lý_sự_cố , trong đó phải quy_định rõ trách_nhiệm của các bộ_phận liên_quan , chi_tiết các bước thực_hiện bao_gồm cả việc thông_báo cho khách_hàng và báo_cáo Ngân_hàng Nhà_nước . 
+
+2 . Quy_trình quản_lý_sự_cố phải được rà_soát , cập_nhật các sự_cố và phương_án xử_lý tối_thiểu sáu tháng_một lần . 
+
+3 . Áp_dụng các giải_pháp kỹ_thuật để phát_hiện , xử_lý kịp_thời các cuộc tấn_công từ_chối dịch_vụ như sử_dụng thiết_bị tường lửa ;  thiết_bị phát_hiện và ngăn_chặn xâm_nhập ;  các thiết_bị chuyên_dụng cảnh_báo tấn_công , làm lệch hướng lưu_lượng mạng ;  lọc gói tin khi bị tấn_công . 
+
+4 . Yêu_cầu bên thứ ba cung_cấp quy_trình xử_lý_sự_cố cho các dịch_vụ do bên thứ ba cung_cấp liên_quan đến hệ_thống Internet Banking . 
+
+Điều 13 .  Hướng_dẫn khách_hàng 
+
+1 . Ban_hành quy_định nêu rõ quyền , nghĩa_vụ của khách_hàng và của đơn_vị cung_cấp dịch_vụ đối_với việc cung_cấp , sử_dụng dịch_vụ Internet Banking . 
+
+2 . Hướng_dẫn cho khách_hàng các nội_dung tự bảo_đảm an_toàn trong quá_trình sử_dụng dịch_vụ Internet_Banking như : 
+
+a ) Cách đặt mật_khẩu và bảo_vệ mật_khẩu . 
+
+b ) Không chia_sẻ các thiết_bị lưu_trữ mật_khẩu , chữ_ký số . 
+
+c ) Không đặt tùy_chọn của trình_duyệt web cho phép lưu lại tên và mật_khẩu người dùng . 
+
+d ) Thoát khỏi hệ_thống Internet_Banking khi không sử_dụng . 
+
+đ ) Thận_trọng , hạn_chế dùng máy_tính công_cộng , mạng không dây công_cộng để truy_cập vào hệ_thống Internet Banking . 
+
+e ) Cách_thức truy_cập địa_chỉ ứng_dụng dịch_vụ Internet_Banking của đơn_vị . 
+
+g ) Thông_báo cho đơn_vị cung_cấp dịch_vụ các lỗi và sự_cố trong quá_trình sử_dụng dịch_vụ . 
+
+h ) Cảnh_báo các rủi_ro khác . 
+
+Điều 14 .  Yêu_cầu chung 
+
+Các đơn_vị cung_cấp dịch_vụ có trách_nhiệm gửi báo_cáo về Ngân_hàng Nhà_nước Việt_Nam ( Cục Công_nghệ tin_học ) theo quy_định tại Điều 15 , Điều 16 Thông_tư này . 
+
+Điều 15 .  Các loại báo_cáo 
+
+1 . Báo_cáo cung_cấp dịch_vụ Internet Banking : 
+
+a ) Đối_với các đơn_vị đã cung_cấp dịch_vụ trước ngày Thông_tư này có hiệu_lực : Các đơn_vị gửi báo_cáo trong vòng 10 ngày làm_việc kể từ ngày Thông_tư này có hiệu_lực . 
+
+b ) Đối_với các đơn_vị cung_cấp dịch_vụ sau khi Thông_tư này có hiệu_lực : Các đơn_vị gửi báo_cáo tối_thiểu trước 10 ngày làm_việc trước khi cung_cấp chính_thức dịch_vụ Internet Banking . 
+
+2 . Báo_cáo năm : 
+
+Các đơn_vị cung_cấp dịch_vụ phải gửi Báo_cáo năm trước ngày 15 tháng 3 hàng năm . 
+
+3 . Báo_cáo đột_xuất : 
+
+Các đơn_vị cung_cấp dịch_vụ phải gửi Báo_cáo đột_xuất khi xảy ra các sự_cố mất an_toàn hoặc ảnh_hưởng đến hoạt_động của hệ_thống Internet_Banking trong vòng 05 ngày kể từ thời_điểm phát_sinh_sự_cố hoặc phát_hiện sự_cố . 
+
+Điều 16 .  Nội_dung báo_cáo 
+
+1 . Báo_cáo cung_cấp dịch_vụ Internet_Banking bao_gồm các nội_dung sau : 
+
+a ) Địa_chỉ website cung_cấp dịch_vụ . 
+
+b ) Các sản_phẩm , dịch_vụ hiện đang cung_cấp . 
+
+c ) Ngày cung_cấp chính_thức . 
+
+d ) Đơn_vị cung_cấp sản_phẩm hệ_thống Internet Banking . 
+
+đ ) Bên thứ ba được thuê hoặc cùng hợp_tác xây_dựng , vận_hành hệ_thống Internet_Banking ;  các hoạt_động liên_quan đến hệ_thống Internet_Banking có sự tham_gia của bên thứ ba và hình_thức tham_gia của các bên thứ ba này . 
+
+e ) Các tài_liệu bao_gồm : hạ_tầng công_nghệ thông_tin và truyền_thông , nhân_lực , quy_trình kỹ_thuật nghiệp_vụ , các phương_án xử_lý rủi_ro và các vấn_đề liên_quan khác theo quy_định tại Chương II của Thông_tư này . 
+
+2 . Báo_cáo năm bao_gồm các nội_dung sau : 
+
+a ) Các sản_phẩm , dịch_vụ Internet Banking hiện đang cung_cấp . 
+
+b ) Những thay_đổi của sản_phẩm , dịch_vụ Internet_Banking kể từ lần báo_cáo trước . 
+
+c ) Những thay_đổi của tài_liệu quy_định tại Điểm e , Khoản 1 , Điều 16 kể từ lần báo_cáo trước . 
+
+d ) Số_lượng khách_hàng sử_dụng dịch_vụ Internet_Banking và tỷ_lệ tăng_trưởng khách_hàng so với cùng kỳ năm trước . 
+
+đ ) Những sự_cố đã phát_sinh trong kỳ .  Sự_cố rủi_ro được báo_cáo theo nhóm rủi_ro , các thiệt_hại và biện_pháp xử_lý đã áp_dụng . 
+
+e ) Kiến_nghị , đề_xuất . 
+
+3 . Báo_cáo đột_xuất bao_gồm các nội_dung sau : 
+
+a ) Ngày , địa_điểm phát_sinh_sự_cố . 
+
+b ) Mô_tả sơ_bộ về sự_cố , tình_trạng khi xảy ra sự_cố . 
+
+c ) Nguyên_nhân sự_cố . 
+
+d ) Đánh_giá rủi_ro , ảnh_hưởng đối_với hệ_thống Internet_Banking và các hệ_thống khác có liên_quan . 
+
+đ ) Tình_hình thiệt_hại . 
+
+e ) Các biện_pháp đơn_vị đã tiến_hành để khắc_phục sự_cố , ngăn_chặn và phòng_ngừa rủi_ro . 
+
+g ) Kiến_nghị , đề_xuất . 
+
+Điều 17 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 04 tháng 11 năm 2011 . 
+
+2 . <TT rel="Drop"> Thông_tư số 09/2003/TT-NHNN ngày 5/8/2003 </TT> của Thống_đốc Ngân_hàng Nhà_nước hướng_dẫn thực_hiện một_số quy_định tại <NĐ rel="Others"> Nghị_định số 55/2001/NĐ-CP ngày 23/08/2001 </NĐ> của Chính_phủ về quản_lý , cung_cấp và sử_dụng Internet và <TT rel="Others"> Thông_tư số 01/2008/TT-NHNN ngày 10/3/2008 </TT> sửa_đổi bổ_sung <TT rel="Others"> Thông_tư số 09/2003/TT-NHNN </TT> hết hiệu_lực kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+3 . Trong quá_trình thực_hiện nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức , cá_nhân liên_quan phản_ánh kịp_thời về Ngân_hàng Nhà_nước Việt_Nam ( Cục Công_nghệ tin_học tại địa_chỉ_số 64 Nguyễn_Chí_Thanh , Đống_Đa , Hà_Nội ) để xem_xét , xử_lý . 
+
+Điều 18 .  Trách_nhiệm thi_hành 
+
+1 . Cục Công_nghệ tin_học có trách_nhiệm theo_dõi , kiểm_tra việc thi_hành Thông_tư này của các đơn_vị cung_cấp dịch_vụ .  Hàng năm thông_qua báo_cáo của các đơn_vị hoặc thực_hiện kiểm_tra tại_chỗ để đánh_giá việc tuân_thủ quy_định và đảm_bảo an_toàn , bảo_mật cho hệ_thống Internet_Banking của các đơn_vị ;  tổng_hợp , báo_cáo Thống_đốc tình_hình về an_toàn , bảo_mật dịch_vụ Internet_Banking của hệ_thống ngân_hàng Việt_Nam . 
+
+2 . Cơ_quan Thanh_tra , giám_sát ngân_hàng có trách_nhiệm phối_hợp với Cục Công_nghệ tin_học kiểm_tra , giám_sát việc thi_hành Thông_tư này và xử_lý vi_phạm hành_chính đối_với hành_vi vi_phạm theo quy_định của pháp_luật . 
+
+3 . Chánh_Văn_phòng , Cục_trưởng Cục Công_nghệ tin_học và Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước Việt_Nam , Giám_đốc Ngân_hàng Nhà_nước chi_nhánh các tỉnh , thành_phố trực_thuộc Trung_ương ;  Chủ_tịch Hội_đồng quản_trị , Chủ_tịch Hội_đồng thành_viên , Tổng_giám_đốc ( Giám_đốc ) các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài cung_cấp dịch_vụ Internet_Banking chịu trách_nhiệm thi_hành Thông_tư này ./. 

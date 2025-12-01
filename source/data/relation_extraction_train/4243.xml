@@ -1,0 +1,654 @@
+Thông tư Quy định việc chuẩn bị ứng phó và ứng phó sự cố bức xạ và hạt nhân, lập và phê duyệt kế hoạch ứng phó sự cố bức xạ và hạt nhân
+
+Căn_cứ <L rel="Pursuant"> Luật năng_lượng nguyên_tử ngày 03 tháng 6 năm 2008 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 07/2010/NĐ-CP ngày 25 tháng 01 năm 2010 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật năng_lượng nguyên_tử </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 20/2013/NĐ-CP ngày 26 tháng 02 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Khoa_học và Công_nghệ ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định : 
+
+a ) Việc chuẩn_bị ứng_phó và ứng_phó sự_cố bức_xạ và hạt_nhân các cấp ; 
+
+b ) Việc lập và phê_duyệt kế_hoạch ứng_phó sự_cố bức_xạ , sự_cố hạt_nhân cấp cơ_sở và cấp tỉnh . 
+
+2 . Thông_tư này áp_dụng đối_với : 
+
+a ) Tổ_chức , cá_nhân tham_gia chuẩn_bị ứng_phó và ứng_phó sự_cố bức_xạ và hạt_nhân ; 
+
+b ) Cơ_quan có thẩm_quyền cấp giấy_phép tiến_hành công_việc bức_xạ và phê_duyệt kế_hoạch ứng_phó sự_cố bức_xạ và hạt_nhân . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Sự_cố bức_xạ và hạt_nhân ( sau đây gọi tắt là sự_cố ) là tình_trạng mất an_toàn bức_xạ ;  mất an_toàn hạt_nhân ;  mất an_ninh đối_với nguồn phóng_xạ , vật_liệu hạt_nhân , thiết_bị hạt_nhân , cơ_sở bức_xạ và cơ_sở hạt_nhân . 
+
+2 . Ứng_phó sự_cố là việc áp_dụng mọi biện_pháp ứng_phó nhanh_chóng , kịp_thời nhằm giảm_thiểu hậu_quả của sự_cố gây ảnh_hưởng đến an_toàn , sức_khỏe của con_người , gây thiệt_hại về môi_trường và tài_sản . 
+
+3 . Chuẩn_bị ứng_phó sự_cố là việc chuẩn_bị nhân_lực , thiết_bị , phương_tiện , quy_trình để bảo_đảm thực_hiện các hành_động ứng_phó sự_cố . 
+
+4 . Kế_hoạch ứng_phó sự_cố là văn_bản quy_định về các nguyên_tắc hoạt_động phân_công trách_nhiệm , cơ_chế điều_hành và phối_hợp giữa các tổ_chức , cá_nhân tham_gia ứng_phó sự_cố ;  đánh_giá các nguy_cơ ;  đưa ra các quy_trình ứng_phó sự_cố chung . 
+
+5 . Can_thiệp là việc thực_hiện các hành_động nhằm giảm chiếu_xạ , tránh hoặc ngăn_chặn bị chiếu_xạ từ sự_cố như trú_ẩn , sơ_tán , uống thuốc Kali_Iốt ( KI ) dự_phòng . 
+
+6 . Vùng bảo_vệ khẩn_cấp ( PAZ ) là toàn_bộ diện_tích xung_quanh cơ_sở cần có sự chuẩn_bị để tiến_hành hành_động bảo_vệ khẩn_cấp , nhằm giảm_thiểu rủi_ro gây ra hiệu_ứng sinh_học tất_định với người bên ngoài cơ_sở khi xảy ra sự_cố . 
+
+7 . Vùng lập kế_hoạch bảo_vệ khẩn_cấp ( UPZ ) là toàn_bộ diện_tích xung_quanh cơ_sở cần có sự chuẩn_bị để tiến_hành hành_động bảo_vệ khẩn_cấp , nhằm ngăn_ngừa bị chiếu_xạ đối_với công_chúng bên ngoài cơ_sở khi xảy ra sự_cố . 
+
+8 . Chiếu_xạ trường diễn là việc bị chiếu_xạ trong thời_gian dài ( trên 01 năm ) từ các nhân phóng_xạ có thời_gian sống dài trong môi_trường . 
+
+9 . Lực_lượng ứng_phó ban_đầu là lực_lượng chủ_chốt tham_gia trong việc chuẩn_bị và ứng_phó sự_cố , bao_gồm ban chỉ_huy , công_an , phòng cháy chữa_cháy , y_tế , hỗ_trợ kỹ_thuật an_toàn bức_xạ và hạt_nhân , lực_lượng ứng_phó của cơ_sở . 
+
+10 .  Hiệu_ứng sinh_học tất_định là hiệu_ứng sinh_học do bức_xạ gây ra đối_với con_người , chỉ xảy ra khi liều bức_xạ vượt một mức ngưỡng và mức_độ nghiêm_trọng của hiệu_ứng gây ra đối_với con_người tăng tỷ_lệ_thuận với liều bức_xạ ;  một_số biểu_hiện của hiệu_ứng sinh_học tất_định là nôn_mửa , bỏng da , hoại_tử , tử_vong . 
+
+11 .  Hiệu_ứng sinh_học ngẫu_nhiên là hiệu_ứng sinh_học do bức_xạ gây ra đối_với con_người , xác_suất xảy ra hiệu_ứng tăng lên khi liều bức_xạ tăng và mức_độ nghiêm_trọng của hiệu_ứng gây ra đối_với con_người độc_lập với liều bức_xạ nhận được ;  một_số biểu_hiện của hiệu_ứng sinh_học ngẫu_nhiên là bệnh bạch_cầu và ung_thư . 
+
+12 .  Nhóm nguy_cơ gây ra sự_cố ( sau đây gọi tắt là nhóm nguy_cơ ) là nhóm các cơ_sở , nguồn phóng_xạ , thiết_bị bức_xạ , thiết_bị hạt_nhân và các hoạt_động có khả_năng gây ra sự_cố với mức_độ thiệt_hại tương_đương nhau . 
+
+13 .  Mức can_thiệp là mức liều bức_xạ có_thể tránh được khi thực_hiện_hành_động bảo_vệ cụ_thể trong trường_hợp xảy ra sự_cố hoặc trường_hợp chiếu_xạ trường diễn . 
+
+14 .  Mức can_thiệp tác_nghiệp là mức can_thiệp được thể_hiện dưới dạng suất liều hoặc hoạt độ của vật_liệu phóng_xạ phát_tán ra , nồng_độ phóng_xạ trong không_khí , nồng_độ phóng_xạ bề_mặt hoặc trong lòng đất tích_phân theo thời_gian , nồng_độ phóng_xạ trong mẫu môi_trường , mẫu lương_thực và mẫu nước .  Mức can_thiệp tác_nghiệp được sử_dụng làm căn_cứ cho việc đưa ra hành_động can_thiệp tương_ứng . 
+
+15 .  Mức báo_động là chỉ_thị mức_độ trầm_trọng hoặc khẩn_cấp của tình_huống sự_cố đang diễn ra hoặc sắp diễn ra nhằm xác_định các biện_pháp ứng_phó sự_cố , mức_độ huy_động nguồn nhân_lực ứng_phó phù_hợp . 
+
+16 .  Chỉ_huy tại hiện_trường là người được cấp có thẩm_quyền bổ_nhiệm để chỉ_đạo các hoạt_động ứng_phó tại_chỗ và phối_hợp các hoạt_động hỗ_trợ của quốc_gia tại hiện_trường nơi xảy ra sự_cố . 
+
+17 .  Chuyên_gia_bảo_vệ chống bức_xạ là cá_nhân được đào_tạo về vật_lý sức_khỏe , an_toàn bức_xạ và có khả_năng thực_hiện việc đánh_giá liều , ghi đo bức_xạ , kiểm_soát nhiễm bẩn , tư_vấn về việc áp_dụng các hành_động bảo_vệ khẩn_cấp . 
+
+18 .  Phòng điều_khiển là nơi lắp_đặt hệ_thống điều_khiển , thiết_bị hiển_thị , đo_đạc và lưu_giữ các thông_số của nhà_máy_điện hạt_nhân và lò phản_ứng nghiên_cứu . 
+
+Điều 3 .  Nguyên_tắc , yêu_cầu đối_với công_tác chuẩn_bị và hoạt_động ứng_phó sự_cố 
+
+1 . Công_tác chuẩn_bị ứng_phó và hoạt_động ứng_phó sự_cố phải tuân theo các nguyên_tắc sau : 
+
+a ) Hành_động can_thiệp phải bảo_đảm mang lại nhiều lợi_ích hơn là thiệt_hại do hành_động can_thiệp đó gây ra ; 
+
+b ) Hình_thức , phạm_vi và khoảng thời_gian áp_dụng các hành_động can_thiệp phải tối_ưu để lợi_ích thực_tế đạt được là tối_đa ; 
+
+c ) Kế_hoạch ứng_phó sự_cố được xây_dựng phải bảo_đảm việc ứng_phó sự_cố được tiến_hành kịp_thời , được quản_lý , kiểm_soát , phối_hợp đồng_bộ và hiệu_quả từ cấp cơ_sở , cấp tỉnh , quốc_gia ; 
+
+d ) Việc phân_công trách_nhiệm giữa các tổ_chức , cá_nhân tham_gia ứng_phó phải rõ_ràng cũng như việc chỉ_đạo trong ứng_phó sự_cố phải tuân theo nguyên_tắc tập_trung thống_nhất theo quy_định trong Kế_hoạch ứng_phó sự_cố được cấp có thẩm_quyền phê_duyệt . 
+
+2 . Hoạt_động ứng_phó sự_cố phải đạt được các yêu_cầu sau : 
+
+a ) Kiểm_soát được diễn_biến sự_cố ; 
+
+b ) Ngăn_chặn , giảm_thiểu hậu_quả tại hiện_trường ; 
+
+c ) Ngăn_chặn khả_năng xảy ra hiệu_ứng sinh_học tất_định đối_với nhân_viên ứng_phó và công_chúng ; 
+
+d ) Cung_cấp các biện_pháp cứu_trợ ban_đầu và điều_trị nạn_nhân ; 
+
+đ ) Giảm_thiểu khả_năng xảy ra hiệu_ứng sinh_học ngẫu_nhiên ảnh_hưởng đến sức_khỏe của công_chúng ; 
+
+e ) Ngăn_chặn tối_đa khả_năng xảy ra hậu_quả phi phóng_xạ đối_với cá_nhân và công_chúng ; 
+
+g ) Giảm tới mức thấp nhất thiệt_hại về tài_sản và môi_trường ; 
+
+h ) Tạo tiền_đề thuận_lợi cho công_tác khắc_phục sự_cố lâu_dài và cho việc lập kế_hoạch chuẩn_bị đưa các hoạt_động kinh_tế , xã_hội trở_lại trạng_thái_bình_thường . 
+
+Điều 4 .  Nhóm nguy_cơ , mức can_thiệp , mức báo_động 
+
+1 . Nhóm nguy_cơ được sử_dụng làm căn_cứ cho công_tác chuẩn_bị ứng_phó và hoạt_động ứng_phó sự_cố .  Nhóm nguy_cơ được phân thành năm nhóm I , II , III , IV và V được quy_định trong Phụ_lục I của Thông_tư này . 
+
+2 . Tổ_chức , cá_nhân tham_gia ứng_phó sự_cố căn_cứ vào mức can_thiệp để tiến_hành các hành_động can_thiệp tương_ứng .  Mức can_thiệp được quy_định trong Phụ_lục II của Thông_tư này . 
+
+3 . Mức báo_động được áp_dụng làm căn_cứ cho việc huy_động nguồn_lực tiến_hành hoạt_động ứng_phó sự_cố .  Mức báo_động được quy_định trong Phụ_lục III của Thông_tư này . 
+
+Điều 5 .  Trách_nhiệm của tổ_chức , cá_nhân tham_gia chuẩn_bị ứng_phó và hoạt_động ứng_phó sự_cố 
+
+1 . Cơ_sở bức_xạ , cơ_sở hạt_nhân và khu_vực diễn ra_công_việc bức_xạ khác theo quy_định tại Điều 18 <L rel="Reference"> Luật năng_lượng nguyên_tử </L> sau đây được gọi chung là cơ_sở .
+Người đứng đầu_cơ_sở bức_xạ , cơ_sở hạt_nhân và người chịu trách_nhiệm chính đối_với khu_vực diễn ra_công_việc bức_xạ khác theo quy_định tại Điều 18 <L rel="Reference"> Luật năng_lượng nguyên_tử </L> sau đây được gọi chung là người đứng đầu_cơ_sở .
+Người đứng đầu_cơ_sở có trách_nhiệm chính trong công_tác chuẩn_bị và ứng_phó sự_cố tại cơ_sở . 
+
+2 . Tổ_chức , cá_nhân xây_dựng kế_hoạch ứng_phó sự_cố theo quy_định tại Khoản 5 Điều 83 <L rel="Reference"> Luật năng_lượng nguyên_tử </L> có trách_nhiệm :
+a ) Lập và trình cơ_quan có thẩm_quyền phê_duyệt Kế_hoạch ứng_phó sự_cố ; 
+
+b ) Bổ_nhiệm hoặc trình cơ_quan có thẩm_quyền phê_duyệt Trưởng_Ban chỉ_huy và các thành_viên trong Ban chỉ_huy ; 
+
+c ) Xây_dựng nguồn nhân_lực , trang_thiết_bị ( tham_khảo Phụ_lục V của Thông_tư này ) , phương_tiện , cơ_sở hạ_tầng cần_thiết cho việc chuẩn_bị ứng_phó và ứng_phó với sự_cố phù_hợp với điều_kiện cụ_thể ;  tổ_chức đào_tạo và diễn_tập định_kỳ ; 
+
+d ) Xây_dựng quy_chế phối_hợp giữa các tổ_chức , cá_nhân tham_gia chuẩn_bị ứng_phó và ứng_phó sự_cố ;  xây_dựng cơ_chế chuyển_giao quyền chỉ_huy ứng_phó giữa các tổ_chức , cá_nhân tham_gia ứng_phó sự_cố ; 
+
+đ ) Xây_dựng quy_chế phối_hợp giữa các cơ_quan quản_lý các cấp , các lực_lượng ứng_phó và cơ_sở trong việc tiến_hành các biện_pháp can_thiệp . 
+
+3 . Tổ_chức , cá_nhân tham_gia chuẩn_bị ứng_phó và hoạt_động ứng_phó sự_cố có trách_nhiệm thực_hiện chức_năng , nhiệm_vụ theo thẩm_quyền được quy_định trong Kế_hoạch ứng_phó sự_cố ;  có trách_nhiệm phối_hợp với tổ_chức , cá_nhân khác theo quy_định . 
+
+4 . Trưởng_Ban chỉ_huy có trách_nhiệm : 
+
+a ) Phân_công trách_nhiệm , chỉ_đạo thực_hiện các nhiệm_vụ cụ_thể cho các thành_viên Ban chỉ_huy ; 
+
+b ) Thông_báo về sự_cố , khởi_động và chấm_dứt ứng_phó sự_cố ; 
+
+c ) Chỉ_huy , điều_động các lực_lượng tham_gia hoạt_động ứng_phó sự_cố ;  chỉ_đạo thực_hiện các biện_pháp can_thiệp với sự tư_vấn của các tổ_chức , cá_nhân được giao nhiệm_vụ theo kế_hoạch ứng_phó sự_cố được phê_duyệt ; 
+
+d ) Bổ_nhiệm người chỉ_huy tại hiện_trường phù_hợp với từng tình_huống cụ_thể ; 
+
+đ ) Tổng_hợp , đánh_giá tình_hình_sự_cố để báo_cáo các cơ_quan có thẩm_quyền ; 
+
+e ) Bổ_nhiệm người đại_diện cung_cấp thông_tin cho công_chúng theo quy_định của pháp_luật ; 
+
+g ) Khi có thay_đổi ảnh_hưởng tới việc thực_hiện kế_hoạch ứng_phó sự_cố phải cập_nhật , bổ_sung kế_hoạch ứng_phó sự_cố và thông_báo tới cơ_quan có thẩm_quyền phê_duyệt kế_hoạch ứng_phó sự_cố . 
+
+5 . Ban chỉ_huy các cấp có trách_nhiệm : 
+
+a ) Điều_phối cung_cấp nguồn nhân_lực , trang_thiết_bị , phương_tiện , cơ_sở hạ_tầng cần_thiết căn_cứ trên các yêu_cầu đối_với công_tác chuẩn_bị và ứng_phó sự_cố và phù_hợp với điều_kiện cụ_thể ; 
+
+b ) Tổ_chức ứng_phó sự_cố theo quy_định trong Kế_hoạch ứng_phó sự_cố ; 
+
+c ) Tổ_chức đào_tạo và diễn_tập định_kỳ . 
+
+6 . Chỉ_huy ứng_phó sự_cố tại hiện_trường có trách_nhiệm : 
+
+a ) Chỉ_đạo , điều_hành các lực_lượng tham_gia ứng_phó sự_cố tại hiện_trường ; 
+
+b ) Chỉ_đạo , điều_động mọi nguồn_lực , cơ_sở vật_chất kỹ_thuật cho việc ứng_phó sự_cố ; 
+
+c ) Giữ vai_trò đầu_mối tiếp_nhận , xử_lý và cung_cấp thông_tin tại hiện_trường ; 
+
+d ) Tuân theo sự chỉ_đạo của Trưởng_Ban chỉ_huy . 
+
+Điều 6 .  Trung_tâm ứng_phó sự_cố 
+
+1 . Cơ_sở_thuộc nhóm nguy_cơ I , II phải thiết_lập Trung_tâm ứng_phó sự_cố của cơ_sở cách_biệt về vật_lý với Phòng điều_khiển của cơ_sở ;  Trung_tâm ứng_phó của cơ_sở phải có đầy_đủ trang_thiết_bị phục_vụ trao_đổi thông_tin với Phòng điều_khiển , các tổ_chức , lực_lượng tham_gia ứng_phó các cấp , theo_dõi thông_tin bức_xạ ;  được trang_bị các thiết_bị bảo_vệ chống phóng_xạ . 
+
+2 . Trung_tâm ứng_phó sự_cố nằm ngoài cơ_sở đối_với nhóm nguy_cơ I , II được xây_dựng và trang_bị đầy_đủ các thiết_bị , phương_tiện ứng_phó cần_thiết cũng như phải được bảo_đảm an_toàn ;  trụ_sở của Trung_tâm ứng_phó nằm ngoài cơ_sở , lực_lượng ứng_phó ban_đầu phải được xây_dựng và duy_trì theo quy_định trong kế_hoạch ứng_phó sự_cố cấp quốc_gia . 
+
+3 . Ban chỉ_huy ứng_phó sự_cố cấp tỉnh thiết_lập trung_tâm ứng_phó sự_cố tỉnh được trang_bị đầy_đủ thiết_bị , phương_tiện cần_thiết để ứng_phó sự_cố phù_hợp với điều_kiện cụ_thể tại địa_phương . 
+
+Điều 7 .  Tổ_chức và quản_lý trong chuẩn_bị ứng_phó sự_cố 
+
+1 . Ban chỉ_huy các cấp có trách_nhiệm : 
+
+a ) Thiết_lập các hệ_thống điều_hành và quản_lý trong ứng_phó sự_cố ; 
+
+b ) Xây_dựng mục_tiêu chiến_lược và giải_quyết sự phối_hợp thiếu đồng_bộ liên_quan tới chức_năng , trách_nhiệm , quyền_hạn , phân_bố nguồn_lực và quyền ưu_tiên giữa các tổ_chức ứng_phó sự_cố ; 
+
+c ) Chuẩn_bị ứng_phó sự_cố bức_xạ và hạt_nhân đồng_bộ với việc chuẩn_bị ứng_phó sự_cố thông_thường khác . 
+
+2 . Người đứng đầu_cơ_sở_thuộc nhóm nguy_cơ I , II và III phải chuẩn_bị : 
+
+a ) Xây_dựng quy_trình chuyển_đổi từ tình_trạng hoạt_động bình_thường của cơ_sở sang tình_trạng khẩn_cấp và phương_pháp thực_hiện chuyển_đổi không làm giảm tính_năng an_toàn của cơ_sở , không ảnh_hưởng tới khả_năng tuân_thủ các quy_trình vận_hành an_toàn và thực_hiện các hành_động giảm_thiểu hậu_quả của nhân_viên vận_hành ; 
+
+b ) Quy_định rõ trách_nhiệm của các cá_nhân liên_quan tới quá_trình chuyển_đổi được nêu tại Điểm a Khoản 2 của Điều này . 
+
+3 . Người đứng đầu_cơ_sở_thuộc nhóm nguy_cơ I , II có trách_nhiệm chuẩn_bị sẵn_sàng cho việc : 
+
+a ) Phối_hợp giữa các lực_lượng ứng_phó sự_cố trong cơ_sở và tổ_chức ứng_phó sự_cố ngoài cơ_sở ; 
+
+b ) Phối_hợp chặt_chẽ việc tổ_chức ứng_phó sự_cố với kế_hoạch ứng_phó sự_cố cấp tỉnh trong vùng UPZ và PAZ . 
+
+Điều 8 .  Công_tác chuẩn_bị đối_với việc xác_nhận sự_cố , thông_báo và khởi_động hệ_thống ứng_phó sự_cố 
+
+a ) Thiết_lập cơ_chế tiếp_nhận và lý thông_tin tương_ứng ; 
+
+b ) Thiết_lập đầu_mối tiếp_nhận và xử_lý thông_tin hoạt_động liên_tục 24 giờ/7 ngày ( 24/7 ) cho việc tiếp_nhận thông_tin về sự_cố , yêu_cầu trợ_giúp và khuyến_cáo biện_pháp ứng_phó ban_đầu ; 
+
+c ) Tổ_chức đào_tạo nhân_viên bức_xạ và nhân_viên ứng_phó có khả_năng nhận_biết các dấu_hiệu sự_cố tiềm_ẩn và đưa ra thông_báo thích_hợp , cảnh_báo kịp_thời khi sự_cố xảy ra ; 
+
+d ) Tổ_chức đào_tạo lực_lượng ứng_phó ban_đầu có khả_năng nhận_biết các dấu_hiệu cảnh_báo bức_xạ và đưa ra thông_báo thích_hợp , cảnh_báo kịp_thời khi sự_cố xảy ra . 
+
+2 . Ban chỉ_huy các cấp căn_cứ vào mức báo_động được quy_định trong Phụ_lục III của Thông_tư này , các yêu_cầu về thiết_kế , có trách_nhiệm thiết_lập hệ_thống phát_hiện , nhận_dạng , phân_loại , thông_báo và khởi_động ứng_phó sự_cố phù_hợp với quy_định pháp_luật . 
+
+3 . Trong kế_hoạch ứng_phó sự_cố cấp quốc_gia phải quy_định chức_năng nhiệm_vụ của tổ_chức , cá_nhân chịu trách_nhiệm tiếp_nhận thông_tin về sự_cố , xử_lý thông_tin , khởi_động hệ_thống ứng_phó sự_cố , tuyên_bố tình_trạng khẩn_cấp ;  thông_báo và yêu_cầu trợ_giúp đối_với Cơ_quan năng_lượng nguyên_tử quốc_tế và các quốc_gia khác theo Công_ước thông_báo sớm về sự_cố hạt_nhân và Công_ước trợ_giúp khi xảy ra sự_cố hạt_nhân hoặc sự_cố bức_xạ . 
+
+Điều 9 .  Công_tác chuẩn_bị cho việc giảm_thiểu hậu_quả 
+
+1 . Đối_với nhóm nguy_cơ IV , Ban chỉ_huy có trách_nhiệm : 
+
+a ) Tư_vấn kỹ_thuật , cung_cấp lực_lượng hỗ_trợ bảo_vệ chống bức_xạ cho người tham_gia ứng_phó sự_cố và lực_lượng ứng_phó ban_đầu ; 
+
+b ) Tổ_chức đào_tạo nhân_viên bức_xạ về các biện_pháp giảm_thiểu hậu_quả tiềm_tàng của sự_cố , bảo_vệ nhân_viên và công_chúng xung_quanh khu_vực xảy ra sự_cố . 
+
+2 . Ban chỉ_huy kiểm_tra và chỉ_đạo việc tổ_chức đào_tạo lực_lượng ứng_phó ban_đầu về các hành_động ứng_phó kịp_thời đối_với sự_cố tiềm_tàng hoặc sự_cố đang xảy ra liên_quan tới vận_chuyển chất phóng_xạ . 
+
+3 . Cơ_sở sử_dụng nguồn phóng_xạ thuộc nhóm 1 và nhóm 2 theo " Quy_chuẩn kỹ_thuật quốc_gia về an_toàn bức_xạ-phân nhóm và phân_loại nguồn phóng_xạ "-QCVN 6 : 2010/BKHCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 24/2010/TT-BKHCN ngày 29 tháng 12 năm 2010 </TT> của Bộ_trưởng Bộ Khoa_học và Công_nghệ ( sau đây gọi tắt là QCVN 6 : 2010/BKHCN ) phải thiết_lập mối quan_hệ và phương_thức liên_lạc kịp_thời với tổ_chức đánh_giá phóng_xạ hoặc chuyên_gia_bảo_vệ chống bức_xạ theo quy_định trong kế_hoạch ứng_phó sự_cố khi xảy ra sự_cố nhằm giảm_thiểu mọi hậu_quả .
+4 . Cơ_sở_thuộc nhóm nguy_cơ I , II và III có trách_nhiệm chuẩn_bị sẵn_sàng thực_hiện các hành_động giảm_thiểu hậu_quả nhằm đạt được các mục_tiêu sau : 
+
+a ) Ngăn_ngừa sự_cố leo_thang ; 
+
+b ) Đưa cơ_sở trở_lại trạng_thái an_toàn ; 
+
+c ) Giảm_khả_năng phát_tán chất phóng_xạ ; 
+
+d ) Giảm_khả_năng bị chiếu_xạ ; 
+
+đ ) Cung_cấp kịp_thời hỗ_trợ kỹ_thuật cho nhân_viên vận_hành ; 
+
+e ) Cung_cấp kịp_thời các đội ứng_phó khẩn_cấp ; 
+
+g ) Chuẩn_bị sẵn_sàng cho việc tiếp_nhận hỗ_trợ từ các tổ_chức tham_gia ứng_phó sự_cố cấp tỉnh hoặc cấp quốc_gia . 
+
+5 . Tổ_chức , cá_nhân tham_gia xây_dựng Kế_hoạch ứng_phó sự_cố theo quy_định tại Khoản 5 Điều 83 <L rel="Reference"> Luật năng_lượng nguyên_tử </L> có trách_nhiệm xây_dựng nguồn_lực để thực_hiện yêu_cầu tại Khoản 3 Điều 19 của Thông_tư này .
+Điều 10 .  Công_tác chuẩn_bị cho việc tiến_hành các hành_động bảo_vệ khẩn_cấp 
+
+1 . Ban chỉ_huy các cấp có trách_nhiệm thông_báo cho lực_lượng ứng_phó ban_đầu về việc thực_hiện ngay các biện_pháp cứu người và ngăn_chặn xảy ra các tổn_thương nghiêm_trọng khi có các dấu_hiệu hoặc biểu_hiện khả_năng tồn_tại chất phóng_xạ tại hiện_trường . 
+
+2 . Cơ_sở_thuộc nhóm nguy_cơ I và II có trách_nhiệm chuẩn_bị sẵn_sàng cho việc ra quyết_định và thực_hiện các hành_động bảo_vệ khẩn_cấp trong cơ_sở .  Việc chuẩn_bị này bao_gồm : 
+
+a ) Mô_tả các đặc_trưng kỹ_thuật của vùng ứng_phó khẩn_cấp ( UPZ đối_với cơ_sở_thuộc nhóm nguy_cơ I và PAZ đối_với cơ_sở_thuộc nhóm nguy_cơ I , II ) ; 
+
+b ) Xây_dựng quy_trình ( căn_cứ trên mức báo_động , điều_kiện thực_tế trong và xung_quanh cơ_sở ) cho việc đưa ra khuyến_cáo thực_hiện các hành_động bảo_vệ khẩn_cấp ngoài cơ_sở ; 
+
+c ) Quy_định người có trách_nhiệm và quyền_hạn trong việc cung_cấp kịp_thời khuyến_cáo thực_hiện các hành_động bảo_vệ khẩn_cấp ngoài cơ_sở tới các cơ_quan có thẩm_quyền được quy_định trong Kế_hoạch ứng_phó sự_cố các cấp ; 
+
+d ) Quy_định việc thông_báo kịp_thời tới cơ_quan có thẩm_quyền cho việc thực_hiện các hành_động bảo_vệ khẩn_cấp trong vùng PAZ và UPZ theo Phụ_lục VI của Thông_tư này . 
+
+3 . Cơ_sở_thuộc nhóm nguy_cơ I , II và III có trách_nhiệm bảo_đảm an_toàn cho tất_cả cá_nhân trong cơ_sở khi xảy ra sự_cố , bao_gồm : 
+
+a ) Thông_báo sự_cố tới tất_cả cá_nhân trong cơ_sở ; 
+
+b ) Thống_kê tất_cả cá_nhân trong cơ_sở ; 
+
+c ) Xác_định và tìm_kiếm những người mất_tích ; 
+
+d ) Thực_hiện các hành_động bảo_vệ khẩn_cấp ; 
+
+đ ) Thực_hiện sơ_cứu kịp_thời . 
+
+4 . Ban chỉ_huy cấp tỉnh nơi có khu_vực PAZ và UPZ chuẩn_bị và phối_hợp với lực_lượng ứng_phó khác thực_hiện các hành_động bảo_vệ khẩn_cấp ngoài cơ_sở như sau : 
+
+a ) Bảo_vệ nhân_viên ứng_phó ; 
+
+b ) Thông_báo tới công_chúng trong khu_vực PAZ và UPZ theo quy_định trong kế_hoạch ứng_phó sự_cố được phê_duyệt ; 
+
+c ) Thực_hiện các hành_động bảo_vệ khẩn_cấp ; 
+
+d ) Bảo_vệ nguồn cung_cấp thực_phẩm và nước ; 
+
+đ ) Yêu_cầu hạn_chế tiêu_thụ thực_phẩm trong khu_vực ; 
+
+e ) Kiểm_tra và tẩy xạ cho người sơ_tán ; 
+
+g ) Chăm_sóc người sơ_tán và kiểm_soát ra vào khu_vực . 
+
+Điều 11 .  Công_tác chuẩn_bị cho việc tiến_hành cung_cấp thông_tin 
+
+1 . Cơ_sở_thuộc nhóm nguy_cơ I và II chuẩn_bị sẵn_sàng cho việc cung_cấp thông_tin về sự_cố tới cơ_quan có thẩm_quyền được quy_định trong kế_hoạch ứng_phó sự_cố .  Thông_tin bao_gồm : 
+
+a ) Tình_trạng nguy_hiểm hiện_tại ; 
+
+b ) Cách_thức cảnh_báo , thông_báo và các hành_động người dân cần thực_hiện khi xảy ra sự_cố . 
+
+2 . Ban chỉ_huy các cấp có trách_nhiệm : 
+
+a ) Quy_định cơ_quan , tổ_chức , cá_nhân có thẩm_quyền thông_báo về sự_cố , các biện_pháp can_thiệp cần áp_dụng và các thông_tin liên_quan khác tới đối_tượng thích_hợp ; 
+
+b ) Xây_dựng cơ_sở hạ_tầng cho việc cung_cấp thông_tin như phương_tiện thông_tin liên_lạc , phương_tiện dự_phòng . 
+
+Điều 12 .  Công_tác chuẩn_bị cho việc đánh_giá mức báo_động 
+
+1 . Cơ_sở_thuộc nhóm nguy_cơ I , II và III có trách_nhiệm chuẩn_bị ( nhân_lực , thiết_bị , phương_tiện , quy_trình ) cho việc đánh_giá kịp_thời : 
+
+a ) Các điều_kiện bất_thường trong cơ_sở ; 
+
+b ) Tình_huống chiếu_xạ hoặc phát_tán chất phóng_xạ ; 
+
+c ) Tình_trạng bức_xạ trong và ngoài cơ_sở ; 
+
+d ) Mọi tình_huống chiếu_xạ tiềm_năng hoặc thực_tế đối_với công_chúng . 
+
+2 . Cơ_sở_thuộc nhóm nguy_cơ I , II và Ban chỉ_huy các cấp có trách_nhiệm chuẩn_bị cho việc : 
+
+a ) Đánh_giá nhiễm bẩn phóng_xạ , phát_tán chất phóng_xạ , liều bức_xạ nhằm đưa ra quyết_định thực_hiện các hành_động bảo_vệ khẩn_cấp trong vùng PAZ và UPZ ; 
+
+b ) Có nguồn nhân_lực được đào_tạo và trang_thiết_bị cho việc thực_hiện quy_định tại Điểm a Khoản 2 của Điều này ; 
+
+c ) Lưu_giữ các thông_tin liên_quan đến việc đánh_giá mức báo_động để phục_vụ công_tác ứng_phó sự_cố . 
+
+3 . Cơ_sở_thuộc nhóm nguy_cơ IV có trách_nhiệm chuẩn_bị cho việc : 
+
+a ) Xác_định quy_mô và mức_độ của tình_huống chiếu_xạ hoặc nhiễm bẩn phóng_xạ bất_thường ; 
+
+b ) Đề_xuất các hành_động giảm_thiểu và bảo_vệ ngay lập_tức trong khu_vực xảy ra sự_cố ; 
+
+c ) Xác_định các cá_nhân trong công_chúng có khả_năng bị chiếu_xạ ; 
+
+d ) Thông_báo mức_độ nguy_hiểm và khuyến_cáo các hành_động bảo_vệ tới cơ_quan có thẩm_quyền . 
+
+Điều 13 .  Công_tác chuẩn_bị cho quản_lý y_tế trong ứng_phó sự_cố 
+
+1 . Lực_lượng y_tế tham_gia ứng_phó sự_cố phải được đào_tạo về : 
+
+a ) An_toàn bức_xạ ; 
+
+b ) Triệu_chứng lâm_sàng do chiếu_xạ gây ra ; 
+
+c ) Quy_trình thông_báo và quy_trình sơ_cứu , điều_trị nạn_nhân trong sự_cố bức_xạ , hạt_nhân . 
+
+2 . Cơ_sở_thuộc nhóm nguy_cơ I , II và III chuẩn_bị sẵn_sàng cho việc điều_trị số_lượng nhất_định nhân_viên bị chiếu_xạ quá liều hoặc nhiễm bẩn phóng_xạ .  Việc điều_trị bao_gồm sơ_cứu , đánh_giá liều , vận_chuyển và điều_trị y_tế ban_đầu đối_với bệnh_nhân nhiễm bẩn phóng_xạ hoặc bị chiếu_xạ liều cao tại bệnh_viện địa_phương . 
+
+3 . Ban chỉ_huy các cấp đối_với khu_vực UPZ , PAZ của cơ_sở nhóm nguy_cơ phải xây_dựng kế_hoạch phân_loại và chuyển những người bị chiếu_xạ quá liều đến các bệnh_viện chuyên_ngành . 
+
+4 . Lực_lượng y_tế được quy_định trong kế_hoạch ứng_phó sự_cố có trách_nhiệm chuẩn_bị : 
+
+a ) Nguồn nhân_lực , trang_thiết_bị cấp_cứu và điều_trị ; 
+
+b ) Phác_đồ điều_trị thích_hợp để chẩn_đoán sớm và điều_trị các bệnh phóng_xạ ; 
+
+c ) Hội_chẩn với các tổ_chức chuyên_ngành khác về các tổn_thương nghiêm_trọng , gây ảnh_hưởng tới sức_khỏe , tính_mạng của nhân_viên ứng_phó và công_chúng . 
+
+Điều 14 .  Công_tác chuẩn_bị cho việc hạn_chế tiêu_thụ lương_thực , thực_phẩm và bảo_vệ dài_hạn 
+
+1 . Cơ_quan_chức_năng có thẩm_quyền được quy_định trong kế_hoạch ứng_phó sự_cố các cấp trong khu_vực , hoạt_động thuộc nhóm nguy_cơ V có trách_nhiệm chuẩn_bị sẵn_sàng cho việc thực_hiện các biện_pháp bảo_vệ nông_nghiệp như hạn_chế tiêu_thụ , phân_phối và buôn_bán lương_thực thực_phẩm trong khu_vực có phát_tán chất phóng_xạ .  Việc chuẩn_bị bao_gồm : 
+
+a ) Xây_dựng các mức can_thiệp tác_nghiệp ; 
+
+b ) Phương_pháp đánh_giá các mức can_thiệp tác_nghiệp ; 
+
+c ) Bảo_đảm quan_trắc liên_tục nhiễm bẩn phóng_xạ đất tại khu_vực nông_nghiệp ; 
+
+d ) Bảo_đảm phân_tích mẫu nước và thực_phẩm ; 
+
+đ ) Các biện_pháp bảo_vệ nông_nghiệp . 
+
+2 . Cơ_quan_chức_năng có thẩm_quyền được quy_định trong kế_hoạch ứng_phó sự_cố các cấp có trách_nhiệm chuẩn_bị sẵn_sàng cho việc quản_lý chất_thải phóng_xạ , nhiễm bẩn phóng_xạ do sự_cố gây ra , bao_gồm lập kế_hoạch quan_trắc và phân_tích nhằm phân_loại mẫu nhiễm bẩn phóng_xạ , chất_thải phóng_xạ do sự_cố gây ra . 
+
+3 . Ban chỉ_huy cấp tỉnh phối_hợp với Ban chỉ_huy cấp quốc_gia chuẩn_bị sẵn_sàng cho việc sơ_tán tạm_thời đối_với những người trong và ngoài khu_vực UPZ ;  chuẩn_bị sẵn_sàng cho việc kiểm_tra nhiễm bẩn phóng_xạ đối_với phương_tiện vận_chuyển , người , tài_sản ra vào vùng ứng_phó khẩn_cấp ( bao_gồm cả trong và ngoài khu_vực UPZ ) . 
+
+Điều 15 .  Giảm_thiểu hậu_quả phi phóng_xạ của sự_cố và công_tác ứng_phó sự_cố 
+
+1 . Có luận_cứ và biện_pháp tối_ưu để thực_hiện các mức can_thiệp trong việc quản_lý lương_thực , thực_phẩm và biện_pháp phòng_ngừa lâu_dài . 
+
+2 . Xem_xét các tác_động đối_với phát_triển kinh_tế-xã_hội , ảnh_hưởng lâu_dài tới phúc_lợi xã_hội và ảnh_hưởng khác . 
+
+3 . Sẵn_sàng tư_vấn cho công_chúng . 
+
+4 . Kịp_thời giải_thích về các rủi_ro sức_khỏe và tư_vấn cho công_chúng về các hành_động bảo_vệ cần thực_hiện và các hành_động cần tránh thực_hiện để giảm_thiểu hậu_quả do sự_cố gây ra . 
+
+5 . Ngăn_chặn kịp_thời các hành_động quá_khích . 
+
+Điều 16 .  Công_tác chuẩn_bị cho việc kết_thúc các hoạt_động bảo_vệ , can_thiệp và phục_hồi môi_trường 
+
+1 . Ban chỉ_huy các cấp có trách_nhiệm lập kế_hoạch cho việc ra thông_báo kết_thúc hoạt_động ứng_phó sự_cố , bao_gồm xây_dựng các tiêu_chí cho việc kết_thúc các hành_động bảo_vệ , can_thiệp trên cơ_sở các mức can_thiệp và điều_kiện an_toàn bức_xạ tại hiện_trường . 
+
+2 . Ban chỉ_huy có trách_nhiệm lập kế_hoạch phục_hồi môi_trường trong đó quy_định rõ : 
+
+a ) Vai_trò và chức_năng của các tổ_chức liên_quan ; 
+
+b ) Phương_pháp cung_cấp thông_tin ; 
+
+c ) Phương_pháp đánh_giá hậu_quả phóng_xạ và phi phóng_xạ ; 
+
+d ) Phương_pháp thay_đổi các hành_động phục_hồi nhằm giảm_thiểu hậu_quả phóng_xạ và phi phóng_xạ của sự_cố ; 
+
+đ ) Các biện_pháp bảo_đảm an_toàn bức_xạ , kiểm_soát chiếu_xạ nghề_nghiệp . 
+
+Mục 2 
+
+YÊU_CẦU ĐỐI_VỚI HOẠT_ĐỘNG ỨNG_PHÓ SỰ_CỐ 
+
+Điều 17 .  Tổ_chức và quản_lý trong hoạt_động ứng_phó sự_cố 
+
+1 . Tổ_chức tham_gia hoạt_động ứng_phó sự_cố có trách_nhiệm : 
+
+a ) Bảo_đảm sự phối_hợp đồng_bộ giữa các tổ_chức , cá_nhân tham_gia ứng_phó sự_cố trong và ngoài cơ_sở ; 
+
+b ) Đánh_giá thông_tin cần_thiết để ban_hành các quyết_định huy_động nguồn_lực trong suốt quá_trình xảy ra sự_cố . 
+
+2 . Tổ_chức , cá_nhân tham_gia ứng_phó sự_cố có trách_nhiệm triển_khai ứng_phó sự_cố theo quy_định trong kế_hoạch ứng_phó sự_cố và bảo_đảm việc ứng_phó sự_cố phải được tiến_hành kịp_thời , quản_lý hiệu_quả không làm giảm tính_năng an_toàn của cơ_sở , không gây ra hậu_quả nghiêm_trọng hơn về an_toàn bức_xạ và hạt_nhân . 
+
+3 . Các tổ_chức ngoài cơ_sở tham_gia ứng_phó sự_cố trong vùng UPZ và PAZ của cơ_sở_thuộc nhóm nguy_cơ I và II có trách_nhiệm phối_hợp và hỗ_trợ nhau trong ứng_phó sự_cố . 
+
+Điều 18 .  Xác_nhận sự_cố , thông_báo và khởi_động hệ_thống ứng_phó 
+
+1 . Khi có thông_tin liên_quan tới sự_cố tại cơ_sở , cơ_sở phải xác_nhận sự_cố , xác_định_mức báo_động và thông_báo tới đầu_mối tiếp_nhận thông_tin được quy_định trong Kế_hoạch ứng_phó sự_cố cấp cơ_sở và cấp tỉnh . 
+
+2 . Khi có thông_tin liên_quan tới sự_cố tại địa_phương , đầu_mối tiếp_nhận và xử_lý thông_tin cấp tỉnh phải xác_nhận sự_cố , xác_định_mức báo_động và thông_báo tới các tổ_chức tham_gia ứng_phó . 
+
+3 . Quy_định về thời_gian xác_nhận sự_cố , thông_báo và khởi_động hệ_thống ứng_phó được trình_bày trong Phụ_lục VI của Thông_tư này . 
+
+4 . Trong trường_hợp sự_cố có khả_năng gây ảnh_hưởng tới quốc_gia khác , theo quy_định tại Khoản 8 Điều 84 <L rel="Reference"> Luật năng_lượng nguyên_tử </L> , cơ_quan được giao theo quy_định của pháp_luật có trách_nhiệm thông_báo sự_cố tới các tổ_chức quốc_tế hoặc thông_báo trực_tiếp tới quốc_gia bị ảnh_hưởng .
+Điều 19 .  Thực_hiện các biện_pháp giảm_thiểu hậu_quả 
+
+1 . Lực_lượng ứng_phó ban_đầu căn_cứ tình_hình_cụ_thể và mức can_thiệp để tiến_hành các biện_pháp can_thiệp phù_hợp nhằm giảm_thiểu hậu_quả sự_cố do nhóm nguy_cơ IV gây ra . 
+
+2 . Cơ_sở_thuộc nhóm nguy_cơ I , II , III và IV có trách_nhiệm thực_hiện kịp_thời các biện_pháp can_thiệp phù_hợp nhằm giảm_thiểu hậu_quả của sự_cố . 
+
+3 . Các nguồn_lực hỗ_trợ ứng_phó sự_cố các cấp , bao_gồm phương_tiện kỹ_thuật , thông_tin liên_lạc , thuốc dự_phòng , địa_điểm sơ_tán và các nhu_yếu_phẩm khác phải sẵn_sàng cho việc hỗ_trợ ứng_phó sự_cố đối_với các cơ_sở sự_cố thuộc nhóm nguy_cơ I , II và III . 
+
+Điều 20 .  Thực_hiện các biện_pháp bảo_vệ khẩn_cấp 
+
+1 . Ưu_tiên thực_hiện tất_cả biện_pháp thích_hợp để cứu người . 
+
+2 . Đối_với sự_cố hạt_nhân , thực_hiện các biện_pháp bảo_vệ khẩn_cấp như ẩn_náu , sơ_tán , phát thuốc KI nhằm giảm liều bức_xạ và ngăn_ngừa xảy ra các hiệu_ứng sinh_học tất_định ;  đối_với sự_cố bức_xạ , thực_hiện các biện_pháp bảo_vệ chống bức_xạ thích_hợp . 
+
+3 . Thay_đổi các hành_động bảo_vệ khẩn_cấp phù_hợp với diễn_biến sự_cố dựa trên thông_tin có được từ sự_cố . 
+
+4 . Chấm_dứt hành_động bảo_vệ khi hành_động đó không còn phù_hợp . 
+
+Điều 21 .  Cung_cấp thông_tin và hướng_dẫn cho công_chúng 
+
+1 . Căn_cứ trên mức báo_động , điều_kiện cụ_thể và các số_liệu quan_trắc tại hiện_trường đưa ra cảnh_báo kịp_thời và hướng_dẫn hành_động bảo_vệ cho công_chúng theo thẩm_quyền . 
+
+2 . Cung_cấp thông_tin chính_thức nhằm hạn_chế việc phát_tán thông_tin sai_lệch , thiếu chính_xác . 
+
+Điều 22 .  Bảo_vệ nhân_viên ứng_phó 
+
+Tổ_chức , cá_nhân tham_gia chuẩn_bị ứng_phó và hoạt_động ứng_phó sự_cố có trách_nhiệm thực_hiện các biện_pháp bảo_vệ nhân_viên , kiểm_soát liều theo quy_trình đã được xây_dựng trong Kế_hoạch ứng_phó sự_cố và theo quy_định tại <TT rel="Reference"> Thông_tư số 19/2012/TT-BKHCN ngày 08 tháng 11 năm 2012 </TT> của Bộ_trưởng Bộ Khoa_học và Công_nghệ quy_định về kiểm_soát và bảo_đảm an_toàn bức_xạ trong chiếu_xạ nghề_nghiệp và chiếu_xạ công_chúng .
+Điều 23 .  Đánh_giá mức báo_động 
+
+1 . Căn_cứ vào quy_định tại Phụ_lục III của Thông_tư này và các kết_quả đánh_giá , xác_định mức_độ nghiêm_trọng và khả_năng gây ra hậu_quả của sự_cố trong suốt quá_trình_diễn ra sự_cố để áp_dụng mức báo_động phù_hợp . 
+
+2 . Tiến_hành quan_trắc bức_xạ và phân_tích mẫu môi_trường nhằm xác_định kịp_thời các mối nguy_hiểm_tiềm_tàng và thay_đổi chiến_lược ứng_phó . 
+
+3 . Cung_cấp thông_tin kịp_thời tới các tổ_chức ứng_phó về tình_trạng sự_cố , đánh_giá sự_cố , hành_động bảo_vệ được khuyến_cáo áp_dụng . 
+
+Điều 24 .  Quản_lý y_tế trong ứng_phó sự_cố 
+
+1 . Tổ_chức y_tế được giao nhiệm_vụ trong kế_hoạch ứng_phó sự_cố có trách_nhiệm tiến_hành các biện_pháp sơ cứu ban_đầu và thông_báo tới đầu_mối tiếp_nhận thông_tin được quy_định trong kế_hoạch ứng_phó sự_cố khi phát_hiện thấy các biểu_hiện bệnh_lý_do bức_xạ gây ra ;  phát KI cho đối_tượng thích_hợp căn_cứ trên các mức can_thiệp . 
+
+Tổ_chức , cá_nhân khi phát_hiện thấy các biểu_hiện bệnh_lý_do bức_xạ gây ra có trách_nhiệm thông_báo tới cơ_quan tiếp_nhận thông_tin được quy_định trong kế_hoạch ứng_phó sự_cố . 
+
+2 . Cá_nhân bị chiếu_xạ và bị nhiễm bẩn phóng_xạ phải được điều_trị tại các bệnh_viện chuyên_ngành . 
+
+3 . Tổ_chức y_tế được giao nhiệm_vụ trong kế_hoạch ứng_phó sự_cố có trách_nhiệm đưa ra các biện_pháp đánh_giá việc tăng tỉ_lệ ung_thư đối_với nhân_viên ứng_phó và công_chúng ;  đưa ra các biện_pháp điều_trị thích_hợp khi cần_thiết . 
+
+Điều 25 .  Hạn_chế tiêu_thụ lương_thực , thực_phẩm và bảo_vệ dài_hạn 
+
+1 . Ban chỉ_huy cấp tỉnh và cấp quốc_gia có trách_nhiệm thực_hiện các biện_pháp bảo_vệ , hạn_chế tiêu_thụ lương_thực , thực_phẩm và bảo_vệ dài_hạn phù_hợp với quy_định trong Phụ_lục II của Thông_tư này . 
+
+2 . Ban chỉ_huy các cấp có trách_nhiệm tổ_chức việc quản_lý chất_thải phóng_xạ và xử_lý nhiễm bẩn phóng_xạ do sự_cố gây ra . 
+
+Điều 26 .  Chấm_dứt các hành_động bảo_vệ , can_thiệp , thông_báo mức sự_cố và phục_hồi môi_trường 
+
+a ) Xác_định thời_điểm chấm_dứt các hành_động bảo_vệ , can_thiệp và thông_báo tới công_chúng theo thẩm_quyền ; 
+
+b ) Đánh_giá mức sự_cố theo quy_định tại Khoản 3 Điều 82 <L rel="Reference"> Luật năng_lượng nguyên_tử </L> và thông_báo tới công_chúng theo thẩm_quyền .
+2 . Ban chỉ_huy các cấp có trách_nhiệm tổ_chức việc đánh_giá liều chiếu_xạ nghề_nghiệp cho nhân_viên tiến_hành hoạt_động phục_hồi môi_trường khi kết_thúc quá_trình phục_hồi . 
+
+3 . Việc phục_hồi môi_trường được kết_thúc khi các điều_kiện sau được đáp_ứng : 
+
+a ) Mức liều hiệu_dụng tiềm_năng không quá 10 mSv/năm do môi_trường bị nhiễm_xạ gây ra ; 
+
+b ) Đã áp_dụng các biện_pháp phục_hồi trên nguyên_tắc giảm thấp nhất có_thể đạt được một_cách hợp_lý ; 
+
+c ) Có luận_cứ cho thấy nếu tiếp_tục áp_dụng hành_động phục_hồi thì lợi_ích thu được nhỏ hơn so với chi_phí để thực_hiện các hành_động phục_hồi . 
+
+4 . Ban chỉ_huy các cấp có trách_nhiệm quyết_định việc hủy_bỏ các biện_pháp hạn_chế , can_thiệp , phục_hồi căn_cứ trên quy_định của quốc_gia và quốc_tế . 
+
+5 . Trong trường_hợp cần_thiết , Bộ Khoa_học và Công_nghệ chủ_trì phối_hợp với các Bộ có liên_quan và Ban chỉ_huy quy_định_mức liều tham_chiếu để chấm_dứt hành_động phục_hồi . 
+
+Điều 27 .  Kế_hoạch ứng_phó sự_cố cấp cơ_sở_thuộc nhóm nguy_cơ I , II và III 
+
+1 . Quy_định chung : 
+
+a ) Trình_bày phạm_vi điều_chỉnh và đối_tượng áp_dụng của bản kế_hoạch ứng_phó sự_cố ; 
+
+b ) Giải_thích khái_niệm , thuật_ngữ được dùng trong kế_hoạch ứng_phó sự_cố ; 
+
+c ) Trình_bày thông_tin liên_quan tới danh_sách , địa_chỉ , số điện_thoại liên_lạc của tổ_chức , cá_nhân tham_gia ứng_phó sự_cố và tổ_chức , cá_nhân hỗ_trợ ; 
+
+d ) Liệt_kê các kế_hoạch ứng_phó sự_cố khác có liên_quan như ứng_phó sự_cố đối_với thiên_tai , phòng cháy chữa_cháy có hiệu_lực trên địa_bàn tỉnh , thành_phố trực_thuộc trung_ương . 
+
+2 . Căn_cứ pháp_lý để lập kế_hoạch ứng_phó sự_cố : 
+
+Trình_bày danh_mục các văn_bản quy_phạm pháp_luật của cơ_quan nhà_nước có thẩm_quyền ở trung_ương và địa_phương ban_hành có liên_quan và trích_dẫn nội_dung chính của các văn_bản đó . 
+
+3 . Phân_tích nguy_cơ gây ra sự_cố tại cơ_sở : 
+
+a ) Căn_cứ vào nhóm nguy_cơ quy_định tại Khoản 1 Điều 4 của Thông_tư này , phân_tích các nguy_cơ , các tình_huống và hậu_quả lớn nhất do sự_cố gây ra ; 
+
+b ) Phân_tích các nguy_cơ liên_quan tới mất an_ninh đối_với cơ_sở hoặc nguồn phóng_xạ . 
+
+4 . Cơ_cấu tổ_chức và trách_nhiệm của tổ_chức , cá_nhân tham_gia ứng_phó sự_cố : 
+
+a ) Quy_định rõ cơ_cấu tổ_chức và sơ_đồ tổ_chức ứng_phó sự_cố của cơ_sở ; 
+
+b ) Nêu rõ trách_nhiệm của từng tổ_chức , cá_nhân trong cơ_sở liên_quan tới chuẩn_bị và ứng_phó sự_cố , bao_gồm người đứng đầu_cơ_sở ;  Ban chỉ_huy ứng_phó sự_cố ;  thành_viên trong Ban chỉ_huy ;  phòng_ban , cá_nhân tham_gia ứng_phó sự_cố ;  phòng_ban , cá_nhân khác tham_gia hỗ_trợ ứng_phó sự_cố . 
+
+Trách_nhiệm của các tổ_chức , cá_nhân phải cụ_thể hóa các yêu_cầu tương_ứng được quy_định tại Điều 5 ;  Điều 6 ;  Điều 7 ;  Khoản 1 và Khoản 2 Điều 8 ;  Khoản 2 , Khoản 3 và Khoản 4 Điều 9 ;  Khoản 1 , Khoản 2 và Khoản 3 Điều 10 ;  Điều 11 ;  Khoản 1 và Khoản 2 Điều 12 ;  Khoản 2 Điều 13 và Điều 16 của Thông_tư này . 
+
+5 . Công_tác chuẩn_bị và sẵn_sàng ứng_phó sự_cố : 
+
+a ) Nêu rõ nhân_lực , trang_thiết_bị của cơ_sở nhằm bảo_đảm thực_hiện trách_nhiệm được quy_định trong Điểm b Khoản 4 của Điều này ; 
+
+b ) Xác_định vùng PAZ và UPZ đối_với cơ_sở_thuộc nhóm nguy_cơ I hoặc II theo quy_định tại Phụ_lục IV của Thông_tư này ; 
+
+c ) Xây_dựng kế_hoạch đào_tạo , diễn_tập ( kịch_bản , thời_gian , tần_suất ) cho tổ_chức , cá_nhân tham_gia ứng_phó sự_cố ; 
+
+d ) Quy_định việc cập_nhật , bổ_sung kế_hoạch ứng_phó sự_cố . 
+
+6 . Hoạt_động ứng_phó sự_cố : 
+
+a ) Áp_dụng các nguyên_tắc ứng_phó sự_cố theo quy_định tại Điều 3 của Thông_tư này vào hoạt_động ứng_phó sự_cố ; 
+
+b ) Xây_dựng cơ_chế điều_hành trong quá_trình ứng_phó sự_cố theo quy_định tại Điều 17 của Thông_tư này ; 
+
+c ) Xây_dựng phương_án huy_động nhân_lực và trang_thiết_bị ứng_phó phù_hợp với mức báo_động , đáp_ứng được quy_định tại Khoản 1 và Khoản 3 Điều 18 của Thông_tư này ; 
+
+d ) Thiết_lập các giai_đoạn ứng_phó tương_ứng với quy_định trong Phụ_lục VII của Thông_tư này , tiêu_chí cần đạt được của từng giai_đoạn và các quy_trình , hướng_dẫn cụ_thể để đạt được các tiêu_chí đó ;  các giai_đoạn ứng_phó sự_cố phải đáp_ứng các yêu_cầu được quy_định tại Khoản 2 Điều 19 ;  Điều 20 ;  Điều 21 ;  Điều 22 ;  Điều 23 ;  Khoản 1 và Khoản 2 Điều 24 ;  Điều 25 của Thông_tư này ; 
+
+đ ) Thiết_lập hệ_thống thông_tin nội_bộ , yêu_cầu trợ_giúp và thông_báo cho các cá_nhân trong vùng PAZ và UPZ . 
+
+7 . Các phụ_lục kèm theo kế_hoạch ứng_phó sự_cố : 
+
+a ) Các tài_liệu phục_vụ cho công_tác ứng_phó sự_cố như : bản_đồ , mặt_bằng cơ_sở , mẫu nội_dung thông_báo và tiếp_nhận thông_tin theo quy_định tại Phụ_lục VIII của Thông_tư này ;  xác_định mức_độ báo_động và mức_độ ứng_phó ;  mức_độ điều_động nhân_lực và trang_thiết_bị ;  bổ_nhiệm người chỉ_huy hiện_trường ; 
+
+b ) Một_số chỉ_dẫn và hướng_dẫn cụ_thể về cung_cấp thông_tin trong ứng_phó sự_cố ;  hướng_dẫn bảo_đảm an_toàn cho nhân_viên ứng_phó sự_cố và công_chúng khi sự_cố xảy ra ;  khuyến_cáo về khoanh vùng an_toàn cho sự_cố theo quy_định tại Phụ_lục VIII của Thông_tư này ; 
+
+c ) Căn_cứ trên quy_định về phục_hồi môi_trường tại Điều 26 của Thông_tư này , xây_dựng quy_trình đưa ra quyết_định kết_thúc hoạt_động ứng_phó , mục_tiêu cần đạt được khi lập kế_hoạch khôi_phục dài_hạn ; 
+
+d ) Căn_cứ theo Khoản 3 Điều 27 của Thông_tư này , xây_dựng kịch_bản và quy_trình ứng_phó cụ_thể cho các sự_cố ; 
+
+đ ) Xây_dựng các mẫu báo_cáo ; 
+
+e ) Xây_dựng nhật_ký ứng_phó sự_cố . 
+
+Điều 28 .  Kế_hoạch ứng_phó sự_cố cấp cơ_sở_thuộc nhóm nguy_cơ IV 
+
+1 . Cơ_sở tiến_hành công_việc bức_xạ sử_dụng nguồn phóng_xạ trong chụp ảnh phóng_xạ công_nghiệp xây_dựng kế_hoạch ứng_phó sự_cố theo quy_định tại Điều 27 của Thông_tư này và cần điều_chỉnh cho phù_hợp với quy_mô , số_lượng và mức_độ nguy_hiểm của các nguồn bức_xạ . 
+
+2 . Cơ_sở tiến_hành công_việc bức_xạ sử_dụng nguồn phóng_xạ thuộc nhóm 2 ( trừ nguồn phóng_xạ trong chụp ảnh phóng_xạ công_nghiệp ) , nhóm 3 , nhóm 4 theo quy_định tại QCVN 6 : 2010/BKHCN , thiết_bị phát tia X trong chụp ảnh phóng_xạ công_nghiệp và các máy gia_tốc xây_dựng kế_hoạch ứng_phó sự_cố có cấu_trúc như sau : 
+
+a ) Căn_cứ pháp_lý theo quy_định tại Khoản 2 Điều 27 của Thông_tư này ; 
+
+b ) Phân_tích nguy_cơ xảy ra sự_cố tại cơ_sở theo quy_định tại Khoản 3 Điều 27 của Thông_tư này ; 
+
+c ) Nêu rõ cơ_cấu tổ_chức và trách_nhiệm của các bộ_phận , cá_nhân trong cơ_sở liên_quan đến việc chuẩn_bị và ứng_phó sự_cố , trong đó nêu rõ quy_định về cung_cấp nguồn_lực phục_vụ công_tác ứng_phó của cơ_sở . 
+
+Trách_nhiệm của các tổ_chức , cá_nhân này phải cụ_thể hóa các yêu_cầu về chuẩn_bị ứng_phó sự_cố tương_ứng được quy_định tại Điều 5 ;  Khoản 1 Điều 7 ;  Khoản 1 Điều 8 ;  Khoản 1 và Khoản 2 Điều 9 ;  Khoản 3 Điều 12 ;  Điều 16 của Thông_tư này . 
+
+Trách_nhiệm của các tổ_chức , cá_nhân này phải cụ_thể hóa các yêu_cầu về ứng_phó sự_cố tương_ứng được quy_định tại Khoản 1 và Khoản 3 Điều 18 ;  Khoản 1 và Khoản 2 Điều 19 ;  Khoản 1 , Khoản 3 và Khoản 4 Điều 20 ;  Điều 22 ;  Khoản 1 Điều 23 ;  Khoản 2 Điều 24 ;  Điều 26 của Thông_tư này . 
+
+d ) Căn_cứ theo Điểm b Khoản 2 của Điều này , xây_dựng một số kịch_bản ứng_phó đối_với một_số sự_cố như : sự_cố trong vận_chuyển nguồn , sự_cố rơi nguồn , sự_cố kẹt nguồn , sự_cố mất nguồn , chiếu quá liều ; 
+
+đ ) Quy_định về thông_báo , yêu_cầu trợ_giúp và báo_cáo với cơ_quan có thẩm_quyền theo quy_định của pháp_luật . 
+
+3 . Cơ_sở tiến_hành công_việc bức_xạ sử_dụng nguồn phóng_xạ thuộc nhóm 5 theo quy_định tại QCVN 6 : 2010/BKHCN xây_dựng kế_hoạch ứng_phó sự_cố có cấu_trúc như sau : phân_tích nguy_cơ , tình_huống liên_quan tới thất_lạc nguồn phóng_xạ , mất an_toàn liên_quan tới nguồn phóng_xạ , xây_dựng các kịch_bản ứng_phó sự_cố theo tình_huống đó , quy_định về trách_nhiệm báo_cáo khi xảy ra sự_cố . 
+
+4 . Cơ_sở sử_dụng thiết_bị X-quang chẩn_đoán y_tế và thiết_bị phát tia X khác với thiết_bị được quy_định trong Khoản 2 của Điều này xây_dựng kế_hoạch ứng_phó sự_cố có cấu_trúc như sau : 
+
+a ) Quy_định về trách_nhiệm báo_cáo khi nhân_viên bức_xạ , bệnh_nhân và các cá_nhân khác bị chiếu quá liều ; 
+
+b ) Quy_định nội_dung bản báo_cáo sự_cố ; 
+
+c ) Quy_định về trách_nhiệm phương_pháp đánh_giá liều và theo_dõi tình_trạng sức_khỏe của cá_nhân bị chiếu_xạ quá liều . 
+
+KẾ_HOẠCH ỨNG_PHÓ SỰ_CỐ CẤP TỈNH 
+
+Điều 29 .  Kế_hoạch ứng_phó sự_cố cấp tỉnh 
+
+1 . Quy_định chung theo quy_định tại Khoản 1 Điều 27 của Thông_tư này . 
+
+2 . Các căn_cứ pháp_lý theo quy_định tại Khoản 2 Điều 27 và bổ_sung căn_cứ pháp_lý cho việc huy_động , trợ_giúp về nhân_lực , tài_sản , phương_tiện và bồi_hoàn hao_tổn phục_vụ cho công_tác ứng_phó sự_cố . 
+
+3 . Phân_tích nguy_cơ gây ra sự_cố trên địa_bàn tỉnh : 
+
+b ) Phân_tích các nguy_cơ liên_quan tới mất an_ninh đối_với nguồn phóng_xạ trên địa_bàn tỉnh . 
+
+a ) Quy_định rõ cơ_cấu tổ_chức và trình_bày sơ_đồ tổ_chức ứng_phó sự_cố ; 
+
+b ) Quy_định chi_tiết trách_nhiệm của từng tổ_chức , cá_nhân theo các yêu_cầu của việc chuẩn_bị và ứng_phó sự_cố , cụ_thể : cơ_cấu và thành_phần của Ban chỉ_huy ứng_phó sự_cố ;  trách_nhiệm của Ban chỉ_huy ứng_phó sự_cố ;  trách_nhiệm của từng thành_viên trong Ban chỉ_huy ;  trách_nhiệm của Trưởng_Ban chỉ_huy ;  trách_nhiệm của tổ_chức tham_gia và trách_nhiệm của tổ_chức hỗ_trợ . 
+
+Trách_nhiệm của các tổ_chức , cá_nhân này phải cụ_thể hóa các yêu_cầu tương_ứng được quy_định tại Điều 5 ;  Điều 6 ;  Khoản 1 Điều 7 ;  Khoản 1 Điều 8 ;  Khoản 1 , Khoản 2 và Khoản 5 Điều 19 ;  Khoản 4 Điều 10 ;  Khoản 2 Điều 11 ;  Khoản 2 Điều 12 ;  Khoản 1 , Khoản 3 và Khoản 4 Điều 13 ;  Điều 14 ;  Điều 15 ;  Điều 16 của Thông_tư này . 
+
+a ) Nêu rõ quy_định về việc chuẩn_bị nguồn nhân_lực , trang_thiết_bị và nguồn kinh_phí của các tổ_chức tham_gia ứng_phó sự_cố nhằm bảo_đảm thực_hiện được trách_nhiệm được quy_định trong Điểm b Khoản 4 của Điều này ; 
+
+b ) Đối_với các tỉnh có nhóm nguy_cơ I hoặc II , phải xây_dựng các phương_án ứng_phó sự_cố , bảo_đảm cơ_sở vật_chất kỹ_thuật , phương_tiện và nguồn nhân_lực phục_vụ ứng_phó sự_cố tương_ứng cho vùng PAZ và UPZ ; 
+
+c ) Xây_dựng kế_hoạch đào_tạo , diễn_tập ( kịch_bản , thời_gian , tần_suất ) cho các tổ_chức , cá_nhân có trong kế_hoạch ứng_phó ; 
+
+d ) Quy_định về nơi làm_việc của Ban chỉ_huy ứng_phó sự_cố cấp tỉnh phù_hợp với điều_kiện cụ_thể của địa_phương ; 
+
+đ ) Quy_định về việc xem_xét , cập_nhật , bổ_sung kế_hoạch . 
+
+c ) Xây_dựng phương_án huy_động nhân_lực và trang_thiết_bị ứng_phó phù_hợp với mức báo_động , đáp_ứng được quy_định tại Khoản 2 và Khoản 3 Điều 18 của Thông_tư này ; 
+
+d ) Thiết_lập các giai_đoạn ứng_phó tương_ứng với quy_định trong Phụ_lục VIII của Thông_tư này , tiêu_chí cần đạt được của từng giai_đoạn và các quy_trình , hướng_dẫn cụ_thể để đạt được các tiêu_chí đó ;  các giai_đoạn ứng_phó sự_cố phải đáp_ứng các yêu_cầu được quy_định tại Khoản 3 Điều 19 ;  Điều 20 ;  Điều 21 ;  Điều 22 ;  Điều 23 ;  Điều 24 ;  Điều 25 ;  Điều 26 của Thông_tư này ; 
+
+đ ) Xây_dựng cách_thức , nội_dung thông_báo các thông_tin liên_quan tới tiến_trình ứng_phó sự_cố cho tổ_chức tham_gia ứng_phó sự_cố , phương_tiện thông_tin đại_chúng trong quá_trình ứng_phó sự_cố theo hướng_dẫn được quy_định trong Phụ_lục VIII của Thông_tư này ; 
+
+e ) Xây_dựng quy_định về thông_báo , trợ_giúp và yêu_cầu trợ_giúp tới các địa_phương khác có liên_quan trong ứng_phó sự_cố . 
+
+7 . Phụ_lục : 
+
+a ) Danh_sách và địa_chỉ liên_lạc chi_tiết của Ban chỉ_huy , tổ_chức , cá_nhân tham_gia ứng_phó sự_cố ; 
+
+b ) Tài_liệu phục_vụ cho công_tác ứng_phó sự_cố như : mẫu thông_báo và tiếp_nhận thông_tin ;  xác_định mức_độ báo_động và mức_độ điều_động lực_lượng ứng_phó ;  điều_động và bổ_nhiệm người chỉ_huy hiện_trường ; 
+
+c ) Một_số chỉ_dẫn và hướng_dẫn như : chỉ_dẫn cung_cấp thông_tin trong ứng_phó sự_cố ;  hướng_dẫn bảo_đảm an_toàn cho công_chúng và nhân_viên ứng_phó sự_cố khi sự_cố xảy ra ;  khuyến_cáo về khoanh vùng an_toàn cho sự_cố ; 
+
+d ) Căn_cứ theo quy_định về phục_hồi môi_trường tại Điều 26 của Thông_tư này , xây_dựng quy_trình đưa ra quyết_định kết_thúc hoạt_động ứng_phó , mục_tiêu cần đạt được khi lập kế_hoạch khôi_phục dài_hạn ; 
+
+đ ) Căn_cứ theo Khoản 3 Điều 29 của Thông_tư này , xây_dựng kịch_bản và quy_trình ứng_phó cụ_thể cho các sự_cố ; 
+
+e ) Xây_dựng các mẫu báo_cáo ; 
+
+g ) Xây_dựng nhật_ký ứng_phó sự_cố . 
+
+Mục 3 
+
+PHÊ_DUYỆT KẾ_HOẠCH ỨNG_PHÓ SỰ_CỐ 
+
+Điều 30 .  Hồ_sơ trình phê_duyệt kế_hoạch ứng_phó sự_cố 
+
+1 . Hồ_sơ kế_hoạch ứng_phó cấp cơ_sở gồm có : 
+
+- Công_văn đề_nghị phê_duyệt ; 
+
+- 03 bản kế_hoạch ứng_phó cấp cơ_sở được lập có cấu_trúc và nội_dung theo quy_định tại Thông_tư này ;  Bản kế_hoạch ứng_phó sự_cố phải có chữ_ký của người đứng đầu_cơ_sở và dấu của cơ_sở , có dấu giáp_lai các trang và có trang bìa cứng . 
+
+2 . Hồ_sơ kế_hoạch ứng_phó sự_cố cấp tỉnh gồm có : 
+
+- 04 bản Kế_hoạch ứng_phó sự_cố cấp tỉnh được lập có cấu_trúc và nội_dung theo quy_định tại Thông_tư này ;  Bản kế_hoạch ứng_phó sự_cố phải có chữ_ký và dấu của cấp có thẩm_quyền soạn_thảo , có dấu giáp_lai các trang và có trang bìa cứng . 
+
+Điều 31 .  Cơ_quan có thẩm_quyền phê_duyệt kế_hoạch ứng_phó sự_cố 
+
+1 . Cơ_quan có thẩm_quyền phê_duyệt kế_hoạch ứng_phó sự_cố cấp cơ_sở là cơ_quan có thẩm_quyền cấp giấy_phép tiến_hành công_việc bức_xạ quy_định tại Điều 23 <TT rel="Reference"> Thông_tư 08/2010/TT-BKHCN ngày 22 tháng 7 năm 2010 </TT> của Bộ_trưởng Bộ Khoa_học và Công_nghệ hướng_dẫn về việc khai_báo , cấp giấy_phép tiến_hành công_việc bức_xạ và cấp chứng_chỉ nhân_viên bức_xạ .
+2 . Thẩm_quyền phê_duyệt kế_hoạch ứng_phó sự_cố cấp tỉnh , cấp quốc_gia quy_định tại Khoản 5 Điều 83 <L rel="Reference"> Luật năng_lượng nguyên_tử </L> ; Bộ Khoa_học và Công_nghệ phê_duyệt kế_hoạch ứng_phó sự_cố nhà_máy_điện hạt_nhân khi thẩm_định báo_cáo phân_tích an_toàn trong giai_đoạn cấp phép xây_dựng và vận_hành .
+Điều 32 .  Trình_tự thủ_tục phê_duyệt kế_hoạch ứng_phó sự_cố 
+
+1 . Tổ_chức , cá_nhân đề_nghị phê_duyệt bản kế_hoạch ứng_phó sự_cố cấp cơ_sở phải nộp 01 bộ hồ_sơ theo quy_định tại Khoản 1 Điều 30 của Thông_tư này về cơ_quan có thẩm_quyền phê_duyệt theo quy_định .  Trong thời_gian 10 ngày làm_việc , kể từ ngày nhận đủ hồ_sơ , cơ_quan có thẩm_quyền có trách_nhiệm tiến_hành thẩm_định hồ_sơ , phê_duyệt kế_hoạch ứng_phó sự_cố nếu hồ_sơ đáp_ứng yêu_cầu .  Trường_hợp không đồng_ý phê_duyệt , cơ_quan có thẩm_quyền phê_duyệt phải trả_lời bằng văn_bản và nêu rõ lý_do . 
+
+2 . Ủy_an nhân_dân cấp tỉnh đề_nghị phê_duyệt kế_hoạch ứng_phó sự_cố cấp tỉnh phải nộp 01 hồ_sơ theo quy_định Khoản 2 Điều 30 của Thông_tư này về Bộ Khoa_học và Công_nghệ .  Trong thời_hạn 10 ngày làm_việc , kể từ ngày Bộ Khoa_học và Công_nghệ nhận đủ hồ_sơ , Bộ Khoa_học và Công_nghệ có trách_nhiệm thành_lập Hội_đồng thẩm_định kế_hoạch ứng_phó sự_cố cấp tỉnh .  Trong thời_hạn 60 ngày , sau khi có kết_quả thẩm_định của Hội_đồng thẩm_định , Bộ Khoa_học và Công_nghệ sẽ ra quyết_định phê_duyệt kế_hoạch ứng_phó sự_cố cấp tỉnh .  Trường_hợp Bộ Khoa_học và Công_nghệ không đồng_ý phê_duyệt , phải trả_lời bằng văn_bản và nêu rõ lý_do . 
+
+Điều 33 .  Điều_khoản chuyển_tiếp 
+
+1 . Kế_hoạch ứng_phó sự_cố đã được lập và phê_duyệt theo quy_định tại <TT rel="Reference"> Thông_tư số 24/2012/TT-BKHCN ngày 04 tháng 12 năm 2012 </TT> của Bộ_trưởng Bộ Khoa_học và Công_nghệ về việc hướng_dẫn lập và phê_duyệt kế_hoạch ứng_phó sự_cố bức_xạ , sự_cố hạt_nhân cấp cơ_sở và cấp tỉnh thì không phải làm thủ_tục phê_duyệt lại .
+2 . Kế_hoạch ứng_phó sự_cố đã được lập nhưng chưa được phê_duyệt trước ngày Thông_tư này có hiệu_lực thì phải chỉnh_sửa và nộp bổ_sung kế_hoạch ứng_phó sự_cố theo quy_định tại Thông_tư này . 
+
+Điều 34 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 24 tháng 11 năm 2014 . 
+
+2 . Thông_tư này thay_thế <TT rel="Replace"> Thông_tư số 24/2012/TT-BKHCN ngày 04 tháng 12 năm 2012 </TT> của Bộ_trưởng Bộ Khoa_học và Công_nghệ về việc hướng_dẫn lập và phê_duyệt kế_hoạch ứng_phó sự_cố bức_xạ , sự_cố hạt_nhân cấp cơ_sở và cấp tỉnh .
+3 . Trong quá_trình thực_hiện , nếu có vướng_mắc hoặc có vấn_đề mới phát_sinh , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Khoa_học và Công_nghệ để xem_xét sửa_đổi , bổ_sung cho phù_hợp ./. 

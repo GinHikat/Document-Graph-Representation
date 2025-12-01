@@ -1,0 +1,483 @@
+Thông tư Quy định nội dung, phương pháp, trình tự và thủ tục nghiên cứu phụ tải điện
+
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 189/2007/NĐ-CP ngày 27 tháng 12 năm 2007 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_Thương ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 44/2011/NĐ-CP ngày 14 tháng 6 năm 2011 </NĐ> của Chính_phủ sửa_đổi , bổ_sung Điều 3 <NĐ rel="Others"> Nghị_định số 189/2007/NĐ-CP ngày 27 tháng 12 năm 2007 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_Thương ;
+Căn_cứ <L rel="Pursuant"> Luật Điện_lực ngày 03 tháng 12 năm 2004 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 105/2005/NĐ-CP ngày 17 tháng 8 năm 2005 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Điện_lực </L> ;
+Căn_cứ kết_quả xây_dựng biểu_đồ phụ_tải , báo_cáo phân_tích biểu_đồ phụ_tải phải bao_gồm các nội_dung sau : 
+
+Căn_cứ kết_quả dự_báo_biểu_đồ phụ_tải , báo_cáo dự_báo_biểu_đồ phụ_tải phải bao_gồm các nội_dung sau : 
+
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định về nội_dung , phương_pháp , trình_tự và thủ_tục nghiên_cứu phụ_tải_điện của hệ_thống điện quốc_gia , hệ_thống điện vùng , miền phục_vụ cho mục_đích dự_báo nhu_cầu điện và xây_dựng cơ_cấu giá điện . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+1 . Tập_đoàn Điện_lực Việt_Nam . 
+
+2 . Tổng_công_ty điện_lực . 
+
+3 . Đơn_vị vận_hành hệ_thống điện và thị_trường điện . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Biểu_đồ phụ_tải bao_gồm các loại biểu_đồ phụ_tải thực của tháng , năm ;  biểu_đồ phụ_tải ngày điển_hình ( ngày làm_việc , ngày cuối tuần và ngày nghỉ lễ ) của tháng và năm . 
+
+2 . Bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải của tổng công_ty điện_lực là bộ dữ_liệu chứa thông_tin về số_liệu tiêu_thụ điện_năng của các mẫu phụ_tải , kết_quả tính_toán xây_dựng và dự_báo_biểu_đồ phụ_tải của tổng công_ty điện_lực . 
+
+3 . Bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải quốc_gia là bộ dữ_liệu chứa thông_tin về số_liệu tiêu_thụ điện_năng của các mẫu phụ_tải , kết_quả tính_toán xây_dựng và dự_báo_biểu_đồ phụ_tải của hệ_thống điện quốc_gia . 
+
+4 . Dải phụ_tải là tập_hợp các phụ_tải nằm trong cùng một dải công_suất hoặc điện_năng tiêu_thụ trong từng nhóm phụ_tải . 
+
+5 . Mẫu phụ_tải là phụ_tải_điện có chế_độ tiêu_thụ điện đặc_trưng cho một nhóm phụ_tải_điện , được tính_toán theo lý_thuyết xác_suất thống_kê với độ tin_cậy và sai_số biên tính_toán nằm trong phạm_vi cho phép . 
+
+6 . Ngày điển_hình là ngày được chọn có chế_độ tiêu_thụ điện điển_hình của phụ_tải_điện .  Ngày điển_hình bao_gồm ngày điển_hình của ngày làm_việc , ngày cuối tuần và ngày nghỉ lễ của tháng và năm . 
+
+7 . Nhóm phụ_tải là tập_hợp các phụ_tải dùng điện có đặc_tính tiêu_thụ điện_năng tương_đồng nhau , thuộc các thành_phần phụ_tải_điện , được quy_định chi_tiết tại Phụ_lục 1 của Thông_tư này . 
+
+8 . Phụ_tải phi dân_dụng là phụ_tải_điện thuộc các thành_phần phụ_tải Công_Nghiệp-Xây_dựng , Thương_nghiệp-Khách_sạn-Nhà_hàng , Nông-Lâm-Thủy_sản và Các hoạt_động khác . 
+
+9 . Phụ_tải dân_dụng là phụ_tải_điện thuộc thành_phần phụ_tải Sinh_hoạt dân_dụng . 
+
+10 .  Phụ_tải lớn là phụ_tải có quy_mô tiêu_thụ điện do Cục Điều_tiết điện_lực quy_định . 
+
+11 .  Phân nhóm phụ_tải là tập_hợp các phụ_tải dùng điện có đặc_tính tiêu_thụ điện_năng tương_đồng nhau , thuộc các nhóm phụ_tải_điện , được quy_định chi_tiết tại Phụ_lục 1 của Thông_tư này . 
+
+12 .  Thành_phần phụ_tải_điện là phụ_tải_điện được phân thành các nhóm trong cơ_cấu tiêu_thụ điện , bao_gồm các thành_phần Công_Nghiệp-Xây_dựng , Thương_nghiệp-Khách_sạn-Nhà_hàng , Nông-Lâm-Thủy_sản , Sinh_hoạt dân_dụng và Các hoạt_động khác . 
+
+Điều 4 .  Nội_dung nghiên_cứu phụ_tải_điện 
+
+1 . Thiết_kế chọn mẫu phụ_tải . 
+
+2 . Thu_thập , hiệu_chỉnh số_liệu tiêu_thụ điện_năng của mẫu phụ_tải . 
+
+3 . Xây_dựng biểu_đồ phụ_tải của nhóm phụ_tải và các thành_phần phụ_tải . 
+
+4 . Dự_báo_biểu_đồ phụ_tải . 
+
+Điều 5 .  Phương_pháp nghiên_cứu phụ_tải_điện 
+
+1 . Thu_thập số_liệu tiêu_thụ điện của mẫu phụ_tải để tổng_hợp xây_dựng biểu_đồ phụ_tải cho nhóm phụ_tải và thành_phần phụ_tải ( phương_pháp Bottom-up ) . 
+
+2 . Thu_thập số_liệu biểu_đồ phụ_tải quá_khứ của hệ_thống điện để hiệu_chỉnh biểu_đồ phụ_tải của các nhóm phụ_tải và thành_phần phụ_tải được xây_dựng từ phương_pháp nghiên_cứu phụ_tải từ dưới lên ;  các yếu_tố về phát_triển kinh_tế-xã_hội để dự_báo_biểu_đồ phụ_tải ( phương_pháp Top-down ) . 
+
+Điều 6 .  Trình_tự thiết_kế chọn mẫu phụ_tải phi dân_dụng 
+
+1 . Phân_tích và phân_loại phụ_tải phi dân_dụng . 
+
+2 . Xác_định biến mục_tiêu phục_vụ tính_toán chọn mẫu phụ_tải . 
+
+3 . Phân_tích , tách dải tiêu_thụ điện_năng . 
+
+4 . Tính_toán số_lượng mẫu phụ_tải . 
+
+5 . Lựa_chọn và phân_bổ mẫu phụ_tải phi dân_dụng cho các tổng công_ty điện_lực . 
+
+Điều 7 .  Phân_tích và phân_loại phụ_tải phi dân_dụng 
+
+1 . Các yếu_tố cần xem_xét khi thực_hiện phân_tích và phân_loại phụ_tải phi dân_dụng bao_gồm : 
+
+a ) Tính đặc_trưng cho nhóm , thành_phần phụ_tải ; 
+
+b ) Cấp điện_áp_đấu nối của phụ_tải ; 
+
+c ) Yếu_tố địa_lý , mùa ; 
+
+d ) Những thông_tin cần_thiết khác đặc_trưng cho nhóm phụ_tải . 
+
+2 . Thực_hiện quá_trình tính_toán phân_tích , tách nhóm phụ_tải phi dân_dụng theo thứ_tự sau : 
+
+a ) Phân_loại phụ_tải theo các nhóm phụ_tải và thành_phần phụ_tải ; 
+
+b ) Phân_loại phụ_tải trong nhóm phụ_tải theo cấp điện_áp_đấu nối , vùng địa_lý , mùa ( bơm tưới hoặc tiêu ) và các yếu_tố đặc_trưng khác ( nếu có ) . 
+
+3 . Lập danh_mục phụ_tải theo nhóm phụ_tải và thành_phần phụ_tải phi dân_dụng trên cơ_sở phân_loại phụ_tải phi dân_dụng tại khoản 2 của Điều này . 
+
+Điều 8 .  Xác_định biến mục_tiêu phục_vụ tính_toán chọn mẫu phụ_tải phi dân_dụng 
+
+1 . Biến mục_tiêu là tham_số quan_trọng biểu_diễn đặc_tính tiêu_thụ điện của mỗi nhóm phụ_tải phi dân_dụng , được sử_dụng trong tính_toán độ lệch chuẩn và số_lượng mẫu phụ_tải phi dân_dụng tối_thiểu trong nghiên_cứu phụ_tải . 
+
+2 . Biến mục_tiêu được lựa_chọn một trong các thông_số sau : 
+
+a ) Công_suất phụ_tải tại thời_điểm công_suất cực_đại trong năm của hệ_thống điện ; 
+
+b ) Công_suất phụ_tải tại thời_điểm cao_điểm sáng hoặc cao_điểm tối của ngày có công_suất cực_đại trong năm của hệ_thống điện ; 
+
+c ) Điện_năng thương_phẩm theo thời_gian ( TOU ) ; 
+
+d ) Điện_năng thương_phẩm của cả năm của phụ_tải_điện phi dân_dụng . 
+
+Điều 9 .  Phân_tích , tách dải tiêu_thụ điện theo biến mục_tiêu 
+
+1 . Xác_định số_lượng và đánh_giá tỷ_trọng công_suất hoặc điện_năng tiêu_thụ của phụ_tải lớn . 
+
+2 . Sử_dụng phương_pháp Dalenius-Hodges để xây_dựng biểu_đồ phân_bổ phụ_tải theo công_suất hoặc điện_năng tiêu_thụ , xác_định điểm ngắt_quãng tối_ưu để tách dải công_suất hoặc điện_năng tiêu_thụ .  Chi_tiết phương_pháp Dalenius-Hodges được quy_định tại Phụ_lục 2 ban_hành kèm theo Thông_tư này . 
+
+Kết_quả của tính_toán phân_tích , tách dải công_suất hoặc điện_năng tiêu_thụ cho từng nhóm phụ_tải phi dân_dụng phải bao_gồm : 
+
+a ) Số_lượng dải và số_lượng phụ_tải trong từng dải ; 
+
+b ) Giá_trị công_suất hoặc điện_năng tiêu_thụ trung_bình của từng dải tiêu_thụ điện_năng ; 
+
+c ) Độ lệch chuẩn của từng dải . 
+
+Điều 10 .  Tính_toán số_lượng mẫu phụ_tải phi dân_dụng 
+
+1 . Chọn các phụ_tải lớn làm mẫu phụ_tải tham_gia nghiên_cứu phụ_tải . 
+
+2 . Loại_bỏ các dải phụ_tải có tổng công_suất hoặc điện_năng tiêu_thụ của các phụ_tải trong dải_nhỏ hơn 1 % so với tổng công_suất hoặc điện_năng tiêu_thụ của nhóm phụ_tải . 
+
+3 . Lựa_chọn một trong các phương_pháp tính_toán số_lượng mẫu phụ_tải cho các dải phụ_tải còn lại .  Các phương_pháp tính_toán bao_gồm : 
+
+a ) Phương_pháp hàm phân_bố chuẩn ; 
+
+b ) Phương_pháp trung_bình đơn_vị ( MPU-Mean Per Unit ) ; 
+
+c ) Phương_pháp tỷ_lệ phân_ly ( SR-Seperate Ratio ) ; 
+
+d ) Phương_pháp tỷ_lệ kết_hợp ( CR-Combined Ratio ) . 
+
+Chi_tiết các phương_pháp tính_toán số_lượng mẫu phụ_tải cho các dải phụ_tải quy_định tại Phụ_lục 2 ban_hành kèm theo Thông_tư này . 
+
+4 . Xác_định giá_trị độ tin_cậy và sai_số biên phục_vụ tính_toán số_lượng mẫu trên cơ_sở ràng_buộc về kinh_phí thực_hiện nghiên_cứu phụ_tải . 
+
+5 . Tính_toán số_lượng mẫu phụ_tải của từng dải phụ_tải . 
+
+6 . Tổng_hợp , lập bảng thống_kê số_lượng mẫu phụ_tải trong từng dải phụ_tải , nhóm phụ_tải , thành_phần phụ_tải . 
+
+Điều 11 .  Phân_bổ , lựa_chọn mẫu phụ_tải phi dân_dụng 
+
+1 . Trên_cơ_sở tổng_hợp số_lượng mẫu của từng nhóm phụ_tải , trước ngày 15 tháng 5 hàng năm Tập_đoàn điện_lực Việt_Nam có trách_nhiệm thực_hiện phân_bổ mẫu ( nếu có thay_đổi ) cho từng tổng công_ty điện_lực tỷ_lệ_thuận với tỷ_trọng điện_năng thương_phẩm của các nhóm phụ_tải của các tổng công_ty điện_lực . 
+
+2 . Tổng_công_ty điện_lực có trách_nhiệm lập danh_sách phụ_tải được chọn làm mẫu theo số_lượng mẫu được phân_bổ , bao_gồm tên phụ_tải , địa_chỉ , cấp điện_áp , dải phụ_tải , nhóm phụ_tải , thành_phần phụ_tải . 
+
+3 . Tổng_công_ty điện_lực có trách_nhiệm lập danh_sách mẫu phụ_tải phi dân_dụng dự_phòng trong trường_hợp cần thay_thế . 
+
+4 . Tổng_công_ty điện_lực có trách_nhiệm báo_cáo Tập_đoàn Điện_lực Việt_Nam danh_sách phụ_tải được chọn làm mẫu theo số_lượng mẫu được phân_bổ và danh_sách mẫu phụ_tải dự_phòng trước ngày 15 tháng 12 hàng năm . 
+
+Điều 12 .  Báo_cáo đánh_giá mẫu phụ_tải phi dân_dụng 
+
+1 . Công_tác tính_toán , thiết_kế và phân_bổ mẫu phụ_tải phi dân_dụng . 
+
+2 . Đánh_giá sự thay_đổi ( nếu có ) về số_lượng mẫu phụ_tải phi dân_dụng so với năm trước . 
+
+3 . Đánh_giá danh_sách mẫu phụ_tải phi dân_dụng do các tổng công_ty điện_lực lập so với tính_toán , thiết_kế và phân_bổ số_lượng mẫu phụ_tải phi dân_dụng phân_bổ cho các tổng công_ty điện_lực . 
+
+Điều 13 .  Trách_nhiệm của các đơn_vị trong thiết_kế chọn mẫu phụ_tải phi dân_dụng 
+
+1 . Tập_đoàn Điện_lực Việt_Nam có trách_nhiệm : 
+
+a ) Tính_toán , thiết_kế số_lượng mẫu phụ_tải phi dân_dụng trong phạm_vi toàn_quốc ; 
+
+b ) Phân_bổ số_lượng mẫu phụ_tải phi dân_dụng cho các tổng công_ty điện_lực ; 
+
+c ) Xác_định đặc_tính kỹ_thuật của hệ_thống_thiết_bị thu_thập số_liệu nghiên_cứu phụ_tải và quản_lý , giám_sát việc đầu_tư , lắp_đặt thiết_bị để thực_hiện nghiên_cứu phụ_tải cho mẫu phụ_tải phi dân_dụng trong phạm_vi toàn_quốc . 
+
+2 . Tổng_công_ty điện_lực có trách_nhiệm : 
+
+a ) Lập danh_sách mẫu phụ_tải phi dân_dụng theo số_lượng mẫu do Tập_đoàn điện_lực Việt_Nam_tính_toán , phân_bổ ; 
+
+b ) Thực_hiện đầu_tư , lắp_đặt thiết_bị thu_thập số_liệu nghiên_cứu phụ_tải cho mẫu phụ_tải phi dân_dụng thuộc địa_bàn quản_lý của đơn_vị mình . 
+
+Mục 2 
+
+THIẾT_KẾ CHỌN MẪU PHỤ_TẢI DÂN_DỤNG 
+
+Điều 14 .  Tính_toán , lựa_chọn mẫu phụ_tải dân_dụng 
+
+1 . Các yếu_tố cần xem_xét khi phân_tích và phân_loại nhóm phụ_tải dân_dụng bao_gồm 
+
+a ) Yếu_tố địa_lý ( vùng , miền ) ; 
+
+b ) Phân_bố theo khu_vực ( nông_thôn , thành_thị ) ; 
+
+c ) Yêu_tố thời_tiết ( mùa ) ; 
+
+d ) Mức_độ điện khí_hóa và mức sử_dụng điện của các hộ gia_đình , hoặc các yếu_tố đặc_trưng khác trong từng nhóm phụ_tải dân_dụng . 
+
+2 . Thực_hiện quá_trình tính_toán phân_tích và phân_loại phụ_tải dân_dụng cho từng tổng công_ty điện_lực theo thứ_tự sau : 
+
+a ) Phân_loại các nhóm phụ_tải dân_dụng theo khu_vực nông_thôn và thành_thị để phân_biệt mức_độ điện khí_hóa và mức sử_dụng điện của các hộ gia_đình ; 
+
+b ) Phân_loại các nhóm phụ_tải dân_dụng theo các yếu_tố đặc_trưng , bao_gồm các loại phụ_tải dân_dụng là nhà_riêng , căn_hộ , biệt_thự hoặc nhà cho thuê ; 
+
+c ) Lựa_chọn số_lượng mẫu cho từng nhóm phụ_tải phụ_tải dân_dụng ; 
+
+d ) Lập danh_sách phụ_tải dân_dụng được chọn làm mẫu , bao_gồm tên phụ_tải , địa_chỉ , nhóm phụ_tải , thành_phần phụ_tải ; 
+
+đ ) Lập danh_sách mẫu phụ_tải dân_dụng dự_phòng trong trường_hợp cần_thiết . 
+
+3 . Tổng_công_ty điện_lực có trách_nhiệm báo_cáo Tập_đoàn điện_lực Việt_Nam danh_sách mẫu phụ_tải dân_dụng và danh_sách mẫu phụ_tải dân_dụng dự_phòng trước ngày 15 tháng 12 hàng năm . 
+
+4 . Tập_đoàn Điện_lực Việt_Nam có trách_nhiệm tổng_hợp mẫu phụ_tải dân_dụng theo 03 miền Bắc , Trung và Nam để phân_biệt theo yếu_tố địa_lý và thời_tiết trong năm . 
+
+Điều 15 .  Báo_cáo đánh_giá mẫu phụ_tải dân_dụng 
+
+1 . Công_tác tính_toán , thiết_kế và phân_bổ mẫu phụ_tải dân_dụng . 
+
+2 . Đánh_giá sự thay_đổi ( nếu có ) về số_lượng mẫu phụ_tải dân_dụng so với năm trước . 
+
+3 . Đánh_giá danh_sách mẫu phụ_tải dân_dụng do các tổng công_ty điện_lực lập so với tính_toán , thiết_kế và phân_bổ số_lượng mẫu phụ_tải dân_dụng phân_bổ cho các tổng công_ty điện_lực . 
+
+Điều 16 .  Trách_nhiệm của các đơn_vị trong thiết_kế chọn mẫu phụ_tải dân_dụng 
+
+1 . Tổng_công_ty điện_lực có trách_nhiệm : 
+
+a ) Tính_toán , thiết_kế và lập danh_sách mẫu phụ_tải dân_dụng trong phạm_vi quản_lý của tổng công_ty ; 
+
+b ) Thực_hiện đầu_tư , lắp_đặt thiết_bị thu_thập số_liệu nghiên_cứu phụ_tải cho mẫu phụ_tải dân_dụng trong phạm_vi quản_lý của tổng công_ty . 
+
+2 . Tập_đoàn Điện_lực Việt_Nam có trách_nhiệm : 
+
+a ) Tổng_hợp mẫu phụ_tải dân_dụng trong phạm_vi toàn_quốc trên cơ_sở xét ràng_buộc kinh_phí , cân_đối_tỷ_trọng tiêu_thụ điện của từng đơn_vị trong tổng_lượng tiêu_thụ điện toàn_quốc ; 
+
+b ) Xác_định đặc_tính kỹ_thuật của hệ_thống_thiết_bị để thực_hiện nghiên_cứu phụ_tải và quản_lý , giám_sát việc đầu_tư , lắp_đặt thiết_bị thu_thập số_liệu nghiên_cứu phụ_tải cho mẫu phụ_tải dân_dụng trong phạm_vi toàn_quốc . 
+
+Điều 17 .  Thu_thập số_liệu công_tơ của phụ_tải mẫu 
+
+1 . Số_liệu công_tơ của phụ_tải mẫu là số_liệu công_suất , điện_năng tiêu_thụ của phụ_tải mẫu theo chu_kỳ đo quy_định ( 30 phút hoặc 60 phút ) . 
+
+2 . Các tổng công_ty điện_lực có trách_nhiệm thực_hiện cài_đặt công_tơ để truyền dữ_liệu tự_động về tổng công_ty vào lúc 0h hàng ngày . 
+
+Điều 18 .  Xác_định lỗi số_liệu của công_tơ phụ_tải mẫu 
+
+1 . Kiểm_tra từ thời_điểm bắt_đầu đợt đọc số_liệu đến thời_điểm kết_thúc đợt đọc số_liệu . 
+
+2 . Kiểm_tra số_liệu điện_năng mang giá_trị bằng không ( “ 0 ” ) . 
+
+3 . Kiểm_tra trạng_thái thông_báo ( phát_hiện các nghi_ngờ cần kiểm_tra ) . 
+
+4 . Kiểm_tra , so_sánh giá_trị tổng điện_năng theo chu_kỳ đo của phụ_tải với tổng điện_năng thương_phẩm đo_đếm định_kỳ hàng tháng . 
+
+5 . Kiểm_tra giá_trị_số_liệu đo_đếm so với ngưỡng tiêu_thụ điện của phụ_tải mẫu . 
+
+6 . Kiểm_tra và so_sánh với số_liệu điện_năng thương_phẩm tháng trước hoặc tháng cùng kỳ năm trước . 
+
+7 . Kiểm_tra và so_sánh với số_liệu phụ_tải đỉnh tháng trước hoặc tháng cùng kỳ năm trước . 
+
+8 . Kiểm_tra hệ_số phụ_tải . 
+
+Điều 19 .  Hiệu_chỉnh và ước_lượng số_liệu công_tơ của phụ_tải mẫu 
+
+1 . Hiệu_chỉnh và ước_lượng số_liệu công_tơ của phụ_tải mẫu là thực_hiện chỉnh_sửa các số_liệu bị mất , bị thiếu hoặc không chính_xác khi xác_định lỗi số_liệu trong quá_trình thu_thập số_liệu của công_tơ . 
+
+2 . Các phương_pháp hiệu_chỉnh , ước_lượng số_liệu công_tơ bao_gồm : 
+
+a ) Nội suy tuyến tính : nội suy từ đường đặc_tính xu_thế tiêu_thụ điện ; 
+
+b ) Ngày tương_đồng : sử_dụng dữ_liệu ngày tương_đồng của tuần hiện_tại hoặc tuần trước ; 
+
+c ) Tự_động ước_lượng : sử_dụng trong trường_hợp dữ_liệu bị thiếu không quá bảy ( 07 ) ngày ; 
+
+d ) Kiểm_tra trực_quan đồ_thị : để biết được dữ_liệu bị sai và quyết_định về dữ_liệu được ước_lượng ; 
+
+đ ) Hiệu_chỉnh ước_lượng số_liệu thủ_công : được sử_dụng khi dữ_liệu bị thiếu nhiều hơn bảy ( 07 ) ngày ; 
+
+e ) Hiệu_chỉnh ước_lượng giá_trị trung_bình các tuần của ngày tham_chiếu : dựa vào dữ_liệu của bốn ( 04 ) tuần gần nhất . 
+
+3 . Các số_liệu công_tơ của phụ_tải mẫu sau khi được hiệu_chỉnh , ước_lượng phải được lưu_trữ để tạo_lập bộ cơ_sở dữ_liệu cho nghiên_cứu phụ_tải . 
+
+Điều 20 .  Truyền số_liệu của phụ_tải mẫu về bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải 
+
+Trước ngày 20 của tháng tiếp_theo , tổng công_ty điện_lực có trách_nhiệm hoàn_thành việc thu_thập , hiệu_chỉnh và ước_lượng số_liệu công_tơ của phụ_tải mẫu và truyền số_liệu đã hiệu_chỉnh về Tập_đoàn Điện_lực Việt_Nam để cập_nhật vào Bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải quốc_gia . 
+
+Điều 21 .  Báo_cáo đánh_giá số_liệu phụ_tải mẫu hàng quý 
+
+Trước ngày 20 tháng đầu_tiên của quý tiếp_theo , tổng công_ty điện_lực có trách_nhiệm hoàn_thành và cung_cấp báo_cáo quý đánh_giá kết_quả thu_thập , hiệu_chỉnh số_liệu công_tơ của phụ_tải mẫu cho Tập_đoàn Điện_lực Việt_Nam . 
+
+Điều 22 .  Trách_nhiệm của các đơn_vị trong thu_thập và hiệu_chỉnh số_liệu 
+
+a ) Cài_đặt công_tơ , thu_thập , hiệu_chỉnh số_liệu tiêu_thụ điện_năng từ công_tơ của phụ_tải mẫu và quản_lý cơ_sở dữ_liệu phụ_tải mẫu trong phạm_vi quản_lý của tổng công_ty ; 
+
+b ) Truyền dữ_liệu đã hiệu_chỉnh của phụ_tải mẫu về Tập_đoàn điện_lực Việt_Nam để xây_dựng Bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải quốc_gia . 
+
+2 . Tập_đoàn điện_lực Việt_Nam có trách_nhiệm quản_lý Bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải quốc_gia , đảm_bảo để Đơn_vị vận_hành hệ_thống điện và thị_trường điện , các tổng công_ty điện_lực có quyền truy_cập , sử_dụng bộ cơ_sở dữ_liệu này . 
+
+PHÂN_TÍCH , XÂY_DỰNG BIỂU_ĐỒ PHỤ_TẢI 
+
+Điều 23 .  Biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm 
+
+1 . Biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của từng nhóm , thành_phần phụ_tải được xây_dựng bằng cách tính_toán , tổng_hợp biểu_đồ phụ_tải chuẩn_hóa đơn_vị năm của từng mẫu phụ_tải . 
+
+2 . Trình_tự xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của các nhóm và thành_phần phụ_tải thực_hiện như sau : 
+
+a ) Bước 1 : Xây_dựng biểu_đồ chuẩn_hóa đơn_vị năm của từng phụ_tải mẫu bằng cách chia biểu_đồ phụ_tải thu_thập được cả năm cho điện_năng thương_phẩm năm của phụ_tải mẫu đó ; 
+
+b ) Bước 2 : Xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của từng nhóm phụ_tải bằng cách trung_bình_cộng biểu_đồ chuẩn_hóa đơn_vị năm của các phụ_tải mẫu thuộc nhóm phụ_tải đó ; 
+
+c ) Bước 3 : Xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của từng thành_phần phụ_tải bằng cách trung_bình_cộng các biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của các nhóm phụ_tải thuộc thành_phần phụ_tải đó ; 
+
+d ) Bước 4 : Xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc bằng cách trung_bình_cộng các biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của các thành_phần phụ_tải ; 
+
+đ ) Bước 5 : Lưu_trữ biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị năm của từng nhóm và thành_phần phụ_tải vào bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải . 
+
+Điều 24 .  Biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng 
+
+1 . Biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng được xây_dựng bằng cách tính_toán , tổng_hợp biểu_đồ phụ_tải chuẩn_hóa đơn_vị tháng của từng mẫu phụ_tải . 
+
+2 . Phương_pháp xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng cho các nhóm và thành_phần phụ_tải thực_hiện như sau : 
+
+a ) Bước 1 : Xây_dựng biểu_đồ phụ_tải chuẩn_hóa đơn_vị tháng của từng phụ_tải mẫu bằng cách chia biểu_đồ phụ_tải thu_thập được cả tháng cho điện_năng thương_phẩm tháng của phụ_tải mẫu đó ; 
+
+b ) Bước 2 : Xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng của từng nhóm phụ_tải bằng cách trung_bình_cộng biểu_đồ chuẩn_hóa đơn_vị tháng của các phụ_tải mẫu thuộc nhóm phụ_tải đó ; 
+
+c ) Bước 3 : Xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng cho từng thành_phần phụ_tải bằng cách trung_bình_cộng các biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng của các nhóm phụ_tải thuộc thành_phần phụ_tải đó ; 
+
+d ) Bước 4 : Xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc bằng cách trung_bình_cộng các biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng của các thành_phần phụ_tải ; 
+
+đ ) Bước 5 : Lưu_trữ biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị tháng của từng nhóm và thành_phần phụ_tải vào bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải . 
+
+Điều 25 .  Biểu_đồ phụ_tải thực 
+
+1 . Biểu_đồ phụ_tải thực ( năm , tháng ) của từng nhóm phụ_tải được xây_dựng bằng cách nhân biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị ( năm , tháng ) với số_liệu điện_năng thương_phẩm ( năm , tháng ) của từng nhóm phụ_tải đó . 
+
+2 . Biểu_đồ phụ_tải thực ( năm , tháng ) của các thành_phần phụ_tải được xây_dựng bằng cách cộng biểu_đồ phụ_tải thực ( năm , tháng ) của các nhóm phụ_tải thuộc thành_phần phụ_tải đó . 
+
+3 . Biểu_đồ phụ_tải thực ( năm , tháng ) của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc được xây_dựng bằng cách cộng biểu_đồ phụ_tải thực năm , tháng của các thành_phần phụ_tải . 
+
+4 . Lưu_trữ biểu_đồ phụ_tải thực ( năm , tháng ) của từng nhóm phụ_tải , thành_phần phụ_tải và của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc vào bộ cơ_sở dữ_liệu nghiên_cứu phụ_tải ; 
+
+Điều 26 .  Biểu_đồ phụ_tải ngày điển_hình 
+
+1 . Biểu_đồ phụ_tải ngày làm_việc điển_hình ( năm , tháng ) của nhóm phụ_tải , thành_phần phụ_tải và của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc được xây_dựng bằng cách trung_bình_cộng biểu_đồ phụ_tải thực các ngày làm_việc ( năm , tháng ) của nhóm phụ_tải , thành_phần phụ_tải và của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc . 
+
+2 . Biểu_đồ phụ_tải ngày nghỉ , ngày lễ điển_hình ( năm , tháng ) của nhóm phụ_tải , thành_phần phụ_tải và của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc được xây_dựng bằng cách trung_bình_cộng biểu_đồ phụ_tải thực các ngày nghỉ , ngày lễ ( năm , tháng ) của nhóm phụ_tải , thành_phần phụ_tải và của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc . 
+
+Điều 27 .  Nội_dung báo_cáo phân_tích xây_dựng biểu_đồ phụ_tải 
+
+1 . Kết_quả tính_toán , xây_dựng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị ;  biểu_đồ phụ_tải thực ;  biểu_đồ phụ_tải ngày điển_hình ( năm , tháng ) theo nhóm phụ_tải , thành_phần phụ_tải và tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc quy_định tại Điều 23 , Điều 24 , Điều 25 và Điều 26 của Thông_tư này . 
+
+2 . Phân_tích , đánh_giá tốc_độ tăng_trưởng điện_năng thương_phẩm của đơn_vị và toàn hệ_thống điện quốc_gia chi_tiết theo nhóm và thành_phần phụ_tải so với năm trước . 
+
+3 . Đánh_giá xu_thế thay_đổi của biểu_đồ phụ_tải nhóm , thành_phần phụ_tải chiếm tỷ_trọng tiêu_thụ điện lớn hoặc có tốc_độ tăng_trưởng cao . 
+
+4 . Đánh_giá ảnh_hưởng của các nhóm , thành_phần phụ_tải tham_gia vào công_suất cực_đại của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc bao_gồm : tần_suất xuất_hiện đỉnh , sự thay_đổi của công_suất cực_đại , tỷ_trọng đóng_góp vào công_suất cực_đại .  So_sánh với biểu_đồ phụ_tải thực của hệ_thống điện miền hoặc toàn_quốc . 
+
+5 . Sự thay_đổi của biểu_đồ phụ_tải của nhóm , thành_phần phụ_tải theo thời_gian . 
+
+6 . Phân_tích mối tương_quan của xu_thế thay_đổi biểu_đồ phụ_tải của nhóm , thành_phần phụ_tải với diễn_biến về nhiệt_độ , chỉ_số sản_xuất công_nghiệp và các yếu_tố liên_quan đến hoạt_động kinh_doanh khác . 
+
+Điều 28 .  Báo_cáo phân_tích xây_dựng biểu_đồ phụ_tải quý 
+
+1 . Trước ngày 20 tháng thứ hai của quý tiếp_theo , tổng công_ty điện_lực có trách_nhiệm hoàn_thành và cung_cấp báo_cáo phân_tích xây_dựng biểu_đồ phụ_tải các tháng trong quý và tổng_hợp biểu_đồ phụ_tải trong toàn quý của đơn_vị cho Tập_đoàn Điện_lực Việt_Nam , Đơn_vị vận_hành hệ_thống điện và thị_trường điện và Cục Điều_tiết điện_lực . 
+
+2 . Trước ngày 25 tháng thứ hai của quý tiếp_theo , Tập_đoàn Điện_lực Việt_Nam có trách_nhiệm hoàn_thành và báo_cáo Cục Điều_tiết điện_lực nội_dung báo_cáo phân_tích xây_dựng biểu_đồ phụ_tải quý của hệ_thống điện miền và toàn_quốc . 
+
+Điều 29 .  Báo_cáo phân_tích xây_dựng biểu_đồ phụ_tải năm 
+
+1 . Trước ngày 20 tháng Giêng của năm tiếp_theo , tổng công_ty điện_lực có trách_nhiệm hoàn_thành và cung_cấp báo_cáo phân_tích xây_dựng biểu_đồ phụ_tải năm của đơn_vị cho Tập_đoàn Điện_lực Việt_Nam , Đơn_vị vận_hành hệ_thống điện và thị_trường điện và Cục Điều_tiết điện_lực . 
+
+2 . Trước ngày 25 tháng Giêng của năm tiếp_theo , Tập_đoàn Điện_lực Việt_Nam có trách_nhiệm hoàn_thành và báo_cáo Cục Điều_tiết điện_lực nội_dung báo_cáo phân_tích xây_dựng biểu_đồ phụ_tải năm của hệ_thống điện miền và toàn_quốc . 
+
+Điều 30 .  Trách_nhiệm của các đơn_vị trong phân_tích , xây_dựng biểu_đồ phụ_tải 
+
+1 . Tổng_công_ty điện_lực có trách_nhiệm tính_toán phân_tích , xây_dựng biểu_đồ phụ_tải và lập báo_cáo kết_quả phân_tích xây_dựng biểu_đồ phụ_tải năm , quý của tổng công_ty . 
+
+2 . Tập_đoàn điện_lực Việt_Nam có trách_nhiệm tính_toán phân_tích , xây_dựng biểu_đồ phụ_tải và lập báo_cáo kết_quả phân_tích xây_dựng biểu_đồ phụ_tải năm , quý của hệ_thống điện quốc_gia và các miền . 
+
+3 . Đơn_vị vận_hành hệ_thống điện và thị_trường điện có trách_nhiệm tính_toán phân_tích , xây_dựng biểu_đồ phụ_tải quy_định tại <TT rel="Reference"> Thông_tư số 12/2010/TT-BCT ngày 15 tháng 4 năm 2010 </TT> của Bộ Công_Thương quy_định hệ_thống điện truyền_tải .
+Mục 3 
+
+DỰ BÁO_BIỂU_ĐỒ PHỤ_TẢI 
+
+Điều 31 .  Phương_pháp dự_báo_biểu_đồ phụ_tải 
+
+1 . Phương_pháp từ trên xuống ( Top-down ) 
+
+a ) Sử_dụng chuỗi số_liệu biểu_đồ phụ_tải quá_khứ để dự_báo xu_hướng biểu_đồ phụ_tải ; 
+
+b ) Trên_cơ_sở dự_báo xu_hướng biểu_đồ phụ_tải và xem_xét sự ảnh_hưởng của các yếu_tố thời_tiết , tốc_độ tăng_trưởng kinh_tế , dân_số và hệ_số đàn_hồi theo biểu giá điện để dự_báo_biểu_đồ phụ_tải thích_hợp . 
+
+2 . Phương_pháp từ dưới lên ( Bottom-up ) 
+
+a ) Sử_dụng biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị ( năm , tháng ) để dự_báo xu_hướng biểu_đồ phụ_tải của từng nhóm , thành_phần phụ_tải ; 
+
+b ) Dự_báo điện thương_phẩm của từng nhóm , thành_phần phụ_tải theo tháng , năm có xét đến sự ảnh_hưởng của các yếu_tố sau : sự xuất_hiện phụ_tải mới , tốc_độ tăng_trưởng phụ_tải , tình_hình phát_triển kinh_tế-xã_hội , tình_hình sản_xuất , tốc_độ hiện_đại_hóa công_nghệ các thiết_bị sử_dụng điện , các giải_pháp quản_lý nhu_cầu điện ( DSM ) được áp_dụng ; 
+
+c ) Trên_cơ_sở dự_báo xu_hướng biểu_đồ phụ_tải và dự_báo điện thương_phẩm của từng nhóm , thành_phần phụ_tải theo năm , tháng để dự_báo_biểu_đồ phụ_tải của từng nhóm , thành_phần phụ_tải . 
+
+3 . So_sánh kết_quả dự_báo_biểu_đồ phụ_tải bằng hai ( 02 ) phương_pháp nêu trên để phân_tích và xác_định kết_quả dự_báo_biểu_đồ phụ_tải . 
+
+Điều 32 .  Nội_dung báo_cáo dự_báo_biểu_đồ phụ_tải 
+
+1 . Kết_quả tính_toán , dự báo_biểu_đồ phụ_tải trung_bình chuẩn_hóa đơn_vị ;  biểu_đồ phụ_tải thực ;  biểu_đồ phụ_tải ngày điển_hình ( năm , tháng ) theo nhóm phụ_tải , thành_phần phụ_tải và tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc quy_định tại Điều 23 , Điều 24 , Điều 25 và Điều 26 của Thông_tư này . 
+
+4 . Đánh_giá ảnh_hưởng của các nhóm , thành_phần phụ_tải tham_gia vào công_suất cực_đại của tổng công_ty điện_lực , hệ_thống điện miền hoặc toàn_quốc bao_gồm : tần_suất xuất_hiện đỉnh , sự thay_đổi của công_suất cực_đại , tỷ_trọng đóng_góp vào công_suất cực_đại . 
+
+Điều 33 .  Báo_cáo dự_báo_biểu_đồ phụ_tải 
+
+1 . Tổng_công_ty điện_lực , Đơn_vị vận_hành hệ_thống điện và thị_trường điện có trách_nhiệm hoàn_thành báo_cáo dự_báo_biểu_đồ phụ_tải năm , tháng , tuần đảm_bảo phù_hợp yêu_cầu nội_dung và trình_tự thời_gian về báo_cáo kết_quả dự_báo phụ_tải năm , tháng , tuần quy_định tại Điều 16 , Điều 17 , Điều 18 <TT rel="Reference"> Thông_tư số 12/2010/TT-BCT </TT> .
+2 . Trước ngày 15 tháng 9 hàng năm , Tập_đoàn Điện_lực Việt_Nam có trách_nhiệm hoàn_thành báo_cáo dự_báo_biểu_đồ phụ_tải năm đảm_bảo phù_hợp yêu_cầu nội_dung và trình_tự thời_gian báo_cáo kết_quả dự_báo phụ_tải năm trong nội_dung của kế_hoạch vận_hành năm . 
+
+Điều 34 .  Trách_nhiệm của các đơn_vị trong dự_báo_biểu_đồ phụ_tải 
+
+1 . Tổng_công_ty điện_lực có trách_nhiệm tính_toán dự_báo_biểu_đồ phụ_tải năm , tháng của đơn_vị phục_vụ dự_báo phụ_tải , lập kế_hoạch vận_hành hệ_thống điện_phân_phối và xây_dựng giá điện . 
+
+2 . Tập_đoàn điện_lực Việt_Nam có trách_nhiệm tính_toán dự_báo_biểu_đồ phụ_tải năm của hệ_thống điện miền và toàn_quốc_phục_vụ xây_dựng giá điện và quản_lý nhu_cầu điện ( DSM ) . 
+
+3 . Đơn_vị vận_hành hệ_thống điện và thị_trường điện có trách_nhiệm tính_toán dự_báo_biểu_đồ phụ_tải năm , tháng của hệ_thống điện miền và toàn_quốc_phục_vụ dự_báo phụ_tải , lập kế_hoạch vận_hành hệ_thống điện quốc_gia . 
+
+Điều 35 .  Các trường_hợp được xét miễn_trừ thực_hiện 
+
+1 . Đơn_vị giải_trình được những khó_khăn liên_quan đến công_tác trang_bị hạ_tầng kỹ_thuật , năng_lực để thực_hiện . 
+
+2 . Đơn_vị chứng_minh được việc được hưởng miễn_trừ phù_hợp với các quy_định của Thông_tư này . 
+
+Điều 36 .  Thẩm_quyền và căn_cứ quyết_định miễn_trừ thực_hiện 
+
+1 . Cục Điều_tiết điện_lực có trách_nhiệm xem_xét và chấp_thuận các trường_hợp được miễn_trừ thực_hiện quy_định tại Điều 35 Thông_tư này . 
+
+2 . Các căn_cứ để xem_xét miễn_trừ thực_hiện bao_gồm : 
+
+a ) Tình_hình của đơn_vị đề_nghị được hưởng miễn_trừ thực_hiện ( khó_khăn liên_quan tới công_tác trang_bị hạ_tầng kỹ_thuật , năng_lực để thực_hiện hoặc nguyên_nhân khác có liên_quan ) ; 
+
+b ) Phạm_vi và thời_hạn đề_nghị được hưởng miễn_trừ thực_hiện ; 
+
+c ) Các căn_cứ khác liên_quan đến việc hưởng miễn_trừ thực_hiện ( nếu có ) . 
+
+Điều 37 .  Hồ_sơ đề_nghị miễn_trừ thực_hiện 
+
+1 . Văn_bản đề_nghị hưởng miễn_trừ , trong đó nêu rõ về các nội_dung quy_định tại các điểm a , b , c khoản 2 , Điều 36 Thông_tư này . 
+
+2 . Báo_cáo giải_trình chi_tiết lí_do đề_nghị được miễn_trừ thực_hiện và các cam_kết nếu được miễn_trừ thực_hiện . 
+
+3 . Ý_kiến bằng văn_bản của Tập_đoàn Điện_lực Việt_Nam về đề_nghị miễn_trừ của đơn_vị . 
+
+Điều 38 .  Thủ_tục thẩm_định hồ_sơ đề_nghị miễn_trừ thực_hiện 
+
+1 . Hồ_sơ đề_nghị miễn_trừ thực_hiện được nộp trực_tiếp tại trụ_sở Cục Điều_tiết điện_lực hoặc gửi qua đường bưu_điện . 
+
+2 . Trong thời_hạn bảy ( 07 ) ngày kể từ ngày tiếp_nhận hồ_sơ đề_nghị được miễn_trừ thực_hiện , Cục Điều_tiết điện_lực có trách_nhiệm thông_báo bằng văn_bản cho đơn_vị nộp hồ_sơ về tính hợp_lệ của hồ_sơ .  Trường_hợp hồ_sơ chưa hợp_lệ , Cục Điều_tiết điện_lực có trách_nhiệm nêu rõ những nội_dung cần bổ_sung . 
+
+3 . Trong thời_hạn ba_mươi ( 30 ) ngày làm_việc kể từ nhận đủ hồ_sơ hợp_lệ , Cục Điều_tiết điện_lực có trách_nhiệm hoàn_thành thẩm_định hồ_sơ đề_nghị miễn_trừ thực_hiện và ra quyết_định cho phép miễn_trừ thực_hiện .  Trường_hợp không chấp_thuận đề_nghị được miễn_trừ thực_hiện , Cục Điều_tiết điện_lực phải thông_báo bằng văn_bản cho đơn_vị đề_nghị và nêu rõ lý_do không chấp_thuận . 
+
+4 . Trường_hợp đề_nghị miễn_trừ thực_hiện có nhiều tình_tiết phức_tạp , liên_quan tới nhiều đơn_vị khác , thì được gia_hạn thời_hạn thẩm_định nhưng không quá mười_lăm ( 15 ) ngày làm_việc . 
+
+Điều 39 .  Trách_nhiệm cung_cấp thông_tin 
+
+Tập_đoàn Điện_lực Việt_Nam và các tổng công_ty điện_lực có trách_nhiệm cung_cấp thông_tin theo yêu_cầu của Cục Điều_tiết điện_lực . 
+
+Điều 40 .  Rút đề_nghị hưởng miễn_trừ 
+
+Trường_hợp rút đề_nghị được miễn_trừ thực_hiện , đơn_vị đã nộp hồ_sơ phải thông_báo bằng văn_bản tới Cục Điều_tiết điện_lực . 
+
+Điều 41 .  Bãi_bỏ Quyết_định cho phép miễn_trừ thực_hiện 
+
+1 . Phát_hiện có sự gian_dối trong việc đề_nghị được miễn_trừ thực_hiện . 
+
+2 . Đơn_vị được miễn_trừ thực_hiện không thực_hiện hoặc thực_hiện không đúng các điều_kiện , nghĩa_vụ đã cam_kết và thời_gian thực_hiện quy_định tại quyết_định cho phép miễn_trừ thực_hiện . 
+
+3 . Các điều_kiện cho phép miễn_trừ thực_hiện không còn tồn_tại . 
+
+Điều 42 .  Tổ_chức thực_hiện 
+
+1 . Cục Điều_tiết điện_lực có trách_nhiệm phổ_biến , hướng_dẫn và kiểm_tra việc thực_hiện Thông_tư này ;  tổ_chức xây_dựng và ban_hành các quy_trình chi_tiết để thực_hiện trình_tự nghiên_cứu phụ_tải . 
+
+2 . Tập_đoàn Điện_lực Việt_Nam có trách_nhiệm tổ_chức đào_tạo cài_đặt , sử_dụng các phần_cứng , phần_mềm phục_vụ nghiên_cứu phụ_tải . 
+
+3 . Trong quá_trình thực_hiện nếu có vướng_mắc , các đơn_vị phải báo_cáo Cục Điều_tiết điện_lực để xem_xét và đề_xuất Bộ Công_Thương sửa_đổi , bổ_sung Thông_tư . 
+
+Điều 43 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 21 tháng 10 năm 2011 ./. 

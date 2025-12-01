@@ -1,0 +1,223 @@
+Thông tư Ban hành Quy chuẩn kỹ thuật quốc gia về máy nổ mìn điện
+
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_Thương ;
+Căn_cứ <L rel="Pursuant"> Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <L rel="Others"> Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật </L> ;
+Điều 1 .  Ban_hành kèm theo Thông_tư này “ Quy_chuẩn kỹ_thuật quốc_gia về Máy_nổ mìn điện ” .  Ký_hiệu QCVN 01 : 2015/BCT . 
+
+Điều 2 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành từ ngày 22 tháng 12 năm 2015 . 
+
+Điều 3 .  Trách_nhiệm thi_hành 
+
+1 . Tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . 
+
+2 . Trường_hợp có khó_khăn , vướng_mắc , tổ_chức , cá_nhân có trách_nhiệm phản_ánh kịp_thời về Bộ Công_Thương để xem_xét , giải_quyết ./. 
+
+KT .  BỘ_TRƯỞNG 
+
+THỨ_TRƯỞNG 
+
+( Đã ký ) 
+
+Hoàng_Quốc_Vượng 
+
+QCVN 01 : 2015/BCT 
+
+QUY_CHUẨN KỸ_THUẬT QUỐC_GIA VỀ MÁY NỔ MÌN ĐIỆN 
+
+National_Technical Regulation_For_Electrical Blasting_Machine 
+
+Lời nói_đầu 
+
+do Ban soạn_thảo Quy_chuẩn kỹ_thuật quốc_gia về máy_nổ mìn điện biên_soạn , Vụ Khoa_học và Công_nghệ-Bộ Công_Thương trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Công_thương ban_hành kèm theo <TT rel="Reference"> Thông_tư số 14/2015/TT-BCT ngày 22 tháng 6 năm 2015 </TT> .
+National_Technical Regulation for Electrical Blasting_Machine 
+
+1 . QUY_ĐỊNH CHUNG 
+
+1.1 .  Phạm_vi điều_chỉnh 
+
+1.1.1 .  Quy_chuẩn kỹ_thuật này quy_định các mức giới_hạn đối_với các chỉ_tiêu kỹ_thuật và phương_pháp kiểm_định đối_với máy_nổ mìn điện kiểu tụ_điện . 
+
+1.1.2 .  Các máy_nổ mìn điện hoạt_động không theo nguyên_tắc kiểu tụ_điện không thuộc trong phạm_vi điều_chỉnh của Quy_chuẩn này . 
+
+1.2 .  Đối_tượng áp_dụng 
+
+Quy_chuẩn kỹ_thuật này áp_dụng đối_với các tổ_chức , cá_nhân có hoạt_động liên_quan tới sản_xuất , nhập_khẩu , kinh_doanh , thử_nghiệm , kiểm_định , sử_dụng máy_nổ mìn điện trên lãnh_thổ Việt_Nam , trừ trường_hợp Điều_ước quốc_tế mà Việt_Nam là thành_viên có quy_định khác . 
+
+1.3 .  Giải_thích từ_ngữ 
+
+Trong Quy_chuẩn này , các từ_ngữ dưới đây được hiểu như sau : 
+
+1.3.1 .  Máy_nổ mìn điện kiểu tụ_điện ( viết tắt là máy_nổ mìn điện ) là thiết_bị chuyên_dùng để cấp năng_lượng điện với mục_đích kích nổ kíp điện hoặc mạng điện nổ mìn . 
+
+1.3.2 .  Mạng điện nổ mìn là tập_hợp các kíp điện , dây_dẫn nối kíp điện với nhau và với nguồn phát dòng_điện ( viết tắt là mạng nổ ) . 
+
+1.3.3 .  Điện_trở phụ_tải định_mức là điện_trở mạch kíp tối_đa cho phép máy_nổ mìn đảm_bảo khởi nổ được toàn_bộ mạng nổ ; 
+
+1.3.4 .  Tự_động hạn_chế_độ rộng xung là tự_động hạn_chế_độ rộng xung do máy_nổ mìn phóng ra trong mạch nổ và thay_đổi các thông_số nguy_hiểm tia_lửa điện của hệ_thống nổ ( máy_nổ mìn-mạng nổ điện ) thành an_toàn tia_lửa điện trước khi mạng điện nổ có_thể bị hư_hại do một kíp điện nào đó trong nhóm kíp điện bị kích_hoạt . 
+
+1.3.5 .  Thời_gian phóng_điện an_toàn là thời_gian tối_đa cho phép của xung dòng_điện khi nổ mìn trong môi_trường có khí nguy_hiểm và bụi nổ ;  đơn_vị đo là ( ms ) . 
+
+1.3.6 .  Phần_tử không hư_hỏng 
+
+Phần_tử không hư_hỏng là phần_tử có các kết_cấu chế_tạo , lắp_ráp cũng như các thông_số kỹ_thuật không thay_đổi trong mọi trạng_thái làm_việc bình_thường cũng như sự_cố , công_suất tiêu_thụ trên nó không vượt quá 2/3 công_suất cho phép của phần_tử . 
+
+1.3.7 .  Kiểm_định kỹ_thuật an_toàn máy_nổ mìn điện là hoạt_động kỹ_thuật theo một quy_trình kiểm_định nhằm đánh_giá và xác_nhận sự phù_hợp tình_trạng kỹ_thuật an_toàn của máy_nổ mìn điện được quy_định trong quy_chuẩn này . 
+
+1.4 .  Tài_liệu viện_dẫn 
+
+1.4.1 .  QCVN 02 : 2008/BCT Quy_chuẩn kỹ_thuật quốc_gia về an_toàn trong bảo_quản , vận_chuyển , sử_dụng và tiêu_hủy vật_liệu nổ công_nghiệp . 
+
+1.4.2 .  QCVN 04 : 2009/BCT Quy_chuẩn kỹ_thuật quốc_gia về an_toàn trong khai_thác mỏ lộ_thiên . 
+
+1.4.3 .  QCVN 05 : 2012/BLĐTBXH Quy_chuẩn kỹ_thuật quốc_gia về an_toàn lao_động trong khai_thác và chế_biến đá . 
+
+1.4.4 .  QCVN 04-04 : 2012/BNNPTNT Quy_chuẩn kỹ_thuật quốc_gia_công_trình thủy_lợi-Khoan nổ mìn đào đá yêu_cầu kỹ_thuật . 
+
+1.4.5 .  QCVN 01 : 2011/BCT Quy_chuẩn kỹ_thuật quốc_gia về an_toàn trong khai_thác than hầm_lò . 
+
+1.4.6 .  TCVN 7079-0 : 2002 Thiết_bị điện dùng trong mỏ hầm_lò-Phần 0 : Yêu_cầu chung . 
+
+1.4.7 .  TCVN 7079-1 : 2002 Thiết_bị điện dùng trong mỏ hầm_lò-Phần 1 : Vỏ không xuyên_nổ-Dạng bảo_vệ “ d ” . 
+
+1.4.8 .  TCVN 7079-11 : 2002 Thiết_bị điện dùng trong mỏ hầm_lò-Phần 11 : An_toàn tia_lửa-Dạng bảo_vệ “ i ” . 
+
+1.4.9 .  TCVN 7079-18 : 2003 Thiết_bị điện dùng trong mỏ hầm_lò-Phần 18 : Đổ đầy chất bao_phủ-Dạng bảo_vệ “ m ” . 
+
+1.4.10 .  TCVN 4255 : 2008-Cấp bảo_vệ bằng vỏ ngoài ( mã IP ) . 
+
+2 . QUY_ĐỊNH VỀ KỸ_THUẬT 
+
+2.1 .  Máy_nổ mìn điện sử_dụng trong môi_trường bình_thường ( không có khí cháy và bụi nổ ) . 
+
+2.1.1 .  Điều_kiện làm_việc bình_thường : 
+
+2.1.1.1 .  Nhiệt_độ : ( 0 ° C_÷ + 40 ° C ) ; 
+
+2.1.1.2 .  Độ_ẩm tương_đối không_khí xung_quanh không lớn hơn 95 % . 
+
+2.1.1.3 .  Áp_suất khí_quyển : ( 80 kpa ÷ 110 kPa ) . 
+
+2.1.2 .  Cấp bảo_vệ bằng vỏ ngoài không được thấp hơn cấp IP54 theo TCVN 4255 : 2008-Cấp bảo_vệ bằng vỏ ngoài ( mã IP ) . 
+
+2.1.3 .  Điện_áp xung do máy_nổ mìn điện tạo ra không vượt quá 3000 V . 
+
+2.1.4 .  Kết_cấu của máy phải đảm_bảo chỉ hoạt_động khi có chìa_khóa chuyên_dụng .  Chìa_khóa chuyên_dụng có_thể là chìa_cơ_học hoặc điện_tử . 
+
+2.1.5 .  Điện_áp trên tụ_điện sau khi đã phóng xung để kích nổ phải được giảm hết trong thời_gian không quá 10 giây , các phần_tử sử_dụng để tiêu tán năng_lượng của tụ_điện sau khi đã phóng_điện phải là phần_tử không hư_hỏng . 
+
+2.1.6 .  Các kết_cấu_đấu nối với dây_dẫn của mạng nổ phải được trang_bị các kẹp nối chuyên_dụng .  Các bộ_phận dẫn_điện của thiết_bị nối ( các kẹp ) phải được cách_điện sao cho loại_trừ được khả_năng chúng bị ngắn mạch do có vật lạ hoặc các đầu dây nối chạm vào . 
+
+2.1.7 .  Phải có bộ_phận hiển_thị chỉ báo máy sẵn_sàng kích nổ sau khi tụ_điện được nạp đủ năng_lượng . 
+
+2.1.8 .  Kết_cấu của máy_nổ mìn điện và mạch điện của nó phải phải đảm_bảo khả_năng tự_động chặn dòng_điện chạy trong mạng nổ . 
+
+2.1.9 .  Độ lớn dòng_điện của xung phóng đến mạng nổ phải đảm_bảo lớn hơn 1,3 A 
+
+2.1.10 .  Máy_nổ mìn điện có_thể thiết_kế thêm mạch đo phụ để kiểm_tra tình_trạng mạng điện nổ mìn .  Khi đo phải có hiển_thị , dòng_điện qua mạng nổ mìn điện không được lớn hơn 50 mA . 
+
+2.1.11 .  Điện_trở cách_điện của thiết_bị phải lớn hơn 3 MΩ . 
+
+2.1.12 .  Tài_liệu kỹ_thuật của máy_nổ mìn điện phải thể_hiện đầy_đủ các thông_số kỹ_thuật của máy gồm có : Điện_áp sử_dụng , điện_trở cho phép của mạng nổ , thời_gian nạp của máy , biên_độ , thời_gian tồn_tại , năng_lượng của xung phóng và các thông_tin cần_thiết khác . 
+
+2.2 .  Máy_nổ mìn điện sử_dụng trong môi_trường có khí cháy và bụi_nổ 
+
+2.2.1 .  Máy_nổ mìn phải đáp_ứng các yêu_cầu của Mục 2.1 . 
+
+2.2.2 .  Máy_nổ mìn điện dùng trong môi_trường có khí cháy và bụi nổ phải tuân_thủ TCVN 7079-0 : 2002 Thiết_bị điện dùng trong mỏ hầm_lò-Phần 0 : yêu_cầu chung , TCVN 7079-1 : 2002 Vỏ không xuyên_nổ-Dạng bảo_vệ “ d ” ;  hoặc TCVN 7079-11 : 2002 : An_toàn tia_lửa-Dạng bảo_vệ “ i ” ;  hoặc TCVN 7079-18 : 2003 : Đổ đầy chất bao_phủ-Dạng bảo_vệ “ m ” hoặc theo các tiêu_chuẩn quốc_tế IEC 60079 , tùy theo dạng đăng_ký bảo_vệ nổ của nhà sản_xuất . 
+
+2.2.3 .  Điện_áp xung do máy_nổ mìn điện tạo ra không vượt quá 1500 V . 
+
+2.2.4 .  Đối_với máy_nổ mìn điện có thiết_kế thêm mạch đo phụ để kiểm_tra điện_trở của mạng điện nổ mìn thì mạch đo phụ này phải có dạng bảo_vệ phòng nổ :-An_toàn tia_lửa và dòng_điện qua mạng nổ mìn điện không được lớn hơn 50 mA . 
+
+2.2.5 .  Thời_gian nạp điện kể từ khi khởi_động cho đến khi bộ_phận chỉ báo tụ_điện đã được nạp đầy không lớn hơn 15 giây . 
+
+2.2.6 .  Bộ_phận hạn_chế_độ rộng xung cấp cho mạng nổ phải đảm_bảo các yêu_cầu sau : 
+
+2.2.6.1 .  Nguồn cung_cấp điện phải được cắt khỏi mạng nổ . 
+
+2.2.6.2 .  Thời_gian tồn_tại của xung 3ms ≤ t ≤ 4ms . 
+
+2.2.7 .  Trong điều_kiện phụ_tải định_mức , khi bộ_phận hiển_thị chỉ báo máy đã bắt_đầu kích_hoạt , độ lớn dòng_điện của xung phóng đến mạng nổ phải đảm_bảo không nhỏ hơn 1,3 A , năng_lượng của xung phóng phải đảm_bảo theo thông_số đã cho trong tài_liệu kỹ_thuật . 
+
+3 . QUY_ĐỊNH VỀ QUẢN_LÝ 
+
+3.1 .  Quy_định về kiểm_định 
+
+3.1.1 .  Yêu_cầu kiểm_định 
+
+3.1.1.1 .  Tổ_chức , cá_nhân sản_xuất , kinh_doanh và sử_dụng máy_nổ mìn điện phải thực_hiện việc kiểm_định chất_lượng phù_hợp với quy_chuẩn này và thực_hiện ghi nhãn theo quy_định tại Mục 3.4 của quy_chuẩn này . 
+
+3.1.1.2 . Việc đánh_giá sự phù_hợp đối_với máy_nổ mìn điện được thực_hiện theo phương_thức 7 : Thử_nghiệm , đánh_giá lô sản_phẩm hàng_hóa được quy_định tại mục VII , phụ_lục 2 , <TT rel="Reference"> Thông_tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 </TT> của Bộ Khoa_học và Công_nghệ về việc quy_định về công_bố hợp chuẩn , công_bố hợp quy và phương_thức đánh_giá sự phù_hợp với tiêu_chuẩn , quy_chuẩn kỹ_thuật .
+3.1.1.3 .  Quy_định về chỉ_định tổ_chức kiểm_định , tổ_chức thử_nghiệm 
+
+Việc chỉ_định tổ_chức kiểm_định , tổ_chức thử_nghiệm đối_với máy_nổ mìn điện được thực_hiện theo quy_định tại Mục 2 Chương II <TT rel="Reference"> Thông_tư số 48/2011/TT-BCT ngày 30 tháng 12 năm 2011 </TT> của Bộ Công_thương về việc quy_định quản_lý chất_lượng các sản_phẩm , hàng_hóa nhóm 2 thuộc phạm_vi quản_lý của Bộ Công_thương .
+3.1.1.4 .  Máy_nổ mìn điện trước khi lưu_thông trên thị_trường phải được gắn tem kiểm_định theo quy_định . 
+
+3.1.2 .  Phương_pháp kiểm_định 
+
+3.1.2.1 .  Việc đánh_giá sự phù_hợp của vỏ thiết_bị với yêu_cầu của Mục 2.1.2 theo TCVN 4255 : 2008-Cấp bảo_vệ bằng vỏ ngoài ( mã IP ) . 
+
+3.1.2.2 .  Tùy theo dạng bảo_vệ mà nhà sản_xuất lựa_chọn , việc kiểm_tra sự phù_hợp của thiết_bị với yêu_cầu của Mục 2.2.2 được thực_hiện theo TCVN 7079-1 : 2002 Vỏ không xuyên_nổ-Dạng bảo_vệ “ d ” ;  hoặc TCVN 7079-11 : 2002 : An_toàn tia_lửa-Dạng bảo_vệ “ i ” ;  hoặc TCVN 7079-18 : 2003 : Đổ đầy chất bao_phủ-Dạng bảo_vệ “ m ” hoặc các tiêu_chuẩn quốc_tế IEC 60079 , việc kiểm_tra thử_nghiệm phải được thực_hiện theo các phương_pháp thử tương_ứng nêu tại các tiêu_chuẩn kể trên . 
+
+3.1.2.3 .  Việc đánh_giá sự phù_hợp của thiết_bị với yêu_cầu của Mục 2.1.4 ;  2.1.6 ;  2.1.7 và 2.1.8 được thực_hiện bằng cách kiểm_tra tài_liệu kỹ_thuật , và mẫu thiết_bị được thử_nghiệm . 
+
+3.1.2.4 .  Việc đánh_giá sự phù_hợp của thiết_bị với yêu_cầu của Mục 2.1.3 và 2.2.3 được thực_hiện bằng cách đo điện_áp trên cực tụ_điện của máy_nổ mìn khi đã được nạp đầy bằng phương_pháp sử_dụng các điện_trở mẫu có cấp chính_xác 1 % và dụng_cụ đo có cấp chính_xác 0,5 % hoặc sử_dụng oscilloscope để ghi các dữ_liệu , sai_số phép đo không quá ± 5 % giá_trị đo . 
+
+3.1.2.5 .  Việc đánh_giá sự phù_hợp của thiết_bị với yêu_cầu của Mục 2.1.5 bao_gồm đo điện_áp trên tụ_điện sau 10 giây , sử_dụng dụng_cụ đo có cấp chính_xác 0,5 hoặc bằng phương_pháp ghi dao_động xung ( oscilloscope ) , sai_số phép đo không vượt quá ± 5 % . 
+
+3.1.2.6 .  Việc đánh_giá sự phù_hợp của thiết_bị với yêu_cầu của Mục 2.1.9 và 2.2.7 được thực_hiện bằng cách đo độ lớn và thời_gian tồn_tại của xung dòng_điện bằng cách sử_dụng các điện_trở mẫu với giá_trị bằng giá_trị điện_trở cho phép lớn nhất của mạng nổ , kết_hợp với máy ghi dao_động ( oscilloscope ) . 
+
+3.1.2.7 .  Việc đánh_giá sự phù_hợp của thiết_bị với yêu_cầu của Mục 2.1.10 và 2.1.11 được thực_hiện bằng cách kiểm_tra trực_tiếp trên mẫu thử_nghiệm bằng các dụng_cụ đo dòng_điện có cấp chính_xác 0,5 % và megomet 1000V . 
+
+3.1.3 .  Quy_trình kiểm_định 
+
+3.1.3.1 .  Để đảm_bảo độ tin_cậy và chính_xác , thiết_bị phải được kiểm_định lại theo chu_kỳ 1 năm , việc kiểm_tra thử_nghiệm tuân_thủ theo Mục 3.1.2 
+
+3.1.3.2 .  Tổ_chức được phép thực_hiện kiểm_định chất_lượng máy_nổ mìn điện phải công_bố quy_trình kiểm_định , các thiết_bị đo kiểm phục_vụ kiểm_định . 
+
+3.2 .  Quy_định về an_toàn trong sử_dụng 
+
+3.2.1 .  Trước mỗi lần sử_dụng , phải kiểm_tra kỹ tình_trạng kỹ_thuật của máy_nổ mìn như vỏ máy , ổ khóa khởi nổ , các kết_cấu đấu dây , vít bắt chặt , .  . . phải đảm_bảo máy hoạt_động tốt . 
+
+3.2.2 .  Chìa_khóa máy_nổ mìn điện phải do người chỉ_huy nổ mìn hoặc người được giao phụ_trách nổ mìn giữ trong suốt thời_gian từ lúc chuẩn_bị nạp mìn cho đến khi khởi nổ .  Cấm giao chìa khóa nổ mìn cho bất_cứ người nào khác . 
+
+3.2.3 .  Chỉ được phép nổ mìn sau khi đã kiểm_tra và đo điện_trở của mạng nổ đảm_bảo an_toàn . 
+
+3.2.4 .  Trước khi nổ mìn trong môi_trường có khí cháy và bụi nổ phải kiểm_tra nồng_độ khí cháy trong môi_trường , đảm_bảo nồng_độ khí cháy nằm trong giới_hạn cho phép theo quy_định của quy_chuẩn kỹ_thuật hiện_hành ( với mỏ than nồng_độ khí mê tan cho phép trong không khí mỏ phải nhỏ hơn 1 % ) . 
+
+3.2.5 .  Không được phép tháo lắp , thay_thế các chi_tiết của máy trong môi_trường có khí cháy và bụi nổ .  Chỉ được kiểm_tra và thay_thế nguồn pin ở khu_vực an_toàn ( không có khí cháy và bụi nổ ) . 
+
+3.2.6 .  Sau mỗi lần sử_dụng , phải lau_chùi , vệ_sinh sạch_sẽ máy_nổ mìn , giao cho người có trách_nhiệm kiểm_tra , bảo_quản tại nơi quy_định . 
+
+3.3 .  Quy_định về kiểm_tra 
+
+Máy_nổ mìn điện nhập_khẩu , sản_xuất trong nước , lưu_thông trên thị_trường và trong quá_trình sử_dụng phải chịu sự kiểm_tra về chất_lượng theo quy_định của <TT rel="Reference"> Thông_tư số 48/2011/TT-BCT ngày 30 tháng 12 năm 2011 </TT> của Bộ Công_Thương và pháp_luật hiện_hành về chất_lượng sản_phẩm , hàng hóa .
+3.4 .  Ghi_nhãn 
+
+Máy_nổ mìn điện phải thực_hiện việc ghi nhãn theo quy_định tại <NĐ rel="Reference"> Nghị_định số 89/2006/NĐ-CP ngày 30 tháng 8 năm 2006 </NĐ> của Chính_phủ về nhãn hàng_hóa và thể_hiện các thông_tin sau :
+3.4.1 .  Loại thiết_bị . 
+
+3.4.2 .  Ký_hiệu nhà sản_xuất hoặc ký_hiệu hàng_hóa . 
+
+3.4.3 .  Điện_áp sử_dụng . 
+
+3.4.4 .  Điện_trở cho phép của mạng nổ . 
+
+3.4.5 .  Số_hiệu của thiết_bị và năm xuất_xưởng . 
+
+3.4.6 .  Ký_hiệu cấp bảo_vệ của vỏ . 
+
+3.4.7 .  Ký_hiệu của dạng bảo_vệ nổ ( nếu sử_dụng trong môi_trường có khí cháy và bụi nổ ) . 
+
+4 . TỔ_CHỨC THỰC_HIỆN 
+
+4.1 .  Vụ Khoa_học và Công_nghệ chủ_trì , phối_hợp với Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp , các đơn_vị có liên_quan có trách_nhiệm hướng_dẫn và kiểm_tra việc thực_hiện Quy_chuẩn này . 
+
+4.2 .  Cục Quản_lý thị_trường có trách_nhiệm tổ_chức và chỉ_đạo Chi_cục Quản_lý thị_trường các tỉnh , thành_phố trực_thuộc Trung_ương kiểm_tra , kiểm_soát và xử_lý vi_phạm_quy_định về chất_lượng sản_phẩm , hàng_hóa lưu_thông trên thị_trường theo quy_định của pháp_luật và Quy_chuẩn này . 
+
+4.3 .  Sở Công_Thương các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm hướng_dẫn và kiểm_tra việc thực_hiện Quy_chuẩn kỹ_thuật này tại địa_phương , báo_cáo Bộ Công_Thương về tình_hình thực_hiện , những khó_khăn , vướng_mắc định_kỳ trước ngày 31 tháng 01 của năm tiếp_theo hoặc đột_xuất . 
+
+4.4 .  Trong trường_hợp các văn_bản quy_phạm pháp_luật , tài_liệu , tiêu_chuẩn được viện_dẫn trong Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc thay_thế_thì thực_hiện theo quy_định tại văn_bản mới ./. 

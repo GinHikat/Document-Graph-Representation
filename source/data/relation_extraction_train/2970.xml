@@ -1,0 +1,273 @@
+Thông tư Quy định về việc quản lý, sử dụng chữ ký số, chứng thư số và dịch vụ chứng thực chữ ký số của Ngân hàng Nhà nước
+
+Căn_cứ <L rel="Pursuant"> Luật Ngân_hàng Nhà_nước Việt_Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật các tổ_chức tín_dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin số 67/2006/QH11 ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29 tháng 11 năm 2005 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 </NĐ> của Chính_phủ sửa_đổi bổ_sung một_số điều <NĐ rel="Others"> Nghị_định 26/2007/NĐ-CP của Chính_phủ ngày 15 tháng 02 năm 2007 </NĐ> quy_định chi_tiết thi_hành <L rel="Others"> Luật Giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 </NĐ> sửa_đổi , bổ_sung một_số điều của <NĐ rel="Others"> Nghị_định 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật Giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số và <NĐ rel="Others"> Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="Others"> Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 </NĐ> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 </NĐ> quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định việc quản_lý , sử_dụng chữ_ký số , chứng_thư số và dịch_vụ chứng_thực chữ_ký số trong giao_dịch điện_tử của Ngân_hàng Nhà_nước Việt_Nam ( Ngân_hàng Nhà_nước ) . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+1 . Các đơn_vị thuộc Ngân_hàng Nhà_nước ;  các tổ_chức tín_dụng ;  chi_nhánh ngân_hàng nước_ngoài ;  Kho_bạc Nhà_nước . 
+
+2 . Tổ_chức khác sử_dụng dịch_vụ chứng_thực chữ_ký số của Ngân_hàng Nhà_nước trong các hoạt_động giao_dịch điện_tử do Ngân_hàng Nhà_nước tổ_chức . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . “ Chứng_thư số ” là một dạng chứng_thư điện_tử do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số của Ngân_hàng Nhà_nước cấp . 
+
+2 . “ Dịch_vụ chứng_thực chữ_ký số ” là một loại_hình dịch_vụ do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số của Ngân_hàng Nhà_nước cấp .  Dịch_vụ chứng_thực chữ_ký số bao_gồm : 
+
+a ) Tạo cặp khóa bao_gồm khóa công_khai và khóa bí_mật cho thuê_bao ; 
+
+b ) Cấp , gia_hạn , tạm dừng , khôi_phục và thu_hồi chứng_thư số của thuê_bao ; 
+
+c ) Duy_trì trực_tuyến cơ_sở dữ_liệu về chứng_thư số ; 
+
+d ) Những dịch_vụ khác có liên_quan theo quy_định . 
+
+3 . “ Tổ_chức cung_cấp dịch_vụ chữ_ký số ” là tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng của Ngân_hàng Nhà_nước ( CA-NHNN ) do Cục Công_nghệ tin_học quản_trị , vận_hành . 
+
+4 . “ Thuê_bao ” là tổ_chức , cá_nhân thuộc đơn_vị , tổ_chức theo quy_định tại Điều 2 Thông_tư này được tổ_chức cung_cấp dịch_vụ chữ_ký số cấp chứng_thư số ;  chấp_nhận chứng_thư số và giữ khóa bí_mật tương_ứng với khóa công_khai ghi trên chứng_thư số được cấp đó . 
+
+5 . “ Tổ_chức quản_lý thuê_bao ” là các đơn_vị thuộc Ngân_hàng Nhà_nước , tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước hoặc các tổ_chức khác đề_nghị cấp chứng_thư số cho cá_nhân thuộc đơn_vị , tổ_chức của mình . 
+
+6 . “ Giao_dịch điện_tử của Ngân_hàng Nhà_nước ” là các hoạt_động , nghiệp_vụ được tiến_hành bằng phương_thức điện_tử của Ngân_hàng Nhà_nước . 
+
+7 . “ Khóa bí_mật ” là một khóa trong cặp khóa thuộc hệ_thống mật_mã không đối_xứng , được dùng để tạo chữ_ký số . 
+
+8 . “ Khóa công_khai ” là một khóa trong cặp khóa thuộc hệ_thống mật_mã không đối_xứng , được sử_dụng để kiểm_tra chữ_ký số được tạo bởi khóa bí_mật tương_ứng trong cặp khóa . 
+
+9 . “ Người ký ” là thuê_bao dùng đúng khóa bí_mật của mình để ký số vào một thông_điệp dữ_liệu dưới tên của mình . 
+
+10 .  “ Người nhận ” là tổ_chức , cá_nhân nhận được thông_điệp dữ_liệu được ký số bởi người ký , sử_dụng chứng_thư số của người ký đó để kiểm_tra chữ_ký số trong thông_điệp dữ_liệu nhận được và tiến_hành các hoạt_động , giao_dịch có liên_quan . 
+
+Điều 4 .  Nội_dung chứng_thư số 
+
+1 . Tên tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+2 . Tên của thuê_bao . 
+
+3 . Tên tổ_chức quản_lý thuê_bao . 
+
+4 . Số_hiệu ( Serial Number ) của chứng_thư số . 
+
+5 . Thời_hạn có hiệu_lực của chứng_thư số . 
+
+6 . Khóa công_khai của thuê_bao . 
+
+7 . Chữ_ký số của tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+8 . Các hạn_chế về mục_đích , phạm_vi sử_dụng của chứng_thư số . 
+
+9 . Các hạn_chế về trách_nhiệm pháp_lý của tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+10 .  Các nội_dung cần_thiết khác theo quy_định của Bộ Thông_tin và Truyền_thông . 
+
+Điều 5 .  Cấp chứng_thư số 
+
+1 . Chứng_thư số cho cá_nhân thuộc tổ_chức quản_lý thuê_bao 
+
+Khi có nhu_cầu cấp chứng_thư số cho cá_nhân thuộc tổ_chức quản_lý thuê_bao , tổ_chức quản_lý thuê_bao nộp 01 ( một ) bộ hồ_sơ đề_nghị cấp chứng_thư số qua mạng , nộp trực_tiếp hoặc theo đường bưu_điện đến trụ_sở tổ_chức cung_cấp dịch_vụ chữ_ký số .  Hồ_sơ bao_gồm : 
+
+a ) Văn_bản đề_nghị cấp chứng_thư số của tổ_chức quản_lý thuê_bao theo Mẫu_biểu 01 đính kèm Thông_tư này ; 
+
+b ) Giấy đề_nghị cấp chứng_thư số của cá_nhân thuộc tổ_chức quản_lý thuê_bao theo Mẫu biểu 02 đính kèm Thông_tư này . 
+
+2 . Chứng_thư số cho người có thẩm_quyền ( người đại_diện hợp_pháp ) 
+
+Khi có nhu_cầu cấp chứng_thư số cho người có thẩm_quyền ( người đại_diện hợp_pháp ) của tổ_chức quản_lý thuê_bao , tổ_chức quản_lý thuê_bao nộp 01 ( một ) bộ hồ_sơ đề_nghị cấp chứng_thư số trực_tiếp hoặc theo đường bưu_điện đến trụ_sở tổ_chức cung_cấp dịch_vụ chữ_ký số .  Hồ_sơ bao_gồm : 
+
+a ) Các văn_bản theo quy_định tại Khoản 1 Điều này ; 
+
+b ) Bản_sao giấy chứng_nhận đã đăng_ký mẫu con_dấu của cơ_quan , tổ_chức đã được cấp theo quy_định của pháp_luật về quản_lý và sử_dụng con_dấu ; 
+
+c ) Bản_sao văn_bản xác_nhận chức_danh của người có thẩm_quyền của cơ_quan , tổ_chức ; 
+
+d ) Đối_với bản_sao theo quy_định tại điểm b , c Khoản này , tổ_chức có quyền lựa_chọn bản_sao được cấp từ sổ gốc hoặc bản_sao có chứng_thực hoặc bản_sao kèm xuất_trình bản_chính để đối_chiếu . 
+
+3 . Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận đủ hồ_sơ đề_nghị cấp chứng_thư số hợp_lệ , tổ_chức cung_cấp dịch_vụ chữ_ký số thực_hiện cấp chứng_thư số cho thuê_bao và thông_báo kết_quả qua mạng hoặc qua đường bưu_điện .  Trường_hợp từ_chối thì nêu rõ lý_do . 
+
+4 . Thời_hạn hiệu_lực chứng_thư số của thuê_bao do tổ_chức quản_lý thuê_bao đề_nghị nhưng không quá 05 năm kể từ ngày chứng_thư số có hiệu_lực . 
+
+Điều 6 .  Gia_hạn chứng_thư số 
+
+1 . Chứng_thư số đề_nghị gia_hạn phải đảm_bảo còn hiệu_lực . 
+
+2 . Tổ_chức quản_lý thuê_bao gửi Giấy đề_nghị gia_hạn chứng_thư số theo Mẫu biểu 03 đính kèm Thông_tư này qua mạng , nộp trực_tiếp hoặc theo đường bưu_điện đến tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+3 . Giấy đề_nghị gia_hạn chứng_thư số phải được gửi tới tổ_chức cung_cấp dịch_vụ chữ_ký số trước thời_điểm hết hiệu_lực của chứng_thư số ít_nhất 10 ngày . 
+
+4 . Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận được Giấy đề_nghị gia_hạn chứng_thư số hợp_lệ , tổ_chức cung_cấp dịch_vụ chữ_ký số thực_hiện gia_hạn chứng_thư số cho thuê_bao và thông_báo kết_quả qua mạng hoặc qua đường bưu_điện .  Trường_hợp từ_chối thì nêu rõ lý_do . 
+
+Điều 7 .  Tạm dừng chứng_thư số 
+
+1 . Chứng_thư số của thuê_bao bị tạm dừng khi xảy ra một trong các trường_hợp sau đây : 
+
+a ) Khóa bí_mật bị lộ hoặc nghi bị lộ ;  thiết_bị lưu_giữ khóa bí_mật bị thất_lạc , bị sao_chép trái_phép hoặc các trường_hợp mất an_toàn khác , thuê_bao gửi Giấy đề_nghị tạm dừng chứng_thư số theo Mẫu biểu 04 đính kèm Thông_tư này qua mạng , nộp trực_tiếp hoặc theo đường bưu_điện đến tổ_chức cung_cấp dịch_vụ chữ_ký số ; 
+
+b ) Theo yêu_cầu bằng văn_bản của cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh hoặc Bộ Thông_tin và Truyền_thông ; 
+
+c ) Theo yêu_cầu bằng văn_bản của tổ_chức quản_lý thuê_bao ; 
+
+d ) Tổ_chức cung_cấp dịch_vụ chữ_ký số phát_hiện ra bất_cứ sai_sót , sự_cố nào có_thể ảnh_hưởng đến quyền_lợi của thuê_bao hoặc an_ninh , an_toàn của hệ_thống cung_cấp dịch_vụ chứng_thực chữ_ký số ; 
+
+đ ) Thời_gian tạm dừng chứng_thư số theo quy_định tại điểm a , c Khoản này theo yêu_cầu của thuê_bao hoặc tổ_chức quản_lý thuê_bao .  Thời_gian tạm dừng chứng_thư số theo quy_định tại điểm b Khoản này theo yêu_cầu của cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh hoặc Bộ Thông_tin và Truyền_thông . 
+
+2 . Khi có các thông_tin , yêu_cầu như Khoản 1 Điều này , tổ_chức cung_cấp dịch_vụ chữ_ký số lập_tức tiến_hành tạm dừng chứng_thư số , thông_báo kết_quả qua mạng hoặc qua đường bưu_điện trong thời_hạn 05 ngày làm_việc và cập_nhật thông_tin trên trang thông_tin điện_tử của Ngân_hàng Nhà_nước . 
+
+Điều 8 .  Khôi_phục chứng_thư số 
+
+1 . Chứng_thư số đề_nghị khôi_phục phải đảm_bảo đang trong thời_gian tạm dừng . 
+
+2 . Chứng_thư số của thuê_bao được khôi_phục trong các trường_hợp sau : 
+
+a ) Theo yêu_cầu bằng văn_bản của cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh hoặc Bộ Thông_tin và Truyền_thông ; 
+
+b ) Theo đề_nghị khôi_phục chứng_thư số của tổ_chức quản_lý thuê_bao ; 
+
+c ) Thời_gian tạm dừng chứng_thư số theo đề_nghị tạm dừng đã hết ; 
+
+d ) Chứng_thư số bị tạm dừng theo quy_định tại điểm d Khoản 1 Điều 7 Thông_tư này và những sai_sót , sự_cố đó đã được khắc_phục . 
+
+3 . Tổ_chức quản_lý thuê_bao gửi Giấy đề_nghị khôi_phục chứng_thư số theo Mẫu biểu 05 đính kèm Thông_tư này qua mạng , nộp trực_tiếp hoặc theo đường bưu_điện đến tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+4 . Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận được Giấy đề_nghị khôi_phục chứng_thư số hợp_lệ , tổ_chức cung_cấp dịch_vụ chữ_ký số thực_hiện khôi_phục chứng_thư số cho thuê_bao và thông_báo kết_quả qua mạng hoặc qua đường bưu_điện .  Trường_hợp từ_chối thì nêu rõ lý_do . 
+
+Điều 9 .  Thu_hồi chứng_thư số 
+
+1 . Chứng_thư số của thuê_bao bị thu_hồi trong các trường_hợp sau : 
+
+b ) Theo yêu_cầu bằng văn_bản của tổ_chức quản_lý thuê_bao ; 
+
+c ) Tổ_chức quản_lý thuê_bao giải_thể hoặc phá_sản theo quy_định của pháp_luật ; 
+
+d ) Có đủ căn_cứ xác_định thuê_bao vi_phạm các quy_định về quản_lý , sử_dụng khóa bí_mật và thiết_bị lưu_giữ khóa bí_mật theo Khoản 1 , Khoản 2 Điều 15 Thông_tư này . 
+
+2 . Tổ_chức quản_lý thuê_bao gửi Giấy đề_nghị thu_hồi chứng_thư số theo Mẫu biểu 06 đính kèm Thông_tư này qua mạng , nộp trực_tiếp hoặc theo đường bưu_điện đến tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+3 . Khi có các thông_tin , yêu_cầu như Khoản 1 Điều này , tổ_chức cung_cấp dịch_vụ chữ_ký số lập_tức tiến_hành thu_hồi chứng_thư số , thông_báo kết_quả qua mạng hoặc qua đường bưu_điện trong thời_hạn 05 ngày làm_việc và cập_nhật thông_tin trên trang thông_tin điện_tử của Ngân_hàng Nhà_nước . 
+
+Điều 10 .  Tạo khóa và phân_phối khóa 
+
+1 . Một cặp khóa của thuê_bao do thuê_bao hoặc tổ_chức cung_cấp dịch_vụ chữ_ký số khởi tạo . 
+
+2 . Trường_hợp tự tạo cặp khóa , thuê_bao phải tạo cặp khóa trước ngày hết hạn kích_hoạt nêu tại thông_báo cấp chứng_thư số .  Trường_hợp thuê_bao chưa tạo được cặp khóa trước ngày hết hạn kích_hoạt , tổ_chức quản_lý thuê_bao gửi Giấy đề_nghị thay_đổi mã_kích_hoạt trước ngày hết hạn kích_hoạt tại thông_báo cấp chứng_thư số theo Mẫu biểu 08 gửi tổ_chức cung_cấp dịch_vụ chữ_ký số đề_nghị gia_hạn thời_gian tạo khóa cho thuê_bao .  Trường_hợp quá ngày hết hạn kích_hoạt tại thông_báo cấp chứng_thư số , thuê_bao có nhu_cầu tiếp_tục sử_dụng chứng_thư số thực_hiện các thủ_tục theo Điều 11 Thông_tư này . 
+
+3 . Trường_hợp tổ_chức cung_cấp dịch_vụ chữ_ký số tạo cặp khóa cho thuê_bao , thuê_bao phải đến tổ_chức cung_cấp dịch_vụ chữ_ký số đề_nghị tạo cặp khóa .  Tổ_chức cung_cấp dịch_vụ chữ_ký số thực_hiện tạo cặp khóa và bàn_giao cho thuê_bao . 
+
+4 . Thuê_bao phải sử_dụng thiết_bị lưu_giữ khóa bí_mật theo hướng_dẫn của tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+Điều 11 .  Thay_đổi cặp khóa 
+
+1 . Thuê_bao có yêu_cầu thay_đổi cặp khóa phải đảm_bảo_chứng_thư số còn hiệu_lực .  Trường_hợp chứng_thư số hết hiệu_lực , thuê_bao có nhu_cầu tiếp_tục sử_dụng chứng_thư số thực_hiện các thủ_tục theo Điều 5 Thông_tư này . 
+
+2 . Tổ_chức quản_lý thuê_bao gửi Giấy đề_nghị thay_đổi cặp khóa theo Mẫu biểu 07 đính kèm Thông_tư này qua mạng , nộp trực_tiếp hoặc theo đường bưu_điện đến tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+3 . Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận được Giấy đề_nghị thay_đổi cặp khóa hợp_lệ , tổ_chức cung_cấp dịch_vụ chữ_ký số thực_hiện thay_đổi cặp khóa cho thuê_bao và thông_báo kết_quả qua mạng hoặc qua đường bưu_điện .  Trường_hợp từ_chối thì nêu rõ lý_do . 
+
+Điều 12 .  Cập_nhật và công_bố thông_tin 
+
+1 . <TT rel="Reference"> Thông_tư quản_lý , sử_dụng chữ_ký số , chứng_thư số và dịch_vụ chứng_thực chữ_ký số </TT> .
+2 . Danh_sách chứng_thư số có hiệu_lực , bị tạm dừng , bị thu_hồi của thuê_bao . 
+
+3 . Những thông_tin cần_thiết khác . 
+
+Điều 13 .  Trách_nhiệm của tổ_chức cung_cấp dịch_vụ chữ_ký số 
+
+1 . Cấp , gia_hạn , tạm dừng , thu_hồi , khôi_phục chứng_thư số và thay_đổi cặp khóa cho thuê_bao khi có yêu_cầu . 
+
+2 . Quản_lý , vận_hành hệ_thống trang_thiết_bị kỹ_thuật cung_cấp dịch_vụ chứng_thực chữ_ký số của Ngân_hàng Nhà_nước . 
+
+3 . Có phương_án dự_phòng đảm_bảo duy_trì hoạt_động cung_cấp dịch_vụ chứng_thực chữ_ký số của Ngân_hàng Nhà_nước an_toàn , liên_tục . 
+
+4 . Lưu_trữ đầy_đủ , chính_xác và cập_nhật thông_tin của thuê_bao phục_vụ cho việc quản_lý chứng_thư số trong suốt thời_gian chứng_thư số có hiệu_lực . 
+
+5 . Phân_phối khóa và chứng_thư số cho thuê_bao . 
+
+6 . Cung_cấp cho thuê_bao thông_tin về phạm_vi , giới_hạn sử_dụng của chứng_thư số , yêu_cầu bảo_mật và những thông_tin khác có khả_năng ảnh_hưởng đến quyền_lợi của thuê_bao . 
+
+7 . Đảm_bảo kênh thông_tin tiếp_nhận yêu_cầu tạm dừng , thu_hồi chứng_thư số hoạt_động 24 giờ trong ngày và 07 ngày trong tuần . 
+
+8 . Lưu_trữ thông_tin liên_quan đến hoạt_động tạm dừng , thu_hồi chứng_thư số hoặc thay_đổi cặp khóa chứng_thư số trong thời_gian ít_nhất 05 năm kể từ thời_điểm chứng_thư số bị tạm dừng , thu_hồi hoặc thay_đổi cặp khóa . 
+
+9 . Công_bố danh_sách các chứng_thư số đang hoạt_động , tạm dừng hoặc thu_hồi . 
+
+10 .  Cung_cấp các thông_tin về phần_mềm , tài_liệu hướng_dẫn về quản_lý , sử_dụng chữ_ký số , chứng_thư số và dịch_vụ chứng_thực chữ_ký số . 
+
+Điều 14 .  Trách_nhiệm của tổ_chức quản_lý thuê_bao 
+
+1 . Đăng_ký chứng_thư số của người có thẩm_quyền ( người đại_diện hợp_pháp ) thay_mặt tổ_chức quản_lý thuê_bao ký chữ_ký số các văn_bản hồ_sơ liên_quan đến chứng_thư số . 
+
+2 . Quản_lý , thống_kê , cập_nhật danh_sách thuê_bao trong tổ_chức .  Rà_soát danh_sách các thuê_bao tối_thiểu 3 tháng 1 lần đảm_bảo : ( i ) danh_sách các thuê_bao và các nghiệp_vụ được cấp phù_hợp với vị_trí công_tác , yêu_cầu công_việc ;  ( ii ) các cán_bộ nghỉ_việc , chuyển công_tác phải được thu_hồi chứng_thư số kịp_thời ;  ( iii ) các chứng_thư số sắp hết hiệu_lực được gia_hạn kịp_thời đảm_bảo hoạt_động nghiệp_vụ thông_suốt , liên_tục . 
+
+3 . Báo_cáo định_kỳ và đột_xuất theo quy_định tại Điều 17 Thông_tư này . 
+
+4 . Chịu trách_nhiệm về tính chính_xác của các thông_tin tại hồ_sơ về chứng_thư số của thuê_bao do mình quản_lý gửi tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+5 . Có trách_nhiệm gửi hồ_sơ về chứng_thư số qua mạng thông_qua cổng thông_tin điện_tử Ngân_hàng Nhà_nước hoặc theo đường bưu_điện hoặc trực_tiếp đến tổ_chức cung_cấp dịch_vụ chữ_ký số ;  Hồ_sơ về chứng_thư số gửi qua mạng phải được người có thẩm_quyền ký chữ_ký số do tổ_chức cung_cấp dịch_vụ chữ_ký số cấp . 
+
+6 . Hướng_dẫn , kiểm_tra và tạo điều_kiện cho các thuê_bao thuộc tổ_chức mình quản_lý , sử_dụng chứng_thư số và khóa bí_mật theo đúng các quy_định tại Thông_tư này . 
+
+7 . Thông_báo kịp_thời cho tổ_chức cung_cấp dịch_vụ chữ_ký số tạm dừng hoặc thu_hồi chứng_thư số của người có thẩm_quyền trong các trường_hợp : người có thẩm_quyền tạm nghỉ_việc , nghỉ_việc , thay_đổi vị_trí công_tác hoặc chuyển sang tổ_chức khác . 
+
+8 . Thông_báo kịp_thời cho tổ_chức cung_cấp dịch_vụ chữ_ký số tạm dừng hoặc thu_hồi chứng_thư số của thuê_bao trong các trường_hợp : thuê_bao tạm nghỉ_việc , nghỉ_việc hoặc chuyển sang tổ_chức khác ;  thuê_bao chuyển công_việc mới và không sử_dụng chứng_thư số đã cấp và các trường_hợp khác xuất_phát từ nhu_cầu của tổ_chức quản_lý thuê_bao . 
+
+Điều 15 .  Trách_nhiệm của thuê_bao 
+
+1 . Sử_dụng chứng_thư số đúng mục_đích đã được cấp . 
+
+2 . Bảo_quản và sử_dụng khóa bí_mật , các dữ_liệu trong thiết_bị lưu_giữ khóa bí_mật theo chế_độ “ Mật ” ;  không chia_sẻ , cho mượn mã khóa bí_mật , thiết_bị lưu_giữ khóa bí_mật của chứng_thư số . 
+
+3 . Thông_báo kịp_thời cho tổ_chức cung_cấp dịch_vụ chữ_ký số và tổ_chức quản_lý thuê_bao của mình trong trường_hợp phát_hiện hoặc nghi_ngờ chứng_thư số , khóa bí_mật không còn an_toàn . 
+
+4 . Tuân_thủ các quy_định khác về cấp , quản_lý và sử_dụng chứng_thư số . 
+
+Điều 16 .  Trách_nhiệm của người ký , người nhận 
+
+1 . Trước khi chấp_nhận chữ_ký số của người ký , người nhận phải kiểm_tra những thông_tin sau : 
+
+a ) Hiệu_lực , phạm_vi sử_dụng , giới_hạn trách_nhiệm chứng_thư số của người ký và chữ_ký số của tổ_chức cung_cấp dịch_vụ chữ_ký số ; 
+
+b ) Chữ_ký số phải được tạo bởi khóa bí_mật tương_ứng với khóa công_khai trên chứng_thư số của người ký . 
+
+2 . Người nhận phải chịu mọi thiệt_hại xảy ra trong trường_hợp sau : 
+
+a ) Không tuân_thủ các quy_định tại Khoản 1 Điều này ; 
+
+b ) Đã biết hoặc được thông_báo về sự không còn tin_cậy của chứng_thư số và khóa bí_mật của người ký mà vẫn chấp_nhận chứng_thư số đó . 
+
+Điều 17 .  Chế_độ báo_cáo 
+
+1 . Báo_cáo định_kỳ về việc quản_lý , sử_dụng chứng_thư số : 
+
+a ) Thời_gian gửi báo_cáo : 06 tháng/1 lần , chậm nhất vào ngày 15 tháng 01 và ngày 15 tháng 7 hàng năm ; 
+
+b ) Hình_thức gửi báo_cáo : Báo_cáo bằng văn_bản và file báo_cáo dạng Excel của Microsoft gửi qua mạng theo Mẫu biểu 09 về Ngân_hàng Nhà_nước ( Cục Công_nghệ tin_học ) . 
+
+2 . Báo_cáo đột_xuất khi có yêu_cầu của tổ_chức cung_cấp dịch_vụ chữ_ký số . 
+
+Điều 18 .  Vi_phạm và xử_lý vi_phạm , khiếu_nại và giải_quyết tranh_chấp 
+
+Việc xác_định vi_phạm và xử_lý vi_phạm , khiếu_nại và giải_quyết tranh_chấp về chữ_ký số và dịch_vụ chứng_thực chữ_ký số của tổ_chức cung_cấp dịch_vụ chữ_ký số , thuê_bao và tổ_chức quản_lý thuê_bao thực_hiện theo quy_định pháp_luật về chữ_ký số và các quy_định khác của pháp_luật có liên_quan . 
+
+Điều 19 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 02 năm 2016 và thay_thế <TT rel="Replace"> Thông_tư 12/2011/TT-NHNN ngày 17/5/2011 </TT> quy_định về việc quản_lý , sử_dụng chữ_ký số , chứng_thư số và dịch_vụ chứng_thực chữ_ký số của Ngân_hàng Nhà_nước .
+Điều 20 .  Tổ_chức thực_hiện 
+
+1 . Cục Công_nghệ tin_học có trách_nhiệm : 
+
+a ) Hướng_dẫn việc quản_lý , sử_dụng chữ_ký số , chứng_thư số và dịch_vụ chứng_thực chữ_ký số ; 
+
+b ) Theo_dõi và kiểm_tra việc thực_hiện Thông_tư này . 
+
+2 . Cơ_quan Thanh_tra , giám_sát ngân_hàng có trách_nhiệm phối_hợp với Cục Công_nghệ tin_học kiểm_tra việc chấp_hành Thông_tư này của các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài . 
+
+3 . Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước ;  Giám_đốc Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương ;  Chủ_tịch hội_đồng quản_trị , Chủ_tịch Hội_đồng thành_viên , Tổng_giám_đốc ( Giám_đốc ) các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước có trách_nhiệm tổ_chức thực_hiện Thông_tư này . 

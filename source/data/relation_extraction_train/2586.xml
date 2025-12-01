@@ -1,0 +1,719 @@
+Thông tư Hướng dẫn triển khai sản phẩm bảo hiểm liên kết đơn vị
+
+Căn_cứ <L rel="Pursuant"> Luật Kinh_doanh bảo_hiểm_số 24/2000/QH10 ngày 9/12/2000 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Kinh_doanh bảo_hiểm_số 61/2010/QH12 </L> ngày 24/11/2010 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 45/2007/NĐ-CP ngày 27/3/2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <L rel="Others"> Luật Kinh_doanh bảo_hiểm </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 123/2011/NĐ-CP ngày 28/12/2011 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Kinh_doanh bảo_hiểm </L> </L> và sửa_đổi , bổ_sung một_số điều của <NĐ rel="Others"> Nghị_định số 45/2007/NĐ-CP ngày 27/3/2007 </NĐ> quy_định chi_tiết thi_hành một_số điều của <L rel="Others"> Luật Kinh_doanh bảo_hiểm </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 118/2008/NĐ-CP ngày 27/11/2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Điều 1 .  Đối_tượng , phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định việc triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị của các doanh_nghiệp kinh_doanh bảo_hiểm_nhân_thọ ( sau đây gọi tắt là doanh_nghiệp bảo_hiểm ) và các tổ_chức , cá_nhân có liên_quan trên lãnh_thổ nước Cộng_hòa xã_hội chủ_nghĩa Việt_Nam . 
+
+Điều 2 .  Bảo_hiểm_liên_kết đơn_vị 
+
+1 . Cơ_cấu phí bảo_hiểm và quyền_lợi bảo_hiểm được tách_bạch giữa phần bảo_hiểm_rủi_ro và phần đầu_tư .  Bên mua bảo_hiểm được linh_hoạt trong việc xác_định phí bảo_hiểm và số tiền bảo_hiểm theo thỏa_thuận tại hợp_đồng bảo_hiểm . 
+
+2 . Bên mua bảo_hiểm được quyền lựa_chọn đầu tư phí bảo_hiểm của mình để mua các đơn_vị của các quỹ liên_kết đơn_vị do doanh_nghiệp bảo_hiểm thành_lập , được hưởng toàn_bộ kết_quả đầu_tư và chịu mọi rủi_ro đầu_tư từ các quỹ liên_kết đơn_vị đã lựa_chọn tương_ứng với phần phí bảo_hiểm đã đầu_tư .  Việc mua , bán các đơn_vị quỹ chỉ được thực_hiện giữa doanh_nghiệp bảo_hiểm và bên mua bảo_hiểm . 
+
+3 . Doanh_nghiệp bảo_hiểm được hưởng các khoản phí do bên mua bảo_hiểm_trả theo thỏa_thuận tại hợp_đồng bảo_hiểm . 
+
+Điều 3 .  Giải_thích thuật_ngữ 
+
+1 . Quỹ liên_kết đơn_vị là quỹ được hình_thành từ nguồn phí bảo_hiểm của bên mua bảo_hiểm đối_với các hợp_đồng bảo_hiểm_liên_kết đơn_vị và là một phần của quỹ chủ hợp_đồng bảo_hiểm . 
+
+2 . Đơn_vị của quỹ liên_kết đơn_vị là tài_sản của quỹ liên_kết đơn_vị được chia thành nhiều phần bằng nhau . 
+
+3 . Giá bán là giá một đơn_vị của quỹ liên_kết đơn_vị khi doanh_nghiệp bảo_hiểm_bán cho bên mua bảo_hiểm . 
+
+4 . Giá mua là giá một đơn_vị của quỹ liên_kết đơn_vị khi doanh_nghiệp bảo_hiểm_mua của bên mua bảo_hiểm . 
+
+5 . Ngày định_giá là ngày doanh_nghiệp bảo_hiểm_tiến_hành xác_định_giá mua và giá bán các đơn_vị của quỹ liên_kết đơn_vị . 
+
+6 . Ngày_định giá kế_tiếp là ngày định_giá ngay sau ngày doanh_nghiệp bảo_hiểm_nhận được yêu_cầu mua hoặc bán các đơn_vị của quỹ liên_kết đơn_vị_từ bên mua bảo_hiểm . 
+
+Điều 4 .  Điều_kiện đối_với doanh_nghiệp bảo_hiểm triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị 
+
+1 . Biên_khả_năng thanh_toán của doanh_nghiệp bảo_hiểm_lớn hơn biên_khả_năng thanh_toán tối_thiểu hai trăm ( 200 ) tỷ đồng Việt_Nam .  Vốn điều_lệ đã góp cao hơn mức vốn pháp_định từ hai trăm ( 200 ) tỷ đồng Việt_Nam trở lên . 
+
+2 . Hệ_thống công_nghệ thông_tin phù_hợp để quản_lý và kiểm_soát các quỹ liên_kết đơn_vị một_cách thận_trọng và hiệu_quả . 
+
+3 . Doanh_nghiệp bảo_hiểm có khả_năng định_giá tài_sản và các đơn_vị của các quỹ liên_kết đơn_vị khách_quan , chính_xác theo định_kỳ tối_thiểu một ( 01 ) tuần một ( 01 ) lần và công_bố công_khai cho bên mua bảo_hiểm về giá mua và giá bán đơn_vị quỹ . 
+
+4 . Đại_lý bán sản_phẩm bảo_hiểm_liên_kết đơn_vị được tuyển_dụng và đào_tạo đáp_ứng các yêu_cầu theo quy_định tại Điều 34 và Điều 35 Thông_tư này . 
+
+5 . Sản_phẩm bảo_hiểm_liên_kết đơn_vị được Bộ Tài_chính phê_chuẩn . 
+
+Điều 5 .  Sản_phẩm bảo_hiểm_liên_kết đơn_vị 
+
+1 . Doanh_nghiệp bảo_hiểm phải tuân_thủ các quy_định tại Mục này và các quy_định của pháp_luật khi thiết_kế sản_phẩm bảo_hiểm_liên_kết đơn_vị . 
+
+2 . Tên của sản_phẩm bảo_hiểm_liên_kết đơn_vị và của quỹ liên_kết đơn_vị phải rõ_ràng , phù_hợp với tính_chất sản_phẩm , mục_tiêu đầu_tư các tài_sản của từng quỹ liên_kết đơn_vị và bảo_đảm bên mua bảo_hiểm có_thể phân_biệt được với các sản_phẩm khác . 
+
+3 . Thời_hạn hợp_đồng bảo_hiểm_liên_kết đơn_vị tối_thiểu là 10 năm . 
+
+4 . Ngôn_ngữ sử_dụng tại các tài_liệu , thông_tin liên_quan đến sản_phẩm bảo_hiểm_liên_kết đơn_vị là tiếng Việt .  Đối_với tài_liệu giới_thiệu sản_phẩm , tài_liệu minh_họa bán hàng , phông_chữ sử_dụng là Time New_Roman , cỡ chữ tối_thiểu là 12 hoặc phông_chữ khác với cỡ chữ tương_đương và phải phù_hợp với quy_định tại Thông_tư này . 
+
+Điều 6 .  Quyền_lợi bảo_hiểm_liên_kết đơn_vị 
+
+1 . Quyền_lợi bảo_hiểm theo hợp_đồng bảo_hiểm_liên_kết đơn_vị phải bao_gồm quyền_lợi bảo_hiểm_rủi_ro và quyền_lợi đầu_tư .  Tùy theo thỏa_thuận giữa doanh_nghiệp bảo_hiểm và bên mua bảo_hiểm , doanh_nghiệp bảo_hiểm có_thể thiết_kế thêm các quyền_lợi bảo_hiểm khác .  Bên mua bảo_hiểm không được lựa_chọn chỉ tham_gia quyền_lợi đầu_tư mà không tham_gia quyền_lợi bảo_hiểm_rủi_ro . 
+
+2 . Quyền_lợi bảo_hiểm_rủi_ro : Doanh_nghiệp bảo_hiểm và bên mua bảo_hiểm_thỏa_thuận về quyền_lợi bảo_hiểm_rủi_ro nhưng phải đảm_bảo quyền_lợi tối_thiểu trong trường_hợp người được bảo_hiểm tử_vong theo quy_định sau : 
+
+a ) Đối_với các hợp_đồng bảo_hiểm đóng phí một lần : 50.000.000 đồng Việt_Nam hoặc 125 % của số phí bảo_hiểm đóng một lần , tùy thuộc vào số nào lớn hơn ; 
+
+b ) Đối_với các hợp_đồng bảo_hiểm đóng phí định_kỳ : 50.000.000 đồng Việt_Nam hoặc năm ( 05 ) lần của số phí bảo_hiểm đóng hàng năm , tùy thuộc vào số nào lớn hơn ; 
+
+c ) Doanh_nghiệp bảo_hiểm có_thể cung_cấp quyền_lợi tử_vong với số tiền bảo_hiểm thấp hơn mức tối_thiểu quy_định như trên đối_với người được bảo_hiểm từ 60 tuổi trở lên , nhưng không thấp hơn 50.000.000 đồng ; 
+
+d ) Quy_định về quyền_lợi tối_thiểu trong trường_hợp tử_vong không áp_dụng đối_với khoản phí bảo_hiểm đóng thêm quy_định tại Điều 8 Thông_tư này ; 
+
+đ ) Doanh_nghiệp bảo_hiểm có_thể cung_cấp sản_phẩm bảo_hiểm bổ_trợ cho sản_phẩm bảo_hiểm_liên_kết đơn_vị .  Phương_thức đóng phí bảo_hiểm cho các sản_phẩm bảo_hiểm bổ_trợ sẽ do các bên thỏa_thuận khi giao_kết_hợp_đồng . 
+
+3 . Quyền_lợi đầu_tư : Bên mua bảo_hiểm được quyền lựa_chọn đầu tư phí bảo_hiểm vào các quỹ liên_kết đơn_vị do doanh_nghiệp bảo_hiểm thành_lập , được hưởng toàn_bộ kết_quả đầu_tư và chịu mọi rủi_ro đầu_tư từ các quỹ liên_kết đơn_vị đã lựa_chọn tương_ứng với phần phí bảo_hiểm đã đầu_tư . 
+
+4 . Doanh_nghiệp bảo_hiểm và bên mua bảo_hiểm có_thể thỏa_thuận về nội_dung và phương_thức chi_trả quyền_lợi bảo_hiểm khi xảy ra sự_kiện bảo_hiểm theo quy_định tại khoản 2 và khoản 3 Điều này . 
+
+Điều 7 .  Phí 
+
+1 . Doanh_nghiệp bảo_hiểm chỉ được phép_tính các loại phí được quy_định dưới đây : 
+
+a ) Phí ban_đầu là toàn_bộ các khoản tiền mà doanh_nghiệp bảo_hiểm được phép khấu_trừ trước khi phí bảo_hiểm được phân_bổ vào các quỹ liên_kết đơn_vị ; 
+
+b ) Phí bảo_hiểm_rủi_ro là khoản phí để chi_trả quyền_lợi bảo_hiểm_rủi_ro theo cam_kết tại hợp_đồng bảo_hiểm ; 
+
+c ) Phí quản_lý hợp_đồng bảo_hiểm là khoản phí để bù_đắp chi_phí liên_quan đến việc duy_trì hợp_đồng bảo_hiểm và cung_cấp thông_tin liên_quan đến hợp_đồng bảo_hiểm cho bên mua bảo_hiểm ; 
+
+d ) Phí quản_lý quỹ được dùng để chi_trả cho các hoạt_động quản_lý quỹ liên_kết đơn_vị ; 
+
+đ ) Phí chuyển_đổi quỹ liên_kết đơn_vị là khoản phí bên mua bảo_hiểm phải trả cho doanh_nghiệp bảo_hiểm khi thực_hiện chuyển_đổi tài_sản đầu_tư giữa các quỹ liên_kết đơn_vị .  Bên mua bảo_hiểm được quyền chuyển_đổi quỹ liên_kết đơn_vị miễn_phí cho lần chuyển_đổi đầu_tiên trong mỗi năm hợp_đồng ; 
+
+e ) Phí_hủy bỏ hợp_đồng bảo_hiểm là khoản phí tính cho khách_hàng khi hủy bỏ hợp_đồng trước ngày đáo_hạn để bù_đắp các khoản chi hợp_lý có liên_quan ; 
+
+g ) Các loại phí khác ( nếu có ) phải được Bộ Tài_chính chấp_thuận bằng văn_bản . 
+
+2 . Doanh_nghiệp bảo_hiểm phải tính_toán chính_xác , công_bằng và hợp_lý các khoản phí nêu trên , phù_hợp với sản_phẩm đã được Bộ Tài_chính phê_chuẩn và thông_báo cho bên mua bảo_hiểm khi giao_kết_hợp_đồng . 
+
+3 . Hợp_đồng bảo_hiểm_liên_kết đơn_vị phải quy_định rõ các khoản phí tối_đa áp_dụng cho bên mua bảo_hiểm .  Doanh_nghiệp bảo_hiểm phải công_khai rõ_ràng , đầy_đủ các loại phí , cách xác_định và tỷ_lệ các khoản phí tối_đa áp_dụng cho bên mua bảo_hiểm trong các tài_liệu giới_thiệu sản_phẩm và tài_liệu minh_họa bán hàng . 
+
+4 . Trong quá_trình thực_hiện hợp_đồng và trong hạn_mức tối_đa đã được thỏa_thuận tại hợp_đồng bảo_hiểm , doanh_nghiệp bảo_hiểm có_thể thay_đổi tỷ_lệ các loại phí áp_dụng sau khi thông_báo cho bên mua bảo_hiểm và Bộ Tài_chính bằng văn_bản ít_nhất ba ( 03 ) tháng trước thời_điểm chính_thức thay_đổi . 
+
+Điều 8 .  Phí bảo_hiểm đóng thêm 
+
+1 . Ngoài phần phí bảo_hiểm_cơ_bản định_kỳ đã thỏa_thuận trước tại hợp_đồng bảo_hiểm , bên mua bảo_hiểm có_thể đóng thêm phí bảo_hiểm để mua các đơn_vị quỹ liên_kết đơn_vị . 
+
+2 . Sau khi trừ đi khoản phí ban_đầu , phần phí bảo_hiểm đóng thêm sẽ được đầu_tư vào quỹ liên_kết đơn_vị tương_ứng theo chỉ_định của bên mua bảo_hiểm và dùng để mua đơn_vị quỹ theo giá bán được xác_định vào ngày định giá kế_tiếp sau ngày đóng thêm phí bảo_hiểm . 
+
+3 . Trong mỗi năm hợp_đồng , tổng_số phí bảo_hiểm đóng thêm không được vượt quá mu_ời ( 10 ) lần mức phí bảo_hiểm năm đầu đối_với hợp_đồng đóng phí định_kỳ hoặc không quá mức phí bảo_hiểm lần đầu đối_với hợp_đồng đóng phí một lần . 
+
+Điều 9 .  Quỹ liên_kết đơn_vị đối_với các hợp_đồng bảo_hiểm đóng phí một lần 
+
+Đối_với hợp_đồng bảo_hiểm_liên_kết đơn_vị đóng phí một lần , doanh_nghiệp bảo_hiểm có trách_nhiệm thiết_kế sản_phẩm bảo_hiểm bảo đảm phí bảo_hiểm của bên mua bảo_hiểm chỉ được mua các đơn_vị của quỹ có tỷ_lệ đầu_tư dưới hình_thức là tiền gửi ngân_hàng , trái_phiếu chính_phủ và các chứng_khoán có thu_nhập cố_định khác không thấp hơn 60 % tổng giá_trị tài_sản của quỹ liên_kết đơn_vị đó . 
+
+Điều 10 .  Giá_trị hoàn lại 
+
+Giá_trị hoàn lại của một hợp_đồng bảo_hiểm_liên_kết đơn_vị được xác_định dựa trên giá mua đơn_vị quỹ liên_kết đơn_vị vào ngày định giá kế_tiếp ngay sau ngày_hủy bỏ hợp_đồng bảo_hiểm_trừ đi phí_hủy bỏ hợp_đồng bảo_hiểm . 
+
+Điều 11 .  Phê_chuẩn việc triển_khai sản_phẩm bảo_hiểm 
+
+1 . Doanh_nghiệp bảo_hiểm phải được Bộ Tài_chính chấp_thuận bằng văn_bản trước khi triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị . 
+
+2 . Hồ_sơ xin phép triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị bao_gồm : 
+
+a ) Đơn xin phê_chuẩn sản_phẩm bảo_hiểm_liên_kết đơn_vị theo mẫu tại Phụ_lục I_Thông_tư này ; 
+
+b ) Phương_án và giải_trình kế_hoạch triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị trong ba ( 03 ) năm tới , bao_gồm các nội_dung sau : 
+
+- Phân_tích tình_hình thị_trường bảo_hiểm , thị_trường tài_chính , nhu_cầu khách_hàng ; 
+
+- Dự_báo thị_trường trong vòng ba ( 03 ) năm tới ; 
+
+- Tóm_tắt nội_dung chính của sản_phẩm bảo_hiểm_liên_kết đơn_vị dự_kiến triển_khai , bao_gồm các thông_tin : thị_trường mục_tiêu của sản_phẩm , các quyền_lợi bảo_hiểm , quyền_lợi đầu_tư , số tiền bảo_hiểm tối_thiểu ; 
+
+- Địa_bàn dự_kiến triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị ; 
+
+- Dự_kiến kết_quả kinh_doanh của doanh_nghiệp bảo_hiểm và sản_phẩm bảo_hiểm_liên_kết đơn_vị trong vòng ba ( 03 ) năm tới , trong đó có các nội_dung về doanh_thu , chi_phí , lợi_nhuận , khả_năng thanh_toán của doanh_nghiệp bảo_hiểm và quỹ liên_kết đơn_vị ; 
+
+- Giải_trình cơ_sở vật_chất kỹ_thuật bảo_đảm cho việc triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị , bao_gồm : Hệ_thống công_nghệ thông_tin ;  hệ_thống kế_toán ;  quy_trình tuyển_chọn , đào_tạo , quản_lý đại_lý phân_phối sản_phẩm bảo_hiểm_liên_kết đơn_vị ;  nội_dung và chương_trình đào_tạo đại_lý bảo_hiểm về sản_phẩm bảo_hiểm_liên_kết đơn_vị dự_kiến triển_khai , danh_sách và hồ_sơ của các cán_bộ đào_tạo đại_lý bảo_hiểm_liên_kết đơn_vị , cách_thức quản_lý các đại_lý phân_phối sản_phẩm bảo_hiểm_liên_kết đơn_vị ; 
+
+- Các quỹ liên_kết đơn_vị , phương_pháp phân_tích và nguồn số_liệu phân_tích , chính_sách đầu_tư mà doanh_nghiệp bảo_hiểm dự_kiến áp_dụng đối_với các tài_sản thuộc từng quỹ liên_kết đơn_vị ; 
+
+- Cơ_sở phân_bổ các khoản phí bảo_hiểm và chi_phí giữa các quỹ liên_kết đơn_vị ; 
+
+- Phương_án xử_lý của doanh_nghiệp bảo_hiểm đối_với quỹ liên_kết đơn_vị trong các trường_hợp : khách_hàng yêu_cầu trả tiền bảo_hiểm khi có sự_kiện bảo_hiểm ;  khách_hàng yêu_cầu chấm_dứt hợp_đồng bảo_hiểm trước hạn ;  khách_hàng yêu_cầu rút một phần phí bảo_hiểm , tạm_ứng từ giá_trị hoàn lại , đáo_hạn hợp_đồng bảo_hiểm ;  khách_hàng yêu_cầu chuyển_đổi quỹ liên_kết đơn_vị ;  quỹ liên_kết đơn_vị bị định_giá sai và các trường_hợp khác theo quy_định tại quy_tắc , điều_khoản sản_phẩm đề_nghị Bộ Tài_chính phê_chuẩn ; 
+
+c ) Cam_kết bằng văn_bản kèm theo giải_trình chi_tiết về việc doanh_nghiệp bảo_hiểm đáp_ứng các điều_kiện quy_định tại Điều 4 Thông_tư này ; 
+
+d ) Quy_tắc , điều_khoản và biểu phí sản_phẩm bảo_hiểm_liên_kết đơn_vị dự_kiến triển_khai ; 
+
+đ ) Cơ_sở kỹ_thuật của sản_phẩm bảo_hiểm_liên_kết đơn_vị dự_kiến triển_khai , trong đó nêu rõ công_thức , phương_pháp , giải_trình cơ_sở kỹ_thuật dùng để tính phí , dự_phòng nghiệp_vụ của sản_phẩm bảo_hiểm_liên_kết đơn_vị dự_kiến triển_khai ; 
+
+e ) Tài_liệu giới_thiệu sản_phẩm , tài_liệu minh_họa bán hàng , mẫu giấy yêu_cầu bảo_hiểm , mẫu giấy chứng_nhận bảo_hiểm và các loại giấy_tờ khác mà khách_hàng phải kê_khai và ký vào khi mua bảo_hiểm ; 
+
+g ) Văn_bằng_chứng_minh trình_độ , năng_lực , kinh_nghiệm chuyên_môn của các thành_viên Hội_đồng đầu_tư ; 
+
+h ) Văn_bằng , chứng_chỉ chứng_minh năng_lực , trình_độ của người đứng đầu bộ_phận triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị . 
+
+3 . Hồ_sơ xin phê_chuẩn sản_phẩm bảo_hiểm_liên_kết đơn_vị phải có chữ_ký của người đại_diện trước pháp_luật và chuyên_gia tính_toán của doanh_nghiệp bảo_hiểm . 
+
+4 . Trong trường_hợp_doanh_nghiệp bảo_hiểm xin phép triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị mới ngoài sản_phẩm bảo_hiểm_liên_kết đơn_vị đã được phê_chuẩn , hồ_sơ xin phê_chuẩn sản_phẩm bảo_hiểm_liên_kết đơn_vị mới không bao_gồm các tài_liệu quy_định tại điểm b , g và h khoản 2 Điều này , trừ trường_hợp các tài_liệu này có thay_đổi so với thời_điểm sản_phẩm bảo_hiểm_liên_kết đơn_vị được Bộ Tài_chính phê_chuẩn trong thời_gian gần nhất . 
+
+Mục 2 
+
+Giao_kết_hợp_đồng bảo_hiểm_liên_kết đơn_vị 
+
+Điều 12 .  Phân_tích nhu_cầu tham_gia_bảo_hiểm của khách_hàng 
+
+1 . Trước khi giao_kết_hợp_đồng bảo_hiểm , doanh_nghiệp bảo_hiểm phải tiến_hành phân_tích nhu_cầu và khả_năng tham_gia_bảo_hiểm của khách_hàng để tư_vấn cho khách_hàng về sản_phẩm bảo_hiểm và số tiền bảo_hiểm phù_hợp với tình_hình tài_chính hiện_tại và các nhu_cầu tài_chính trong tương_lai của khách_hàng . 
+
+2 . Doanh_nghiệp bảo_hiểm phải xây_dựng mẫu phân_tích nhu_cầu khách_hàng và bộ câu hỏi đánh_giá mức_độ chấp_nhận rủi_ro trong đầu_tư của khách_hàng .  Trên_cơ_sở các thông_tin do khách_hàng cung_cấp khi trả_lời các câu hỏi , doanh_nghiệp bảo_hiểm phải xác_định được mức_độ chấp_nhận rủi_ro của khách_hàng , chi_tiết tối_thiểu theo năm ( 05 ) nhóm khách_hàng sau : Nhóm thận_trọng về đầu_tư ;  Nhóm tương_đối thận_trọng về đầu_tư ;  Nhóm cân_bằng về đầu_tư ;  Nhóm tương_đối_mạo_hiểm về đầu_tư và Nhóm mạo_hiểm về đầu_tư .  Khách_hàng phải ký xác_nhận vào bản đánh_giá mức_độ chấp_nhận rủi_ro trong đầu_tư . 
+
+3 . Khách_hàng phải ký xác_nhận về việc hiểu rõ sản_phẩm bảo_hiểm mà họ dự_kiến mua , nhận_thức rõ được quyền_lợi bảo_hiểm , quyền_lợi đầu_tư và các rủi_ro đầu_tư có_thể gặp phải và các khoản phí mà doanh_nghiệp bảo_hiểm_tính cho khách_hàng . 
+
+4 . Doanh_nghiệp bảo_hiểm có trách_nhiệm kiểm_tra kết_quả cung_cấp thông_tin và tư_vấn sản_phẩm bảo_hiểm_liên_kết đơn_vị cho khách_hàng , bảo_đảm tuân_thủ quy_định của pháp_luật và quy_trình nội_bộ của doanh_nghiệp về việc triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị . 
+
+Điều 13 .  Hợp_đồng bảo_hiểm 
+
+1 . Các quyền_lợi và cơ_chế gắn_kết các quyền_lợi đó với kết_quả hoạt_động của quỹ liên_kết đơn_vị mà bên mua bảo_hiểm lựa_chọn ; 
+
+2 . Mục_tiêu , chính_sách đầu_tư của quỹ liên_kết đơn_vị ; 
+
+3 . Các quỹ liên_kết đơn_vị do bên mua bảo_hiểm lựa_chọn và tỷ_lệ phân bổ phí bảo_hiểm để mua các đơn_vị quỹ liên_kết đơn_vị ; 
+
+4 . Tỷ_lệ , số tiền cụ_thể , mức tối_đa và cách_thức tính_toán các khoản phí liên_quan đến hợp_đồng bảo_hiểm_liên_kết đơn_vị ; 
+
+5 . Phương_pháp và định_kỳ định_giá đơn_vị của quỹ liên_kết đơn_vị ; 
+
+6 . Các lựa_chọn để bên mua bảo_hiểm thay_đổi quyền_lợi rủi_ro , tỷ lệ_phí bảo_hiểm phân_bổ vào quỹ liên_kết đơn_vị , phí bảo_hiểm , việc chuyển_đổi giữa các quỹ liên_kết đơn_vị và thời_gian gia_hạn nộp phí bảo_hiểm ; 
+
+7 . Quy_định rõ các trường_hợp_doanh_nghiệp bảo_hiểm được phép áp_dụng các biện_pháp dưới đây để bảo_vệ và gia_tăng quyền_lợi của bên mua bảo_hiểm : 
+
+a ) Đóng quỹ liên_kết đơn_vị để chuyển_đổi các tài_sản sang một quỹ liên_kết đơn_vị mới có cùng các mục_tiêu đầu_tư ; 
+
+b ) Thay_đổi tên của quỹ liên_kết đơn_vị ; 
+
+c ) Chia tách hoặc sáp_nhập các đơn_vị quỹ liên_kết đơn_vị hiện có ; 
+
+d ) Ngừng định_giá đơn_vị quỹ liên_kết đơn_vị và các giao_dịch liên_quan đến hợp_đồng bảo_hiểm trong trường_hợp sở giao_dịch chứng_khoán mà quỹ liên_kết đơn_vị đang đầu_tư vào bị tạm_thời đình_chỉ giao_dịch ; 
+
+đ ) Các biện_pháp khác theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền và quy_định của pháp_luật . 
+
+Khi thực_hiện các biện_pháp theo quy_định tại các điểm a , b , c và đ khoản 7 Điều này , doanh_nghiệp bảo_hiểm phải báo_cáo Bộ Tài_chính , đồng_thời thông_báo cho bên mua bảo_hiểm bằng văn_bản ít_nhất ba ( 03 ) ngày_trước khi áp_dụng . 
+
+Điều 14 .  Quyền và nghĩa_vụ của bên mua bảo_hiểm 
+
+1 . Quyền của bên mua bảo_hiểm : 
+
+a ) Yêu_cầu doanh_nghiệp bảo_hiểm_cung_cấp đầy_đủ thông_tin và giải_thích các điều_kiện , điều_khoản bảo_hiểm để nhận_thức được các rủi_ro liên_quan trước khi giao_kết_hợp_đồng bảo_hiểm_liên_kết đơn_vị ; 
+
+b ) Có thời_gian tối_thiểu là hai mươi mốt ( 21 ) ngày kể từ ngày nhận được hợp_đồng bảo_hiểm để cân_nhắc điều_kiện , điều_khoản hợp_đồng bảo_hiểm .  Trong khoảng thời_gian tự_do cân_nhắc , nếu bên mua bảo_hiểm có yêu_cầu hủy bỏ hợp_đồng bảo_hiểm , doanh_nghiệp bảo_hiểm phải trả lại toàn_bộ số phí bảo_hiểm đã đóng sau khi trừ đi các chi_phí y_tế/kiểm_tra sức_khỏe ( nếu có ) ; 
+
+c ) Tạm ngưng đóng phí bảo_hiểm sau khoảng thời_gian hợp_đồng bảo_hiểm có hiệu_lực theo thỏa_thuận tại hợp_đồng bảo_hiểm .  Sau khi khách_hàng ngưng đóng phí bảo_hiểm , hợp_đồng bảo_hiểm tiếp_tục duy_trì hiệu_lực , các khoản phí bảo_hiểm_rủi_ro , phí quản_lý hợp_đồng sẽ được khấu_trừ vào giá_trị tài_khoản hàng tháng của khách_hàng ; 
+
+d ) Rút một phần hoặc toàn_bộ giá_trị tài_khoản của hợp_đồng theo thỏa_thuận tại hợp_đồng bảo_hiểm ; 
+
+đ ) Chuyển_đổi quỹ liên_kết đơn_vị bằng cách chuyển một phần hoặc toàn_bộ giá_trị các đơn_vị quỹ của hợp_đồng bảo_hiểm từ quỹ liên_kết đơn_vị này sang quỹ liên_kết đơn_vị khác với tỷ_lệ phân_bổ do bên mua bảo_hiểm yêu_cầu ; 
+
+e ) Thay_đổi tỷ_lệ đầu_tư vào các quỹ liên_kết đơn_vị theo thỏa_thuận tại hợp_đồng bảo_hiểm .  Việc thay_đổi được áp_dụng cho các khoản phí bảo_hiểm đã nộp sau khi có yêu_cầu thay_đổi và theo tỷ_lệ đã được doanh_nghiệp bảo_hiểm_chấp_thuận ; 
+
+g ) Thay_đổi số tiền bảo_hiểm theo quy_định tại hợp_đồng bảo_hiểm , trừ trường_hợp hợp_đồng bảo_hiểm đang trong thời_gian tạm ngưng đóng phí bảo_hiểm .  Việc tăng hoặc giảm số tiền bảo_hiểm chỉ có hiệu_lực vào năm hợp_đồng bảo_hiểm kế_tiếp sau khi yêu_cầu của bên mua bảo_hiểm được chấp_thuận ; 
+
+h ) Thay_đổi phí bảo_hiểm theo quy_định tại hợp_đồng bảo_hiểm .  Việc tăng hoặc giảm phí bảo_hiểm có hiệu_lực sau khi được doanh_nghiệp bảo_hiểm_chấp_thuận .  Việc giảm phí bảo_hiểm trong mọi trường_hợp đều không được thấp hơn mức phí bảo_hiểm tối_thiểu theo quy_định của doanh_nghiệp bảo_hiểm ; 
+
+i ) Chấm_dứt hợp_đồng bảo_hiểm trước thời_hạn theo thỏa_thuận tại hợp_đồng bảo_hiểm ; 
+
+k ) Khôi_phục hiệu_lực của hợp_đồng bảo_hiểm trong vòng hai ( 02 ) năm kể từ ngày hợp_đồng bảo_hiểm bị mất hiệu_lực gần nhất ; 
+
+l ) Nhận các báo_cáo thường_niên liên_quan đến hợp_đồng bảo_hiểm , các quỹ liên_kết đơn_vị và các thông_tin khác có liên_quan theo quy_định của pháp_luật ; 
+
+m ) Các quyền khác quy_định tại quy_tắc , điều_khoản sản_phẩm bảo_hiểm_liên_kết đơn_vị được Bộ Tài_chính phê_chuẩn . 
+
+2 . Nghĩa_vụ của bên mua bảo_hiểm : 
+
+a ) Kê_khai đầy_đủ , trung_thực các thông_tin theo yêu_cầu của doanh_nghiệp bảo_hiểm tại hồ_sơ yêu_cầu bảo_hiểm ; 
+
+b ) Đọc kỹ các tài_liệu giới_thiệu sản_phẩm , tài_liệu minh_họa bán hàng và ký vào các tài_liệu do doanh_nghiệp bảo_hiểm_cung_cấp ; 
+
+c ) Đóng phí bảo_hiểm theo thỏa_thuận tại hợp_đồng bảo_hiểm ; 
+
+d ) Các nghĩa_vụ khác theo thỏa_thuận giữa doanh_nghiệp bảo_hiểm và bên mua bảo_hiểm quy_định tại quy_tắc , điều_khoản sản_phẩm bảo_hiểm_liên_kết đơn_vị đã được Bộ Tài_chính phê_chuẩn . 
+
+Điều 15 .  Quyền và nghĩa_vụ của doanh_nghiệp bảo_hiểm 
+
+1 . Quyền của doanh_nghiệp bảo_hiểm : 
+
+a ) Thu các khoản phí theo quy_định tại Điều 7 Thông_tư này ; 
+
+b ) Lựa_chọn công_ty quản_lý quỹ và ngân_hàng giám_sát để thực_hiện quản_lý các quỹ liên_kết đơn_vị ; 
+
+c ) Các quyền khác theo quy_định của pháp_luật hiện_hành . 
+
+2 . Nghĩa_vụ của doanh_nghiệp bảo_hiểm : 
+
+a ) Thực_hiện các cam_kết theo thỏa_thuận tại hợp_đồng bảo_hiểm_liên_kết đơn_vị ; 
+
+b ) Khi giá_trị tài_khoản của khách_hàng không đủ để thanh_toán cho khoản phí bảo_hiểm_rủi_ro , phí quản_lý hợp_đồng cho tháng kế_tiếp , doanh_nghiệp bảo_hiểm phải thông_báo cho khách_hàng về tình_trạng hợp_đồng bảo_hiểm ; 
+
+c ) Ghi_nhận đầy_đủ , chính_xác , kịp_thời và rõ_ràng về các thông_tin của từng khách_hàng liên_quan đến việc giao_kết và thực_hiện hợp_đồng bảo_hiểm_liên_kết đơn_vị ; 
+
+d ) Các nghĩa_vụ khác theo quy_định của pháp_luật hiện_hành . 
+
+Mục 3 
+
+Thành_lập và quản_lý các quỹ liên_kết đơn_vị 
+
+Điều 16 .  Quỹ liên_kết đơn_vị 
+
+1 . Doanh_nghiệp bảo_hiểm phải thành_lập tối_thiểu hai ( 02 ) quỹ liên_kết đơn_vị có mục_tiêu đầu_tư khác nhau dành cho mỗi sản_phẩm bảo_hiểm_liên_kết đơn_vị . 
+
+2 . Doanh_nghiệp bảo_hiểm phải bảo_đảm các tài_sản hình_thành từ các quỹ liên_kết đơn_vị phải được tách và quản_lý riêng khỏi quỹ chủ sở_hữu , các quỹ chủ hợp_đồng khác và giữa các quỹ liên_kết đơn_vị của doanh_nghiệp bảo_hiểm . 
+
+3 . Sau sáu_mươi ( 60 ) ngày kể từ ngày hợp_đồng bảo_hiểm_liên_kết đơn_vị đầu_tiên được giao_kết , doanh_nghiệp bảo_hiểm phải bảo_đảm tổng giá_trị của các quỹ liên_kết đơn_vị luôn không thấp hơn một trăm ( 100 ) tỷ đồng Việt_Nam . 
+
+4 . Trường_hợp phí bảo_hiểm phân_bổ vào quỹ liên_kết đơn_vị không đáp_ứng được quy_định tại khoản 3 Điều này , doanh_nghiệp bảo_hiểm phải sử_dụng một phần quỹ chủ sở_hữu để hình_thành các tài_sản của quỹ liên_kết đơn_vị và được hưởng kết_quả đầu_tư tương_ứng với số tiền đã đóng_góp vào việc thành_lập quỹ liên_kết đơn_vị .  Doanh_nghiệp bảo_hiểm có_thể được hoàn lại một phần hoặc toàn_bộ số tiền đã đóng_góp nếu việc hoàn lại đó đáp_ứng được quy_định tại khoản 3 Điều này . 
+
+5 . Phí bảo_hiểm và phí bảo_hiểm đóng thêm sau khi trừ đi các khoản phí ban_đầu phải được đầu_tư phù_hợp với những mục_tiêu của quỹ liên_kết đơn_vị trong thời_hạn không quá sáu_mươi ( 60 ) ngày kể từ ngày doanh_nghiệp bảo_hiểm_nhận được phí bảo_hiểm . 
+
+6 . Trong mọi trường_hợp , quỹ liên_kết đơn_vị phải được quản_lý và sử_dụng đầu_tư phù_hợp với mục_tiêu , chính_sách đầu_tư và chế_độ tài_chính áp_dụng đối_với các doanh_nghiệp bảo_hiểm . 
+
+Điều 17 .  Mục_tiêu của các quỹ liên_kết đơn_vị 
+
+1 . Mục_tiêu hoạt_động của các quỹ liên_kết đơn_vị phải rõ_ràng , chi_tiết để bên mua bảo_hiểm có_thể đánh_giá một_cách khách_quan về thực_trạng hoạt_động của quỹ liên_kết đơn_vị cũng như tính_chất các tài_sản có trong quỹ liên_kết đơn_vị và những rủi_ro mà quỹ liên_kết đơn_vị có_thể gặp phải . 
+
+2 . Doanh_nghiệp bảo_hiểm phải đảm_bảo rằng quỹ liên_kết đơn_vị được đầu_tư phù_hợp với các mục_tiêu đã công_bố và tuân_thủ những hạn_mức đầu_tư theo quy_định của pháp_luật và quy_định tại Điều 18 Thông_tư này . 
+
+3 . Các mục_tiêu , cách_thức phân_bổ các tài_sản đầu_tư của quỹ liên_kết đơn_vị phải được thông_báo đầy_đủ , rõ_ràng trong tài_liệu giới_thiệu sản_phẩm và hợp_đồng bảo_hiểm . 
+
+Điều 18 .  Hạn_mức đầu_tư của quỹ liên_kết đơn_vị 
+
+1 . Danh_mục đầu_tư của quỹ liên_kết đơn_vị phải phù_hợp với mục_tiêu và chính_sách đầu_tư quy_định tại quy_tắc , điều_khoản và cơ_sở kỹ_thuật của sản_phẩm đã được Bộ Tài_chính phê_chuẩn . 
+
+2 . Cơ_cấu danh_mục đầu_tư của quỹ liên_kết đơn_vị phải bảo_đảm tuân_thủ các điều_kiện sau đây : 
+
+a ) Mỗi quỹ liên_kết đơn_vị không được đầu_tư vào quá 10 % tổng giá_trị chứng_khoán đang lưu_hành của một tổ_chức phát_hành , trừ trái_phiếu Chính_phủ ; 
+
+b ) Mỗi quỹ liên_kết đơn_vị không được đầu_tư vượt quá 20 % tổng giá_trị tài_sản của quỹ vào chứng_khoán đang lưu_hành của một tổ_chức phát_hành , trừ trái_phiếu Chính_phủ ; 
+
+c ) Tài_sản của quỹ liên_kết đơn_vị không được đầu_tư trực_tiếp vào bất_động_sản , vàng , bạc , kim_loại quý , đá_quý ; 
+
+d ) Mỗi quỹ liên_kết đơn_vị không được đầu_tư quá 30 % tổng giá_trị tài_sản của quỹ vào các công_ty trong cùng một tập_đoàn hay một nhóm công_ty có quan_hệ sở_hữu lẫn nhau ; 
+
+đ ) Không được đầu_tư vào các quỹ đầu_tư chứng_khoán , cổ_phiếu của các công_ty đầu_tư chứng_khoán thành_lập và hoạt_động tại Việt_Nam . 
+
+3 . Cơ_cấu đầu_tư của quỹ liên_kết đơn_vị có_thể sai_lệch nhưng không vượt quá 15 % so với các hạn_mức đầu_tư quy_định tại khoản 2 Điều này .  Các sai_lệch phải là kết_quả của việc tăng hoặc giảm_giá_trị của các tài_sản đầu_tư và các khoản thanh_toán hợp_pháp của quỹ liên_kết đơn_vị .  Trong trường_hợp này , quỹ liên_kết đơn_vị không được tiến_hành đầu_tư vào các tài_sản đang có sai_lệch và trong thời_hạn ba ( 03 ) tháng kể từ ngày sai_lệch phát_sinh doanh_nghiệp bảo_hiểm phải yêu_cầu công_ty quản_lý quỹ điều_chỉnh lại danh_mục đầu_tư để đảm_bảo các hạn_mức đầu_tư quy_định tại Điều này . 
+
+Doanh_nghiệp bảo_hiểm phải thông_báo bằng văn_bản cho Bộ Tài_chính và công_bố thông_tin cho bên mua bảo_hiểm về nguyên_nhân của các sai_lệch trên , các biện_pháp khắc_phục và kết_quả của việc khắc_phục . 
+
+4 . Trường_hợp sai_lệch là do doanh_nghiệp bảo_hiểm hoặc công_ty quản_lý quỹ không tuân_thủ các hạn_mức đầu_tư theo quy_định tại Điều này hoặc mục_tiêu và chính_sách đầu_tư của quỹ liên_kết đơn_vị nêu tại cơ_sở kỹ_thuật , doanh_nghiệp bảo_hiểm phải yêu_cầu công_ty quản_lý quỹ điều_chỉnh lại danh_mục đầu_tư trong thời_hạn mười_lăm ( 15 ) ngày , kể từ ngày sai_lệch phát_sinh . 
+
+5 . Doanh_nghiệp bảo_hiểm có trách_nhiệm đền_bù các thiệt_hại gây ra cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị trong trường_hợp : 
+
+a ) Không tuân_thủ mục_tiêu và chính_sách đầu_tư đã được quy_định tại quy_tắc , điều_khoản và cơ_sở kỹ_thuật của sản_phẩm đã được Bộ Tài_chính phê_chuẩn ;  hoặc 
+
+b ) Đầu_tư vào các tài_sản bị hạn_chế hoặc đầu_tư vượt các hạn_mức đầu_tư theo quy_định tại Điều này . 
+
+6 . Mức đền_bù cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị được xác_định trên cơ_sở thiệt_hại thực_tế phát_sinh .  Trường_hợp các hoạt_động đầu_tư theo khoản 5 Điều này có phát_sinh lợi_nhuận , doanh_nghiệp bảo_hiểm phải hạch_toán toàn_bộ lợi_nhuận cho quỹ liên_kết đơn_vị . 
+
+Điều 19 .  Định_giá quỹ liên_kết đơn_vị 
+
+1 . Doanh_nghiệp bảo_hiểm phải định_giá tài_sản của quỹ liên_kết đơn_vị theo định_kỳ tối_thiểu một tuần một lần , theo giá_trị thị_trường hoặc giá_trị hợp_lý ( trong trường_hợp không có giá_trị thị_trường ) của các tài_sản trong danh_mục đầu_tư của quỹ liên_kết đơn_vị . 
+
+2 . Việc xác_định giá_trị tài_sản ròng của quỹ liên_kết đơn_vị phải tuân_thủ các nguyên_tắc được quy_định tại Điều 18 và Điều 19 <TT rel="Reference"> Thông_tư số 183/2011/TT-BTC ngày 16/12/2011 </TT> của Bộ Tài_chính hướng_dẫn thành_lập và quản_lý quỹ mở và các văn_bản sửa_đổi , bổ_sung , thay_thế các văn_bản nêu trên ( nếu có ) .
+3 . Ngân_hàng giám_sát được thành_lập và hoạt_động hợp_pháp tại Việt_Nam phê_duyệt việc xác_định giá_trị tài_sản ròng của quỹ liên_kết đơn_vị . 
+
+4 . Doanh_nghiệp bảo_hiểm phải chịu hoàn_toàn trách_nhiệm trong trường_hợp có sai_sót khi định_giá đơn_vị của quỹ liên_kết đơn_vị và phải bồi_thường cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị các thiệt_hại phát_sinh từ việc mua , bán các đơn_vị quỹ do sai_sót trong trường_hợp giá_trị tài_sản ròng của quỹ bị định_giá sai với mức_độ sai_lệch như sau : 
+
+a ) Đạt từ 0,25 % giá_trị tài_sản ròng trở lên trong trường_hợp đầu_tư vào cổ_phiếu ; 
+
+b ) Đạt từ 0,75 % giá_trị tài_sản ròng trở lên trong trường_hợp đầu_tư vào trái_phiếu ; 
+
+c ) Đạt từ 1,00 % giá_trị tài_sản ròng trở lên trong trường_hợp đầu_tư vào các tài_sản khác . 
+
+5 . Mức đền_bù thiệt_hại cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị từ việc mua_bán đơn_vị quỹ trong trường_hợp có sai_sót khi định_giá đơn_vị quỹ liên_kết đơn_vị được xác_định như sau : 
+
+a ) Trường_hợp quỹ bị định_giá thấp , mức đền_bù cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị được xác_định như sau : 
+
+- Nếu phí bảo_hiểm được phân_bổ để mua đơn_vị quỹ trước thời_gian quỹ bị định_giá sai và đã bán đơn_vị quỹ trong thời_gian quỹ bị định_giá sai : Mức đền_bù cho bên mua bảo_hiểm được xác_định dựa trên mức_độ sai_sót và số_lượng đơn_vị quỹ mà bên mua bảo_hiểm đã bán ; 
+
+- Nếu phí bảo_hiểm được phân_bổ để mua đơn_vị quỹ trong thời_gian quỹ bị định_giá sai và tiếp_tục nắm giữ sau thời_gian quỹ bị định_giá sai : Doanh_nghiệp bảo_hiểm_chịu trách_nhiệm đền_bù cho quỹ liên_kết đơn_vị , mức đền_bù được xác_định dựa trên mức_độ sai_sót và số_lượng đơn_vị quỹ mà bên mua bảo_hiểm đã mua và còn tiếp_tục nắm giữ sau thời_gian bị định_giá sai . 
+
+b ) Trường_hợp quỹ bị định_giá cao , mức đền_bù cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị được xác_định như sau : 
+
+- Nếu phí bảo_hiểm được phân_bổ để mua đơn_vị quỹ trước thời_gian quỹ bị định_giá sai và đã bán đơn_vị quỹ trong thời_gian quỹ bị định_giá sai : Doanh_nghiệp bảo_hiểm_chịu trách_nhiệm đền_bù cho quỹ liên_kết đơn_vị , mức đền_bù được xác_định dựa trên mức_độ sai_sót và số_lượng đơn_vị quỹ bên mua bảo_hiểm đã bán trong thời_gian bị định_giá sai ; 
+
+- Nếu phí bảo_hiểm được phân_bổ để mua đơn_vị quỹ trong thời_gian quỹ bị định_giá sai và tiếp_tục nắm giữ sau thời_gian quỹ bị định_giá sai : Mức đền_bù cho bên mua bảo_hiểm được xác_định dựa trên mức_độ sai_sót và số_lượng đơn_vị quỹ bên mua bảo_hiểm đã mua và còn tiếp_tục nắm giữ sau thời_gian bị định_giá sai . 
+
+c ) Mọi chi_phí đền_bù cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị không được hạch_toán vào chi_phí của quỹ liên_kết đơn_vị của doanh_nghiệp bảo_hiểm . 
+
+6 . Doanh_nghiệp bảo_hiểm phải có báo_cáo phương_án khắc_phục sai_sót khi định_giá đơn_vị quỹ cho Bộ Tài_chính chậm nhất là ba ( 03 ) ngày làm_việc kể từ ngày phát_hiện sai_sót .  Trong vòng mười_lăm ( 15 ) ngày làm_việc kể từ ngày có báo_cáo Bộ Tài_chính , doanh_nghiệp bảo_hiểm phải tiến_hành đền_bù thiệt_hại phát_sinh cho bên mua bảo_hiểm và quỹ liên_kết đơn_vị . 
+
+Điều 20 .  Xác_định_giá bán và giá mua các đơn_vị của quỹ liên_kết đơn_vị 
+
+1 . Giá bán và giá mua các đơn_vị của quỹ liên_kết đơn_vị được xác_định dựa trên giá_trị tài_sản ròng của mỗi đơn_vị của quỹ liên_kết đơn_vị vào ngày định giá kế_tiếp , sau khi doanh_nghiệp bảo_hiểm_nhận được yêu_cầu mua hoặc bán đơn_vị của quỹ liên_kết đơn_vị .  Chênh_lệch giữa giá bán và giá mua đơn_vị của một quỹ liên_kết đơn_vị không được vượt quá 5 % của giá bán . 
+
+2 . Giá_trị tài_sản ròng của mỗi đơn_vị của quỹ liên_kết đơn_vị bằng tổng giá_trị của các tài_sản có trong quỹ liên_kết đơn_vị trừ đi các công_nợ có liên_quan chia cho tổng_số đơn_vị của quỹ liên_kết đơn_vị . 
+
+Điều 21 .  Quy_trình bán và mua các đơn_vị của quỹ liên_kết đơn_vị 
+
+1 . Bên mua bảo_hiểm có quyền mua thêm hoặc bán lại đơn_vị quỹ liên_kết đơn_vị cho doanh_nghiệp bảo_hiểm .  Việc mua thêm hoặc bán lại đơn_vị quỹ liên_kết đơn_vị có_thể thực_hiện thông_qua đại_lý bảo_hiểm hoặc bên mua bảo_hiểm trực_tiếp thực_hiện với doanh_nghiệp bảo_hiểm tại trụ_sở chính , chi_nhánh , văn_phòng đại_diện hoặc trung_tâm dịch_vụ khách_hàng của doanh_nghiệp bảo_hiểm . 
+
+2 . Bên mua bảo_hiểm thực_hiện mua thêm đơn_vị quỹ liên_kết đơn_vị khi đáp_ứng điều_kiện sau : 
+
+a ) Hợp_đồng bảo_hiểm của bên mua bảo_hiểm_còn hiệu_lực và số tiền yêu_cầu mua thêm đáp_ứng quy_định tại khoản 3 Điều 8 Thông_tư này ; 
+
+b ) Có đơn yêu_cầu mua thêm đơn_vị quỹ liên_kết đơn_vị theo mẫu của doanh_nghiệp bảo_hiểm , trong đó nêu rõ số tiền muốn mua thêm đơn_vị quỹ liên_kết đơn_vị , tỷ_lệ % vào mỗi quỹ liên_kết đơn_vị và ký_tên trên đơn yêu_cầu mua thêm đơn_vị quỹ liên_kết đơn_vị . 
+
+3 . Bên mua bảo_hiểm thực_hiện bán lại đơn_vị quỹ liên_kết đơn_vị khi đáp_ứng điều_kiện sau : 
+
+a ) Hợp_đồng bảo_hiểm của bên mua bảo_hiểm_còn hiệu_lực và số đơn_vị quỹ muốn bán đáp_ứng quy_định về số tiền tối_thiểu của doanh_nghiệp bảo_hiểm về việc bán đơn_vị quỹ liên_kết đơn_vị của bên mua bảo_hiểm ; 
+
+b ) Có đơn yêu_cầu bán đơn_vị quỹ liên_kết đơn_vị theo mẫu của doanh_nghiệp bảo_hiểm , trong đó nêu rõ số đơn_vị quỹ liên_kết đơn_vị muốn bán hoặc tỷ_lệ % vào mỗi quỹ liên_kết đơn_vị muốn bán và ký_tên trên đơn yêu_cầu bán đơn_vị quỹ liên_kết đơn_vị . 
+
+4 . Doanh_nghiệp bảo_hiểm thực_hiện giải_quyết yêu_cầu mua thêm hoặc bán lại đơn_vị quỹ liên_kết đơn_vị tại ngày định giá kế_tiếp .  Giá mua hoặc giá bán đơn_vị quỹ liên_kết đơn_vị được xác_định theo quy_định tại Điều 20 Thông_tư này . 
+
+5 . Giá_trị tài_khoản theo hợp_đồng bảo_hiểm_liên_kết đơn_vị của bên mua bảo_hiểm thay_đổi theo yêu_cầu mua thêm hoặc bán lại đơn_vị quỹ liên_kết đơn_vị được tính từ thời_điểm doanh_nghiệp bảo_hiểm xác_định_giá mua hoặc giá bán và hoàn_tất việc mua , bán đơn_vị quỹ liên_kết đơn_vị theo yêu_cầu của bên mua bảo_hiểm . 
+
+6 . Doanh_nghiệp bảo_hiểm không được phép từ_chối việc bên mua bảo_hiểm mua thêm hoặc bán lại đơn_vị quỹ liên_kết đơn_vị khi bên mua bảo_hiểm đã đáp_ứng các điều_kiện tại khoản 2 và khoản 3 Điều này . 
+
+Điều 22 .  Hội_đồng đầu_tư 
+
+1 . Doanh_nghiệp bảo_hiểm phải thành_lập Hội_đồng đầu_tư để tiến_hành các hoạt_động sau đây : 
+
+a ) Phê_duyệt quy_chế , chính_sách , quy_trình đầu_tư của từng quỹ liên_kết đơn_vị trên cơ_sở thận_trọng nhất để đảm_bảo an_toàn các tài_sản của quỹ liên_kết đơn_vị và phù_hợp với mục_tiêu , chiến_lược đầu_tư của từng quỹ liên_kết đơn_vị đã công_bố với khách_hàng .  Mọi thay_đổi trong quy_chế , chính_sách và quy_trình đầu_tư của từng quỹ liên_kết đơn_vị phải được Hội_đồng đầu_tư_thông_qua trước khi áp_dụng ; 
+
+b ) Quyết_định việc đóng quỹ liên_kết đơn_vị để chuyển_đổi các tài_sản sang một quỹ liên_kết đơn_vị mới có cùng các mục_tiêu đầu_tư ;  thay_đổi tên của quỹ liên_kết đơn_vị ;  chia tách hoặc sáp_nhập các đơn_vị quỹ liên_kết đơn_vị hiện có hoặc ngừng định_giá đơn_vị quỹ liên_kết đơn_vị và các giao_dịch liên_quan đến hợp_đồng bảo_hiểm trong trường_hợp đặc_biệt được quy_định tại hợp_đồng bảo_hiểm nhằm đảm_bảo quyền_lợi cho bên mua bảo_hiểm ; 
+
+c ) Phê_duyệt việc lựa_chọn tài_sản đầu_tư phù_hợp với quy_định về các hạn_mức đầu_tư tại Điều 18 Thông_tư này ; 
+
+d ) Các nhiệm_vụ khác theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền và quy_định của pháp_luật . 
+
+2 . Hội_đồng đầu_tư có ít_nhất ba ( 03 ) thành_viên , trong đó có : 
+
+a ) Một ( 01 ) thành_viên là chuyên_gia tính_toán của doanh_nghiệp bảo_hiểm ; 
+
+b ) Một ( 01 ) thành_viên có chứng_chỉ phân_tích đầu_tư tài_chính ( CFA ) hoặc bằng_cấp chuyên_ngành tương_đương và có kinh_nghiệm tối_thiểu ba ( 03 ) năm quản_lý hoạt_động của quỹ mở hoặc quỹ liên_kết đơn_vị ; 
+
+c ) Một ( 01 ) thành_viên là luật_sư , có trình_độ chuyên_môn về pháp_luật trong lĩnh_vực đầu_tư . 
+
+3 . Hội_đồng đầu_tư phải họp định_kỳ hàng quý và có_thể họp bất_thường theo yêu_cầu của doanh_nghiệp bảo_hiểm .  Quyết_định của Hội_đồng đầu_tư được thông_qua biểu_quyết tại các cuộc họp trực_tiếp , họp thông_qua điện_thoại , internet và các phương_tiện truyền tin nghe , nhìn , hoặc dưới hình_thức lấy ý_kiến bằng văn_bản . 
+
+Điều 23 .  Công_ty quản_lý quỹ 
+
+1 . Doanh_nghiệp bảo_hiểm triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị phải ủy_thác cho công_ty quản_lý quỹ đã có kinh_nghiệm quản_lý quỹ thành_viên để tiến_hành đầu_tư các tài_sản của các quỹ liên_kết đơn_vị theo đúng hạn_mức , mục_tiêu , chiến_lược đầu_tư của từng quỹ liên_kết đơn_vị và quy_định của pháp_luật hiện_hành . 
+
+2 . Công_ty quản_lý quỹ phải mở , quản_lý tách_biệt các tài_sản đầu_tư từ quỹ liên_kết đơn_vị của doanh_nghiệp bảo_hiểm với các quỹ khác của doanh_nghiệp bảo_hiểm và của các khách_hàng khác .  Công_ty quản_lý quỹ không được sử_dụng tài_sản của quỹ liên_kết đơn_vị để thực_hiện bất_kỳ giao_dịch hay mục_đích nào khác ngoài nội_dung quy_định tại hợp_đồng ủy_thác của doanh_nghiệp bảo_hiểm . 
+
+3 . Định_kỳ tối_thiểu hàng tuần hoặc thời_gian ngắn hơn theo thỏa_thuận tại hợp_đồng ủy_thác và trước thời_điểm định giá kế_tiếp , công_ty quản_lý quỹ có trách_nhiệm cung_cấp thông_tin và giá_trị các tài_sản đầu_tư cho doanh_nghiệp bảo_hiểm , phối_hợp cùng ngân_hàng giám_sát và doanh_nghiệp bảo_hiểm định_kỳ đánh_giá giá_trị tài_sản ròng của quỹ liên_kết đơn_vị và giá_trị tài_sản ròng trên một đơn_vị của quỹ liên_kết đơn_vị và báo_cáo về danh_mục đầu_tư , về định_giá và tình_hình hoạt_động của quỹ liên_kết đơn_vị theo quy_định tại Thông_tư này , <TT rel="Reference"> Thông_tư số 183/2011/TT-BTC ngày 16/12/2011 </TT> của Bộ Tài_chính hướng_dẫn thành_lập và quản_lý quỹ mở và hợp_đồng ủy_thác giữa doanh_nghiệp bảo_hiểm và công_ty quản_lý quỹ .
+Doanh_nghiệp bảo_hiểm có trách_nhiệm đối_chiếu các khoản đầu_tư của công_ty quản_lý quỹ và tài_khoản lưu ký tại ngân_hàng , đảm_bảo luôn_luôn khớp tổng_số_dư các tài_khoản cá_nhân và giá_trị tài_sản ròng của quỹ liên_kết đơn_vị tại từng thời_điểm . 
+
+4 . Công_ty quản_lý quỹ chịu trách_nhiệm với bất_kỳ sai_sót hoặc tổn_thất nào gây ra do việc định_giá sai theo hợp_đồng ủy_thác của doanh_nghiệp bảo_hiểm về quản_lý quỹ liên_kết đơn_vị . 
+
+Điều 24 .  Ngân_hàng giám_sát 
+
+1 . Doanh_nghiệp bảo_hiểm phải sử_dụng ngân_hàng giám_sát để thực_hiện các nhiệm_vụ sau : 
+
+a ) Lưu ký tài_sản của các quỹ liên_kết đơn_vị theo quy_định tại <TT rel="Reference"> Thông_tư 183/2011/TT-BTC ngày 16/12/2011 </TT> của Bộ Tài_chính hướng_dẫn thành_lập và quản_lý quỹ mở ;
+b ) Giám_sát việc quản_lý_tài_sản của các quỹ liên_kết đơn_vị của doanh_nghiệp bảo_hiểm hoặc công_ty quản_lý quỹ được doanh_nghiệp bảo_hiểm_ủy quyền thực_hiện theo đúng hạn_mức đầu_tư , mục_tiêu đầu_tư của doanh_nghiệp bảo_hiểm và quy_định của pháp_luật hiện_hành tại mọi thời_điểm .  Trong trường_hợp phát_hiện vi_phạm các quy_định pháp_luật và hợp_đồng ủy_thác đầu_tư , ngân_hàng giám_sát phải báo_cáo ngay cho Bộ Tài_chính ( Cục Quản_lý , giám_sát bảo_hiểm ) và thông_báo cho công_ty quản_lý quỹ trong thời_hạn hai_mươi tư ( 24 ) giờ , kể từ khi phát_hiện sự_việc đồng_thời yêu_cầu thực_hiện sửa lỗi hoặc thực_hiện các hoạt_động khắc_phục hậu_quả của các hành_vi vi_phạm này trong thời_hạn quy_định ; 
+
+c ) Giám_sát , bảo_đảm tính hợp_pháp và chỉ thanh_toán từ tài_sản của quỹ các khoản chi phù_hợp với quy_định của pháp_luật và mục_tiêu đầu_tư của quỹ ; 
+
+d ) Phối_hợp với doanh_nghiệp bảo_hiểm và công_ty quản_lý quỹ định_kỳ rà_soát giá_trị tài_sản ròng , định_giá quỹ liên_kết đơn_vị , giá_trị tài_sản ròng trên một đơn_vị của quỹ liên_kết đơn_vị , bảo_đảm các giá_trị này được tính đúng , chính_xác và phù_hợp quy_định của pháp_luật ; 
+
+đ ) Giám_sát việc tổ_chức thực_hiện và thẩm_định kết_quả hợp_nhất , sáp_nhập , giải_thể , thanh_lý_tài_sản quỹ liên_kết đơn_vị trong các trường_hợp_doanh_nghiệp bảo_hiểm được phép áp_dụng các biện_pháp trên ; 
+
+2 . Các tài_sản của quỹ liên_kết đơn_vị để ở ngân_hàng giám_sát đăng_ký sở_hữu dưới tên của doanh_nghiệp bảo_hiểm là tài_sản thuộc sở_hữu của quỹ liên_kết đơn_vị , không phải của ngân_hàng giám_sát hoặc công_ty quản_lý quỹ .  Ngân_hàng giám_sát không được sử_dụng tài_sản của quỹ liên_kết đơn_vị để thanh_toán , bảo_lãnh thanh_toán cho các khoản nợ của mình hoặc cho bên thứ ba . 
+
+3 . Ngân_hàng giám_sát có trách_nhiệm lập và lưu_trữ trong thời_gian mười ( 10 ) năm các hồ_sơ , chứng_từ dưới dạng văn_bản và tệp dữ_liệu điện_tử nhằm xác_nhận việc tuân_thủ trong hoạt_động đầu_tư của công_ty quản_lý quỹ và doanh_nghiệp bảo_hiểm so với các mục_tiêu đầu_tư của quỹ liên_kết đơn_vị và quy_định của pháp_luật .  Các tài_liệu này phải được cung_cấp theo yêu_cầu bằng văn_bản của Bộ Tài_chính . 
+
+Mục 4 
+
+Công_khai_thông_tin của doanh_nghiệp bảo_hiểm 
+
+Điều 25 .  Tài_liệu giới_thiệu sản_phẩm 
+
+1 . Thông_tin trong tài_liệu giới_thiệu sản_phẩm phải chính_xác , khách_quan , đầy_đủ , trung_thực và phải phù_hợp với sản_phẩm bảo_hiểm_liên_kết đơn_vị đã được Bộ Tài_chính phê_chuẩn . 
+
+2 . Ngoài các quy_định chung trong bảo_hiểm_nhân_thọ , tài_liệu giới_thiệu sản_phẩm liên_kết đơn_vị phải có những thông_tin tối_thiểu sau đây : 
+
+a ) Giới_thiệu đặc_tính cơ_bản của sản_phẩm bảo_hiểm_liên_kết đơn_vị ; 
+
+b ) Các loại quỹ liên_kết đơn_vị hiện có_của doanh_nghiệp bảo_hiểm , chính_sách đầu_tư của từng quỹ liên_kết đơn_vị , các loại tài_sản đầu_tư , tỷ_lệ phân_bổ tài_sản đầu_tư của từng quỹ và tính_chất của các rủi_ro đầu_tư ; 
+
+c ) Các quyền_lợi theo hợp_đồng bảo_hiểm_liên_kết đơn_vị sẽ biến_động theo kết_quả hoạt_động của các quỹ liên_kết đơn_vị và khẳng_định bên mua bảo_hiểm được hưởng toàn_bộ kết_quả đầu_tư và sẽ chịu toàn_bộ rủi_ro đầu_tư từ các quỹ liên_kết đơn_vị đã lựa_chọn tương_ứng với giá_trị của hợp_đồng trong các quỹ liên_kết đơn_vị ; 
+
+d ) Những trường_hợp_doanh_nghiệp bảo_hiểm có_thể tạm ngừng việc bán hoặc mua lại các đơn_vị của quỹ liên_kết đơn_vị ; 
+
+đ ) Tỷ_lệ phân bổ phí bảo_hiểm để mua các đơn_vị quỹ liên_kết đơn_vị và cách_thức tính_toán và hạn_mức tối_đa các khoản phí ban_đầu , phí quản_lý quỹ , phí bảo_hiểm_rủi_ro , phí quản_lý hợp_đồng bảo_hiểm và các khoản phí khác .  Những thông_tin nói trên phải kèm theo ví_dụ minh_họa về cách_thức phân bổ phí bảo_hiểm để mua các đơn_vị của quỹ liên_kết đơn_vị ; 
+
+e ) Tất_cả các quyền_lợi đảm_bảo cho bên mua bảo_hiểm phải được nêu rõ , bao_gồm quyền_lợi bảo_hiểm tử_vong , quyền_lợi đáo_hạn và hủy bỏ hợp_đồng .  Đối_với các quyền_lợi không được đảm_bảo , doanh_nghiệp bảo_hiểm phải thông_báo rõ cho bên mua bảo_hiểm biết ; 
+
+g ) Cơ_sở và định_kỳ định_giá các tài_sản của các quỹ liên_kết đơn_vị ; 
+
+h ) Kết_quả hoạt_động của các quỹ liên_kết đơn_vị hiện có trong năm ( 05 ) năm tài_chính gần nhất , hoặc toàn_bộ thời_gian mà quỹ đã được thành_lập và hoạt_động nếu ngắn hơn năm ( 05 ) năm .  Doanh_nghiệp bảo_hiểm phải nêu rõ thông_tin trên là kết_quả hoạt_động trong quá_khứ dùng để tham_khảo và không phải là cơ_sở để đảm_bảo chắc_chắn về kết_quả hoạt_động của các quỹ liên_kết đơn_vị trong tương_lai .  Các kết_quả đầu_tư trong quá_khứ được sử_dụng làm tham_chiếu phải phù_hợp với sản_phẩm liên_kết đơn_vị và các quỹ liên_kết đơn_vị đang được giới_thiệu ; 
+
+i ) Thông_tin rõ_ràng cho bên mua bảo_hiểm biết việc giao_kết_hợp_đồng bảo_hiểm_liên_kết đơn_vị là một cam_kết dài_hạn và bên mua bảo_hiểm không nên hủy bỏ hợp_đồng bảo_hiểm vì các khoản phí bên mua bảo_hiểm phải trả có_thể rất cao trong thời_gian đầu của hợp_đồng ; 
+
+k ) Thông_tin cảnh_báo bên mua bảo_hiểm phải tuân_thủ các quy_định tại hợp_đồng bảo_hiểm để bảo_đảm quyền và lợi_ích của mình . 
+
+Điều 26 .  Tài_liệu minh_họa bán hàng 
+
+1 . Tài_liệu minh_họa bán hàng của sản_phẩm bảo_hiểm_liên_kết đơn_vị phải được cung_cấp cho khách_hàng trước khi giao_kết_hợp_đồng bảo_hiểm và phải có thông_tin tối_thiểu theo Phụ_lục II Thông_tư này . 
+
+2 . Doanh_nghiệp bảo_hiểm phải thuyết_minh rõ cho bên mua bảo_hiểm các quyền_lợi mà khách_hàng có_thể được nhận khi giao_kết_hợp_đồng bảo_hiểm , bao_gồm quyền_lợi bảo_hiểm_rủi_ro và quyền_lợi có_thể nhận được từ các quỹ liên_kết đơn_vị , kể_cả trong trường_hợp thu_nhập của quỹ liên_kết đơn_vị bị âm . 
+
+3 . Tỷ_suất đầu_tư thực_tế của mỗi quỹ liên_kết đơn_vị phải được tính theo năm và có sự khác nhau cho từng quỹ liên_kết đơn_vị .  Các tỷ_suất đầu_tư thực_tế được tính trên cơ_sở lãi_ròng của quỹ liên_kết đơn_vị trong năm ( 05 ) năm trước hoặc thời_gian tồn_tại thực_tế của quỹ liên_kết đơn_vị nếu thời_gian hoạt_động của quỹ chưa đủ năm ( 05 ) năm .  Doanh_nghiệp bảo_hiểm phải giải_thích rõ cho bên mua bảo_hiểm biết việc liệt_kê các tỷ_suất đầu_tư không tính đến chênh_lệch giữa giá mua và giá bán hoặc các khoản phí khác có_thể sẽ được tính thêm cho bên mua bảo_hiểm .  Doanh_nghiệp bảo_hiểm không được minh_họa quyền_lợi đầu_tư dài hơn 20 năm . 
+
+4 . Các khoản phí và các hạn_mức tối_đa mà bên mua bảo_hiểm phải trả phải được thể_hiện rõ , trên cơ_sở tách_bạch giữa phí bảo_hiểm cho các quyền_lợi bảo_hiểm_rủi_ro và các khoản phí khác . 
+
+5 . Trong trường_hợp hợp_đồng bảo_hiểm_liên_kết đơn_vị có quyền_lợi bảo_hiểm bổ_trợ , doanh_nghiệp bảo_hiểm phải thuyết_trình rõ trong tài_liệu minh_họa bán hàng các quyền_lợi bổ_trợ đó và tác_động của chúng đối_với bên mua bảo_hiểm . 
+
+6 . Tài_liệu minh_họa bán hàng phải được trình_bày rõ_ràng , dễ hiểu và không làm cho bên mua bảo_hiểm_kỳ_vọng không thực_tế vào số tiền có_thể được nhận . 
+
+Điều 27 .  Công_bố thông_tin cho bên mua bảo_hiểm 
+
+1 . Doanh_nghiệp bảo_hiểm có trách_nhiệm công_bố chính_xác , đầy_đủ và kịp_thời cho bên mua bảo_hiểm các thông_tin liên_quan đến hợp_đồng bảo_hiểm_liên_kết đơn_vị đã giao_kết .  Thông_tin cung_cấp cho bên mua bảo_hiểm phải phù_hợp với sản_phẩm bảo_hiểm_liên_kết đơn_vị được Bộ Tài_chính phê_chuẩn . 
+
+2 . Doanh_nghiệp bảo_hiểm có trách_nhiệm công_bố trên website của doanh_nghiệp mình các tài_liệu dưới đây : 
+
+a ) Quy_tắc , điều_khoản sản_phẩm bảo_hiểm được Bộ Tài_chính phê_chuẩn ; 
+
+b ) Tài_liệu giới_thiệu sản_phẩm ; 
+
+c ) Tài_liệu minh_họa bán hàng về các trường_hợp điển_hình ; 
+
+d ) Tình_hình hoạt_động của quỹ liên_kết đơn_vị ; 
+
+đ ) Giá đơn_vị quỹ liên_kết đơn_vị theo quy_định tại Điều 19 và Điều 20 Thông_tư này . 
+
+Điều 28 .  Thông_báo cho bên mua bảo_hiểm về tình_trạng hợp_đồng 
+
+1 . Tình_trạng của hợp_đồng bảo_hiểm_liên_kết đơn_vị bao_gồm thông_tin sau : 
+
+a ) Số_lượng , giá_trị của các đơn_vị quỹ nắm giữ đầu năm báo_cáo ; 
+
+b ) Tổng_số phí bảo_hiểm đã đóng và số phí bảo_hiểm đã phân_bổ để mua các đơn_vị quỹ trong năm báo_cáo ; 
+
+c ) Chi_tiết từng khoản phí tính cho khách_hàng trong năm ; 
+
+d ) Số_lượng , giá_trị của các đơn_vị quỹ được mua , bán trong năm báo_cáo ; 
+
+đ ) Số tiền khách_hàng đã rút ra từ giá_trị tài_khoản hợp_đồng , các khoản vay từ hợp_đồng bảo_hiểm ( nếu có ) ; 
+
+e ) Giá đơn_vị quỹ , số_lượng , giá_trị của các đơn_vị quỹ cuối năm báo_cáo ; 
+
+g ) Quyền_lợi bảo_hiểm_rủi_ro và giá_trị hoàn lại vào đầu năm báo_cáo ; 
+
+h ) Quyền_lợi bảo_hiểm_rủi_ro và giá_trị hoàn lại vào cuối năm báo_cáo . 
+
+2 . Kết_quả hoạt_động của mỗi quỹ liên_kết đơn_vị mà bên mua bảo_hiểm đang nắm giữ các đơn_vị quỹ với các nội_dung sau : 
+
+a ) Thông_tin tóm_tắt về tình_hình tài_chính của quỹ liên_kết đơn_vị theo mẫu tại Phụ_lục III Thông_tư này ; 
+
+b ) Phân_tích kết_quả hoạt_động của các quỹ liên_kết đơn_vị , bao_gồm các nội_dung sau : 
+
+- Mục_tiêu đầu_tư của các quỹ liên_kết đơn_vị và cách_thức phân_bổ tài_sản tại thời_điểm báo_cáo ; 
+
+- Các thay_đổi về mục_tiêu đầu_tư ( nếu có ) , những hạn_chế của quỹ liên_kết đơn_vị trong năm ; 
+
+- Phân_tích về tình_hình hoạt_động của quỹ liên_kết đơn_vị trong năm ( 05 ) năm gần nhất về tỷ_suất đầu_tư ròng của quỹ liên_kết đơn_vị hoặc thời_gian tồn_tại thực_tế của quỹ liên_kết đơn_vị nếu thời_gian hoạt_động của quỹ chưa đủ năm ( 05 ) năm ; 
+
+- Các khoản chi_phí phải trả liên_quan đến quỹ liên_kết đơn_vị và các khoản chi_phí phát_sinh trong năm ; 
+
+- Chi_tiết về các khoản lãi chia đã thực_hiện và dự_kiến thực_hiện trong năm báo_cáo ;  các tác_động về giá_trị tài_sản ròng trên mỗi đơn_vị quỹ liên_kết đơn_vị trước và sau khi thực_hiện các khoản chia lãi ; 
+
+- Đánh_giá triển_vọng trong tương_lai của các khoản đầu_tư và các chính_sách đầu_tư dự_kiến của quỹ liên_kết đơn_vị , liệt_kê một_số trường_hợp điển_hình làm thay_đổi đánh_giá triển_vọng này ; 
+
+- Các chỉ_số liên_quan trong những lĩnh_vực đầu_tư mà quỹ liên_kết đơn_vị đang đầu_tư ; 
+
+- Xác_nhận của công_ty kiểm_toán độc_lập về những thông_tin nói trên . 
+
+Điều 29 .  Công_bố giá đơn_vị quỹ liên_kết đơn_vị 
+
+1 . Doanh_nghiệp bảo_hiểm phải định_kỳ hàng tuần công_bố trên ít_nhất một tờ báo trung_ương và website của doanh_nghiệp về những nội_dung sau đây : 
+
+a ) Giá bán đơn_vị của quỹ liên_kết đơn_vị ; 
+
+b ) Giá mua đơn_vị của quỹ liên_kết đơn_vị ; 
+
+c ) Giá_trị tài_sản ròng trên mỗi đơn_vị của quỹ liên_kết đơn_vị . 
+
+2 . Việc công_bố thông_tin theo quy_định tại khoản 1 Điều này phải phù_hợp với định_kỳ định_giá đơn_vị quỹ liên_kết đơn_vị của doanh_nghiệp bảo_hiểm và phải được thực_hiện vào ngày làm_việc ngay sau ngày định_giá .  Doanh_nghiệp bảo_hiểm phải bảo_đảm khách_hàng tra_cứu được trên website của doanh_nghiệp thông_tin về giá_trị đơn_vị quỹ của các tuần liền kề của ba ( 03 ) năm trước đó . 
+
+Điều 30 .  Quy_định về thông_tin , quảng_cáo sản_phẩm bảo_hiểm_liên_kết đơn_vị 
+
+1 . Doanh_nghiệp bảo_hiểm được thông_tin , quảng_cáo về sản_phẩm bảo_hiểm_liên_kết đơn_vị theo quy_định của pháp_luật và chịu trách_nhiệm về những thông_tin đã cung_cấp . 
+
+2 . Doanh_nghiệp bảo_hiểm , tổ_chức , cá_nhân có liên_quan không được quảng_cáo , thông_tin về sản_phẩm bảo_hiểm_liên_kết đơn_vị khi sản_phẩm chưa được Bộ Tài_chính phê_chuẩn . 
+
+3 . Tài_liệu quảng_cáo phải được trình_bày_bằng ngôn_ngữ tiếng Việt , dễ hiểu , không đa_nghĩa , không gây hiểu nhầm ;  thông_tin trung_thực , khách_quan , chính_xác và cập_nhật tới thời_điểm gần nhất .  Các khái_niệm , thuật_ngữ chuyên_môn phải được chú_thích đầy_đủ . 
+
+4 . Tài_liệu quảng_cáo có nội_dung rõ_ràng , không gây hiểu nhầm quỹ liên_kết đơn_vị là các công_cụ tài_chính có thu_nhập cố_định hoặc đảm_bảo về lợi_nhuận .  Tài_liệu quảng_cáo , giới_thiệu sản_phẩm bảo_hiểm_liên_kết đơn_vị không được bao_hàm các nhận_định khiến khách_hàng hiểu nhầm là giá_trị khoản đầu_tư luôn_luôn gia_tăng ;  không được cam_kết hoặc dự_báo kết_quả đầu_tư của quỹ liên_kết đơn_vị luôn tích_cực trong tương_lai . 
+
+5 . Doanh_nghiệp bảo_hiểm , đại_lý bảo_hiểm không được so_sánh với ý_đồ quảng_cáo , bảo_đảm chắc_chắn kết_quả đầu_tư của một quỹ liên_kết đơn_vị này là tốt hơn so với quỹ liên_kết đơn_vị khác hoặc của doanh_nghiệp bảo_hiểm khác . 
+
+6 . Khi sử_dụng các ý_kiến đánh_giá , nhận_xét của bên thứ ba hoặc kết_quả bình_chọn , xếp_hạng kết_quả hoạt_động để quảng_cáo , giới_thiệu sản_phẩm bảo_hiểm_liên_kết đơn_vị , doanh_nghiệp bảo_hiểm , các tổ_chức , cá_nhân có liên_quan phải bảo_đảm : 
+
+a ) Ý_kiến đánh_giá , nhận_xét hoặc kết_quả bình_chọn , xếp_hạng phải đáng tin_cậy , khách_quan , dựa trên sự so_sánh , dữ_liệu và sự_kiện có thật ; 
+
+b ) Ý_kiến đánh_giá , nhận_xét hoặc kết_quả bình_chọn , xếp_hạng phải được công_bố công_khai hoặc thực_hiện công_khai bởi tổ_chức cung_cấp dịch_vụ thông_tin tài_chính và thống_kê đã được công_nhận ; 
+
+c ) Nêu rõ nguồn tham_chiếu bao_gồm tên tài_liệu , tên tổ_chức xuất_bản và thời_gian xuất_bản ; 
+
+d ) Kết_quả bình_chọn , xếp_hạng không quá một năm ( 12 tháng ) kể từ ngày sản_phẩm bảo_hiểm_liên_kết đơn_vị được bình_chọn , xếp_hạng hoặc nhận giải_thưởng . 
+
+7 . Thông_tin , quảng_cáo về sản_phẩm bảo_hiểm_liên_kết đơn_vị không được hàm_ý cơ_quan quản_lý nhà_nước bảo_đảm về nội_dung thông_tin , quảng_cáo cũng như mục_tiêu , chiến_lược đầu_tư của quỹ liên_kết đơn_vị , bảo_đảm về tài_sản của quỹ liên_kết đơn_vị , giá_trị đơn_vị quỹ , khả_năng sinh lời và mức rủi_ro của quỹ liên_kết đơn_vị . 
+
+Doanh_nghiệp bảo_hiểm không được sử_dụng danh_nghĩa , biểu_tượng , hình_ảnh , địa_vị , uy_tín , thư_tín của các cơ_quan quản_lý nhà_nước , cán_bộ , công_chức của các cơ_quan quản_lý nhà_nước , thư cảm_ơn của khách_hàng để quảng_cáo , giới_thiệu , chào_mời mua sản_phẩm bảo_hiểm_liên_kết đơn_vị . 
+
+8 . Tài_liệu thông_tin , quảng_cáo về sản_phẩm bảo_hiểm_liên_kết đơn_vị phải in đậm_nét , rõ_ràng , cỡ chữ không nhỏ hơn các nội_dung khác tại ấn_phẩm thông_tin , quảng_cáo với các khuyến_cáo dưới đây : 
+
+a ) Khách_hàng cần đọc kỹ tài_liệu giới_thiệu sản_phẩm , tài_liệu minh_họa bán hàng , quy_tắc , điều_khoản trước khi mua sản_phẩm bảo_hiểm_liên_kết đơn_vị và lưu_ý các khoản phí của sản_phẩm ; 
+
+b ) Sản_phẩm bảo_hiểm_liên_kết đơn_vị là sản_phẩm khác_biệt với các sản_phẩm bảo_hiểm_truyền_thống , khách_hàng phải chịu toàn_bộ rủi_ro đầu_tư tương_ứng với phần phí bảo_hiểm đã đóng theo loại_hình rủi_ro của quỹ liên_kết đơn_vị khách_hàng đã lựa_chọn ; 
+
+c ) Giá_trị tài_khoản của hợp_đồng bảo_hiểm của khách_hàng có_thể thay_đổi tùy vào tình_hình thị_trường và khách_hàng có_thể chịu thiệt_hại về số phí bảo_hiểm đã nộp trong trường_hợp đầu_tư thua_lỗ ; 
+
+d ) Các thông_tin về kết_quả hoạt_động của quỹ liên_kết đơn_vị trước_đây ( nếu có ) chỉ mang tính tham_khảo và không có nghĩa_là các quỹ này sẽ sinh lời cho khách_hàng trong tương_lai . 
+
+Mục 5 
+
+Khả_năng thanh_toán , dự_phòng nghiệp_vụ và chế_độ báo_cáo 
+
+Điều 31 .  Khả_năng thanh_toán 
+
+1 . Doanh_nghiệp bảo_hiểm phải luôn duy_trì khả_năng thanh_toán theo quy_định của pháp_luật . 
+
+2 . Biên_khả_năng thanh_toán tối_thiểu đối_với các hợp_đồng bảo_hiểm_liên_kết đơn_vị bằng 1,5 % dự_phòng nghiệp_vụ cộng với 0,3 % số tiền bảo_hiểm_chịu rủi_ro . 
+
+3 . Biên_khả_năng thanh_toán của doanh_nghiệp bảo_hiểm phải cao hơn biên_khả_năng thanh_toán tối_thiểu hai trăm ( 200 ) tỷ đồng Việt_Nam . 
+
+Điều 32 .  Trích_lập dự_phòng nghiệp_vụ 
+
+1 . Doanh_nghiệp bảo_hiểm phải trích_lập dự_phòng nghiệp_vụ như sau : 
+
+a ) Dự_phòng toán_học , bao_gồm : 
+
+- Dự_phòng rủi_ro bảo_hiểm : là số lớn hơn giữa mức dự_phòng tính theo phương pháp phí chưa được hưởng hoặc dự_phòng tính theo phương_pháp dòng tiền để đáp_ứng được tất_cả các khoản chi_phí trong tương_lai trong suốt thời_hạn của hợp_đồng . 
+
+- Dự_phòng nghiệp_vụ đối_với phần liên_kết đơn_vị là tổng_số các khoản sau : 
+
++ Tổng_số các đơn_vị đầu_tư của bên mua bảo_hiểm tại ngày định_giá nhân với giá mua của đơn_vị quỹ tại ngày định_giá ; 
+
++ Tổng_số phí bảo_hiểm đã nhận được từ bên mua bảo_hiểm tại ngày định_giá sau khi trừ đi các khoản phí tính cho bên mua bảo_hiểm_mà phần còn lại này dùng để mua các đơn_vị quỹ nhưng chưa được thực_hiện . 
+
+b ) Dự_phòng bồi_thường : được trích theo phương_pháp từng hồ_sơ với mức trích_lập được tính trên cơ_sở thống_kê số tiền bảo_hiểm phải trả cho từng hồ_sơ đã yêu_cầu đòi bồi_thường doanh_nghiệp bảo_hiểm nhưng đến cuối năm tài_chính chưa được giải_quyết ; 
+
+c ) Dự_phòng bảo_đảm khả_năng thanh_toán bổ_sung ( resilience reserve ) : Dự_phòng này dùng để bảo_đảm cam_kết của doanh_nghiệp đối_với khách_hàng theo thỏa_thuận tại hợp_đồng bảo_hiểm khi thị_trường đầu_tư có biến_động lớn ; 
+
+d ) Các dự_phòng khác sau khi được sự phê_chuẩn của Bộ Tài_chính . 
+
+2 . Chuyên_gia tính_toán của doanh_nghiệp bảo_hiểm có trách_nhiệm xác_định phương_pháp và cơ_sở trích_lập dự_phòng nghiệp_vụ phù_hợp với các nguyên_tắc và phương_pháp tính_toán được thừa_nhận rộng_rãi theo thông_lệ quốc_tế . 
+
+Điều 33 .  Trách_nhiệm của doanh_nghiệp bảo_hiểm và chế_độ báo_cáo 
+
+1 . Doanh_nghiệp bảo_hiểm_kinh_doanh sản_phẩm bảo_hiểm_liên_kết đơn_vị phải tuân_thủ quy_định tại Thông_tư này và các quy_định pháp_luật khác có liên_quan . 
+
+2 . Căn_cứ Thông_tư này và các quy_định pháp_luật có liên_quan , doanh_nghiệp bảo_hiểm_ban_hành các quy_trình nghiệp_vụ triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị phù_hợp với điều_kiện , đặc_điểm và điều_lệ hoạt_động . 
+
+3 . Chuyên_gia tính_toán có trách_nhiệm đánh_giá việc tuân_thủ các quy_định tại Thông_tư này của doanh_nghiệp bảo_hiểm trong quá_trình kinh_doanh sản_phẩm bảo_hiểm_liên_kết đơn_vị .  Báo_cáo đánh_giá của chuyên_gia tính_toán được gửi cho Bộ Tài_chính trong thời_hạn năm ( 05 ) ngày làm_việc kể từ ngày kết_thúc tháng .  Trong trường_hợp phát_hiện sai_phạm của doanh_nghiệp bảo_hiểm , chuyên_gia tính_toán phải báo_cáo Bộ Tài_chính trong thời_hạn ba ( 03 ) ngày làm_việc kể từ ngày vi_phạm được phát_hiện . 
+
+4 . Định_kỳ hàng tháng , doanh_nghiệp bảo_hiểm tổng_hợp tình_hình kinh_doanh sản_phẩm bảo_hiểm_liên_kết đơn_vị để báo_cáo Bộ Tài_chính theo mẫu quy_định tại Phụ_lục IV ban_hành kèm theo Thông_tư này . 
+
+5 . Định_kỳ hàng quý , doanh_nghiệp bảo_hiểm thực_hiện báo_cáo Bộ Tài_chính số_liệu trích_lập dự_phòng nghiệp_vụ đối_với sản_phẩm bảo_hiểm_liên_kết đơn_vị theo mẫu quy_định tại Phụ_lục V_ban_hành kèm theo Thông_tư này . 
+
+6 . Doanh_nghiệp bảo_hiểm có trách_nhiệm hợp_tác và báo_cáo tình_hình thực_tế triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị theo yêu_cầu của Bộ Tài_chính . 
+
+Mục 6 
+
+Đại_lý bảo_hiểm , hoa_hồng bảo_hiểm và phân_phối bảo_hiểm 
+
+Điều 34 .  Yêu_cầu đối_với đại_lý bảo_hiểm_bảo_hiểm 
+
+1 . Để triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị , doanh_nghiệp bảo_hiểm phải đảm_bảo tuyển_chọn các đại_lý bảo_hiểm đáp_ứng đủ các điều_kiện sau đây : 
+
+a ) Không vi_phạm_quy_tắc đạo_đức nghề_nghiệp đại_lý của doanh_nghiệp bảo_hiểm trong thời_gian hành_nghề đại_lý ; 
+
+b ) Có chứng_chỉ đại_lý bán sản_phẩm bảo_hiểm_liên_kết đơn_vị theo quy_định của pháp_luật .  Quy_định này không áp_dụng đối_với các đại_lý bảo_hiểm đã đủ tiêu_chuẩn và được doanh_nghiệp bảo_hiểm sử_dụng để bán sản_phẩm bảo_hiểm_liên_kết đơn_vị trước ngày Thông_tư này có hiệu_lực . 
+
+c ) Đáp_ứng một trong các điều_kiện về kinh_nghiệm dưới đây : 
+
+- Là đại_lý bảo_hiểm và có ít_nhất một ( 01 ) năm kinh_nghiệm hoạt_động đại_lý bảo_hiểm liên_tục ;  hoặc 
+
+- Là đại_lý bảo_hiểm , có ít_nhất sáu ( 06 ) tháng kinh_nghiệm làm_việc liên_tục trong lĩnh_vực tài_chính , ngân_hàng , bảo_hiểm và có chứng_chỉ chuyên_môn về chứng_khoán do Ủy_ban chứng_khoán nhà_nước cấp ;  hoặc 
+
+- Là đại_lý bảo_hiểm , có ít_nhất sáu ( 06 ) tháng kinh_nghiệm hoạt_động đại_lý bảo_hiểm liên_tục và có bằng tốt_nghiệp từ cao_đẳng trở lên trong lĩnh_vực tài_chính , ngân_hàng , bảo_hiểm . 
+
+2 . Doanh_nghiệp bảo_hiểm phải chịu trách_nhiệm về những thiệt_hại hay tổn_thất do hoạt_động đại_lý của mình gây ra theo thỏa_thuận tại hợp_đồng_đại_lý bảo_hiểm . 
+
+Điều 35 .  Chương_trình đào_tạo đại_lý bảo_hiểm_liên_kết đơn_vị 
+
+1 . Ngoài những nội_dung kiến_thức chung về đại_lý bảo_hiểm , chương_trình đào_tạo đại_lý bảo_hiểm_liên_kết đơn_vị phải bao_gồm các nội_dung sau : 
+
+a ) Kiến_thức chung về thị_trường tài_chính ; 
+
+b ) Kiến_thức cơ_bản về đầu_tư ; 
+
+c ) Nội_dung của sản_phẩm bảo_hiểm_liên_kết đơn_vị doanh_nghiệp bảo_hiểm được phép kinh_doanh ; 
+
+d ) Pháp_luật kinh_doanh bảo_hiểm về sản_phẩm bảo_hiểm_liên_kết đơn_vị ; 
+
+đ ) Kỹ_năng bán sản_phẩm bảo_hiểm_liên_kết đơn_vị ; 
+
+e ) Thực_hành tư_vấn và bán sản_phẩm bảo_hiểm_liên_kết đơn_vị . 
+
+2 . Thời_gian đào_tạo đối_với chương_trình đào_tạo đại_lý bảo_hiểm_liên_kết đơn_vị được quy_định như sau : 
+
+a ) Đối_với các học_viên có chứng_chỉ chuyên_môn về chứng_khoán do Ủy_ban chứng_khoán nhà_nước cấp , thời_gian đào_tạo tối_thiểu là 24 giờ ; 
+
+b ) Đối_với các học_viên có bằng_cấp hoặc kinh_nghiệm làm_việc trong lĩnh_vực tài_chính , ngân_hàng , bảo_hiểm , thời_gian đào_tạo tối_thiểu là 28 giờ ; 
+
+c ) Đối_với các đối_tượng khác , thời_gian đào_tạo tối_thiểu là 40 giờ ; 
+
+d ) Ngoài thời_gian đào_tạo lần đầu để được cấp chứng_chỉ đại_lý bán sản_phẩm bảo_hiểm_liên_kết đơn_vị quy_định tại các điểm a , b và c của khoản 2 Điều này , thời_gian đào_tạo thường_xuyên định_kỳ hàng quý đối_với các đại_lý bảo_hiểm_liên_kết đơn_vị là 08 giờ . 
+
+Điều 36 .  Hoa_hồng bảo_hiểm 
+
+Hoa_hồng bảo_hiểm đối_với sản_phẩm bảo_hiểm_liên_kết đơn_vị được thực_hiện theo các quy_định của pháp_luật với tỷ_lệ hoa_hồng tối_đa mà doanh_nghiệp bảo_hiểm được phép trả cho đại_lý bảo_hiểm đối_với từng hợp_đồng bảo_hiểm được thực_hiện theo quy_định tại Phụ_lục VI_Thông_tư này . 
+
+Điều 37 .  Hướng_dẫn nghiệp_vụ 
+
+1 . Cẩm_nang phải được đính kèm với quy_tắc đạo_đức nghề_nghiệp trong phân_phối sản_phẩm bảo_hiểm_liên_kết đơn_vị , nhằm bảo_đảm không xảy ra những hành_vi sai_trái trong phân_phối bảo_hiểm_liên_kết đơn_vị ; 
+
+2 . Hồ_sơ yêu_cầu bảo_hiểm của khách_hàng phải bao_gồm tài_liệu chứng_minh khách_hàng đã đọc , được tư_vấn và hiểu về sản_phẩm bảo_hiểm_liên_kết đơn_vị mà mình lựa_chọn ; 
+
+3 . Bao_gồm quy_trình và yêu_cầu kiểm_tra chéo kết_quả tư_vấn của doanh_nghiệp bảo_hiểm đối_với các hợp_đồng bảo_hiểm_liên_kết đơn_vị ; 
+
+4 . Bao_gồm quy_trình nghiệp_vụ liên_quan đến việc phân_phối sản_phẩm bảo_hiểm_liên_kết đơn_vị , phân_công nhiệm_vụ , trách_nhiệm và sự phối_hợp giữa các phòng_ban , bộ_phận trong doanh_nghiệp bảo_hiểm trong quá_trình phân_phối sản_phẩm bảo_hiểm_liên_kết đơn_vị ; 
+
+5 . Bao_gồm kiểm_tra , kiểm_soát nội_bộ đối_với việc triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị theo quy_định pháp_luật ; 
+
+6 . Bao_gồm quy_định thống_nhất cách tính giá đơn_vị quỹ ; 
+
+7 . Bao_gồm quy_định về trách_nhiệm trong việc nâng cao nhận_thức cho khách_hàng về sản_phẩm bảo_hiểm_liên_kết đơn_vị .  Khách_hàng tham_gia_sản_phẩm bảo_hiểm_liên_kết đơn_vị phải nhận_thức được đặc_điểm rủi_ro của sản_phẩm , các thuật_ngữ , các loại phí , điều_kiện , điều_khoản của hợp_đồng bảo_hiểm . 
+
+Điều 38 .  Phân_phối sản_phẩm bảo_hiểm_liên_kết đơn_vị 
+
+1 . Tuân_thủ quy_định của pháp_luật đối_với hoạt_động đại_lý bảo_hiểm , hợp đồng_đại_lý bảo_hiểm ký_kết với doanh_nghiệp bảo_hiểm và các quy_tắc đạo_đức nghề_nghiệp do doanh_nghiệp bảo_hiểm_ban_hành . 
+
+2 . Tư_vấn đúng quy_trình đã được hướng_dẫn và các quy_trình khác do doanh_nghiệp bảo_hiểm_ban_hành .  Trong quá_trình tư_vấn cho khách_hàng , đại_lý bảo_hiểm phải thực_hiện phân_tích thông_tin khách_hàng bao_gồm nhu_cầu và khả_năng tài_chính của khách_hàng , thực_hiện khảo_sát mức_độ chấp_nhận rủi_ro của khách_hàng từ đó đưa ra tư_vấn sản_phẩm phù_hợp dành cho khách_hàng . 
+
+3 . Đại_lý bảo_hiểm phải bảo_đảm tất_cả các khách_hàng phải được giải_thích rõ về quyền_lợi của sản_phẩm , nhận_thức được các rủi_ro đặc_thù của sản_phẩm đã lựa_chọn trước khi ký vào hồ_sơ yêu_cầu bảo_hiểm ;  có văn_bản chứng_minh khách_hàng đã được tư_vấn đầy_đủ , hiểu_biết về sản_phẩm bảo_hiểm đã lựa_chọn và sản_phẩm bảo_hiểm này phù_hợp với nhu_cầu và khả_năng tài_chính của khách_hàng . 
+
+4 . Đại_lý bảo_hiểm phải báo_cáo doanh_nghiệp bảo_hiểm kết_quả tư_vấn khách_hàng , bao_gồm thông_tin cơ_bản của khách_hàng và khả_năng tài_chính để tham_gia_bảo_hiểm ;  đồng_thời tường_thuật quá_trình tư_vấn bảo_hiểm .  Báo_cáo này là một phần trong hồ_sơ yêu_cầu bảo_hiểm . 
+
+5 . Đại_lý bảo_hiểm không được tác_động , xúi_giục khách_hàng thay_thế hoặc hủy bỏ hợp_đồng bảo_hiểm hiện_tại để tham_gia hợp_đồng bảo_hiểm_liên_kết đơn_vị . 
+
+Điều 39 .  Giám_sát và xử_lý vi_phạm 
+
+1 . Doanh_nghiệp bảo_hiểm , đại_lý bảo_hiểm , tổ_chức và cá_nhân có liên_quan chịu sự giám_sát của Bộ Tài_chính ( Cục Quản_lý , giám_sát bảo_hiểm ) trong quá_trình kinh_doanh sản_phẩm bảo_hiểm_liên_kết đơn_vị theo quy_định pháp_luật . 
+
+2 . Cục Quản_lý , giám_sát bảo_hiểm có trách_nhiệm định_kỳ hàng quý đánh_giá việc triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị ;  phối_hợp các đơn_vị có liên_quan báo_cáo Bộ_trưởng Bộ Tài_chính sửa_đổi , bổ_sung Thông_tư này cho phù_hợp với thực_tiễn . 
+
+3 . Doanh_nghiệp bảo_hiểm , đại_lý bảo_hiểm , tổ_chức và cá_nhân có liên_quan vi_phạm sẽ bị xử_lý theo quy_định của pháp_luật . 
+
+Điều 40 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 01 tháng 10 năm 2012 . 
+
+2 . Thông_tư này thay_thế <QĐ rel="Replace"> Quyết_định số 102/2007/QĐ-BTC ngày 14/12/2007 </QĐ> của Bộ_trưởng Bộ Tài_chính về việc ban_hành Quy_chế triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị .
+3 . Trong vòng mười hai ( 12 ) tháng kể từ ngày Thông_tư này có hiệu_lực , doanh_nghiệp bảo_hiểm đã triển_khai sản_phẩm bảo_hiểm_liên_kết đơn_vị theo <QĐ rel="Reference"> Quyết_định số 102/2007/QĐ-BTC </QĐ> có trách_nhiệm thực_hiện đầy_đủ quy_định tại Thông_tư này .
+4 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc , đề_nghị phản_ánh kịp_thời về Bộ Tài_chính để xem_xét , giải_quyết ./. 

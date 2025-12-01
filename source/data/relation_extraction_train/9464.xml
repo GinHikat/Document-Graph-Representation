@@ -1,0 +1,367 @@
+Thông tư Hướng dẫn thực hiện chế độ thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc có tính thời vụ và gia công hàng xuất khẩu theo đơn đặt hàng
+
+I . PHẠM_VI VÀ ĐỐI_TƯỢNG ÁP_DỤNG 
+
+1 . Phạm_vi áp_dụng của Thông_tư này bao_gồm các doanh_nghiệp , cơ_sở sản_xuất kinh_doanh ( gọi chung là doanh_nghiệp ) sau : 
+
+Doanh_nghiệp thành_lập , hoạt_động theo <L rel="Reference"> Luật_Doanh_nghiệp Nhà_nước </L> , bao_gồm : doanh_nghiệp hoạt_động_sản_xuất , kinh_doanh ; doanh_nghiệp hoạt_động công_ích ; doanh_nghiệp thuộc lực_lượng vũ_trang ;
+Doanh_nghiệp thành_lập , hoạt_động theo <L rel="Reference"> Luật_Doanh_nghiệp </L> , bao_gồm : công_ty trách_nhiệm hữu_hạn , công_ty cổ_phần , công_ty hợp danh , doanh_nghiệp tư_nhân ;
+Doanh_nghiệp hoạt_động theo <L rel="Reference"> Luật_Đầu_tư nước_ngoài tại Việt_Nam </L> , bao_gồm : doanh_nghiệp liên_doanh và doanh_nghiệp 100 % vốn đầu_tư nước_ngoài ;
+Doanh_nghiệp của tổ_chức chính_trị , tổ_chức chính_trị-xã_hội ; 
+
+Hợp_tác_xã hoạt_động theo <L rel="Reference"> Luật Hợp_tác_xã </L> có sử_dụng lao_động theo chế_độ hợp_đồng lao_động ;
+Hộ sản_xuất , kinh_doanh cá_thể , tổ_hợp_tác . 
+
+2 . Đối_tượng áp_dụng là người lao_động có hợp_đồng lao_động xác_định thời_hạn từ 1 năm đến 3 năm và hợp_đồng lao_động không xác_định thời_hạn , thuộc các doanh_nghiệp nêu tại Khoản 1 trên , bao_gồm : 
+
+Làm các công_việc có tính thời_vụ trong sản_xuất nông-lâm-ngư_nghiệp , đòi_hỏi phải thu_hoạch ngay hoặc sau khi thu_hoạch phải chế_biến ngay không để lâu_dài được ; 
+
+Các công_việc gia_công hàng xuất_khẩu theo đơn đặt_hàng thường phụ_thuộc vào thời_điểm các chủ hàng yêu_cầu . 
+
+II .  THỜI_GIỜ LÀM_VIỆC , THỜI_GIỜ NGHỈ_NGƠI 
+
+1 . Thời_giờ làm_việc của các đối_tượng trên được quy_định như sau : 
+
+1.1 Quỹ thời_giờ tiêu_chuẩn làm_việc trong năm : 
+
+TQ = [ TN-( Tt + TP + TL ) ] x tn ( giờ ) 
+
++ TQ : Quỹ thời_giờ tiêu_chuẩn làm_việc trong năm của người lao_động ; 
+
++ TN : Số ngày trong năm tính theo năm dương_lịch là 365 ngày ;  hoặc là 366 ngày nếu là năm nhuận ; 
+
++ Tt : Tổng_số ngày nghỉ hàng tuần trong năm được xác_định theo quy_định tại Điều 72 của <BL rel="Reference"> Bộ_luật Lao_động </BL> ;
++ TP : Số ngày nghỉ hàng năm là 12 , 14 hoặc 16 ngày và được tăng theo thâm_niên làm_việc theo quy_định tại Điều 74 , Điều 75 của <BL rel="Reference"> Bộ_Luật Lao_động </BL> và Khoản 2 , mục II của <TT rel="Reference"> Thông_tư số 07/LĐTBXH-TT ngày 11/4/1995 </TT> ;
++ TL : Số ngày nghỉ lễ trong năm là 8 ngày ; 
+
++ tn : Số giờ làm_việc bình_thường trong một ngày là 8 giờ ;  riêng đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm theo Danh_mục do Bộ Lao_động-Thương_binh và Xã_hội ban_hành là 6 giờ . 
+
+Ví dụ1 : Công_nhân A làm_việc 15 năm trong điều_kiện lao_động bình_thường cho Công_ty X .  Quỹ thời_giờ tiêu_chuẩn làm_việc năm 2003 của công_nhân A_tính như sau : 
+
+Số ngày nghỉ hàng năm của công_nhân A là : = 15 ngày . 
+
+Trong đó : + 12 ngày được xác_định theo quy_định tại Điều 74 của 
+
+<BL rel="Reference"> Bộ_luật Lao_động </BL> ;
++ 15/5 là số ngày nghỉ tăng theo thâm_niên được xác_định theo quy_định tại Điều 75 của <BL rel="Reference"> Bộ_luật Lao_động </BL> .
+- Lập bảng tính sau : 
+
+1 . 
+
+Số ngày trong năm ( theo dương_lịch ) 
+
+: 
+
+TN = 
+
+365 
+
+2 . 
+
+Tổng_số ngày nghỉ hàng tuần trong năm 2003 
+
+Tt = 
+
+52 
+
+3 . 
+
+Số ngày nghỉ hàng năm 
+
+Tp = 
+
+15 
+
+4 . 
+
+Số ngày nghỉ lễ 
+
+TL = 
+
+8 
+
+5 . 
+
+Số giờ làm_việc bình_thường trong một ngày 
+
+tn = 
+
+TQ = [ 365-( 52 + 15 + 8 ) ] x8 = 2320 giờ 
+
+Vậy Quỹ thời_giờ tiêu_chuẩn làm_việc của công_nhân A năm 2003 là 2320 giờ . 
+
+Ví dụ2 : Công_nhân B làm nghề đặc_biệt nặng_nhọc cho Công_ty Y đã 15 năm .  Quỹ thời_giờ tiêu_chuẩn làm_việc năm 2003 của công_nhân B tính như sau : 
+
+của công_nhân B là : = 19 ngày . 
+
+Trong đó :-16 ngày được xác_định theo quy_định tại Điều 74 của 
+
+/5 là số ngày nghỉ tăng theo thâm_niên được xác_định theo quy_định tại Điều 75 của <BL rel="Reference"> Bộ_luật Lao_động </BL> .
+Lập bảng tính sau : 
+
+Số ngày tính theo năm dương_lịch 
+
+19 
+
+6 
+
+TQ = [ 365-( 52 + 19 + 8 ) ] x6 = 1716 giờ 
+
+Vậy Quỹ thời_giờ tiêu_chuẩn làm_việc của công_nhân B năm 2003 là 1716 giờ 
+
+Số giờ tiêu_chuẩn làm_việc hàng ngày : 
+
+Hàng năm , căn_cứ vào Quỹ thời_giờ tiêu_chuẩn làm_việc trong năm ( TQ ) đã tính ở trên , doanh_nghiệp lập kế_hoạch xác_định số giờ tiêu_chuẩn làm_việc hàng ngày của người lao_động theo các trường_hợp sau : 
+
+a . Ngày làm_việc bình_thường là 8 giờ ;  hoặc là 6 giờ đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm ; 
+
+b . Ngày làm_việc nhiều hơn 8 giờ nhưng không quá 12 giờ ;  hoặc nhiều hơn 6 giờ nhưng không quá 9 giờ đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm ; 
+
+c . Ngày làm_việc trên 4 giờ nhưng ít hơn 8 giờ ;  hoặc trên 3 giờ nhưng ít hơn 6 giờ đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm ; 
+
+d . Cho nghỉ trọn ngày . 
+
+Ví_dụ 3 : Công_nhân A theo ví_dụ 1 có Quỹ thời_giờ tiêu_chuẩn trong năm 2003 là 2320 giờ .  Công_ty X phân_bổ số giờ tiêu_chuẩn làm_việc hàng ngày của công_nhân A năm 2003 như sau : 
+
+Các Tháng theo dương_lịch 
+
+Số giờ tiêu_chuẩn làm_việc 
+
+hàng ngày 
+
+Số ngày làm_việc 
+
+trong tháng 
+
+Tổng_số giờ 
+
+làm_việc trong tháng 
+
+Ghi_chú 
+
+Tháng 1 
+
+25 
+
+200 
+
+Nghỉ 1 ngày tết dương_lịch 
+
+Tháng 2 
+
+7 
+
+10 
+
+0 
+
+Nghỉ 4 ngày tết âm_lịch 
+
+Nghỉ trọn 11 ngày làm_việc 
+
+Tháng 3 
+
+26 
+
+182 
+
+Tháng 4 
+
+9 
+
+225 
+
+Nghỉ ngày Chiến_thắng 
+
+Tháng 5 
+
+11 giờ từ thứ hai đến thứ năm 
+
+giờ vào thứ sáu , thứ bảy hàng tuần 
+
+287 
+
+Nghỉ ngày Quốc_tế lao_động 
+
+Tháng 6 
+
+giờ từ thứ hai đến thứ_sáu 
+
+giờ vào thứ_bảy 
+
+245 
+
+Tháng 7 
+
+23 
+
+161 
+
+4 ngày nghỉ hàng năm 
+
+Tháng 8 
+
+120 
+
+11 ngày nghỉ hàng năm 
+
+Tháng 9 
+
+20 
+
+Nghỉ trọn 5 ngày làm_việc 
+
+Nghỉ ngày Quốc_khánh 
+
+Tháng10 
+
+11 giờ từ thứ hai đến thứ_sáu 
+
+giờ vào thứ_bảy 
+
+27 
+
+282 
+
+1 
+
+giờ từ thứ hai đến thứ_bảy của 2 tuần đầu tháng 
+
+giờ vào các ngày làm_việc khác trong tháng 
+
+212 
+
+2 
+
+216 
+
+Tổng 
+
+20 
+
+Các nguyên_tắc sử_dụng Quỹ thời_giờ tiêu_chuẩn làm_việc : 
+
+a . Trong năm , tổng_số giờ tiêu_chuẩn làm_việc được lập kế_hoạch xác_định theo hướng_dẫn tại Khoản 1.2 trên ( gồm cả thời_giờ nghỉ_ngơi trong ngày được tính là thời_giờ làm_việc ) không được vượt quá Quỹ thời_giờ tiêu_chuẩn làm_việc trong năm ( TQ ) đã xác_định tại Khoản 1.1 trên ; 
+
+b . Số giờ tiêu_chuẩn làm_việc hàng ngày ít hơn 8 giờ ;  hoặc ít hơn 6 giờ đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm , nếu đã được lập kế_hoạch xác_định theo hướng_dẫn nêu tại Điểm_c và Điểm d khoản 1.2 trên , thì không phải trả lương ngừng việc ; 
+
+Ví_dụ 4 : Trong tháng 2 , Công_ty X bố_trí cho công_nhân A làm_việc 7 giờ/ngày trong 10 ngày làm_việc , sau đó cho nghỉ trọn 11 ngày làm_việc .  Công_ty đã bố_trí theo đúng kế_hoạch đã lập nêu tại Ví_dụ 3 trên , như_vậy : 
+
+Số giờ làm_việc ít hơn so với 8 giờ của ngày làm_việc bình_thường là : 
+
+giờ -7 giờ = 1 giờ ;  1 giờ này không phải trả lương ngừng việc ; 
+
+Số ngày nghỉ_việc là 11 ngày cũng không phải trả lương ngừng việc . 
+
+c . Số giờ tiêu_chuẩn làm_việc hàng ngày đã được lập kế_hoạch mà thực_tế không bố_trí cho người lao_động làm_việc thì phải trả lương ngừng việc ; 
+
+Ví_dụ 5 : Tháng 3 , do tình_hình sản_xuất kinh_doanh Công_ty X bố_trí cho công_nhân A làm_việc 5 giờ/ngày trong 13 ngày làm_việc , sau đó cho nghỉ trọn 10 ngày làm_việc .  Như_vậy , so với kế_hoạch đã được Công_ty lập ra cho công_nhân A vào tháng 3 nêu tại Ví_dụ 3 trên , thì : 
+
+Số giờ làm_việc thực_tế ít hơn so với số giờ tiêu_chuẩn làm_việc hàng ngày là : 7 giờ-5 giờ = 2 giờ ;  2 giờ này phải trả lương ngừng việc ; 
+
+- Số ngày ngừng việc so với kế_hoạch là 10 ngày ;  10 ngày này phải trả lương ngừng việc . 
+
+d . Số giờ tiêu_chuẩn làm_việc hàng ngày nhiều hơn 8 giờ , hoặc nhiều hơn 6 giờ đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm , đã được xác_định tại Điểm b khoản 1.2 trên , thì số giờ chênh_lệch đó không tính vào tổng_số giờ làm thêm trong năm , nhưng phải trả tiền_lương và thực_hiện các chế_độ khác liên_quan đến làm thêm giờ theo đúng quy_định tại <TT rel="Reference"> Thông_tư số 15/2003/TT-BLĐTBXH ngày 03/6/2003 </TT> của Bộ Lao_động-Thương_binh và Xã_hội về việc hướng_dẫn thực_hiện làm thêm giờ theo qui_định của <NĐ rel="Others"> Nghị_định số 109/2002/NĐ-CP ngày 27/12/2002 </NĐ> của Chính_phủ ;
+Ví_dụ 6 : Trong tháng 4 , Công_ty X bố_trí cho Công_nhân A làm_việc 9 giờ/ngày từ thứ hai đến thứ_bảy theo đúng kế_hoạch của Công_ty nêu tại Ví_dụ 3 trên . Như_vậy , số giờ làm_việc nhiều hơn so với 8 giờ làm_việc bình_thường là : 9 giờ-8 giờ = 1 giờ . Một giờ này không tính vào tổng_số giờ làm thêm trong năm , nhưng phải trả tiền_lương và thực_hiện các chế_độ khác liên_quan đến làm thêm giờ theo đúng quy_định tại <TT rel="Reference"> Thông_tư số 15/2003/TT-BLĐTBXH ngày 03/6/2003 </TT> của Bộ Lao_động-Thương_binh và Xã_hội về việc hướng_dẫn thực_hiện làm thêm giờ theo qui_định của <NĐ rel="Others"> Nghị_định số 109/2002/NĐ-CP ngày 27/12/2002 </NĐ> của Chính_phủ .
+e . Số giờ làm_việc thực_tế hàng ngày vượt quá số giờ tiêu_chuẩn đã được lập kế_hoạch theo hướng_dẫn tại Khoản 1.2 trên thì số giờ đó được tính là giờ làm thêm để cộng vào tổng_số giờ làm thêm trong năm , đồng_thời trả tiền_lương và thực_hiện các chế_độ khác liên_quan đến làm thêm giờ theo đúng quy_định tại <TT rel="Reference"> Thông_tư số 15/2003/TT-BLĐTBXH ngày 03/6/2003 </TT> của Bộ Lao_động-Thương_binh và Xã_hội về việc hướng_dẫn thực_hiện làm thêm giờ theo qui_định của <NĐ rel="Others"> Nghị_định số 109/2002/NĐ-CP ngày 27/12/2002 </NĐ> của Chính_phủ .
+Ví_dụ 7 . Trong tháng 7 , Công_ty X bố_trí cho công_nhân A làm_việc 8 giờ/ngày . Như_vậy , so với kế_hoạch đã được Công_ty lập ra cho Công_nhân A vào tháng 7 tại Ví_dụ 3 nêu trên thì số làm_việc nhiều hơn so với số giờ tiêu_chuẩn làm_việc là : 8 giờ-7 giờ = 1 giờ . Một giờ này được tính vào tổng_số giờ làm thêm trong năm , đồng_thời phải trả tiền_lương và thực_hiện các chế_độ khác liên_quan đến làm thêm giờ theo đúng quy_định tại <TT rel="Reference"> Thông_tư số 15/2003/TT-BLĐTBXH ngày 03/6/2003 </TT> của Bộ Lao_động-Thương_binh và Xã_hội về việc hướng_dẫn thực_hiện làm thêm giờ theo qui_định của <NĐ rel="Others"> Nghị_định số 109/2002/NĐ-CP ngày 27/12/2002 </NĐ> của Chính_phủ .
+f . Tổng_số giờ tiêu_chuẩn làm_việc và số giờ làm thêm trong một ngày không quá 12 giờ ;  riêng đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm không quá 9 giờ ; 
+
+g . Tổng_số giờ tiêu_chuẩn làm_việc và giờ làm thêm trong một tuần không được vượt quá 64 giờ ;  riêng đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm không quá 48 giờ ; 
+
+Ví_dụ 8 : Do yêu_cầu đột_xuất , trong tháng 5 và tháng 6 , Công_ty X có nhu_cầu phải làm thêm giờ .  Công_ty được phép bố_trí như sau : 
+
+, chỉ được tổ_chức làm_việc theo đúng kế hoạh đã nêu tại ví_dụ 3 , không được tổ_chức làm thêm giờ vì tổng_số giờ làm_việc trong tuần là : ( 11giờ/ngày x 4ngày ) + ( 10 giờ/ngày x 2 ngày ) = 64 giờ ; 
+
+có_thể bố_trí làm thêm mỗi ngày 1 giờ từ thứ hai đến thứ sáu . 
+
+h . Tổng_số giờ làm thêm trong một năm đối_với mỗi người lao_động thực_hiện đúng theo quy_định tại <TT rel="Reference"> Thông_tư số 15/2003/TT-BLĐTBXH ngày 03/6/2003 </TT> của Bộ Lao_động-Thương_binh và Xã_hội về việc hướng_dẫn thực_hiện làm thêm giờ theo qui_định của <NĐ rel="Others"> Nghị_định số 109/2002/NĐ-CP ngày 27/12/2002 </NĐ> của Chính_phủ .
+Thời_giờ nghỉ_ngơi của các đối_tượng trên được quy_định như sau : 
+
+Hàng tuần , người lao_động được nghỉ ít_nhất 1 ngày ( 24 giờ liên_tục ) .  Trong những tháng thời_vụ hoặc phải gấp_rút gia_công hàng xuất_khẩu theo đơn đặt_hàng , nếu không thực_hiện được nghỉ hàng tuần thì phải bảo_đảm hàng tháng có ít_nhất 4 ngày nghỉ cho người lao_động ; 
+
+Chế_độ nghỉ trong ca , nghỉ giữa ca , nghỉ chuyển_tiếp giữa hai ca đối_với từng người lao_động thực_hiện theo đúng qui_định của Bộ_Luật lao_động đã sửa_đổi , bổ_sung .  Trong trường_hợp người lao_động làm_việc trong ngày trên 10 giờ , thì trước giờ làm_việc thứ 9 , phải bố_trí cho họ nghỉ thêm ít_nhất 30 phút tính vào giờ làm_việc ; 
+
+Doanh_nghiệp phải bố_trí để người lao_động được nghỉ hoặc nghỉ bù đủ các ngày lễ , tết , nghỉ hàng năm và các ngày nghỉ có hưởng lương khác đúng theo qui_định của <BL rel="Reference"> Bộ_luật Lao_động </BL> đã sửa_đổi , bổ_sung .
+III .  TỔ_CHỨC THỰC_HIỆN 
+
+Trách_nhiệm của doanh_nghiệp ; 
+
+Hàng năm , căn_cứ vào kế_hoạch sản_xuất kinh_doanh , chủ_động lập kế_hoạch thời_giờ làm_việc , thời_giờ nghỉ_ngơi trong năm .  Khi lập kế_hoạch phải lấy ý_kiến của Ban_chấp_hành công_đoàn cơ_sở hoặc Ban_chấp_hành công_đoàn lâm_thời tại doanh_nghiệp ; 
+
+Thông_báo kế_hoạch thời_giờ làm_việc , thời_giờ nghỉ_ngơi trong phạm_vi doanh_nghiệp để người lao_động biết trước khi thực_hiện . Thỏa_thuận với người lao_động khi làm thêm giờ theo quy_định tại <TT rel="Reference"> Thông_tư số 15/2003/TT-BLĐTBXH ngày 03/6/2003 </TT> của Bộ Lao_động Thương_binh và Xã_hội về việc hướng_dẫn thực_hiện làm thêm giờ theo qui_định của <NĐ rel="Others"> Nghị_định số 109/2002/NĐ-CP ngày 27/12/2002 </NĐ> của Chính_phủ ;
+Hàng năm , nếu doanh_nghiệp thực_hiện chế_độ thời_giờ làm_việc , thời_giờ nghỉ_ngơi theo quy_định tại Thông_tư này thì phải đăng_ký với Sở Lao_động-Thương_binh và Xã_hội địa_phương theo mẫu kèm theo Thông_tư này .  Trường_hợp xác_định số giờ làm_việc bình_thường hàng ngày là 8 giờ ;  hoặc là 6 giờ đối_với người lao_động làm các nghề , công_việc đặc_biệt nặng_nhọc , độc_hại , nguy_hiểm thì không phải đăng_ký . 
+
+Trách_nhiệm của Sở Lao_động-Thương_binh và Xã_hội địa_phương : 
+
+Phối_hợp với Liên_đoàn Lao_động tỉnh , thành_phố phổ_biến Thông_tư này đến các doanh_nghiệp đóng trên địa_bàn ;  thường_xuyên đôn_đốc , kiểm_tra , giám_sát việc thực_hiện ;  đồng_thời phải tăng_cường công_tác thanh_tra việc thực_hiện , nếu phát_hiện vi_phạm thì phải xử_lý nghiêm_minh ; 
+
+Tiếp_nhận bản đăng_ký kế_hoạch thời_giờ làm_việc , thời_giờ nghỉ_ngơi theo hướng_dẫn của Thông_tư này .  Tạo điều_kiện thuận_lợi cho các doanh_nghiệp tổ_chức sản_xuất , kinh_doanh ; 
+
+hợp và báo_cáo định_kỳ 6 tháng , một năm về Bộ Lao_động-Thương_binh và Xã_hội việc thực_hiện Thông_tư này của các doanh_nghiệp đóng trên địa_bàn . 
+
+Thông_tư này có hiệu_lực thi_hành sau 15 ngày kể từ ngày đăng Công_báo . 
+
+Bãi_bỏ <TT rel="Drop"> Thông_tư số 14/1999/TT-BLĐTBXH ngày 18/5/1999 </TT> của Bộ Lao_động-Thương_binh và Xã_hội hướng_dẫn thực_hiện chế_độ thời_giờ làm_việc , thời_giờ nghỉ_ngơi đối_với người lao_động làm các công_việc sản_xuất có tính thời_vụ và gia_công hàng xuất_khẩu theo đơn đặt_hàng
+Trong quá_trình thực_hiện nếu có vướng_mắc , đề_nghị phản_ánh về Bộ Lao_động-Thương_binh và Xã_hội để giải_quyết . 
+
+( Mẫu ban_hành kèm theo <TT rel="Others"> Thông_tư số 16/2003/TT-BLĐTBXH , ngày 03/6/2003 </TT>
+của Bộ Lao_động-Thương_binh và Xã_hội ) 
+
+Bộ , Ngành , địa Phương : ... ... ... . 
+
+CỘNG HÒA XÃ_HỘI CHỦ_NGHĨA VIỆT NAM 
+
+Độc_lập-Tự_do-Hạnh_phúc 
+
+Số : ... ... ... ... ... ... ... ... ... ... ... ... .  . 
+
+... ... ... , ngày ... ... .  . . tháng ... ... ... .  . năm ... ... ... . 
+
+ĐĂNG_KÝ KẾ_HOẠCH THỜI_GIỜ LÀM_VIỆC , 
+
+THỜI_GIỜ NGHỈ_NGƠI 
+
+năm ... ... ... ... ... ... ... . 
+
+Tên doanh_nghiệp : 
+
+Loại_hình sản_xuất kinh_doanh : 
+
+Nghề , công_việc sản_xuất theo thời_vụ , hoặc gia_công xuất_khẩu : 
+
+1/Quỹ thời_giờ tiêu_chuẩn làm_việc trong năm ... ... ... .  tính bình_quân cho một người lao_động làm_việc trong điều_kiện lao_động bình_thường : 
+
+TQ = 
+
+2/Kế_hoạch phân_bổ Quỹ thời_giờ tiêu_chuẩn làm_việc trong năm : 
+
+Tháng 
+
+Số giờ tiêu_chuẩn 
+
+làm_việc hàng ngày 
+
+số giờ 
+
+làm_việc 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+. . . 
+
+Đại_diện công_đoàn 
+
+( Ký_tên-Đóng_dấu ) 
+
+Ngày_tháng năm 
+
+Người sử_dụng lao_động 

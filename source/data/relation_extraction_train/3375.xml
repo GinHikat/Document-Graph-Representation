@@ -1,0 +1,650 @@
+Thông tư Quy định về quản lý và sử dụng tài nguyên Internet
+
+Căn_cứ <L rel="Pursuant"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng ;
+Điều 1 .  Phạm_vi và đối_tượng điều_chỉnh 
+
+Thông_tư này quy_định việc quản_lý và sử_dụng tài_nguyên Internet , bao_gồm : phân_bổ , cấp , khai_thác , đăng_ký , hoàn_trả , tạm ngừng , thu_hồi , giải_quyết tranh_chấp , sử_dụng đối_với cơ_quan , tổ_chức , cá_nhân tham_gia hoạt_động trong lĩnh_vực Internet tại Việt_Nam . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . ICANN là tên viết tắt của tổ_chức quản_lý tên_miền và số quốc_tế , có thẩm_quyền quản_lý hệ_thống tên_miền cấp cao nhất toàn_cầu . 
+
+2 . VNNIC là tên viết tắt của Trung_tâm Internet Việt_Nam , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , thực_hiện chức_năng quản_lý , giám_sát , thúc_đẩy phát_triển và hỗ_trợ việc sử_dụng tài_nguyên Internet tại Việt_Nam . 
+
+3 . Nhà_đăng_ký_tên miền là tổ_chức thực_hiện dịch_vụ đăng_ký , duy_trì tên_miền bao_gồm Nhà_đăng_ký_tên miền quốc_gia Việt_Nam ( Nhà_đăng_ký_tên miền “ .  vn ” ) và Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam . 
+
+4 . Tên_miền là tên được sử_dụng để định_danh địa_chỉ Internet của máy_chủ gồm các dãy ký_tự cách nhau bằng dấu_chấm “ .  ” . Tên_miền bao_gồm : 
+
+a ) Tên_miền dùng các kí_tự dựa trên cơ_sở bảng mã ASCII , sau đây gọi là tên miền mã ASCII ; 
+
+b ) Tên_miền dùng bảng chữ_cái dựa trên cơ_sở ngôn_ngữ truyền_thống của từng quốc_gia , sau đây gọi là tên_miền đa_ngữ ( IDN ) . 
+
+5 . Tên_miền cấp cao nhất là dãy ký_tự cuối_cùng trong cấu_trúc tên_miền theo quy_định của ICANN .  Tên_miền cấp cao nhất ( TLD ) bao_gồm : 
+
+a ) Tên_miền chung cấp cao nhất ( gTLD ) là các tên_miền " .  com " ;  " . net " ;  " . edu " ;  " . org " ;  " . int " ;  " . biz " ;  " . info " ;  " . name " ;  " . pro " ;  " . aero " ;  " . museum " ;  " . coop " và những tên_miền chung cấp cao nhất khác theo quy_định của ICANN . 
+
+b ) Tên_miền quốc_gia cấp cao nhất ( ccTLD ) là tên_miền cấp cao nhất dành riêng cho mỗi quốc_gia và vùng lãnh_thổ theo quy_định của ICANN .  ICANN quy_định tên_miền “ .  vn ” là tên miền quốc_gia Việt_Nam cấp cao nhất . 
+
+6 . Tên_miền các cấp ( cấp 2 , cấp 3 ... ) là các dãy ký_tự tạo nên tên_miền theo trật_tự lần_lượt nằm dưới tên_miền cấp cao nhất . 
+
+7 . Tên_miền quốc_gia Việt_Nam là tập_hợp tên_miền các cấp dưới tên miền quốc_gia Việt_Nam cấp cao nhất “ .  vn ” và các tên miền quốc_gia Việt_Nam cấp cao nhất khác thuộc quyền quản_lý của Việt_Nam . 
+
+8 . Tên_miền quốc_tế là tên_miền các cấp dưới tên_miền chung cấp cao nhất ( gTLD ) và tên miền quốc_gia cấp cao nhất ( ccTLD ) , ngoài tên miền quốc_gia Việt_Nam . 
+
+9 . Tên_miền chung cấp cao nhất mới ( New_gTLD ) là tên_miền chung cấp cao nhất ( gTLD ) được ICANN cấp_phát trực_tiếp cho các tổ_chức , cá_nhân trên thế_giới theo chương_trình New_gtld của ICANN . 
+
+10 .  Địa_chỉ Internet ( địa_chỉ IP ) là địa_chỉ mạng của thiết_bị , máy_chủ bao_gồm các thế_hệ địa_chỉ IPv4 , IPv6 và các thế_hệ địa_chỉ mới sẽ được sử_dụng trong tương_lai . 
+
+11 .  Số_hiệu mạng là số được sử_dụng để định_danh một mạng máy_tính tham_gia vào hoạt_động định_tuyến chung trên Internet . 
+
+12 .  Hệ_thống máy_chủ tên_miền ( hệ_thống DNS ) là tập_hợp các cụm máy_chủ được kết_nối với nhau để trả_lời địa_chỉ IP tương_ứng với một tên_miền khi được hỏi đến .  Hệ_thống DNS quốc_gia là hệ_thống DNS do VNNIC trực_tiếp_quản_lý phục_vụ_việc truy vấn địa_chỉ IP cho các tên miền quốc_gia Việt_Nam “ .  vn ” . 
+
+13 .  Dịch_vụ đăng_ký , duy_trì tên_miền “ .  vn ” là dịch_vụ cung_cấp cho cơ_quan , tổ_chức , cá_nhân khả_năng tạo mới , cập_nhật , duy_trì và quản_lý tên_miền “ .  vn ” đăng_ký trong cơ_sở dữ_liệu tên_miền và hệ_thống DNS quốc_gia . 
+
+14 .  Chủ_thể đăng_ký sử_dụng tên_miền ( sau đây gọi tắt là chủ_thể ) là các cơ_quan , tổ_chức , cá_nhân đã thực_hiện thủ_tục đăng_ký và được cấp quyền sử_dụng tên_miền “ .  vn ” . 
+
+Điều 3 .  Nguyên_tắc quản_lý và sử_dụng tài_nguyên Internet 
+
+1 . Tài_nguyên Internet được quy_hoạch thống_nhất để bảo_đảm cho hoạt_động Internet của Việt_Nam an_toàn , tin_cậy và hiệu_quả . 
+
+2 . Tài_nguyên Internet liên_quan tới chủ_quyền , lợi_ích , an_ninh quốc_gia ;  đến các cơ_quan , tổ_chức Đảng , Nhà_nước , tổ_chức chính_trị-xã_hội được ưu_tiên bảo_vệ và không được xâm_phạm . 
+
+3 . Việc quản_lý , sử_dụng tài_nguyên Internet phải bảo_đảm đúng mục_đích , đúng đối_tượng , đúng quy_định và không xâm_phạm các quyền , lợi_ích hợp_pháp của các tổ_chức , cá_nhân khác . 
+
+4 . Tăng_cường hợp_tác quốc_tế , nghiêm_chỉnh thực_hiện và tôn_trọng các điều_ước , pháp luật quốc_tế trong lĩnh_vực quản_lý , sử_dụng tài_nguyên Internet trên cơ_sở bảo_đảm chủ_quyền , lợi_ích , an_ninh quốc_gia . 
+
+Điều 4 .  Phí và lệ_phí 
+
+1 . Tổ_chức , cá_nhân sử_dụng tài_nguyên Internet có trách_nhiệm nộp lệ_phí , phí trước khi tài_nguyên đi vào hoạt_động hoặc tiếp_tục duy_trì hoạt_động . 
+
+2 . VNNIC hướng_dẫn và tổ_chức thực_hiện việc thu , nộp phí và lệ_phí theo đúng quy_định . 
+
+Điều 5 .  Cấu_trúc tên_miền “ .  vn ” 
+
+1 . Tên_miền quốc_gia Việt_Nam “ .  vn ” bao_gồm tên_miền không dấu và tên_miền tiếng Việt : 
+
+a ) Tên_miền không dấu là tên miền mã ASCII , trong đó các ký_tự tạo nên tên miền là các ký_tự được quy_định trong bảng mã ASCII , bao_gồm tên_miền không dấu các cấp dưới tên_miền “ .  vn ” ; 
+
+b ) Tên_miền tiếng Việt là tên_miền đa_ngữ , trong đó các ký_tự tạo nên tên miền là các ký_tự được quy_định trong bảng mã tiếng Việt , bảng mã tiếng Việt mở_rộng theo tiêu_chuẩn TCVN 6909 : 2001 và dấu_“-” , bao_gồm tên_miền tiếng Việt các cấp dưới tên_miền “ .  vn ” . 
+
+2 . Tên_miền không dấu bao_gồm tên_miền không dấu cấp 2 dùng chung phân theo lĩnh_vực ;  tên_miền không dấu cấp 2 dùng chung phân theo địa_giới hành_chính ;  tên_miền không dấu cấp 2 dùng riêng ;  tên_miền không dấu cấp 3 dưới tên_miền không dấu cấp 2 dùng chung : 
+
+a ) Tên_miền không dấu cấp 2 dùng chung phân theo lĩnh_vực là tên_miền không dấu được đặt theo tên các lĩnh_vực hoạt_động trong đời_sống xã_hội và được sử_dụng chung mà không cấp riêng cho bất_kỳ cơ_quan , tổ_chức , cá_nhân nào , bao_gồm : 
+
+- COM .  VN dành cho tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực kinh_doanh , thương_mại ; 
+
+- BIZ .  VN dành cho tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực kinh_doanh , thương_mại ( tương_đương với tên_miền COM .  VN ) ; 
+
+- EDU .  VN dành cho các tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực giáo_dục , đào_tạo ; 
+
+- GOV .  VN dành cho các cơ_quan nhà_nước ở trung_ương và địa_phương ; 
+
+- NET .  VN dành cho các tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực thiết_lập và cung_cấp các dịch_vụ trên mạng ; 
+
+- ORG .  VN dành cho các tổ_chức hoạt_động trong lĩnh_vực chính_trị , văn_hóa , xã_hội ; 
+
+- INT .  VN dành cho các tổ_chức quốc_tế ; 
+
+- AC .  VN dành cho các tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực nghiên_cứu ; 
+
+- PRO .  VN dành cho các tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực có tính chuyên_ngành cao ; 
+
+- INFO .  VN dành cho các tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực sản_xuất , phân_phối , cung_cấp thông_tin ; 
+
+- HEALTH .  VN dành cho các tổ_chức , cá_nhân liên_quan đến hoạt_động trong lĩnh_vực dược , y_tế ; 
+
+- NAME .  VN dành cho tên_riêng của cá_nhân liên_quan đến hoạt_động Internet ; 
+
+- Những tên_miền khác do Bộ Thông_tin và Truyền_thông quy_định . 
+
+b ) Tên_miền không dấu cấp 2 dùng chung phân theo địa_giới hành_chính là tên_miền được đặt theo tên các tỉnh , thành_phố trực_thuộc Trung_ương không có dấu và được sử_dụng chung mà không cấp riêng cho bất_kỳ cơ_quan , tổ_chức , cá_nhân nào ( HANOI .  VN , HAI PHONG .  VN , … ) ; 
+
+c ) Tên_miền không dấu cấp 2 dùng riêng là tên_miền không dấu dành cho các cơ_quan , tổ_chức , cá_nhân đăng_ký sử_dụng theo yêu_cầu riêng ; 
+
+d ) Tên_miền không dấu cấp 3 là tên_miền không dấu nằm dưới tên_miền không dấu cấp 2 dùng chung phân theo lĩnh_vực , tên_miền không dấu cấp 2 dùng chung phân theo địa_giới hành_chính và dành cho các cơ_quan , tổ_chức , cá_nhân đăng_ký sử_dụng theo yêu_cầu riêng . 
+
+3 . Tên_miền tiếng Việt bao_gồm tên_miền tiếng Việt cấp 2 dùng chung phân theo địa_giới hành_chính , tên miền tiếng Việt cấp 2 dùng riêng và tên_miền tiếng Việt cấp 3 dưới tên_miền tiếng Việt cấp 2 phân theo địa_giới hành_chính . 
+
+a ) Tên_miền tiếng Việt cấp 2 dùng chung phân theo địa_giới hành_chính là tên_miền tiếng Việt được đặt theo tên các tỉnh , thành_phố trực_thuộc trung_ương và được sử_dụng chung mà không cấp riêng cho bất_kỳ cơ_quan , tổ_chức , cá_nhân nào ( HÀNỘI .  VN , HẢI PHÒNG .  VN … ) ; 
+
+b ) Tên_miền tiếng Việt cấp 2 dùng riêng là tên_miền tiếng Việt dành cho các cơ_quan , tổ_chức , cá_nhân đăng_ký sử_dụng theo yêu_cầu riêng ; 
+
+c ) Tên_miền tiếng Việt cấp 3 là tên_miền tiếng Việt dưới tên_miền tiếng Việt cấp 2 dùng chung phân theo địa_giới hành_chính và dành cho các cơ_quan , tổ_chức , cá_nhân đăng_ký sử_dụng theo yêu_cầu riêng . 
+
+Điều 6 .  Nguyên_tắc đăng_ký_tên miền “ .  vn ” 
+
+1 . Cơ_quan , tổ_chức , cá_nhân đăng_ký_tên miền chịu trách_nhiệm trước pháp_luật về tính chính_xác của các thông_tin cung_cấp . 
+
+2 . Đăng_ký_tên miền “ .  vn ” được thực_hiện theo nguyên_tắc bình_đẳng , không phân_biệt , đăng_ký trước được quyền sử_dụng trước , ngoại_trừ : 
+
+a ) Các tên_miền thuộc phạm_vi ưu_tiên bảo_vệ quy_định tại Khoản 1 Điều 8 Thông_tư này ; 
+
+b ) Các tên_miền được dành cho đấu_giá theo quy_định của Bộ Thông_tin và Truyền_thông . 
+
+3 . Tên_miền do tổ_chức , cá_nhân tự chọn để đăng_ký , nhưng phải đảm_bảo không có các cụm từ xâm_phạm đến lợi_ích quốc_gia , vi_phạm đạo_đức xã_hội , thuần_phong , mỹ_tục của dân_tộc ;  phải thể_hiện tính nghiêm_túc để tránh sự hiểu nhầm hoặc xuyên_tạc do tính đa âm , đa_nghĩa hoặc khi không dùng dấu trong tiếng Việt . 
+
+4 . Tên_miền chọn đăng_ký phải đáp_ứng các điều_kiện sau : 
+
+a ) Có ít_nhất một hoặc một dãy ký_tự dưới tên_miền cấp cao “ .  vn ” ; 
+
+b ) Được chứa các ký_tự từ A đến Z ;  0 đến 9 ;  các ký_tự tiếng Việt trong bảng chữ_cái tiếng Việt và tất_cả các ký_tự được hệ_thống máy_chủ tên_miền trên mạng chấp_nhận .  Các ký_tự này không phân_biệt viết hoa hay viết thường ; 
+
+c ) Được chứa dấu gạch_nối “-” nhưng không được bắt_đầu hoặc kết_thúc với ký_tự này và không được có hai dấu gạch_nối “-” đi liền nhau trong tên_miền ; 
+
+d ) Ở mỗi cấp không được nhiều hơn 63 ký_tự ( đối_với tên_miền tiếng Việt , số_lượng ký_tự được tính theo chiều dài sau chuyển_đổi thành chuỗi không dấu ASCII ) ; 
+
+đ ) Đối_với tên_miền dưới “ .  NAME .  VN ” phải đảm_bảo tên miền là tên_riêng của chủ_thể hoặc đi kèm tên_riêng là họ , tên đệm , nơi sinh , năm_sinh ( tổng_thể mang ý_nghĩa tên_riêng , danh_tính của chủ_thể ) . 
+
+Điều 7 .  Nguyên_tắc sử_dụng tên_miền “ .  vn ” 
+
+1 . Cơ_quan , tổ_chức , cá_nhân không được cấp tên_miền dưới tên_miền của mình cho các cơ_quan , tổ_chức , cá_nhân khác , trừ trường_hợp cơ_quan , tổ_chức cấp cho các đơn_vị thành_viên , các cá_nhân đang làm_việc trong cơ_quan , tổ_chức của mình , đồng_thời phải có trách_nhiệm quản_lý các tên_miền do mình cấp . 
+
+2 . Các cơ_quan Đảng , Nhà_nước phải sử_dụng ít_nhất 01 tên_miền “ .  vn ” và lưu_giữ thông_tin tại hệ_thống máy_chủ có địa_chỉ IP ở Việt_Nam đối_với trang thông_tin điện_tử chính_thức của mình . 
+
+3 . Trang thông_tin điện_tử tổng_hợp và trang mạng xã_hội thuộc đối_tượng cấp phép phải sử_dụng ít_nhất 01 tên_miền “ .  vn ” và lưu_giữ thông_tin tại hệ_thống máy_chủ có địa_chỉ IP ở Việt_Nam đối_với trang thông_tin điện_tử chính_thức của mình . 
+
+Điều 8 .  Nguyên_tắc bảo_vệ tên_miền ” .  vn ” 
+
+1 . Ưu_tiên bảo_vệ tất_cả các cấp của tên_miền “ .  vn ” liên_quan tới chủ_quyền , lợi_ích , an_ninh quốc_gia , bao_gồm : 
+
+a ) Tên_miền là tên các huyện , xã thuộc khu_vực biên_giới , tên các đảo , quần_đảo , tên biển , vùng_biển Việt_Nam ; 
+
+b ) Tên_miền là tên các địa_danh của Việt_Nam đã được UNESCO công_nhận là di_sản văn_hóa thế_giới ; 
+
+c ) Tên_miền là tên gọi của tổ_chức Đảng , cơ_quan nhà_nước , các tổ_chức chính_trị-xã_hội ( Ủy_ban Trung_ương Mặt_trận Tổ_quốc Việt_Nam ;  Tổng_Liên_đoàn lao_động Việt_Nam ;  Hội Nông_dân Việt_Nam ;  Đoàn_Thanh_niên Cộng_sản Hồ_Chí_Minh ;  Hội Liên_hiệp Phụ_nữ Việt_Nam ;  Hội Cựu_chiến_binh Việt_Nam ) ; 
+
+d ) Các tên_miền liên_quan đến hoạt_động bảo_đảm an_ninh , quốc_phòng , ngoại_giao của đất_nước và các tên_miền khác cần được bảo_vệ theo quy_định của Bộ Thông_tin và Truyền_thông . 
+
+2 . Các cơ_quan , tổ_chức có liên_quan đến các tên_miền được quy_định tại Khoản 1 Điều này có trách_nhiệm đăng_ký , giữ chỗ bảo_vệ tên_miền với VNNIC .  VNNIC tổng_hợp trình Bộ Thông_tin và Truyền_thông phê_duyệt danh_sách các tên_miền được ưu_tiên bảo_vệ đồng_thời chủ_động giữ chỗ , bảo_vệ các tên_miền nêu trên trong trường_hợp cần_thiết . 
+
+3 . Tổ_chức , cá_nhân không thuộc đối_tượng ưu_tiên không được đăng_ký các tên_miền được ưu_tiên bảo_vệ theo quy_định tại Điều này . 
+
+Điều 9 .  Nhà_đăng_ký_tên miền ” .  vn ” 
+
+1 . Nhà_đăng_ký_tên miền “ .  vn ” là doanh_nghiệp Việt_Nam hoặc doanh_nghiệp nước_ngoài ký hợp_đồng với VNNIC để cung_cấp dịch_vụ đăng_ký , duy_trì tên_miền “ .  vn ” tại Việt_Nam và ở nước_ngoài . 
+
+2 . Điều_kiện ký hợp_đồng Nhà_đăng_ký_tên miền “ .  vn ” 
+
+a ) Về năng_lực kỹ_thuật đáp_ứng các yêu_cầu sau : 
+
+- Có_hạ tầng mạng_lưới kỹ_thuật , hệ_thống máy_chủ DNS kết_nối với hạ_tầng kỹ_thuật của VNNIC theo yêu_cầu ; 
+
+- Có cơ_sở dữ_liệu , phần_mềm quản_lý việc đăng_ký , thu phí , khai_báo tên_miền “ .  vn ” ; 
+
+- Có giải_pháp đảm_bảo an_toàn , bảo_mật thông_tin ;  sao lưu dự_phòng và khôi_phục nhanh_chóng các dữ_liệu khi có sự_cố . 
+
+b ) Về năng_lực kinh_doanh đáp_ứng các yêu_cầu sau : 
+
+- Đối_với doanh_nghiệp trong nước phải có kinh_nghiệm hoạt_động từ 3 năm trở lên trong lĩnh_vực viễn_thông , công_nghệ thông_tin .  Đối_với doanh_nghiệp nước_ngoài phải đang là Nhà_đăng_ký chính_thức của ICANN ; 
+
+- Có phương_án tổ_chức kinh_doanh và kế_hoạch phát_triển , quản_lý tên_miền “ .  vn ” phù_hợp và khả_thi trong 03 năm đầu_tiên . 
+
+c ) Về năng_lực quản_lý đáp_ứng các yêu_cầu sau : 
+
+- Có quy_định , quy_trình , biểu_mẫu đầy_đủ để cung_cấp dịch_vụ đăng_ký , duy_trì tên_miền " .  vn " ; 
+
+- Có tối_thiểu 02 cán_bộ kỹ_thuật và 02 cán_bộ quản_lý nghiệp_vụ đạt chuẩn kiến_thức về công_nghệ thông_tin theo quy_định của Bộ Thông_tin và Truyền_thông và đánh_giá của VNNIC . 
+
+3 . Số_lượng Nhà_đăng_ký_tên miền “ .  vn ” được lựa_chọn để ký hợp_đồng phải đảm_bảo phù_hợp với quy_hoạch tài_nguyên Internet do Bộ Thông_tin và Truyền_thông ban_hành và tình_hình phát_triển tên_miền “ .  vn ” trên thực_tế trong từng thời_kỳ . 
+
+4 . Nhà_đăng_ký_tên miền “ .  vn ” khi cung_cấp dịch_vụ đăng_ký , duy_trì tên_miền “ .  vn ” được hưởng hoa_hồng đối_với các hoạt_động sau : 
+
+a ) Quảng_bá , tuyên_truyền , phát_triển tên_miền “ .  vn ” ; 
+
+b ) Đăng_ký và duy_trì tên_miền “ .  vn ” ; 
+
+c ) Đảm_bảo an_toàn đối_với việc đăng_ký , duy_trì tên_miền “ .  vn ” ; 
+
+d ) Thu phí và lệ_phí tên_miền “ .  vn ” . 
+
+Điều 10 .  Thủ_tục đăng_ký , thay_đổi thông_tin đăng_ký , hoàn_trả tên_miền ” .  vn ” 
+
+1 . Không được đăng_ký , thay_đổi thông_tin đăng_ký , hoàn_trả tên_miền trong các trường_hợp sau : 
+
+a ) Không được đăng_ký các tên_miền : 
+
+- Không đúng cấu_trúc quy_định tại Điều 5 Thông_tư này ; 
+
+- Vi_phạm nguyên_tắc đăng_ký_tên miền quy_định tại Điều 6 Thông_tư này ; 
+
+- Vi_phạm nguyên_tắc bảo_vệ tên_miền quy_định tại Điều 8 Thông_tư này . 
+
+b ) Không được thay_đổi tên của chủ_thể đăng_ký_tên miền , trừ các trường_hợp : Cơ_quan , tổ_chức , doanh_nghiệp thay_đổi tên sang_tên mới theo quyết_định của cấp có thẩm_quyền ;  Cá_nhân thay_đổi họ , tên theo quyết_định của cơ_quan nhà_nước có thẩm_quyền ; 
+
+c ) Không được hoàn_trả tên_miền đang trong quá_trình xử_lý vi_phạm , chưa có kết_luận cuối_cùng của cơ_quan có thẩm_quyền . 
+
+2 . Khi thực_hiện thủ_tục đăng_ký , thay_đổi thông_tin đăng_ký , hoàn_trả tên_miền ” .  vn ” , chủ_thể phải có Bản khai đăng_ký_tên miền , Đơn xin thay_đổi thông_tin đăng_ký_tên miền hoặc Đơn đề_nghị hoàn_trả tên miền .  Mẫu Bản khai đăng_ký_tên miền , Đơn xin thay_đổi thông_tin đăng_ký_tên miền , Đơn đề_nghị hoàn_trả tên_miền do Nhà_đăng_ký_tên miền “ .  vn ” quy_định tại trang thông_tin điện_tử của Nhà_đăng_ký , nhưng phải đáp_ứng các điều_kiện sau đây : 
+
+a ) Đối_với cơ_quan , tổ_chức , doanh_nghiệp , Bản khai đăng_ký_tên miền , Đơn xin thay_đổi thông_tin đăng_ký_tên miền , Đơn đề_nghị hoàn_trả tên_miền phải có dấu của cơ_quan , tổ_chức và chữ_ký ( trong trường_hợp đăng_ký trực_tuyến là chữ_ký số ) của người đại_diện theo pháp_luật hoặc người được người đại_diện theo pháp_luật ủy_quyền và giấy ủy_quyền kèm theo .  Đối_với cá_nhân , Bản khai đăng_ký_tên miền , Đơn xin thay_đổi thông_tin đăng_ký_tên miền , Đơn đề_nghị hoàn_trả tên_miền phải có chữ_ký của cá_nhân ( trong trường_hợp đăng_ký trực_tuyến là chữ_ký số ) . 
+
+b ) Bản khai đăng_ký_tên miền phải có các thông_tin cơ_bản sau đây : 
+
+- Đối_với cơ_quan , tổ_chức , doanh_nghiệp : tên cơ_quan , tổ_chức ;  địa_chỉ , số điện_thoại , hộp thư điện_tử của cơ_quan , tổ_chức ;  họ và tên người quản_lý tên miền kèm theo địa_chỉ liên_hệ , số điện_thoại , hộp thư điện_tử , số giấy chứng_minh nhân_dân ( hoặc hộ_chiếu đối_với cá_nhân là người nước_ngoài ) ;  họ và tên người quản_lý kỹ_thuật kèm theo địa_chỉ liên_hệ , số điện_thoại , hộp thư điện_tử ;  họ và tên người chịu trách_nhiệm nộp phí , lệ_phí tên miền kèm theo địa_chỉ liên_hệ , số điện_thoại , hộp thư điện_tử ;  họ và tên người thay_mặt cơ_quan tổ_chức làm thủ_tục đăng_ký_tên miền kèm theo địa_chỉ liên_hệ , số điện_thoại , số chứng_minh nhân_dân ( hoặc hộ_chiếu đối_với người nước_ngoài ) . 
+
+- Đối_với cá_nhân : họ và tên ;  năm_sinh ;  địa_chỉ thường_trú ;  số giấy chứng_minh nhân_dân ( hoặc số hộ_chiếu đối_với cá_nhân là người nước_ngoài ) ;  số điện_thoại ;  hộp thư điện_tử . 
+
+c ) Đơn xin thay_đổi thông_tin đăng_ký ( hoàn_trả ) tên_miền phải có các thông_tin cơ_bản như nội_dung thay_đổi thông_tin đăng_ký ( hoàn_trả ) tên_miền , lý_do thay_đổi thông_tin ( hoàn_trả ) tên miền . 
+
+3 . Địa_chỉ nộp hồ_sơ : 
+
+a ) Hồ_sơ đăng_ký_tên miền nộp tại các Nhà_đăng_ký_tên miền ” .  vn ” có tên trong danh_sách được công_bố tại địa_chỉ : www .  nha dang ky .  vn ; 
+
+b ) Hồ_sơ thay_đổi thông_tin đăng_ký , hoàn_trả tên_miền ” .  vn ” nộp tại Nhà_đăng_ký_tên miền ” .  vn ” đang quản_lý tên miền . 
+
+4 . Phương_thức nộp hồ_sơ đăng_ký , thay_đổi thông_tin đăng_ký , hoàn_trả tên_miền : 
+
+a ) Nộp trực_tiếp tại các cơ_sở của Nhà_đăng_ký_tên miền ” .  vn ” : cá_nhân là chủ_thể tên_miền , hoặc người thay_mặt cơ_quan , tổ_chức , doanh_nghiệp làm thủ_tục đăng_ký , thay_đổi thông_tin đăng_ký , hoàn_trả tên miền tên_miền cần xuất_trình Giấy chứng_minh nhân_dân ( hoặc hộ_chiếu đối_với cá_nhân là người nước_ngoài ) để Nhà_đăng_ký_tên miền đối_chiếu với các thông_tin trong hồ_sơ hoặc trong cơ_sở dữ_liệu quản_lý tên miền quốc_gia ; 
+
+b ) Gửi hồ_sơ đến các cơ_sở của Nhà_đăng_ký_tên miền ” .  vn ” qua đường Bưu_điện : cá_nhân là chủ_thể tên_miền , hoặc người thay_mặt cơ_quan , tổ_chức , doanh_nghiệp làm thủ_tục đăng_ký , thay_đổi thông_tin đăng_ký , hoàn_trả tên miền tên_miền cần gửi kèm theo bản_sao có chứng_thực Giấy chứng_minh nhân_dân ( hoặc hộ_chiếu đối_với cá_nhân là người nước_ngoài ) để Nhà_đăng_ký_tên miền ” .  vn ” đối_chiếu với các thông_tin trong trong hồ_sơ hoặc trong cơ_sở dữ_liệu quản_lý tên miền quốc_gia ; 
+
+c ) Thực_hiện trực_tuyến thông_qua trang thông_tin điện_tử của các Nhà_đăng_ký_tên miền ” .  vn ” trong trường_hợp sử_dụng chữ_ký số . 
+
+5 . Đối_với các trường_hợp được phép đổi tên chủ_thể đăng_ký_tên miền nêu tại điểm b khoản 1 Điều này , ngoài Đơn xin thay_đổi thông_tin đăng_ký_tên miền , cơ_quan , tổ_chức , cá_nhân phải xuất_trình bản_gốc hoặc nộp kèm theo bản_sao có chứng_thực quyết_định thay_đổi tên cơ_quan , tổ_chức , doanh_nghiệp , quyết_định thay_đổi họ , tên đối_với cá_nhân tùy theo phương_thức nộp hồ_sơ quy_định tại khoản 4 Điều này . 
+
+6 . Trong vòng 3 ngày làm_việc kể từ khi nhận được hồ_sơ đăng_ký , thay_đổi thông_tin đăng_ký , hoàn_trả tên_miền hợp_lệ , Nhà đăng_ký_tên miền ” .  vn ” thông_báo tới chủ_thể kết_quả xử_lý hồ_sơ .  Trường_hợp từ_chối , thông_báo nêu rõ lý_do . 
+
+Điều 11 .  Thủ_tục tạm ngừng hoạt_động tên_miền ” .  vn ” 
+
+1 . Tên_miền " .  vn ” bị tạm ngừng hoạt_động trong các trường_hợp sau : 
+
+a ) Theo yêu_cầu bằng văn_bản của cơ_quan công_an về an_ninh thông_tin , tội_phạm công_nghệ_cao khi tiến_hành các hoạt_động nghiệp_vụ để ngăn_chặn kịp_thời các hành_vi gây mất an_ninh thông_tin trong hoạt_động bảo_đảm an_ninh quốc_gia , trật_tự an_toàn xã_hội theo quy_định của pháp_luật ; 
+
+b ) Theo yêu_cầu bằng văn_bản của cơ_quan quản_lý nhà_nước về thông_tin và truyền_thông khi tiến_hành các hoạt_động thanh_tra , kiểm_tra để ngăn_chặn kịp_thời các hành_vi vi_phạm nghiêm_trọng các quy_định về an_toàn thông_tin và quản_lý thông_tin trên mạng theo quy_định của pháp_luật ; 
+
+c ) Năm ( 05 ) ngày sau thời_hạn phải nộp phí duy_trì tên_miền theo quy_định , chủ_thể đăng_ký_tên miền không tiếp_tục nộp phí duy_trì tên miền . 
+
+2 . Trong các trường_hợp quy_định tại điểm a , b khoản 1 Điều này , sau khi nhận được văn_bản yêu_cầu của các cơ_quan nêu trên , VNNIC thực_hiện việc tạm ngừng hoạt_động tên_miền được yêu_cầu trên hệ_thống máy_chủ tên miền quốc_gia , đồng_thời yêu_cầu Nhà_đăng_ký_tên miền gửi thông_báo về việc tạm ngừng tên_miền đến cơ_quan , tổ_chức , cá_nhân có liên_quan .  Thời_gian tạm ngừng hoạt_động tên_miền không quá 45 ngày kể từ ngày tên_miền bị tạm ngừng hoạt_động trên hệ_thống .  Sau thời_hạn tạm ngừng , VNNIC đưa tên_miền vào hoạt_động trở_lại nếu không thực_hiện việc thu_hồi tên_miền quy_định tại Điều 12 Thông_tư này . 
+
+3 . Trong trường_hợp quy_định tại điểm c khoản 1 Điều này , sau thời_hạn quy_định tên_miền không nộp phí duy_trì sẽ bị tự_động tạm ngừng hoạt_động trên hệ_thống .  Trong thời_gian 30 ngày kể từ thời_điểm tạm ngừng hoạt_động tên_miền , nếu chủ_thể đăng_ký_tên miền nộp phí duy_trì tên_miền theo quy_định thì sẽ được tiếp_tục sử_dụng tên_miền đã đăng_ký . 
+
+Điều 12 .  Thủ_tục thu_hồi tên_miền ” .  vn ” 
+
+1 . Tên_miền quốc_gia Việt_Nam bị thu_hồi trong các trường_hợp sau : 
+
+a ) Theo biên_bản hòa giải thành của các bên có tranh_chấp tên_miền hoặc theo quyết_định đã có hiệu_lực pháp_luật của cơ_quan Trọng_tài hoặc theo bản_án , quyết_định đã có hiệu_lực pháp_luật của Tòa_án trong giải_quyết tranh_chấp tên_miền ; 
+
+b ) Theo văn_bản yêu_cầu của Bộ Thông_tin và Truyền_thông đối_với các trường_hợp thu_hồi tên_miền quy_định tại điểm a , điểm b , khoản 2 Điều 50 <L rel="Reference"> Luật Viễn_thông </L> ;
+c ) Theo quyết_định xử_phạt vi_phạm hành_chính có biện_pháp khắc_phục là “ thu_hồi tên_miền ” , hoặc áp_dụng hình_thức phạt bổ_sung ” tịch_thu phương_tiện vi_phạm ” của thanh_tra chuyên_ngành thông_tin và truyền_thông khi việc sử_dụng tên miền vi_phạm các quy_định về quản_lý cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng ; 
+
+d ) Theo yêu_cầu bằng văn_bản của các cơ_quan công_an về an_ninh thông_tin , tội_phạm công_nghệ_cao khi việc sử_dụng tên miền xâm_phạm an_ninh quốc_gia , trật_tự an_toàn xã_hội theo quy_định của pháp_luật về an_ninh quốc_gia ; 
+
+đ ) Sau 30 ngày kể từ thời_điểm tạm ngừng hoạt_động tên_miền quy_định tại điểm c khoản 1 Điều 11 Thông_tư này , chủ_thể đăng_ký_tên miền không nộp phí duy_trì tên_miền theo quy_định ; 
+
+e ) Các trường_hợp khác theo quy_định của Chính_phủ . 
+
+2 . Khi nhận được các văn_bản quy_định tại điểm a , b , c , d khoản 1 Điều này , VNNIC ban_hành Quyết_định thu_hồi tên_miền ;  thực_hiện việc ngừng hoạt_động các tên_miền bị thu_hồi trên hệ_thống máy_chủ tên miền quốc_gia ;  yêu_cầu Nhà_đăng_ký_tên miền gửi thông_báo về việc thu_hồi tên_miền cho các tổ_chức , cá_nhân có liên_quan . 
+
+3 . Trong trường_hợp quy_định tại điểm đ khoản 1 Điều này , sau khi nhận được thông_báo trực_tuyến “ Danh_sách các tên_miền không nộp phí duy_trì ” có chữ_ký số của các Nhà_đăng_ký_tên miền , VNNIC quyết_định thu_hồi tên_miền bằng việc định_kỳ hàng tuần gửi xác_nhận trực_tuyến “ Danh_sách các tên_miền bị thu_hồi ” có chữ_ký số của VNNIC đến các Nhà_đăng_ký_tên miền có liên_quan ;  thực_hiện việc ngừng hoạt_động các tên_miền bị thu_hồi trên hệ_thống máy_chủ tên miền quốc_gia ;  yêu_cầu nhà đăng_ký_tên miền thông_báo việc thu_hồi tên_miền cho các cơ_quan , tổ_chức , cá_nhân có liên_quan . 
+
+4 . Sau khi xem_xét nếu thấy các tên_miền bị thu_hồi không vi_phạm nguyên_tắc đăng_ký_tên miền quy_định tại Điều 6 Thông_tư này , VNNIC đưa các tên_miền bị thu_hồi về trạng_thái tự_do để cho các cơ_quan , tổ_chức , cá_nhân có nhu_cầu đăng_ký sử_dụng . 
+
+Điều 13 .  Đăng_ký và sử_dụng tên_miền dưới “ .  gov .  vn ” 
+
+1 . Đối_tượng được đăng_ký_tên miền dưới “ .  gov .  vn ” bao_gồm : 
+
+a ) Các cơ_quan nhà_nước ở Trung_ương và địa_phương được quy_định tại các Luật về tổ_chức Quốc_hội , Chính_phủ , Hội_đồng nhân_dân , Ủy_ban nhân_dân , Viện kiểm_sát nhân_dân , Tòa_án nhân_dân các Nghị_định của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ;
+
+b ) Các đơn_vị nằm trong cơ_cấu tổ_chức của các cơ_quan nhà_nước quy_định tại điểm a khoản 1 Điều này . 
+
+2 . Tên_miền “ .  gov .  vn ” phải đặt theo tên gọi của cơ_quan , đơn_vị một_cách cụ_thể , rõ_ràng , dễ phân_biệt với tên của các tổ_chức khác và phù_hợp với chức_năng nhiệm_vụ của cơ_quan , đơn_vị . 
+
+3 . Người chịu trách_nhiệm quản_lý tên_miền “ .  gov .  vn ” phải là cấp trưởng hoặc người được cấp trưởng ủy_quyền thuộc cơ_quan , đơn_vị đăng_ký_tên_miền ;  Bản khai đăng_ký_tên miền dưới “ .  gov .  vn ” theo mẫu quy_định tại Phụ_lục 1 đính kèm Thông_tư này . 
+
+4 . Việc đăng_ký , thay_đổi thông_tin , hoàn_trả các tên_miền “ .  gov .  vn ” , các tên_miền được bảo_vệ quy_định tại khoản 1 Điều 8 Thông_tư này được thực_hiện thông_qua các Nhà_đăng_ký_tên miền ” .  vn ” trong nước .  Nhà_đăng_ký_tên miền ” .  vn ” trong nước có trách_nhiệm chuyển hồ_sơ cho VNNIC để xem_xét quyết_định và thông_báo lại cho Nhà_đăng_ký_tên miền và các cơ_quan , tổ_chức , cá_nhân có liên_quan . 
+
+5 . Việc tạm ngừng , thu_hồi các tên_miền “ .  gov .  vn ” , các tên_miền được bảo_vệ quy_định tại khoản 1 Điều 8 Thông_tư này do VNNIC trực_tiếp xem_xét giải_quyết và báo_cáo Bộ Thông_tin và Truyền_thông quyết_định . 
+
+6 . Việc đăng_ký , sử_dụng tên_miền dưới “ . gov . vn ” để cung_cấp thông_tin và dịch_vụ công trực_tuyến trên trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước phải tuân_thủ quy_định tại Điều 6 <NĐ rel="Reference"> Nghị_định số 43/2011/NĐ-CP ngày 13/6/2011 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến trên trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước .
+Điều 14 .  Hệ_thống tra_cứu thông_tin tên_miền “ .  vn ” 
+
+1 . Hệ_thống tra_cứu thông_tin tên_miền ( Whois ) là hệ_thống cung_cấp công_khai , trực_tuyến các thông_tin về tên_miền và chủ_thể đăng_ký sử_dụng tên_miền theo khuyến_nghị của ICANN và thông_lệ quốc_tế . 
+
+2 . Hệ_thống tra_cứu thông_tin tên_miền “ .  vn ” ( Whois VN ) bao_gồm hệ_thống Whois VN cung_cấp bởi VNNIC tại địa_chỉ whois .  vn và các hệ_thống Whois VN cung_cấp bởi các Nhà_đăng_ký_tên miền “ .  vn ” . 
+
+3 . Thông_tin trên hệ_thống Whois VN bao_gồm : 
+
+a ) Tên_miền ; 
+
+b ) Ngày đăng_ký , ngày hết hạn ; 
+
+c ) Tên cơ_quan , tổ_chức hoặc họ , tên và ngày_sinh của cá_nhân ; 
+
+d ) Nhà_đăng_ký quản_lý tên_miền ; 
+
+đ ) Thông_tin về máy_chủ tên miền chuyển_giao . 
+
+4 . Thông_tin trên hệ_thống Whois VN quy_định tại khoản 2 Điều này được cung_cấp công_khai trên mạng Internet và phục_vụ cho việc quản_lý và sử_dụng tên_miền “ .  vn ” . 
+
+Điều 15 .  Chuyển_đổi nhà đăng_ký_tên miền ” .  vn ” 
+
+1 . Việc chuyển_đổi nhà đăng_ký_tên miền ” .  vn ” được thực_hiện nếu có sự thỏa_thuận thống_nhất của tất_cả các bên tham_gia quá_trình chuyển_đổi , bao_gồm : chủ_thể đăng_ký_tên miền , Nhà đăng_ký đang quản_lý tên_miền và Nhà_đăng_ký mà chủ_thể có nhu_cầu chuyển tên_miền đến . 
+
+2 . Tên_miền không được phép chuyển_đổi nhà đăng_ký trong các trường_hợp sau : 
+
+a ) Trong vòng 60 ngày kể từ ngày tên_miền được đăng_ký mới ; 
+
+b ) Trong vòng 30 ngày_trước khi tên_miền hết hạn sử_dụng ; 
+
+c ) Tên_miền đang trong quá_trình xử_lý vi_phạm , đang bị tạm ngừng hoặc đang có tranh_chấp . 
+
+3 . Trong trường_hợp Nhà_đăng_ký_tên miền “ .  vn ” không còn khả_năng quản_lý tên_miền của mình , số tên miền đó sẽ được chuyển sang quản_lý tại một Nhà_đăng_ký_tên miền ” .  vn ” khác theo thỏa_thuận giữa hai Nhà_đăng_ký sau khi được VNNIC chấp_thuận bằng văn_bản hoặc theo yêu_cầu của VNNIC . 
+
+Điều 16 .  Quản_lý tên_miền “ .  vn ” sau quá_trình giải_quyết tranh_chấp 
+
+1 . VNNIC và Nhà_đăng_ký_tên miền “ .  vn ” căn_cứ vào biên_bản hòa giải thành của các bên ;  quyết_định đã có hiệu_lực của trọng_tài ;  bản_án , quyết_định đã có hiệu_lực pháp_luật của tòa_án để thực_hiện : 
+
+a ) Thu_hồi tên_miền , hoặc 
+
+b ) Giữ nguyên hiện_trạng của tên_miền ; 
+
+2 . Trường_hợp biên_bản hòa giải thành ;  quyết_định đã có hiệu_lực của trọng_tài ;  bản_án , quyết_định đã có hiệu_lực pháp_luật của tòa_án nêu rõ tên miền tranh_chấp bị thu_hồi cho phép nguyên đơn đăng_ký sử_dụng thì nguyên đơn được ưu_tiên đăng_ký trong vòng mười ( 10 ) ngày kể từ khi biên_bản , quyết_định , bản_án có hiệu_lực pháp_luật .  Hết thời_hạn này tên_miền sẽ được cho đăng_ký_tự_do . 
+
+Điều 17 .  Quyền và nghĩa_vụ của tổ_chức , cá_nhân đăng_ký , sử_dụng tên_miền “ .  vn ” 
+
+1 . Được đăng_ký và sử_dụng tên_miền “ .  vn ” theo quy_định của pháp_luật . 
+
+2 . Được khiếu_nại , tố_cáo , khiếu_kiện khi việc đăng_ký , sử_dụng tên_miền “ .  vn ” của mình bị_can_thiệp , bị xâm_phạm không đúng với quy_định của pháp_luật . 
+
+3 . Được lựa_chọn Nhà_đăng_ký trong hệ_thống Nhà_đăng_ký_tên miền “ .  vn ” để đăng_ký_tên miền hoặc để chuyển_đổi nhà đăng_ký_tên miền . 
+
+4 . Cung_cấp đầy_đủ , chính_xác thông_tin khi đăng_ký_tên miền theo quy_định ;  chịu trách_nhiệm quản_lý thông_tin tên_miền của mình ;  thông_báo , cập_nhật thông_tin theo hướng_dẫn của Nhà_đăng_ký quản_lý tên miền mỗi khi có thay_đổi thông_tin và có trách_nhiệm xác_thực thông_tin khi có yêu_cầu từ Nhà_đăng_ký quản_lý tên_miền hoặc VNNIC . 
+
+5 . Tham_gia , phối_hợp chống việc lạm_dụng tên_miền để thực_hiện các hành_vi vi_phạm pháp_luật . 
+
+6 . Triển_khai các biện_pháp kỹ_thuật để đảm_bảo an_toàn cho tên_miền và thông_tin cung_cấp kèm theo tên miền đăng_ký , sử_dụng . 
+
+7 . Chủ_thể đăng_ký sử_dụng tên_miền phải chịu hoàn_toàn trách_nhiệm đối_với việc sử_dụng tên_miền được đăng_ký . 
+
+Điều 18 .  Quyền và nghĩa_vụ của Nhà_đăng_ký_tên miền " .  vn ” 
+
+1 . Được cung_cấp dịch_vụ đăng_ký , duy_trì tên_miền “ .  vn ” tại Việt_Nam và ở nước_ngoài theo quy_định . 
+
+2 . Được hưởng tiền hoa_hồng đối_với dịch_vụ đăng_ký , duy_trì tên_miền quy_định tại Khoản 4 Điều 9 Thông_tư này trên cơ_sở hợp_đồng ký với VNNIC . 
+
+3 . Được từ_chối việc đăng_ký_tên miền khi tổ_chức , cá_nhân vi_phạm_quy_định về đăng_ký , sử_dụng tên_miền “ .  vn ” . 
+
+4 . Không xâm_phạm và gây tổn_hại tới quyền và lợi_ích hợp_pháp của các chủ_thể đăng_ký , sử_dụng tên_miền cũng như của các Nhà_đăng tên_miền “ .  vn ” khác . 
+
+5 . Công_bố công_khai các biểu_mẫu , quy_trình , thủ_tục đăng_ký_tên miền “ .  vn ” trên trang thông_tin điện_tử của mình . 
+
+6 . Tổ_chức triển_khai các biện_pháp kỹ_thuật , nghiệp_vụ theo quy_định và hướng_dẫn của VNNIC để đảm_bảo an_toàn đối_với dịch_vụ đăng_ký_tên miền “ .  vn ” ;  thông_tin , dữ_liệu tên_miền “ .  vn ” và hoạt_động của hệ_thống DNS chuyển_giao . 
+
+7 . Bảo_vệ an_toàn , bí_mật thông_tin của các chủ_thể đăng_ký sử_dụng tên_miền , trừ trường_hợp yêu_cầu bằng văn_bản của cơ_quan nhà_nước có thẩm_quyền theo quy_định của pháp_luật . 
+
+8 . Không được đăng_ký đầu_cơ tên_miền “ .  vn ” dưới mọi hình_thức ;  không được cản_trở hoặc tìm cách cản_trở cơ_quan , tổ_chức , cá_nhân đăng_ký sử_dụng tên_miền hợp_pháp mà họ mong_muốn . 
+
+9 . Thu , nộp phí , lệ_phí đăng_ký , duy_trì tên miền đúng quy_định của Nhà_nước . 
+
+10 .  Khi cung_cấp dịch_vụ đăng_ký , duy_trì tên_miền “ .  vn ” tại Việt_Nam phải sử_dụng hệ_thống DNS chính ( Primary DNS ) dùng tên miền quốc_gia Việt_Nam " .  vn " . 
+
+11 .  Cung_cấp dịch_vụ đăng_ký_tên miền cho các tổ_chức , cá_nhân ở nước_ngoài phải tuân_thủ theo các quy_định của luật_pháp Việt_Nam và luật_pháp của nước sở_tại . 
+
+12 .  Nhà_đăng_ký_tên miền “ .  vn ” ở nước_ngoài chỉ được cung_cấp dịch_vụ đăng_ký , duy_trì tên_miền “ .  vn ” tại Việt_Nam thông_qua đại_lý chính_thức của mình tại Việt_Nam . 
+
+13 .  Phối_hợp với VNNIC và cơ_quan nhà_nước có thẩm_quyền để giải_quyết , xử_lý các vụ_việc liên_quan tới tên_miền “ .  vn ” . 
+
+14 .  Rà_soát , đảm_bảo các tên_miền đã đăng_ký được cập_nhật đầy_đủ các thông_tin quy_định tại Điều 10 , Điều 13 Thông_tư này . 
+
+15 .  Thực_hiện việc báo_cáo định_kỳ và đột_xuất theo yêu_cầu và hướng_dẫn của VNNIC . 
+
+Điều 19 .  Trách_nhiệm của VNNIC 
+
+1 . Đảm_bảo hoạt_động đăng_ký , duy_trì , quản_lý tên_miền “ .  vn ” và hoạt_động của hệ_thống DNS quốc_gia hiệu_quả , an_toàn , đúng quy_định . 
+
+2 . Bảo_đảm an_toàn , bí_mật thông_tin các chủ_thể đăng_ký , sử_dụng tên_miền theo quy_định . 
+
+3 . Thực_hiện bảo_vệ các tên_miền “ .  vn ” liên_quan tới chủ_quyền , lợi_ích , an_ninh quốc_gia . 
+
+4 . Xây_dựng và trình Bộ Thông_tin và Truyền_thông phê_duyệt hợp_đồng mẫu ký với Nhà_đăng_ký_tên miền “ .  vn ” . 
+
+5 . Thực_hiện lựa_chọn và ký hợp_đồng với các doanh_nghiệp đáp_ứng điều_kiện Nhà_đăng_ký_tên miền “ .  vn “ . 
+
+6 . Quản_lý , kiểm_tra , giám_sát hoạt_động của các Nhà_đăng_ký_tên miền “ .  vn ” bảo_đảm đúng quy_định của pháp_luật và hợp_đồng đã ký giữa hai bên . 
+
+7 . Phổ_biến , hướng_dẫn , đào_tạo cho các Nhà_đăng_ký_tên miền “ .  vn “ về pháp_luật và nghiệp_vụ quản_lý tên miền . 
+
+8 . Chi_trả tiền hoa_hồng cho Nhà_đăng_ký_tên miền ” .  vn ” theo quy_định và hợp_đồng ký với Nhà_đăng_ký_tên miền “ .  vn ” . 
+
+Điều 20 .  Thủ_tục đăng_ký_tên miền quốc_tế tại Việt_Nam 
+
+1 . Đơn_vị thực_hiện đăng_ký : các Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam .  Danh_sách và địa_chỉ liên_hệ của các Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam được công_bố tại địa_chỉ : www .  thong bao ten mi en .  vn , mục Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam . 
+
+2 . Bản khai đăng_ký_tên miền do Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam quy_định tại trang thông_tin điện_tử của Nhà_đăng_ký , nhưng đảm_bảo phải đáp_ứng các điều_kiện sau đây : 
+
+a ) Đối_với cơ_quan , tổ_chức : Bản khai đăng_ký_tên miền phải có dấu của cơ_quan , tổ_chức và chữ_ký ( trong trường_hợp đăng_ký trực_tuyến là chữ_ký số ) của người đại_diện theo pháp_luật hoặc người được người đại_diện theo pháp_luật của cơ_quan , tổ_chức ủy_quyền và giấy ủy_quyền kèm theo .  Bản khai đăng_ký_tên miền phải có các thông_tin cơ_bản , bao_gồm : tên cơ_quan , tổ_chức ;  địa_chỉ , số điện_thoại , hộp thư điện_tử của cơ_quan , tổ_chức ;  họ và tên người quản_lý tên miền kèm theo địa_chỉ liên_hệ , số điện_thoại , hộp thư điện_tử , số giấy chứng_minh nhân_dân ( hoặc hộ_chiếu đối_với cá_nhân là người nước_ngoài ) ;  họ và tên người quản_lý kỹ_thuật kèm theo địa_chỉ liên_hệ , số điện_thoại , hộp thư điện_tử ;  họ và tên người chịu trách_nhiệm nộp tiền đăng_ký , duy_trì tên miền kèm theo địa_chỉ liên_hệ , số điện_thoại , hộp thư điện_tử ;  họ và tên người thay_mặt cơ_quan tổ_chức làm thủ_tục đăng_ký_tên miền kèm theo địa_chỉ liên_hệ , số điện_thoại , số giấy chứng_minh nhân_dân ( hoặc hộ_chiếu đối_với cá_nhân là người nước_ngoài ) ; 
+
+b ) Đối_với cá_nhân : Bản khai đăng_ký_tên miền phải có chữ_ký của cá_nhân ( trong trường_hợp đăng_ký trực_tuyến là chữ_ký số ) .  Bản khai đăng_ký_tên miền phải có các thông_tin cơ_bản , bao_gồm : họ và tên ;  năm_sinh ;  địa_chỉ thường_trú ;  số giấy chứng_minh nhân_dân ( hoặc số hộ_chiếu đối_với cá_nhân là người nước_ngoài ) ;  số điện_thoại ;  hộp thư điện_tử . 
+
+3 . Phương_thức đăng_ký : 
+
+a ) Nộp hồ_sơ đăng_ký_tên miền trực_tiếp tại các cơ_sở của Nhà_đăng_ký_tên miền .  Khi nộp hồ_sơ đăng_ký_tên miền , cá_nhân đăng_ký_tên miền , hoặc người thay_mặt cơ_quan tổ_chức làm thủ_tục đăng_ký_tên miền cần mang theo Giấy chứng_minh nhân_dân để Nhà_đăng_ký_tên miền đối_chiếu với các thông_tin trong Bản khai đăng_ký_tên_miền ; 
+
+b ) Gửi hồ_sơ đăng_ký_tên miền đến các cơ_sở của Nhà_đăng_ký_tên miền qua đường Bưu_điện .  Khi gửi hồ_sơ đăng_ký_tên miền qua Bưu_điện , cá_nhân đăng_ký_tên miền , hoặc người thay_mặt cơ_quan tổ_chức làm thủ_tục đăng_ký_tên miền cần gửi kèm theo bản_sao có chứng_thực Giấy chứng_minh nhân_dân ( hoặc hộ_chiếu đối_với cá_nhân là người nước_ngoài ) để Nhà_đăng_ký_tên miền đối_chiếu với các thông_tin trong Bản khai đăng_ký_tên_miền ; 
+
+c ) Thực_hiện trực_tuyến thông_qua trang thông_tin điện_tử của các Nhà_đăng_ký_tên miền trong trường_hợp sử_dụng chữ_ký số . 
+
+Điều 21 .  Thông_báo sử_dụng tên miền quốc_tế tại Việt_Nam 
+
+1 . Thời_gian thông_báo : Trước khi tổ_chức , cá_nhân đưa tên miền quốc_tế đã đăng_ký vào sử_dụng . 
+
+2 . Thực_hiện thông_báo tại địa_chỉ : www .  thong bao ten mi en .  vn . 
+
+3 . Nội_dung thông_báo : 
+
+a ) Đối_với cơ_quan , tổ_chức : tên cơ_quan , tổ_chức ghi trong quyết_định thành_lập , giấy_phép hoạt_động , giấy chứng_nhận đăng_ký kinh_doanh hoặc giấy_phép mở văn_phòng đại_diện ;  địa_chỉ trụ_sở chính , số điện_thoại , hộp thư điện_tử ;  họ và tên người quản_lý tên miền kèm theo địa_chỉ , số điện_thoại , hộp thư điện_tử , số Giấy chứng_minh nhân_dân hoặc số hộ_chiếu đối_với người nước_ngoài ; 
+
+b ) Đối_với cá_nhân : Họ và tên ;  địa_chỉ thường_trú ;  số điện_thoại ;  hộp thư điện_tử ;  số , ngày cấp , nơi cấp chứng_minh nhân_dân hoặc hộ_chiếu đối_với người nước_ngoài ; 
+
+c ) Tên_miền đưa vào sử_dụng . 
+
+4 . Thay_đổi thông_tin : 
+
+a ) Khi có sự thay_đổi thông_tin đã thông_báo , tổ_chức , cá_nhân sử_dụng tên miền quốc_tế phải sử_dụng tên truy_cập và mật_khẩu đã được cấp để thực_hiện việc bổ_sung , thay_đổi hay xóa các thông_tin liên_quan đến tên miền quốc_tế đang sử_dụng tại địa_chỉ : www .  thong bao ten mi en .  vn ; 
+
+b ) Trường_hợp quên , mất mật_khẩu hoặc tên_miền đã bị người khác thông_báo sử_dụng , chủ_thể phải có văn_bản gửi VNNIC để hỗ_trợ_cấp lại mật_khẩu và điều_chỉnh thông_tin . 
+
+Điều 22 .  Thủ_tục đăng_ký hoạt_động Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam 
+
+1 . Điều_kiện trở_thành Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam được quy_định tại khoản 2 Điều 15 <NĐ rel="Reference"> Nghị_định số 72/2013/NĐ-CP ngày 15/7/2013 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng .
+2 . Hồ_sơ đăng_ký bao_gồm : 
+
+a ) Bản khai đăng_ký hoạt_động Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam theo mẫu quy_định tại Phụ_lục 2 ban_hành kèm theo Thông_tư này ; 
+
+b ) Bản_sao có chứng_thực Giấy chứng_nhận đầu_tư hoặc Quyết_định thành_lập hoặc Giấy chứng_nhận đăng_ký kinh_doanh ; 
+
+c ) Bản_sao có chứng_thực Hợp_đồng ký với Tổ_chức quản_lý tên miền quốc_tế ( ICANN ) hoặc hợp_đồng ký với Nhà_đăng_ký chính_thức ( Accredited Registrar ) của ICANN . 
+
+3 . Địa_chỉ nhận hồ_sơ : Trung_tâm Internet Việt_Nam-18 Nguyễn_Du , Hà_Nội . 
+
+4 . Xác_nhận đăng_ký : 
+
+a ) Trong vòng năm ( 05 ) ngày làm_việc , kể từ ngày nhận được hồ_sơ đăng_ký hợp_lệ của doanh_nghiệp , Bộ Thông_tin và Truyền_thông ( Trung_tâm Internet Việt_Nam ) sẽ gửi doanh_nghiệp thông_báo xác_nhận đã nhận được hồ_sơ đăng_ký hợp_lệ và đưa vào danh_sách quản_lý tại địa_chỉ www .  thong bao ten mi en .  vn , hoặc văn_bản yêu_cầu bổ_sung , hoàn_thiện hồ_sơ trong trường_hợp hồ_sơ đăng_ký không hợp_lệ theo quy_định ; 
+
+b ) Hình_thức xác_nhận : Bằng văn_bản hoặc thông_qua môi_trường mạng theo các địa_chỉ do Bộ Thông_tin và Truyền_thông quy_định tại địa_chỉ : www .  thong bao ten mi en .  vn . 
+
+Điều 23 .  Quyền và nghĩa_vụ của cơ_quan , tổ_chức , cá_nhân đăng_ký , sử_dụng tên miền quốc_tế 
+
+1 . Tổ_chức , cá_nhân tại Việt_Nam đăng_ký_tên miền quốc_tế để thiết_lập hộp thư điện_tử , trang thông_tin điện_tử , mạng xã_hội phải thực_hiện các nội_dung về quản_lý , sử_dụng tài_nguyên Internet ; quản_lý thông_tin trên mạng quy_định tại <NĐ rel="Reference"> Nghị_định 72/2013/NĐ-CP ngày 15/7/2013 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng .
+2 . Khi đăng_ký sử_dụng tên miền quốc_tế tại Việt_Nam , tổ_chức , cá_nhân phải thông_báo , cập_nhật thông_tin tại địa_chỉ www .  thong bao ten mi en .  vn theo quy_định tại Điều 21 Thông_tư này và phải chịu trách_nhiệm trước pháp_luật về tính chính_xác của các thông_tin thông_báo , cập_nhật . 
+
+Điều 24 .  Quyền và nghĩa_vụ của Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam 
+
+1 . Thực_hiện đăng_ký hoạt_động với Bộ Thông_tin và Truyền_thông theo quy_định tại Điều 22 Thông_tư này và chỉ cung_cấp dịch_vụ đăng_ký_tên miền quốc_tế cho cơ_quan , tổ_chức , cá_nhân sau khi nhận được thông_báo bằng văn_bản của Bộ Thông_tin và Truyền_thông xác_nhận đã nhận được hồ_sơ đăng_ký hợp_lệ và công_bố là Nhà_đăng_ký_tên miền quốc_tế tại Việt_Nam tại địa_chỉ www .  thong bao ten mi en .  vn . 
+
+2 . Tiếp_nhận đăng_ký_tên miền quốc_tế thông_qua Hợp_đồng với các chủ_thể đăng_ký_tên miền .  Nội_dung Hợp_đồng của Nhà_đăng_ký_tên miền quốc_tế tại Việt_nam phải có điều_khoản ràng_buộc các chủ_thể đăng_ký sử_dụng tên_miền cam_kết thực_hiện đầy_đủ quy_định tại Điều 23 Thông_tư này . 
+
+3 . Quản_lý đầy_đủ thông_tin được quy_định tại khoản 2 Điều 20 Thông_tư này về tổ_chức , cá_nhân ở Việt_Nam đăng_ký_tên miền quốc_tế tại đơn_vị mình . 
+
+4 . Hướng_dẫn tổ_chức , cá_nhân đăng_ký sử_dụng tên miền quốc_tế thông_báo với Bộ Thông_tin và Truyền_thông theo quy_định tại Điều 21 Thông_tư này . 
+
+5 . Trước ngày 15 của tháng đầu_tiên hàng quý , báo_cáo danh_sách cập_nhật các tên miền quốc_tế mà mình đang quản_lý về VNNIC trên môi_trường mạng theo hướng_dẫn chi_tiết được quy_định tại địa_chỉ www .  thong bao ten mi en .  vn . 
+
+6 . Cung_cấp thông_tin và phối_hợp với các cơ_quan nhà_nước có thẩm_quyền để giải_quyết , xử_lý các vụ_việc liên_quan tới tên miền quốc_tế . 
+
+Điều 25 .  Thủ_tục đăng_ký , sử_dụng tên_miền cấp cao dùng chung mới 
+
+1 . Cơ_quan , tổ_chức , doanh_nghiệp có nhu_cầu đăng_ký_tên miền cấp cao dùng chung mới ( New_gTLD ) với ICANN phải có hồ_sơ đề_nghị đăng_ký_tên miền cấp cao dùng chung mới gửi Bộ Thông_tin và Truyền_thông : 
+
+a ) Đơn đề_nghị với đầy_đủ các thông_tin sau : tên cơ_quan , tổ_chức , doanh_nghiệp ;  tên_miền dự_kiến đăng_ký ;  mục_đích sử_dụng tên_miền ; 
+
+b ) Kế_hoạch cấp_phát tên_miền các cấp dưới tên_miền cấp cao dùng chung mới ; 
+
+c ) Báo_cáo năng_lực kỹ_thuật và quản_lý hệ_thống đăng_ký_tên miền cấp cao dùng chung mới ; 
+
+d ) Bản_sao có chứng_thực Quyết_định thành_lập hoặc Giấy chứng_nhận đầu_tư hoặc Giấy Đăng_ký kinh_doanh của cơ_quan , tổ_chức , doanh_nghiệp . 
+
+2 . Trong vòng 30 ngày , kể từ ngày nhận được hồ_sơ đề_nghị đăng_ký_tên miền cấp cao dùng chung mới , Bộ Thông_tin và Truyền_thông có Thông_báo chấp_thuận hoặc từ_chối việc đăng_ký của cơ_quan , tổ_chức , doanh_nghiệp .  Trong trường_hợp từ_chối , thông_báo nêu rõ lý_do . 
+
+3 . Chỉ sau khi nhận được Thông_báo chấp_thuận đăng_ký_tên miền cấp cao dùng chung mới của Bộ Thông_tin và Truyền_thông , cơ_quan , tổ_chức , doanh_nghiệp mới được thực_hiện thủ_tục đăng_ký_tên miền với ICANN . 
+
+4 . Trừ trường_hợp đặc_biệt được Bộ Thông_tin và Truyền_thông cho phép , cơ_quan , tổ_chức , doanh_nghiệp chỉ được cấp tên_miền cấp dưới tên_miền cấp cao dùng chung mới cho các đơn_vị thành_viên của mình . 
+
+5 . Bộ Thông_tin và Truyền_thông không cấp phép thiết_lập trang thông_tin điện_tử trên mạng cho các trường_hợp sử_dụng tên_miền cấp cao dùng chung mới khi việc đăng_ký_tên miền vi_phạm các quy_định tại khoản 1 , khoản 3 và khoản 4 Điều này . 
+
+Điều 26 .  Quy_định chung về việc phân_bổ và sử_dụng địa_chỉ IP 
+
+1 . Các cơ_quan , tổ_chức , doanh_nghiệp có nhu_cầu thiết_lập mạng kết_nối với Internet được quyền đề_nghị phân_bổ địa_chỉ IP để sử_dụng nội_bộ hoặc cấp lại cho khách_hàng có kết_nối đến mạng cung_cấp dịch_vụ của cơ_quan , tổ_chức , doanh_nghiệp .  Khuyến_khích việc đăng_ký sử_dụng địa_chỉ IPv6 . 
+
+2 . Địa_chỉ IP được phân_bổ , cấp cho nhu_cầu sử_dụng thực_tế và có giá_trị sử_dụng trên toàn_bộ lãnh_thổ Việt_Nam .  Các cơ_quan , tổ_chức , doanh_nghiệp tham_gia hoạt_động Internet phải đảm_bảo : 
+
+a ) Thực_hiện việc định_tuyến các vùng địa_chỉ IP ở Việt_Nam theo hướng_dẫn của VNNIC ; 
+
+b ) Không được định_tuyến những vùng địa_chỉ IP nằm ngoài danh_mục quản_lý của VNNIC_trừ trường_hợp kết_nối với cổng quốc_tế ; 
+
+c ) Phối_hợp với VNNIC về kỹ_thuật và chính_sách định_tuyến để đảm_bảo hệ_thống DNS quốc_gia và trạm trung_chuyển Internet quốc_gia ( VNIX ) , Internet Việt_Nam hoạt_động an_toàn , hiệu_quả ; 
+
+d ) Có kế_hoạch đưa địa_chỉ IPv6 đi vào hoạt_động phù_hợp kế_hoạch hành_động quốc_gia về IPv6 . 
+
+3 . Quản_lý , phân_bổ , cấp địa_chỉ IP sử_dụng trên mạng Internet Việt_Nam phải phù_hợp với chính_sách của các tổ_chức quốc_tế có thẩm_quyền quy_hoạch , phân_bổ địa_chỉ cho Việt_Nam .  Quá thời_hạn 6 tháng kể từ ngày phân_bổ , cấp mà địa_chỉ không được sử_dụng trên mạng sẽ bị thu_hồi , nếu không có_lý_do chính_đáng . 
+
+4 . Cơ_quan , tổ_chức , doanh_nghiệp không còn nhu_cầu sử_dụng địa_chỉ IP phải có văn_bản hoàn_trả gửi VNNIC .  Các vùng địa_chỉ hoàn_trả sẽ được phân_bổ , cấp lại cho những cơ_quan , tổ_chức , doanh_nghiệp khác có nhu_cầu . 
+
+5 . Địa_chỉ IP và số hiệu mạng không được phép chuyển_nhượng , khi không còn nhu_cầu sử_dụng phải hoàn_trả cho Bộ Thông_tin và Truyền_thông ( Trung_tâm Internet Việt_Nam ) . 
+
+6 . Trong giai_đoạn cạn_kiệt IPv4 : 
+
+a ) Việc cấp mới IPv4 áp_dụng theo chính_sách cấp_phát hạn_chế quy_định bởi tổ_chức quản_lý địa_chỉ khu_vực Châu Á – Thái_Bình_Dương ( APNIC ) ; 
+
+b ) Việc nhận địa_chỉ IP trực_tiếp từ các tổ_chức quốc_tế phải tuân_thủ theo quy_định của các tổ_chức quản_lý_tài_nguyên địa_chỉ quốc_tế và quy_định tại Điều 31 Thông_tư này .  Vùng địa_chỉ IP quốc_tế sau khi hoàn_tất các thủ_tục tiếp_nhận vào Việt_Nam theo quy_định sẽ được coi là tài_nguyên viễn_thông và chịu sự điều_chỉnh của các văn_bản quy_phạm pháp_luật về viễn_thông ; 
+
+c ) Việc phân_bổ , cấp lại các vùng địa_chỉ IPv4 sau thu_hồi hoặc hoàn_trả của các cơ_quan , tổ_chức , doanh_nghiệp tuân_thủ theo các quy_định và quy_trình thủ_tục tại Điều 28 Thông_tư này . 
+
+Điều 27 .  Thủ_tục phân_bổ , cấp địa_chỉ IP 
+
+1 . Các cơ_quan , tổ_chức , doanh_nghiệp đề_nghị phân_bổ , cấp địa_chỉ IP độc_lập nộp hồ_sơ về VNNIC . 
+
+2 . Hồ_sơ đề_nghị phân_bổ , cấp địa_chỉ IP bao_gồm : 
+
+a ) “ Bản khai đăng_ký địa_chỉ IP " theo biểu_mẫu do VNNIC quy_định và công_bố tại địa_chỉ www .  diachiip .  vn ; 
+
+b ) Quyết_định thành_lập hoặc giấy chứng_nhận đăng_ký kinh_doanh ( bản_sao có chứng_thực ) ; 
+
+c ) Giấy_phép cung_cấp dịch_vụ Internet ( bản_sao có chứng_thực , nếu có ) . 
+
+3 . Phương_thức nộp hồ_sơ : 
+
+a ) Nộp hồ_sơ trực_tiếp tại trụ_sở VNNIC ; 
+
+b ) Gửi hồ_sơ đến VNNIC qua đường Bưu_điện ; 
+
+c ) Nộp hồ_sơ trực_tuyến tại địa_chỉ www .  diachiip .  vn trong trường_hợp sử_dụng chữ_ký số . 
+
+4 . Thời_hạn cấp Quyết_định phân_bổ , cấp địa_chỉ IP cho cơ_quan , tổ_chức , doanh_nghiệp chậm nhất là 20 ngày làm_việc kể từ khi nhận được đủ hồ_sơ hợp_lệ .  Trường_hợp từ_chối cấp , VNNIC thông_báo bằng văn_bản và nêu rõ lý_do . 
+
+Điều 28 .  Phân_bổ , cấp lại các vùng địa_chỉ IPv4 sau hoàn_trả hoặc thu_hồi 
+
+1 . Việc phân_bổ , cấp lại các vùng địa_chỉ IPv4 tại Việt_Nam sau hoàn_trả hoặc thu_hồi không bị điều_chỉnh theo các quy_định tại điểm a khoản 6 Điều 26 Thông_tư này . 
+
+2 . Các vùng địa_chỉ IPv4 còn trống do thu_hồi hoặc hoàn_trả từ các cơ_quan , tổ_chức , doanh_nghiệp tại Việt_Nam được phân_bổ , cấp lại cho các cơ_quan , tổ_chức , doanh_nghiệp thực_sự có nhu_cầu sử_dụng theo các nguyên_tắc sau : 
+
+a ) Đến trước , xét_duyệt xử_lý hồ_sơ trước ; 
+
+b ) Chưa có địa_chỉ IPv4 để sử_dụng hoặc đã có địa_chỉ nhưng giải_trình được đã sử_dụng hết ít_nhất 80 % các vùng địa_chỉ IPv4 được phân_bổ , cấp trước đó đối_với các cơ_quan , tổ_chức , doanh_nghiệp đã được phân_bổ , cấp địa_chỉ ; 
+
+c ) Thuyết_minh mức_độ cần_thiết và khả_năng sử_dụng ngay vùng địa_chỉ đề_nghị phân_bổ , cấp ; 
+
+d ) Cơ_quan , tổ_chức , doanh_nghiệp đề_nghị phân_bổ , cấp địa_chỉ hoàn_tất nghĩa_vụ nộp phí , lệ_phí sử_dụng địa_chỉ IP tại Việt_Nam theo quy_định của Bộ Tài_chính . 
+
+3 . Quy_trình phân_bổ , cấp lại : 
+
+a ) Khi có vùng địa_chỉ IPv4 thu_hồi hoặc được hoàn_trả từ các cơ_quan , tổ_chức , doanh_nghiệp , VNNIC niêm_yết thông_tin về vùng địa_chỉ và thời_điểm mở tiếp_nhận hồ_sơ đề_nghị phân_bổ , cấp lại vùng địa_chỉ tại địa_chỉ website www .  diachiip .  vn ; 
+
+b ) Việc tiếp_nhận và xử_lý hồ_sơ đề_nghị phân_bổ , cấp địa_chỉ tuân_thủ theo các nguyên_tắc quy_định tại khoản 2 Điều này ; 
+
+c ) VNNIC ban_hành quyết_định phân_bổ , cấp lại địa_chỉ và thông_báo tại địa_chỉ website : www .  diachiip .  vn về kết_quả cuối_cùng của đợt phân_bổ , cấp lại . 
+
+Điều 29 .  Cấp và sử_dụng số hiệu mạng 
+
+1 . Theo nhu_cầu sử_dụng thực_tế của các cơ_quan , tổ_chức , doanh_nghiệp .  Các cơ_quan , tổ_chức , doanh_nghiệp đã được phân_bổ , cấp địa_chỉ IP từ VNNIC được quyền đề_nghị cấp số hiệu mạng . 
+
+2 . Sử_dụng số hiệu mạng vào vùng địa_chỉ IP của Việt_Nam với chính_sách định_tuyến độc_lập , kết_nối với những nhà cung_cấp dịch_vụ có chính_sách định_tuyến khác nhau . 
+
+3 . Các cơ_quan , tổ_chức , doanh_nghiệp được cấp số hiệu mạng chỉ được sử_dụng số hiệu mạng đó trong phạm_vi mạng của mình . 
+
+4 . Quá thời_hạn 6 tháng kể từ ngày cấp , số hiệu mạng không được đưa vào sử_dụng trên mạng Internet sẽ bị thu_hồi , nếu không có_lý_do chính_đáng . 
+
+5 . Cơ_quan , tổ_chức , doanh_nghiệp không còn nhu_cầu sử_dụng số hiệu mạng phải có văn_bản hoàn_trả gửi VNNIC .  Các số hiệu mạng hoàn_trả sẽ được cấp lại cho những cơ_quan , tổ_chức , doanh_nghiệp khác có nhu_cầu . 
+
+6 . Việc nhận số hiệu mạng trực_tiếp từ các tổ_chức quốc_tế phải tuân_thủ theo quy_định của các tổ_chức quản_lý_tài_nguyên địa_chỉ quốc_tế và quy_định tại Điều 31 Thông_tư này .  Số_hiệu mạng sau khi hoàn_tất các thủ_tục tiếp_nhận vào Việt_Nam theo quy_định sẽ được coi là tài_nguyên viễn_thông và chịu sự điều_chỉnh của các văn_bản quy_phạm pháp_luật về viễn_thông . 
+
+Điều 30 .  Thủ_tục cấp số hiệu mạng 
+
+1 . Các cơ_quan , tổ_chức , doanh_nghiệp đề_nghị cấp số hiệu mạng nộp Bản khai đăng_ký số hiệu mạng về VNNIC .  Mẫu Bản khai đăng_ký số hiệu mạng do VNNIC quy_định và công_bố tại địa_chỉ www .  diachiip .  vn . 
+
+2 . Phương_thức nộp hồ_sơ đề_nghị cấp số hiệu mạng : 
+
+3 . Thời_hạn trả_lời kết_quả hoặc cấp " Quyết_định cấp số hiệu mạng " cho cơ_quan , tổ_chức , doanh_nghiệp chậm nhất là năm ( 05 ) ngày làm_việc kể từ khi nhận được đủ hồ_sơ theo quy_định .  Trong trường_hợp từ_chối cấp , VNNIC sẽ có thông_báo qua đường thư điện_tử đến cơ_quan , tổ_chức , doanh_nghiệp và nêu rõ lý_do . 
+
+Điều 31 .  Nhận địa_chỉ IP hoặc số hiệu mạng trực_tiếp từ các tổ_chức quốc_tế 
+
+1 . Báo_cáo tiếp_nhận vùng địa_chỉ IP hoặc số hiệu mạng theo mẫu ban_hành tại Phụ_lục 3 Thông_tư này để đưa vùng địa_chỉ hoặc số hiệu mạng vào danh_mục quản_lý tập_trung của VNNIC ; 
+
+2 . Nộp phí duy_trì sử_dụng địa_chỉ IP hoặc số hiệu mạng tại Việt_Nam theo đúng quy_định của Bộ Tài_chính và trả các khoản phí phát_sinh trong quá_trình tiếp_nhận địa_chỉ hoặc số hiệu mạng theo quy_định của các tổ_chức quản_lý địa_chỉ quốc_tế . 
+
+Điều 32 .  Thu_hồi địa_chỉ IP , số hiệu mạng 
+
+1 . Theo văn_bản yêu_cầu của Bộ Thông_tin và Truyền_thông đối_với các trường_hợp thu_hồi địa_chỉ IP , số hiệu mạng quy_định tại điểm a , điểm b , khoản 2 Điều 50 <L rel="Reference"> Luật Viễn_thông </L> .
+2 . Theo quyết_định xử_phạt vi_phạm hành_chính có biện_pháp khắc_phục là “ thu_hồi địa_chỉ IP , số hiệu mạng ” , hoặc áp_dụng hình_thức phạt bổ_sung " tịch_thu phương_tiện vi_phạm ” của thanh_tra chuyên_ngành thông_tin và truyền_thông khi việc sử_dụng địa_chỉ IP , số hiệu mạng vi_phạm các quy_định về quản_lý cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng . 
+
+3 . Theo yêu_cầu bằng văn_bản của các cơ_quan công_an về an_ninh thông_tin , tội_phạm công_nghệ_cao khi việc sử_dụng địa_chỉ IP , số hiệu mạng xâm_phạm an_ninh quốc_gia , trật_tự an_toàn xã_hội theo quy_định của pháp_luật về an_ninh quốc_gia ; 
+
+4 . Địa_chỉ IP , số hiệu mạng vi_phạm_quy_định nêu tại khoản 3 Điều 26 và khoản 4 Điều 29 Thông_tư này ; 
+
+5 . Sau 30 ngày kể từ thời_điểm vùng địa_chỉ IP , số hiệu mạng hết thời_hạn sử_dụng mà cơ_quan , tổ_chức , doanh_nghiệp không nộp phí duy_trì theo quy_định . 
+
+6 . Đối_với các trường_hợp thu_hồi địa_chỉ IP , số hiệu mạng quy_định từ khoản 1 đến khoản 5 Điều này , VNNIC ban_hành quyết_định thu_hồi địa_chỉ IP , số hiệu mạng ;  thông_báo cho cơ_quan , tổ_chức , doanh_nghiệp có liên_quan .  Trường_hợp địa_chỉ IP phải thu_hồi thuộc vùng địa_chỉ do doanh_nghiệp cung_cấp dịch_vụ Internet đã cấp cho khách_hàng , doanh_nghiệp cung_cấp dịch_vụ Internet có trách_nhiệm thực_hiện việc thu_hồi vùng địa_chỉ đã cấp cho khách_hàng theo quyết_định thu_hồi địa_chỉ IP của VNNIC . 
+
+Điều 33 .  Quyền và nghĩa_vụ của cơ_quan , tổ_chức , doanh_nghiệp được phân_bổ , cấp địa_chỉ IP và số hiệu mạng 
+
+1 . Cơ_quan , tổ_chức , doanh_nghiệp được cấp quyền sử_dụng các vùng địa_chỉ IP trong danh_mục quản_lý của VNNIC được công_nhận là thành_viên địa_chỉ của VNNIC . 
+
+2 . Thành_viên địa_chỉ tự xây_dựng chính_sách định_tuyến cho các vùng địa_chỉ IP được cấp phù_hợp với tình_hình mạng_lưới của mình và không được cản_trở việc quảng_bá định_tuyến hợp_lệ của các vùng địa_chỉ IP nằm trong danh_mục quản_lý của VNNIC . 
+
+3 . Thành_viên địa_chỉ có trách_nhiệm khai_báo , cập_nhật đầy_đủ thông_tin sử_dụng các vùng địa_chỉ IP và số hiệu mạng đã được cấp định_kỳ hoặc khi có yêu_cầu từ VNNIC . 
+
+4 . Thành_viên địa_chỉ có trách_nhiệm xác_minh và xử_lý ngay các địa_chỉ IP thuộc phạm_vi quản_lý của mình có liên_quan đến các hành_vi vi_phạm pháp_luật khi nhận được thông_báo của VNNIC hoặc của các tổ_chức , cá_nhân khác . 
+
+5 . Chỉ các thành_viên địa_chỉ có giấy_phép cung_cấp dịch_vụ Internet mới được cấp_phát lại địa_chỉ IP cho khách_hàng hoặc tổ_chức khác . 
+
+Điều 34 .  Trách_nhiệm của VNNIC trong quản_lý địa_chỉ IP và số hiệu mạng 
+
+1 . Quản_lý , giám_sát đảm_bảo hoạt_động đăng_ký , duy_trì , sử_dụng địa_chỉ IP và số hiệu mạng hiệu_quả , an_toàn , đúng quy_định . 
+
+2 . Bảo_đảm an_toàn , bí_mật thông_tin các thành_viên địa_chỉ theo quy_định . 
+
+3 . Hướng_dẫn đầy_đủ kịp_thời các thành_viên địa_chỉ trong việc đăng_ký và quản_lý sử_dụng địa_chỉ IP , số hiệu mạng tại Việt_Nam . 
+
+4 . Quản_lý , khai_báo tên miền ngược cho toàn_bộ các vùng địa_chỉ IP thuộc danh_mục quản_lý của mình theo đúng quy_định của APNIC . 
+
+Điều 35 .  Hiệu_lực thi_hành 
+
+Thông_tư có hiệu_lực kể từ ngày 20/01/2015 . 
+
+Điều 36 .  Điều_khoản thi_hành 
+
+1 . <TT rel="Drop"> Thông_tư số 09/2008/TT-BTTTT ngày 24 tháng 12 năm 2008 </TT> của Bộ Thông_tin và Truyền_thông hướng_dẫn về quản_lý và sử_dụng tài_nguyên Internet , <TT rel="Drop"> Thông_tư số 10/2008/TT-BTTTT ngày 24 tháng 12 năm 2008 </TT> của Bộ Thông_tin và Truyền_thông quy_định về giải_quyết tranh_chấp tên miền quốc_gia Việt_Nam “ . vn ” hết hiệu_lực thi_hành kể từ ngày Thông_tư này có hiệu_lực .
+2 . Bãi_bỏ Điều 1 <TT rel="PartDrop"> Thông_tư số 09/2011/TT-BTTTT ngày 08 tháng 4 năm 2011 </TT> của Bộ Thông_tin và Truyền_thông sửa_đổi , bổ_sung một_số quy_định của <TT rel="Others"> Thông_tư số 09/2008/TT-BTTTT ngày 24 tháng 12 năm 2008 </TT> và <TT rel="Others"> Thông_tư số 12/2008/TT-BTTTT ngày 30 tháng 12 năm 2008 </TT> .
+3 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông để xem_xét , bổ_sung , sửa_đổi ./. 

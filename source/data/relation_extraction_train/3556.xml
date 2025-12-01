@@ -1,0 +1,191 @@
+Thông tư Quy định kỹ thuật về chuẩn dữ liệu địa chính
+
+Căn_cứ <L rel="Pursuant"> Luật Đất_đai ngày 26 tháng 11 năm 2003 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật sửa_đổi , bổ_sung Điều 126 của <L rel="Others"> Luật nhà ở </L> số 56/2005/QH11 </L> và Điều 121 của <L rel="Others"> Luật đất_đai số 13/2003/QH11 ngày 18 tháng 6 năm 2009 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 181/2004/NĐ-CP ngày 29 tháng 10 năm 2004 </NĐ> của Chính_phủ về thi_hành <L rel="Others"> Luật Đất_đai </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 17/2006/NĐ-CP ngày 27 tháng 01 năm 2006 </NĐ> của Chính_phủ về sửa_đổi , bổ_sung một_số điều của các nghị_định hướng_dẫn thi_hành <L rel="Others"> Luật Đất_đai </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 84/2007/NĐ-CP ngày 25 tháng 5 năm 2007 </NĐ> về việc cấp Giấy chứng_nhận quyền sử_dụng đất , thu_hồi đất , thực_hiện quyền sử_dụng đất , trình_tự , thủ_tục bồi_thường , hỗ_trợ tái_định_cư khi Nhà_nước thu_hồi đất và giải_quyết khiếu_nại về đất_đai ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 19/2010/NĐ-CP ngày 05 tháng 3 năm 2010 </NĐ> của Chính_phủ sửa_đổi , bổ_sung các điểm c , d , g , h và i khoản 5 Điều 2 <NĐ rel="Others"> Nghị_định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 102/2008/NĐ-CP ngày 15 tháng 9 năm 2008 </NĐ> của Chính_phủ về việc thu_thập , quản_lý , khai_thác và sử_dụng dữ_liệu về tài_nguyên và môi_trường ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 69/2009/NĐ-CP ngày 13 tháng 8 năm 2009 </NĐ> của Chính_phủ quy_định bổ_sung về quy_hoạch sử_dụng đất , giá đất , thu_hồi đất , bồi_thường , hỗ_trợ và tái_định_cư ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 88/2009/NĐ-CP ngày 19 tháng 10 năm 2009 </NĐ> của Chính_phủ về cấp Giấy chứng_nhận quyền sử_dụng đất , quyền sở_hữu nhà ở và tài_sản khác gắn liền với đất ;
+Căn_cứ <QĐ rel="Pursuant"> Quyết_định số 179/2004/QĐ-TTg ngày 06 tháng 10 năm 2004 </QĐ> của Thủ_tướng Chính_phủ về việc phê_duyệt Chiến_lược ứng_dụng và phát_triển công_nghệ thông_tin tài_nguyên và môi_trường đến năm 2015 và định_hướng đến năm 2020 .
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định về nội_dung và cấu_trúc dữ_liệu ;  hệ quy chiếu không_gian và thời_gian ;  siêu dữ_liệu ;  chất_lượng dữ_liệu ;  trình_bày , trao_đổi và phân_phối dữ_liệu ;  xây_dựng , cập_nhật , quản_lý và khai_thác sử_dụng dữ_liệu đối_với dữ_liệu địa_chính trên phạm_vi cả nước . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Đối_tượng áp_dụng của Thông_tư này gồm cơ_quan quản_lý nhà_nước , cơ_quan chuyên_môn về tài_nguyên môi_trường , cán_bộ địa_chính xã , phường , thị_trấn và các tổ_chức , cá_nhân tham_gia các hoạt_động có liên_quan tới xây_dựng , cập_nhật , quản_lý và khai_thác sử_dụng , kiểm_tra và nghiệm_thu dữ_liệu địa_chính . 
+
+Điều 3 .  Giải_thích từ_ngữ và từ viết_tắt 
+
+1 . Hệ_thống thông_tin địa_chính : là hệ_thống bao_gồm cơ_sở dữ_liệu địa_chính , phần_cứng , phần_mềm và mạng máy_tính được liên_kết theo mô_hình xác_định . 
+
+2 . Dữ_liệu địa_chính : là dữ_liệu không_gian địa_chính , dữ_liệu thuộc tính địa_chính và các dữ_liệu khác có liên_quan . 
+
+3 . Cơ_sở dữ_liệu địa_chính : là tập_hợp thông_tin có cấu_trúc của dữ_liệu địa_chính . 
+
+4 . Dữ_liệu không_gian địa_chính : là dữ_liệu về vị_trí , hình_thể của thửa đất , nhà ở và tài_sản khác gắn liền với đất ;  dữ_liệu về hệ_thống thủy_văn , hệ_thống thủy_lợi ;  hệ_thống đường giao_thông ;  dữ_liệu về điểm khống_chế ;  dữ_liệu về biên_giới , địa_giới ;  dữ_liệu về địa_danh và ghi_chú khác ;  dữ_liệu về đường chỉ_giới và mốc_giới quy_hoạch sử_dụng đất , quy_hoạch xây_dựng , quy_hoạch giao_thông và các loại quy_hoạch khác , chỉ_giới hành_lang an_toàn bảo_vệ công_trình . 
+
+5 . Dữ_liệu thuộc tính địa_chính : là dữ_liệu về người quản_lý đất , người sử_dụng đất , chủ sở_hữu nhà ở và tài_sản khác gắn liền với đất , tổ_chức và cá_nhân có liên_quan đến các giao_dịch về đất_đai , nhà ở và tài_sản khác gắn liền với đất ;  dữ_liệu thuộc_tính về thửa đất , nhà ở và tài_sản khác gắn liền với đất ;  dữ_liệu về tình_trạng sử_dụng của thửa đất , nhà ở và tài_sản khác gắn liền với đất ;  dữ_liệu về quyền và nghĩa_vụ trong sử_dụng đất , sở_hữu nhà ở và tài_sản khác gắn liền với đất ;  dữ_liệu giao_dịch về đất_đai , nhà ở và tài_sản khác gắn liền với đất . 
+
+6 . Siêu dữ_liệu ( metadata ) : là các thông_tin mô_tả về dữ_liệu . 
+
+7 . Cấu_trúc dữ_liệu : là cách tổ_chức dữ_liệu trong máy_tính thể_hiện sự phân_cấp , liên_kết của các nhóm dữ_liệu . 
+
+8 . Kiểu thông_tin của dữ_liệu : là tên , kiểu giá_trị và độ dài trường thông_tin của dữ_liệu . 
+
+9 . Hệ_VN-2000 : Hệ_quy chiếu và Hệ_tọa độ quốc_gia VN-2000 . 
+
+10 .  XML ( eXtensible Markup Language ) : là ngôn_ngữ định_dạng mở_rộng có khả_năng mô_tả nhiều loại dữ_liệu khác nhau bằng một ngôn_ngữ thống_nhất và được sử_dụng để chia_sẻ dữ_liệu giữa các hệ_thống thông_tin . 
+
+11 .  GML ( Geography_Markup Language ) : là một dạng mã_hóa_của ngôn_ngữ XML để thể_hiện nội_dung các thông_tin địa_lý . 
+
+Điều 4 .  Nội_dung , cấu_trúc và kiểu thông_tin của dữ_liệu địa_chính 
+
+1 . Nội_dung dữ_liệu địa_chính 
+
+Dữ_liệu địa_chính bao_gồm các nhóm dữ_liệu sau đây : 
+
+a ) Nhóm dữ_liệu về người : gồm dữ_liệu người quản_lý đất_đai , nhà ở và tài_sản khác gắn liền với đất , người sử_dụng đất , chủ sở_hữu nhà ở và tài_sản khác gắn liền với đất , người có liên_quan đến các giao_dịch về đất_đai , nhà ở và tài_sản khác gắn liền với đất ; 
+
+b ) Nhóm dữ_liệu về thửa đất : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính của thửa đất ; 
+
+c ) Nhóm dữ_liệu về tài_sản gắn liền với đất : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính của nhà ở và tài_sản khác gắn liền với đất ; 
+
+d ) Nhóm dữ_liệu về quyền : gồm dữ_liệu thuộc_tính về tình_trạng sử_dụng của thửa đất , nhà ở và tài_sản khác gắn liền với đất ;  hạn_chế quyền và nghĩa_vụ trong sử_dụng đất , sở_hữu nhà ở và tài_sản khác gắn liền với đất ;  giao_dịch về đất_đai , nhà ở và tài_sản khác gắn liền với đất ; 
+
+đ ) Nhóm dữ_liệu về thủy_hệ : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính về hệ_thống thủy_văn và hệ_thống thủy_lợi ; 
+
+e ) Nhóm dữ_liệu về giao_thông : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính về hệ_thống đường giao_thông ; 
+
+g ) Nhóm dữ_liệu về biên_giới , địa_giới : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính về mốc và đường_biên_giới quốc_gia , mốc và đường địa_giới hành_chính các cấp ; 
+
+h ) Nhóm dữ_liệu về địa_danh và ghi_chú : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính về vị_trí , tên của các đối_tượng địa_danh sơn văn , thủy_văn , dân_cư , biển đảo và các ghi_chú khác ; 
+
+i ) Nhóm dữ_liệu về điểm khống_chế tọa_độ và độ cao : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính về điểm khống_chế tọa_độ và độ cao trên thực_địa phục_vụ đo vẽ lập bản_đồ địa_chính ; 
+
+k ) Nhóm dữ_liệu về quy_hoạch : gồm dữ_liệu không_gian và dữ_liệu thuộc_tính về đường chỉ_giới và mốc_giới quy_hoạch sử_dụng đất , quy_hoạch xây_dựng , quy_hoạch giao_thông và các loại quy_hoạch khác ;  chỉ_giới hành_lang an_toàn bảo_vệ công_trình . 
+
+2 . Cấu_trúc và kiểu thông_tin của dữ_liệu địa_chính 
+
+Mỗi nhóm thông_tin xác_định tại khoản 1 Điều này được thể_hiện cụ_thể thông_qua cấu_trúc và kiểu thông_tin của dữ_liệu . 
+
+Nội_dung , cấu_trúc và kiểu thông_tin của dữ_liệu địa_chính được quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này . 
+
+Điều 5 : Hệ_quy chiếu không_gian và thời_gian áp_dụng cho dữ_liệu địa_chính 
+
+1 . Hệ_quy chiếu không_gian 
+
+a ) Áp_dụng Hệ_quy chiếu và Hệ_tọa độ quốc_gia theo qui_định tại <QĐ rel="Reference"> Quyết_định số 83/2000/QĐ-TTg ngày 12 tháng 7 năm 2000 </QĐ> của Thủ_tướng Chính_phủ về việc áp_dụng Hệ_quy chiếu và Hệ_tọa độ quốc_gia VN-2000 ;
+b ) Áp_dụng Hệ_tọa độ phẳng , lưới chiếu bản_đồ , công_thức tính_toán tọa_độ theo quy_định tại <TT rel="Reference"> Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 </TT> của Tổng_cục Địa_chính hướng_dẫn áp_dụng Hệ_quy chiếu và Hệ_tọa độ quốc_gia VN-2000
+Các tham_số của Hệ_quy chiếu , Hệ tọa_độ địa_chính và kinh_tuyến trục cho từng tỉnh được quy_định tại Phụ_lục II ban_hành kèm theo Thông_tư này . 
+
+2 . Hệ_quy chiếu thời_gian : Ngày , tháng , năm theo Dương_lịch ;  giờ , phút , giây theo múi_giờ Việt_Nam . 
+
+Điều 6 .  Siêu dữ_liệu địa_chính 
+
+1 . Siêu dữ_liệu địa_chính được lập cho cơ_sở dữ_liệu địa_chính các cấp , cho khu_vực lập hồ_sơ địa_chính , bản_đồ địa_chính hoặc cho tờ bản_đồ địa_chính . 
+
+2 . Siêu dữ_liệu địa_chính được lập trong quá_trình xây_dựng cơ_sở dữ_liệu địa_chính và được cập_nhật khi có biến_động cơ_sở dữ_liệu địa_chính . 
+
+3 . Nội_dung siêu dữ_liệu địa_chính gồm các nhóm thông_tin mô_tả về siêu dữ_liệu địa_chính đó , hệ quy chiếu tọa_độ , dữ_liệu địa_chính , chất_lượng dữ_liệu địa_chính và cách_thức trao_đổi , phân_phối dữ_liệu địa_chính , cụ_thể như sau : 
+
+a ) Nhóm thông_tin mô_tả về siêu dữ_liệu địa_chính gồm các thông_tin khái_quát về siêu dữ_liệu địa_chính đó như đơn_vị lập , ngày lập siêu dữ_liệu ; 
+
+b ) Nhóm thông_tin mô_tả về hệ quy chiếu tọa_độ gồm các thông_tin về hệ quy chiếu tọa_độ được áp_dụng để xây_dựng cơ_sở dữ_liệu địa_chính ; 
+
+c ) Nhóm thông_tin mô_tả về dữ_liệu địa_chính gồm các thông_tin về hiện_trạng của dữ_liệu địa_chính ;  mô_hình dữ_liệu không_gian , thời_gian được sử_dụng để biểu_diễn dữ_liệu địa_chính ;  thông_tin về các loại từ khóa , chủ_đề có trong dữ_liệu địa_chính ;  thông_tin về mức_độ chi_tiết của dữ_liệu địa_chính ;  thông_tin về các đơn_vị , tổ_chức liên_quan đến quá_trình xây_dựng , quản_lý , cung_cấp dữ_liệu địa_chính ;  thông_tin về phạm_vi không_gian và thời_gian của dữ_liệu địa_chính ;  thông_tin về các ràng_buộc liên_quan đến việc khai_thác sử_dụng dữ_liệu địa_chính ; 
+
+d ) Nhóm thông_tin mô_tả về chất_lượng dữ_liệu địa_chính gồm các thông_tin về nguồn_gốc dữ_liệu ;  phạm_vi , phương_pháp , kết_quả kiểm_tra chất_lượng dữ_liệu địa_chính ; 
+
+đ ) Nhóm thông_tin mô_tả về cách_thức trao_đổi , phân_phối dữ_liệu địa_chính gồm các thông_tin về phương_thức , phương_tiện , định_dạng trao_đổi , phân_phối dữ_liệu địa_chính . 
+
+Nội_dung , cấu_trúc và kiểu thông_tin của siêu dữ_liệu địa_chính được quy_định tại Phụ_lục III ban_hành kèm theo Thông_tư này . 
+
+Điều 7 .  Chất_lượng dữ_liệu địa_chính 
+
+1 . Việc đánh_giá chất_lượng dữ_liệu địa_chính được thực_hiện theo quy_định tại <TT rel="Reference"> Thông_tư số 09/2007/TT-BTNMT ngày 02 tháng 8 năm 2007 </TT> của Bộ Tài_nguyên và Môi_trường hướng_dẫn việc lập , chỉnh_lý , quản_lý hồ_sơ địa_chính và <TT rel="Reference"> Thông_tư số 05/2009/TT-BTNMT ngày 01 tháng 6 năm 2009 </TT> của Bộ Tài_nguyên và Môi_trường hướng_dẫn kiểm_tra , thẩm_định và nghiệm_thu công_trình , sản_phẩm địa_chính .
+2 . Hạng_mục và mức_độ kiểm_tra chất_lượng sản_phẩm cơ_sở dữ_liệu địa_chính được quy_định tại Phụ_lục IV ban_hành kèm theo Thông_tư này . 
+
+Điều 8 .  Trình_bày và hiển_thị dữ_liệu địa_chính 
+
+1 . Việc trình_bày dữ_liệu thuộc tính địa_chính được thực_hiện theo quy_định tại <TT rel="Reference"> Thông_tư số 09/2007/TT-BTNMT </TT> và <TT rel="Reference"> Thông_tư số 17/2009/TT-BTNMT ngày 21 tháng 10 năm 2009 </TT> của Bộ Tài_nguyên và Môi_trường quy_định về Giấy chứng_nhận quyền sử_dụng đất , quyền sở_hữu nhà ở và tài_sản khác gắn liền với đất .
+2 . Việc hiển_thị dữ_liệu không_gian địa_chính được quy_định tại Phụ_lục V_ban_hành kèm theo Thông_tư này . 
+
+Điều 9 .  Trao_đổi , phân_phối dữ_liệu và siêu dữ_liệu địa_chính 
+
+1 . Chuẩn định_dạng dữ_liệu sử_dụng trong trao_đổi , phân_phối dữ_liệu địa_chính được áp_dụng theo ngôn_ngữ định_dạng địa_lý ( GML ) ;  chuẩn định_dạng siêu dữ_liệu sử_dụng trong trao_đổi , phân_phối siêu dữ_liệu địa_chính được áp_dụng theo ngôn_ngữ định_dạng mở_rộng ( XML ) . 
+
+2 . Dữ_liệu địa_chính và siêu dữ_liệu địa_chính được trao_đổi , phân_phối dưới dạng tệp dữ_liệu thông_qua các các thiết_bị lưu_trữ dữ_liệu và các dịch_vụ truyền dữ_liệu . 
+
+Lược đồ ứng_dụng GML , XML áp_dụng trong trao_đổi , phân_phối dữ_liệu địa_chính và siêu dữ_liệu địa_chính được quy_định tại Phụ_lục VI ban_hành kèm theo Thông_tư này . 
+
+Việc cập_nhật cơ_sở dữ_liệu địa_chính tại Văn_phòng đăng_ký quyền sử_dụng đất các cấp được thực_hiện dựa trên các hồ_sơ đăng_ký biến_động về quyền sử_dụng đất , quyền sở_hữu nhà ở và tài_sản khác gắn liền với đất đã hoàn_thành . 
+
+1 . Bảo_đảm an_toàn hệ_thống thông_tin địa_chính 
+
+a ) Tổng_cục Quản_lý đất_đai chịu trách_nhiệm bảo_đảm an_toàn đối_với hệ_thống thông_tin địa_chính ở Trung_ương và phê_duyệt giải_pháp an_toàn hệ_thống thông_tin địa_chính của cả nước ; 
+
+b ) Cơ_quan_tài_nguyên và môi_trường cấp tỉnh và cấp huyện có trách_nhiệm bảo_đảm an_toàn đối_với hệ_thống thông_tin địa_chính cùng cấp ; 
+
+c ) Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh và cấp huyện có trách_nhiệm thực_hiện các biện_pháp quản_lý , nghiệp_vụ và kỹ_thuật đối_với hệ_thống thông_tin địa_chính thuộc phạm_vi quản_lý để đảm_bảo tính sẵn_sàng , chính_xác , tin_cậy , an_toàn , an_ninh , bảo_mật của dữ_liệu địa_chính ;  thực_hiện kiểm_tra định_kỳ ba tháng_một lần việc bảo_đảm an_toàn hệ_thống thông_tin địa_chính thuộc phạm_vi quản_lý ; 
+
+d ) Sao lưu cơ_sở dữ_liệu địa_chính : 
+
+- Cơ_sở dữ_liệu địa_chính phải được lưu_trữ một bản dự_phòng đồng_thời để có_thể khôi_phục được cơ_sở dữ_liệu trong trường_hợp xảy ra sự_cố ; 
+
+- Bản lưu cơ_sở dữ_liệu địa_chính phải được sao_chép vào các thiết_bị lưu_trữ theo định_kỳ hàng tháng và được lưu_trữ vĩnh_viễn . 
+
+2 . Chế_độ bảo_mật dữ_liệu : 
+
+Việc in , sao , chụp , vận_chuyển , giao_nhận , truyền_dẫn , lưu_trữ , bảo_quản , cung_cấp , khai_thác dữ_liệu và các hoạt_động khác có liên_quan đến dữ_liệu thuộc phạm_vi bí_mật Nhà_nước , bí_mật cá_nhân phải tuân theo quy_định của pháp_luật hiện_hành . 
+
+Điều 15 .  Khai_thác sử_dụng cơ_sở dữ_liệu địa_chính 
+
+1 . Việc cung_cấp thông_tin từ cơ_sở dữ_liệu địa_chính được thực_hiện dưới các hình_thức tra_cứu thông_tin trực_tuyến hoặc theo phiếu yêu_cầu cung_cấp thông_tin . 
+
+2 . Thông_tin được cung_cấp từ cơ_sở dữ_liệu địa_chính dưới dạng giấy hoặc dạng số bao_gồm : 
+
+a Trích_lục thửa đất ; 
+
+b Trích sao Sổ địa_chính , Sổ mục kê đất_đai đối_với từng thửa đất hoặc từng chủ sử_dụng đất ; 
+
+c Thông_tin tổng_hợp từ các dữ_liệu địa_chính ; 
+
+d Thông_tin bản_đồ địa_chính_trực_tuyến trên mạng ; 
+
+đ ) Trích sao cơ_sở dữ_liệu địa_chính theo khu_vực . 
+
+3 . Đối_tượng được cung_cấp dịch_vụ thông_tin từ cơ_sở dữ_liệu địa_chính bao_gồm : 
+
+a . Cá_nhân được khai_thác nội_dung thông_tin quy_định tại các điểm a , b , c , d khoản 2 Điều này ; 
+
+b . Tổ_chức được khai_thác nội_dung thông_tin quy_định tại khoản 2 Điều này . 
+
+4 . Trách_nhiệm cung_cấp thông_tin từ cơ_sở dữ_liệu địa_chính : 
+
+a ) Đơn_vị có chức_năng lưu_trữ thông_tin đất_đai trực_thuộc Tổng_cục Quản_lý đất_đai thực_hiện cung_cấp thông_tin tổng_hợp về dữ_liệu địa_chính trên phạm_vi cả nước ; 
+
+b ) Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh thực_hiện cung_cấp thông_tin về dữ_liệu địa_chính của địa_phương theo quy_định tại khoản 1 , khoản 2 , khoản 3 Điều này và khoản 2 Điều 14 Thông_tư này ; 
+
+c ) Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện thực_hiện cung_cấp thông_tin về dữ_liệu địa_chính của địa_phương theo hình_thức và nội_dung quy_định tại khoản 1 và điểm a , b , c và d khoản 2 Điều này và khoản 2 Điều 14 Thông_tư này ; 
+
+d ) Các cơ_quan cung_cấp thông_tin về dữ_liệu địa_chính phải chịu trách_nhiệm đối_với nội_dung thông_tin đã cung_cấp và phải xác_nhận bằng văn_bản về độ tin_cậy của nội_dung thông_tin khi người sử_dụng thông_tin có yêu_cầu . 
+
+5 . Việc cung_cấp dịch_vụ thông_tin đất_đai trên mạng Internet : 
+
+Khuyến_khích các cơ_quan cung_cấp thông_tin về dữ_liệu địa_chính theo quy_định tại Điều này tổ_chức dịch_vụ cung_cấp thông_tin trên mạng Internet . 
+
+6 . Tổ_chức và cá_nhân khai_thác thông_tin địa_chính phải nộp tiền sử_dụng thông_tin và tiền dịch_vụ cung_cấp thông_tin theo quy_định . 
+
+Điều 16 .  Kiểm_tra , nghiệm_thu và giao_nộp cơ_sở dữ_liệu địa_chính 
+
+1 . Trách_nhiệm , trình_tự tổ_chức triển_khai việc kiểm_tra , nghiệm_thu cơ_sở dữ_liệu địa_chính được thực_hiện theo quy_định tại <TT rel="Reference"> Thông_tư số 05/2009/TT-BTNMT ngày 01 tháng 6 năm 2009 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường về việc hướng_dẫn kiểm_tra , thẩm_định và nghiệm_thu công_trình , sản_phẩm địa_chính .
+2 . Nội_dung và mức_độ kiểm_tra cơ_sở dữ_liệu địa_chính được thực_hiện theo quy_định tại Điều 7 của Thông_tư này . 
+
+3 . Giao_nộp sản_phẩm 
+
+Hàng năm , trước ngày 15 tháng 01 Sở Tài_nguyên và Môi_trường có trách_nhiệm giao_nộp một ( 01 ) bộ bản_sao cơ_sở dữ_liệu địa_chính đầy_đủ được cập_nhật đến ngày 31 tháng 12 năm trước của địa_phương về đơn_vị có chức_năng lưu_trữ thông_tin đất_đai trực_thuộc Tổng_cục Quản_lý đất_đai để lưu_trữ , khai_thác sử_dụng . 

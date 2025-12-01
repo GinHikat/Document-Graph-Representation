@@ -1,0 +1,534 @@
+Thông tư Hướng dẫn tổ chức vận hành, khai thác Hệ thống thông tin quản lý Ngân sách và Kho bạc (TABMIS)
+
+Căn_cứ <L rel="Pursuant"> Luật Ngân_sách Nhà_nước số 01/2002/QH11 ngày 16/12/2002 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Kế_toán số 03/2003/QH11 ngày 17/6/2003 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29/11/2005 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin số 67/2006/QH11 ngày 29/6/2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 128/2004/NĐ-CP ngày 31/5/2004 </NĐ> của Chính_phủ về việc quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Kế_toán áp_dụng trong lĩnh_vực kế_toán nhà_nước </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 215/2013/NĐ-CP ngày 23/12/2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Căn_cứ <QĐ rel="Pursuant"> Quyết_định số 108/2009/QĐ-TTg ngày 26/08/2009 </QĐ> của Thủ_tướng Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Kho_bạc Nhà_nước trực_thuộc Bộ Tài_chính ;
+Điều 1 .  Phạm_vi áp_dụng 
+
+Thông_tư này hướng_dẫn tổ_chức vận_hành , khai_thác và đảm_bảo các điều_kiện để vận_hành , khai_thác TABMIS . 
+
+Điều 2 .  Giải_thích thuật_ngữ 
+
+1 . Môi_trường sản_xuất TABMIS : Là tập_hợp các thành_phần của hệ_thống được đặt tại Kho_bạc Nhà_nước ( KBNN ) bao_gồm : phần_mềm ứng_dụng , hệ quản_trị cơ_sở dữ_liệu ( CSDL ) , thông_tin dữ_liệu hệ_thống , thông_tin dữ_liệu nghiệp_vụ và các hạ_tầng kỹ_thuật ( hệ_thống máy_chủ ứng_dụng , máy_chủ CSDL , hệ_thống sao lưu , lưu_trữ dữ_liệu ) , … để đảm_bảo hoạt_động vận_hành , khai_thác của TABMIS , phục_vụ các hoạt_động_tác_nghiệp hàng ngày của các đơn_vị tham_gia vận_hành , khai_thác TABMIS . 
+
+2 . Môi_trường dự_phòng TABMIS : Là tập_hợp các thành_phần của hệ_thống được đặt tại Bộ Tài_chính , bao_gồm : phần_mềm ứng_dụng , hệ quản_trị CSDL , thông_tin dữ_liệu hệ_thống , thông_tin dữ_liệu nghiệp_vụ và các hạ_tầng kỹ_thuật ( hệ_thống máy_chủ ứng_dụng , máy_chủ CSDL , hệ_thống sao lưu , lưu_trữ dữ_liệu ) , … để dự_phòng đảm_bảo hoạt_động vận_hành , khai_thác của TABMIS , trong trường_hợp môi_trường sản_xuất TABMIS gặp sự_cố không hoạt_động được . 
+
+3 . Môi_trường phi sản_xuất : Là các môi_trường phục_vụ công_tác đào_tạo , kiểm_thử , phát_triển , nâng_cấp TABMIS , không thuộc môi_trường sản_xuất và môi_trường dự_phòng của TABMIS . 
+
+4 . Kho dữ_liệu TABMIS ( DW ) : Là kho dữ_liệu độc_lập và được vận_hành song_song với môi_trường sản_xuất TABMIS , dùng để khai_thác báo_cáo cho các đơn_vị vận_hành TABMIS ( ngoài việc khai_thác trực_tiếp trên môi_trường sản_xuất TABMIS ) .  Dữ_liệu trên DW được đồng_bộ hàng ngày từ môi_trường sản_xuất TABMIS , bao_gồm : Số_dư đầu tháng 1 của các năm ;  Số phát_sinh các tổ_hợp tài_khoản được cập_nhật theo ngày hiệu_lực và đáp_ứng được việc khai_thác báo_cáo theo 12 phân_đoạn tổ_hợp tài_khoản kế_toán . 
+
+5 . Kho dữ_liệu tài_chính ngân_sách quốc_gia ( NDWS ) : Là kho dữ_liệu thu_chi NSNN do Cục Tin_học và Thống_kê tài_chính-Bộ Tài_chính quản_lý , trong đó chứa dữ_liệu từ TABMIS , để lập báo_cáo theo các thông_tin khác nhau , tại các thời_điểm khác nhau phục_vụ quản_lý và điều_hành tài_chính và ngân_sách .  Số_liệu theo tổ_hợp tài_khoản của TABMIS được tổng_hợp theo ngày phát_sinh và được giao_diện từ TABMIS sang Kho dữ_liệu tài_chính ngân_sách quốc_gia theo tần_suất hàng tuần . 
+
+Điều 3 .  Thành_viên tham_gia TABMIS 
+
+1 . Đơn_vị tham_gia vận_hành , khai_thác TABMIS 
+
+a ) Các đơn_vị thuộc Bộ Tài_chính , gồm : Vụ Ngân_sách Nhà_nước , Vụ Đầu_tư , Vụ Tài_chính Hành_chính sự_nghiệp , Vụ Tài_chính các ngân_hàng và tổ_chức tài_chính , Cục Tài_chính doanh_nghiệp , Vụ I , Cục Quản_lý nợ và Tài_chính đối_ngoại , Tổng_cục Dự_trữ Nhà_nước , Cục Tin_học và Thống_kê tài_chính , các đơn_vị khác có liên_quan ( nếu có ) ; 
+
+b ) Các cơ_quan_tài_chính địa_phương , gồm : Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương ( Sở Tài_chính tỉnh ) ;  Phòng Tài_chính-Kế_hoạch các quận , huyện , thị_xã , thành_phố trực_thuộc tỉnh ( Phòng Tài_chính-Kế_hoạch huyện ) ; 
+
+c ) Các đơn_vị thuộc hệ_thống Kho_bạc Nhà_nước , gồm : Các đơn_vị thuộc KBNN , KBNN các tỉnh , thành_phố trực_thuộc Trung_ương ( KBNN tỉnh ) ;  KBNN các quận , huyện , thị_xã , thành_phố trực_thuộc tỉnh ( KBNN huyện ) . 
+
+d ) Các đơn_vị dự_toán cấp 1 và các đơn_vị dự_toán trung_gian ( các đơn_vị trung_gian giữa đơn_vị dự_toán cấp 1 và đơn_vị sử_dụng ngân_sách ) được ủy_quyền của đơn_vị cấp trên thuộc ngân_sách trung_ương và địa_phương thực_hiện phân_bổ , giao dự_toán trên hệ_thống . 
+
+2 . Đơn_vị quản_trị vận_hành , khai_thác TABMIS 
+
+Đơn_vị quản_trị vận_hành , khai_thác TABMIS là Cục Tin_học và Thống_kê tài_chính và Kho_bạc Nhà_nước , có trách_nhiệm giám_sát , phối_hợp thực_hiện công_tác quản_trị vận_hành , khai_thác TABMIS . 
+
+3 . Bộ_phận hỗ_trợ người sử_dụng TABMIS 
+
+Bộ_phận hỗ_trợ người sử_dụng TABMIS là bộ_phận chủ_trì công_tác tiếp_nhận yêu_cầu và hỗ_trợ người sử_dụng xử_lý các vướng_mắc phát_sinh trong quá_trình khai_thác vận_hành hệ_thống . 
+
+Tại trung_ương , bộ_phận hỗ_trợ được đặt tại KBNN , đảm_bảo các hoạt_động hỗ_trợ người sử_dụng trên toàn_quốc xử_lý các vướng_mắc phát_sinh trong quá_trình khai_thác vận_hành hệ_thống . 
+
+Tại tỉnh , thành_phố trực_thuộc trung_ương , bộ_phận hỗ_trợ được Giám_đốc KBNN và Giám_đốc Sở Tài_chính phân_công_cụ_thể , đảm_bảo các hoạt_động hỗ_trợ người sử_dụng trên địa_bàn xử_lý các vướng_mắc phát_sinh trong quá_trình vận_hành , khai_thác hệ_thống . 
+
+4 . Đơn_vị khác có liên_quan 
+
+Là đơn_vị sử_dụng ngân_sách , chủ đầu_tư , các đơn_vị khác có giao_dịch với KBNN . 
+
+Điều 4 .  Trách_nhiệm của cơ_quan_tài_chính các cấp 
+
+1 . Các đơn_vị thuộc và trực_thuộc Bộ Tài_chính có trách_nhiệm dự_thảo và trình Bộ_trưởng Bộ Tài_chính các văn_bản pháp_lý phục_vụ vận_hành , khai_thác hệ_thống ;  báo_cáo cơ_quan nhà_nước có thẩm_quyền quyết_định các phương_án quản_lý , điều_hành NSNN trong phạm_vi trách_nhiệm quản_lý phù_hợp với điều_kiện vận_hành , khai_thác trên TABMIS ;  hướng_dẫn và phối_hợp với các đơn_vị có liên_quan cùng cấp ngân_sách để tổ_chức thực_hiện ; 
+
+2 . Căn_cứ vào quyết_định giao dự_toán , quyết_định điều_chỉnh dự_toán thực_hiện nhập , phê_duyệt phân_bổ và điều_chỉnh dự_toán của các đơn_vị trong phạm_vi quản_lý theo quy_định của Chế_độ kế_toán nhà_nước áp_dụng cho TABMIS và quy_trình nghiệp_vụ .  Thủ_trưởng các đơn_vị thuộc cơ_quan_tài_chính chịu trách_nhiệm tổ_chức , chỉ_đạo và thực_hiện theo quy_định đảm_bảo toàn_bộ số dự_toán đã giao được nhập kịp_thời vào hệ_thống đến từng đơn_vị dự_toán , chủ đầu_tư , đơn_vị sử_dụng ngân_sách nhà_nước liên_quan ; 
+
+3 . Thực_hiện_nhập Lệnh chi tiền theo quy_trình của hệ_thống theo đúng quy_định của Chế_độ kế_toán nhà_nước áp_dụng cho TABMIS và quy_trình nghiệp_vụ , đảm_bảo quy_trình kiểm_soát dự_toán theo hình_thức Lệnh chi tiền và số_liệu báo_cáo được kịp_thời , đầy_đủ , chính_xác ; 
+
+4 . Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS thuộc trách_nhiệm của cơ_quan_tài_chính theo hướng_dẫn của Bộ Tài_chính và Kho_bạc Nhà_nước về các hoạt_động rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm ; 
+
+5 . Thực_hiện quy_trình về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định ; 
+
+6 . Trực_tiếp truy vấn số_dư tài_khoản của các đơn_vị có quan_hệ với ngân_sách , khai_thác các thông_tin , báo_cáo thu , chi NSNN theo phân_quyền và yêu_cầu quản_lý , trình các cấp có thẩm_quyền ; 
+
+7 . Thực_hiện các quy_trình khác trên hệ_thống theo yêu_cầu nghiệp_vụ và hướng_dẫn cụ_thể của Bộ Tài_chính , KBNN ; 
+
+8 . Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu kế_toán theo quy_định ; 
+
+9 . Phối_hợp chặt_chẽ với đơn_vị có liên_quan để xử_lý những vấn_đề phát_sinh trong quá_trình thực_hiện quy_trình hệ_thống , nhiệm_vụ được giao . 
+
+Điều 5 .  Trách_nhiệm của Kho_bạc Nhà_nước các cấp 
+
+1 . Kho_bạc Nhà_nước có trách_nhiệm dự_thảo và trình Bộ_trưởng Bộ Tài_chính các văn_bản hướng_dẫn kế_toán nhà_nước áp_dụng cho TABMIS ;  Quy_chế vận_hành đối_với công_tác quản_trị , vận_hành TABMIS ;  Quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS ;  ban_hành các văn_bản hướng_dẫn về kế_toán nhà_nước áp_dụng cho TABMIS , văn_bản hướng_dẫn vận_hành , quản_lý hệ_thống theo ủy_quyền của Bộ_trưởng Bộ Tài_chính ; 
+
+2 . Thực_hiện nhập , phân_bổ dự_toán của các đơn_vị dự_toán trung_gian giao cho đơn_vị sử_dụng ngân_sách theo quy_trình phân_bổ dự_toán từ đơn_vị cấp trung_gian đến đơn_vị sử_dụng ngân_sách ; 
+
+3 . Đối_với ngân_sách xã , KBNN huyện thực_hiện nhập , phê_duyệt phân_bổ , điều_chỉnh dự_toán ( trong trường_hợp cơ_quan_tài_chính chưa tổ_chức nhập ) và nhập Lệnh chi tiền thuộc ngân_sách xã theo quy_trình hệ_thống ; 
+
+4 . Căn_cứ dự_toán do cơ_quan_tài_chính , các đơn_vị dự_toán hoặc do đơn_vị KBNN nhập vào TABMIS thực_hiện kiểm_soát , thanh_toán cho các đơn_vị thụ_hưởng và hạch_toán kế_toán trên TABMIS theo quy_định tại Chế_độ kế_toán Nhà_nước áp_dụng cho TABMIS .  Trường_hợp cơ_quan_tài_chính chưa kịp_thời nhập dự_toán vào hệ_thống , thực_hiện nhập dự_toán tạm cấp và hủy dự_toán tạm cấp theo hướng_dẫn của cơ_quan nhà_nước có thẩm_quyền ; 
+
+5 . Khai_thác thông_tin , dữ_liệu báo_cáo theo phân_quyền trên hệ_thống để cung_cấp cho cơ_quan_tài_chính và báo_cáo các cấp có thẩm_quyền theo quy_định của pháp_luật ; 
+
+6 . Thực_hiện chuyển ( giao_diện ) dữ_liệu từ hệ_thống TABMIS sang Kho dữ_liệu tài_chính ngân_sách Quốc_gia ( NDWS ) , nhận dữ_liệu từ Cơ_sở dữ_liệu danh_mục dùng chung của ngành tài_chính ( đặt tại Bộ Tài_chính ) vào TABMIS .  Chủ_trì , phối_hợp với Cục Tin_học và Thống_kê tài_chính trong việc kiểm_tra , đối soát dữ_liệu giữa hệ_thống TABMIS và các CSDL nêu trên ; 
+
+7 . Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS thuộc trách_nhiệm của KBNN theo hướng_dẫn của Bộ Tài_chính về các hoạt_động rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm ; 
+
+8 . Tổ_chức thực_hiện , hỗ_trợ và hướng_dẫn các đơn_vị thành_viên thực_hiện quy_trình về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định ; 
+
+9 . Là đầu_mối tiếp_nhận , hỗ_trợ người dùng trong quá_trình vận_hành , khai_thác TABMIS theo quy_định của Bộ Tài_chính .  Phối_hợp với cơ_quan_tài_chính đồng cấp và các đơn_vị liên_quan đảm_bảo hiệu_quả công_tác hỗ_trợ người sử_dụng ; 
+
+10 .  Thực_hiện các hoạt_động thiết_lập thông_tin , dữ_liệu để đảm_bảo vận_hành hệ_thống ;  quản_lý hoạt_động của môi_trường sản_xuất TABMIS , các môi_trường phi sản_xuất đảm_bảo an_toàn hệ_thống trong quá_trình vận_hành ; 
+
+11 .  Đối_chiếu số_liệu với các đơn_vị giao_dịch với KBNN theo quy_định ; 
+
+12 .  Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu liên_quan theo quy_định ; 
+
+13 .  Phối_hợp chặt_chẽ với đơn_vị thành_viên có liên_quan để xử_lý những vấn_đề phát_sinh trong quá_trình thực_hiện quy_trình hệ_thống ; 
+
+14 .  Tổ_chức công_tác đào_tạo liên_quan đến vận_hành , khai_thác hệ_thống theo phương_án được Bộ Tài_chính phê_duyệt ; 
+
+15 .  Thực_hiện các quy_trình khác trên hệ_thống theo yêu_cầu nghiệp_vụ và hướng_dẫn của Bộ Tài_chính và Kho_bạc Nhà_nước . 
+
+Điều 6 .  Trách_nhiệm của các đơn_vị dự_toán 
+
+1 . Nhập dự_toán vào TABMIS ( đối_với đơn_vị tham_gia trực_tiếp ) hoặc cung_cấp dữ_liệu về dự_toán gửi cơ_quan_tài_chính cùng cấp ( trường_hợp chưa tham_gia trực_tiếp TABMIS ) theo hướng_dẫn cụ_thể của Bộ Tài_chính và KBNN ; 
+
+2 . Truy_vấn báo_cáo theo phân_quyền của Bộ Tài_chính ( đối_với đơn_vị tham_gia trực_tiếp ) ; 
+
+3 . Đối_chiếu số_liệu với KBNN theo quy_định ; 
+
+4 . Thực_hiện các hoạt_động khác theo hướng_dẫn của Bộ Tài_chính và KBNN . 
+
+Điều 7 .  Nguyên_tắc nhập dự_toán và Lệnh chi tiền 
+
+1 . Đảm_bảo nhập kịp_thời theo thời_hạn quy_định đối_với từng trường_hợp cụ_thể quy_định trong Thông_tư này . 
+
+2 . Đảm_bảo nhập đầy_đủ theo văn_bản giao dự_toán của cấp có thẩm_quyền , các đơn_vị không được tự_ý tách nhỏ số_lượng được ghi trong văn_bản giao dự_toán để nhập nhiều lần , trong các thời_điểm khác nhau . 
+
+3 . Việc_nhập Lệnh chi tiền phải đảm_bảo đúng nội_dung và tài_khoản kế_toán theo quy_định .  Trường_hợp hạch_toán vào tài_khoản không kiểm_soát dự_toán đối_với các nhiệm_vụ chi ngân_sách không phải nhập dự_toán vào TABMIS phải được quy_định trong Quy_chế phân_công trách_nhiệm nhập dự_toán đối_với ngân_sách trung_ương ( NSTW ) hoặc ngân_sách địa_phương ( NSĐP ) . 
+
+Điều 8 .  Nội_dung công_việc vận_hành , khai_thác và đảm_bảo điều_kiện vận_hành , khai_thác của các đơn_vị thuộc Bộ Tài_chính 
+
+1 . Vụ Ngân_sách nhà_nước 
+
+a ) Nghiên_cứu , xây_dựng , trình Bộ_trưởng Bộ Tài_chính và hướng_dẫn tổ_chức thực_hiện các nội_dung về cơ_chế quản_lý , điều_hành NSNN ; tổ_chức xây_dựng dự_toán , chấp_hành dự_toán và quyết_toán NSNN ; xử_lý ngân_sách cuối năm , lập và báo_cáo quyết_toán NSNN hàng năm trong điều_kiện vận_hành , khai_thác TABMIS được quy_định trong các văn_bản hướng_dẫn thi_hành <L rel="Others"> Luật NSNN </L> .
+b ) Chủ_trì phương_án hỗ_trợ , hướng_dẫn các đơn_vị tham_gia vận_hành , khai_thác TABMIS về cơ_chế quản_lý điều_hành NSNN trong điều_kiện vận_hành TABMIS . 
+
+c ) Trình Bộ_trưởng Bộ Tài_chính ban_hành Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán , Lệnh chi tiền thuộc NSTW hàng năm vào TABMIS theo từng nhiệm_vụ chi cụ_thể . 
+
+d ) Căn_cứ nhiệm_vụ được nêu trong Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán , lệnh chi tiền thuộc NSTW hàng năm vào TABMIS ; căn_cứ văn_bản giao dự_toán , tạm cấp , tạm_ứng , ứng trước , trực_tiếp thực_hiện quy_trình nhập , phê_duyệt dự_toán cấp 0 , dự_toán ứng trước cấp 1 , dự_toán phân_bổ từ cấp 0 đến cấp 1 , từ cấp 0 đến cấp 4 ; Quy_trình nhập , phê_duyệt lệnh chi tiền thuộc NSTW theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC ngày 10/01/2013 </TT> của Bộ_trưởng Bộ Tài_chính về việc hướng_dẫn Kế_toán nhà_nước áp_dụng cho TABMIS và các văn_bản hướng_dẫn thực_hiện ;
+Thời_hạn nhập , phê_duyệt dự_toán không quá 7 ngày làm_việc , kể từ ngày nhận được văn_bản giao dự_toán ; 
+
+Trường_hợp giao bổ_sung và điều_chỉnh theo quyết_định của cấp có thẩm_quyền không quá 3 ngày làm_việc ; 
+
+Thời_hạn nhập , phê_duyệt Lệnh chi tiền không quá 3 ngày làm_việc , kể từ ngày ký Lệnh chi tiền .  Việc_nhập Lệnh chi tiền phải đúng tài_khoản kế_toán theo quy_định để kiểm_soát dự_toán . 
+
+e ) Trực_tiếp nhập dự_toán chi chuyển_giao ( kể_cả dự_toán ứng trước ) NSTW cho ngân_sách tỉnh theo phương_án được giao ;  theo_dõi , chỉ_đạo cơ_quan_tài_chính cấp tỉnh đảm_bảo rút dự_toán chi chuyển_giao đúng theo quy_định ; 
+
+Thời_hạn nhập , phê_duyệt không quá 5 ngày làm_việc , kể từ ngày nhận được văn_bản giao dự_toán , trường_hợp giao bổ_sung và điều_chỉnh không quá 3 ngày làm_việc . 
+
+f ) Chủ_trì phối_hợp với các đơn_vị có liên_quan rà_soát , đảm_bảo khớp đúng số dự_toán , Lệnh chi tiền đã nhập ;  xem_xét và có phương_án xử_lý theo đúng tiến_độ quy_định đối_với số dự_toán còn dư tại thời_điểm cuối kỳ ; 
+
+Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS theo đúng trách_nhiệm của Vụ NSNN quy_định tại các văn_bản hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm . 
+
+g ) Trực_tiếp khai_thác các thông_tin , báo_cáo về NSTW theo phân_quyền để báo_cáo Lãnh_đạo Bộ Tài_chính phục_vụ công_tác quản_lý điều_hành NSTW ; 
+
+Trực_tiếp truy vấn số_dư tài_khoản của các đơn_vị có quan_hệ với ngân_sách thuộc NSTW phục_vụ công_tác quản_lý , điều_hành ngân_sách . 
+
+h ) Tiếp_nhận các báo_cáo thu , chi NSNN theo quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> do KBNN cung_cấp .
+i ) Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu liên_quan theo quy_định . 
+
+k ) Thực_hiện các quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS . 
+
+l ) Chủ_trì phối_hợp với các đơn_vị để xử_lý các vấn_đề phát_sinh liên_quan đến quy_trình NSNN trong điều_kiện triển_khai TABMIS , trường_hợp cần_thiết kịp_thời báo_cáo Bộ Tài_chính để có phương_án xử_lý . 
+
+2 . Vụ Tài_chính hành_chính sự_nghiệp 
+
+a ) Phối_hợp với các đơn_vị nghiên_cứu , trình Bộ_trưởng Bộ Tài_chính và hướng_dẫn tổ_chức thực_hiện các nội_dung về cơ_chế quản_lý , điều_hành NSNN ; tổ_chức xây_dựng dự_toán , chấp_hành dự_toán và quyết_toán NSNN ; xử_lý ngân_sách cuối năm , lập và báo_cáo quyết_toán NSNN hàng năm đối_với kinh_phí thường_xuyên trong điều_kiện vận_hành , khai_thác TABMIS được quy_định trong các văn_bản hướng_dẫn thi_hành <L rel="Others"> Luật NSNN </L> .
+b ) Đối_với kinh_phí chi thường_xuyên thuộc NSTW , thực_hiện quy_trình nhập , phê_duyệt dự_toán cho các đơn_vị căn_cứ nhiệm_vụ được nêu trong Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán chi NSTW hàng năm vào TABMIS theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> và các văn_bản hướng_dẫn thực_hiện ;
+Thời_hạn nhập , phê_duyệt dự_toán không quá 7 ngày làm_việc kể từ ngày nhận được văn_bản giao dự_toán ( đối_với dự_toán năm giao chính_thức ) ; 
+
+Thời_hạn phê_duyệt dự_toán do các đơn_vị khác nhập không quá 2 ngày làm_việc sau khi các đơn_vị khác hoàn_tất công_việc của mình trên hệ_thống . 
+
+c ) Chủ_trì phối_hợp với các đơn_vị liên_quan để rà_soát , đảm_bảo khớp đúng số dự_toán chi thường_xuyên đã nhập ;  xem_xét và có phương_án xử_lý theo đúng thời_hạn quy_định đối_với số dự_toán chi thường_xuyên còn dư tại thời_điểm cuối kỳ ; 
+
+Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS theo đúng trách_nhiệm của Vụ Tài_chính HCSN được quy_định tại các văn_bản hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm . 
+
+d ) Trực_tiếp khai_thác các thông_tin , báo_cáo về chi thường_xuyên NSTW theo phân_quyền phục_vụ yêu_cầu quản_lý hoặc trình Lãnh_đạo Bộ Tài_chính phục_vụ công_tác quản_lý và điều_hành NSTW ; 
+
+Trực_tiếp truy vấn số_dư tài_khoản chi thường_xuyên của các đơn_vị có quan_hệ với ngân_sách thuộc NSTW . 
+
+e ) Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu liên_quan theo quy_định . 
+
+f ) Thực_hiện các quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS . 
+
+g ) Chủ_trì phối_hợp với các đơn_vị để xử_lý các vấn_đề phát_sinh liên_quan đến chi thường_xuyên trong điều_kiện triển_khai TABMIS , trường_hợp cần_thiết kịp_thời báo_cáo Bộ Tài_chính để có phương_án xử_lý . 
+
+3 . Vụ Đầu_tư 
+
+a ) Phối_hợp với các đơn_vị nghiên_cứu , trình Bộ_trưởng Bộ Tài_chính và hướng_dẫn tổ_chức thực_hiện các nội_dung về cơ_chế quản_lý , điều_hành NSNN ; tổ_chức xây_dựng dự_toán , chấp_hành dự_toán và quyết_toán NSNN ; xử_lý ngân_sách cuối năm , lập và báo_cáo quyết_toán NSNN hàng năm đối_với kinh_phí chi đầu_tư liên_quan đến vận_hành TABMIS được quy_định trong các văn_bản hướng_dẫn thi_hành <L rel="Others"> Luật NSNN </L> .
+b ) Đối_với kinh_phí chi đầu_tư thuộc NSTW , thực_hiện quy_trình nhập , phê_duyệt dự_toán cho các đơn_vị căn_cứ nhiệm_vụ được nêu trong Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán chi NSTW hàng năm vào TABMIS theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> và các văn_bản hướng_dẫn thực_hiện .
+Trường_hợp giao bổ_sung và điều_chỉnh theo quyết_định của cấp có thẩm_quyền không quá 3 ngày làm_việc ( kể_cả trường_hợp điều_chỉnh ) ; 
+
+c ) Chủ_trì phối_hợp với các đơn_vị liên_quan rà_soát , đảm_bảo khớp đúng số dự_toán chi đầu_tư đã nhập ;  xem_xét và có phương_án xử_lý theo đúng thời_hạn quy_định đối_với số dự_toán chi đầu_tư còn dư tại thời_điểm cuối kỳ ; 
+
+Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS theo đúng trách_nhiệm của Vụ Đầu_tư được quy_định tại các văn_bản hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm . 
+
+d ) Trực_tiếp khai_thác các thông_tin , báo_cáo chi đầu_tư NSTW theo phân_quyền phục_vụ yêu_cầu quản_lý hoặc trình Lãnh_đạo Bộ Tài_chính phục_vụ công_tác quản_lý và điều_hành NSTW ; 
+
+Trực_tiếp truy vấn số_dư tài_khoản chi đầu_tư của các đơn_vị có quan_hệ với ngân_sách , dự_án đầu_tư thuộc NSTW . 
+
+g ) Chủ_trì phối_hợp với các đơn_vị để xử_lý các vấn_đề phát_sinh liên_quan đến chi đầu_tư trong điều_kiện triển_khai TABMIS , trường_hợp cần_thiết kịp_thời báo_cáo Bộ Tài_chính để có phương_án xử_lý . 
+
+4 . Các Vụ tài_chính chuyên_ngành khác 
+
+a ) Phối_hợp với các đơn_vị nghiên_cứu , trình Bộ_trưởng Bộ Tài_chính và hướng_dẫn tổ_chức thực_hiện các nội_dung về cơ_chế quản_lý , điều_hành NSNN ; tổ_chức xây_dựng dự_toán , chấp_hành dự_toán và quyết_toán NSNN ; xử_lý ngân_sách cuối năm , lập và báo_cáo quyết_toán NSNN hàng năm đối_với số kinh_phí chi NSNN thuộc phạm_vi đơn_vị quản_lý liên_quan đến vận_hành TABMIS được quy_định trong các văn_bản hướng_dẫn thi_hành <L rel="Others"> Luật NSNN </L> .
+b ) Đối_với kinh_phí thuộc phạm_vi đơn_vị quản_lý , thực_hiện quy_trình nhập , phê_duyệt dự_toán cho các đơn_vị , Lệnh chi tiền ( nếu có ) căn_cứ nhiệm_vụ được nêu trong Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán chi NSTW hàng năm vào TABMIS theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> và các văn_bản hướng_dẫn thực_hiện ;
+Thời_hạn nhập , phê_duyệt dự_toán không quá 7 ngày làm_việc kể từ ngày nhận được văn_bản giao dự_toán ; 
+
+c ) Phối_hợp với các đơn_vị rà_soát , đảm_bảo khớp đúng số dự_toán thuộc phạm_vi quản_lý , xem_xét và có phương_án xử_lý theo đúng tiến_độ quy_định đối_với số_dư dự_toán thuộc phạm_vi quản_lý tại thời_điểm cuối kỳ ; 
+
+Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS theo đúng trách_nhiệm của đơn_vị quy_định trong các văn_bản hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , công_văn khóa sổ và quyết_toán ngân_sách hàng năm . 
+
+d ) Trực_tiếp khai_thác các thông_tin , báo_cáo chi NSTW theo phân_quyền để trình lãnh_đạo Bộ Tài_chính phục_vụ công_tác quản_lý và điều_hành NSTW ; 
+
+Trực_tiếp truy vấn số_dư tài_khoản của các đơn_vị có quan_hệ với ngân_sách thuộc NSTW trong phạm_vi quản_lý . 
+
+g ) Từng đơn_vị chịu trách_nhiệm chủ_trì phối_hợp với các đơn_vị khác để xử_lý các vấn_đề phát_sinh do đơn_vị mình quản_lý trong điều_kiện triển_khai TABMIS , trường_hợp cần_thiết kịp_thời báo_cáo Bộ Tài_chính để có phương_án xử_lý . 
+
+5 . Cục Tin_học và Thống_kê tài_chính-Bộ Tài_chính 
+
+a ) Chịu trách_nhiệm quản_lý cơ_sở dữ_liệu danh_mục dùng chung của ngành tài_chính ;  phối_hợp với các đơn_vị liên_quan trong việc cập_nhật , điều_chỉnh giá_trị các đoạn mã trên cơ_sở dữ_liệu danh_mục dùng chung và cung_cấp dữ_liệu dùng chung vào bảng trung_gian TABMIS đảm_bảo kịp_thời , chính_xác . 
+
+b ) Quản_lý mạng trục hạ_tầng truyền_thông phục_vụ vận_hành , khai_thác TABMIS .  Quản_lý , đảm_bảo hoạt_động liên_tục của môi_trường dự_phòng TABMIS , bao_gồm : Quản_lý trang_thiết_bị , hạ_tầng kỹ_thuật , an_toàn dữ_liệu và quản_trị hệ_thống ; 
+
+Phối_hợp với KBNN và đơn_vị có liên_quan khác thực_hiện chuyển từ môi_trường sản_xuất TABMIS sang môi_trường dự_phòng khi có yêu_cầu và ngược_lại . 
+
+c ) Chủ_trì báo_cáo Bộ Tài_chính phương_án mua bổ_sung bản_quyền , dịch_vụ hỗ_trợ ứng_dụng và các phần_mềm kỹ_thuật khác phù_hợp với thực_tế yêu_cầu vận_hành TABMIS . 
+
+d ) Thực_hiện nhận dữ_liệu từ TABMIS vào Kho dữ_liệu tài_chính ngân_sách quốc_gia ;  phối_hợp với các đơn_vị liên_quan xử_lý các vấn_đề phát_sinh trong quá_trình truyền , nhận dữ_liệu đảm_bảo kịp_thời , chính_xác . 
+
+e ) Phối_hợp với KBNN xây_dựng trình Bộ_trưởng Bộ Tài_chính ban_hành và tổ_chức thực_hiện Quy_chế vận_hành đối_với công_tác quản_trị , vận_hành TABMIS . 
+
+f ) Phối_hợp với KBNN hỗ_trợ vận_hành TABMIS tại các cơ_quan_tài_chính các cấp , các đơn_vị thuộc hệ_thống KBNN , các bộ , ngành và các đơn_vị dự_toán tham_gia vận_hành TABMIS . 
+
+g ) Phối_hợp với KBNN trong quá_trình vận_hành , nâng_cấp hệ_thống TABMIS đảm_bảo phù_hợp với công_tác quản_lý và chiến_lược phát_triển công_nghệ thông_tin trong ngành Tài_chính . 
+
+h ) Chủ_trì phối_hợp với các đơn_vị để xử_lý các vấn_đề phát_sinh trong quá_trình thực_hiện nhiệm_vụ được giao , trường_hợp cần_thiết kịp_thời báo_cáo Bộ Tài_chính để có phương_án xử_lý . 
+
+Điều 9 .  Nội_dung công_việc tổ_chức vận_hành , khai_thác và đảm_bảo vận_hành hệ_thống của cơ_quan_tài_chính địa_phương 
+
+1 . Sở Tài_chính tỉnh 
+
+a ) Công_việc tổ_chức vận_hành , khai_thác : 
+
+- Tổ_chức quán_triệt và thực_hiện các văn_bản , hướng_dẫn về quản_lý , điều_hành ngân_sách ;  Kế_toán nhà_nước áp_dụng cho TABMIS của Bộ Tài_chính và KBNN ; 
+
+- Ban_hành các văn_bản hướng_dẫn thuộc thẩm_quyền để tổ_chức vận_hành , khai_thác TABMIS , phù_hợp với điều_kiện của địa_phương trên cơ_sở hướng_dẫn của Bộ Tài_chính và KBNN ; 
+
+Chủ_trì phối_hợp với KBNN đồng cấp và các đơn_vị khác để ban_hành Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán chi ngân_sách và Lệnh chi tiền của NSĐP vào TABMIS áp_dụng riêng cho tỉnh dựa trên Quy_chế mẫu phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán chi ngân_sách và Lệnh chi tiền của NSĐP vào TABMIS của Bộ_trưởng Bộ Tài_chính ; 
+
+- Căn_cứ nhiệm_vụ phân_công trong Quy_chế phân_công trách_nhiệm áp_dụng riêng của từng địa_phương , trực_tiếp thực_hiện nhập , phê_duyệt dự_toán , lệnh chi tiền Ngân_sách cấp tỉnh hoặc NSTW giao cho địa_phương nhập và phân_bổ theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> và các văn_bản hướng_dẫn thực_hiện ;
+- Thời_hạn nhập dự_toán , Lệnh chi tiền : 
+
++ Đối_với quy_trình nhập , phân_bổ , phê_duyệt dự_toán cấp 0 , dự_toán ứng trước cấp 1 , dự_toán chi chuyển_giao : không quá 5 ngày làm_việc kể từ ngày nhận được văn_bản giao dự_toán .  Trường_hợp giao bổ_sung và điều_chỉnh không quá 3 ngày làm_việc ; 
+
++ Đối_với quy_trình phân_bổ từ cấp 1 đến cấp 4 ( đơn_vị sử_dụng ngân_sách ) tùy theo từng khối_lượng bút_toán ( ví_dụ phân_bổ kinh_phí ngành giáo_dục , y_tế , dự_án ) : không quá 10 ngày làm_việc kể từ ngày nhận được văn_bản giao dự_toán , trường_hợp giao bổ_sung và điều_chỉnh không quá 5 ngày làm_việc ; 
+
++ Thời_hạn nhập , phê_duyệt Lệnh chi tiền không quá 3 ngày làm_việc , kể từ ngày ký Lệnh chi tiền . 
+
+- Phối_hợp với các đơn_vị để rà_soát , đảm_bảo khớp đúng số dự_toán chi ngân_sách tỉnh thuộc địa_phương quản_lý , xem_xét và có phương_án xử_lý theo đúng thời_hạn quy_định đối_với số dự_toán chi ngân_sách tỉnh còn dư tại thời_điểm cuối kỳ ; 
+
+Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS theo đúng trách_nhiệm của cơ_quan_tài_chính cấp tỉnh quy_định trong văn_bản hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , công_văn khóa sổ và quyết_toán ngân_sách hàng năm ; 
+
+- Chủ_động và trực_tiếp khai_thác các thông_tin , báo_cáo về ngân_sách cấp tỉnh theo phân_quyền để trình Ủy_ban nhân_dân cấp tỉnh phục_vụ công_tác quản_lý điều_hành NSĐP ; 
+
+Trực_tiếp truy vấn số_dư tài_khoản của các đơn_vị có quan_hệ với ngân_sách thuộc phạm_vi quản_lý phục_vụ điều_hành ngân_sách cấp tỉnh , thành_phố ; 
+
+- Tiếp_nhận các báo_cáo theo quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> do KBNN tỉnh cung_cấp để tổng_hợp báo_cáo quyết_toán NSĐP ;
+- Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu liên_quan theo quy_định . 
+
+b ) Công_việc đảm_bảo điều_kiện vận_hành , khai_thác hệ_thống : 
+
+- Thực_hiện kết_hợp tổ_hợp tài_khoản phục_vụ_việc nhập dự_toán trong bộ sổ tỉnh và các quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS ; 
+
+- Trực_tiếp cài_đặt , thiết_lập môi_trường ( máy trạm , hạ_tầng truyền_thông ) sẵn_sàng cho việc vận_hành TABMIS ;  kiểm_tra , xử_lý kịp_thời các sự_cố liên_quan môi_trường tại Sở Tài_chính , các phòng Tài_chính-Kế_hoạch trên địa_bàn ; 
+
+- Tổ_chức công_tác hỗ_trợ người sử_dụng TABMIS tại các phòng chuyên_môn thuộc Sở và các phòng Tài_chính-Kế_hoạch trên địa_bàn ;  kịp_thời trao_đổi , phản_ánh các vướng_mắc phát_sinh về KBNN để phối_hợp giải_quyết ; 
+
+- Chịu trách_nhiệm về việc đảm_bảo an_toàn , bảo_mật thông_tin trong quá_trình vận_hành , khai_thác TABMIS đối_với các đơn_vị tài_chính trên địa_bàn . 
+
+2 . Phòng Tài_chính-Kế_hoạch_huyện 
+
+a ) Căn_cứ nhiệm_vụ phân_công trong Quy_chế phân_công trách_nhiệm áp_dụng riêng của từng tỉnh , thành_phố , trực_tiếp thực_hiện nhập , phê_duyệt dự_toán , Lệnh chi tiền Ngân_sách cấp huyện và dự_toán ngân_sách cấp xã ( trường_hợp cơ_quan_tài_chính tổ_chức nhập ) theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> và các văn_bản hướng_dẫn thực_hiện ;
+Thời_hạn nhập dự_toán , Lệnh chi tiền : 
+
+b ) Phối_hợp với các đơn_vị để rà_soát , đảm_bảo khớp đúng số dự_toán chi ngân_sách cấp huyện , ngân_sách cấp xã thuộc địa_phương quản_lý , xem_xét và có phương_án xử_lý theo đúng thời_hạn quy_định đối_với số dự_toán chi ngân_sách huyện còn dư tại thời_điểm cuối kỳ ; 
+
+Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS theo đúng trách_nhiệm của cơ_quan_tài_chính cấp huyện quy_định tại văn_bản hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , công_văn khóa sổ và quyết_toán ngân_sách hàng năm ; 
+
+c ) Chủ_động và trực_tiếp khai_thác các thông_tin , báo_cáo về ngân_sách cấp huyện theo phân_quyền để trình Ủy_ban nhân_dân cấp huyện phục_vụ công_tác quản_lý điều_hành ngân_sách của địa_phương ; 
+
+Trực_tiếp truy vấn số_dư tài_khoản của các đơn_vị có quan_hệ với ngân_sách thuộc phạm_vi quản_lý phục_vụ điều_hành ngân_sách cấp huyện ; 
+
+d ) Tiếp_nhận các báo_cáo theo quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> do KBNN huyện tại địa_phương cung_cấp để tổng_hợp báo_cáo quyết_toán ngân_sách huyện ;
+e ) Chịu trách_nhiệm về việc đảm_bảo an_toàn , bảo_mật thông_tin trong quá_trình vận_hành , khai_thác TABMIS tại đơn_vị ; 
+
+f ) Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu liên_quan theo quy_định ; 
+
+g ) Thực_hiện các quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS . 
+
+Điều 10 .  Nội_dung công_việc tổ_chức vận_hành , khai_thác và đảm_bảo điều_kiện vận_hành , khai_thác hệ_thống của KBNN 
+
+1 . Kho_bạc Nhà_nước 
+
+a ) Công_việc tổ_chức vận_hành , khai_thác 
+
+a1 ) Trình Bộ_trưởng Bộ Tài_chính ký ban_hành , hoặc ban_hành theo thẩm_quyền các văn_bản hướng_dẫn về kế_toán nhà_nước áp_dụng cho TABMIS , các văn_bản hướng_dẫn về hoạt_động quản_trị vận_hành , khai_thác hệ_thống . 
+
+a2 ) Tổ_chức khai_thác dữ_liệu trên hệ_thống : 
+
+- Khai_thác , tổng_hợp_số_liệu trên bộ sổ hợp_nhất , các bộ sổ tỉnh theo các mẫu biểu quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> ;
+- Khai_thác dữ_liệu theo các chỉ_tiêu yêu_cầu trên Kho dữ_liệu TABMIS theo yêu_cầu quản_lý và báo_cáo các cấp có thẩm_quyền ; 
+
+- Truy_vấn số_dư tài_khoản , khai_thác các thông_tin , báo_cáo của các đơn_vị theo phân_quyền theo yêu_cầu quản_lý . 
+
+a3 ) Trách_nhiệm cung_cấp thông_tin báo_cáo : 
+
+- Báo_cáo Bộ_trưởng Bộ Tài_chính và các cấp có thẩm_quyền thông_tin về tình_hình thu_chi NSNN , vay nợ của NSNN và các thông_tin khác theo yêu_cầu quản_lý ; 
+
+- Định_kỳ cung_cấp các báo_cáo theo quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> theo quy_định , trường_hợp cần_thiết_thực_hiện theo chỉ_đạo của Lãnh_đạo Bộ Tài_chính và đề_nghị cụ_thể của các đơn_vị ;
+- Thực_hiện chuyển dữ_liệu từ TABMIS sang Kho dữ_liệu tài_chính ngân_sách quốc_gia , Kho dữ_liệu TABMIS . 
+
+a4 ) Tổ_chức các hoạt_động nghiệp_vụ để vận_hành hệ_thống : 
+
+- Tổ_chức thực_hiện quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS ; 
+
+- Quản_lý hoạt_động của môi_trường sản_xuất TABMIS , môi_trường phi sản_xuất : quản_lý quy_trình nghiệp_vụ TABMIS , hoạt_động kiểm_soát quy_trình nghiệp_vụ , hoạt_động đảm_bảo an_toàn thông_tin , dữ_liệu hệ_thống trong quá_trình vận_hành ; 
+
+- Thực_hiện tiếp_nhận yêu_cầu , tham_gia hỗ_trợ người sử_dụng trong quá_trình vận_hành , khai_thác TABMIS theo quy_định của Bộ Tài_chính ; 
+
+- Quản_lý việc mở , đóng kỳ trên bộ sổ hợp_nhất và các bộ sổ tỉnh ; 
+
+- Quản_lý việc thiết_lập các quy_tắc kiểm_soát nghiệp_vụ trên hệ_thống ; 
+
+- Chủ_trì phối_hợp với các đơn_vị liên_quan xử_lý các tình_huống phát_sinh đảm_bảo hiệu_quả công_tác hỗ_trợ người sử_dụng , trường_hợp cần_thiết báo_cáo Bộ Tài_chính phương_án xử_lý . 
+
+b ) Công_việc đảm_bảo điều_kiện vận_hành , khai_thác hệ_thống 
+
+b1 ) Tổ_chức hoạt_động quản_trị và hỗ_trợ kỹ_thuật để vận_hành hệ_thống : 
+
+- Quản_lý hoạt_động của môi_trường sản_xuất TABMIS , các môi_trường phi sản_xuất ( bao_gồm quản_lý về mặt kỹ_thuật của phần_mềm ứng_dụng và hạ_tầng kỹ_thuật phần_cứng tại KBNN ) đảm_bảo an_toàn hệ_thống trong quá_trình vận_hành ; 
+
+Đề_xuất Bộ_trưởng Bộ Tài_chính các biện_pháp kỹ_thuật và triển_khai các hoạt_động nhằm đảm_bảo hoạt_động ổn_định cho môi_trường sản_xuất và các môi_trường phi sản_xuất của TABMIS ; 
+
+Quản_lý vận_hành_hạ_tầng truyền_thông nhánh do KBNN quản_lý ; 
+
+- Trực_tiếp cài_đặt , thiết_lập môi_trường sẵn_sàng cho việc vận_hành ứng_dụng TABMIS , kiểm_tra , xử_lý kịp_thời khi có sự_cố liên_quan môi_trường tại các đơn_vị nghiệp_vụ thuộc Kho_bạc Nhà_nước ; 
+
+- Quản_lý phiên_bản_gốc của ứng_dụng TABMIS và quản_lý việc thay_đổi và nâng_cấp TABMIS ; 
+
+- Chủ_trì giám_sát các hoạt_động của đơn_vị cung_cấp dịch_vụ quản_trị hệ_thống TABMIS ; 
+
+- Chủ_trì phối_hợp với Cục Tin_học và Thống_kê tài_chính và đơn_vị cung_cấp dịch_vụ quản_trị thực_hiện việc chuyển môi_trường sản_xuất TABMIS sang hoạt_động tại môi_trường dự_phòng khi phát_sinh yêu_cầu ; 
+
+- Tổ_chức quản_lý cơ_sở dữ_liệu tập_trung toàn hệ_thống ;  thực_hiện các giải_pháp kỹ_thuật để đảm_bảo an_toàn thông_tin đối_với môi_trường sản_xuất TABMIS ; 
+
+- Quản_lý thực_hiện các hoạt_động thiết_lập thông_tin , dữ_liệu để đảm_bảo vận_hành hệ_thống , bao_gồm : 
+
++ Quản_lý và duy_trì , cập_nhật thông_tin nhân_viên , cây phê_duyệt , tập trách_nhiệm ( quyền ) và thông_tin người sử_dụng trong TABMIS ; 
+
++ Quản_lý giá_trị các phân_đoạn tổ_hợp tài_khoản kế_toán ;  thực_hiện đồng_bộ dữ_liệu từ cơ_sở dữ_liệu danh_mục dùng chung của ngành tài_chính về TABMIS ; 
+
++ Tổ_chức đăng_ký , quản_lý danh_mục nhà cung_cấp ( thông_tin chung nhà cung_cấp ) trên TABMIS ; 
+
++ Quản_lý các hoạt_động về mặt kỹ_thuật đối_với các chương_trình kết sổ tự_động , đồng_bộ hóa dự_toán NSTW ; 
+
++ Tạo mới , duy_trì và cập_nhật các thông_tin , dữ_liệu khác theo yêu_cầu quy_trình của hệ_thống ; 
+
++ Hỗ_trợ bộ_phận thiết_lập thông_tin , dữ_liệu để đảm_bảo vận_hành hệ_thống tại KBNN tỉnh ( Bộ_phận xử_lý trung_tâm tỉnh ) trong việc thực_hiện các công_việc được giao theo phân_quyền . 
+
+- Tổ_chức chuyển dữ_liệu từ TABMIS vào Kho dữ_liệu tài_chính ngân_sách quốc_gia , Kho dữ_liệu TABMIS .  Phối_hợp với các đơn_vị liên_quan xử_lý các vấn_đề phát_sinh trong quá_trình truyền , nhận dữ_liệu đảm_bảo chính_xác , kịp_thời ; 
+
+- Là đầu_mối tiếp_nhận , hỗ_trợ người sử_dụng người TABMIS theo quy_định của Bộ Tài_chính và KBNN ; 
+
+- Phối_hợp với các đơn_vị liên_quan trong việc xử_lý các vấn_đề phát_sinh liên_quan đến giải_pháp ứng_dụng TABMIS và các hệ_thống giao_diện với TABMIS ; 
+
+- Thực_hiện các quy_định khác theo hướng_dẫn của Bộ Tài_chính . 
+
+b2 ) Thực_hiện các quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS của Bộ Tài_chính . 
+
+c ) Các nội_dung khác 
+
+- Phối_hợp chặt_chẽ với Vụ NSNN , Cục Tin_học và Thống_kê tài_chính và các Vụ tài_chính chuyên_ngành có liên_quan để xử_lý những vấn_đề phát_sinh trong quá_trình vận_hành , khai_thác và đảm_bảo điều_kiện vận_hành , khai_thác hệ_thống ; 
+
+- Tổ_chức thực_hiện các nội_dung khác phát_sinh liên_quan đến vận_hành , khai_thác hệ_thống nhưng chưa được quy_định cụ_thể trách_nhiệm thực_hiện trong Thông_tư này .  Trường_hợp phát_sinh vấn_đề nghiệp_vụ , kỹ_thuật mới , chưa có phương_án xử_lý , KBNN chủ_trì phối_hợp với các đơn_vị thuộc Bộ và các thành_viên khác báo_cáo Bộ để thống_nhất phương_án xử_lý ; 
+
+- Tổng_Giám_đốc KBNN chịu trách_nhiệm chỉ_đạo và phân_công cho các đơn_vị thuộc KBNN thực_hiện các nhiệm_vụ cụ_thể của KBNN nêu tại điều này .  Chủ_trì , phối_hợp với các đơn_vị quyết_định phương_án xử_lý đối_với các tình_huống phát_sinh liên_quan đến hệ_thống , trường_hợp cần_thiết báo_cáo Bộ kịp_thời để có phương_án xử_lý . 
+
+2 . KBNN tỉnh 
+
+- Tổ_chức quán_triệt và thực_hiện các văn_bản , hướng_dẫn điều_hành ngân_sách , về kế_toán nhà_nước áp_dụng cho TABMIS của Bộ Tài_chính và KBNN ; 
+
+- Phối_hợp với Sở Tài_chính và các đơn_vị khác ban_hành các văn_bản thuộc thẩm_quyền để tổ_chức vận_hành , khai_thác TABMIS , phù_hợp với điều_kiện của địa_phương trên cơ_sở hướng_dẫn của Bộ Tài_chính và KBNN ; 
+
+- Thực_hiện Chế_độ kế_toán nhà_nước áp_dụng cho TABMIS : 
+
++ Căn_cứ dự_toán do cơ_quan_tài_chính , các đơn_vị dự_toán hoặc đơn_vị KBNN nhập vào TABMIS , thực_hiện kiểm_soát và thanh_toán cho các đơn_vị thụ_hưởng ; 
+
++ Thực_hiện các quy_trình nghiệp_vụ kế_toán nhà_nước theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> ; Công_văn hướng_dẫn thực_hiện KTNN áp_dụng cho TABMIS ; Công_văn hướng_dẫn kế_toán dự_toán , lệnh chi tiền NSTW áp_dụng cho TABMIS ; Công_văn hướng_dẫn kế_toán dự_toán , lệnh chi tiền NSĐP áp_dụng cho TABMIS và các văn_bản khác ;
++ Trường_hợp cơ_quan_tài_chính chưa kịp_thời nhập dự_toán vào hệ_thống , thực_hiện nhập dự_toán tạm cấp sau khi có ý_kiến của KBNN , hủy dự_toán tạm cấp khi dự_toán chính_thức được nhập vào hệ_thống đảm_bảo không trùng số_liệu . 
+
+- Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS thuộc trách_nhiệm của KBNN tỉnh theo các quy_định , hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm ; 
+
+- Tổ_chức khai_thác dữ_liệu trên hệ_thống : 
+
++ Khai_thác , tổng_hợp_số_liệu trên bộ sổ tỉnh theo các mẫu biểu quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> ;
++ Khai_thác dữ_liệu theo các chỉ_tiêu yêu_cầu trên Kho dữ_liệu TABMIS để báo_cáo các cấp có thẩm_quyền ( theo phân_cấp của KBNN ) ; 
+
++ Phối_hợp với các đơn_vị thuộc KBNN và các đơn_vị trên địa_bàn xử_lý các vấn_đề phát_sinh trong quá_trình truyền , nhận dữ_liệu đảm_bảo chính_xác , kịp_thời ; 
+
++ Truy_vấn số_dư tài_khoản , khai_thác các thông_tin , báo_cáo của các đơn_vị thuộc địa_bàn tỉnh theo theo hướng_dẫn của Bộ Tài_chính , KBNN ; 
+
++ Chịu trách_nhiệm về việc đảm_bảo an_toàn , bảo_mật thông_tin , dữ_liệu trong quá_trình vận_hành , khai_thác hệ_thống . 
+
+- Trách_nhiệm cung_cấp thông_tin báo_cáo : 
+
++ Báo_cáo Chủ_tịch Ủy_ban Nhân_dân tỉnh và các cơ_quan có thẩm_quyền thông_tin về tình_hình thu , chi NSNN , nợ của NSNN và các thông_tin khác thuộc địa_bàn tỉnh theo yêu_cầu quản_lý ; 
+
++ Định_kỳ cung_cấp cho Sở Tài_chính và các đơn_vị khác thông_tin kế_toán trên TABMIS , trường_hợp cần_thiết_thực_hiện theo chỉ_đạo của Lãnh_đạo tỉnh và yêu_cầu của các đơn_vị trên địa_bàn theo quy_định của pháp_luật . 
+
++ Đối_chiếu số_liệu với các đơn_vị giao_dịch với đơn_vị KBNN theo quy_định ; 
+
+- Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu liên_quan theo quy_định ; 
+
+b1 ) Thực_hiện các hoạt_động về nghiệp_vụ để vận_hành hệ_thống , gồm : 
+
+- Thực_hiện quy_định kết_hợp tổ_hợp tài_khoản phục_vụ_việc nhập dự_toán trong bộ sổ tỉnh ;  Các quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS ; 
+
+- Thực_hiện các hoạt_động thiết_lập thông_tin , dữ_liệu để đảm_bảo vận_hành hệ_thống theo phân_quyền , bao_gồm : 
+
++ Quản_lý thông_tin chi_tiết nhà cung_cấp và tài_khoản ngân_hàng ; 
+
++ Tạo mới , duy_trì và cập_nhật các dữ_liệu và thông_tin khác , thực_hiện các quy_trình của hệ_thống theo phân_quyền của bộ_phận hỗ_trợ vận_hành tại trung_ương ; 
+
++ Thực_hiện các hoạt_động thiết_lập thông_tin , dữ_liệu khác trên TABMIS theo hướng_dẫn của Bộ Tài_chính và KBNN . 
+
+- Tổ_chức công_tác hỗ_trợ người sử_dụng TABMIS tại KBNN tỉnh và KBNN huyện trên địa_bàn , kịp_thời phản_ánh và đề_xuất phương_án với Phòng hỗ_trợ thuộc KBNN để phối_hợp xử_lý . 
+
+b2 ) Các hoạt_động kỹ_thuật để vận_hành hệ_thống 
+
+- Trực_tiếp cài_đặt , thiết_lập máy trạm , hạ_tầng truyền_thông sẵn_sàng cho việc vận_hành TABMIS ; 
+
+- Kiểm_tra , xử_lý kịp_thời các sự_cố liên_quan đến máy trạm , hạ_tầng truyền_thông tại KBNN tỉnh , các KBNN huyện trên địa_bàn . 
+
+- Phối_hợp chặt_chẽ với đơn_vị thuộc KBNN và các đơn_vị trên địa_bàn có liên_quan để xử_lý những vấn_đề phát_sinh trong quá_trình vận_hành hệ_thống ; 
+
+- Căn_cứ hướng_dẫn của Tổng_Giám_đốc KBNN , Giám_đốc KBNN tỉnh chịu trách_nhiệm chỉ_đạo và phân_công cho các đơn_vị thuộc KBNN thực_hiện các nhiệm_vụ cụ_thể của đơn_vị nêu tại điều này . 
+
+d ) Sở Giao_dịch KBNN 
+
+Sở Giao_dịch KBNN thực_hiện nhiệm_vụ đối_với NSTW , theo các quy_định tương_tự như KBNN tỉnh . 
+
+3 . KBNN_huyện 
+
+- Tổ_chức quán_triệt và thực_hiện các văn_bản , hướng_dẫn điều_hành NSNN , về kế_toán nhà_nước áp_dụng cho TABMIS của Bộ Tài_chính và KBNN , của Sở Tài_chính và KBNN tỉnh ; 
+
+- Thực_hiện Chế_độ kế_toán nhà_nước : 
+
++ Thực_hiện các quy_trình nghiệp_vụ kế_toán nhà_nước theo phương_pháp hạch_toán quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> ; Công_văn hướng_dẫn kế_toán dự_toán , Lệnh chi tiền NSTW áp_dụng cho TABMIS ; Công_văn hướng_dẫn kế_toán dự_toán , Lệnh chi tiền NSĐP áp_dụng cho TABMIS và các văn_bản khác ;
++ Đối_với ngân_sách xã , KBNN huyện thực_hiện nhập , phê_duyệt phân_bổ , điều_chỉnh dự_toán ( trong trường_hợp cơ_quan_tài_chính chưa tổ_chức nhập ) và nhập Lệnh chi tiền thuộc ngân_sách xã theo quy_trình hệ_thống ; 
+
++ Trường_hợp cơ_quan_tài_chính chưa kịp_thời nhập dự_toán vào hệ_thống , thực_hiện nhập dự_toán tạm cấp sau khi có ý_kiến của KBNN , hủy dự_toán tạm cấp khi dự_toán chính_thức được nhập vào hệ_thống , đảm_bảo không trùng số_liệu . 
+
+- Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS thuộc trách_nhiệm của KBNN huyện theo các quy_định , hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm . 
+
++ Khai_thác , tổng_hợp_số_liệu trên bộ sổ tỉnh thuộc phạm_vi đơn_vị hoạt_động ( quận , huyện ) theo các mẫu biểu quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> ;
++ Phối_hợp với KBNN cấp trên và các đơn_vị liên_quan trên địa_bàn huyện xử_lý các vấn_đề phát_sinh trong quá_trình truyền , nhận dữ_liệu đảm_bảo chính_xác , kịp_thời ; 
+
++ Truy_vấn số_dư tài_khoản , khai_thác các thông_tin , báo_cáo của các đơn_vị theo phân_quyền theo yêu_cầu quản_lý . 
+
++ Báo_cáo Chủ_tịch Ủy_ban Nhân_dân huyện và các cơ_quan có thẩm_quyền thông_tin về tình_hình thu , chi , quyết_toán NSNN và các thông_tin khác thuộc địa_bàn theo yêu_cầu quản_lý ; 
+
++ Định_kỳ cung_cấp cho Phòng Tài_chính-Kế_hoạch và các đơn_vị khác thông_tin kế_toán trên TABMIS , trường_hợp cần_thiết_thực_hiện theo chỉ_đạo của Lãnh_đạo huyện và yêu_cầu của các đơn_vị trên địa_bàn theo quy_định của pháp_luật ; 
+
++ Đối_chiếu số_liệu với các đơn_vị giao_dịch với đơn_vị KBNN theo quy_định . 
+
+- Thực_hiện các hoạt_động về nghiệp_vụ để vận_hành hệ_thống : 
+
+Thực_hiện quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS ; 
+
+- Các hoạt_động vận_hành kỹ_thuật : 
+
++ Trực_tiếp cài_đặt , thiết_lập môi_trường đảm_bảo cho việc vận_hành ứng_dụng TABMIS ; 
+
++ Kiểm_tra , xử_lý kịp_thời các sự_cố liên_quan môi_trường tại Kho_bạc Nhà_nước tỉnh , huyện . 
+
+- Phối_hợp chặt_chẽ với KBNN cấp trên và đơn_vị có liên_quan trên địa_bàn để xử_lý những vấn_đề phát_sinh trong quá_trình thực_hiện nhiệm_vụ được giao ; 
+
+- Căn_cứ hướng_dẫn của Giám_đốc KBNN tỉnh , Giám_đốc KBNN huyện chịu trách_nhiệm chỉ_đạo và phân_công cán_bộ , công_chức trong đơn_vị thực_hiện các nhiệm_vụ cụ_thể của đơn_vị nêu tại điều này . 
+
+d ) Phòng Giao_dịch thuộc KBNN tỉnh 
+
+Phòng Giao_dịch thuộc KBNN tỉnh thực_hiện nhiệm_vụ đối_với ngân_sách thành_phố , thị_xã trên địa_bàn thuộc phạm_vi quản_lý theo các quy_định tương_tự như KBNN huyện . 
+
+Điều 11 .  Nội_dung công_việc vận_hành hệ_thống của đơn_vị dự_toán 
+
+1 . Đơn_vị dự_toán cấp trên 
+
+a ) Trách_nhiệm nhập dự_toán 
+
+- Đối_với đơn_vị thuộc NSTW : 
+
++ Thực_hiện nhập dự_toán ( trường_hợp đã tham_gia trực_tiếp TABMIS ) hoặc cung_cấp dữ_liệu về dự_toán gửi cơ_quan_tài_chính cùng cấp ( trường_hợp chưa tham_gia trực_tiếp TABMIS ) theo quy_định tại <TT rel="Reference"> Thông_tư số 107/2008/TT-BTC ngày 18/11/2008 </TT> của Bộ_trưởng Bộ Tài_chính về việc hướng_dẫn bổ_sung một_số điểm về quản_lý , điều_hành NSNN ; Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán chi NSTW hàng năm vào TABMIS ;
++ Phương_pháp kế_toán hoặc cung_cấp dữ_liệu về dự_toán thực_hiện theo quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> ; Công_văn hướng_dẫn kế_toán dự_toán , Lệnh chi tiền NSTW áp_dụng cho TABMIS ;
++ Thời_hạn nhập dự_toán không quá 10 ngày làm_việc kể từ ngày nhận được văn_bản giao dự_toán ( đối_với dự_toán năm giao chính_thức ) , trường_hợp giao bổ_sung và điều_chỉnh không quá 5 ngày làm_việc . 
+
+- Đối_với đơn_vị thuộc NSĐP : 
+
++ Thực_hiện nhập dự_toán ( trường_hợp đã tham_gia trực_tiếp TABMIS ) hoặc cung_cấp dữ_liệu về dự_toán gửi cơ_quan_tài_chính cùng cấp ( trường_hợp chưa tham_gia trực_tiếp TABMIS ) theo quy_định tại <TT rel="Reference"> Thông_tư số 107/2008/TT-BTC ngày 18/11/2008 </TT> của Bộ_trưởng Bộ Tài_chính về việc hướng_dẫn bổ_sung một_số điểm về quản_lý , điều_hành NSNN ; Quy_chế phân_công trách_nhiệm các đơn_vị thực_hiện nhập dự_toán chi ngân_sách và Lệnh chi tiền của NSĐP vào TABMIS áp_dụng riêng cho từng tỉnh , thành_phố ;
++ Phương_pháp kế_toán hoặc cung_cấp dữ_liệu về dự_toán thực_hiện theo quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> ; Công_văn hướng_dẫn kế_toán dự_toán , Lệnh chi tiền NSĐP áp_dụng cho TABMIS ;
+b ) Phối_hợp với KBNN và các đơn_vị có liên_quan trong việc kiểm_tra , rà_soát , đối_chiếu và điều_chỉnh số_liệu ( nếu có ) , đảm_bảo số_liệu khớp đúng ; 
+
+c ) Thực_hiện quy_trình khóa sổ và xử_lý cuối kỳ trên TABMIS thuộc trách_nhiệm của đơn_vị dự_toán cấp trên theo các quy_định , hướng_dẫn về rà_soát , xử_lý giao_dịch dở_dang , khóa sổ và quyết_toán ngân_sách hàng năm ; 
+
+d ) Thực_hiện kết_hợp tổ_hợp tài_khoản dự_toán phục_vụ cho việc nhập dự_toán theo hướng_dẫn của KBNN ; 
+
+e ) Trực_tiếp truy vấn số_dư tài_khoản , khai_thác các thông_tin , báo_cáo của các đơn_vị theo phân_quyền phục_vụ công_tác quản_lý dự_toán của đơn_vị dự_toán ( trường_hợp đã tham_gia trực_tiếp TABMIS ) ; 
+
+f ) Phối_hợp chặt_chẽ với đơn_vị có liên_quan để xử_lý những vấn_đề phát_sinh trong quá_trình thực_hiện nhiệm_vụ được giao ; 
+
+g ) Tổ_chức thực_hiện bảo_quản , lưu_trữ , tiêu_hủy tài_liệu liên_quan theo quy_định ; 
+
+h ) Thực_hiện các quy_định về cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS theo quy_định tại Quy_chế cấp , quản_lý và sử_dụng tài_khoản đăng_nhập TABMIS ; 
+
+i ) Thực_hiện các quy_trình khác trên hệ_thống theo yêu_cầu nghiệp_vụ và hướng_dẫn của Bộ Tài_chính và Kho_bạc Nhà_nước . 
+
+2 . Đơn_vị sử_dụng ngân_sách 
+
+- Thực_hiện chế_độ đăng_ký và sử_dụng tài_khoản , đối_chiếu số_liệu tài_khoản tiền gửi , tài_khoản dự_toán kinh_phí NSNN cấp theo quy_định tại <TT rel="Reference"> Thông_tư số 61/2014/TT-BTC ngày 12/5/2014 </TT> của Bộ_trưởng Bộ Tài_chính về việc hướng_dẫn đăng_ký và sử_dụng tài_khoản tại KBNN trong điều_kiện áp_dụng TABMIS và các văn_bản hướng_dẫn sửa_đổi , bổ_sung ;
+- Thực_hiện các quy_định có liên_quan đến đơn_vị sử_dụng ngân_sách theo quy_định tại <TT rel="Reference"> Thông_tư số 08/2013/TT-BTC </TT> và các văn_bản hướng_dẫn thực_hiện ;
+- Thực_hiện các quy_định khác theo hướng_dẫn của Bộ Tài_chính và KBNN . 
+
+Điều 12 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực sau 45 ngày kể từ ngày ký . <QĐ rel="Drop"> Quyết_định số 1209/QĐ-BTC ngày 28/05/2010 </QĐ> về Quy_chế tạm_thời về trách_nhiệm , quyền_hạn đối_với các thành_viên tham_gia hệ_thống thông_tin quản_lý Ngân_sách và Kho_bạc được bãi_bỏ .
+2 . Các văn_bản được trích_dẫn tại Thông_tư này nếu được bổ_sung , sửa_đổi hoặc thay_thế_thì được thực_hiện theo quy_định của các văn_bản bổ_sung , sửa_đổi hoặc thay_thế . 
+
+Điều 13 .  Tổ_chức thực_hiện 
+
+Chánh_Văn_phòng Bộ , Thủ_trưởng các đơn_vị thuộc Bộ Tài_chính , các Bộ ngành , Tổng_Giám_đốc KBNN , Giám_đốc Sở Tài_chính , Giám_đốc KBNN các tỉnh , thành_phố trực_thuộc Trung_ương , các đơn_vị tham_gia TABMIS , các đơn_vị khác có giao_dịch với KBNN trong phạm_vi chức_năng , quyền_hạn của mình có trách_nhiệm tổ_chức triển_khai , hướng_dẫn thực_hiện và kiểm_tra việc thi_hành Thông_tư này ./. 

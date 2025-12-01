@@ -1,0 +1,62 @@
+Thông tư Quy định nội dung Báo cáo phân tích an toàn trong hồ sơ phê duyệt dự án đầu tư xây dựng nhà máy điện hạt nhân
+
+Căn_cứ <L rel="Pursuant"> Luật Năng_lượng nguyên_tử ngày 03 tháng 6 năm 2008 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 70/2010/NĐ-CP ngày 22 tháng 6 năm 2010 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật năng_lượng nguyên_tử </L> về nhà_máy_điện hạt_nhân ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 20/2013/NĐ-CP ngày 26 tháng 02 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Khoa_học và Công_nghệ ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định nội_dung Báo_cáo phân_tích an_toàn trong hồ_sơ phê_duyệt dự_án đầu_tư xây_dựng nhà_máy_điện hạt_nhân ( sau đây được viết tắt là PTAT-DAĐT ) . 
+
+Các yêu_cầu , hướng_dẫn đối_với thiết_kế , các hệ_thống và phân_tích an_toàn tại Thông_tư này được hiểu là các yêu_cầu , hướng_dẫn phù_hợp với mức_độ chi_tiết của thiết_kế cơ_sở ở giai_đoạn phê_duyệt dự_án đầu_tư . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân có liên_quan đến việc lập , thẩm_định Báo_cáo PTAT-DAĐT . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Tổ_chức xin cấp phép là tổ_chức có tư_cách pháp_nhân theo quy_định của pháp_luật , nộp hồ_sơ xin phê_duyệt dự_án đầu_tư xây_dựng nhà_máy_điện hạt_nhân . 
+
+2 . Chế_độ vận_hành nhà_máy_điện hạt_nhân bao_gồm khởi_động , vận_hành ở công_suất danh_định , ở một phần công_suất danh_định , dừng lò và thay đảo nhiên_liệu . 
+
+3 . Dừng nguội là trạng_thái dừng của lò phản_ứng sau quá_trình làm mát khi hệ_thống nước làm mát lò phản_ứng có áp_suất bằng áp_suất khí_quyển và nhiệt_độ dưới 1000C . 
+
+4 . Mô_phỏng tốt nhất là mô_phỏng được sử_dụng trong phân_tích an_toàn tất_định , bảo_đảm để kết_quả phân_tích phù_hợp_nhất với thực_tế , với mục_đích bảo_đảm an_toàn . 
+
+5 . Cấu_trúc , hệ_thống và bộ_phận liên_quan tới an_toàn là cấu_trúc , hệ_thống và bộ_phận ( gọi chung là hạng_mục ) khi bị hư_hỏng kết_hợp với giả_định xảy ra sai hỏng đơn có_thể dẫn đến phát_tán phóng_xạ ra ngoài địa_điểm hoặc buộc phải dừng lò để duy_trì ở trạng_thái an_toàn . 
+
+6 . Hệ_thống an_toàn là hệ_thống có chức_năng dừng lò an_toàn , tải nhiệt dư từ vùng hoạt hoặc hạn_chế hậu_quả khi xảy ra trạng_thái bất_thường hay sự_cố trong cơ_sở thiết_kế .  Hệ_thống an_toàn và hạng_mục liên_quan tới an_toàn được gọi chung là hạng_mục quan_trọng về an_toàn . 
+
+7 . Sai hỏng cùng chế_độ là sai hỏng của hai hay nhiều cấu_trúc , hệ_thống và bộ_phận theo cùng một cách_thức hoặc cùng một chế_độ do một nguyên_nhân hoặc một sự_kiện đơn_lẻ . 
+
+8 . Sự_cố trong cơ_sở thiết_kế là sự_cố được xem_xét như điều_kiện để thiết_kế bảo_đảm cho nhà_máy_điện hạt_nhân chống chịu được với các sự_cố đó khi chúng xảy ra , sao cho hư_hại nhiên_liệu và phát_tán vật_liệu phóng_xạ thấp dưới giới_hạn quy_định của cơ_quan có thẩm_quyền . 
+
+9 . Nguy_cơ trong cơ_sở thiết_kế là bản mô_tả các thuộc_tính và đặc_trưng của các nguy_cơ tiềm_ẩn đe_dọa an_ninh đến từ bên trong và bên ngoài nhà_máy_điện hạt_nhân . 
+
+10 .  Văn_hóa an_toàn là tổng_thể đặc_tính và hành_vi của tổ_chức , cá_nhân hướng tới việc chú_trọng các vấn_đề bảo_đảm an_toàn và bảo_vệ con_người , môi_trường như là ưu_tiên hàng_đầu . 
+
+11 .  Đánh_giá bảo_thủ là việc sử_dụng chương_trình tính_toán , mô_hình , dữ_liệu đầu_vào và giả_định , để theo đó có_thể đánh_giá tốt nhất từ khía_cạnh an_toàn dựa theo những gì đã biết .  Mức_độ bảo_thủ tỷ_lệ với mức_độ không chắc_chắn và tầm quan_trọng của đánh_giá tổng_thể đối_với thẩm_định an_toàn . 
+
+Điều 4 .  Nội_dung Báo_cáo phân_tích an_toàn 
+
+1 . Báo_cáo PTAT-DAĐT trong hồ_sơ phê_duyệt dự_án đầu_tư gồm 12 ( mười hai ) nội_dung : giới_thiệu chung ;  mô_tả chung nhà_máy_điện hạt_nhân ;  quản_lý an_toàn ;  đánh_giá địa_điểm ;  các khía_cạnh thiết_kế chung ;  mô_tả các hệ_thống chính của nhà_máy_điện hạt_nhân ;  phân_tích an_toàn ;  bảo_vệ bức_xạ ;  ứng_phó sự_cố ;  các khía_cạnh môi_trường ;  quản_lý chất_thải phóng_xạ ;  tháo_dỡ và các vấn_đề kết_thúc vận_hành . 
+
+2 . Các nội_dung của Báo_cáo PTAT-DAĐT được quy_định chi_tiết tại Phụ_lục ban_hành kèm theo Thông_tư này . 
+
+Điều 5 .  Hồ_sơ đề_nghị thẩm_định Báo_cáo phân_tích an_toàn 
+
+1 . Tổ_chức xin cấp phép nộp 06 bộ hồ_sơ ( bản in ) bằng tiếng Việt ( 01 bộ gốc , 05 bộ sao_chụp ) và 05 bộ hồ_sơ ( bản in ) dịch ra tiếng Anh của Báo_cáo PTAT-DAĐT và văn_bản đề_nghị thẩm_định cho Cục An_toàn bức_xạ và hạt_nhân-Bộ Khoa_học và Công_nghệ . 
+
+2 . Ngoài các bản in , tổ_chức xin cấp phép nộp bản điện_tử ( tiếng Việt và tiếng Anh ) của Báo_cáo PTAT-DAĐT . 
+
+3 . Cục An_toàn bức_xạ và hạt_nhân kiểm_tra tính hợp_lệ của hồ_sơ trong thời_hạn 15 ngày kể từ ngày nhận được hồ_sơ và có quyền yêu_cầu chủ đầu_tư bổ_sung các tài_liệu cần_thiết . 
+
+4 . Cục An_toàn bức_xạ và hạt_nhân tổ_chức thẩm_định Báo_cáo PTAT-DAĐT trong thời_hạn 06 tháng kể từ ngày nhận đủ hồ_sơ hợp_lệ hoặc ngày nhận đủ tài_liệu bổ_sung quy_định tại Khoản 3 Điều này . 
+
+5 . Trong quá_trình thẩm_định Báo_cáo PTAT-DAĐT , tổ_chức xin cấp phép có trách_nhiệm giải_trình , bổ_sung hồ_sơ khi có yêu_cầu của Cục An_toàn bức_xạ và hạt_nhân . 
+
+Điều 6 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 10 tháng 7 năm 2014 . 
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , các cơ_quan , tổ_chức , cá_nhân kịp_thời phản_ánh về Bộ Khoa_học và Công_nghệ để xem_xét , giải_quyết ./. 

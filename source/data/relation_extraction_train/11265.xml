@@ -1,0 +1,345 @@
+Thông tư Quy định kỹ thuật cập nhật cơ sở dữ liệu nền địa lý tỷ lệ 1:10.000 bằng ảnh vệ tinh
+
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 45/2015/NĐ-CP ngày 06 tháng 5 năm 2015 </NĐ> của Chính_phủ về hoạt_động đo_đạc và bản_đồ ;
+Căn_cứ mức_độ thay_đổi và yêu_cầu về quản_lý nội_dung cơ_sở dữ_liệu nền địa_lý , tần_suất và mức_độ cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 bằng ảnh vệ_tinh thực_hiện theo quy_định tại Điều 4 <TT rel="Reference"> Thông_tư số 10/2013/TT-BTNMT ngày 28 tháng 5 năm 2013 </TT> của Bộ Tài_nguyên và Môi_trường Quy_định kỹ_thuật về cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 2000 , 1 : 5000 và 1 : 10000 ( sau đây gọi là <TT rel="Reference"> Thông_tư số 10/2013/TT-BTNMT </TT> ) .
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định kỹ_thuật cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 bằng ảnh vệ_tinh . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với các cơ_quan quản_lý nhà_nước ;  tổ_chức , cá_nhân có liên_quan đến cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 bằng ảnh vệ_tinh trên lãnh_thổ Việt_Nam . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Pixel ảnh là phần_tử ảnh nhỏ nhất ghi được trên thiết_bị cảm_biến của đầu thu ảnh . 
+
+2 . Độ phân_giải mặt_đất của ảnh vệ_tinh là kích_thước một pixel ảnh vệ_tinh chiếu trên mặt_đất . 
+
+3 . Độ phân_giải danh_nghĩa của ảnh vệ_tinh là độ phân_giải lý_thuyết của ảnh do nhà cung_cấp ảnh vệ_tinh thương_mại công_bố trong các tài_liệu về chỉ_tiêu kỹ_thuật của loại ảnh vệ_tinh đó . 
+
+4 . Bình_đồ ảnh vệ_tinh là sản_phẩm ảnh vệ_tinh dạng số đã được định_vị trong hệ tọa_độ của bản_đồ cần thành_lập , được hiệu_chỉnh ảnh_hưởng do chênh cao địa_hình , được lấy mẫu lại theo độ phân_giải danh_nghĩa của ảnh vệ_tinh , được cắt , ghép theo mảnh bản_đồ và được đặt tên theo phiên_hiệu của mảnh bản_đồ tương_ứng . 
+
+5 . Mô_hình số địa_hình ( Digital_Terrain Model , viết tắt là DTM ) là mô_hình số độ cao thể_hiện dáng của bề_mặt địa_hình . 
+
+6 . Định_dạng geotiff là định_dạng đặc_biệt của tệp_tin lưu_trữ dữ_liệu ảnh số có kèm theo các thông_tin định_vị địa_lý của tấm ảnh . 
+
+7 . Định_dạng TIN ( Triangulation_Irregular Network ) là một loại định_dạng dùng để lưu_trữ mô_hình số địa_hình ở dạng mạng_lưới các tam_giác không đều . 
+
+8 . Định_dạng GRID là định_dạng đặc_biệt dùng để lưu_trữ mô_hình số độ cao , mô_hình số địa_hình ở dạng lưới ô_vuông , có_thể ở dạng file mã nhị_phân ( binary ) , hoặc file mã ASCII ( American_Standard Code for Information_Interchange-Mã chuẩn Mỹ về trao_đổi thông_tin ) . 
+
+9 . Metadata : thường được gọi là siêu dữ_liệu , là những thông_tin mô_tả các đặc_tính của dữ_liệu như nội_dung , định_dạng , chất_lượng , điều_kiện và các đặc_tính khác nhằm chỉ_dẫn về phương_thức tiếp_cận , cơ_quan quản_lý , địa_chỉ truy_cập , nơi lưu_trữ , bảo_quản dữ_liệu . 
+
+Điều 4 .  Tần_suất và mức_độ cập_nhật cơ_sở dữ_liệu nền địa_lý 
+
+Điều 5 .  Nội_dung công_việc cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 bằng ảnh vệ_tinh 
+
+1 . Công_tác chuẩn_bị , gồm : 
+
+a ) Chuẩn_bị tài_liệu và thiết_bị , công_nghệ ; 
+
+b ) Nghiên_cứu tình_hình biến_động của khu_vực cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 ; 
+
+c ) Khảo_sát mức_độ thay_đổi nội_dung của cơ_sở dữ_liệu nền địa_lý_gốc tỷ_lệ 1 : 10.000 ; 
+
+d ) Khảo_sát thực_địa ; 
+
+đ ) Lập Thiết_kế kỹ_thuật-dự_toán ; 
+
+e ) Trích sao cơ_sở dữ_liệu nền địa_lý phục_vụ cập_nhật . 
+
+2 . Cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 , gồm : 
+
+a ) Thu_nhận dữ_liệu địa_lý tỷ_lệ 1 : 10.000 bằng ảnh vệ_tinh ; 
+
+b ) Chuẩn_hóa dữ_liệu . 
+
+3 . Đồng_bộ và tích_hợp cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 . 
+
+4 . Kiểm_tra nghiệm_thu và đóng_gói sản_phẩm . 
+
+Điều 6 .  Chuẩn_bị tài_liệu và thiết_bị công_nghệ 
+
+1 . Chuẩn_bị tư_liệu ảnh vệ_tinh có kích_thước pixel ảnh không vượt quá 2,5 m , được thu , chụp tại thời_điểm gần nhất , trước thời_điểm cập_nhật tối_đa không quá 1 năm để phục_vụ khảo_sát nội_dung thay_đổi của cơ_sở dữ_liệu nền địa_lý_gốc tỷ_lệ 1 : 10.000 . 
+
+2 . Chuẩn_bị các tài_liệu , dữ_liệu đo_đạc và bản_đồ và các tài_liệu chuyên_ngành khác . 
+
+3 . Thu_thập các văn_bản quy_phạm pháp_luật có liên_quan đến cơ_sở dữ_liệu nền địa_lý . 
+
+4 . Chuẩn_bị công_nghệ , thiết_bị và nhân_lực triển_khai . 
+
+Điều 7 .  Nghiên_cứu tình_hình biến_động của khu_vực cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 
+
+Việc nghiên_cứu tình_hình biến_động của khu_vực cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 thực_hiện theo quy_định tại Điều 7 <TT rel="Reference"> Thông_tư số 10/2013/TT-BTNMT </TT> .
+Điều 8 .  Khảo_sát mức_độ thay_đổi nội_dung của cơ_sở dữ_liệu nền địa_lý_gốc tỷ_lệ 1 : 10.000 
+
+1 . Rà_soát những nội_dung thay_đổi về quy_định kỹ_thuật giữa các văn_bản kỹ_thuật mới ban_hành có liên_quan đến cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 và các quy_định đã áp_dụng để xây_dựng cơ_sở dữ_liệu nền địa_lý . 
+
+2 . Đánh_giá mức_độ đầy_đủ , độ tin_cậy và mức_độ thay_đổi thông_tin đối_tượng địa_lý của cơ_sở dữ_liệu nền địa_lý_gốc tỷ_lệ 1 : 10.000 được tiến_hành bằng việc đối_chiếu , so_sánh nội_dung dữ_liệu nền địa_lý gốc với tư_liệu ảnh vệ_tinh được sử_dụng , các tài_liệu , dữ_liệu đo_đạc và bản_đồ và các tài_liệu chuyên_ngành khác . 
+
+3 . Tiến_hành khảo_sát thực_địa theo quy_định tại Điều 7 và Điều 9 của Thông_tư này . 
+
+4 . Kết_quả đánh_giá phải đưa ra được kết_luận về mức_độ cập_nhật và phương_pháp cập_nhật cơ_sở dữ_liệu nền địa_lý gốc bằng ảnh vệ_tinh được lựa_chọn . 
+
+Điều 9 .  Khảo_sát thực_địa 
+
+1 . Bổ_sung cho phần nghiên_cứu nội_nghiệp về tình_hình biến_động của khu_vực cập_nhật ; 
+
+2 . Bổ_sung cho phần đánh_giá nội_nghiệp về cơ_sở dữ_liệu nền địa_lý gốc ; 
+
+3 . Thu_thập tài_liệu ở địa_phương ;  khảo_sát hiện_trạng các điểm mốc tọa_độ , độ cao quốc_gia dùng để đo khống_chế ảnh ( nếu có ) . 
+
+Điều 10 .  Lập Thiết_kế kỹ_thuật-dự_toán 
+
+1 . Thiết_kế kỹ_thuật-dự_toán được lập trên cơ_sở kết_quả khảo_sát và theo quy_định của cơ_quan có thẩm_quyền . 
+
+2 . Thiết_kế kỹ_thuật-dự_toán được dùng để thi_công , kiểm_tra , nghiệm_thu sản_phẩm và thanh quyết_toán công_trình sau khi được cấp có thẩm_quyền phê_duyệt . 
+
+3 . Nội_dung Thiết_kế kỹ_thuật-dự_toán thực_hiện theo Quy_chế quản_lý các đề_án , dự_án , nhiệm_vụ chuyên_môn thuộc Bộ Tài_nguyên và Môi_trường . 
+
+Điều 11 .  Trích sao cơ_sở dữ_liệu nền địa_lý 
+
+1 . Việc trích sao cơ_sở dữ_liệu nền địa_lý chỉ được thực_hiện sau khi có quyết_định phê_duyệt nội_dung công_việc cập_nhật của cơ_quan có thẩm_quyền . 
+
+2 . Cục Đo_đạc và Bản_đồ Việt_Nam chịu trách_nhiệm trích sao cơ_sở dữ_liệu nền địa_lý đúng quy_định . 
+
+Điều 12 .  Yêu_cầu chung 
+
+Yêu_cầu về mức_độ chi_tiết nội_dung cơ_sở dữ_liệu nền địa_lý , độ chính_xác không_gian , độ chính_xác thời_gian của các đối_tượng địa_lý thu_nhận phục_vụ cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 , chuẩn_hóa cơ_sở dữ_liệu nền địa_lý thực_hiện theo Quy_định thu_nhận dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 tại Phụ_lục số 2 <TT rel="Reference"> Thông_tư số 21/2014/TT-BTNMT </TT> của Bộ Tài_nguyên và Môi_trường ngày 24 tháng 4 năm 2014 ( sau đây gọi là <TT rel="Reference"> Thông_tư số 21/2014/TT-BTNMT </TT> ) .
+Điều 13 .  Thu_nhận dữ_liệu địa_lý tỷ_lệ 1 : 10.000 bằng ảnh vệ_tinh 
+
+1 . Ảnh vệ_tinh sử_dụng để cập_nhật cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 phải có độ phân_giải mặt_đất nhỏ hơn hoặc bằng 1m ( 0,1 mm tính theo tỷ_lệ bản_đồ ) ;  việc sử_dụng các cảnh ảnh vệ_tinh đơn có độ phân_giải mặt_đất tới 1,5 m chỉ áp_dụng khi được cấp có thẩm_quyền cho phép trong một_số trường_hợp đặc_biệt như khu_vực cập_nhật có phạm_vi nhỏ , không cần cập_nhật yếu_tố địa_hình . 
+
+2 . Ảnh vệ_tinh sử_dụng cho cập_nhật cơ_sở dữ_liệu nền địa_lý phải được thu , chụp tại thời_điểm gần nhất , trước thời_điểm cập_nhật tối_đa không quá 1 năm . 
+
+3 . Sử_dụng ảnh vệ_tinh dạng cảnh ảnh đơn để thu_nhận các đối_tượng địa_lý phục_vụ cập_nhật cơ_sở dữ_liệu nền địa_lý tại những khu_vực không có thay_đổi về địa_hình hoặc thay_đổi về địa_hình là không đáng_kể . 
+
+4 . Tại những khu_vực có thay_đổi đáng_kể về địa_hình phải sử_dụng ảnh vệ_tinh lập_thể để thu_nhận các đối_tượng địa_lý , cụ_thể : 
+
+a ) Khu_vực trên bản_đồ yêu_cầu thể_hiện đường bình độ cơ_bản là 2,5 m phải sử_dụng ảnh vệ_tinh lập_thể có độ phân_giải mặt_đất nhỏ hơn hoặc bằng 0,5 m ; 
+
+b ) Khu_vực trên bản_đồ yêu_cầu thể_hiện đường bình độ cơ_bản là 5m phải sử_dụng ảnh vệ_tinh lập_thể có độ phân_giải mặt_đất nhỏ hơn hoặc bằng 1m . 
+
+5 . Công_tác thu_nhận dữ_liệu địa_lý bằng ảnh vệ_tinh phải đảm_bảo các yêu_cầu kỹ_thuật của từng bước công_việc theo các quy_định tương_ứng trong các văn_bản quy_định kỹ_thuật hiện_hành , bao_gồm các bước chính như sau : 
+
+a ) Thiết_kế , đo nối điểm khống_chế ảnh_ngoại nghiệp ; 
+
+b ) Tăng dày điểm khống_chế ảnh_nội_nghiệp ( mô_hình hóa_cảnh ảnh , khối ảnh ) ; 
+
+c ) Đo vẽ lập_thể trên trạm ảnh số các đối_tượng địa_lý đối_với trường_hợp sử_dụng các cặp ảnh vệ_tinh lập_thể ; 
+
+d ) Thành_lập mô_hình số địa_hình ( đối_với trường_hợp sử_dụng các cặp ảnh vệ_tinh lập_thể ) ; 
+
+đ ) Thành_lập bình_đồ ảnh vệ_tinh ; 
+
+e ) Véc-tơ_hóa các đối_tượng địa_lý trên bình_đồ ảnh vệ_tinh ; 
+
+g ) Điều_tra đối_tượng địa_lý và đo vẽ bổ_sung ngoại_nghiệp . 
+
+Điều 14 .  Thiết_kế , đo nối điểm khống_chế ảnh_ngoại_nghiệp 
+
+1 . Mỗi cảnh ảnh phải được bố_trí ít_nhất 12 điểm khống_chế ảnh_ngoại_nghiệp , vị_trí điểm được phân_bố tương_đối đều , không nằm quá sát mép cảnh ảnh .  Trong vùng độ phủ chung giữa các cảnh ảnh kề nhau phải đảm_bảo có ít_nhất 2 điểm khống_chế ảnh_ngoại nghiệp . 
+
+2 . Mỗi cảnh ảnh phải có ít_nhất 2 điểm kiểm_tra , bố_trí tại các vị_trí xen_kẽ giữa các điểm khống_chế ảnh .  Tọa_độ và độ cao của điểm kiểm_tra phải được xác_định với độ chính_xác tương_đương độ chính_xác xác_định điểm khống_chế ảnh_ngoại nghiệp . 
+
+3 . Các điểm khống_chế ảnh_ngoại_nghiệp , điểm kiểm_tra được chọn phải tồn_tại ở thực_địa và có hình_ảnh rõ nét trên ảnh , đảm_bảo dễ nhận_biết và chích được trên ảnh .  Nếu chọn điểm vào vị_trí giao nhau của các địa_vật hình tuyến thì góc giao nhau của các địa_vật đó phải nằm trong khoảng từ 30 ° đến 150 ° ;  nếu chọn điểm vào địa_vật có dạng hình_tròn thì đường_kính địa_vật phải nhỏ hơn 0,3 mm trên ảnh .  Ngoài các yêu_cầu trên , vị_trí điểm khống_chế ảnh_ngoại nghiệp được chọn phải đảm_bảo thuận_tiện cho công_tác đo nối . 
+
+4 . Đánh_dấu vị_trí điểm khống_chế ảnh_ngoại_nghiệp , điểm kiểm_tra bằng cách đóng cọc gỗ , hoặc cọc sắt xuống đất , hoặc dùng sơn đánh_dấu vị_trí ở thực_địa , đảm_bảo_tồn_tại ổn_định trong thời_gian thi_công và kiểm_tra , nghiệm_thu . 
+
+5 . Các điểm khống_chế ảnh_ngoại_nghiệp , điểm kiểm_tra phải được chích lên ảnh khống_chế tại thực_địa , đường_kính lỗ chích không vượt quá 0,15 mm trên ảnh .  Các điểm tọa_độ và độ cao quốc_gia được sử_dụng làm cơ_sở để đo nối khống_chế ảnh_ngoại nghiệp phải chích lên ảnh như đối_với điểm khống_chế ảnh_ngoại_nghiệp nếu nhận_biết được trên ảnh . 
+
+6 . Tất_cả các điểm chích trên ảnh khống_chế phải được tu chỉnh ở cả mặt phải và mặt_trái của ảnh .  Trên mặt phải ảnh , các điểm được khoanh vị_trí , ghi tên điểm ;  trên mặt_trái vẽ sơ_đồ ghi_chú điểm gồm sơ_đồ tổng_quan và sơ_đồ mô_tả chi_tiết vị_trí điểm .  Cách_thức tu chỉnh thực_hiện theo mẫu quy_định tại Phụ_lục 1 của Quy_định kỹ_thuật thành_lập bản_đồ địa_hình tỷ_lệ 1 : 10.000 , 1 : 25.000 và 1 : 50.000 bằng công_nghệ ảnh số . 
+
+7 . Công_tác đo nối khống_chế ảnh_ngoại nghiệp thực_hiện theo các quy_định kỹ_thuật của Quy_định kỹ_thuật thành_lập bản_đồ địa_hình tỷ_lệ 1 : 10.000 , 1 : 25.000 và 1 : 50.000 bằng công_nghệ ảnh số . 
+
+Điều 15 .  Tăng dày điểm khống_chế ảnh_nội nghiệp ( Mô_hình hóa_cảnh ảnh , khối ảnh ) 
+
+1 . Nhập dữ_liệu ảnh vệ_tinh , chọn mô_hình toán_học của bộ cảm_biến ảnh vệ_tinh : mô_hình vật_lý hoặc mô_hình hàm_số hữu_tỷ tùy thuộc vào dữ_liệu ảnh đầu_vào . 
+
+2 . Khai_báo , cài_đặt đúng các thông_số hệ tọa_độ , phép chiếu bản_đồ . 
+
+3 . Đặt giá_trị sai_số đo điểm_ảnh là ± 0,3 kích_thước pixel ảnh . 
+
+4 . Đo các điểm khống_chế ảnh_ngoại_nghiệp , các điểm kiểm_tra trên các cảnh ảnh vệ_tinh .  Thị sai còn dư tại mỗi điểm không được vượt quá ± 1 kích_thước pixel ảnh ; 
+
+5 . Đo các điểm liên_kết ảnh : 
+
+a ) Đo tọa_độ ảnh của các điểm địa_vật rõ nét xuất_hiện trong vùng độ phủ chung giữa các cảnh ảnh vệ_tinh ; 
+
+b ) Không cần đo điểm liên_kết ảnh trong trường_hợp các cảnh ảnh vệ_tinh kề nhau là các cảnh ảnh cùng nằm trong một dải_quét ; 
+
+c ) Đối_với khối ảnh gồm các cảnh ảnh vệ_tinh đơn , trong mỗi vùng độ phủ chung của các cảnh ảnh vệ_tinh phải đo ít_nhất là 3 điểm liên_kết ảnh ở các vị_trí sao cho chúng không nằm trên một đường_thẳng hoặc gần như nằm trên một đường_thẳng ; 
+
+d ) Đối_với khối ảnh gồm các cặp cảnh ảnh lập_thể , phải chọn các điểm liên_kết ảnh phân_bố tương_đối đều trên diện_tích mỗi mô_hình hình lập_thể .  Mỗi_một cặp cảnh ảnh lập_thể phải đo ít_nhất là 6 cặp điểm liên_kết ảnh . 
+
+đ ) Thị_sai còn dư tại mỗi điểm liên_kết ảnh không được vượt quá ± 1 kích_thước pixel ảnh . 
+
+6 . Bình_sai khối ảnh tăng dày : 
+
+Kết_quả bình_sai khối ảnh vệ_tinh phải thỏa_mãn các yêu_cầu về độ chính_xác như sau : 
+
+a ) Sai_số trung phương trọng số đơn_vị ( sigma naught ) : không được vượt quá ± 1 kích_thước pixel ảnh ; 
+
+b ) Sai_số trung phương vị_trí mặt_phẳng của các điểm khống_chế ảnh_ngoại nghiệp sau bình_sai khối tăng dày không được vượt quá ± 1,5 kích_thước pixel ảnh , sai_số trung phương về độ cao không được vượt quá 1/3 khoảng cao đều cơ_bản ; 
+
+c ) Số chênh giữa tọa_độ , độ cao_tăng dày và tọa_độ , độ cao đo ngoại_nghiệp của các điểm kiểm_tra không được vượt quá ± 1,5 kích_thước pixel ảnh về mặt_phẳng và 1/3 khoảng cao đều cơ_bản về độ cao ; 
+
+d ) Sai_số trung phương về vị_trí mặt_phẳng của điểm tăng dày nội_nghiệp không được vượt quá ± 1,5 kích_thước pixel ảnh và sai_số trung phương về độ cao của điểm tăng dày nội_nghiệp so với độ cao của điểm khống_chế trắc_địa gần nhất không được vượt quá 1/3 khoảng cao đều cơ_bản ; 
+
+đ ) Sai_số giới_hạn vị_trí mặt_phẳng và độ cao của điểm tăng dày nội_nghiệp quy_định là bằng 2 lần các sai_số tại Điểm d , Khoản 6 ; 
+
+e ) Sai_số lớn nhất không được vượt quá sai_số giới_hạn và số_lượng các sai_số có giá_trị vượt hạn sai nhưng nhỏ hơn sai_số giới_hạn không được vượt quá : về mặt_phẳng : 5 % tổng_số các trường_hợp ;  về độ cao : 5 % tổng_số các trường_hợp đối_với vùng đồng_bằng , vùng đồi ;  10 % tổng_số các trường_hợp đối_với vùng núi , núi cao và vùng ẩn_khuất ; 
+
+g ) Sai_số tiếp biên khối : chênh_lệch về vị_trí mặt_phẳng của các điểm tăng dày_nội nghiệp nằm trong độ phủ chung của hai khối ảnh vệ_tinh liền kề không được vượt quá 0,4 mm tính theo tỷ_lệ bản_đồ , và chênh_lệch về độ cao không được vượt quá 1/2 khoảng cao đều đường bình độ cơ_bản . 
+
+Điều 16 .  Đo vẽ lập_thể trên trạm ảnh số các đối_tượng địa_lý đối_với trường_hợp sử_dụng các cặp ảnh vệ_tinh lập_thể 
+
+Việc đo vẽ lập_thể các đối_tượng địa_lý trên trạm ảnh số tuân theo các quy_định kỹ_thuật tại Điểm 4.6.1 của Quy_định kỹ_thuật thành_lập bản_đồ địa_hình tỷ_lệ 1 : 10.000 , 1 : 25.000 và 1 : 50.000 bằng công_nghệ ảnh số và Quy_định thu_nhận dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 tại Phụ_lục số 2 <TT rel="Reference"> Thông_tư số 21/2014/TT-BTNMT </TT> .
+Điều 17 .  Thành_lập mô_hình số địa_hình đối_với trường_hợp sử_dụng các cặp ảnh vệ_tinh lập_thể 
+
+1 . Mô_hình số địa_hình ( DTM ) được thành_lập phục_vụ thể_hiện dáng đất của khu_vực cần cập_nhật và phục_vụ nắn ảnh vệ_tinh . 
+
+2 . Mô_hình số địa_hình ( DTM ) được thành_lập trên cơ_sở kết_quả đo vẽ chi_tiết các yếu_tố mô_tả đặc_trưng địa_hình bao_gồm các đường tụ_thủy , phân thủy , các dạng địa_hình đắp cao , xẻ sâu , các điểm độ cao đặc_trưng , đường bình độ , và các yếu_tố khác có liên_quan kết_hợp với đo lưới điểm độ cao . 
+
+3 . Độ chính_xác của các yếu_tố tham_gia xây_dựng mô_hình số địa_hình đảm_bảo theo quy_định tại Điểm 2.4 của Quy_định kỹ_thuật thành_lập bản_đồ địa_hình tỷ_lệ 1 : 10.000 ;  1 : 25.000 và 1 : 50.000 bằng công_nghệ ảnh số . 
+
+4 . Mô_hình số địa_hình được thành_lập dưới định_dạng TIN hoặc GRID và được lưu_trữ theo từng tệp_tin có tên trùng danh_pháp mảnh bản_đồ tương_ứng để phục_vụ thể_hiện dáng đất . 
+
+5 . Mô_hình số địa_hình được chuyển_đổi sang dạng raster được sử_dụng để phục_vụ nắn ảnh vệ_tinh với yêu_cầu kích_thước pixel như sau : 
+
+a ) Kích_thước pixel của mô_hình số địa_hình_dạng raster không vượt quá 8m x 8m đối_với khu_vực trên bản_đồ yêu_cầu thể_hiện đường bình độ cơ_bản là 2,5 m và ảnh vệ_tinh độ sử_dụng có độ phân_giải mặt_đất nhỏ hơn hoặc bằng 0,5 m ; 
+
+b ) Kích_thước pixel của mô_hình số địa_hình_dạng raster không vượt quá 16m x 16m đối_với khu_vực trên bản_đồ yêu_cầu thể_hiện đường bình độ cơ_bản là 5m và ảnh vệ_tinh độ sử_dụng có độ phân_giải mặt_đất là 1m . 
+
+Điều 18 .  Thành_lập bình_đồ ảnh vệ_tinh 
+
+1 . Sử_dụng mô_hình số độ cao , mô_hình số địa_hình để nắn ảnh vệ_tinh trong trường_hợp độ xê_dịch vị_trí điểm_ảnh do chênh cao địa_hình gây ra lớn hơn hoặc bằng 0,3 mm theo tỷ_lệ bản_đồ cần thành_lập .  Trường_hợp độ xê_dịch vị_trí điểm_ảnh do chênh cao địa_hình gây ra nhỏ hơn 0,3 mm thì sử_dụng độ cao trung_bình khu_vực để nắn ảnh . 
+
+2 . Trường_hợp sử_dụng các cặp ảnh vệ_tinh lập_thể độ phân_giải cao , mô_hình số địa_hình được thành_lập theo quy_định tại Khoản 5 Điều 17 Thông_tư này để nắn ảnh vệ_tinh . 
+
+3 . Trường_hợp sử_dụng các cảnh ảnh đơn thì sử_dụng sản_phẩm mô_hình số độ cao , mô_hình số địa_hình đã có của các dự_án xây_dựng cơ_sở dữ_liệu nền địa_lý trước đó để nắn ảnh . 
+
+4 . Mô_hình số độ cao , mô_hình số địa_hình phải được hiệu_chỉnh độ cao tại những khu_vực có cây cao , mật_độ dày , khu_vực có các công_trình kiến_trúc có chiều cao lớn để đảm_bảo không xảy ra hiện_tượng méo hình , trôi trượt hình_ảnh trên bình_đồ ảnh . 
+
+5 . Ảnh vệ_tinh được nắn theo từng cảnh ảnh .  Bình_đồ ảnh được lưu_trữ theo định_dạng geotiff với kích_thước pixel của bình_đồ ảnh được lấy bằng độ phân_giải danh_nghĩa của ảnh vệ_tinh đầu_vào , hoặc không vượt quá 1m . 
+
+6 . Yêu_cầu về độ chính_xác mặt_phẳng của bình_đồ ảnh như sau : 
+
+a ) Sai_số vị_trí mặt_phẳng của các điểm khống_chế , các điểm kiểm_tra trên bình_đồ ảnh không vượt quá ± 4m ( 0,4 mm tính theo tỷ_lệ bản_đồ 1 : 10.000 ) ; 
+
+b ) Sai_số tương_hỗ về vị_trí của địa_vật nằm trong vùng độ phủ chung giữa các cảnh ảnh : không vượt quá ± 4m đối_với những địa_vật rõ nét và không vượt quá ± 6m đối_với địa_vật không rõ nét . 
+
+7 . Khi các cảnh ảnh vệ_tinh đầu_vào có cả ảnh toàn sắc ( ảnh đen trắng ) và ảnh đa_phổ thì phải thành_lập ảnh tổ_hợp màu tự_nhiên .  Để đảm_bảo các đối_tượng trên bình_đồ ảnh tự_nhiên có hình_ảnh sắc nét , rõ_ràng , phải sử_dụng sản_phẩm bình_đồ ảnh toàn sắc làm ảnh khống_chế khi tăng dày ( mô_hình hóa ) phục_vụ nắn ảnh đa phổ . 
+
+8 . Cắt , ghép khung mảnh bình_đồ ảnh vệ_tinh cần thành_lập : 
+
+a ) Khi mảnh bình_đồ ảnh vệ_tinh cần thành_lập nằm trên nhiều cảnh ảnh khác nhau phải thực_hiện việc ghép ảnh ; 
+
+b ) Không được chọn đường ghép ảnh dọc theo các đối_tượng địa_vật hình tuyến hoặc vùng bị bóng che trên ảnh ; 
+
+c ) Ảnh được ghép phải đảm_bảo không để lộ đường ghép , đảm_bảo độ rõ nét , có độ sáng , độ tương_phản , hài_hòa về mầu_sắc và đồng_đều với các mảnh bình_đồ ảnh xung_quanh ; 
+
+d ) Các mảnh bình_đồ ảnh vệ_tinh được cắt theo danh_pháp mảnh bản_đồ địa_hình tỷ_lệ 1/10 .  000 đảm_bảo chờm khung trong của mảnh bản_đồ 1cm theo mỗi chiều và được lưu_trữ ở định_dạng geotif ;  tên tệp_tin mảnh bình_đồ ảnh vệ_tinh được đặt trùng với tên mảnh bản_đồ địa_hình cần thành_lập . 
+
+9 . Khung_bình đồ ảnh vệ_tinh ( sử_dụng cho điều vẽ ảnh ) gồm khung trong và khung ngoài như mảnh bản_đồ địa_hình cần thành_lập , gồm có : 
+
+a ) Khung_bình đồ ảnh , tọa độ địa_lý , tọa_độ vuông_góc ; 
+
+b ) Tên và phiên_hiệu mảnh bình_đồ ảnh vệ_tinh ; 
+
+c ) Tỷ_lệ bình_đồ ảnh vệ_tinh thành_lập ; 
+
+d ) Sơ_đồ tiếp biên ; 
+
+đ ) Thông_tin về ảnh vệ_tinh ( loại ảnh , độ phân_giải và thời_gian chụp ) ; 
+
+e ) Tên đơn_vị và thời_gian thành_lập bình_đồ ảnh vệ_tinh ; 
+
+g ) Hệ_quy chiếu của bình_đồ ảnh vệ_tinh ; 
+
+10 .  Lưu_dữ_liệu bình_đồ ảnh số : 
+
+Mỗi_một mảnh bình_đồ ảnh số được lưu theo từng thư_mục , tên mỗi thư_mục là tên phiên_hiệu của từng mảnh bản_đồ địa_hình .  Trong mỗi thư_mục gồm : tệp_tin bình_đồ ảnh số định_dạng geotiff và tệp_tin khung bình_đồ ảnh được thành_lập tại Khoản 9 Điều này . 
+
+Điều 19 .  Véc-tơ_hóa các đối_tượng địa_lý trên bình_đồ ảnh vệ_tinh 
+
+Véc -tơ_hóa các đối_tượng địa_lý trên bình_đồ ảnh vệ_tinh tuân theo quy_định kỹ_thuật tại Điểm 4.7 của Quy_định kỹ_thuật thành_lập bản_đồ địa_hình tỷ_lệ 1 : 10.000 ; 1 : 25.000 và 1 : 50.000 bằng công_nghệ ảnh số và Quy_định thu_nhận dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 tại Phụ_lục số 2 <TT rel="Reference"> Thông_tư số 21/2014/TT-BTNMT </TT> .
+Điều 20 .  Điều_tra đối_tượng địa_lý và đo vẽ bổ_sung ngoại_nghiệp 
+
+1 . Điều_tra đối_tượng địa_lý_nội nghiệp từ các tài_liệu , dữ_liệu đo_đạc và bản_đồ , tài_liệu và dữ_liệu chuyên_ngành bao_gồm các bước sau : 
+
+a ) Phân_tích , đánh_giá tài_liệu , dữ_liệu theo yêu_cầu nội_dung cập_nhật ; 
+
+b ) Xây_dựng chỉ_thị thu_nhận dữ_liệu địa_lý ; 
+
+c ) Trường_hợp tư_liệu ảnh vệ_tinh sử_dụng có các kênh ảnh đa_phổ thì phải áp_dụng các kỹ_thuật viễn_thám kết_hợp với cơ_sở dữ_liệu nền địa_lý đã có để xây_dựng các công_cụ giải đoán ảnh để nâng cao hiệu_quả công_tác điều vẽ , giải đoán ảnh_nội nghiệp , ví_dụ như : xây_dựng khóa giải đoán ảnh đối_với một_số đối_tượng lớp phủ bề_mặt ;  tạo kênh ảnh khác_biệt chỉ_số nước , kênh ảnh khác_biệt chỉ_số thực_vật ;  các ảnh tổ_hợp màu khác ( nếu có ) ; 
+
+d ) Lập bản chỉ_dẫn điều_tra ngoại_nghiệp . 
+
+2 . Điều_tra đối_tượng địa_lý ở ngoại_nghiệp phải tuân theo Quy_định thu_nhận dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 tại Phụ_lục số 2 <TT rel="Reference"> Thông_tư số 21/2014/TT-BTNMT </TT> , bao_gồm các bước sau :
+a ) Kiểm_tra , xác_minh , bổ_sung , chỉnh_sửa để làm chính_xác_hóa kết_quả đã chuẩn_bị ở nội nghiệp ; 
+
+b ) Điều_tra thông_tin thuộc_tính cho các loại đối_tượng địa_lý theo quy_định thuộc danh_mục đối_tượng địa_lý 1 : 10.000 . 
+
+3 . Đo vẽ chi_tiết bổ_sung các đối_tượng địa_lý cho khu_vực ảnh cũ , ảnh chất_lượng kém do bị mây , bị lóa_tuân theo quy_định tại Điểm 4.4.7 của Quy_định kỹ_thuật thành_lập bản_đồ địa_hình tỷ_lệ 1 : 10.000 ;  1 : 25.000 và 1 : 50.000 bằng công_nghệ ảnh số . 
+
+Điều 21 .  Chuẩn_hóa cơ_sở dữ_liệu nền địa_lý cập_nhật 
+
+1 . Chuẩn_hóa về không_gian cho các đối_tượng địa_lý thuộc bản trích sao cơ_sở dữ_liệu nền địa_lý , bao_gồm : bổ_sung đối_tượng mới xuất_hiện , biên_tập lại đối_tượng đã thay_đổi , xóa_bỏ đối_tượng không còn tồn_tại ở thực_địa , chuẩn_hóa quan_hệ không_gian giữa các đối_tượng địa_lý . 
+
+2 . Chuẩn_hóa về thuộc_tính của đối_tượng địa_lý theo các quy_định kỹ_thuật hiện_hành . 
+
+3 . Chuẩn_hóa về mối quan_hệ của đối_tượng địa_lý theo các quy_định kỹ_thuật hiện_hành . 
+
+4 . Chuẩn_hóa định_dạng dữ_liệu phục_vụ đồng_bộ và tích_hợp bản trích sao cơ_sở dữ_liệu nền địa_lý cập_nhật vào cơ_sở dữ_liệu nền địa_lý_gốc tỷ_lệ 1 : 10.000 . 
+
+5 . Chuẩn_hóa siêu dữ_liệu ( metadata ) theo các nội_dung đã cập_nhật . 
+
+Điều 22 .  Đồng_bộ bản trích sao cơ_sở dữ_liệu nền địa_lý cập_nhật với cơ_sở dữ_liệu nền địa_lý gốc 
+
+1 . Tiếp_biên dữ_liệu về không_gian và thuộc tính . 
+
+2 . Đồng_bộ các đối_tượng địa_lý về không_gian và thuộc tính . 
+
+3 . Cập_nhật quan_hệ các đối_tượng địa_lý trong cùng loại tỷ_lệ . 
+
+4 . Cập_nhật quan_hệ các đối_tượng địa_lý giữa các loại tỷ_lệ . 
+
+Điều 23 .  Tích_hợp bản trích sao cơ_sở dữ_liệu nền địa_lý cập_nhật sau đồng_bộ vào cơ_sở dữ_liệu nền địa_lý gốc 
+
+Nội_dung_tích_hợp cơ_sở dữ_liệu nền địa_lý tỷ_lệ 1 : 10.000 tuân theo các quy_định tại Chương IV <TT rel="Reference"> Thông_tư số 10/2013/TT-BTNMT </TT> .
+Điều 24 .  Yêu_cầu chung 
+
+Công_tác kiểm_tra nghiệm_thu chất_lượng sản_phẩm cập_nhật cơ_sở dữ_liệu nền địa_lý thực_hiện theo <TT rel="Reference"> Thông_tư quy_định về kiểm_tra , thẩm_định và nghiệm_thu chất_lượng công_trình , sản_phẩm đo_đạc và bản_đồ số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 </TT> của Bộ Tài_nguyên và Môi_trường .
+Điều 25 .  Nội_dung kiểm_tra nghiệm_thu , đóng_gói sản_phẩm cập_nhật cơ_sở dữ_liệu nền địa_lý 
+
+1 . Kiểm_tra nghiệm_thu kết_quả đo nối khống_chế ảnh_ngoại nghiệp : ảnh khống_chế ;  sơ_đồ đo nối điểm khống_chế ảnh_ngoại_nghiệp ;  tài_liệu kiểm_nghiệm máy , dụng_cụ đo_đạc ;  số_đo ;  kết_quả tính_toán bình_sai lưới khống_chế ảnh_ngoại nghiệp . 
+
+2 . Kiểm_tra nghiệm_thu kết_quả tính_toán bình_sai khối tăng dày . 
+
+3 . Kiểm_tra nghiệm_thu sản_phẩm mô_hình số địa_hình . 
+
+4 . Kiểm_tra nghiệm_thu sản_phẩm bình_đồ ảnh vệ_tinh . 
+
+5 . Kiểm_tra nghiệm_thu kết_quả đo vẽ các đối_tượng địa_lý : kết_quả đo vẽ lập_thể và kết_quả véc-tơ_hóa trên bình_đồ ảnh vệ_tinh . 
+
+6 . Kiểm_tra nghiệm_thu kết_quả điều_tra đối_tượng địa_lý và đo vẽ bổ_sung ngoại_nghiệp . 
+
+7 . Nội_dung kiểm_tra nghiệm_thu , đóng_gói sản_phẩm cập_nhật cơ_sở dữ_liệu nền địa_lý được thực_hiện theo từng hạng_mục công_việc và khi hoàn_thành toàn_bộ việc cập_nhật cơ_sở dữ_liệu nền địa_lý , gồm các bước chính như sau : 
+
+a ) Kiểm_tra nghiệm_thu , đóng_gói bản trích sao cơ_sở dữ_liệu nền địa_lý cập_nhật ; 
+
+b ) Kiểm_tra nghiệm_thu việc đồng_bộ bản trích sao cơ_sở dữ_liệu nền địa_lý cập_nhật với cơ_sở dữ_liệu nền địa_lý gốc theo các quy_định kỹ_thuật cơ_sở dữ_liệu nền địa_lý ở tỷ_lệ tương_ứng ; 
+
+c ) Kiểm_tra nghiệm_thu việc tích_hợp vào cơ_sở dữ_liệu nền địa_lý gốc theo quy_định kỹ_thuật của hệ_thống quản_lý cơ_sở dữ_liệu nền địa_lý quốc_gia . 
+
+8 . Việc đóng_gói sản_phẩm cập_nhật cơ_sở dữ_liệu nền địa_lý phải đảm_bảo phạm_vi dữ_liệu đúng theo ranh_giới đã được trích sao ;  định_dạng dữ_liệu theo định_dạng của bản trích sao . 
+
+Điều 26 .  Hiệu_lực thi_hành và tổ_chức thực_hiện 
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 15 tháng 02 năm 2016 
+
+2 . Cục Đo_đạc và Bản_đồ Việt_Nam có trách_nhiệm kiểm_tra việc thực_hiện Thông_tư này . 
+
+3 . Trong quá_trình thực_hiện , nếu có vướng_mắc thì cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định ./. 

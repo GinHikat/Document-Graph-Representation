@@ -1,0 +1,511 @@
+Thông tư Quy định về tổ chức hoạt động, sử dụng thư điện tử và trang thông tin điện tử của các cơ sở giáo dục đại học
+
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 178/2007/NĐ-CP ngày 03 tháng 12 năm 2007 </NĐ> Quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ , cơ_quan ngang Bộ ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về Ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 97/2008/NĐ-CP ngày 28 tháng 8 năm 2008 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin điện_tử trên Internet ;
+Căn_cứ Chỉ_thị số 34/2008/CT-TTg ngày 3 tháng 12 năm 2008 của Thủ_tướng Chính_phủ về việc tăng_cường sử_dụng hệ_thống thư điện_tử trong hoạt_động của cơ_quan nhà_nước ; 
+
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Văn_bản này quy_định về tổ_chức hoạt_động và sử_dụng thư điện_tử ( e-mail ) và trang thông_tin điện_tử ( website ) của các cơ_sở giáo_dục đại_học . 
+
+2 . Văn_bản này áp_dụng đối_với các tổ_chức và cá_nhân có liên_quan , cơ_sở giáo_dục đại_học trong hệ_thống giáo_dục quốc dân bao_gồm đại_học , học_viện , các trường đại_học , cao_đẳng và các viện nghiên_cứu khoa_học được giao nhiệm_vụ đào_tạo trình_độ thạc_sĩ , tiến_sĩ . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Trang thông_tin điện_tử ( website ) là nơi cung_cấp , trao_đổi thông_tin công_khai trên mạng Internet .  Website có_thể bao_gồm nhiều trang thông_tin ( trang_web ) , trong đó có Trang_đầu hay Trang_nhất ( Home page ) là trang hiển_thị ra đầu_tiên khi mở website .  Thông_tin trên các trang_web được truyền_tải bằng kỹ_thuật đa_phương_tiện : văn_bản , âm_thanh , tiếng_nói , đồ_họa , biểu_đồ , hình_ảnh , video và truyền_hình trực_tiếp .  Có_thể truy_cập đến thông_tin của các trang_web khác nhờ các mối siêu kết_nối . 
+
+2 . Cổng thông_tin điện_tử ( portal ) là website tích_hợp các kênh thông_tin , các dịch_vụ và ứng_dụng theo một phương_thức thống_nhất , thông_qua một điểm truy_cập duy_nhất đối_với người sử_dụng . 
+
+Trang thông_tin điện_tử hoặc Cổng thông_tin điện_tử của cơ_sở giáo_dục đại_học sau đây được gọi chung là Website . 
+
+3 . Họp qua web ( web conference ) là hình_thức tổ_chức phòng họp ảo , lớp_học ảo qua web , trong đó các bên tham_gia có_thể trao_đổi thông_tin qua hình_ảnh video , tiếng_nói , bài trình_chiếu , chia_sẻ hình_ảnh màn_hình , chia_sẻ tệp dữ_liệu , gõ văn_bản trao_đổi tức_thời ( chat ) , bỏ_phiếu thăm_dò cùng một_số tiện_ích khác . 
+
+4 . Thuyết_trình qua web ( Webinar ) là hình_thức phát quảng_bá thông_tin một_chiều tới nhiều người tham_dự qua việc truy_cập một trang_web nhất_định ;  thông_tin bao_gồm các sự_kiện như bài giảng , bài báo_cáo , bài thuyết_trình và có_thể kèm hình và tiếng của một báo_cáo_viên . 
+
+5 . Thư điện_tử ( e-mail ) , là phương_tiện liên_lạc , trao_đổi thông_tin thông_qua các hộp thư điện_tử trên Internet của các tổ_chức và cá_nhân .  Mỗi hộp_thư có tên gồm tên-riêng @ tên-miền . 
+
+6 . Tên-miền ( Domain name ) của cơ_sở giáo_dục đại_học là tên đăng_ký sở_hữu của cơ_sở đó trên mạng Internet .  Các cơ_sở giáo_dục đại_học tại Việt_Nam phải có tên_miền chung cấp hai là edu .  vn .  Tên_miền của cơ_sở giáo_dục đại_học ( sau đây được gọi tắt là tên-miền-riêng ) , có mẫu như sau : 
+
+Mã -tên-cơ-sở-giáo_dục-đại-học .  edu .  vn 
+
+Các Viện nghiên_cứu khoa_học được giao nhiệm_vụ đào_tạo trình_độ thạc_sĩ , tiến_sĩ có_thể dùng tên miền Mã-tên-cơ-sở-giáo_dục-đại-học .  ac .  vn 
+
+Trong đó Mã-tên-cơ-sở-giáo_dục-đại-học là cụm ký_tự viết tắt bằng tiếng Việt hay tiếng Anh của cơ_sở giáo_dục đại_học . 
+
+7 . Dịch_vụ công trực_tuyến là dịch_vụ hành_chính công và các dịch_vụ khác của cơ_quan nhà_nước được cung_cấp cho các tổ_chức , cá_nhân trên môi_trường mạng .  Dịch_vụ công trực_tuyến được đánh_giá theo các mức_độ : 
+
+a ) Dịch_vụ công trực_tuyến mức_độ 1 : là dịch_vụ đảm_bảo cung_cấp đầy_đủ các thông_tin về quy_trình , thủ_tục ;  hồ_sơ ;  thời_hạn ;  phí và lệ_phí thực_hiện dịch_vụ . 
+
+b ) Dịch_vụ công trực_tuyến mức_độ 2 : là dịch_vụ công trực_tuyến mức_độ 1 và cho phép người sử_dụng tải về các mẫu văn_bản và khai_báo để hoàn_thiện hồ_sơ theo yêu_cầu .  Hồ_sơ sau khi hoàn_thiện được gửi trực_tiếp hoặc qua đường bưu_điện đến cơ_quan , tổ_chức cung_cấp dịch_vụ . 
+
+c ) Dịch_vụ công trực_tuyến mức_độ 3 : là dịch_vụ công trực_tuyến mức_độ 2 và cho phép người sử_dụng điền và gửi trực_tuyến các mẫu văn_bản đến cơ_quan , tổ_chức cung_cấp dịch_vụ .  Các giao_dịch trong quá_trình xử_lý hồ_sơ và cung_cấp dịch_vụ được thực_hiện trên môi_trường mạng .  Việc thanh_toán lệ_phí ( nếu có ) và nhận kết_quả được thực_hiện trực_tiếp tại cơ_quan , tổ_chức cung_cấp dịch_vụ . 
+
+d ) Dịch_vụ công trực_tuyến mức_độ 4 : là dịch_vụ công trực_tuyến mức_độ 3 và cho phép người sử_dụng thanh_toán lệ_phí ( nếu có ) được thực_hiện trực_tuyến .  Việc trả kết_quả có_thể được thực_hiện trực_tuyến , gửi trực_tiếp hoặc qua đường bưu_điện đến người sử_dụng . 
+
+Điều 3 .  Tên hộp thư điện_tử 
+
+Mỗi cơ_sở giáo_dục đại_học phải thiết_lập hệ_thống thư điện_tử có cấu_trúc theo mẫu chung là Tên-hộp-thư @ Tên-miền-riêng . 
+
+Điều 4 .  Phương_thức thiết_lập hệ_thống thư điện_tử 
+
+1 . Tự thiết_lập máy_chủ thư điện_tử riêng .  Khuyến_khích khai_thác và sử_dụng phần_mềm mã nguồn mở để thiết_lập . 
+
+2 . Sử_dụng các dịch_vụ thư điện_tử được cung_cấp miễn_phí , theo tên_miền riêng của cơ_sở giáo_dục đại_học từ một nhà cung_cấp dịch_vụ .  Theo đó , có đi kèm một_số dịch_vụ khác như chia_sẻ tài_nguyên_văn_bản , lịch biểu . 
+
+Điều 5 .  Cung_cấp hộp thư điện_tử 
+
+1 . Cơ_sở giáo_dục đại_học có trách_nhiệm cung_cấp miễn_phí hộp thư điện_tử theo tên_miền riêng ( bao_gồm địa_chỉ hộp_thư và không_gian lưu_trữ hộp_thư trên máy_chủ ) cho : 
+
+a ) Các đơn_vị trực_thuộc 
+
+b ) Giảng_viên , cán_bộ quản_lý và các nhân_viên khác . 
+
+c ) Cá_nhân làm công_tác quản_lý có hộp thư điện_tử theo chức_vụ . 
+
+d ) Sinh_viên , học_viên cao_học , nghiên_cứu_sinh . 
+
+2 . Một cá_nhân có_thể quản_lý nhiều hộp thư điện_tử : hộp_thư cá_nhân , hộp_thư theo chức_vụ , hộp_thư theo tên đơn_vị . 
+
+Điều 6 .  Tên đầy_đủ của cá_nhân và tập_thể được cấp thư điện_tử 
+
+1 . Tên hộp thư điện_tử trong Tên-hộp-thư @ Tên-miền-riêng 
+
+2 . Tên hiển_thị đầy_đủ để người nhận thư biết rõ : 
+
+Họ và tên + Tên đơn_vị trực_thuộc + Tên cơ_sở giáo_dục 
+
+Điều 7 .  Nhóm thư điện_tử ( e-mail group ) 
+
+Tạo hộp thư điện_tử theo nhóm để phân tải quản_trị hệ_thống thư điện_tử và để tiện trao_đổi thông_tin và liên_lạc trong một nhóm . 
+
+Điều 8 .  Sử_dụng hộp thư điện_tử của Bộ Giáo_dục và Đào_tạo 
+
+Các cơ_sở giáo_dục đại_học sử_dụng các hộp thư điện_tử @ moet .  edu .  vn do Bộ Giáo_dục và Đào_tạo cấp để giao_dịch và tiếp_nhận thông_tin điều_hành do Bộ Giáo_dục và Đào_tạo gửi về .  Mẫu tên hộp thư điện_tử như sau : 
+
+Hieutruong .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phonghcth .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+Phong_dao tao .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+bants .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phongsdh .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phongtccb .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phongcthssv .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phongkhcn .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phongkhtc .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phongcntt .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+phongkdcl .  Mã-tuyển-sinh-trường @ moet .  edu .  vn 
+
+Trong đó Mã-tuyển-sinh-trường là mã tuyển_sinh của trường đại_học , cao_đẳng do Bộ Giáo_dục và Đào_tạo cấp . 
+
+Điều 9 .  Sử_dụng thư điện_tử trong công_tác hành_chính , điều_hành 
+
+1 . Các thành_viên của cơ_sở giáo_dục đại_học phải dùng hộp thư điện_tử theo tên_miền riêng của cơ_sở giáo_dục đại_học khi giao_dịch công_tác với các cơ_quan , đoàn_thể và cá_nhân . 
+
+2 . Cán_bộ được giao quản_lý các hộp thư điện_tử của đơn_vị công_tác có trách_nhiệm thường_xuyên kiểm_tra , xử_lý thông_tin . 
+
+3 . Không được gửi các loại văn_bản mật qua hệ_thống thư điện_tử . 
+
+4 . Người nhận thư cần có trách_nhiệm xác_thực lại nguồn_gốc nội_dung thư với người gửi qua các hình_thức liên_lạc khác . 
+
+5 . Văn_bản được chuyển qua hệ_thống thư điện_tử theo đúng quy_định của pháp_luật , được đảm_bảo xác_thực trong giao_dịch điện_tử sẽ có giá_trị pháp_lý tương_đương với văn_bản giấy trong giao_dịch giữa các cơ_quan nhà_nước và cơ_quan gửi có_thể không phải gửi thêm văn_bản giấy . 
+
+6 . Gửi , nhận thông_tin qua hệ_thống thư điện_tử : 
+
+Gửi thư thông_báo về việc tải văn_bản có giá_trị pháp_lý và độ tin_cậy cao được đăng_tải trên Website của cơ_sở giáo_dục đại_học như quy_định dưới đây và trên Website của Bộ Giáo_dục và Đào_tạo : 
+
+a ) Lịch công_tác của cơ_sở giáo_dục đại_học tới các đơn_vị trực_thuộc ( bên cạnh hình_thức công_bố trên Website như quy_định dưới đây ) ; 
+
+b ) Các tài_liệu trao_đổi phục_vụ công_việc , tài_liệu phục_vụ các cuộc họp ; 
+
+c ) Những văn_bản gửi đến những cơ_quan để biết , để báo_cáo ; 
+
+d ) Sử_dụng hệ_thống thư điện_tử để gửi , nhận các loại văn_bản : thư mời , công_văn , báo_cáo các cấp , các thông_tin chỉ_đạo , điều_hành của lãnh_đạo và các văn_bản khác . 
+
+Điều 10 .  Sử_dụng thư điện_tử trong công_tác đào_tạo 
+
+1 . Các đơn_vị trực_thuộc cơ_sở giáo_dục đại_học gửi các thông_tin , thông_báo , tài_liệu cho giảng_viên , người học có liên_quan . 
+
+2 . Trao_đổi thông_tin giữa giảng_viên và người học . 
+
+3 . Thăm_dò , lấy ý_kiến về chương_trình đào_tạo và các nội_dung hoạt_động khác sau khi người học tốt_nghiệp . 
+
+Điều 11 .  Công_tác an_ninh , an_toàn thông_tin khi sử_dụng thư điện_tử 
+
+1 . Tuân_thủ các quy_định về an_ninh , an_toàn , bảo_mật thông_tin trong quá_trình sử_dụng hệ_thống thư điện_tử , các hành_vi bị nghiêm_cấm và theo quy_định của pháp_luật , quy_chế sử_dụng hệ_thống thư điện_tử của cơ_sở giáo_dục đại_học và các quy_định có liên_quan khác của Nhà_nước . 
+
+2 . Không được gửi thư rác . 
+
+3 . Không được cố_tình phát_tán thư , chuyển_tiếp thư có nội_dung văn_hóa đồi trụy , chống_phá Nhà_nước , kích_động bạo_lực và chiến_tranh , gây chia_rẽ đoàn_kết giữa các dân_tộc , giữa các tôn_giáo và các đơn thư khiếu_nại , khiếu_tố , bôi xấu nhà_trường , gây chia_rẽ nội_bộ . 
+
+4 . Khi có hiện_tượng gây_rối , làm mất an_ninh , an_toàn thông_tin trên mạng , cần thông_báo ngay cho người có trách_nhiệm biết để xử_lý . 
+
+Điều 12 .  Chức_năng trang thông_tin điện_tử của cơ_sở giáo_dục đại_học 
+
+1 . Thông_tin trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học có giá_trị pháp_lý .  ( website của cơ_sở giáo_dục đại_học sau đây gọi tắt là Website ) 
+
+2 . Website của cơ_sở giáo_dục đại_học là tiêu_chí quan_trọng để tự thể_hiện năng_lực , trách_nhiệm công_khai_thông_tin của cơ_sở giáo_dục đại_học đối_với xã_hội và phải chịu trách_nhiệm pháp_lý trước pháp_luật . 
+
+Điều 13 .  Nhiệm_vụ của Website 
+
+1 . Công_bố công_khai , đầy_đủ , chính_xác và kịp_thời các thông_tin của cơ_sở giáo_dục đại_học . 
+
+2 . Xây_dựng mối quan_hệ trực_tuyến giữa cơ_sở giáo_dục đại_học với các tổ_chức , cá_nhân trong nước và quốc_tế theo quy_định của pháp_luật . 
+
+Điều 14 .  Quản_lý Website 
+
+1 . Thủ_trưởng các cơ_sở giáo_dục đại_học quyết_định thành_lập Ban Biên_tập Website gồm : lãnh_đạo cơ_sở giáo_dục đại_học làm Trưởng_ban , các biên_tập_viên và quản_trị_viên hệ_thống . 
+
+2 . Nhiệm_vụ của Ban Biên_tập Website : 
+
+a ) Xây_dựng và vận_hành Website , bao_gồm các cấu phần : hạ_tầng kết_nối_mạng , thiết_bị , nhân_lực , đào_tạo , nội_dung , sao lưu , chống xâm_phạm trái_phép , chống virus , gỡ bỏ thông_tin không phù_hợp khi được phát_hiện ; 
+
+b ) Xây_dựng quy_chế hoạt_động và cung_cấp thông_tin , dữ_liệu của các đơn_vị trực_thuộc .  Chỉ_đạo , đôn_đốc các đơn_vị cung_cấp thông_tin và dữ_liệu ;  rà_soát , kiểm_tra , cập_nhật bổ_sung thông_tin ; 
+
+c ) Biên_tập , xử_lý thông_tin của các chuyên_mục và chuyên_đề ; 
+
+d ) Tổng_hợp ý_kiến đóng_góp của người truy_cập ;  báo_cáo và đề_xuất biện_pháp xử_lý kịp_thời với lãnh_đạo cơ_sở giáo_dục đại_học ;  tổ_chức trao_đổi , thảo_luận trên trang_web diễn_đàn của Website ; 
+
+đ ) Gửi tin , bài , dữ_liệu của cơ_sở giáo_dục đại_học về Website của Bộ Giáo_dục và Đào_tạo theo quy_định .  Cập_nhật và tuyên_truyền các trang thông_tin chuyên_đề hữu_ích cho cơ_sở giáo_dục đại_học và tin_tức từ Website của Bộ Giáo_dục và Đào_tạo . 
+
+3 . Biên_tập_viên chịu trách_nhiệm quản_lý nội_dung các chuyên_mục thông_tin của Website . 
+
+4 . Quản_trị_viên hệ_thống ( admin ) có nhiệm_vụ thiết_kế , xây_dựng và quản_trị Website bao_gồm đăng_ký và quản_lý tên_miền ;  quản_lý chỗ đặt Website hoặc quản_lý máy_chủ_chứa Website ;  phân_cấp , phân_quyền , tạo tài_khoản , tạo mật_khẩu ;  triển_khai biện_pháp an_toàn , an_ninh . 
+
+5 . Hoạt_động trên Website phải tuân_thủ các quy_định của pháp_luật về quản_lý thông_tin trên mạng Internet và các quy_định pháp_luật hiện_hành liên_quan . 
+
+6 . Khi đăng_tải lại trên Website , đề_nghị ghi rõ nguồn thông_tin trích_dẫn . 
+
+Điều 15 .  Trách_nhiệm phối_hợp tổ_chức , cung_cấp và cập_nhật thông_tin , dữ_liệu của các đơn_vị trên Website 
+
+1 . Các đơn_vị thuộc cơ_sở giáo_dục đại_học có trách_nhiệm phối_hợp , cung_cấp đầy_đủ , chính_xác và kịp_thời cho Website các nội_dung thông_tin , dữ_liệu thuộc lĩnh_vực do đơn_vị quản_lý quy_định tại Chương IV của Quy_định này . 
+
+2 . Thủ_trưởng các đơn_vị thuộc cơ_sở giáo_dục đại_học chịu trách_nhiệm trước lãnh_đạo cơ_sở giáo_dục đại_học về thông_tin , dữ_liệu mà đơn_vị cung_cấp . 
+
+Điều 16 .  Thời_hạn cung_cấp và cập_nhật thông_tin , dữ_liệu trên Website 
+
+1 . Đưa ngay sau khi văn_bản và dữ_liệu được ký và đóng_dấu trong ngày ; 
+
+2 . Không quá 10 ngày kể từ khi kết_thúc các sự_kiện khác . 
+
+Điều 17 .  Căn_cứ quy_định chung về thông_tin đưa lên Website 
+
+1 . Khoản 2 , Điều 28 <L rel="Reference"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> .
+2 . <TT rel="Reference"> Thông_tư số 09/2009/TT-BGDĐT ngày 07 tháng 5 năm 2009 </TT> của Bộ_trưởng Bộ Giáo_dục và Đào_tạo về việc Thực_hiện công_khai đối_với cơ_sở giáo_dục của hệ_thống giáo_dục quốc dân . Hàng năm cơ_sở giáo_dục đại_học hoàn_thành các Biểu_mẫu 20 , 21 , 22 và 23 của <TT rel="Reference"> Thông_tư 09/2009/TT-BGDĐT </TT> để đưa lên Website và gửi về Bộ Giáo_dục và Đào_tạo theo quy_định .
+Nội_dung ba công_khai đối_với cơ_sở giáo_dục đại_học gồm : 
+
+a ) Công_khai cam_kết chất_lượng giáo_dục và chất_lượng giáo_dục thực_tế ; 
+
+b ) Công_khai điều_kiện đảm_bảo chất_lượng giáo_dục ; 
+
+c ) Công_khai thu_chi tài_chính . 
+
+Điều 18 .  Áp_dụng công_nghệ và các tiêu_chuẩn cho Website 
+
+1 . Thống_nhất sử_dụng duy_nhất phông_chữ Việt , bộ mã unicode , tiêu_chuẩn Việt_Nam TCVN 6909 : 2001 . 
+
+2 . Có công_cụ tìm_kiếm toàn_văn . 
+
+3 . Đăng_ký đọc tin tự_động RSS . 
+
+4 . Dán thẻ đánh_dấu ( tag ) hoặc từ khóa trên Website để phục_vụ công_tác tìm_kiếm . 
+
+5 . Áp_dụng tiêu_chuẩn , công_nghệ hỗ_trợ người khuyết_tật tiếp_cận , sử_dụng công_nghệ thông_tin và truyền_thông được quy_định tại <TT rel="Reference"> Thông_tư số 28/2009/TT-BTTTT ngày 14 tháng 9 năm 2009 </TT> của Bộ Thông_tin và Truyền_thông .
+6 . Ưu_tiên khai_thác và sử_dụng công_nghệ phần_mềm mã nguồn mở để xây_dựng website hoặc cổng thông_tin điện_tử ( portal ) .  Ưu_tiên sử_dụng định_dạng văn_bản mở khi đưa thông_tin lên Website . 
+
+Điều 19 .  Thông_tin chung về tổ_chức , hành_chính 
+
+1 . Thông_tin giới_thiệu về tổ_chức , chức_năng , nhiệm_vụ , quyền_hạn của cơ_sở giáo_dục đại_học và của từng đơn_vị trực_thuộc , bao_gồm : 
+
+a ) Sứ_mạng và tầm nhìn của cơ_sở giáo_dục đại_học ; 
+
+b ) Sơ_đồ cơ_cấu tổ_chức ; 
+
+c ) Chức_năng nhiệm_vụ , quyền_hạn của từng đơn_vị trực_thuộc ; 
+
+d ) Tóm_lược quá_trình hình_thành và phát_triển ; 
+
+đ ) Họ và tên , chức_vụ , điện_thoại , địa_chỉ hộp thư điện_tử chính_thức , nhiệm_vụ đảm_nhiệm của lãnh_đạo trong đơn_vị ; 
+
+e ) Thông_tin giao_dịch : địa_chỉ , điện_thoại , số fax , địa_chỉ hộp thư điện_tử chính_thức để giao_dịch và tiếp_nhận các thông_tin ; 
+
+g ) Danh_sách cán_bộ , giảng_viên ( kèm theo chức_vụ , chức_danh học_hàm , học_vị và địa_chỉ hộp thư điện_tử ) của từng khoa , bộ_môn và các đơn_vị trực_thuộc cơ_sở giáo_dục đại_học ; 
+
+h ) Mỗi đơn_vị trực_thuộc cơ_sở giáo_dục đại_học như_khoa , bộ_môn , trung_tâm nghiên_cứu , trung_tâm máy_tính , viện nghiên_cứu có một trang_web riêng nằm trong hệ_thống Website của cơ_sở giáo_dục đại_học . 
+
+2 . Các văn_bản quy_định có liên_quan đến hoạt_động của cơ_sở giáo_dục đại_học . 
+
+3 . Thông_tin về thủ_tục hành_chính bao_gồm : 
+
+a ) Thông_báo danh_mục các dịch_vụ công trực_tuyến đang thực_hiện ; 
+
+b ) Quy_trình , thủ_tục , hồ_sơ , nơi tiếp_nhận , tên và thông_tin giao_dịch của người trực_tiếp xử_lý hồ_sơ , thời_hạn giải_quyết , phí và lệ_phí ( nếu có ) ; 
+
+c ) Tổ_chức các dịch_vụ công trực_tuyến và mức_độ trực_tuyến được quy_định tại khoản 7 Điều 2 của Thông_tư này . 
+
+4 . Thông_tin tuyên_truyền , phổ_biến , hướng_dẫn thực_hiện pháp_luật , chế_độ , chính_sách ;  chiến_lược , quy_hoạch của cơ_sở giáo_dục đại_học . 
+
+5 . Mục lấy ý_kiến đóng_góp của tổ_chức , cá_nhân : 
+
+a ) Danh_sách các vấn_đề xin ý_kiến ; 
+
+b ) Mỗi vấn_đề xin ý_kiến cần cung_cấp đầy_đủ các thông_tin và yêu_cầu của vấn_đề như : Toàn_văn nội_dung vấn_đề xin ý_kiến ;  xem nội_dung các góp_ý ;  địa_chỉ e-mail tiếp_nhận góp_ý và thời_hạn tiếp_nhận ý_kiến ; 
+
+c ) Khuyến_khích có mục lấy ý_kiến thăm_dò dư_luận . 
+
+Điều 20 .  Trang thông_tin về công_tác đào_tạo 
+
+1 . Chương_trình đào_tạo : mục_tiêu đào_tạo , kiến_thức , kỹ_năng chuyên_môn , trình_độ ngoại_ngữ và vị_trí làm_việc sau khi tốt_nghiệp ở các trình_độ và theo các ngành đào_tạo ;  yêu_cầu về thái_độ học_tập của người học . 
+
+2 . Các môn_học của từng khóa học , chuyên_ngành : công_khai về giảng_viên giảng_dạy và giảng_viên hướng_dẫn ( nếu có ) , mục_đích môn_học , nội_dung và lịch_trình giảng_dạy , tài_liệu tham_khảo , phương_pháp đánh_giá chất_lượng học_tập của người học . 
+
+3 . Hoạt_động đào_tạo theo đơn đặt_hàng của nhà_nước , địa_phương và doanh_nghiệp : các đơn_vị đặt_hàng đào_tạo , số_lượng , thời_gian , ngành_nghề , trình_độ và kết_quả đào_tạo . 
+
+4 . Chất_lượng giáo_dục thực_tế : số_lượng sinh_viên , học_viên và nghiên_cứu_sinh ở các trình_độ đào_tạo , hệ đào_tạo và chuyên_ngành đào_tạo , có phân_biệt về số_lượng sinh_viên , học_viên và nghiên_cứu_sinh theo kết_quả tốt_nghiệp , theo đơn đặt_hàng của nhà_nước , địa_phương , doanh_nghiệp , tỷ_lệ sinh_viên tốt_nghiệp có việc_làm và học lên trình_độ cao hơn sau 1 năm ra trường . 
+
+Điều 21 .  Tra_cứu thông_tin thi và kết_quả học_tập của sinh_viên 
+
+1 . Lịch_thi các môn_học trước khi thi . 
+
+2 . Kết_quả thi môn_học của sinh_viên theo lớp , khóa , khoa hoặc qua các tài_khoản truy_cập của cá_nhân tùy theo tính_chất của kỳ thi . 
+
+Điều 22 .  Trang thông_tin về thi_tuyển_sinh 
+
+1 . Thông_tin về thi_tuyển_sinh đối_với từng trình_độ đào_tạo : đối_tượng tuyển_sinh , tên ngành và chỉ_tiêu tuyển_sinh tương_ứng , khối thi , lịch thi , địa_điểm , lệ_phí thi , học_phí , mẫu hồ_sơ đăng_ký thi và tuyển_sinh , các điều_kiện dự thi khác ;  các thông_báo kết_quả thi , danh_sách trúng_tuyển ;  các dịch_vụ công đăng_ký trực_tuyến khác . 
+
+2 . Thông_tin về thi và tuyển_sinh của cơ_sở giáo_dục đại_học đăng trên Cổng thông_tin thi và tuyển_sinh của Bộ Giáo_dục và Đào_tạo có địa_chỉ tại http ://thi .  moet .  gov .  vn , là thông_tin chính_thức và có giá_trị pháp_lý .  Các cơ_sở gió dục đại_học tạo đường kết_nối đến Cổng thông_tin thi và tuyển_sinh của Bộ Giáo_dục và Đào_tạo . 
+
+3 . Trước ngày 15 tháng 1 của năm tổ_chức thi_tuyển_sinh đại_học , cao_đẳng , cán_bộ chuyên_trách về thi và tuyển_sinh của cơ_sở giáo_dục đại_học có trách_nhiệm cung_cấp , cập_nhật thông_tin , dữ_liệu về thi và tuyển_sinh ( tên ngành , chỉ_tiêu tuyển_sinh , thời_gian , địa_điểm và các điều_kiện dự thi khác ) trên cổng thông_tin thi và tuyển_sinh của Bộ Giáo_dục và Đào_tạo . 
+
+Sau thời_hạn trên , cơ_sở giáo_dục đại_học có trách_nhiệm thường_xuyên cập_nhật thông_tin khi có thay_đổi . 
+
+4 . Từ cổng thông_tin thi và tuyển_sinh của Bộ Giáo_dục và Đào_tạo , cơ_sở giáo_dục đại_học in biểu_mẫu đăng_ký số_lượng chỉ_tiêu tương_ứng với từng ngành ;  ký_tên , đóng_dấu , gửi về Bộ Giáo_dục và Đào_tạo . 
+
+5 . Cục Công_nghệ thông_tin , Bộ Giáo_dục và Đào_tạo có trách_nhiệm cấp cho mỗi cơ_sở giáo_dục đại_học một tên đăng_nhập và mật_khẩu để tự_quản_lý và tự đăng thông_tin .  Cơ_sở giáo_dục đại_học đăng_ký với Cục Công_nghệ thông_tin qua địa_chỉ e-mail dangky-account @ moet .  edu .  vn . 
+
+Điều 23 .  Trang thông_tin về đào_tạo trình_độ thạc_sĩ 
+
+1 . Danh_mục chuyên_ngành và mã ngành đào_tạo trình_độ thạc_sĩ . 
+
+2 . Niên_giám thống_kê đào_tạo trình_độ thạc_sĩ qua các năm . 
+
+3 . Nội_dung thông_tin về thi_tuyển_sinh đào_tạo trình_độ thạc_sĩ theo quy_định tại khoản 1 Điều 22 của Thông_tư này . 
+
+4 . Khuyến_khích tổ_chức cơ_sở dữ_liệu các luận_văn cao_học để tra_cứu trên Website . 
+
+Điều 24 .  Trang thông_tin về đào_tạo trình_độ tiến_sĩ 
+
+1 . Danh_mục chuyên_ngành và mã ngành đào_tạo trình_độ tiến_sĩ . 
+
+2 . Niên_giám thống_kê đào_tạo trình_độ tiến_sĩ qua các năm . 
+
+3 . Nội_dung thông_tin về thi hoặc tuyển_sinh đào_tạo trình_độ tiến_sĩ theo quy_định tại khoản 1 Điều 22 của Thông_tư này . 
+
+4 . Danh_mục các đề_tài luận_án tiến_sĩ đang thực_hiện : Tên các đề_tài luận_án ;  đề_cương nghiên_cứu ;  tên nghiên_cứu_sinh . 
+
+5 . Danh_mục các luận_án sau khi bảo_vệ cấp cơ_sở : Công_bố tóm_tắt luận_án ;  những điểm mới của luận_án ;  toàn_văn của luận_án ;  ngày bảo_vệ , địa_điểm bảo_vệ và có mục ghi_nhận góp_ý , nhận_xét ( nếu có ) của người đọc website . 
+
+6 . Các luận_án tiến_sĩ đã được bảo_vệ thành_công tại Hội_đồng chấm luận_án cấp quốc_gia , trong đó nghiên_cứu_sinh sau khi bảo_vệ thành_công có trách_nhiệm tiếp_thu góp_ý ( nếu có ) của Hội_đồng chấm luận_án tiến_sĩ và công_bố toàn_văn luận_án đã được chỉnh_sửa ( nếu có ) .  Bảng tra_cứu luận_án tiến_sĩ theo tên ngành , mã ngành , tên nghiên_cứu_sinh , tên đề_tài , tên ( những ) người hướng_dẫn và tóm_tắt các điểm mới của luận_án . 
+
+Điều 25 .  Thông_tin về đội_ngũ nhà_giáo , cán_bộ quản_lý và nhân_viên 
+
+1 . Số_lượng , chức_danh nhà_giáo , cán_bộ quản_lý có phân_biệt theo hình_thức tuyển_dụng và trình_độ đào_tạo . 
+
+2 . Sơ_lược lý_lịch của giảng_viên : họ và tên ( kèm theo ảnh ) , tuổi_đời , thâm_niên giảng_dạy , chức_danh , trình_độ chuyên_môn , công_trình khoa_học , kinh_nghiệm giảng_dạy và nghiên_cứu , hoạt_động nghiên_cứu trong nước và quốc_tế , các bài báo đăng_tải trong nước và quốc_tế ;  thông_tin về họ và tên học_viên , nghiên_cứu_sinh mà giảng_viên đã hướng_dẫn bảo_vệ thành công_trình_độ thạc_sĩ , tiến_sĩ , tóm_tắt đề_tài nghiên_cứu , thời_gian thực_hiện . 
+
+3 . Số_lượng giảng_viên , cán_bộ quản_lý và nhân_viên được đào_tạo , bồi_dưỡng ;  hình_thức , nội_dung , trình_độ và thời_gian đào_tạo và bồi_dưỡng trong năm_học và 2 năm tiếp_theo . 
+
+Điều 26 .  Thông_tin về công_tác nghiên_cứu khoa_học và chuyển_giao công_nghệ , sản_xuất thử và tư_vấn 
+
+1 . Danh_mục tên các dự_án hoặc tên nhiệm_vụ khoa_học công_nghệ trong 5 năm gần đây nhất , hoặc từ khi thành_lập đối_với cơ_sở giáo_dục đại_học mới thành_lập , người chủ_trì và các thành_viên tham_gia , đối_tác trong nước và quốc_tế , thời_gian và kinh_phí thực_hiện , tóm_tắt sản_phẩm của dự_án hoặc nhiệm_vụ nghiên_cứu , ứng_dụng thực_tiễn . 
+
+2 . Hội_nghị , hội_thảo khoa_học trong cơ_sở giáo_dục : tên chủ_đề hội_nghị , hội_thảo khoa_học , mục_đích của hội_thảo , kết_quả mong_đợi đạt được sau hội_thảo , thời_gian và địa_điểm tổ_chức , số_lượng đại_biểu tham_dự và toàn_văn_kỷ_yếu , bài trình_chiếu của hội_thảo . 
+
+3 . Các công_trình nghiên_cứu khoa_học ( bao_gồm cả việc đăng lại toàn_văn các bài báo đã được đăng tại các kỉ_yếu của các hội_thảo , các tạp_chí khoa_học và công_nghệ trong và ngoài nước ) . 
+
+4 . Thông_tin về hoạt_động nghiên_cứu khoa_học của sinh_viên . 
+
+Điều 27 .  Thông_tin về thư_viện sách và thư_viện học liệu điện_tử 
+
+1 . Giáo_trình , tài_liệu tham_khảo do cơ_sở giáo_dục tổ_chức biên_soạn : tên các giáo_trình ( kể_cả giáo_trình điện_tử ) , tài_liệu tham_khảo , năm xuất_bản , kế_hoạch soạn_thảo giáo_trình , tài_liệu tham_khảo của các chuyên_ngành . 
+
+2 . Trang thông_tin thư_viện cho phép tra_cứu tìm_kiếm giáo_trình , sách tham_khảo và theo_dõi việc mượn/trả sách của thư_viện .  Giới_thiệu về thư_viện sách : Thống_kê số đầu tên sách , chủng_loại , sách tiếng Việt và ngoại_ngữ , các tạp_chí và ấn_phẩm khác . 
+
+3 . Trang thư_viện toàn_văn giáo_trình điện_tử . 
+
+4 . Nguồn học liệu mở gồm các bài trình_chiếu , các tài_liệu tham_khảo , bài hướng_dẫn thí_nghiệm , hướng_dẫn làm báo_cáo thực_tập , các bài thí_nghiệm ảo , các bản_thảo viết_tay của giảng_viên . 
+
+5 . Giới_thiệu đường liên_kết đến các thư_viện phần_mềm mã nguồn mở , các phần_mềm tiện_ích miễn_phí hoặc có bản_quyền để sinh_viên tải về sử_dụng , trong đó có thư_viện mạng giáo_dục : 
+
+http ://edu .  net .  vn/media , http ://ebook .  moet .  gov .  vn . 
+
+Điều 28 .  Thông_tin về công_nghệ giáo_dục , học điện_tử ( e-Learning ) 
+
+1 . Tổ_chức chuyên_trang học_tập điện_tử trực_tuyến ( e-Learning online ) để sinh_viên có_thể tham_khảo , hỗ_trợ tự học . 
+
+2 . Tổ_chức dịch_vụ đào_tạo trực_tuyến phục_vụ cho các loại_hình đào_tạo như chính_quy , vừa làm vừa học và đào_tạo từ xa . 
+
+3 . Trao_đổi kinh_nghiệm ứng_dụng công_nghệ thông_tin trong dạy và học . 
+
+Điều 29 .  Tổ_chức phòng họp và lớp_học ảo qua web 
+
+1 . Họp giao_ban , họp giữa cơ_sở giáo_dục với các tổ_chức khác trong và ngoài nước ; 
+
+2 . Dạy_học trực_tuyến giữa các địa_điểm trực_thuộc cơ_sở giáo_dục đại_học , với các đối_tác liên_kết trong nước và quốc_tế ; 
+
+3 . Tổ_chức tham_gia hội_đồng bảo_vệ luận_án , luận_văn qua mạng đối_với các thành_viên ở xa . 
+
+2 . Địa_chỉ phòng họp ảo không nhất_thiết có tên miền nằm trong website của cơ_sở giáo_dục đại_học . 
+
+3 . Tổ_chức lưu_trữ để phát lại các bài giảng , bài thuyết_trình , báo_cáo khoa_học tiêu_biểu , có giá_trị hoặc mang tính thời_sự trên kênh video và qua phòng học ảo . 
+
+4 . Tổ_chức phát hình trực_tiếp , trực_tuyến qua phòng học ảo một_số sự_kiện quan_trọng . 
+
+5 . Tổ_chức thuyết_trình qua web ( Webinar ) . 
+
+Điều 30 .  Thông_tin về công_tác kế_hoạch , tài_chính và đấu_thầu , dự_án 
+
+1 . Công_khai thu , chi tài_chính theo quy_định của Bộ Giáo_dục và Đào_tạo . 
+
+2 . Công_khai mức thu học_phí và các khoản thu khác cho từng năm_học và dự_kiến cả khóa học ;  chính_sách học_bổng và kết_quả thực_hiện trong từng năm_học ;  các nguồn thu từ các hợp_đồng đào_tạo , nghiên_cứu khoa_học , chuyển_giao công_nghệ , sản_xuất , tư_vấn và các nguồn thu hợp_pháp khác . 
+
+3 . Thông_tin về dự_án , hạng_mục đầu_tư : Danh_sách các dự_án đang chuẩn_bị đầu_tư , các dự_án đang triển_khai , các dự_án đã hoàn_tất .  Mỗi dự_án cần có tối_thiểu các thông_tin : Tên dự_án , mục_tiêu chính , lĩnh_vực chuyên_môn , loại dự_án , thời_gian thực_hiện , loại_hình tài_trợ , nhà tài_trợ , tình_trạng thực_hiện dự_án . 
+
+4 . Công_khai_thông_tin về đấu_thầu , gọi_thầu , mua_sắm công . 
+
+Điều 31 .  Niên_giám thống_kê về giáo_dục 
+
+1 . Niên_giám thống_kê của cơ_sở giáo_dục đại_học ít_nhất 5 năm gần đây hoặc từ ngày thành_lập đối_với cơ_sở giáo_dục đại_học mới thành_lập . 
+
+2 . Niên_giám thống_kê gồm các thông_tin cơ_bản sau : Năm_học , số_lượng giảng_viên , giáo_viên , trong số đó có bao_nhiêu giáo_sư , phó_giáo_sư , tiến_sĩ , thạc_sĩ ;  số_lượng sinh_viên , trong đó có chia ra tương_ứng với các loại_hình và trình_độ đào_tạo ;  số_lượng sinh_viên tuyển_sinh đầu_vào ;  số_lượng sinh_viên tốt_nghiệp ra trường . 
+
+Điều 32 .  Trang tin bằng tiếng nước_ngoài và thông_tin hợp_tác quốc_tế 
+
+1 . Có trang thông_tin bằng tiếng Anh và bằng các ngoại_ngữ khác . 
+
+2 . Các hoạt_động liên_quan đến dự_án hợp_tác quốc_tế . 
+
+Điều 33 .  Thông_tin về cơ_sở vật_chất 
+
+1 . Số_lượng và diện_tích giảng_đường , phòng học , phòng chuyên_môn , xưởng thực_tập . 
+
+2 . Thông_tin về ký_túc_xá : Số_lượng , diện_tích , địa_điểm , điều_kiện đăng_ký , giá thuê ( nếu có ) , nội_quy ký_túc_xá . 
+
+3 . Diện_tích , địa_điểm khu hoạt_động thể_dục , thể_thao , văn_hóa . 
+
+4 . Các loại thiết_bị đào_tạo và thí_nghiệm được sử_dụng . 
+
+Điều 34 .  Thông_tin về hoạt_động hỗ_trợ học_tập và sinh_hoạt 
+
+1 . Tư_vấn hỗ_trợ việc_làm , tư_vấn hướng_nghiệp . 
+
+2 . Học_bổng , tín_dụng vay vốn và các dịch_vụ hỗ_trợ khác cho sinh_viên . 
+
+3 . Giải_đáp theo yêu_cầu của sinh_viên về các vấn_đề có liên_quan đến cơ_sở giáo_dục đại_học . 
+
+Điều 35 .  Thông_tin kiểm_định chất_lượng đào_tạo 
+
+Công_khai_thông_tin kiểm_định cơ_sở giáo_dục và chương_trình giáo_dục gồm : kế_hoạch kiểm_định chất_lượng giáo_dục , báo_cáo tự đánh_giá , báo_cáo đánh_giá ngoài và công_nhận đạt hay không đạt tiêu_chuẩn chất_lượng giáo_dục . 
+
+Điều 36 .  Các thông_tin khác 
+
+1 . Trang Diễn_đàn ( forum ) để trao_đổi ý_kiến về các hoạt_động của cơ_sở giáo_dục đại_học . 
+
+2 . Thông_tin về các tổ_chức Đảng , Đoàn , hội thanh_niên và các đoàn_thể khác . 
+
+3 . Thông_cáo báo_chí , trả_lời phỏng_vấn và phát_ngôn chính_thức của cơ_sở giáo_dục đại_học về các vấn_đề có liên_quan . 
+
+Điều 37 .  Hình_thức cung_cấp và cập_nhật thông_tin , dữ_liệu trên Website 
+
+1 . Thông_tin , dữ_liệu do các đơn_vị trực_thuộc cơ_sở giáo_dục đại_học được gửi về Ban biên_tập Website 
+
+a ) Qua hộp thư điện_tử duatin @ mã-tên-cơ-sở-giáo-dục-đại-học .  edu .  vn . 
+
+b ) Hoặc qua các phương_tiện lưu_trữ dữ_liệu khác . 
+
+2 . Thời_gian cập_nhật thông_tin : 
+
+a ) Đối_với các văn_bản hành_chính , điều_hành : Công_bố ngay sau khi ký , đóng_dấu ban_hành ; 
+
+b ) Đối_với tin_tức , sự_kiện : cung_cấp thông_tin kịp_thời , chậm nhất 24h sau khi diễn ra hoạt_động , sự_kiện . 
+
+Điều 38 .  Tạo đường liên_kết thông_tin , dữ_liệu với Website của Bộ Giáo_dục và Đào_tạo 
+
+1 . Trang_văn_bản quy_phạm pháp_luật http ://vanban .  moet .  gov .  vn 
+
+2 . Trang thủ_tục hành_chính trong giáo_dục http ://cchc .  moet .  gov .  vn 
+
+3 . Trang giáo_trình điện_tử http ://ebook .  moet .  gov .  vn 
+
+4 . Trang cẩm_nang điện_tử_thi và tuyển_sinh http ://thi .  moet .  gov .  vn 
+
+và một đường liên_kết đến trang_thi và tuyển_sinh của cơ_sở giáo_dục đại_học 
+
+5 . Trang tài_nguyên giáo_dục và học liệu http ://www .  edu .  net .  vn/media 
+
+Điều 39 .  Kinh_phí thực_hiện Website và thư điện_tử 
+
+1 . Kinh_phí thực_hiện website và thư điện_tử của cơ_sở giáo_dục đại_học được cân_đối trong dự_toán chi của cơ_sở giáo_dục đại_học . 
+
+2 . Kinh_phí thực_hiện website của cơ_sở giáo_dục đại_học được chi cho : 
+
+a ) Đầu_tư và nâng_cấp cơ_sở hạ_tầng , trang_thiết_bị ;  xây_dựng và nâng_cấp các phần_mềm của website ;  thuê chỗ đặt website ; 
+
+b ) Cung_cấp_thiết_bị kết_nối Internet đảm_bảo truy_cập thường_xuyên 24 giờ cho cán_bộ quản_trị mạng và biên_tập_viên chính để theo_dõi , quản_lý , cập_nhật thông_tin Website ; 
+
+c ) Công_tác quản_trị , nhuận_bút , thù_lao cộng_tác_viên , biên_tập_viên và nhân_viên của Website ; 
+
+d ) Mức chi được thực_hiện theo các quy_định hiện_hành của Nhà_nước . 
+
+Điều 40 .  Tổ_chức đánh_giá về hoạt_động của hệ_thống Website và thư điện_tử 
+
+1 . Hàng năm , Bộ Giáo_dục và Đào_tạo tổ_chức đánh_giá , xếp_hạng và công_bố kết_quả đạt được và xếp_hạng theo thứ_bậc về hoạt_động của hệ_thống thư điện_tử và nội_dung thông_tin trên website của cơ_sở giáo_dục đại_học . 
+
+2 . Đối_với thư điện_tử : Đánh_giá tỉ_lệ % giáo_viên và sinh_viên được cấp hộp thư điện_tử của cơ_sở giáo_dục đại_học ; 
+
+3 . Đối_với Website : 
+
+a ) Đánh_giá mức_độ đáp_ứng tính theo đầu mục thông_tin được quy_định trong Thông_tư này ; 
+
+b ) Đánh_giá mức_độ thực_hiện các dịch_vụ công trực_tuyến ; 
+
+c ) Đánh_giá tính chính_xác ; 
+
+d ) Đánh_giá mức_độ cập_nhật thông_tin kịp_thời ; 
+
+đ ) Đánh_giá theo các tiêu_chí về thực_hiện công_khai đối_với cơ_sở giáo_dục đại_học . 
+
+4 . Đánh_giá việc cập_nhật thông_tin trên Cổng thông_tin thi và tuyển_sinh của Bộ . 
+
+5 . Kết_quả đánh_giá được công_bố công_khai hàng năm trên website của Bộ Giáo_dục và Đào_tạo http ://www .  moet .  gov .  vn .  Kết_quả này được Bộ Giáo_dục và Đào_tạo dùng để : 
+
+a ) Kiểm_định chất_lượng giáo_dục ; 
+
+b ) Đánh_giá công_tác thi_đua đối_với cơ_sở giáo_dục đại_học . 
+
+Điều 41 .  Trách_nhiệm của các đơn_vị thuộc Bộ Giáo_dục và Đào_tạo 
+
+1 . Cục Công_nghệ thông_tin có trách_nhiệm : 
+
+a ) Chỉ_đạo , đôn_đốc và hướng_dẫn thực_hiện các nội_dung của Thông_tư này ; 
+
+b ) Tổ_chức tập_huấn , hỗ_trợ dịch_vụ và công_nghệ lập website , họp và đào_tạo trực_tuyến qua web ;  thiết_lập hệ_thống thư điện_tử riêng cho các cơ_sở giáo_dục đại_học có nhu_cầu ; 
+
+c ) Hàng năm chủ_trì tổ_chức đánh_giá , xếp_hạng website của các cơ_sở giáo_dục đại_học và công_bố công_khai trên website của Bộ Giáo_dục và Đào_tạo . 
+
+2 . Các đơn_vị thuộc Bộ Giáo_dục và Đào_tạo sử_dụng thông_tin trên website của các cơ_sở giáo_dục đại_học làm nguồn tin chính_thức có giá_trị pháp_lý cho công_tác_nghiệp_vụ của mình . 
+
+Điều 42 .  Thông_tư này có hiệu_lực thi_hành từ ngày 1 tháng 4 năm 2010 . 
+
+Điều 43 .  Chánh_Văn_phòng , Thủ_trưởng các đơn_vị thuộc Bộ Giáo_dục và Đào_tạo ;  Thủ_trưởng các cơ_sở giáo_dục đại_học chịu trách_nhiệm thi_hành Thông_tư này ./. 

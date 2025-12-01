@@ -1,0 +1,52 @@
+Thông tư Hướng dẫn việc quản Iý, sử dụng, khai thác Phần mềm Quản lý đăng ký tài sản nhà nước
+
+Căn_cứ <L rel="Pursuant"> Luật Quản_lý , sử_dụng tài_sản nhà_nước năm 2008 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 52/2009/NĐ-CP ngày 03 tháng 6 năm 2009 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Quản_lý , sử_dụng tài_sản nhà_nước </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này hướng_dẫn việc quản_lý , sử_dụng , khai_thác Phần_mềm Quản_lý đăng_ký tài_sản nhà_nước . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+1 . Đối_tượng áp_dụng Thông_tư này bao_gồm : 
+
+a ) Bộ Tài_chính ; 
+
+b ) Cơ_quan_tài_chính hoặc cơ_quan khác được giao nhiệm_vụ tiếp_nhận và quản_lý báo_cáo kê_khai tài_sản nhà_nước , báo_cáo kê_khai tài_sản của các dự_án sử_dụng vốn nhà_nước ( gọi chung là cơ_quan_tài_chính ) , cơ_quan quản_lý công_nghệ thông_tin hoặc cơ_quan có chức_năng về quản_lý công_nghệ thông_tin ( gọi chung là cơ_quan quản_lý công_nghệ thông_tin ) của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan trung_ương của tổ_chức chính_trị , tổ_chức chính_trị-xã_hội , tổ_chức chính_trị xã_hội-nghề_nghiệp , tổ_chức xã_hội , tổ_chức xã_hội-nghề_nghiệp , cơ_quan khác ở Trung_ương ( gọi chung là Bộ , cơ_quan trung_ương ) ;  Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương ; 
+
+c ) Cơ_quan , tổ_chức , đơn_vị , Ban quản_lý dự_án sử_dụng vốn nhà_nước ( bao_gồm cả chủ đầu_tư , chủ dự_án trong trường_hợp không thành_lập Ban quản_lý dự_án ) liên_quan đến việc báo_cáo kê_khai , đăng_nhập , chuẩn_hóa dữ_liệu trong Phần_mềm và khai_thác , sử_dụng thông_tin trong Cơ_sở dữ_liệu quốc_gia về tài_sản nhà_nước . 
+
+2 . Thông_tư này không áp_dụng đối_với đơn_vị vũ_trang nhân_dân , cơ_quan đại_diện Việt_Nam ở nước_ngoài . 
+
+Ðiều 3 .  Giải_thích từ_ngữ 
+
+1 . Phần_mềm Quản_lý đăng_ký tài_sản nhà_nước ( sau đây gọi tắt là Phần_mềm ) là ứng_dụng dịch_vụ tài_chính công trực_tuyến hỗ_trợ Bộ Tài_chính , các Bộ , cơ_quan trung_ương , các tỉnh , thành_phố trực_thuộc Trung_ương thực_hiện : 
+
+a ) Tin_học_hóa quá_trình báo_cáo kê_khai tài_sản nhà_nước , tài_sản của các dự_án sử_dụng vốn nhà_nước tại các cơ_quan , tổ_chức , đơn_vị , Ban quản_lý dự_án sử_dụng vốn nhà_nước ( sau đây gọi tắt là Ban quản_lý dự_án ) theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản nhà_nước ; 
+
+b ) Theo_dõi tình_hình biến_động ( tăng , giảm , thay_đổi thông_tin ) của các loại tài_sản nhà_nước , tài_sản của các dự_án sử_dụng vốn nhà_nước phải báo_cáo kê_khai ;  theo_dõi thời_hạn kết_thúc của các dự_án , tình_hình xử_lý_tài_sản của các dự_án sử_dụng vốn nhà_nước khi dự_án kết_thúc ; 
+
+c ) Kết xuất Báo_cáo kê_khai tài_sản nhà_nước , tài_sản của các dự_án sử_dụng vốn nhà_nước ;  các báo_cáo tổng_hợp tình_hình kê_khai tài_sản nhà_nước , tài_sản của các dự_án sử_dụng vốn nhà_nước ; 
+
+d ) Tổng_hợp tình_hình quản_lý , sử_dụng tài_sản nhà_nước , tài_sản của các dự_án sử_dụng vốn nhà_nước trong phạm_vi cả nước , từng Bộ , cơ_quan trung_ương , tỉnh , thành_phố trực_thuộc Trung_ương , từng cơ_quan , tổ_chức , đơn_vị , Ban quản_lý dự_án để hình_thành Cơ_sở dữ_liệu quốc_gia về tài_sản nhà_nước theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản nhà_nước . 
+
+2 . Chứng_thư số được sử_dụng khai_thác Phần_mềm , duyệt báo_cáo điện_tử là chứng_thư số do Ban_Cơ_yếu Chính_phủ cấp từ hệ_thống chứng_thực điện_tử chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị theo quy_định của Nhà_nước để đảm_bảo tính bảo_mật của Phần_mềm . 
+
+3 . Thiết_bị lưu khóa bí_mật ( eToken ) là thiết_bị điện_tử dùng để lưu_trữ chứng_thư số và khóa bí_mật của người sử_dụng . 
+
+4 . Cán_bộ quản_trị Phần_mềm là cán_bộ , công_chức , viên_chức của Bộ Tài_chính , cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương được Thủ_trưởng đơn_vị giao nhiệm_vụ quản_trị , vận_hành Phần_mềm .  Mỗi cán_bộ quản_trị Phần_mềm được cấp một chứng_thư số . 
+
+5 . Người sử_dụng Phần_mềm ( gọi tắt là Người sử_dụng ) là cán_bộ , công_chức , viên_chức các cơ_quan , tổ_chức , đơn_vị , Ban quản_lý dự_án sử_dụng Phần_mềm , được đăng_ký và có quyền truy_cập Phần_mềm theo một vai_trò cụ_thể để thực_hiện các nhiệm_vụ được Thủ_trưởng các đơn_vị quy_định tại khoản 1 Điều 2 Thông_tư này giao .  Người sử_dụng được cấp một tài_khoản ( bao_gồm : tên truy_cập và mật_khẩu ) do Quản_trị hệ_thống tạo_lập . 
+
+Điều 4 .  Điều_kiện vận_hành Phần_mềm 
+
+1 . Máy_vi_tính của Người sử_dụng tại các Bộ , cơ_quan trung_ương phải được kết_nối Internet , tại Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương phải được kết_nối với hạ_tầng truyền_thông của Bộ Tài_chính hoặc kết_nối Internet .  Người sử_dụng được cấp một tài_khoản ( bao_gồm : tên truy_cập và mật_khẩu ) để truy_cập Phần_mềm . 
+
+2 . Máy_vi_tính phải được cài_đặt hệ điều_hành Windows , chương_trình phần_mềm diệt virus , được cập_nhật thường_xuyên các bản nhận_dạng mẫu virus mới , các bản vá lỗi an_ninh cho hệ điều_hành . 
+
+3 . Thông_tin nhập vào Phần_mềm phải sử_dụng font chữ Unicode TCVN 6909 : 2001 và gõ dấu tiếng Việt .  Các văn_bản dùng hệ font chữ khác với Unicode , phải được chuyển_đổi sang định_dạng font chữ Unicode TCVN 6909 : 2001 trước khi tải vào Phần_mềm . 
+
+4 . Đối_với người sử_dụng được cấp_thiết_bị chứng_thư số , ngoài các điều_kiện quy_định tại các khoản 1 , 2 và 3 Điều này , máy vi_tính của người sử_dụng phải được cài_đặt phần_mềm quản_lý thiết_bị lưu khóa bí_mật ( eToken ) do Ban_Cơ_yếu Chính_phủ cấp kèm theo thiết_bị và kết_nối hạ_tầng truyền_thông của Bộ Tài_chính hoặc kết_nối Internet .  Người sử_dụng được cấp etoken và mật_khẩu etoken để bảo_mật . 

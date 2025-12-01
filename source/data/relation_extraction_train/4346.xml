@@ -1,0 +1,136 @@
+Thông tư Quy định kiểm tra thiết bị tín hiệu đuôi tàu thay thế toa xe trưởng tàu trên các đoàn tàu hàng
+
+Căn_cứ <L rel="Pursuant"> Luật Đường_sắt năm 2005 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Chất_lượng sản_phẩm hàng hóa năm 2007 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 14/2015/NĐ-CP ngày 13 tháng 02 năm 2015 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Đường_sắt </L> ;
+Điều 1 .  Phạm_vi điều_chỉnh , đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định về việc kiểm_tra thiết_bị tín_hiệu đuôi tàu khi thay_thế toa_xe trưởng tàu trên các đoàn tàu hàng ( sau đây viết tắt là Thiết_bị tín_hiệu đuôi tàu ) hoạt_động trên đường_sắt quốc_gia , đường_sắt chuyên_dùng có nối ray với đường_sắt quốc_gia . 
+
+2 . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân có liên_quan đến việc nhập_khẩu , sản_xuất , lắp_ráp , sửa_chữa , quản_lý và sử_dụng Thiết_bị tín_hiệu đuôi tàu hoạt_động trên đường_sắt quốc_gia , đường_sắt chuyên_dùng có nối ray với đường_sắt quốc_gia . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Thiết_bị tín_hiệu đuôi tàu là thiết_bị điện_tử được sử_dụng trên các đoàn tàu hàng không có toa_xe trưởng tàu .  Thiết_bị gồm hai bộ_phận cơ_bản : bộ_phận tại đuôi tàu và bộ_phận tại buồng_lái để giúp lái tàu giám_sát áp_suất ống hãm và thực_hiện hãm khẩn tại vị_trí toa_xe cuối đoàn xe trong quá_trình vận_hành . 
+
+2 . Bộ_phận tại đuôi tàu là bộ_phận được lắp_đặt tại vị_trí cuối đoàn tàu có các chức_năng báo áp_suất ống hãm , xả gió tại toa_xe cuối đoàn tàu để thực_hiện nhập_khẩu , báo tín_hiệu đuôi tàu và truyền dữ_liệu tại đuôi tàu về bộ_phận điều_khiển ở buồng_lái đầu_máy bằng sóng vô_tuyến . 
+
+3 . Bộ_phận tại buồng_lái là bộ_phận được lắp_đặt tại buồng_lái của đầu máy_kéo tàu có chức_năng điều_khiển bộ_phận giám_sát tại đuôi tàu thực_hiện xả gió để hãm khẩn tại toa_xe cuối đoàn tàu , thu_nhận thông_tin dữ_liệu từ bộ giám_sát tại đuôi tàu để hiển_thị cho tài_xế theo_dõi trong quá_trình vận_hành đoàn tàu . 
+
+4 . Đơn_vị quản_lý , sử_dụng Thiết_bị tín_hiệu đuôi tàu là tổ_chức có nhiệm_vụ quản_lý , sử_dụng Thiết_bị tín_hiệu đuôi tàu phục_vụ cho công_tác vận_hành các đoàn tàu hàng . 
+
+Điều 3 .  Yêu_cầu chung 
+
+1 . Giám_sát được áp_suất ống hãm tại toa_xe cuối đoàn tàu ; 
+
+2 . Giám_sát được trạng_thái kết_nối toa_xe trong quá_trình đoàn tàu vận_hành ; 
+
+3 . Ghi lại áp_suất ống hãm tại toa_xe cuối đoàn tàu trong quá_trình vận_hành ; 
+
+4 . Điều_khiển việc xả gió ống hãm tại toa_xe cuối đoàn tàu để thực_hiện hãm khẩn_cấp ; 
+
+5 . Báo tín_hiệu đuôi tàu . 
+
+Điều 4 .  Yêu_cầu kỹ_thuật 
+
+1 . Thiết_bị tín_hiệu đuôi tàu phải gọn_nhẹ , dễ mang xách , có vỏ bọc cứng , dễ lắp_đặt , sử_dụng , sửa_chữa , bảo_dưỡng .  Thiết_bị phải hoạt_động bình_thường trong điều_kiện thời_tiết khắc_nghiệt như mưa , nắng , gió bão và điều_kiện xóc , lắc khi lắp_đặt trên đầu_máy , toa_xe . 
+
+2 . Thiết_bị tín_hiệu đuôi tàu phải hiển_thị rõ các thông_tin và đọc được các thông_tin bằng mắt thường dưới ánh_sáng ban_ngày hoặc khi có đèn_chiếu sáng vào ban_đêm . 
+
+3 . Thiết_bị tín_hiệu đuôi tàu phải báo chính_xác áp_suất ống hãm , sai_lệch trị_số áp_suất hiển_thị trên bộ_phận tại đuôi tàu và bộ_phận tại buồng_lái cho phép không quá 0,1 bar .  Đồng_hồ áp_suất báo áp_suất hãm trên bộ_phận giám_sát tại đuôi tàu phải được kiểm chuẩn và dán tem kiểm_tra của cơ_quan có thẩm_quyền . 
+
+4 . Thiết_bị tín_hiệu đuôi tàu phải cảnh_báo cho lái tàu biết khi áp_suất ống hãm tại toa_xe cuối đoàn tàu giảm áp nhỏ hơn : 
+
+a ) 4,6 bar đối_với đoàn tàu cấp gió ép với áp_suất ống hãm 5 bar ; 
+
+b ) 5,6 bar đối_với đoàn tàu cấp gió ép với áp_suất ống hãm 6 bar . 
+
+5 . Thiết_bị tín_hiệu đuôi tàu phải điều_khiển được_việc xả gió ống hãm tại toa_xe cuối đoàn tàu để thực_hiện hãm khẩn_cấp .  Thời_gian nhận lệnh điều_khiển từ bộ_phận tại buồng_lái đến bộ_phận tại đuôi tàu để kích_hoạt van xả gió khẩn_cấp ở đuôi tàu không quá 2 giây .  Bộ_phận tại đuôi tàu khi nhận lệnh hãm phải mở van xả gió khẩn_cấp và giữ van ở trạng_thái mở trong thời_gian từ 15 giây đến 70 giây . 
+
+6 . Thiết_bị tín_hiệu đuôi tàu phải truyền được thông_tin , dữ_liệu và lệnh hãm của lái tàu giữa bộ_phận tại đuôi tàu và bộ_phận tại buồng_lái bằng sóng vô_tuyến liên_tục trong suốt quá_trình vận_hành bình_thường của đoàn tàu .  Tần_số phát_sóng vô_tuyến phải được cơ_quan có thẩm_quyền cấp phép . 
+
+7 . Khoảng_cách truyền , nhận sóng vô_tuyến giữa bộ_phận tại đuôi tàu và bộ_phận tại buồng_lái phải đúng theo quy_định của nhà chế_tạo và không được ngắn hơn 1000 m . 
+
+8 . Điện_áp ắc_quy phải đúng với quy_định của nhà chế_tạo .  Dung_lượng ắc_quy phải bảo_đảm yêu_cầu sau : 
+
+a ) Đối_với Thiết_bị tín_hiệu đuôi_tàu nhập_khẩu , sản_xuất , lắp_ráp mới phải cấp được nguồn điện bảo_đảm cho thiết_bị làm_việc liên_tục trong thời_gian tối_thiểu là 36 giờ ; 
+
+b ) Đối_với Thiết_bị tín_hiệu đuôi tàu trong quá_trình khai_thác , sử_dụng phải cấp được nguồn điện bảo_đảm cho thiết_bị làm_việc liên_tục trong thời_gian tối_thiểu là 20 giờ . 
+
+9 . Thiết_bị tín_hiệu đuôi tàu phải báo tín_hiệu đuôi tàu cả ngày lẫn đêm .  Bộ_phận tại đuôi tàu báo bằng đèn màu đỏ và tự_động điều_chỉnh được cường_độ sáng theo điều_kiện của môi_trường . 
+
+10 .  Đối_với Thiết_bị tín_hiệu đuôi tàu có cảm_biến_chuyển_động , bộ_phận tại buồng_lái phải hiển_thị tín_hiệu trên màn_hình để báo cho lái tàu biết trạng_thái chuyển_động của toa_xe cuối_cùng trong quá_trình đoàn tàu vận_hành . 
+
+11 .  Đối_với Thiết_bị tín_hiệu đuôi tàu có kết_nối với hệ_thống định_vị vệ_tinh GPS và hệ_thống_đếm trục bánh toa_xe trên đường_sắt , bộ_phận tại buồng_lái phải hiển_thị số_liệu hỗ_trợ cho lái tàu giám_sát được tính toàn_vẹn của đoàn tàu , chiều dài và sự thay_đổi chiều dài đoàn tàu trong quá_trình vận_hành . 
+
+12 .  Thiết_bị tín_hiệu đuôi tàu phải ghi và lưu_trữ chính_xác áp_suất ống hãm tại toa_xe cuối đoàn tàu trong quá_trình vận_hành .  Dữ_liệu ghi lại của thiết_bị phải bảo_đảm tính liên_tục .  Dung_lượng bộ_nhớ thiết_bị ghi được dữ_liệu vận_hành tối_thiểu trong 55 giờ .  Dữ_liệu lưu_giữ tại thiết_bị phải xuất ra và đọc được trên máy_tính . 
+
+Điều 5 .  Kiểm_tra Thiết_bị tín_hiệu đuôi_tàu nhập_khẩu , sản_xuất , lắp_ráp mới 
+
+1 . Hồ_sơ đăng_ký kiểm_tra 
+
+a ) Giấy đề_nghị kiểm_tra Thiết_bị tín_hiệu đuôi tàu của đơn_vị nhập_khẩu hoặc sản_xuất , lắp_ráp_thiết_bị theo mẫu quy_định tại Phụ_lục 1 ban_hành kèm theo Thông_tư này ; 
+
+b ) Bản_gốc hoặc bản_sao có chứng_thực của giấy chứng_nhận nguồn_gốc xuất_xứ của Thiết_bị tín_hiệu đuôi tàu , bản_sao tờ khai nhập_khẩu của cơ_quan Hải_quan ( áp_dụng đối_với thiết_bị nhập_khẩu ) ; 
+
+c ) Bản_gốc hoặc bản_sao có chứng_thực giấy chứng_nhận chất_lượng Thiết_bị tín_hiệu đuôi tàu của nhà sản_xuất ; 
+
+d ) Bản_sao tài_liệu kỹ_thuật kèm theo Thiết_bị tín_hiệu đuôi tàu có xác_nhận của đơn_vị nhập_khẩu , sản_xuất , lắp_ráp . 
+
+2 . Nội_dung , phương_thức kiểm_tra 
+
+Thực_hiện kiểm_tra đối_với từng Thiết_bị tín_hiệu đuôi tàu theo các nội_dung sau : 
+
+a ) Kiểm_tra sự đầy_đủ của hồ_sơ theo quy_định tại khoản 1 của Điều này . 
+
+b ) Kiểm_tra Thiết_bị tín_hiệu đuôi tàu khi lắp lên đoàn tàu hàng để vận_hành thực_tế hoặc trên bàn thử , thiết_bị kiểm_tra có tính_năng tương_đương .  Nội_dung kiểm_tra phải phù_hợp với quy_định tại Chương II của Thông_tư này . 
+
+Điều 6 .  Kiểm_tra định_kỳ 
+
+a ) Giấy đề_nghị kiểm_tra của đơn_vị quản_lý , sử_dụng Thiết_bị tín_hiệu đuôi tàu theo mẫu quy_định tại Phụ_lục 1 ban_hành kèm Thông_tư này . 
+
+b ) Biên_bản kiểm_tra nghiệm_thu thiết_bị khi bảo_dưỡng định_kỳ của đơn_vị quản_lý , sử_dụng Thiết_bị tín_hiệu đuôi tàu . 
+
+2 . Nội_dung phương_thức kiểm_tra 
+
+a ) Kiểm_tra sự đầy_đủ của hồ_sơ theo quy_định tại khoản 1 của Điều này ; 
+
+b ) Kiểm_tra Thiết_bị tín_hiệu đuôi tàu khi lắp lên đoàn tàu hàng để vận_hành thực_tế hoặc trên bàn thử thiết_bị kiểm_tra có tính_năng tương_đương .  Nội_dung kiểm_tra phải phù_hợp với quy_định tại Chương II của Thông_tư này . 
+
+Điều 7 .  Trình_tự kiểm_tra , cấp giấy chứng_nhận cho Thiết_bị tín_hiệu đuôi_tàu 
+
+1 . Tổ_chức , cá_nhân nộp 01 bộ hồ_sơ đến Cục Đăng_kiểm Việt_Nam .  Thành_phần hồ_sơ bao_gồm : 
+
+a ) Đối_với trường_hợp kiểm_tra Thiết_bị tín_hiệu đuôi_tàu nhập_khẩu , sản_xuất lắp , ráp mới : theo quy_định tại khoản 1 Điều 5 của Thông_tư này . 
+
+b ) Đối_với trường_hợp kiểm_tra định_kỳ Thiết_bị tín_hiệu đuôi tàu : theo quy_định tại khoản 1 Điều 6 của Thông_tư này . 
+
+2 . Cục Đăng_kiểm Việt_Nam tiếp_nhận , kiểm_tra hồ_sơ .  Trường_hợp hồ_sơ không đầy_đủ theo quy_định thì hướng_dẫn tổ_chức , cá_nhân hoàn_thiện lại ngay trong ngày làm_việc ( đối_với trường_hợp nộp hồ_sơ trực_tiếp ) hoặc hướng_dẫn , hoàn_thiện hồ_sơ sau 02 ngày làm_việc , kể từ ngày nhận hồ_sơ ( đối_với trường_hợp nộp hồ_sơ qua đường bưu_chính ) .  Trường_hợp hồ_sơ đầy_đủ theo quy_định thì thống_nhất thời_gian và địa_điểm kiểm_tra với tổ_chức , cá_nhân đăng_ký kiểm_tra . 
+
+3 . Cục Đăng_kiểm Việt_Nam tiến_hành kiểm_tra thực_tế tại địa_điểm đã được thống_nhất với tổ_chức , cá_nhân nộp đăng_ký kiểm_tra .  Nếu kết_quả kiểm_tra không đạt thì thông_báo trả_lời tổ_chức , cá_nhân đăng_ký kiểm_tra và nêu rõ lý_do sau 01 ngày làm_việc .  Nếu kết_quả kiểm_tra đạt yêu_cầu , sau 02 ngày làm_việc , kể từ ngày kết_thúc kiểm_tra thì cấp Giấy chứng_nhận cho Thiết_bị tín_hiệu đuôi tàu theo mẫu quy_định tại Phụ_lục 2 ban_hành kèm theo Thông_tư này . 
+
+4 . Cách_thức thực_hiện : Tổ_chức , cá_nhân nộp hồ_sơ và nhận kết_quả kiểm_tra trực_tiếp tại trụ_sở Cục Đăng_kiểm Việt_Nam hoặc qua hệ_thống bưu_chính . 
+
+Điều 8 .  Thời_hạn hiệu_lực của Giấy chứng_nhận 
+
+1 . Đối_với Thiết_bị tín_hiệu đuôi tàu khi nhập_khẩu , sản_xuất , lắp_ráp mới là 24 tháng . 
+
+2 . Đối_với Thiết_bị tín_hiệu đuôi tàu trong quá_trình khai_thác , sử_dụng là 12 tháng . 
+
+Điều 9 .  Trách_nhiệm của đơn_vị quản_lý sử_dụng Thiết_bị tín_hiệu đuôi_tàu 
+
+1 . Chịu trách_nhiệm quản_lý sửa_chữa , bảo_dưỡng , duy_trì tình_trạng kỹ_thuật của Thiết_bị tín_hiệu đuôi tàu và đảm_bảo các yêu_cầu kỹ_thuật được quy_định tại Chương II của Thông_tư này trong quá_trình khai_thác , sử_dụng . 
+
+2 . Trả phí kiểm_tra , chứng_nhận Thiết_bị tín_hiệu đuôi tàu theo quy_định của Bộ Tài_chính . 
+
+Điều 10 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực kể từ ngày 01 tháng 7 năm 2015 . 
+
+Điều 11 .  Điều_khoản chuyển_tiếp 
+
+Đối_với các Thiết_bị tín_hiệu đuôi tàu đã nhập_khẩu , sản_xuất , lắp_ráp trước ngày 01 tháng 7 năm 2015 mà chưa được kiểm_tra , cấp Giấy chứng_nhận thì phải hoàn_thành việc kiểm_tra định_kỳ trước ngày 30 tháng 12 năm 2015 . 
+
+Điều 12 .  Trách_nhiệm tổ_chức thực_hiện 
+
+Chánh_Văn_phòng , Chánh Thanh_tra Bộ , các Vụ_trưởng , Cục_trưởng Cục Đăng_kiểm Việt_Nam , Cục_trưởng Cục Đường_sắt Việt_Nam , Tổng_giám_đốc Tổng_công_ty Đường_sắt Việt_Nam , Thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . 

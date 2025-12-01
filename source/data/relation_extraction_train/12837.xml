@@ -1,0 +1,485 @@
+Thông tư Sửa đổi, bổ sung một số điều của Thông tư số 30/2009/TT-BTNMT ngày 31 tháng 12 năm 2009 của Bộ Tài nguyên và môi trường quy định về quy trình và định mức kinh tế - kỹ thuật xây dựng cơ sở dữ liệu tài nguyên và môi trường
+
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 102/2008/NĐ-CP ngày 15 tháng 9 năm 2008 </NĐ> của Chính_phủ về việc thu_thập , quản_lý , khai_thác và sử_dụng dữ_liệu về tài nguyền và môi_trường ;
+Căn_cứ <QĐ rel="Pursuant"> Quyết_định số 179/2004/QĐ-TTg ngày 06 tháng 10 năm 2004 </QĐ> của Thủ_tướng Chính_phủ về việc phê_duyệt Chiến_lược ứng_dụng và phát_triển công_nghệ thông_tin tài_nguyên và môi_trường đến năm 2015 và định_hướng đến năm 2020 ;
+Điều 1 . Sửa_đổi , bổ_sung các điểm sau của <TT rel="Amended"> Thông_tư số 30/2009/TT-BTNMT ngày 31 tháng 12 năm 2009 </TT> của Bộ Tài_nguyên và Môi_trường Quy_định về Quy_trình và Định_mức kinh_tế-kỹ_thuật xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường :
+1 . Sửa_đổi điểm 5.1 ( Dụng_cụ ) khoản 5 ( Định_mức vật_tư , thiết_bị ) mục IV ( Chuẩn_hóa và chuyển_đổi dữ_liệu ) chương II ( Định_mức xây_dựng cơ_sở dữ_liệu tài nguyền và môi_trường ) như sau : 
+
+Ca/01 đối_tượng quản_lý 
+
+STT 
+
+Dụng_cụ 
+
+ĐVT 
+
+Thời_hạn ( tháng ) 
+
+Chuyển_đổi dữ_liệu không_gian về hệ tọa_độ 
+
+Chuẩn_hóa dữ_liệu không_gian theo thiết_kế mô_hình dữ_liệu 
+
+Chuẩn_hóa phông_chữ 
+
+Chuẩn_hóa dữ_liệu phi không_gian theo thiết_kế mô_hình dữ_liệu 
+
+Chuyển_đổi dữ_liệu sau khi được chuẩn_hóa vào mô_hình dữ_liệu 
+
+1 
+
+Hộp đựng tài_liệu 
+
+Cái 
+
+2 
+
+6,80 
+
+280,00 
+
+64,00 
+
+32,00 
+
+,00 
+
+2 
+
+Túi đựng tài_liệu 
+
+80,00 
+
+,00 
+
+3 
+
+Dập ghim 
+
+4 
+
+,20 
+
+53,00 
+
+6,00 
+
+,00 
+
+4 
+
+Ổ ghi đĩa DVD 
+
+60 
+
+,60 
+
+6,50 
+
+6,50 
+
+,00 
+
+,20 
+
+5 
+
+Ghế 
+
+96 
+
+,00 
+
+6 
+
+Bàn làm_việc 
+
+,00 
+
+7 
+
+Quạt_trần 100W 
+
+,10 
+
+5,00 
+
+8,00 
+
+,00 
+
+,50 
+
+8 
+
+Đèn_neon 40W 
+
+Bộ 
+
+,20 
+
+0,00 
+
+6,00 
+
+,00 
+
+9 
+
+Tủ đựng tài_liệu 
+
+0 
+
+Giá để tài_liệu 
+
+Điện 
+
+kw 
+
+,18 
+
+,9 
+
+,10 
+
+,05 
+
+,7 
+
+. Sửa_đổi điểm 3.1 ( Dụng_cụ ) khoản 3 ( Định_mức vật_tư , thiết_bị ) mục V ( Nhập dữ_liệu ) chương II ( Định_mức xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+Dữ_liệu phi không_gian 
+
+Dữ_liệu không_gian 
+
+Có cấu_trúc 
+
+Không có cấu_trúc 
+
+Yếu_tố dạng_điểm 
+
+Yếu_tố dạng_vùng 
+
+Yếu_tố dạng đường 
+
+0.0130 
+
+0.2000 
+
+0.00 
+
+.00 
+
+0.00 
+
+.00 
+
+.00 
+
+0.0016 
+
+0.0250 
+
+.50 
+
+.00 
+
+0.0032 
+
+0.0500 
+
+.00 
+
+.00 
+
+0 
+
+0.0025 
+
+0.0820 
+
+.78 
+
+.02 
+
+. Sửa_đổi điểm .  2 ( Thiết_bị ) khoản ( Định_mức vật_tư , thiết_bị ) mục V ( Nhập dữ_liệu ) chương II ( Định_mức xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+Thiết_bị 
+
+CS ( kW ) 
+
+Máy_tính để bàn 
+
+0,4 
+
+0.0040 
+
+0.0400 
+
+Máy_in laser 
+
+0,6 
+
+0.0007 
+
+0.0060 
+
+.05 
+
+0.84 
+
+Điều_hòa nhiệt_độ 
+
+, 
+
+0.0022 
+
+0.0090 
+
+.5 
+
+.68 
+
+Máy_photocopy 
+
+,5 
+
+0.0005 
+
+0.0050 
+
+0.75 
+
+0.60 
+
+0.0180 
+
+0.4000 
+
+7.05 
+
+0.64 
+
+. Sửa_đổi điểm 3.3 ( Vật_liệu ) khoản 3 ( Định_mức vật_tư , thiết_bị ) mục V ( Nhập dữ_liệu ) chương II ( Định_mức xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+Vật_liệu 
+
+Giấy_A4 
+
+Gram 
+
+0.00003 
+
+0.00200 
+
+Mực in laser 
+
+Hộp 
+
+0.00001 
+
+0.00010 
+
+0.0010 
+
+Mực máy photocopy 
+
+0.00020 
+
+0.0001 
+
+0.0009 
+
+Bút_bi 
+
+0.0200 
+
+0.5000 
+
+ghim dập 
+
+Giấy ghi_chú 
+
+Tập 
+
+0.0002 
+
+0.0030 
+
+0.0020 
+
+Cặp để tài_liệu 
+
+0.0003 
+
+. Sửa_đổi điểm .  1 ( Dụng_cụ ) khoản ( Định_mức vật_tư , thiết_bị ) mục II ( Phân_tích nội_dung dữ_liệu ) chương III ( Định_mức xây_dựng phần_mềm hỗ_trợ việc xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+Ca/01 đối_tượng quản_lý 
+
+Dụng_cụ 
+
+Thời_hạn ( tháng ) 
+
+Xác_định đối_tượng quản_lý 
+
+Xác_định thông_tin mô_tả cho từng đối_tượng quản_lý 
+
+Xác_định các ràng_buộc của đối_tượng quản_lý 
+
+đựng tài_liệu 
+
+0,00 
+
+,00 
+
+Túi đựng tài_liệu 
+
+0,00 
+
+Dập ghim 
+
+,00 
+
+,00 
+
+Ổ ghi đĩa DVD 
+
+0 
+
+,00 
+
+,00 
+
+Ghế 
+
+,00 
+
+Bàn làm_việc 
+
+Quạt_trần 100W 
+
+,50 
+
+,00 
+
+8 
+
+Đèn_neon 40W 
+
+,00 
+
+,00 
+
+9 
+
+Tủ đựng tài_liệu 
+
+0 
+
+Giá để tài_liệu 
+
+,78 
+
+,07 
+
+. Sửa_đổi điểm 4.5 ( Thiết_kế giao_diện phần_mềm ) khoản 4 ( Định_mức lao_động công_nghệ ) mục III ( Thiết_kế hệ_thống ) chương III ( Định_mức xây_dựng phần_mềm hỗ_trợ việc xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+Công/01 trường_hợp sử_dụng 
+
+Danh_mục công_việc 
+
+Công 
+
+Thiết_kế giao_diện 
+
+. Sửa_đổi điểm 5.1 ( Dụng_cụ ) khoản 5 ( Định_mức vật_tư , thiết_bị ) mục V ( Kiểm_thử ) chương III ( Định_mức xây_dựng phần_mềm hỗ_trợ việc xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+Ca/01 trường_hợp sử_dụng 
+
+Kiểm_tra mã nguồn theo tiêu_chuẩn 
+
+Kiểm_tra mức thành_phần 
+
+Kiểm_tra mức hệ_thống 
+
+,60 
+
+,20 
+
+0,30 
+
+0,60 
+
+0 
+
+0,15 
+
+,20 
+
+0,20 
+
+0,40 
+
+0,80 
+
+0 
+
+. Sửa_đổi điểm 5.1 ( Dụng_cụ ) khoản 5 ( Định_mức vật_tư , thiết_bị ) mục VI ( Triển_khai ) chương III ( Định_mức xây_dựng phần_mềm hỗ_trợ việc xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+Xây_dựng tài_liệu hướng_dẫn sử_dụng 
+
+Đóng_gói phần_mềm 
+
+Đào_tạo 
+
+,60 
+
+,00 
+
+0 
+
+,00 
+
+,00 
+
+0 
+
+,5 
+
+Điều 2 .  Thông_tư này có hiệu_lực thi_hành kể từ ngày 11 tháng 5 năm 2011 
+
+. Sửa_đổi điểm 5.1 ( Dụng_cụ ) khoản 5 ( Định_mức vật_tư , thiết_bị ) mục VI ( Triển_khai ) chương III ( Định_mức xây_dựng phần_mềm hỗ_trợ việc xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+,60 
+
+,00 
+
+0 
+
+,00 
+
+,00 
+
+0 
+
+,5 
+
+Điều 3 .  Bộ_trưởng , Thủ_trưởng các cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương , Cục_trưởng Cục Công_nghệ thông_tin , Thủ_trưởng các đơn_vị thuộc Bộ Tài_nguyên và Môi_trường , Giám_đốc Sở Tài_nguyên và Môi_trường các tỉnh , thành_phố trực_thuộc Trung_ương và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . 
+
+. Sửa_đổi điểm 5.1 ( Dụng_cụ ) khoản 5 ( Định_mức vật_tư , thiết_bị ) mục VI ( Triển_khai ) chương III ( Định_mức xây_dựng phần_mềm hỗ_trợ việc xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ) như sau : 
+
+,60 
+
+,00 
+
+0 
+
+,00 
+
+,00 
+
+0 
+
+,5 
+
+Trong quá_trình thực_hiện nếu có vướng_mắc đề_nghị các cơ_quan , đơn_vị phản_ánh về Bộ Tài_nguyên và Môi_trường để nghiên_cứu , sửa_đổi , bổ_sung cho phù_hợp ./. 

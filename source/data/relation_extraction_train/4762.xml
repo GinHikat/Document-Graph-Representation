@@ -1,0 +1,238 @@
+Thông tư Hướng dẫn về khởi tạo, phát hành và sử dụng hoá đơn điện tử bán hàng hóa, cung ứng dịch vụ
+
+Căn_cứ <L rel="Pursuant"> Luật Quản_lý thuế ngày 29 tháng 11 năm 2006 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Kế_toán ngày 17 tháng 6 năm 2003 </L> và các văn_bản hướng_dẫn thi_hành ;
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </L> , <NĐ rel="Pursuant"> Nghị_định số 27/2007/NĐ-CP ngày 23/02/2007 </NĐ> về giao_dịch điện_tử trong hoạt_động tài_chính , <NĐ rel="Pursuant"> Nghị_định số 35/2007/NĐ-CP ngày 08/03/2007 </NĐ> về giao_dịch điện_tử trong hoạt_động ngân_hàng ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 51/2010/NĐ-CP ngày 14 tháng 5 năm 2010 </NĐ> của Chính_phủ quy_định về hóa_đơn bán hàng_hóa , cung_ứng dịch_vụ ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 118/2008/NĐ-CP ngày 27 tháng 11 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ,
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này hướng_dẫn về việc khởi tạo , phát_hành , sử_dụng , quản_lý_hóa đơn điện_tử khi bán hàng_hóa , cung_ứng dịch_vụ . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với : 
+
+- Tổ_chức , cá_nhân lựa_chọn sử_dụng hóa_đơn điện_tử khi mua_bán hàng_hóa , cung_ứng dịch_vụ . 
+
+- Tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử là tổ_chức cung_cấp giải_pháp hỗ_trợ việc khởi tạo , truyền , nhận , lưu_trữ , phục_hồi thông_điệp dữ_liệu của hóa_đơn điện_tử giữa người bán hàng và người mua hàng . 
+
+- Cơ_quan quản_lý thuế các cấp và các tổ_chức , cá_nhân có liên_quan đến việc khởi tạo , phát_hành và sử_dụng hóa_đơn điện_tử . 
+
+Điều 3 .  Hóa_đơn điện_tử 
+
+1 . Hóa_đơn điện_tử là tập_hợp các thông_điệp dữ_liệu điện_tử về bán hàng_hóa , cung_ứng dịch_vụ , được khởi tạo , lập , gửi , nhận , lưu_trữ và quản_lý bằng phương_tiện điện_tử .  Hóa_đơn điện_tử phải đáp_ứng các nội_dung quy_định tại Điều 6 Thông_tư này . 
+
+Hóa_đơn điện_tử được khởi tạo , lập , xử_lý trên hệ_thống máy_tính của tổ_chức đã được cấp mã_số thuế khi bán hàng_hóa , dịch_vụ và được lưu_trữ trên máy_tính của các bên theo quy_định của pháp_luật về giao_dịch điện_tử . 
+
+Hóa_đơn điện_tử gồm các loại : hóa_đơn xuất_khẩu ;  hóa đơn_giá_trị gia_tăng ;  hóa_đơn bán hàng ;  hóa_đơn khác gồm : tem , vé , thẻ , phiếu thu tiền bảo_hiểm … ;  phiếu thu tiền cước vận_chuyển hàng không , chứng_từ thu cước_phí vận_tải quốc_tế , chứng_từ thu phí dịch_vụ ngân_hàng … , hình_thức và nội_dung được lập theo thông_lệ quốc_tế và các quy_định của pháp_luật có liên_quan . 
+
+Hóa_đơn điện_tử đảm_bảo nguyên_tắc : xác_định được số hóa_đơn theo nguyên_tắc liên_tục và trình_tự thời_gian , mỗi số hóa_đơn đảm_bảo chỉ được lập và sử_dụng một lần duy_nhất . 
+
+2 . Hóa_đơn đã lập dưới dạng giấy nhưng được xử_lý , truyền hoặc lưu_trữ bằng phương_tiện điện_tử không phải là hóa_đơn điện_tử . 
+
+3 . Hóa_đơn điện_tử có giá_trị pháp_lý nếu thỏa_mãn đồng_thời các điều_kiện sau : 
+
+a ) Có sự đảm_bảo đủ tin_cậy về tính toàn_vẹn của thông_tin chứa trong hóa_đơn điện_tử từ khi thông_tin được tạo ra ở dạng cuối_cùng là hóa_đơn điện_tử . 
+
+Tiêu_chí đánh_giá tính toàn_vẹn là thông_tin còn đầy_đủ và chưa bị thay_đổi , ngoài những thay_đổi về hình_thức phát_sinh trong quá_trình trao_đổi , lưu_trữ hoặc hiển_thị_hóa đơn điện_tử . 
+
+b ) Thông_tin chứa trong hóa_đơn điện_tử có_thể truy_cập , sử_dụng được dưới dạng hoàn_chỉnh khi cần_thiết . 
+
+Điều 4 .  Nguyên_tắc sử_dụng , điều_kiện của tổ_chức khởi tạo hóa_đơn điện_tử 
+
+1 . Nguyên_tắc sử_dụng hóa_đơn điện_tử 
+
+Trường_hợp người bán lựa_chọn sử_dụng hóa_đơn điện_tử khi bán hàng_hóa , cung_cấp dịch_vụ , người bán có trách_nhiệm thông_báo cho người mua về định_dạng_hóa đơn điện_tử , cách_thức truyền nhận hóa_đơn điện_tử giữa người bán và người mua ( nêu rõ cách_thức truyền nhận hóa_đơn điện_tử là truyền trực_tiếp từ hệ_thống của người bán sang hệ_thống của người mua ;  hoặc người bán thông_qua hệ_thống trung_gian của tổ_chức cung_cấp giải_pháp hóa_đơn điện_tử để lập hóa_đơn và truyền cho người mua ) . 
+
+Người bán , người mua , tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử ( trường_hợp thông_qua tổ_chức trung_gian ) và các đơn_vị có liên_quan phải có thỏa_thuận về yêu_cầu kỹ_thuật và các điều_kiện bảo_đảm tính toàn_vẹn , bảo_mật có liên_quan đến hóa_đơn điện_tử đó . 
+
+2 . Điều_kiện của tổ_chức khởi tạo hóa_đơn 
+
+Người bán hàng_hóa , dịch_vụ ( sau gọi chung là người bán ) khởi tạo hóa_đơn điện_tử phải đáp_ứng điều_kiện sau : 
+
+a ) Là tổ_chức kinh_tế có đủ điều_kiện và đang thực_hiện giao_dịch điện_tử trong khai thuế với cơ_quan thuế ;  hoặc là tổ_chức kinh_tế có sử_dụng giao_dịch điện_tử trong hoạt_động ngân_hàng . 
+
+b ) Có địa_điểm , các đường truyền_tải thông_tin , mạng thông_tin , thiết_bị truyền tin đáp_ứng yêu_cầu khai_thác , kiểm_soát , xử_lý , sử_dụng , bảo_quản và lưu_trữ hóa_đơn điện_tử ; 
+
+c ) Có đội_ngũ người thực_thi đủ trình_độ , khả_năng tương_xứng với yêu_cầu để thực_hiện việc khởi tạo , lập , sử_dụng hóa_đơn điện_tử theo quy_định ; 
+
+d ) Có chữ_ký điện_tử theo quy_định của pháp_luật . 
+
+đ ) Có phần_mềm bán hàng_hóa , dịch_vụ kết_nối với phần_mềm kế_toán , đảm_bảo dữ_liệu của hóa_đơn điện_tử bán hàng_hóa , cung_ứng dịch_vụ được tự_động chuyển vào phần_mềm ( hoặc cơ_sở dữ_liệu ) kế_toán tại thời_điểm lập hóa_đơn . 
+
+e ) Có các quy_trình sao lưu dữ_liệu , khôi_phục dữ_liệu , lưu_trữ dữ_liệu đáp_ứng các yêu_cầu tối_thiểu về chất_lượng lưu_trữ bao_gồm : 
+
+- Hệ_thống lưu_trữ dữ_liệu phải đáp_ứng hoặc được chứng_minh là tương_thích với các chuẩn_mực về hệ_thống lưu_trữ dữ_liệu ; 
+
+- Có quy_trình sao lưu và phục_hồi dữ_liệu khi hệ_thống gặp sự_cố : đảm_bảo sao lưu dữ_liệu của hóa_đơn điện_tử ra các vật_mang tin hoặc sao lưu trực_tuyến toàn_bộ dữ_liệu . 
+
+Điều 5 .  Điều_kiện của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử 
+
+Tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử phải đáp_ứng các điều_kiện sau : 
+
+- Là doanh_nghiệp hoạt_động tại Việt_Nam có Giấy chứng_nhận đăng_ký kinh_doanh hoặc Giấy chứng_nhận đầu_tư hoặc Giấy_phép đầu_tư của doanh_nghiệp đầu_tư tại Việt_Nam trong lĩnh_vực công_nghệ thông_tin hoặc là ngân_hàng được cung_cấp dịch_vụ giao_dịch điện_tử trong hoạt_động ngân_hàng . 
+
+- Có chương_trình phần_mềm về khởi tạo , lập và truyền nhận hóa_đơn điện_tử đảm_bảo hóa_đơn điện_tử được lập đáp_ứng các nội_dung theo quy_định tại Điều 6 Thông_tư này . 
+
+- Đã triển_khai hệ_thống cung_cấp giải_pháp công_nghệ thông_tin để phục_vụ trao_đổi dữ_liệu điện_tử giữa các doanh_nghiệp hoặc giữa các tổ_chức với nhau . 
+
+- Có hệ_thống_thiết_bị , kỹ_thuật đảm_bảo cung_cấp giải_pháp hóa_đơn điện_tử đáp_ứng yêu_cầu_kinh_doanh và quy_định pháp_luật về phát_hành hóa_đơn . 
+
+- Có khả_năng phát_hiện , cảnh_báo và ngăn_chặn các truy_nhập bất_hợp_pháp , các hình_thức tấn_công trên môi_trường mạng để đảm_bảo tính bảo_mật , toàn_vẹn của dữ_liệu trao_đổi giữa các bên tham_gia . 
+
+- Có các quy_trình và thực_hiện sao lưu dữ_liệu , sao lưu trực_tuyến dữ_liệu , khôi_phục dữ_liệu ;  có biện_pháp dự_phòng khắc_phục sự_cố liên_quan đến việc khôi_phục dữ_liệu . 
+
+- Có giải_pháp lưu_trữ kết_quả các lần truyền nhận giữa các bên tham_gia giao_dịch ;  lưu_trữ hóa_đơn điện_tử với yêu_cầu thông_điệp dữ_liệu điện_tử phải được lưu_giữ trên hệ_thống . 
+
+- Định_kỳ 6 tháng_một lần , tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử phải có văn_bản báo_cáo cơ_quan thuế ( theo Mẫu_số 3 Phụ_lục ban_hành kèm theo Thông_tư này ) các nội_dung sau : danh_sách các doanh_nghiệp có sử_dụng giải_pháp hóa_đơn điện_tử của tổ_chức ( bao_gồm cả người bán hàng , người mua hàng ) ;  số_lượng hóa_đơn đã sử_dụng ( gồm : loại hóa_đơn , ký_hiệu hóa_đơn , ký_hiệu mẫu , số thứ_tự ) . 
+
+Điều 6 .  Nội_dung của hóa_đơn điện_tử 
+
+1 . Hóa_đơn điện_tử phải có các nội_dung sau : 
+
+a ) Tên_hóa_đơn , ký_hiệu hóa_đơn , ký_hiệu mẫu , số thứ tự hóa_đơn ; 
+
+Ký_hiệu hóa_đơn , ký_hiệu mẫu , số thứ_tự trên hóa_đơn thực_hiện theo quy_định tại Phụ_lục số 1 <TT rel="Reference"> Thông_tư số 153/2010/TT-BTC </TT> của Bộ Tài_chính .
+b ) Tên , địa_chỉ , mã_số thuế của người bán ; 
+
+c ) Tên , địa_chỉ , mã_số thuế của người mua ; 
+
+d ) Tên hàng_hóa , dịch_vụ ;  đơn_vị tính , số_lượng , đơn_giá hàng_hóa , dịch_vụ ;  thành tiền ghi bằng số và bằng chữ . 
+
+Đối_với hóa đơn_giá_trị gia_tăng , ngoài dòng đơn_giá là giá chưa có thuế giá_trị gia_tăng , phải có dòng thuế_suất thuế giá_trị gia_tăng , tiền thuế giá_trị gia_tăng , tổng_số tiền phải thanh_toán ghi bằng số và bằng chữ . 
+
+e ) Chữ_ký điện_tử theo quy_định của pháp_luật của người bán ;  ngày , tháng năm lập và gửi hóa_đơn .  Chữ_ký điện_tử theo quy_định của pháp_luật của người mua trong trường_hợp người mua là đơn_vị kế_toán . 
+
+g ) Hóa_đơn được thể_hiện bằng tiếng Việt .  Trường_hợp cần ghi thêm chữ nước_ngoài thì chữ nước_ngoài được đặt bên phải trong ngoặc_đơn ( ) hoặc đặt ngay dưới dòng tiếng Việt và có cỡ nhỏ hơn chữ tiếng Việt .  Chữ_số ghi trên hóa_đơn là các chữ_số tự_nhiên : 0 , 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 ;  sau chữ_số hàng nghìn , triệu , tỷ , nghìn_tỷ , triệu_tỷ , tỷ_tỷ phải đặt dấu_chấm ( .  ) ; nếu có ghi chữ_số sau chữ_số hàng đơn_vị phải đặt dấu_phẩy ( , ) sau chữ_số hàng đơn_vị .  Trường_hợp không có quy_định cụ_thể giữa người mua và người bán_về ngôn_ngữ sử_dụng trong việc lập hóa_đơn điện_tử để xuất_khẩu hàng_hóa , dịch_vụ thì ngôn_ngữ được sử_dụng trên hóa_đơn điện_tử ( hóa_đơn xuất_khẩu ) là tiếng Anh . 
+
+Trường_hợp sử_dụng dấu phân_cách là dấu_phẩy ( , ) sau chữ_số hàng nghìn , triệu , tỷ , nghìn_tỷ , triệu_tỷ , tỷ_tỷ và sử_dụng dấu_chấm ( .  ) sau chữ_số hàng đơn_vị để ghi chữ_số sau chữ_số hàng đơn_vị thì tổ_chức khởi tạo hóa_đơn điện_tử phải ghi rõ tại Thông_báo phát_hành hóa_đơn điện_tử nội_dung này . 
+
+Các nội_dung quy_định từ điểm b đến điểm d khoản 1 Điều này phải phản_ánh đúng tính_chất , đặc_điểm của ngành_nghề kinh_doanh , xác_định được nội_dung hoạt_động kinh_tế phát_sinh , số tiền thu được , xác_định được người mua hàng ( hoặc người nộp tiền , người thụ_hưởng dịch_vụ … ) , người bán hàng ( hoặc người cung_cấp dịch_vụ … ) , tên hàng hóa dịch_vụ-hoặc nội_dung thu tiền . 
+
+2 . Một_số trường_hợp hóa_đơn điện_tử không có đầy_đủ các nội_dung bắt_buộc được thực_hiện theo hướng_dẫn riêng của Bộ Tài_chính . 
+
+Điều 7 .  Khởi tạo , phát_hành hóa_đơn điện_tử 
+
+1 . Khởi tạo hóa_đơn điện_tử là hoạt_động tạo định_dạng cho hóa_đơn , thiết_lập đầy_đủ các thông_tin của người bán , loại hóa_đơn , ký_hiệu hóa_đơn , định_dạng truyền – nhận và lưu_trữ hóa_đơn trước khi bán hàng_hóa , dịch_vụ trên phương_tiện điện_tử của tổ_chức kinh_doanh hoặc của các tổ_chức cung_cấp dịch_vụ về hóa_đơn điện_tử và được lưu_trữ trên phương_tiện điện_tử của các bên theo quy_định của pháp_luật . 
+
+Tổ_chức khởi tạo hóa_đơn điện_tử trước khi khởi tạo hóa_đơn điện_tử phải ra quyết_định áp_dụng hóa_đơn điện_tử gửi cho cơ_quan thuế quản_lý trực_tiếp bằng văn_bản giấy hoặc bằng văn_bản điện_tử gửi thông_qua cổng thông_tin điện_tử của cơ_quan thuế và chịu trách_nhiệm về quyết_định này ( theo Mẫu_số 1 Phụ_lục ban_hành kèm theo Thông_tư này ) . 
+
+Quyết_định áp_dụng hóa_đơn điện_tử gồm các nội_dung chủ_yếu sau : 
+
+- Tên hệ_thống_thiết_bị ( tên các phương_tiện điện_tử ) , tên phần_mềm ứng_dụng dùng để khởi tạo , lập hóa_đơn điện_tử . 
+
+Phương_tiện điện_tử là phương_tiện hoạt_động dựa trên công_nghệ_điện , điện_tử , kỹ_thuật_số , từ_tính , truyền_dẫn không dây , quang_học , điện_từ hoặc công_nghệ tương_tự . 
+
+- Bộ_phận kỹ_thuật hoặc tên nhà cung_ứng dịch_vụ chịu trách_nhiệm về mặt kỹ_thuật hóa_đơn điện_tử , phần_mềm ứng_dụng ; 
+
+- Quy_trình khởi tạo , lập , luân_chuyển và lưu_trữ dữ_liệu hóa_đơn điện_tử trong nội_bộ tổ_chức . 
+
+- Trách_nhiệm của từng bộ_phận trực_thuộc liên_quan việc khởi tạo , lập , xử_lý , luân_chuyển và lưu_trữ dữ_liệu hóa_đơn điện_tử trong nội_bộ tổ_chức bao_gồm cả trách_nhiệm của người được thực_hiện chuyển_đổi hóa_đơn điện_tử sang hóa_đơn giấy . 
+
+2 . Phát_hành hóa_đơn điện_tử 
+
+Trước khi sử_dụng hóa_đơn điện_tử , tổ_chức khởi tạo hóa_đơn điện_tử phải lập Thông_báo phát_hành hóa_đơn điện_tử gửi cơ_quan thuế quản_lý trực_tiếp .  Thông_báo phát_hành hóa_đơn điện_tử ( theo Mẫu_số 2 Phụ_lục ban_hành kèm theo Thông_tư này ) gồm các nội_dung : tên đơn_vị phát_hành hóa_đơn điện_tử , mã_số thuế , địa_chỉ , điện_thoại , các loại hóa_đơn phát_hành ( tên loại hóa_đơn , ký_hiệu hóa_đơn , ký_hiệu mẫu_số hóa_đơn , ngày bắt_đầu sử_dụng , số_lượng hóa_đơn thông_báo phát_hành ( từ số .  . . đến số ... ) ) , ngày lập Thông_báo phát_hành ;  tên , chữ_ký của người đại_diện theo pháp_luật và dấu của đơn_vị ( trường_hợp gửi Thông_báo phát_hành tới cơ_quan thuế bằng giấy ) ;  hoặc chữ_ký điện_tử của tổ_chức phát_hành ( trường_hợp gửi đến cơ_quan thuế bằng đường điện_tử thông_qua cổng thông_tin điện_tử của cơ_quan thuế ) . 
+
+Trường_hợp có sự thay_đổi địa_chỉ kinh_doanh , tổ_chức khởi tạo hóa_đơn điện_tử phải gửi thông_báo phát_hành hóa_đơn cho cơ_quan thuế nơi chuyển đến , trong đó nêu rõ số hóa_đơn đã phát_hành chưa sử_dụng , sẽ tiếp_tục sử_dụng . 
+
+Trường_hợp có sự thay_đổi về nội_dung đã thông_báo phát_hành , tổ_chức , khởi tạo hóa_đơn điện_tử thực_hiện thông_báo phát_hành mới theo hướng_dẫn tại khoản này . 
+
+Tổ_chức khởi tạo hóa_đơn điện_tử phải ký số vào hóa_đơn điện_tử mẫu và gửi hóa_đơn điện_tử mẫu ( theo đúng định_dạng gửi cho người mua ) đến cơ_quan thuế theo đường điện_tử . 
+
+Thông_báo phát_hành hóa_đơn điện_tử ( không bao_gồm hóa_đơn điện_tử mẫu ) phải niêm_yết tại trụ_sở tổ_chức khởi tạo hóa_đơn điện_tử hoặc đăng_tải trên trang thông_tin điện_tử của tổ_chức khởi tạo hóa_đơn điện_tử trong thời_gian sử_dụng hóa_đơn điện_tử . 
+
+3 . Tổ_chức kinh_doanh có_thể đồng_thời tạo nhiều hình_thức hóa_đơn khác nhau ( hóa_đơn tự in , hóa_đơn đặt in , hóa đơn điện_tử ) và phải thực_hiện thông_báo phát_hành từng hình_thức hóa_đơn theo quy_định . 
+
+Trường_hợp bán hàng_hóa , cung_cấp dịch_vụ , đối_với mỗi lần bán hàng_hóa , cung_cấp dịch_vụ , tổ_chức kinh_doanh chỉ sử_dụng một ( 01 ) hình_thức hóa_đơn , cụ_thể : nếu tổ_chức kinh_doanh sử_dụng hóa_đơn tự in cho lần bán hàng_hóa , cung_cấp dịch_vụ thì không dùng hóa_đơn đặt in , hóa đơn điện_tử cho lần bán hàng_hóa , cung_cấp dịch_vụ đó ;  nếu sử_dụng hóa_đơn điện_tử thì không sử_dụng hóa_đơn tự in , hóa_đơn đặt in ;  nếu sử_dụng hóa_đơn đặt in thì không sử_dụng hóa_đơn điện_tử , hóa_đơn tự in . 
+
+Điều 8 .  Lập hóa_đơn điện_tử 
+
+1 . Lập hóa_đơn điện_tử là việc thiết_lập đầy_đủ các thông_tin quy_định tại Điều 6 Thông_tư này khi bán hàng_hóa , dịch_vụ trên định_dạng_hóa_đơn đã được xác_định .  Các hình_thức lập hóa_đơn điện_tử : 
+
+- Người bán hàng_hóa , dịch_vụ ( tổ_chức khởi tạo hóa_đơn điện_tử ) thực_hiện lập hóa_đơn điện_tử tại hệ_thống phần_mềm lập hóa_đơn điện_tử của người bán ; 
+
+- Người bán hàng_hóa , dịch_vụ ( tổ_chức khởi tạo hóa_đơn điện_tử ) truy_cập vào chương_trình hệ_thống lập hóa_đơn điện_tử của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử để khởi tạo và lập hóa_đơn điện_tử . 
+
+2 . Gửi_hóa đơn điện_tử là việc truyền dữ_liệu của hóa_đơn từ người bán hàng_hóa , dịch_vụ đến người mua hàng_hóa , dịch_vụ . 
+
+Các hình_thức gửi hóa_đơn điện_tử : 
+
+- Gửi trực_tiếp : Người bán hàng_hóa , dịch_vụ ( tổ_chức khởi tạo hóa_đơn điện_tử ) thực_hiện lập hóa_đơn điện_tử tại hệ_thống phần_mềm lập hóa_đơn điện_tử của người bán , ký điện_tử trên hóa_đơn và truyền trực_tiếp đến hệ_thống của người mua theo cách_thức truyền nhận hóa_đơn điện_tử đã thỏa_thuận giữa hai bên .  Trường_hợp người mua hàng_hóa , dịch_vụ là đơn_vị kế_toán thì người mua ký điện_tử trên hóa_đơn điện_tử nhận được và truyền hóa_đơn điện_tử có đủ chữ_ký điện_tử cả hai bên cho người bán theo cách_thức truyền nhận hóa_đơn điện_tử đã thỏa_thuận giữa hai bên . 
+
+- Gửi thông_qua tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử : 
+
+Người bán hàng_hóa , dịch_vụ ( tổ_chức khởi tạo hóa_đơn ) truy_cập vào chương_trình hệ_thống lập hóa_đơn điện_tử của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử để khởi tạo , lập hóa_đơn điện_tử bằng chương_trình lập hóa_đơn điện_tử của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử hoặc người bán hàng_hóa , dịch_vụ đưa dữ_liệu hóa_đơn điện_tử đã được tạo từ hệ_thống nội_bộ của người bán vào hệ_thống của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử để gửi cho người mua hóa_đơn điện_tử đã có chữ_ký điện_tử của người bán thông_qua hệ_thống của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử .  Trường_hợp người mua là đơn_vị kế_toán , khi nhận được hóa_đơn điện_tử có chữ_ký điện_tử của người bán , người mua thực_hiện ký điện_tử trên hóa_đơn điện_tử nhận được và gửi cho người bán_hóa đơn điện_tử có đủ chữ_ký điện_tử của người mua và người bán thông_qua hệ_thống của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử . 
+
+Điều 9 .  Xử_lý đối_với hóa_đơn điện_tử đã lập 
+
+1 . Trường_hợp hóa_đơn điện_tử đã lập và gửi cho người mua nhưng chưa giao hàng_hóa , cung_ứng dịch_vụ hoặc hóa_đơn điện_tử đã lập và gửi cho người mua , người bán và người mua chưa kê_khai thuế , nếu phát_hiện sai thì chỉ được hủy khi có sự đồng_ý và xác_nhận của người bán và người mua .  Việc hủy_hóa đơn điện_tử có hiệu_lực theo đúng thời_hạn do các bên tham_gia đã thỏa_thuận .  Hóa_đơn điện_tử đã hủy phải được lưu_trữ phục_vụ việc tra_cứu của cơ_quan nhà_nước có thẩm_quyền . 
+
+Người bán thực_hiện lập hóa_đơn điện_tử mới theo quy_định tại Thông_tư này để gửi cho người mua , trên hóa_đơn điên tử mới phải có dòng chữ “ hóa_đơn này thay_thế hóa_đơn số … , ký_hiệu , gửi ngày_tháng năm . 
+
+2 . Trường_hợp hóa_đơn đã lập và gửi cho người mua , đã giao hàng_hóa , cung_ứng dịch_vụ , người bán và người mua đã kê_khai thuế , sau đó phát_hiện sai_sót thì người bán và người mua phải lập văn_bản thỏa_thuận có chữ_ký điện_tử của cả hai bên ghi rõ sai_sót , đồng_thời người bán lập hóa_đơn điện_tử điều_chỉnh sai_sót .  Hóa_đơn điện_tử lập sau ghi rõ điều_chỉnh ( tăng , giảm ) số_lượng hàng_hóa , giá bán , thuế_suất thuế giá_trị gia_tăng , tiền thuế giá_trị gia_tăng cho hóa_đơn điện_tử_số … , ký_hiệu … Căn_cứ vào hóa_đơn điện_tử điều_chỉnh , người bán và người mua thực_hiện kê_khai điều_chỉnh theo quy_định của pháp_luật về quản_lý thuế và hóa_đơn hiện_hành .  Hóa_đơn điều_chỉnh không được ghi số_âm (-) . 
+
+Điều 10 .  Báo_cáo sử_dụng , ủy_nhiệm lập hóa_đơn điện_tử 
+
+Báo_cáo sử_dụng hóa_đơn điện_tử và việc_ủy_nhiệm lập hóa_đơn điện_tử được thực_hiện theo quy_định tại <TT rel="Reference"> Thông_tư số 153/2010/TT-BTC ngày 28/9/2010 </TT> của Bộ Tài_chính . Tổ_chức khởi tạo hóa_đơn điện_tử được gửi báo_cáo sử_dụng hóa_đơn điện_tử theo đường điện_tử thông_qua cổng thông_tin điện_tử của cơ_quan thuế .
+Điều 11 .  Lưu_trữ , hủy và tiêu_hủy_hóa đơn điện_tử 
+
+1 . Người bán , người mua hàng_hóa , dịch_vụ sử_dụng hóa_đơn điện_tử để ghi sổ kế_toán , lập báo_cáo tài_chính phải lưu_trữ hóa_đơn điện_tử theo thời_hạn quy_định của <L rel="Reference"> Luật Kế_toán </L> . Trường_hợp hóa_đơn điện_tử được khởi tạo từ hệ_thống của tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử thì tổ_chức trung_gian này cũng phải thực_hiện lưu_trữ hóa_đơn điện_tử theo thời_hạn nêu trên .
+Người bán , người mua là đơn_vị kế_toán và tổ_chức trung_gian cung_cấp giải_pháp hóa_đơn điện_tử có trách_nhiệm sao lưu dữ_liệu của hóa_đơn điện_tử ra các vật_mang tin ( ví_dụ như : bút nhớ ( đĩa flash USB ) ;  đĩa CD và DVD ;  đĩa_cứng gắn ngoài ;  đĩa_cứng gắn trong ) hoặc thực_hiện sao lưu trực_tuyến để bảo_vệ dữ_liệu của hóa_đơn điện_tử . 
+
+2 . Hóa_đơn điện_tử đã lập được lưu_trữ dưới dạng thông_điệp dữ_liệu và phải thỏa_mãn các điều_kiện sau : 
+
+a ) Nội_dung của hóa_đơn điện_tử có_thể truy_cập và sử_dụng được để tham_chiếu khi cần_thiết ; 
+
+b ) Nội_dung của hóa_đơn điện_tử được lưu_trữ trong chính khuôn_dạng mà nó được khởi tạo , gửi , nhận hoặc trong khuôn_dạng cho phép thể_hiện chính_xác nội_dung hóa_đơn điện_tử đó ; 
+
+c ) Hóa_đơn điện_tử được lưu_trữ theo một cách_thức nhất_định cho phép xác_định nguồn_gốc khởi tạo , nơi đến , ngày_giờ gửi hoặc nhận hóa_đơn điện_tử . 
+
+3 . Hủy_hóa đơn điện_tử là làm cho hóa_đơn đó không có giá_trị sử_dụng . 
+
+Tiêu_hủy_hóa đơn điện_tử là làm cho hóa_đơn điện_tử không_thể truy_cập và tham_chiếu đến thông_tin chứa trong nó . 
+
+Hóa_đơn điện_tử đã hết thời_hạn lưu_trữ theo quy_định của <L rel="Reference"> Luật Kế_toán </L> nếu không có quyết_định khác của cơ_quan nhà_nước có thẩm_quyền thì được phép tiêu_hủy . Việc tiêu_hủy_hóa đơn điện_tử không được làm ảnh_hưởng đến tính toàn_vẹn của các hóa_đơn điện_tử chưa tiêu_hủy và phải bảo_đảm sự hoạt_động bình_thường của hệ_thống thông_tin . Thủ_tục tiêu_hủy_hóa đơn điện_tử được thực_hiện như thủ_tục hủy_hóa_đơn quy_định tại <NĐ rel="Reference"> Nghị_định số 51/2010/NĐ-CP </NĐ> của Chính_phủ và <TT rel="Reference"> Thông_tư số 153/2010/TT-BTC </TT> của Bộ Tài_chính .
+Trường_hợp người bán hoặc người mua làm mất hóa_đơn điện_tử thì nếu các bên liên_quan còn lưu_trữ hóa_đơn dưới dạng thông_điệp dữ_liệu thì người bán hoặc người mua yêu_cầu người bán , người mua hoặc bên liên_quan gửi lại hóa_đơn điện_tử . 
+
+Trường_hợp người bán hoặc người mua làm mất hóa_đơn điện_tử và không_thể liên_hệ với các bên có liên_quan để được gửi lại hóa_đơn thì người bán , người mua thực_hiện báo_cáo mất hóa_đơn theo quy_định tại <TT rel="Reference"> Thông_tư số 153/2010/TT-BTC </TT> của Bộ Tài_chính .
+Điều 12 .  Chuyển từ hóa_đơn điện_tử sang hóa_đơn giấy 
+
+1 . Nguyên_tắc chuyển_đổi 
+
+Người bán hàng_hóa được chuyển_đổi hóa_đơn điện_tử sang hóa_đơn giấy để chứng_minh nguồn_gốc xuất_xứ hàng_hóa hữu_hình trong quá_trình lưu_thông và chỉ được chuyển_đổi một ( 01 ) lần .  Hóa_đơn điện_tử chuyển_đổi sang hóa_đơn giấy để chứng_minh nguồn_gốc xuất_xứ hàng_hóa phải đáp_ứng các quy_định nêu tại Khoản 2 , 3 , 4 Điều này và phải có chữ_ký người đại_diện theo pháp_luật của người bán , dấu của người bán . 
+
+Người mua , người bán được chuyển_đổi hóa_đơn điện_tử sang hóa_đơn giấy để phục_vụ_việc lưu_trữ chứng từ kế_toán theo quy_định của <L rel="Reference"> Luật Kế_toán </L> . Hóa_đơn điện_tử chuyển_đổi sang hóa_đơn giấy phục_vụ lưu_trữ chứng từ kế_toán phải đáp_ứng các quy_định nêu tại Khoản 2 , 3 , 4 Điều này .
+2 . Điều_kiện 
+
+Hóa_đơn điện_tử chuyển sang hóa_đơn giấy phải đáp_ứng đủ các điều_kiện sau : 
+
+a ) Phản_ánh toàn_vẹn nội_dung của hóa_đơn điện_tử gốc ; 
+
+b ) Có ký_hiệu riêng xác_nhận đã được chuyển_đổi từ hóa_đơn điện_tử sang hóa_đơn giấy ; 
+
+c ) Có chữ_ký và họ tên của người thực_hiện chuyển từ hóa_đơn điện_tử sang hóa_đơn giấy . 
+
+3 . Giá_trị pháp_lý của các hóa_đơn điện_tử chuyển_đổi 
+
+Hóa_đơn điện_tử chuyển_đổi có giá_trị pháp_lý khi bảo_đảm các yêu_cầu về tính toàn_vẹn của thông_tin trên hóa_đơn nguồn , ký_hiệu riêng xác_nhận đã được chuyển_đổi và chữ_ký , họ tên của người thực_hiện chuyển_đổi được thực_hiện theo quy_định của pháp_luật về chuyển_đổi chứng_từ điện_tử . 
+
+4 . Ký_hiệu riêng trên hóa_đơn chuyển_đổi 
+
+Ký_hiệu riêng trên hóa_đơn chuyển_đổi từ hóa_đơn điện_tử sang hóa_đơn dạng giấy bao_gồm đầy_đủ các thông_tin sau : dòng chữ phân_biệt giữa hóa_đơn chuyển_đổi và hóa_đơn điện_tử gốc – hóa_đơn nguồn ( ghi rõ “ HOÁ_ĐƠN CHUYỂN_ĐỔI TỪ HÓA ĐƠN ĐIỆN_TỬ ” ) ;  họ và tên , chữ_ký của người được thực_hiện chuyển_đổi ;  thời_gian thực_hiện chuyển_đổi . 
+
+Điều 13 .  Kiểm_tra việc khởi tạo , lập , phát_hành , quản_lý , sử_dụng hóa_đơn điện_tử 
+
+1 . Cơ_quan nhà_nước có thẩm_quyền có trách_nhiệm thanh_tra , kiểm_tra , phát_hiện và xử_lý các vi_phạm về hóa_đơn điện_tử trong hoạt_động mua_bán hàng_hóa , cung_ứng dịch_vụ . 
+
+2 . Tổ_chức sử_dụng hóa_đơn điện_tử khi bán hàng_hóa , cung_cấp dịch_vụ chịu sự thanh_tra , kiểm_tra và có trách_nhiệm cung_cấp đầy_đủ dữ_liệu của hóa_đơn điện_tử , các phương_tiện lưu_trữ hóa_đơn điện_tử cùng các tài_liệu khác cho các cơ_quan nhà_nước có thẩm_quyền theo quy_định của pháp_luật . 
+
+Việc thanh_tra , kiểm_tra đối_với tổ_chức sử_dụng hóa_đơn điện_tử khi bán hàng_hóa , cung_cấp dịch_vụ được thực_hiện theo quy_định của pháp_luật . 
+
+Việc niêm_phong , tạm giữ , tịch_thu phương_tiện điện_tử để khởi tạo hóa_đơn điện_tử thực_hiện theo quy_định tại <NĐ rel="Reference"> Nghị_định số 27/2007/NĐ-CP ngày 23 tháng 2 năm 2007 </NĐ> của Chính_phủ .
+Điều 14 .  Hiệu_lực thi_hành và tổ_chức thực_hiện 
+
+1 . Thông_tư này có hiệu_lực từ ngày 01/5/2011 . 
+
+2 . Ngoài các nội_dung hướng_dẫn cụ_thể tại Thông_tư này , các nội_dung khác được thực_hiện theo quy_định tại <NĐ rel="Reference"> Nghị_định số 51/2010/NĐ-CP ngày 14/05/2010 </NĐ> của Chính_phủ và <TT rel="Reference"> Thông_tư số 153/2010/TT-BTC ngày 28/9/2010 </TT> của Bộ Tài_chính .
+Trong quá_trình thực_hiện nếu có vướng_mắc , đề_nghị các tổ_chức , cá_nhân phản_ánh về Bộ Tài_chính để được hướng_dẫn giải_quyết kịp_thời ./. 

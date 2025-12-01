@@ -1,0 +1,729 @@
+Thông tư Hướng dẫn thu và quản lý các khoản thu ngân sách nhà nước qua Kho bạc Nhà nước
+
+Căn_cứ <L rel="Pursuant"> Luật Ngân_sách nhà_nước số 01/2002/QH11 ngày 16/12/2002 </L> của Quốc_hội và <NĐ rel="Pursuant"> Nghị_định số 60/2003/NĐ-CP ngày 06/6/2003 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành <L rel="Others"> Luật Ngân_sách nhà_nước </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Quản_lý thuế số 78/2006/QH11 ngày 29/11/2006 </L> của Quốc_hội và các văn_bản hướng_dẫn thi_hành <L rel="Others"> Luật Quản_lý thuế </L> ;
+Căn_cứ bảng kê_biên_lai thu , KBNN lập 2 liên giấy nộp tiền vào NSNN và hạch_toán thu NSNN .  Các liên giấy nộp tiền được xử_lý : 
+
+Căn_cứ bảng kê_biên_lai thu , ngân_hàng nhập thông_tin vào chương_trình máy và in 1 liên giấy nộp tiền vào NSNN ;  thực_hiện hạch_toán và chuyển tiền nộp NSNN vào tài_khoản của KBNN ;  đồng_thời , truyền dữ_liệu thu thuế theo đúng định_dạng quy_định vào cơ_sở dữ_liệu thu NSNN ;  lưu 1 liên giấy nộp tiền cùng với 1 liên bảng kê_biên_lai , gửi 2 liên bảng kê_biên_lai thu cho KBNN ; 
+
+Căn_cứ dữ_liệu thu NSNN do ngân_hàng chuyển đến , KBNN in phục_hồi 01 liên giấy nộp tiền vào NSNN để làm căn_cứ hạch_toán thu NSNN và lưu ;  2 liên bảng kê_biên_lai thu do ngân_hàng gửi đến được xử_lý : 1 liên lưu tại KBNN , 1 liên gửi cho cơ_quan thu trực_tiếp_quản_lý người nộp thuế . 
+
+I . TỔ_CHỨC THU NGÂN_SÁCH NHÀ_NƯỚC 
+
+1 . Các hình_thức thu NSNN : 
+
+1.1 .  Thu bằng chuyển_khoản : 
+
+- Thu bằng chuyển_khoản từ tài_khoản của người nộp tại ngân_hàng , ngân_hàng chuyển tiền vào tài_khoản của KBNN để ghi thu NSNN ; 
+
+- Thu bằng chuyển_khoản từ tài_khoản của người nộp tại KBNN , KBNN thực_hiện trích tài_khoản của người nộp để ghi thu NSNN ; 
+
+- Thời_điểm xác_định khoản thu NSNN được thực_hiện là thời_điểm ngân_hàng , KBNN thực_hiện trích tiền trên tài_khoản của người nộp để chuyển vào NSNN . 
+
+- Thời_điểm xác_định người nộp thuế đã thực_hiện nghĩa_vụ nộp NSNN là thời_điểm Kho_bạc Nhà_nước , ngân_hàng , tổ_chức tín_dụng xác_nhận trên giấy nộp tiền vào NSNN bằng chuyển_khoản . 
+
+1.2 .  Thu bằng tiền_mặt : 
+
+- Thu bằng tiền_mặt trực_tiếp vào KBNN ; 
+
+- Thu bằng tiền_mặt vào ngân_hàng nơi KBNN mở tài_khoản .  Hình_thức này áp_dụng đối_với các ngân_hàng có thỏa_thuận với KBNN về việc thu tiền_mặt vào tài_khoản của KBNN mở tại ngân_hàng . 
+
+- Thu bằng tiền_mặt qua cơ_quan thu .  Hình_thức này được áp_dụng đối_với các khoản thuế , phí , lệ_phí của các hộ kinh_doanh không cố_định , không thường_xuyên , không có tài_khoản tại KBNN hoặc ngân_hàng và có khó_khăn trong việc nộp tiền vào KBNN do ở xa điểm thu của KBNN hoặc xa ngân_hàng được KBNN_ủy_nhiệm thu .  Cơ_quan thu có trách_nhiệm thu tiền từ người nộp , sau đó nộp toàn_bộ số tiền đã thu được vào KBNN hoặc ngân_hàng nơi KBNN mở tài_khoản ; 
+
+- Thu bằng tiền_mặt qua các cơ_quan được ủy_nhiệm thu : 
+
++ Các tổ_chức , cá_nhân có đủ điều_kiện theo quy_định của Bộ Tài_chính , được cơ_quan thu_ủy_nhiệm , thì được trực_tiếp_thu các khoản thu NSNN từ người nộp tiền , sau đó nộp vào KBNN hoặc ngân_hàng nơi KBNN mở tài_khoản ; 
+
++ KBNN được quyền_ủy_nhiệm cho các tổ_chức có đủ điều_kiện để thu một_số khoản thuế , phí , lệ_phí , thu phạt ; 
+
+- Thu qua các tổ_chức , cá_nhân có thẩm_quyền thu phạt trực_tiếp theo quy_định của <PL rel="Reference"> Pháp_lệnh Xử_phạt vi_phạm hành_chính </PL> ;
+- Ủy_ban nhân_dân cấp xã được phép thu các khoản thuộc nhiệm_vụ thu của ngân_sách cấp xã ;  sau đó , làm thủ_tục nộp tiền vào KBNN huyện hoặc nộp vào quỹ của ngân_sách xã để chi theo chế_độ quy_định ( trường_hợp các xã miền núi , ở vùng_sâu , vùng_xa chưa có điều_kiện giao_dịch thường_xuyên với KBNN ) . 
+
+Việc tổ_chức thu , nộp ngân_sách xã được thực_hiện theo quy_định tại điểm 2.5 mục II , phần II <TT rel="Reference"> Thông_tư số 60/2003/TT-BTC ngày 23/6/2003 </TT> của Bộ Tài_chính quy_định về quản_lý ngân_sách xã và các hoạt_động tài_chính khác của xã , phường , thị_trấn .
+- Thời_điểm xác_định người nộp thuế đã thực_hiện nghĩa_vụ nộp NSNN là thời_điểm KBNN , cơ_quan thuế hoặc tổ_chức , cá_nhân được ủy_nhiệm thu xác_nhận trên chứng_từ thu bằng tiền_mặt . 
+
+2 . Chứng_từ thu NSNN . 
+
+2.1 .  Lệnh thu NSNN : 
+
+Lệnh thu NSNN ( mẫu C1-01/NS kèm theo ) là chứng_từ do cơ_quan thu phát_hành , yêu_cầu KBNN , ngân_hàng , tổ_chức tín_dụng nơi người có nghĩa_vụ nộp NSNN mở tài_khoản thực_hiện trích tài_khoản của người nộp để nộp NSNN ( hoặc nộp vào tài_khoản tạm_thu , tạm giữ của cơ_quan thu trước khi nộp vào NSNN ) theo quy_định của <L rel="Reference"> Luật NSNN </L> và <L rel="Reference"> Luật Quản_lý thuế </L> .
+2.2 .  Giấy nộp tiền vào NSNN : 
+
+- Giấy nộp tiền vào NSNN là chứng_từ thu NSNN , do Bộ Tài_chính quy_định mẫu thống_nhất ; 
+
+- Giấy nộp tiền vào NSNN được sử_dụng trong các trường_hợp : 
+
++ Các đối_tượng có nghĩa_vụ nộp thuế , phí , lệ_phí và các khoản thu khác ( sau đây gọi chung là người nộp thuế ) nộp tiền vào KBNN , ngân_hàng thương_mại , tổ_chức tín_dụng khác và cơ_quan được ủy_nhiệm thu NSNN ; 
+
++ Cơ_quan thu hoặc tổ_chức , cá_nhân được ủy_nhiệm thu , nộp số tiền đã thu vào KBNN hoặc ngân_hàng nơi KBNN mở tài_khoản . 
+
++ Người nộp thuế nộp tiền vào tài_khoản tạm_thu , tạm giữ của cơ_quan thu ( trước khi xử_lý nộp NSNN theo quy_định ) ; 
+
+- Giấy nộp tiền vào NSNN được phát_hành theo các hình_thức : 
+
++ Đối_tượng nộp NSNN tự in ; 
+
++ KBNN in và cấp cho người nộp thuế khi đến nộp tiền tại KBNN ; 
+
++ Ngân_hàng , cơ_quan được ủy_nhiệm thu in và cấp cho người nộp tiền ; 
+
+- Giấy nộp tiền vào NSNN gồm các loại : 
+
++ Giấy nộp tiền vào NSNN ( mẫu C1-02/NS kèm theo ) ; 
+
++ Giấy nộp tiền vào NSNN bằng ngoại_tệ ( mẫu C1-03/NS kèm theo ) ; 
+
++ Giấy nộp tiền vào NSNN chuyển_đổi từ chứng_từ điện_tử ( mẫu C1-09/NS kèm theo ) ; 
+
+- Giấy nộp tiền vào NSNN gồm những nội_dung chủ_yếu : 
+
++ Tên , mã_số thuế và địa_chỉ của tổ_chức , cá_nhân có nghĩa_vụ nộp thuế .  Địa_chỉ phải ghi cụ_thể xã ( phường ) , huyện ( quận ) , tỉnh ( thành_phố ) nơi đăng_ký hoạt_động của doanh_nghiệp , tổ_chức , hộ kinh_doanh , nơi cư_trú của cá_nhân , hoặc nơi phát_sinh nghĩa_vụ thu , nộp NSNN . 
+
+Trường_hợp tổ_chức , cá_nhân nộp tiền thay cho người nộp thuế , có yêu_cầu xác_định rõ thông_tin của người nộp thay trên giấy nộp tiền , thì phải ghi đầy_đủ thông_tin vào phần dành cho người nộp thay : tên , mã_số thuế ( nếu có ) và địa_chỉ của tổ_chức , cá_nhân nộp thay .  Địa_chỉ phải ghi cụ_thể xã ( phường ) , huyện ( quận ) , tỉnh ( thành_phố ) nơi đăng_ký hoạt_động của doanh_nghiệp , tổ_chức , nơi cư_trú của cá_nhân , hộ kinh_doanh .  Trường_hợp người nộp tiền đồng_thời là người nộp thuế thì chỉ cần ghi thông_tin ở phần người nộp thuế .  Người nộp thuế và người nộp thay ( nếu có ) sau đây được gọi chung là người nộp thuế . 
+
++ Tên KBNN thu ngân_sách , ngân_hàng thương_mại nơi chuyển tiền , ngân_hàng nơi KBNN mở tài_khoản để nhận tiền thu NSNN ; 
+
++ Cơ_quan thu trực_tiếp_quản_lý người nộp thuế ( cơ_quan Thuế , Hải_quan , Tài_chính ) , mã_số của cơ_quan thu ; 
+
++ Số , ngày của tờ khai hải_quan , mã loại_hình xuất , nhập_khẩu ( hoặc bảng kê_biên_lai của cơ_quan thu ) .  Mỗi giấy nộp tiền lập riêng cho một tờ khai ; 
+
++ Nội_dung khoản nộp NSNN : ghi chính_xác , đầy_đủ , chi_tiết nội_dung nộp , số tiền , mục_lục NSNN , kỳ thuế . 
+
+2.3 .  Bảng kê nộp thuế : 
+
+- Bảng kê nộp thuế ( mẫu_số 01/BKNT kèm theo ) là chứng_từ dùng cho người nộp thuế để nộp tiền vào KBNN ( hoặc ngân_hàng ) nơi thực_hiện Dự_án hiện_đại_hóa quy_trình thu nộp thuế giữa cơ_quan Thuế-Kho_bạc-Hải_quan-Tài_chính ( sau đây gọi tắt là hệ_thống thông_tin thu nộp thuế ) .  Bảng kê nộp thuế gồm những thông_tin như nội_dung giấy nộp tiền vào NSNN . 
+
+- Bảng kê nộp thuế là căn_cứ để KBNN ( hoặc ngân_hàng ) nhập thông_tin vào chương_trình ứng_dụng thu nộp thuế ; 
+
+- Trường_hợp cơ_sở dữ_liệu thu nộp thuế không có đủ thông_tin về người nộp thuế thì KBNN yêu_cầu người nộp thuế ghi đầy_đủ thông_tin trên bảng kê nộp thuế để nhập vào chương_trình ứng_dụng và in giấy nộp tiền vào NSNN ;  người nộp thuế không phải lập giấy nộp tiền vào NSNN . 
+
+2.4 .  Biên_lai thu NSNN : 
+
+2.4.1 .  Các trường_hợp sử_dụng biên_lai : 
+
+- Cơ_quan thu được giao nhiệm_vụ trực_tiếp_thu NSNN bằng tiền_mặt ;  tổ_chức , cá_nhân được cơ_quan thu_ủy_nhiệm thu thuế , phí , lệ_phí , thu phạt ; 
+
+- Cơ_quan nhà_nước có thẩm_quyền ra quyết_định xử_phạt vi_phạm hành_chính_trực tiếp_thu tiền phạt ; 
+
+- KBNN trực_tiếp_thu đối_với một_số khoản phí , lệ_phí , thu phạt ;  các tổ_chức được KBNN_ủy_nhiệm thu phí , lệ_phí , thu phạt . 
+
+2.4.2 .  Các loại biên_lai thu : 
+
+- Biên_lai thu không in mệnh_giá , khi sử_dụng phải viết_tay ; 
+
+- Biên_lai thu in sẵn mệnh_giá ; 
+
+- Biên_lai thu lập và in từ chương_trình máy_tính ( gồm cả loại biên_lai in sẵn số tiền phải nộp của từng đối_tượng nộp , dùng cho các cơ_quan thu , cơ_quan nhận_ủy_nhiệm thu ) . 
+
+2.4.3 .  Phát_hành , quản_lý và sử_dụng biên_lai : 
+
+- Bộ Tài_chính quy_định thống_nhất mẫu các loại biên_lai , gồm : biên_lai thu không in mệnh_giá và biên_lai in từ chương_trình máy_tính , biên_lai in sẵn mệnh_giá .  Biên_lai thu áp_dụng cho các cơ_quan thu , KBNN , ngân_hàng đã tham_gia hệ_thống thông_tin thu nộp thuế được thực_hiện theo quy_định tại Thông_tư này ( mẫu C1-10/NS kèm theo ) và các văn_bản sửa_đổi , bổ_sung của Bộ Tài_chính ; 
+
+- Tổng_cục Thuế thống_nhất tổ_chức phát_hành , quản_lý các loại biên_lai : biên_lai thu không in mệnh_giá ;  biên_lai thu in sẵn mệnh_giá ;  biên_lai thu in từ chương_trình máy_tính và in sẵn số tiền phải nộp của từng đối_tượng nộp tiền do cơ_quan thu trực_tiếp_thu , hoặc cơ_quan nhận_ủy_nhiệm thu trực_tiếp . 
+
+Cơ_quan Thuế các cấp giao biên_lai cho các cơ_quan , đơn_vị , gồm : KBNN cùng cấp , các tổ_chức , cá_nhân được ủy_nhiệm thu bằng biên_lai , các cơ_quan có thẩm_quyền thu trực_tiếp .  Các cơ_quan sử_dụng biên_lai có trách_nhiệm tuân_thủ đúng chế_độ quản_lý , sử_dụng biên_lai theo quy_định của Bộ Tài_chính và Tổng_cục Thuế , thực_hiện quyết_toán biên_lai với cơ_quan Thuế_nơi giao biên_lai ;  cơ_quan Thuế hướng_dẫn các đơn_vị xử_lý thanh_hủy biên_lai theo quy_định ; 
+
+- Trường_hợp KBNN sử_dụng biên_lai in từ chương_trình máy_tính để trực_tiếp_thu tiền từ người nộp , thì KBNN tổ_chức in biên_lai , quản_lý , sử_dụng biên_lai theo quy_định của Bộ Tài_chính ; 
+
+- Cơ_quan thu , các tổ_chức , cá_nhân được ủy_nhiệm thu , khi nộp số tiền đã thu vào KBNN hoặc ngân_hàng nơi KBNN mở tài_khoản phải lập bảng kê_biên_lai thu ( mẫu 02/BK-BLT , mẫu 03/KB-BLMG-đối_với loại biên_lai in sẵn mệnh_giá kèm theo ) và căn_cứ bảng kê_biên_lai thu để lập giấy nộp tiền vào NSNN . 
+
+2.5 .  Chứng_từ phục_hồi : 
+
+- Chứng_từ phục_hồi trong quản_lý thu NSNN là chứng_từ giấy được in ra bằng chương_trình máy_tính trên cơ_sở dữ_liệu điện_tử được truyền , nhận ( thông_qua hệ_thống mạng , vật_mang tin , ... ) giữa các cơ_quan , đơn_vị tham_gia trao_đổi dữ_liệu thu NSNN .  Chứng_từ phục_hồi phải đảm_bảo chính_xác và đầy_đủ nội_dung thông_tin theo đúng mẫu quy_định . 
+
+- Chứng_từ phục_hồi có giá_trị pháp_lý như chứng_từ gốc .  Đối_với các chứng_từ phục_hồi yêu_cầu có chữ_ký , dấu của cơ_quan , đơn_vị thì trên chứng_từ phục_hồi phải có chữ_ký của người có thẩm_quyền để xác_nhận tính pháp_lý của chứng_từ và dấu của cơ_quan , đơn_vị in chứng_từ phục_hồi .  Bộ Tài_chính ủy_quyền cho các cơ_quan tham_gia hệ_thống trao_đổi dữ_liệu điện_tử về thu NSNN ( Thuế , Hải_quan , KBNN ) quy_định cụ_thể_loại chứng_từ phục_hồi phải có chữ_ký xác_nhận và dấu của đơn_vị in chứng_từ phục_hồi ; 
+
+- Việc truyền , nhận , in , sử_dụng chứng_từ phục_hồi được thực_hiện theo quy_định hiện_hành về giao_dịch điện_tử ; 
+
+- Chứng_từ phục_hồi không đảm_bảo chính_xác và đầy_đủ nội_dung quy_định hoặc không có chữ_ký , dấu ( đối_với chứng_từ quy_định phải có chữ_ký , dấu ) thì không có giá_trị pháp_lý để thay_thế chứng_từ gốc . 
+
+3 . Trao_đổi thông_tin về thu NSNN : 
+
+3.1 .  Nguyên_tắc : 
+
+- Việc trao_đổi thông_tin thu NSNN được thực_hiện thống_nhất từ trung_ương đến địa_phương ;  đồng_thời , được thực_hiện thường_xuyên giữa cơ_quan thu , KBNN , các tổ_chức được cơ_quan thu , KBNN_ủy_nhiệm thu và cơ_quan_tài_chính ; 
+
+- Việc trao_đổi thông_tin phải được bảo_mật theo quy_định của pháp_luật .  Các cơ_quan tham_gia hệ_thống trao_đổi thông_tin , dữ_liệu điện_tử có trách_nhiệm đảm_bảo tính an_toàn , bảo_mật , chính_xác và toàn_vẹn của dữ_liệu điện_tử trong phạm_vi nhiệm_vụ của mình ;  đồng_thời , có trách_nhiệm phối_hợp với các cơ_quan liên_quan thực_hiện các biện_pháp kỹ_thuật cần_thiết để đảm_bảo tính bảo_mật , an_toàn của hệ_thống ; 
+
+- Việc trao_đổi thông_tin được thực_hiện tự_động bằng hệ_thống trao_đổi thông_tin thu NSNN của Bộ Tài_chính .  Trường_hợp không thực_hiện được_việc trao_đổi bằng hệ_thống truyền tin tự_động , thì các cơ_quan được trao_đổi thông_tin bằng văn_bản hoặc trao_đổi trực_tiếp ( vật_mang tin , thư điện_tử , điện_thoại , fax , ... ) . 
+
+3.2 .  Nội_dung trao_đổi thông_tin : 
+
+- Thông_tin chung về cơ_quan quản_lý thu thuế : danh_mục , mã_số cơ_quan quản_lý thuế theo địa_bàn hành_chính ;  danh_mục điểm thu của cơ_quan Thuế , Hải_quan , KBNN , mã địa_bàn , các tổ_chức được ủy_nhiệm thu ngân_sách trên địa_bàn ; 
+
+- Thông_tin về người nộp thuế : thông_tin chung về tên , địa_chỉ , mã_số thuế ;  mã Chương , Loại , Khoản , Mục , Tiểu_mục theo mục_lục NSNN hiện_hành ;  thông_tin về số thuế phải nộp , tờ khai hải_quan , kỳ thuế ;  số thuế đã nộp , số thuế hoàn_trả ( chi_tiết theo từng chứng_từ ) , thông_tin về quá_trình nộp thuế , hoàn thuế , ... ; 
+
+- Thông_tin về tình_hình tổ_chức thu NSNN : số nộp NSNN trong kỳ ( tháng , quí , năm ) , chi_tiết theo cơ_quan thu , mục_lục NSNN , địa_bàn ( đến cấp xã , phường ) ;  kế_hoạch thu tháng , chi_tiết theo địa_bàn , đối_tượng , phân theo hình_thức thu trực_tiếp qua KBNN hoặc cơ_quan Thuế , Hải_quan , … ; 
+
+- Danh_mục mã điều_tiết thu NSNN , các thông_tin khác liên_quan đến tổ_chức thu NSNN . 
+
+3.3 .  Quy_trình trao_đổi thông_tin : 
+
+- Hệ_thống danh_mục dùng chung ( mục_lục NSNN , danh_mục địa_bàn hành_chính , danh_mục cơ_quan thu , danh_mục các đơn_vị KBNN , ... ) được cập_nhật thường_xuyên từ Trung_tâm trao_đổi dữ_liệu thu NSNN đặt tại Cục Tin_học và Thống_kê-Bộ Tài_chính và truyền cho các đơn_vị thuộc ngành tài_chính thực_hiện thu NSNN ; 
+
+- Các thông_tin về thu NSNN ( danh_bạ đối_tượng nộp thuế , dữ_liệu thu , nộp thuế ) được truyền từ các đơn_vị cấp dưới lên đơn_vị cấp trên và tập_trung tại Trung_tâm trao_đổi dữ_liệu thu trung_ương ;  sau đó dữ_liệu này sẽ được truyền cho các đơn_vị có liên_quan ; 
+
+- Các thông_tin về thu NSNN chỉ liên_quan đến một_số đơn_vị , thì được trao_đổi thông_tin theo quy_định riêng ; 
+
+- Tần_suất trao_đổi thông_tin được quy_định cụ_thể trong quy_trình trao_đổi thông_tin thu NSNN của Bộ Tài_chính . 
+
+4 . Quy_trình thu NSNN : 
+
+4.1 .  Thu bằng chuyển_khoản qua KBNN : 
+
+4.1.1 .  Trường_hợp KBNN chưa tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+Người nộp thuế_lập 3 liên giấy nộp tiền vào NSNN ( mẫu C1-02/NS kèm theo ) gửi KBNN nơi mở tài_khoản , khi nhận được 3 liên giấy nộp tiền , KBNN thực_hiện trích tài_khoản tiền gửi của người nộp thuế để thu NSNN và xử_lý các liên giấy nộp tiền : 
+
++ Liên 1 : làm_chứng_từ ghi Nợ tài_khoản tiền gửi của người nộp thuế ;  đồng_thời , hạch_toán thu NSNN và lưu tại KBNN ; 
+
++ Liên 2 : gửi cho người nộp thuế ; 
+
++ Liên 3 : gửi cơ_quan thu trực_tiếp_quản_lý người nộp thuế . 
+
+4.1.2 .  Trường_hợp KBNN đã tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+- Người nộp thuế lập bảng kê nộp thuế ( mẫu 01/BKNT kèm theo ) chuyển cho KBNN nơi mở tài_khoản .  Căn_cứ bảng kê nộp thuế , KBNN thực_hiện trích tài_khoản tiền gửi của người nộp thuế để thu NSNN ;  đồng_thời , in 2 liên giấy nộp tiền vào NSNN và xử_lý các liên giấy nộp tiền : 
+
++ Liên 1 : làm_chứng_từ ghi Nợ tài_khoản tiền gửi của người nộp thuế ;  đồng_thời , hạch_toán thu NSNN và lưu tại KBNN cùng với bảng kê nộp thuế ; 
+
+- Cuối ngày hoặc theo định_kỳ , KBNN truyền dữ_liệu về số thuế đã thu vào hệ_thống cơ_sở dữ_liệu thu , nộp thuế ;  đồng_thời , in 2 liên Bảng kê chứng_từ nộp ngân_sách ( mẫu 04/BK-CTNNS kèm theo ) và chuyển cho cơ_quan thu trực_tiếp_quản_lý người nộp thuế 1 liên bảng kê , 1 liên lưu tại KBNN để làm căn_cứ theo_dõi , đối_chiếu . 
+
+4.2 .  Thu bằng chuyển_khoản qua ngân_hàng : 
+
+4.2.1 .  Trường_hợp ngân_hàng chưa tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+- Khi nộp tiền vào NSNN bằng chuyển_khoản tại ngân_hàng , người nộp thuế_lập 4 liên giấy nộp tiền vào NSNN gửi ngân_hàng nơi mở tài_khoản ; 
+
+- Khi nhận được 4 liên giấy nộp tiền vào NSNN bằng chuyển_khoản , ngân_hàng có trách_nhiệm làm thủ_tục trích tài_khoản tiền gửi của người nộp thuế để nộp đầy_đủ , kịp_thời vào NSNN ngay trong ngày làm_việc hoặc chậm nhất là vào đầu của ngày làm_việc hôm sau và xử_lý các liên giấy nộp tiền : 
+
++ Liên 1 : làm_chứng_từ ghi nợ tài_khoản tiền gửi của người nộp thuế ; 
+
++ Liên 3 , 4 : gửi KBNN ; 
+
+- Khi nhận được chứng_từ nộp tiền do ngân_hàng chuyển đến , KBNN kiểm_tra , nếu phù_hợp thì thực_hiện hạch_toán thu NSNN và xử_lý các liên giấy nộp tiền : 
+
++ Liên 3 : làm_chứng_từ hạch_toán thu NSNN ; 
+
++ Liên 4 : gửi cơ_quan thu trực_tiếp_quản_lý người nộp thuế ; 
+
+- Trường_hợp thanh_toán bù_trừ thông_thường với ngân_hàng thì ngân_hàng nơi KBNN mở tài_khoản phải gửi đến KBNN 2 liên chứng_từ phục_hồi , có đầy_đủ các nội_dung ghi trên giấy nộp tiền vào NSNN để làm căn_cứ hạch_toán thu NSNN .  Trường_hợp KBNN đã tham_gia thanh_toán bù_trừ điện_tử , thì căn_cứ vào dữ_liệu điện_tử do ngân_hàng chuyển đến , KBNN in 2 liên chứng_từ phục_hồi và xử_lý : 1 liên làm căn_cứ hạch_toán thu NSNN , 1 liên gửi cơ_quan thu trực_tiếp_quản_lý người nộp thuế ; 
+
+- Trường_hợp KBNN đã tham_gia hệ_thống thông_tin thu nộp thuế , khi nhận được 2 liên giấy nộp tiền vào NSNN , KBNN lưu 1 liên để hạch_toán thu NSNN , 1 liên_hủy_bỏ ( không gửi cho cơ_quan thu ) .  Cuối ngày , KBNN thực_hiện truyền dữ_liệu về số thuế đã thu vào hệ_thống cơ_sở dữ_liệu ;  đồng_thời in 02 liên bảng kê chứng_từ nộp ngân_sách , gửi cho cơ_quan thu quản_lý người nộp thuế 1 liên bảng kê , 1 liên lưu tại KBNN ; 
+
+- Trường_hợp ngân_hàng chuyển chứng_từ giấy hoặc dữ_liệu điện_tử không đủ các yếu_tố để KBNN hạch_toán thu NSNN thì KBNN hạch_toán vào tài_khoản tạm_thu NSNN ;  đồng_thời , KBNN lập thư tra soát gửi ngân_hàng để yêu_cầu ngân_hàng lập lại chứng_từ bổ_sung thông_tin ( nếu ngân_hàng chuyển thông_tin không đầy_đủ so với chứng_từ người nộp đã lập ) . 
+
+Trường_hợp người nộp tiền lập chứng_từ thiếu thông_tin hoặc không chính_xác thì cơ_quan thu có trách_nhiệm xác_định thông_tin đầy_đủ để KBNN hạch_toán thu NSNN . 
+
+Sau khi KBNN nhận được chứng_từ bổ_sung thông_tin đầy_đủ theo quy_định , KBNN hạch_toán từ tài_khoản tạm_thu vào tài_khoản thu NSNN . 
+
+4.2.2 .  Trường_hợp ngân_hàng đã tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+4.2.2.1 .  Thu tại ngân_hàng : 
+
+- Cơ_quan thu truyền dữ_liệu về người nộp thuế cho ngân_hàng ; 
+
+- Người nộp thuế lập bảng kê nộp thuế gửi ngân_hàng nơi mở tài_khoản ( trường_hợp nộp thuế xuất_khẩu , nhập_khẩu thì lập riêng bảng kê nộp thuế cho mỗi tờ khai hải_quan ) ;  ngân_hàng nhập dữ_liệu vào chương_trình máy_tính , làm thủ_tục trích tài_khoản của người nộp thuế ;  đồng_thời , in 2 liên giấy nộp tiền vào NSNN và xử_lý : 
+
++ 1 liên làm căn_cứ hạch_toán và lưu cùng với bảng kê nộp thuế ; 
+
++ 1 liên trả cho người nộp thuế .  Ngân_hàng phải ký và đóng_dấu lên chứng_từ trả cho người nộp thuế để chứng_minh việc nộp tiền đã hoàn_thành ; 
+
+- Ngân_hàng làm thủ_tục chuyển tiền vào tài_khoản của KBNN mở tại ngân_hàng ngay trong ngày làm_việc hoặc chậm nhất là vào đầu của ngày làm_việc hôm sau ;  đồng_thời , truyền đầy_đủ dữ_liệu thu nộp thuế theo đúng định_dạng quy_định vào cơ_sở dữ_liệu thu ngân_sách ; 
+
+- Trên_cơ_sở dữ_liệu thu NSNN do ngân_hàng chuyển đến , KBNN in phục_hồi 01 liên giấy nộp tiền vào NSNN làm căn_cứ hạch_toán thu NSNN và lưu .  Cuối ngày , KBNN truyền dữ_liệu thu NSNN vào cơ_sở dữ_liệu thu NSNN ;  đồng_thời , in 02 liên bảng kê chứng_từ nộp ngân_sách và gửi cho cơ_quan thu trực_tiếp_quản_lý người nộp thuế 1 liên , liên còn lại lưu tại KBNN . 
+
+4.2.2.2 .  Thu_qua máy rút_tiền tự_động ( ATM ) : 
+
+- Hình_thức thu này được áp_dụng khi ngân_hàng đã xây_dựng được chương_trình phần_mềm thu thuế_qua ATM ; 
+
+- Quy_trình thu thực_hiện theo các bước : 
+
++ Cơ_quan thu truyền dữ_liệu về người nộp thuế vào hệ_thống dữ_liệu của ngân_hàng ;  người nộp thuế đến nơi đặt ATM của ngân_hàng , nhập đầy_đủ các thông_tin theo yêu_cầu vào chương_trình của ATM để chuyển tiền vào tài_khoản của KBNN và nhận bảng kê nộp thuế in từ ATM ; 
+
++ Việc xử_lý chuyển tiền ;  xác_nhận , đóng_dấu số thuế đã nộp qua ATM của ngân_hàng cho người nộp thuế ;  truyền dữ_liệu thu NSNN của ngân_hàng và việc xử_lý hạch_toán , truyền dữ_liệu của KBNN được thực_hiện như quy_định tại tiết 4.2.2.1 điểm 4.2 mục này . 
+
+4.2.3 .  Một_số quy_định về tính pháp_lý của giấy nộp tiền : 
+
+- Trường_hợp nộp thuế trực_tiếp tại KBNN : kế_toán thu ngân_sách của KBNN ký_tên trên chứng_từ nộp tiền và đóng_dấu “ Kế_toán KBNN ” hoặc dấu của điểm giao_dịch KBNN .  Kế_toán_trưởng KBNN chịu trách_nhiệm kiểm_soát , đối_chiếu các liên giấy nộp tiền và ký trên Bảng kê giấy nộp tiền vào NSNN ( mẫu C1-06/NS kèm theo ) do các điểm giao_dịch ngoài trụ_sở KBNN lập ;  đồng_thời , kiểm_soát và ký trên Bảng kê chứng_từ nộp ngân_sách ( mẫu 04/BK-CTNNS kèm theo ) ; 
+
+- Trường_hợp người nộp thuế trích tiền trên tài_khoản mở tại KBNN để nộp thuế thì trên giấy nộp tiền vào NSNN phải có chữ_ký của kế_toán_trưởng KBNN và dấu “ Kế_toán KBNN ” ; 
+
+- Đối_với giấy nộp tiền vào NSNN chuyển_đổi từ chứng_từ điện_tử : trường_hợp cơ_quan thu đã tham_gia hệ_thống thông_tin thu nộp thuế cần có một liên giấy nộp tiền để lưu hồ_sơ nộp thuế , hồ_sơ hoàn_trả thuế , hoặc cấp lại cho người nộp thuế trong trường_hợp thất_lạc , thì căn_cứ vào dữ_liệu thu nộp thuế và bảng kê chứng_từ nộp ngân_sách do KBNN chuyển đến , lập Giấy nộp tiền vào NSNN chuyển_đổi từ chứng_từ điện_tử ( mẫu C1-09/NS kèm theo ) ; 
+
+- Trường_hợp người nộp thuế nộp tiền qua ngân_hàng và cần chứng_từ để chứng_minh đã thực_hiện nghĩa_vụ nộp NSNN thì trên chứng_từ nộp tiền phải có chữ_ký và dấu của ngân_hàng .  Cụ_thể : 
+
++ Người nộp thuế nộp tiền qua ATM , thì người nộp thuế đến điểm giao_dịch của ngân_hàng phát_hành thẻ ATM để đề_nghị ngân_hàng in chứng_từ phục_hồi theo mẫu giấy nộp tiền vào NSNN , ký và đóng_dấu trên giấy nộp tiền ; 
+
++ Người nộp thuế nộp tiền_mặt hoặc trích tài_khoản để nộp tiền tại các điểm giao_dịch của ngân_hàng nơi không có con_dấu , thì người nộp tiền phải đến trụ_sở ngân_hàng cùng hệ_thống nơi có con_dấu để đề_nghị ngân_hàng xác_nhận và đóng_dấu trên giấy nộp tiền vào NSNN ; 
+
+- Các quy_định về tính pháp_lý của chứng_từ tại tiết 4.2.3 mục này được áp_dụng chung cho tất_cả các quy_trình thu NSNN quy_định tại Thông_tư này . 
+
+4.3 .  Thu bằng tiền_mặt qua KBNN : 
+
+4.3.1 .  Thu bằng giấy nộp tiền vào NSNN : 
+
+- Trường_hợp KBNN chưa tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+Người nộp thuế_lập 3 liên giấy nộp tiền vào NSNN ( mẫu C1-02/NS kèm theo ) , KBNN làm thủ_tục thu tiền , hạch_toán thu NSNN và xử_lý các liên giấy nộp tiền : 
+
+Liên 1 : làm_chứng_từ hạch_toán thu NSNN ; 
+
+Liên 2 : gửi người nộp thuế ; 
+
+Liên 3 : gửi cơ_quan thu trực_tiếp_quản_lý người nộp thuế ; 
+
+- Trường_hợp KBNN đã tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+Người nộp thuế lập bảng kê nộp thuế gửi KBNN ;  căn_cứ bảng kê của người nộp thuế , KBNN nhập thông_tin vào chương_trình máy_tính , in 2 liên giấy nộp tiền vào NSNN và làm thủ_tục thu tiền , hạch_toán thu NSNN và xử_lý các liên giấy nộp tiền : 
+
+KBNN xử_lý theo quy_trình nêu tại tiết 4.1.2 điểm 4.1 mục này . 
+
+4.3.2 .  Thu bằng biên_lai thu : 
+
+- KBNN được sử_dụng các loại biên_lai không in mệnh_giá , biên_lai lập và in từ chương_trình máy_tính để thu một_số khoản phí , lệ_phí , tiền phạt .  Khi người nộp thuế đến nộp tiền_mặt , KBNN lập biên_lai thu để thu tiền từ người nộp ; 
+
+- Mẫu biên_lai , số liên biên_lai và quy_trình luân_chuyển các liên biên_lai thực_hiện theo quy_định của Bộ Tài_chính , cụ_thể : 
+
++ Đối_với các loại biên_lai thu phạt do cơ_quan thuế phát_hành có 4 liên thì các liên được xử_lý : 1 liên lưu tại KBNN , 1 liên gửi người nộp , 1 liên gửi cơ_quan ra quyết_định xử_phạt , 1 liên lưu cuống để quyết_toán biên_lai ; 
+
++ Đối_với các loại biên_lai thu phí , lệ_phí do cơ_quan thuế phát_hành có 3 liên , thì các liên được xử_lý : 1 liên lưu tại KBNN , 1 liên gửi người nộp , 1 liên lưu cuống để quyết_toán biên_lai ; 
+
++ Đối_với biên_lai thu do KBNN in từ chương_trình máy_tính ( tại KBNN đã tham_gia hệ_thống thông_tin thu nộp thuế ) có 2 liên , được xử_lý : 1 liên lưu tại KBNN , 1 liên gửi người nộp ; 
+
+- Cuối ngày hoặc theo định_kỳ ( không quá 2 ngày ) , KBNN lập 2 liên bảng kê_biên_lai thu ( mẫu 02/BK-BLT kèm theo ) và xử_lý : 
+
+( i ) Trường_hợp KBNN chưa tham_gia hệ_thống thông_tin thu nộp thuế : 
+
++ Liên 1 : lưu tại KBNN cùng 1 liên bảng kê_biên_lai thu và các liên biên_lai ; 
+
++ Liên 2 : gửi cơ_quan thu trực_tiếp_quản_lý người nộp thuế cùng với 1 liên bảng kê_biên_lai thu ; 
+
+( ii ) Trường_hợp KBNN đã tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+KBNN căn_cứ bảng kê_biên_lai thu để nhập thông_tin vào chương_trình máy_tính và in 1 liên giấy nộp tiền vào NSNN để làm_chứng_từ hạch_toán thu NSNN và lưu cùng với 1 liên bảng kê_biên_lai và các liên biên_lai ;  KBNN truyền dữ_liệu vào cơ_sở dữ_liệu thu nộp thuế và gửi 1 liên bảng kê_biên_lai thu cho cơ_quan thu trực_tiếp_quản_lý người nộp thuế . 
+
+4.4 .  Thu tiền_mặt qua ngân_hàng : 
+
+4.4.1 .  Thu bằng giấy nộp tiền vào NSNN : 
+
+- Trường_hợp ngân_hàng chưa tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+Người nộp thuế_lập 4 liên giấy nộp tiền vào NSNN gửi ngân_hàng nơi KBNN mở tài_khoản ;  căn_cứ giấy nộp tiền , ngân_hàng làm thủ_tục thu tiền và xử_lý các liên giấy nộp tiền : 
+
++ Liên 1 : ghi tăng tài_khoản tiền gửi của KBNN tại ngân_hàng và lưu ; 
+
++ Liên 2 : gửi người nộp thuế ; 
+
++ Liên 3 và 4 : gửi KBNN . 
+
+KBNN nhận được 2 liên giấy nộp tiền do ngân_hàng gửi đến , thực_hiện hạch_toán và xử_lý theo quy_định tại tiết 4.2.1 .  điểm 4.2 mục này ; 
+
+- Trường_hợp ngân_hàng đã tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+Người nộp thuế lập bảng kê nộp thuế , gửi đến ngân_hàng nơi KBNN ủy_quyền thu ;  căn_cứ bảng kê nộp thuế , ngân_hàng thực_hiện in 2 liên giấy nộp tiền vào NSNN , thu tiền , luân_chuyển và xử_lý chứng_từ theo quy_định tại tiết 4.2.2.1 điểm 4.2 mục này . 
+
+4.4.2 .  Thu bằng biên_lai thu : 
+
+- KBNN được phép ký hợp_đồng_ủy_nhiệm thu một_số khoản phí , lệ_phí , tiền phạt với ngân_hàng ;  đồng_thời , giao biên_lai thu cho ngân_hàng để sử_dụng .  Ngân_hàng có trách_nhiệm tuân_thủ đúng chế_độ quản_lý , sử_dụng , quyết_toán biên_lai thu của Bộ Tài_chính và các điều_khoản thỏa_thuận trong hợp_đồng với KBNN ; 
+
+- Khi người nộp đến nộp tiền , ngân_hàng lập biên_lai thu để thu tiền và xử_lý các liên biên_lai như trường_hợp thu bằng biên_lai thu qua KBNN nêu tại tiết 4.3.2 .  điểm 4.3 mục này ;  theo định_kỳ thỏa_thuận , ngân_hàng thực_hiện quyết_toán sử_dụng biên_lai với KBNN , chuyển toàn_bộ các liên biên_lai , quyết_định xử_phạt , quyết_định hành_chính của cấp có thẩm_quyền liên_quan đến khoản thu cho KBNN để đối_chiếu , lưu_giữ ; 
+
+- Cuối ngày hoặc theo định_kỳ đã thỏa_thuận , ngân_hàng lập 3 liên bảng kê_biên_lai thu , quy_trình xử_lý chứng_từ được thực_hiện theo các trường_hợp : 
+
+( i ) Ngân_hàng chưa tham_gia hệ_thống thông_tin thu nộp thuế : căn_cứ bảng kê_biên_lai thu , ngân_hàng lập 3 liên giấy nộp tiền vào NSNN và xử_lý : 
+
+Liên 1 giấy nộp tiền : làm_chứng_từ hạch_toán tăng tài_khoản tiền gửi của KBNN , lưu cùng với 1 liên bảng kê_biên_lai thu ; 
+
+Liên 2 và 3 của giấy nộp tiền : chuyển cho KBNN nơi thu tiền , cùng 2 liên bảng kê_biên_lai thu ; 
+
+KBNN nhận được 2 liên giấy nộp tiền và 2 liên bảng kê_biên_lai thu , thực_hiện hạch_toán thu NSNN và xử_lý : 1 liên giấy nộp tiền và 1 liên bảng kê_biên_lai thu lưu tại KBNN ;  1 liên giấy nộp tiền và 1 liên bảng kê_biên_lai thu gửi cơ_quan thu trực_tiếp_quản_lý người nộp thuế ; 
+
+( ii ) Ngân_hàng đã tham_gia hệ_thống thông_tin thu nộp thuế : 
+
+4.5 .  Thu bằng tiền_mặt qua cơ_quan thu : 
+
+Các cơ_quan thu khi thu tiền_mặt trực_tiếp từ người nộp phải sử_dụng biên_lai , sau đó nộp toàn_bộ số tiền đã thu vào KBNN . 
+
+4.5.1 .  Quy_trình thu tại cơ_quan thu : 
+
+4.5.1.1 .  Đối_với biên_lai thu không in mệnh_giá : 
+
+Cơ_quan thu , cơ_quan được ủy_nhiệm thu ( sau đây gọi chung là cơ_quan thu ) dùng biên_lai không in mệnh_giá để trực_tiếp_thu tiền từ người nộp thuế .  Khi người nộp thuế đến nộp tiền , cơ_quan thu thực_hiện thu tiền , viết biên_lai và xử_lý : 
+
++ Đối_với các loại biên_lai thu phạt có 4 liên thì các liên được xử_lý : 1 liên lưu tại cơ_quan thu , 1 liên trả lại người nộp , 1 liên gửi cơ_quan ra quyết_định xử_phạt , 1 liên lưu cuống để quyết_toán biên_lai ; 
+
++ Đối_với các loại biên_lai thu phí , lệ_phí có 3 liên , thì các liên được xử_lý : 1 liên lưu tại cơ_quan thu , 1 liên trả lại người nộp , 1 liên lưu cuống để quyết_toán biên_lai . 
+
+4.5.1.2 .  Đối_với biên_lai thu in sẵn mệnh_giá : 
+
+- Biên_lai in sẵn mệnh_giá được sử_dụng trong trường_hợp thu phạt vi_phạm hành_chính và một_số khoản thu phí , lệ_phí khác , do cơ_quan trực_tiếp xử_lý vi_phạm hành_chính , cơ_quan thu sử_dụng để thu tiền_mặt trực_tiếp từ người nộp ; 
+
+- Khi người nộp thuế đến nộp tiền , cơ_quan thu ghi đầy_đủ , chính_xác các nội_dung theo quy_định lên 2 liên biên_lai ;  sau đó , giao cho người nộp 1 liên , 1 liên lưu tại cơ_quan thu . 
+
+4.5.1.3 .  Đối_với biên_lai thu in từ chương_trình máy_tính : 
+
+- Biên_lai thu in từ chương_trình máy_tính được sử_dụng cho các cơ_quan thu được cấp có thẩm_quyền cho phép dùng chương_trình phần_mềm để quản_lý việc thu , nộp tiền bằng biên_lai , in biên_lai , in bảng kê_biên_lai thay cho việc quản_lý trên sổ và viết_tay trên các liên biên_lai ; 
+
+- Biên_lai thu in từ chương_trình máy_tính gồm 2 loại : 
+
++ Biên_lai in sẵn số tiền phải thu , được áp_dụng đối_với các khoản phải thu ( thuế , phí , lệ_phí ) có tính_chất thường_xuyên , tương đổi ổn_định và được cơ_quan thu xác_định trước khi thu tiền .  Cơ_quan thu in và giao 2 liên biên_lai cho cán_bộ để thu tiền trực_tiếp từ người nộp và xử_lý : 1 liên trả cho người nộp , 1 liên lưu tại cơ_quan thu ; 
+
++ Biên_lai thu không in sẵn số tiền phải thu , được áp_dụng cho các khoản nộp thuế , phí , lệ_phí , thu phạt không thường_xuyên và cơ_quan thu không xác_định trước được .  Khi người nộp thuế đến nộp tiền , cơ_quan thu thực_hiện thu tiền và nhập dữ_liệu vào chương_trình máy_tính để in 2 liên biên_lai : 1 liên lưu và 1 liên trả cho người nộp thuế .  Trường_hợp thu phạt thì cơ_quan thu in 3 liên biên_lai : 1 liên lưu , 1 liên trả cho người nộp , 1 liên gửi cơ_quan ra quyết_định xử_phạt ; 
+
+- Cơ_quan nhận_ủy_nhiệm thu có trách_nhiệm chuyển dữ_liệu thu theo biên_lai , đúng định_dạng , mẫu biểu quy_định cho cơ_quan_ủy_nhiệm thu để tổng_hợp , theo_dõi , quản_lý . 
+
+4.5.2 .  Quy_trình nộp tiền vào KBNN : 
+
+- Cuối ngày hoặc định_kỳ , cơ_quan thu lập bảng kê_biên_lai thu ( mẫu 02/BK-BLT hoặc mẫu 03/BK-BLMG đối_với biên_lai thu in sẵn mệnh_giá ) ;  căn_cứ bảng kê_biên_lai , cơ_quan thu lập bảng kê nộp thuế , hoặc lập giấy nộp tiền vào NSNN ( tại các KBNN chưa tham_gia hệ_thống thông_tin thu nộp thuế ) và nộp toàn_bộ số tiền đã thu vào KBNN . 
+
+Đối_với các cơ_quan nhận_ủy_nhiệm thu thì phải lập 2 liên bảng kê_biên_lai thu : 1 liên lưu tại cơ_quan nhận_ủy_nhiệm thu , 1 liên gửi cơ_quan_ủy_nhiệm thu để theo_dõi , kiểm_tra , đối_chiếu ; 
+
+- Cơ_quan thu và KBNN đồng cấp thống_nhất quy_định_kỳ_hạn nộp tiền vào KBNN ( hàng ngày hoặc chậm nhất sau 5 ngày kể từ ngày thu , tùy theo doanh_số thu và điều_kiện địa_bàn cụ_thể ) ; 
+
+- Cơ_quan thu phải nộp tiền tại trụ_sở KBNN hoặc ngân_hàng nơi KBNN mở tài_khoản .  Trường_hợp điểm giao_dịch ngoài trụ_sở KBNN đặt tại cơ_quan thu và cơ_quan thu đề_nghị nộp tiền trực_tiếp tại điểm giao_dịch , thì Giám_đốc KBNN tỉnh , thành_phố căn_cứ vào điều_kiện cụ_thể , xem_xét cho phép điểm giao_dịch của KBNN được nhận tiền từ cơ_quan thu , đảm_bảo an_toàn , kịp_thời ; 
+
+- KBNN làm thủ_tục thu tiền , hạch_toán thu NSNN và xử_lý các liên giấy nộp tiền như trường_hợp thu tiền_mặt trực_tiếp vào KBNN tại tiết 4.3.1 điểm 4.3 mục này . 
+
+Trường_hợp cơ_quan thu nộp tiền_mặt vào ngân_hàng nơi KBNN mở tài_khoản thì thực_hiện tương_tự quy_định tại tiết 4.4.1 điểm 4.4 mục này ; 
+
+- Đối_với các khoản thu phạt vi_phạm hành_chính mà số tiền thu phạt phải nộp vào tài_khoản tạm_thu , tạm giữ trước khi nộp vào NSNN , thì cơ_quan thu lập bảng kê_biên_lai và giấy nộp tiền vào NSNN , trong đó ghi rõ nộp vào tài_khoản tạm_thu , tạm giữ ;  KBNN làm thủ_tục thu tiền và hạch_toán vào tài_khoản tạm_thu , tạm giữ theo quy_định hiện_hành ; 
+
+- Định_kỳ , cơ_quan sử_dụng biên_lai quyết_toán biên_lai thu với cơ_quan cấp biên_lai , đảm_bảo khớp đúng giữa số biên_lai đã sử_dụng , số biên_lai_hủy , số còn lại chưa sử_dụng , số tiền đã thu và nộp vào NSNN , đối_chiếu giữa bảng kê_biên_lai và các liên giấy nộp tiền vào NSNN . 
+
+5 . Quy_trình thu NSNN bằng ngoại_tệ và một_số khoản thu có tính đặc_thù : 
+
+5.1 .  Thu NSNN bằng ngoại_tệ : 
+
+5.1.1 .  Nguyên_tắc quản_lý : 
+
+- Các khoản thu ngân_sách bằng ngoại_tệ ( không kể các khoản viện_trợ nước_ngoài trực_tiếp cho các dự_án ) được tập_trung về quỹ ngoại_tệ của NSNN , thống_nhất quản_lý tại KBNN .  Số thu NSNN bằng ngoại_tệ được ghi thu quỹ ngoại_tệ của NSNN ( theo nguyên tệ ) ;  đồng_thời , quy_đổi ra đồng Việt_Nam_theo tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng để hạch_toán thu NSNN và phân_chia cho ngân_sách các cấp theo chế_độ quy_định ; 
+
+- Toàn_bộ số thu NSNN bằng ngoại_tệ phát_sinh tại địa_phương phải gửi vào tài_khoản tiền gửi ngoại_tệ của KBNN mở tại ngân_hàng được phép kinh_doanh ngoại_tệ .  Số thu ngoại_tệ tại địa_phương được quy_đổi ra đồng Việt_Nam_theo tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng để hạch_toán thu NSNN và phân_chia cho ngân_sách các cấp .  Định_kỳ hàng tháng , số ngoại_tệ tại tài_khoản tiền gửi ngoại_tệ tại ngân_hàng được chuyển về quỹ ngoại_tệ của NSNN tại trung_ương .  Lãi tiền gửi ngoại_tệ sau khi trừ đi các khoản phí thanh_toán được quản_lý , sử_dụng và quyết_toán với NSNN theo chế_độ quản_lý_tài_chính áp_dụng đối_với hệ_thống KBNN ; 
+
+- Quỹ ngoại_tệ của NSNN được sử_dụng để thanh_toán , chi_trả các khoản chi_bằng ngoại_tệ theo quy_định của Bộ Tài_chính .  Phần ngoại_tệ còn lại , KBNN được phép bán cho Ngân_hàng Nhà_nước theo quy_định .  Hết năm , vào thời_gian chỉnh_lý quyết_toán , KBNN tổng_hợp chênh_lệch tỷ_giá phát_sinh trong năm phối_hợp với Vụ Ngân_sách nhà_nước-Bộ Tài_chính xử_lý ; 
+
+- Tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng được áp_dụng thống_nhất trên phạm_vi cả nước đối_với các nghiệp_vụ : 
+
++ Quy_đổi và hạch_toán thu , chi NSNN bằng ngoại_tệ ( kể_cả các khoản thu hiện_vật có giá gốc bằng ngoại_tệ ) ; 
+
++ Quy_đổi và hạch_toán kế_toán của KBNN ; 
+
+- Bộ_trưởng Bộ Tài_chính ủy_quyền cho Vụ_trưởng Vụ Tài_chính đối_ngoại xác_định và thông_báo tỷ_giá hạch_toán ngoại_tệ hàng tháng theo nguyên_tắc : 
+
++ Tỷ_giá hạch_toán được tính bình_quân theo tỷ_giá mua_bán thực_tế bình_quân ngày trên thị_trường ngoại_tệ liên ngân_hàng trong thời_gian 30 ngày trước ngày thông_báo ; 
+
++ Trường_hợp trong tháng_tỷ_giá mua_bán ngoại_tệ thực_tế trên thị_trường ngoại_tệ liên ngân_hàng có biến_động lớn ( tăng hoặc giảm trên 5 % so với tỷ_giá hạch_toán ) , Bộ Tài_chính xem_xét , điều_chỉnh lại tỷ_giá hạch_toán cho phù_hợp . 
+
+5.1.2 .  Quy_trình thu ngoại_tệ : 
+
+5.1.2.1 .  Thu ngoại_tệ bằng chuyển_khoản : 
+
+Quy_trình thu ngoại_tệ bằng chuyển_khoản được thực_hiện như đối_với thu chuyển_khoản bằng đồng Việt_Nam .  Căn_cứ giấy_báo có , bảng kê thanh_toán và giấy nộp tiền vào NSNN bằng ngoại_tệ chuyển_khoản do ngân_hàng gửi đến , KBNN các cấp xử_lý : 
+
+- KBNN tỉnh , thành_phố hạch_toán tăng tài_khoản tiền gửi ngoại_tệ tại ngân_hàng ;  đồng_thời , quy_đổi ra đồng Việt_Nam_theo tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng để hạch_toán thu NSNN ; 
+
+- KBNN thực_hiện ghi thu quỹ ngoại_tệ của NSNN ( khoản thu tại KBNN và khoản ngoại_tệ do KBNN địa_phương chuyển về ) ;  đồng_thời , quy_đổi ra đồng Việt_Nam_theo tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng ( chỉ bao_gồm số ngoại_tệ thu tại KBNN ) để hạch_toán thu NSNN . 
+
+5.1.2.2 .  Thu ngoại_tệ bằng tiền_mặt qua ngân_hàng : 
+
+- Người nộp thuế_lập 4 liên giấy nộp tiền vào NSNN bằng ngoại_tệ ( mẫu C1-03/NS kèm theo ) và đến ngân_hàng nơi KBNN mở tài_khoản ngoại_tệ để làm thủ_tục nộp tiền ; 
+
+- Ngân_hàng làm thủ_tục thu ngoại_tệ , và xử_lý các liên giấy nộp tiền : 
+
++ Liên 1 : lưu ngân_hàng ; 
+
++ 2 liên còn lại gửi KBNN ; 
+
+- Căn_cứ chứng_từ do ngân_hàng gửi đến , KBNN kiểm_tra , nếu phù_hợp thì lưu 1 liên để hạch_toán thu NSNN , 1 liên chuyển cơ_quan thu trực_tiếp_quản_lý người nộp thuế . 
+
+5.1.2.3 .  Thu ngoại_tệ bằng tiền_mặt qua cơ_quan thu hoặc thu trực_tiếp vào KBNN : 
+
+- Trường_hợp cơ_quan thu trực_tiếp_thu ngoại_tệ bằng tiền_mặt thì phải nộp đầy_đủ , kịp_thời vào tài_khoản ngoại_tệ của KBNN mở tại ngân_hàng .  Tại những nơi không_thể nộp ngoại_tệ vào ngân_hàng , cơ_quan thu nộp toàn_bộ số ngoại_tệ đã thu vào KBNN tỉnh , thành_phố .  Quy_trình thu và xử_lý chứng_từ như trường_hợp thu tiền_mặt_bằng đồng Việt_Nam qua cơ_quan thu ; 
+
+- Trường_hợp người nộp thuế trực_tiếp nộp ngoại_tệ bằng tiền_mặt vào KBNN , thì quy_trình thu thực_hiện như thu tiền_mặt_bằng đồng Việt_Nam vào KBNN ; 
+
+- Việc thu NSNN bằng ngoại_tệ tiền_mặt chỉ được thực_hiện_tại KBNN tỉnh , thành_phố và đối_với các loại ngoại_tệ tự_do chuyển_đổi theo thông_báo của Ngân_hàng Nhà_nước ; 
+
+- Căn_cứ số ngoại_tệ tiền_mặt thực_thu , KBNN thực_hiện quy_đổi ra đồng Việt_Nam_theo tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng để hạch_toán thu NSNN ;  đồng_thời , gửi toàn_bộ số ngoại_tệ đã thu vào tài_khoản tiền gửi ngoại_tệ của KBNN tỉnh , thành_phố tại ngân_hàng để chuyển về KBNN ; 
+
+- Trường_hợp KBNN tỉnh , thành_phố không có tài_khoản tiền gửi ngoại_tệ tại ngân_hàng ( do Ngân_hàng Nhà_nước và các ngân_hàng thương_mại trên địa_bàn chưa tổ_chức mở tài_khoản tiền gửi và thanh_toán ngoại_tệ ) , KBNN tỉnh , thành_phố được bán ngoại_tệ tiền_mặt cho Ngân_hàng Nhà_nước hoặc ngân_hàng thương_mại được phép kinh_doanh ngoại_tệ ( theo tỷ_giá mua ngoại_tệ của ngân_hàng đó ) .  Phần chênh_lệch giữa tỷ_giá bán ngoại_tệ thực_tế và tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố được theo_dõi và chuyển về KBNN để quyết_toán với ngân_sách trung_ương . 
+
+5.2 .  Thu NSNN đối_với một_số nội_dung đặc_thù : 
+
+5.2.1 .  Thu từ các khoản vay trong nước : 
+
+- Đối_với các khoản vốn huy_động trong nước bằng hình_thức phát_hành trái_phiếu Chính_phủ , công_trái xây_dựng Tổ_quốc cho ngân_sách trung_ương , căn_cứ vào số vốn đã huy_động , KBNN hạch_toán vào tài_khoản vay nợ của ngân_sách trung_ương ; 
+
+- Đối_với các khoản vốn huy_động cho ngân_sách cấp tỉnh để thanh_toán đầu_tư xây_dựng các công_trình kết_cấu_hạ_tầng , căn_cứ vào số vốn đã huy_động , KBNN hạch_toán vào tài_khoản vay nợ của ngân_sách tỉnh ; 
+
+- Riêng đối_với các KBNN chưa tham_gia Hệ_thống thông_tin quản_lý NSNN và Kho_bạc ( TABMIS ) thì các khoản vay nợ nêu trên vẫn thực_hiện ghi thu NSNN nhưng hạch_toán theo mục_lục ngân_sách về các khoản vay nợ của ngân_sách các cấp tương_ứng ; 
+
+- Đối_với các khoản vay trong nước khác , căn_cứ giấy_báo có của ngân_hàng , KBNN hạch_toán vào tài_khoản vay nợ của cấp ngân_sách thực_hiện khoản vay nợ . 
+
+5.2.2 .  Thu từ các khoản vay nước_ngoài : 
+
+- Các khoản vay bằng ngoại_tệ chuyển về quỹ ngoại_tệ của NSNN : căn_cứ giấy_báo có của ngân_hàng , KBNN quy_đổi ra đồng Việt_Nam_theo tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng để hạch_toán vào tài_khoản vay nợ của ngân_sách trung_ương ; 
+
+- Trường_hợp vay ngoại_tệ không chuyển về quỹ ngoại_tệ của NSNN : căn_cứ chứng_từ ghi thu , ghi chi từ nguồn vay nợ của Bộ Tài_chính , KBNN quy_đổi ra đồng Việt_Nam_theo tỷ_giá hạch_toán ngoại_tệ do Bộ Tài_chính công_bố hàng tháng và hạch_toán vào tài_khoản vay và tài_khoản chi của NSTW ; 
+
+- Đối_với khoản vay bằng vật_tư , thiết_bị , hàng_hóa có giá gốc ngoại_tệ : căn_cứ chứng_từ của cơ_quan_tài_chính , KBNN hạch_toán vào tài_khoản vay nợ của ngân_sách cấp tương_ứng ; 
+
+- Đối_với các khoản thu NSNN của các tổ_chức , cơ_quan đại_diện Việt_Nam ở nước_ngoài , Bộ Tài_chính có văn_bản hướng_dẫn riêng . 
+
+5.2.3 .  Thu từ các khoản khác ngoài thuế , phí , lệ_phí , phạt , vay nợ : 
+
+- Đối_với các khoản thu từ quỹ dự_trữ tài_chính , thu bổ_sung từ ngân_sách cấp trên , thu kết_dư NSNN , thu chuyển nguồn từ ngân_sách năm trước : KBNN căn_cứ quyết_định của cơ_quan_tài_chính để làm thủ_tục hạch_toán thu NSNN ; 
+
+- Đối_với các khoản thu từ hoạt_động kinh_tế của nhà_nước , thu_hồi tiền cho vay , hoạt_động sự_nghiệp , thu tiền sử_dụng đất , tiền thuê đất , tiền bán hoặc cho thuê tài_sản thuộc sở_hữu nhà_nước , thu hoàn vốn , thu từ các khoản nộp ngân_sách trong hoạt_động đầu_tư xây_dựng cơ_bản , thu từ các di_sản nhà_nước được hưởng , viện_trợ không hoàn lại , thanh_lý_tài_sản , bán tài_sản tịch_thu , .  . . các cơ_quan có nghĩa_vụ nộp ngân_sách thực_hiện lập giấy nộp tiền vào NSNN và nộp vào KBNN hoặc nộp qua cơ_quan thu theo quy_định hiện_hành đối_với từng khoản thu . 
+
+5.2.4 .  Thu NSNN bằng hiện_vật : 
+
+- Đối_với hiện_vật đã xác_định được đối_tượng sử_dụng : cơ_quan_tài_chính_quy_đổi ra đồng Việt_Nam để lập lệnh thu , lệnh chi NSNN gửi cho KBNN để hạch_toán thu , hạch_toán chi NSNN ; 
+
+- Việc quy_đổi giá_trị hiện_vật sang đồng Việt_Nam được thực_hiện như sau : 
+
++ Hiện_vật đã có đơn_giá , thì áp_dụng theo đơn_giá hiện_hành tại khu_vực ;  hiện_vật có giá gốc ngoại_tệ được quy_đổi ra đồng Việt_Nam_theo tỷ_giá ngoại_tệ do Bộ Tài_chính công_bố tại thời_điểm hạch_toán ; 
+
++ Hiện_vật chưa có quy_định đơn_giá hoặc không có giá gốc ngoại_tệ , cơ_quan_tài_chính lập Hội_đồng định_giá để xác_định giá hiện_vật theo giá thị_trường phổ_biến tại khu_vực vào thời_điểm định_giá ; 
+
+- Đối_với hiện_vật chưa xác_định được đối_tượng sử_dụng : cơ_quan_tài_chính phối_hợp với các cơ_quan hữu_quan tổ_chức bán hiện_vật lấy tiền Việt_Nam để nộp NSNN .  Trường_hợp chưa bán được hiện_vật , cơ_quan_tài_chính phối_hợp với các cơ_quan hữu_quan tiếp_tục theo_dõi , quản_lý . 
+
+5.2.5 .  Thu NSNN bằng ngày_công_lao_động : 
+
+- Các khoản thu NSNN bằng ngày_công_lao_động được quy_đổi ra đồng Việt_Nam để hạch_toán thu , hạch_toán chi NSNN ; 
+
+- Cơ_quan_tài_chính chủ_trì phối_hợp với các cơ_quan hữu_quan quy_đổi số ngày_công_lao_động theo đơn_giá ngày_công được quy_định đối_với từng loại công_việc ;  đồng_thời , lập lệnh ghi thu , lệnh ghi chi NSNN gửi KBNN để hạch_toán thu , hạch_toán chi NSNN . 
+
+6 . Hoàn_trả các khoản thu NSNN : 
+
+6.1 .  Các trường_hợp được hoàn_trả : 
+
+Việc hoàn_trả các khoản thu NSNN được thực_hiện trong các trường_hợp : thu không đúng chính_sách , chế_độ ;  cơ_chế , chính_sách thu có thay_đổi ;  người nộp thuế được miễn , giảm , hoàn thuế theo quyết_định của cơ_quan nhà_nước có thẩm_quyền ;  các khoản hoàn_trả theo quy_định của pháp_luật về thuế và các văn_bản quy_phạm pháp_luật có liên_quan ;  người nộp thuế có số tiền thuế đã nộp lớn hơn số tiền thuế phải nộp đối_với từng loại thuế . 
+
+6.2 .  Quy_trình , thủ_tục hoàn_trả : 
+
+6.2.1 .  Hoàn_trả các khoản thu do cơ_quan Thuế , Hải_quan quản_lý : 
+
+Việc hoàn_trả các khoản thu NSNN được thực_hiện theo quy_định tại <TT rel="Reference"> Thông_tư số 59/2007/TT-BTC ngày 14/6/2007 </TT> , <TT rel="Reference"> Thông_tư số 60/2007/TT-BTC ngày 14/6/2007 </TT> và các văn_bản hiện_hành của Bộ Tài_chính . Người đề_nghị hoàn_trả lập Giấy đề_nghị hoàn_trả khoản thu NSNN ( mẫu 05/ĐNHT kèm theo ) và hồ_sơ liên_quan đến khoản đề_nghị hoàn_trả , gửi cơ_quan thu nơi trực_tiếp_quản_lý khoản thu ( hoặc cơ_quan có thẩm_quyền quyết_định hoàn_trả ) . Quy_trình hoàn_trả đối_với các trường_hợp cụ_thể như sau :
+6.2.1.1 .  Đối_với các khoản hoàn thuế giá_trị gia_tăng ( GTGT ) , sau khi kiểm_tra các điều_kiện hoàn thuế theo quy_định , cơ_quan thu có thẩm_quyền quyết_định hoàn thuế_lập Lệnh hoàn_trả khoản thu NSNN ( mẫu C1-04/NS kèm theo ) gửi cho KBNN đồng cấp ;  KBNN đồng cấp thực_hiện hoàn_trả cho người nộp thuế , sau đó báo Nợ về KBNN cấp trên để hạch_toán chi Quỹ hoàn thuế giá_trị gia_tăng của Tổng_cục Thuế . 
+
+6.2.1.2 .  Đối_với các khoản hoàn_trả các loại thuế khác ( trừ thuế GTGT ) , cơ_quan thu có trách_nhiệm đối_chiếu nội_dung hồ_sơ hoàn_trả với các chứng_từ thu NSNN của khoản đã nộp trước đó , nếu phù_hợp thì lập lệnh hoàn_trả khoản thu NSNN gửi KBNN cùng cấp trên địa_bàn để làm căn_cứ hoàn_trả .  KBNN căn_cứ lệnh hoàn_trả khoản thu NSNN để làm thủ_tục hoàn_trả , chuyển tiền vào tài_khoản tại ngân_hàng ( hoặc KBNN ) theo yêu_cầu của người được hoàn_trả , hoặc trả bằng tiền_mặt nếu người được hoàn_trả không có tài_khoản tại ngân_hàng ( hoặc KBNN ) . 
+
+6.2.1.3 .  Đối_với khoản thuế_thu_nhập của người có thu_nhập cao , thuế_thu_nhập cá_nhân ( sau đây gọi chung là thuế_thu_nhập cá_nhân-thuế TNCN ) mà người nộp thuế nộp tại nhiều địa_bàn , nhưng quyết_toán thuế và làm thủ_tục hoàn thuế tại 1 cơ_quan thu ( nơi đăng_ký kê_khai thuế ) , thì cơ_quan thu có trách_nhiệm kiểm_tra hồ_sơ hoàn thuế đối_với toàn_bộ các khoản thuế đã thu liên_quan đến khoản được hoàn_trả .  Việc hoàn_trả được thực_hiện_tại KBNN cùng cấp với cơ_quan thu nơi người nộp thuế kê_khai , quyết_toán thuế ;  KBNN hoàn_trả và hạch_toán hoàn_trả thuế TNCN trên địa_bàn . 
+
+6.2.1.4 .  Trường_hợp hoàn các khoản thuế ( trừ thuế GTGT , thuế TNCN ) mà đối_tượng nộp thuế đăng_ký thuế tại một địa_phương nhưng nộp thuế tại nhiều địa_phương khác , người nộp thuế được kê_khai quyết_toán thuế và làm thủ_tục hoàn thuế tại một cơ_quan thu nơi đăng_ký kê_khai thuế .  Việc hoàn_trả được thực_hiện_tại KBNN cùng cấp với cơ_quan thu nơi người nộp thuế đăng_ký kê_khai , quyết_toán thuế . 
+
+Cơ_quan thu có trách_nhiệm kiểm_tra hồ_sơ hoàn thuế đối_với toàn_bộ các khoản thuế đã thu liên_quan đến khoản được hoàn_trả , xác_định số thuế được hoàn_trả và phân_bổ số tiền phải hoàn_trả cho các địa_phương nơi đã thu NSNN ;  lập lệnh hoàn_trả khoản thu NSNN , trong đó tách riêng khoản phải hoàn_trả của từng địa_phương , gửi cho KBNN đồng cấp trên địa_bàn . 
+
+KBNN đồng cấp trên địa_bàn thực_hiện chuyển toàn_bộ số tiền hoàn_trả cho người được hoàn_trả ;  làm thủ_tục hạch_toán hoàn_trả phần thuộc trách_nhiệm của địa_phương mình , đồng_thời , chuyển chứng_từ để báo Nợ cho các KBNN nơi thu NSNN để hạch_toán hoàn_trả phần thuộc trách_nhiệm hoàn_trả của các địa_phương đó . 
+
+6.2.2 .  Hoàn_trả các khoản thu không do cơ_quan Thuế , Hải_quan quản_lý : 
+
+- Đối_với các khoản thu NSNN được hoàn_trả mà không thuộc phạm_vi trực_tiếp_quản_lý của cơ_quan Thuế , Hải_quan , thì cơ_quan nhà_nước có thẩm_quyền quyết_định hoàn_trả ( cơ_quan có thẩm_quyền quyết_định thu hoặc cơ_quan cấp trên của cơ_quan ra quyết_định thu ) có trách_nhiệm đối_chiếu nội_dung hồ_sơ đề_nghị hoàn_trả với các chứng_từ thu NSNN của khoản đã nộp trước đó , nếu phù_hợp thì lập lệnh hoàn_trả khoản thu NSNN , chuyển cho người được hoàn_trả để gửi KBNN nơi đã thu NSNN ; 
+
+- Người được hoàn_trả chuyển lệnh hoàn_trả khoản thu NSNN và chứng_từ nộp tiền vào KBNN ( bản_sao ) cùng với bản_chính ( để đối_chiếu ) đến KBNN nơi ghi trên quyết_định hoàn_trả để làm thủ_tục hoàn_trả . 
+
+6.3 .  Quy_trình xử_lý , hạch_toán của KBNN : 
+
+- Đối_với trường_hợp hoàn_trả các khoản thu do cơ_quan Thuế , Hải_quan quản_lý : trong thời_hạn 3 ngày làm_việc kể từ ngày nhận được lệnh hoàn_trả khoản thu NSNN của cơ_quan thu , KBNN nơi trực_tiếp thực_hiện hoàn_trả có trách_nhiệm kiểm_tra mẫu dấu , chữ_ký của cơ_quan thu , làm thủ_tục hoàn_trả và chuyển tiền hoàn_trả vào tài_khoản tại ngân_hàng ( hoặc KBNN ) theo yêu_cầu của người được hoàn_trả , hoặc trả bằng tiền_mặt ( nếu người được hoàn_trả không có tài_khoản tại ngân_hàng ) ; 
+
+- Đối_với trường_hợp hoàn_trả các khoản thu không do cơ_quan Thuế , Hải_quan quản_lý : trong thời_gian 03 ngày làm_việc kể từ ngày nhận được lệnh hoàn_trả , KBNN thực_hiện kiểm_tra tính hợp_pháp , hợp_lệ của lệnh hoàn_trả và chứng_từ nộp tiền trước đó , nếu phù_hợp thì hoàn_trả cho người được hoàn_trả và lưu 1 liên bản_sao chứng_từ nộp tiền ( bản_chính trả lại cho người được hoàn_trả ) , nếu không phù_hợp thì đề_nghị người được hoàn_trả hoặc cơ_quan có thẩm_quyền bổ_sung , hoàn_chỉnh ; 
+
+- Trường_hợp hoàn_trả các khoản thu thuộc năm ngân_sách , nếu KBNN thực_hiện hoàn_trả trước khi kết_thúc thời_hạn chỉnh_lý quyết_toán NSNN năm đó , thì hạch_toán giảm thu năm ngân_sách , theo từng cấp ngân_sách , đúng mục_lục NSNN của các khoản đã thu ;  nếu hoàn_trả sau thời_gian chỉnh_lý quyết_toán ngân_sách , thì hạch_toán chi ngân_sách năm sau của từng cấp ngân_sách , theo số tiền tương_ứng với tỷ_lệ phân_chia khoản thu cho từng cấp ngân_sách trước đó . 
+
+- Trường_hợp hoàn_trả thuế TNCN bằng hình_thức giảm thu NSNN , nhưng số thu thuế TNCN trên địa_bàn tại thời_điểm hoàn_trả không đủ để hoàn thuế , thì KBNN hạch_toán chi ngân_sách để hoàn_trả phần chênh_lệch ( như trường_hợp hoàn_trả khoản thu đã quyết_toán vào niên độ năm trước ) ; 
+
+- Trường_hợp tại địa_phương có phân_chia khoản thu thuế TNCN cho ngân_sách trung_ương và ngân_sách địa_phương ( tỉnh , huyện , xã ) thì khi hoàn_trả sẽ phân_bổ khoản hoàn_trả để hạch_toán giảm_thu ( hoặc chi ) ngân_sách trung_ương và ngân_sách cấp tỉnh theo nguyên_tắc : ngân_sách cấp tỉnh chịu trách_nhiệm hoàn_trả toàn_bộ phần ngân_sách địa_phương được hưởng ( gồm cả ngân_sách tỉnh , huyện , xã ) ; 
+
+- Hàng tháng , KBNN lập báo_cáo hoàn_trả khoản thu NSNN ( mẫu 06/BCHT kèm theo ) gửi cơ_quan_tài_chính đồng cấp về số hoàn thuế trên địa_bàn , bao_gồm toàn_bộ số hoàn thuế của các cấp ngân_sách . 
+
+6.4 .  Bù_trừ các khoản hoàn_trả với các khoản phải thu : 
+
+6.4.1 .  Phạm_vi và các trường_hợp áp_dụng : 
+
+- Trường_hợp người được hoàn_trả đồng_thời có nghĩa_vụ phải nộp các khoản thu khác , nếu có đề_nghị bù_trừ các khoản được hoàn_trả với khoản phải nộp thì phải lập Giấy đề_nghị hoàn_trả khoản thu NSNN ( mẫu 05/ĐNHT kèm theo ) , trong đó ghi rõ nội_dung phần đề_nghị bù_trừ cho khoản phải nộp , gửi cơ_quan thu nơi hoàn_trả để xem_xét giải_quyết ; 
+
+- Trường_hợp cơ_quan thu phát_hiện người được hoàn thuế vẫn còn nghĩa_vụ nộp các khoản thuế khác , nhưng không đề_nghị bù_trừ số còn phải nộp thì cơ_quan thu tạm dừng việc hoàn_trả và yêu_cầu người nộp phải thực_hiện nghĩa_vụ nộp với NSNN .  Hết thời_hạn quy_định theo thông_báo của cơ_quan thu , nếu người nộp chưa thực_hiện nghĩa_vụ nộp NSNN ( hoặc chưa lập giấy đề_nghị hoàn_trả khoản thu NSNN và ghi rõ nội_dung đề_nghị bù_trừ khoản phải nộp gửi cơ_quan thu ) , thì cơ_quan thu lập Lệnh hoàn_trả kiêm bù_trừ thu NSNN ( mẫu C1-05/NS kèm theo ) gửi KBNN nơi trực_tiếp hoàn_trả để thực_hiện bù_trừ ;  đồng_thời , cơ_quan thu thông_báo cho người nộp thuế biết ; 
+
+- Việc bù_trừ được thực_hiện đối_với các khoản được hoàn và khoản phải nộp giữa các sắc_thuế khác nhau của cùng một đối_tượng nộp thuế , tại cùng một KBNN hoặc giữa các KBNN khác nhau ; 
+
+6.4.2 .  Quy_trình thực_hiện bù_trừ : 
+
+- Người nộp thuế lập giấy đề_nghị hoàn_trả khoản thu NSNN cùng với hồ_sơ đề_nghị hoàn thuế theo quy_định hiện_hành gửi cơ_quan thu để kiểm_tra , xem_xét ; 
+
+- Cơ_quan thu kiểm_tra , nếu đủ điều_kiện thì lập lệnh hoàn_trả kiêm bù_trừ thu NSNN , gửi KBNN đồng cấp nơi trực_tiếp hoàn_trả thuế để thực_hiện bù_trừ số thuế được hoàn và số thuế phải nộp ; 
+
+- KBNN căn_cứ lệnh hoàn_trả kiêm bù_trừ thu NSNN do cơ_quan thu gửi đến , xử_lý : 
+
++ Trường_hợp KBNN nơi hoàn thuế đồng_thời là KBNN thu nợ thuế : KBNN thực_hiện hạch_toán hoàn_trả ( đối_với số tiền được hoàn_trả ) , hạch_toán thu ngân_sách ( đối_với khoản nộp ngân_sách bằng hình_thức bù_trừ ) ;  nếu khoản được hoàn lớn hơn khoản phải nộp thì KBNN làm thủ_tục trả số tiền còn lại cho người được hoàn_trả ; 
+
++ Trường_hợp KBNN nơi hoàn thuế khác với KBNN nơi thu nợ thuế : KBNN nơi hoàn thuế hạch_toán hoàn_trả thuế ( đối_với số tiền được hoàn_trả ) và làm thủ_tục chuyển tiền cho người được hoàn_trả ( chênh_lệch số được hoàn lớn hơn số phải nộp ) ;  đồng_thời , chuyển số tiền được bù_trừ cho KBNN nơi thu nợ thuế bằng hình_thức thanh_toán liên kho_bạc để thu NSNN ;  trên chứng_từ thanh_toán liên kho_bạc phải có đầy_đủ thông_tin để làm căn_cứ hạch_toán thu NSNN ; 
+
+- Tại KBNN nơi người nộp thuế còn nợ thuế , khi nhận được chứng_từ thanh_toán liên kho_bạc về số tiền bù_trừ để thu NSNN , thì thực_hiện hạch_toán thu NSNN như trường_hợp thu NSNN bằng chuyển_khoản qua thanh_toán liên kho_bạc . 
+
+6.5 .  Lập và luân_chuyển chứng_từ : 
+
+6.5.1 .  Lệnh hoàn_trả khoản thu NSNN : 
+
+- Cơ_quan thu căn_cứ phương_thức hoàn_trả , thanh_toán ( trả bằng tiền_mặt , trả vào tài_khoản tại KBNN hoặc ngân_hàng , hoàn_trả tại KBNN khác địa_bàn , … ) để lập lệnh hoàn_trả khoản thu NSNN đủ số liên cho các đối_tượng liên_quan .  Cụ_thể : 
+
++ Cơ_quan thu nơi quyết_định hoàn_trả nhận được 1 liên do KBNN gửi lại , sau khi đã xác_nhận hạch_toán hoàn_trả ; 
+
++ KBNN lưu 1 liên làm căn_cứ hạch_toán hoàn_trả ; 
+
++ Người được hoàn_trả nhận được 1 liên ; 
+
++ Trường_hợp trả vào tài_khoản tại ngân_hàng thì ngân_hàng được nhận 1 liên để làm căn_cứ hạch_toán và lưu ; 
+
+- Trường_hợp KBNN nơi trực_tiếp hoàn_trả khác với KBNN nơi đã thu NSNN ( KBNN nơi có trách_nhiệm hoàn_trả ) nêu tại tiết 6.2.1.4 mục này , thì KBNN nơi có trách_nhiệm hoàn_trả nhận được chứng_từ báo Nợ qua hình_thức thanh_toán liên kho_bạc , thực_hiện in 2 liên chứng_từ và xử_lý : 1 liên lưu , 1 liên gửi cơ_quan thu nơi quản_lý khoản thu NSNN để theo_dõi . 
+
+6.5.2 .  Lệnh hoàn_trả kiêm bù_trừ thu NSNN : 
+
+- Việc lập lệnh hoàn_trả kiêm bù_trừ thu NSNN được cơ_quan thu lập căn_cứ vào quy_trình hoàn thuế và bù_trừ , hình_thức chi_trả cho người được hoàn_trả , đảm_bảo các đối_tượng liên_quan có đủ chứng_từ để theo_dõi , hạch_toán và đối_chiếu .  Cụ_thể : 
+
++ KBNN nơi trực_tiếp hoàn_trả lưu 1 liên ; 
+
++ Trường_hợp hoàn_trả vào tài_khoản tại ngân_hàng , thì ngân_hàng nhận được 1 liên lệnh hoàn_trả kiêm bù_trừ thu NSNN để làm căn_cứ hạch_toán và lưu . 
+
+- Trường_hợp KBNN nơi hoàn_trả khác với KBNN nơi thu nợ thuế bằng hình_thức bù_trừ thì KBNN nơi thu nợ thuế nhận được chứng_từ chuyển tiền bằng hình_thức thanh_toán liên kho_bạc , thực_hiện in 2 liên chứng_từ và xử_lý : 1 liên lưu , 1 liên gửi cho cơ_quan thu nơi theo_dõi quản_lý thu khoản nợ thuế được bù_trừ . 
+
+7 . Kiểm_tra , đối_chiếu và xử_lý : 
+
+- Hàng ngày , cơ_quan thu và KBNN có trách_nhiệm phối_hợp kiểm_tra , đối_chiếu số thu nộp NSNN đảm_bảo chính_xác , đầy_đủ , kịp_thời ; 
+
+- Trong quá_trình kiểm_tra , đối_chiếu số thu , nộp NSNN , nếu cơ_quan thu phát_hiện sai_sót , hoặc điều_chỉnh các khoản thu , nộp ngân_sách khi phát_hiện khoản nộp không đúng thứ_tự theo quy_định , không đúng mã tên , mã_số cơ_quan thu , thì cơ_quan thu lập 3 liên Giấy đề_nghị điều_chỉnh thu NSNN ( mẫu C1-07/NS kèm theo ) gửi KBNN nơi đã thu NSNN để điều_chỉnh .  Cơ_quan thu không ghi vào phần xác_nhận của cơ_quan thu trên giấy đề_nghị điều_chỉnh ; 
+
+- Trường_hợp người nộp thuế tự_phát_hiện sai_sót về mục_lục NSNN , kỳ thuế , tên và mã_số cơ_quan thu , … thì người nộp thuế phải lập và gửi giấy đề_nghị điều_chỉnh thu nộp NSNN kèm theo chứng_từ nộp tiền ( bản_sao và bản_gốc ) cho cơ_quan thu .  Cơ_quan thu thực_hiện kiểm_tra , xác_nhận thông_tin điều_chỉnh trên giấy đề_nghị điều_chỉnh và gửi KBNN nơi thu NSNN để thực_hiện điều_chỉnh ; 
+
+- KBNN kiểm_tra , đối_chiếu các khoản đã thu với giấy đề_nghị điều_chỉnh , nếu khớp đúng và phù_hợp thì thực_hiện điều_chỉnh và ký , đóng_dấu vào phần chấp_nhận điều_chỉnh của KBNN trên giấy đề_nghị điều_chỉnh thu nộp NSNN .  Nếu không phù_hợp , KBNN gửi lại giấy đề_nghị điều_chỉnh cho cơ_quan thu để xử_lý ; 
+
+- Các liên giấy đề_nghị điều_chỉnh thu nộp NSNN được xử_lý : 
+
++ 1 liên lưu 1 tại KBNN để làm căn_cứ hạch_toán điều_chỉnh ; 
+
++ 1 liên gửi lại người nộp ( hoặc cơ_quan thu ) có đề_nghị điều_chỉnh ; 
+
++ 1 liên gửi cơ_quan thu trực_tiếp_quản_lý người nộp thuế ( trường_hợp người nộp thuế đề_nghị điều_chỉnh ) để làm căn_cứ điều_chỉnh nghĩa_vụ thuế . 
+
+8 . Hạch_toán kế_toán , báo_cáo , quyết_toán thu NSNN : 
+
+8.1 .  Hạch_toán thu NSNN : 
+
+- KBNN tổ_chức hạch_toán kế_toán thu NSNN theo chế_độ kế_toán do Bộ Tài_chính quy_định .  Việc hạch_toán kế_toán phải đảm_bảo đúng niên độ ngân_sách và mục_lục NSNN .  Các khoản thu thuộc nhiệm_vụ thu của ngân_sách năm trước nhưng nộp trong thời_gian chỉnh_lý quyết_toán thì hạch_toán vào niên độ năm trước ;  nếu nộp sau thời_gian chỉnh_lý quyết_toán ngân_sách năm trước , thì phải được hạch_toán vào thu ngân_sách năm sau ; 
+
+- Trường_hợp các khoản thu ngân_sách bằng chuyển_khoản qua ngân_hàng thiếu yếu_tố để hạch_toán thu NSNN , thì KBNN hạch_toán vào tài_khoản tạm_thu ;  đồng_thời , thông_báo cho các đối_tượng liên_quan ( ngân_hàng , cơ_quan thu , người nộp thuế … ) để kiểm_tra , đối_chiếu và bổ_sung thông_tin để chuyển nộp ngân_sách theo đúng quy_định ; 
+
+- Đối_với các khoản thu ngoài cân_đối NSNN , KBNN hạch_toán tạm_thu chưa đưa vào cân_đối NSNN ; 
+
+- Đối_với các khoản tạm_thu , tạm giữ , KBNN hạch_toán vào tài_khoản tạm_thu , tạm giữ .  Khi xử_lý các khoản trên tài_khoản tạm_thu , tạm giữ , KBNN căn_cứ vào quyết_định hành_chính hoặc văn_bản , chứng_từ hợp_pháp , hợp_lệ của cơ_quan nhà_nước có thẩm_quyền ( cơ_quan quyết_định việc tạm_thu , tạm giữ , cơ_quan được giao quản_lý khoản tạm giữ , … ) .  Đến cuối ngày 31/12 , các khoản tạm_thu , tạm giữ chưa có quyết_định xử_lý của cơ_quan nhà_nước có thẩm_quyền được chuyển số_dư sang năm sau tiếp_tục theo_dõi xử_lý ; 
+
+- Đối_với các cơ_quan , đơn_vị có phát_sinh khoản thu NSNN được giữ lại để chi theo chế_độ quy_định , định_kỳ phải lập báo_cáo chi_tiết các khoản thực_thu , thực_chi gửi cơ_quan_tài_chính .  Căn_cứ lệnh ghi thu ngân_sách , lệnh chi tiền do cơ_quan_tài_chính chuyển đến , KBNN thực_hiện hạch_toán thu , hạch_toán chi NSNN . 
+
+8.2 .  Báo_cáo , quyết_toán thu NSNN : 
+
+Việc báo_cáo định_kỳ_tình_hình thu NSNN , báo_cáo kế_toán , quyết_toán thu NSNN của ngân_sách các cấp được lập theo đúng mẫu biểu , mục_lục NSNN và thời_hạn quy_định của Bộ Tài_chính . 
+
+II .  NHIỆM_VỤ , QUYỀN_HẠN CỦA CÁC CƠ_QUAN TRONG VIỆC TỔ_CHỨC THU NGÂN_SÁCH NHÀ_NƯỚC VÀ TRAO_ĐỔI THÔNG_TIN 
+
+1 . Cơ_quan thu : 
+
+- Lập kế_hoạch thu : căn_cứ nhiệm_vụ thu cả năm được giao , nhiệm_vụ thu hàng quí do cơ_quan thu cấp trên thông_báo , số kê_khai thuế và dự_kiến các khoản phải nộp NSNN , cơ_quan thu ( nơi trực_tiếp_quản_lý người nộp thuế ) lập kế_hoạch thu thuộc phạm_vi quản_lý , chi_tiết theo từng địa_bàn , loại_hình doanh_nghiệp , hộ kinh_doanh ... , thời_hạn nộp , phân_loại theo hình_thức nộp tại cơ_quan thu hoặc nộp trực_tiếp vào KBNN ( hoặc qua ngân_hàng ) .  Định_kỳ hàng quý , cơ_quan thu lập kế_hoạch thu quý ( có chia ra tháng ) , gửi KBNN đồng cấp để lập kế_hoạch phối_hợp tổ_chức thu ngân_sách .  Thời_gian gửi kế_hoạch thu hàng quý do các cơ_quan thu và KBNN thống_nhất quy_định tùy theo điều_kiện cụ_thể tại từng địa_bàn ; 
+
+- Tổ_chức thu , nộp : 
+
++ Căn_cứ vào tờ khai thuế do người nộp thuế_lập , cơ_quan thu kiểm_tra , xác_định số thuế phải nộp NSNN chi_tiết theo các yếu_tố : tên người nộp , mã_số thuế , số nợ thuế của kỳ trước , số tiền thuế phải truy_thu , số thuế phát_sinh phải nộp trong kỳ , số tiền phạt ( nếu có ) ;  tổng_số thuế phải nộp , hạn nộp , địa_điểm nộp ( điểm giao_dịch , trụ_sở KBNN hoặc cơ_quan thu ) và mã mục_lục NSNN ; 
+
++ Theo_dõi , quản_lý , đôn_đốc người nộp thuế thực_hiện nghĩa_vụ nộp NSNN .  Hướng_dẫn việc lập giấy nộp tiền vào NSNN cho người nộp thuế ; 
+
++ Phối_hợp với KBNN , ngân_hàng đã ký_kết thỏa_thuận về thu ngân_sách , thống_nhất phân_định người nộp thuế đến nộp thuế tại cơ_quan thu hoặc nộp thuế trực_tiếp vào KBNN ( hoặc ngân_hàng ) ;  bố_trí và thông_báo lịch thu tại các điểm thu hợp_lý , tránh tập_trung quá lớn vào một_số ngày trong tháng , gây khó_khăn trong việc tổ_chức thu ; 
+
++ Trực_tiếp tổ_chức thu ngân_sách đối_với những đối_tượng được phân_công và nộp đầy_đủ , kịp_thời vào KBNN theo qui_định hiện_hành ; 
+
++ Quyết_định các trường_hợp tạm_thu , gửi KBNN làm căn_cứ hạch_toán kế_toán ;  quyết_định xử_lý các khoản tạm_thu , tạm giữ theo chế_độ quy_định ; 
+
++ Tổ_chức kế_toán thu , kiểm_tra , đối_chiếu số_liệu thu ngân_sách với KBNN .  Phối_hợp với KBNN và người nộp thuế xác_định đúng mục_lục NSNN trong trường_hợp người nộp ghi sai mục_lục NSNN ; 
+
++ Kiểm_tra và giải_quyết các khiếu_nại về thu nộp NSNN ;  quyết_định xử_phạt các hành_vi vi_phạm chế_độ thu nộp NSNN theo quy_định của pháp_luật ; 
+
+- Tổ_chức việc nhận chứng_từ thu tại KBNN thường_xuyên hàng ngày ; 
+
+- Kiểm_tra hồ_sơ đề_nghị hoàn_trả thuế của người nộp thuế , làm thủ_tục hoàn_trả các khoản thu cho người được hoàn_trả kịp_thời theo quy_định ; 
+
+- Quản_trị và đảm_bảo hệ_thống thông_tin hoạt_động liên_tục phục_vụ cho việc trao_đổi thông_tin .  Cập_nhật kịp_thời thông_tin thu NSNN do đơn_vị mình quản_lý vào cơ_sở dữ_liệu thu NSNN , phối_hợp với các cơ_quan liên_quan xây_dựng hệ_thống truyền dữ_liệu , khai_thác , bảo_mật thông_tin ; 
+
+- Cơ_quan thu gửi bản đăng_ký mẫu dấu , chữ_ký cho KBNN nơi thực_hiện hoàn_trả để đối_chiếu trong lần đầu_ra quyết_định hoàn thuế tại KBNN đó , trường_hợp có thay_đổi mẫu dấu , chữ_ký thì gửi bản đăng_ký mẫu dấu , chữ_ký mới . 
+
+2 . Kho_bạc Nhà_nước : 
+
+- Tổ_chức thu ngân_sách : 
+
++ Trên_cơ_sở kế_hoạch thu ngân_sách hàng quí , năm , lịch thu do cơ_quan thu gửi đến , KBNN tổ_chức các điểm thu , bảo_đảm thu nhanh , an_toàn các khoản thu NSNN , thuận_tiện cho người nộp thuế .  Thực_hiện in và quản_lý chứng_từ thu qua KBNN theo đúng quy_định ; 
+
++ Tập_trung các khoản thu NSNN và phân_chia các khoản thu theo đúng tỷ_lệ phần_trăm ( % ) đối_với từng khoản thu cho ngân_sách các cấp theo quy_định của <L rel="Reference"> Luật NSNN </L> và các văn_bản hướng_dẫn thi_hành Luật ;
++ Phối_hợp đối_chiếu số_liệu thu NSNN với các cơ_quan thu bảo_đảm chính_xác , đầy_đủ , kịp_thời ; 
+
++ Hàng ngày , KBNN tập_hợp các liên chứng_từ thu NSNN ( tiền_mặt và chuyển_khoản ) và lập bảng kê chứng_từ thu_phân theo cơ_quan thu , gửi cho cơ_quan thu liên_quan để đối_chiếu , theo_dõi , quản_lý ;  truyền dữ_liệu về thu NSNN vào cơ_sở dữ_liệu thu , nộp thuế theo quy_định ; 
+
++ Định_kỳ theo chế_độ , KBNN báo_cáo kế_toán thu NSNN , tổng_hợp kết_quả thu NSNN trên địa_bàn gửi KBNN cấp trên và cơ_quan thu đồng cấp ; 
+
++ Trường_hợp phát_hiện chứng_từ thu NSNN chưa chính_xác ( về người nộp thuế , mục_lục NSNN. .  . ) , KBNN thực_hiện tạm_thu ngân_sách ( theo mục tạm_thu chưa đưa vào cân_đối ngân_sách ) , đồng_thời , thông_báo cho cơ_quan thu để xử_lý ;  khi có xác_nhận của cơ_quan thu , KBNN chuyển từ mục tạm_thu vào thu NSNN ; 
+
++ KBNN nơi người nộp thuế mở tài_khoản có trách_nhiệm trích tài_khoản tiền gửi của người nộp thuế theo lệnh thu của cơ_quan thu để nộp NSNN theo quy_định tại Điều 114 <L rel="Reference"> Luật Quản_lý thuế </L> và Điều 46 <NĐ rel="Reference"> Nghị_định số 60/2003/NĐ-CP ngày 06/6/2003 </NĐ> ;
++ Xác_nhận số_liệu thu ngân_sách theo yêu_cầu của các cơ_quan nhà_nước có thẩm_quyền hoặc của người nộp thuế ( khi có yêu_cầu của cơ_quan thu ) ; 
+
+- Thực_hiện hoàn_trả các khoản thu NSNN theo quyết_định của cơ_quan có thẩm_quyền ; 
+
+- KBNN phối_hợp xây_dựng hệ_thống truyền dữ_liệu đảm_bảo tính bảo_mật và an_toàn để sử_dụng dữ_liệu điện_tử thay cho báo_cáo bằng giấy .  Phối_hợp với cơ_quan_tài_chính đảm_bảo hệ_thống thông_tin hoạt_động liên_tục phục_vụ cho việc trao_đổi thông_tin . 
+
+3 . Cục Tin_học và Thống_kê tài_chính : 
+
+- Đảm_bảo cơ_sở hạ_tầng mạng , máy_chủ phục_vụ cho trao_đổi thông_tin ;  đồng_thời , duy_trì hệ_thống kết_nối thường_xuyên từ Trung_tâm trao_đổi tại trung_ương tới các đơn_vị trong ngành tài_chính thực_hiện thu NSNN ; 
+
+- Phối_hợp với các đơn_vị liên_quan theo_dõi và xử_lý quá_trình trao_đổi thông_tin qua Trung_tâm trao_đổi tại trung_ương .  Quản_lý danh_mục dùng chung phục_vụ cho hệ_thống thông_tin hoạt_động liên_tục phục_vụ cho việc trao_đổi thông_tin . 
+
+4 . Cơ_quan_tài_chính : 
+
+Cơ_quan_tài_chính tham_gia quy_trình hiện_đại_hóa thu NSNN là Sở Tài_chính , Phòng Tài_chính và cơ_quan_tài_chính cấp xã .  Các cơ_quan này có trách_nhiệm : 
+
+- Phối_hợp với cơ_quan thu , KBNN trong việc thu và quản_lý các khoản thu NSNN ;  đôn_đốc các đối_tượng thuộc phạm_vi quản_lý nộp đầy_đủ , kịp_thời các khoản thu NSNN vào KBNN ; 
+
+- Phối_hợp với KBNN đảm_bảo hạch_toán đầy_đủ , chính_xác , đúng mục_lục NSNN và tỷ_lệ phân_chia cho ngân_sách các cấp ;  rà_soát , đối_chiếu các khoản thu ngân_sách do cơ_quan_tài_chính_trực tiếp_quản_lý ; 
+
+- Thẩm_định báo_cáo quyết_toán thu NSNN của ngân_sách cấp dưới ;  tổng_hợp và lập báo_cáo quyết_toán thu NSNN thuộc phạm_vi quản_lý theo chế_độ quy_định ; 
+
+5 . Tổ_chức , cá_nhân có nghĩa_vụ nộp NSNN : 
+
+- Kê_khai và nộp đầy_đủ các khoản phải nộp NSNN theo đúng chế_độ ;  thực_hiện đúng quy_trình , thủ_tục nộp NSNN , lập chứng_từ nộp tiền đầy_đủ nội_dung , theo đúng mẫu và số liên quy_định ;  phối_hợp với các cơ_quan liên_quan xử_lý các vấn_đề phát_sinh đến khoản nộp NSNN ; 
+
+- Có quyền khiếu_nại các vấn_đề vi_phạm chế_độ thu nộp NSNN của các cơ_quan_chức_năng ; 
+
+- Có quyền đề_nghị cơ_quan thu làm thủ_tục hoàn_trả các khoản thu theo quy_định . 
+
+6 . Ngân_hàng nơi người nộp thuế mở tài_khoản : 
+
+- Ngân_hàng có trách_nhiệm lập chứng_từ đầy_đủ nội_dung thông_tin do người nộp thuế cung_cấp , theo đúng nội_dung , mẫu biểu do Bộ Tài_chính quy_định ;  trích tiền trên tài_khoản theo yêu_cầu của người nộp thuế để chuyển tiền vào tài_khoản của KBNN để nộp NSNN và gửi chứng_từ cho KBNN ngay trong ngày làm_việc , hoặc chậm nhất vào đầu giờ của ngày làm_việc tiếp_theo ; 
+
+- Thực_hiện trích tài_khoản tiền gửi của người nộp thuế theo lệnh thu của cơ_quan thu để nộp NSNN ( hoặc nộp vào tài_khoản tạm_thu , tạm giữ của cơ_quan thu đối_với các khoản được phép hạch_toán vào tài_khoản tạm_thu , tạm giữ trước khi nộp NSNN ) theo quy_định tại Điều 114 <L rel="Reference"> Luật Quản_lý thuế </L> và Điều 46 <NĐ rel="Reference"> Nghị_định số 60/2003/NĐ-CP ngày 06/6/2003 </NĐ> ;
+- Tổ_chức hướng_dẫn người nộp , thực_hiện thu tiền từ người nộp thuế thuế , phí , lệ_phí và các khoản thu khác vào tài_khoản của KBNN ;  tổ_chức cung_ứng dịch_vụ thanh_toán cho người nộp thuế nộp tiền vào tài_khoản của KBNN thuận_tiện , nhanh_chóng theo thỏa_thuận giữa hệ_thống KBNN và ngân_hàng ; 
+
+- Phối_hợp với người nộp và các cơ_quan liên_quan xử_lý các vấn_đề phát_sinh liên_quan đến khoản thu , nộp .  Ngân_hàng chủ_động tổ_chức việc thu thuế_qua ATM và được thu phí cung_cấp dịch_vụ theo quy_định hiện_hành . 
+
+III .  KINH_PHÍ VÀ CHẾ_ĐỘ KHEN_THƯỞNG , KỶ_LUẬT 
+
+1 . Chi_phí cho việc tổ_chức công_tác thu NSNN của cơ_quan thu và KBNN như : xây_dựng , thuê địa_điểm , trang_bị cơ_sở vật_chất , phương_tiện làm_việc ;  chi_phí vận_chuyển , bảo_vệ ;  chi_phí in_ấn chỉ ;  chi bồi_dưỡng ngoài giờ , .  . . do NSNN bảo_đảm theo chế_độ quản_lý_tài_chính nhà_nước hiện_hành . 
+
+Trường_hợp cơ_quan thu_ủy_nhiệm thu cho tổ_chức , cá_nhân thực_hiện thu NSNN , thì kinh_phí trả cho tổ_chức , cá_nhân nhận_ủy_nhiệm thu thực_hiện theo quy_định tại mục IV phần D_Thông_tư số 60/2007/TT-BTC ngày 14/6/2007 của Bộ Tài_chính . 
+
+Trường_hợp KBNN_ủy_nhiệm cho ngân_hàng thu NSNN bằng tiền_mặt , thì thực_hiện theo thỏa_thuận của KBNN với ngân_hàng nhận_ủy_nhiệm . 
+
+2 . Chế_độ khen_thưởng cho công_tác thu NSNN đối_với các cơ_quan thu và KBNN được thực_hiện theo quy_định hiện_hành . 
+
+3 . Các cơ_quan , đơn_vị và cá_nhân vi_phạm chế_độ quản_lý , thu nộp hoặc làm thất_thoát tiền , tài_sản của Nhà_nước phải bị xử_lý theo quy_định của pháp_luật . 
+
+C . TỔ_CHỨC THỰC_HIỆN 
+
+Thông_tư này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo , thay_thế <TT rel="Replace"> Thông_tư số 80/2003/TT-BTC ngày 13/8/2003 </TT> của Bộ Tài_chính về hướng_dẫn tập_trung , quản_lý các khoản thu NSNN qua KBNN , thay_thế các mẫu biểu liên_quan quy_định tại <QĐ rel="PartReplace"> Quyết_định số 24/2006/QĐ-BTC ngày 06/4/2006 </QĐ> của Bộ_trưởng Bộ Tài_chính về ban_hành Chế_độ kế_toán NSNN và hoạt_động nghiệp_vụ KBNN , thay_thế mẫu giấy đề_nghị hoàn thuế , phí ( mẫu_số 01/HTBT ) , Quyết_định hoàn thuế ( mẫu_số 04/HTBT ) ban_hành kèm theo <TT rel="PartReplace"> Thông_tư số 60/2007/TT-BTC ngày 14/6/2007 </TT> của Bộ Tài_chính .
+Chế_độ ban_hành , sử_dụng các mẫu biểu thu NSNN theo quy_định tại Thông_tư này áp_dụng cho các khoản thu NSNN từ niên độ 2009 .  Các trường_hợp đặc_thù khác được thực_hiện theo quy_định riêng của Bộ Tài_chính . 
+
+Các văn_bản , chế_độ ban_hành trước_đây về thu và quản_lý các khoản thu NSNN qua KBNN trái với quy_định tại Thông_tư này không còn hiệu_lực thi_hành ./. 

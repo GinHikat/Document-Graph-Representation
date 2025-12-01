@@ -1,0 +1,152 @@
+Thông tư Quy định về quản lý và sử dụng mã số sách tiêu chuẩn quốc tế
+
+Căn_cứ <L rel="Pursuant"> Luật_Xuất_bản ngày 20 tháng 11 năm 2012 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 195/2013/NĐ-CP ngày 21 tháng 11 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều và biện_pháp thi_hành <L rel="Others"> Luật_Xuất_bản </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định chi_tiết và hướng_dẫn việc cấp , quản_lý , yêu_cầu kỹ_thuật , vị_trí , kích_thước , màu_sắc , cách_thức ghi mã_số sách tiêu_chuẩn quốc_tế-International Standard Books_Number ( sau đây gọi tắt là mã_số ISBN ) . 
+
+2 . Thông_tư này áp_dụng đối_với các đối_tượng sau đây : 
+
+a ) Cục Xuất_bản , In và Phát_hành ; 
+
+b ) Các nhà xuất_bản . 
+
+Điều 2 .  Trách_nhiệm của cơ_quan quản_lý mã_số ISBN 
+
+1 . Cục Xuất_bản , In và Phát_hành là cơ_quan quản_lý mã_số ISBN tại Việt_Nam có trách_nhiệm cấp , quản_lý và thu_hồi mã_số ISBN . 
+
+2 . Hằng năm , Cục Xuất_bản , In và Phát_hành báo_cáo về tình_hình sử_dụng mã_số ISBN ở Việt_Nam và đóng phí hoạt_động cho tổ_chức ISBN quốc_tế . 
+
+3 . Căn_cứ tình_hình sử_dụng mã_số ISBN của các nhà xuất_bản , Cục Xuất_bản , In và Phát_hành có trách_nhiệm quy_hoạch việc phân_bổ nguồn mã_số ISBN , lập hồ_sơ điều_chỉnh , bổ_sung đầu số với tổ_chức ISBN quốc_tế khi có nhu_cầu . 
+
+Điều 3 .  Chế_độ báo_cáo 
+
+Các nhà xuất_bản báo_cáo Cục Xuất_bản , In và Phát_hành về việc sử_dụng mã_số ISBN được cấp , thông_báo mã_số ISBN chưa sử_dụng trước ngày 31 tháng 3 của năm liền sau năm được cấp mã_số ISBN . 
+
+Điều 4 .  Đối_tượng phải ghi mã_số ISBN 
+
+Nhà_xuất_bản phải ghi mã_số ISBN trên sách và tài_liệu dạng sách , bao_gồm cả bản_đồ , sách điện_tử , sách chữ_nổi ( sau đây gọi chung là sách ) . 
+
+Điều 5 .  Nguyên_tắc tạo_lập và sử_dụng mã_số ISBN 
+
+1 . Mã_số ISBN được tạo_lập và sử_dụng tại Việt_Nam là ISBN-13 và phải tích_hợp với mã_vạch theo chuẩn EAN-13 , đảm_bảo các yêu_cầu sau : 
+
+a ) Đọc được bằng máy hoặc phần_mềm đọc mã thông_dụng ; 
+
+b ) Chứa các thông_tin của sách quy_định tại Khoản 1 Điều 6 Thông_tư này ; 
+
+c ) Có liên_kết đến thông_tin của xuất_bản_phẩm trong hệ_thống cơ_sở dữ_liệu của Cục Xuất_bản , In và Phát_hành ; 
+
+d ) Phù_hợp thông_lệ quốc_tế và quy_định của pháp_luật Việt_Nam . 
+
+2 . Nhà_xuất_bản phải tự tạo_lập và sử_dụng mã_vạch tích_hợp mã_số ISBN . 
+
+Điều 6 .  Cơ_sở dữ_liệu tích_hợp với mã_số ISBN 
+
+1 . Mã_số ISBN tích_hợp với mã_vạch EAN-13 phải chứa các thông_tin sau : 
+
+a ) Tên nhà xuất_bản ; 
+
+b ) Tên sách ; 
+
+c ) Tên tác_giả , tên dịch_giả ( đối_với sách dịch ) ; 
+
+d ) Năm xuất_bản ; 
+
+đ ) Khuôn_khổ , số trang ; 
+
+e ) Thể_loại ; 
+
+g ) Tóm_tắt nội_dung , chủ_đề , đề_tài ; 
+
+h ) Số xác_nhận đăng_ký xuất_bản của Cục Xuất_bản , In và Phát_hành ; 
+
+i ) Số quyết_định xuất_bản của nhà xuất_bản ; 
+
+k ) Số_lượng in , tên và địa_chỉ cơ_sở in ( nếu là sách in ) ; 
+
+l ) Dung_lượng ( byte ) , định_dạng , địa_chỉ website đăng_tải hoặc tên nhà cung_cấp ( nếu là sách điện_tử ) ; 
+
+m ) Tên và địa_chỉ đối_tác liên_kết ( nếu có ) ; 
+
+n ) Giá bán ( nếu có ) . 
+
+2 . Ngoài các thông_tin quy_định tại Khoản 1 Điều này , nhà xuất_bản có_thể tạo_lập cơ_sở dữ_liệu riêng để kết_nối với mã ISBN khi tích_hợp mã_vạch .  Tổng_giám_đốc ( giám_đốc ) nhà xuất_bản chịu trách_nhiệm về nội_dung của cơ_sở dữ_liệu này . 
+
+Điều 7 .  Vị_trí và trình_bày mã_số ISBN 
+
+1 . Đối_với sách in : 
+
+a ) Mã_số ISBN tích_hợp mã_vạch phải in tại góc dưới bên phải bìa 4 .  Nếu là sách có bìa bọc thì in trên bìa bọc ; 
+
+b ) Phía trên mã_vạch phải có dòng chữ “ ISBN ” và tiếp sau là các thành_phần của mã_số , cách nhau bởi dấu gạch_nối .  Phần dãy số phía dưới trùng với dãy số phía trên , nhưng không có gạch_nối ( như hình minh_họa ) . 
+
+Ngoài_ra , cuối trang ghi số quyết_định xuất_bản ( sau đây gọi là “ trang bản_quyền ” ) phải ghi mã ISBN dạng số ( như dãy chữ_số phía trên mã_vạch tại hình minh_họa ) ; 
+
+c ) Trường_hợp sách có nhiều tập : Cuối_trang bản_quyền của mỗi tập ghi thêm mã_số ISBN dạng số của tất_cả các tập khác ( nếu đã xuất_bản ) ; 
+
+d ) Trường_hợp sách dịch : Cuối_trang bản_quyền ghi mã_số ISBN dạng số của sách gốc ( nếu có ) ; 
+
+đ ) Trường_hợp sách được xuất_bản ở nhiều định_dạng khác nhau : Cuối_trang bản_quyền của mỗi định_dạng ghi thêm mã_số ISBN dạng số của tất_cả các định_dạng khác ( nếu đã xuất_bản ) . 
+
+2 . Đối_với sách điện_tử : 
+
+a ) Đối_với sách xuất_bản , phát_hành trên mạng Internet hoặc trên phương_tiện điện_tử khác : Mã_số ISBN tích_hợp mã_vạch phải ghi tại giao_diện đầu_tiên hoặc giao_diện hiển_thị tiêu_đề hoặc giao_diện trang bản_quyền của sách ; 
+
+b ) Đối_với sách dạng CD , CD-ROM , DVD , VCD : Mã_số ISBN tích_hợp mã_vạch phải ghi trên nhãn_gắn cố_định vào vật_thể đó . 
+
+Điều 8 .  Yêu_cầu kỹ_thuật thể_hiện đối_với mã_vạch EAN-13 khi tích_hợp với mã_số ISBN 
+
+1 . Kích_thước : 
+
+a ) Kích_thước tiêu_chuẩn của mã_vạch có chiều cao 22,85 mm , rộng 31,35 mm .  Nếu rút ngắn chiều cao phải đảm_bảo để máy đọc mã_vạch nhận_biết được ; 
+
+b ) Trường_hợp vị_trí đặt mã_vạch hẹp cả 2 chiều , có_thể thu nhỏ nhưng tỷ_lệ thu nhỏ không dưới 80 % so với kích_thước tiêu_chuẩn ; 
+
+c ) Trường_hợp phóng to mã_vạch , phải đảm_bảo tỷ_lệ phóng không vượt quá 200 % so với kích_thước tiêu_chuẩn . 
+
+2 . Khoảng trống phía trái mã_số ISBN tối_thiểu là 3,63 mm , phía phải tối_thiểu là 2,31 mm . 
+
+3 . Màu_sắc : 
+
+a ) Mã_vạch tiêu_chuẩn được in bằng màu đen trên nền trắng .  Ngoài_ra , có_thể in mã_vạch bằng màu xanh thẫm hoặc nâu thẫm .  Không in mã_vạch bằng các màu vàng , da_cam , đỏ .  Mã_vạch được in bằng màu đơn ;  không được in chồng màu ;  không in dạng “ t ’ ram ” ; 
+
+b ) Nền của mã_vạch tiêu_chuẩn là màu trắng .  Ngoài_ra , có_thể dùng nền màu vàng , cam , hồng nhạt . 
+
+Điều 9 .  Nguyên_tắc cấp mã_số ISBN 
+
+1 . Mỗi tên sách thuộc các trường_hợp sau đây được cấp một mã_số ISBN riêng_biệt : 
+
+a ) Sách xuất_bản lần đầu ; 
+
+b ) Sách tái_bản mà nội_dung có sửa_chữa , bổ_sung ; 
+
+c ) Sách xuất_bản với nhiều ngôn_ngữ và được in riêng từng cuốn cho từng ngôn_ngữ ; 
+
+d ) Sách cùng nội_dung mà xuất_bản dưới các hình_thức khác nhau ( sách in bìa cứng , sách in bìa mềm , sách kèm_đĩa , sách điện_tử , sách chữ_nổi ) ; 
+
+e ) Sách cùng nội_dung nhưng khác nhau về một trong những dữ_liệu quy_định tại Khoản 1 Điều 6 Thông_tư này ( trừ giá bán ) . 
+
+2 . Mã_số ISBN đã được cấp và sử_dụng cho một tên sách thì không được thay_đổi hoặc cấp lại cho tên sách khác . 
+
+3 . Nhà_xuất_bản chỉ được sử_dụng mã_số ISBN đã được cấp trực_tiếp một lần cho từng tên sách , không được cấp lại , chuyển_nhượng mã_số ISBN cho nhà xuất_bản hoặc cơ_quan , tổ_chức khác . 
+
+Điều 10 .  Cách_thức cấp mã_số ISBN 
+
+Cục Xuất_bản , In và Phát_hành cấp mã_số ISBN kèm theo xác_nhận đăng_ký xuất_bản cho từng tên sách . 
+
+Điều 11 .  Thu_hồi mã_số ISBN 
+
+1 . Cục Xuất_bản , In và Phát_hành thu_hồi mã_số ISBN đã cấp đối_với trường_hợp mã_số ISBN không được sử_dụng theo quy_định . 
+
+2 . Cách_thức thu_hồi mã_số ISBN : Nhà_xuất_bản nộp lại mã_số ISBN đã được cấp thông_qua báo_cáo hằng năm theo quy_định tại Điều 3 Thông_tư này . 
+
+Điều 12 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 8 năm 2016 . 
+
+2 . Chánh_Văn_phòng , Cục_trưởng Cục Xuất_bản , In và Phát_hành , Thủ_trưởng cơ_quan , tổ_chức có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . 
+
+3 . Trong quá_trình thực_hiện , nếu có vấn_đề phát_sinh hoặc khó_khăn , vướng_mắc , đề_nghị cơ_quan , tổ_chức phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( qua Cục Xuất_bản , In và Phát_hành ) để xem_xét , giải_quyết ./. 

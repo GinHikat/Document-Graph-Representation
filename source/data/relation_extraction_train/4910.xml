@@ -1,0 +1,162 @@
+Thông tư Quy định điều kiện hoạt động y tế trên môi trường mạng
+
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 63/2012/NĐ-CP ngày 31 tháng 8 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Y_tế ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định điều_kiện hoạt_động y_tế trên môi_trường mạng về hạ_tầng kỹ_thuật công_nghệ thông_tin , bảo_đảm an_toàn , an_ninh thông_tin , nhân_lực và ứng_dụng công_nghệ thông_tin . 
+
+2 . Thông_tư này áp_dụng với cơ_quan , tổ_chức , cá_nhân tham_gia xây_dựng và triển_khai các hoạt_động y_tế trên môi_trường mạng trên lãnh_thổ Việt_Nam ( sau đây gọi chung là cơ_quan ) . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Hoạt_động y_tế là các hoạt_động bảo_vệ , chăm_sóc và nâng cao sức_khỏe nhân_dân trong lĩnh_vực : y_tế dự_phòng ;  khám bệnh , chữa bệnh , phục_hồi chức_năng ;  giám_định y_khoa , pháp_y , pháp_y tâm_thần ;  y dược cổ_truyền ;  sức_khỏe sinh_sản ;  trang_thiết_bị y_tế ;  dược ;  mỹ_phẩm ;  an_toàn thực_phẩm ;  bảo_hiểm_y_tế ;  dân_số-kế_hoạch_hóa gia_đình . 
+
+2 . Hoạt_động y_tế trên môi_trường mạng là việc thông_tin y_tế được cung_cấp , truyền đưa , thu_thập , xử_lý , lưu_trữ và trao_đổi thông_qua cơ_sở hạ_tầng thông_tin . 
+
+3 . Tiêu_chuẩn HL7 ( Health_Level 7 ) là tiêu_chuẩn quốc_tế cung_cấp giao_thức chuẩn về quản_lý , trao_đổi và tích_hợp dữ_liệu y_tế giữa các hệ_thống thông_tin y_tế nhằm hỗ_trợ các hoạt_động y_tế . 
+
+4 . Tiêu_chuẩn HL7 CDA ( Health_Level 7 Clinical_Document Architecture ) là tài_liệu tiêu_chuẩn quy_định cấu_trúc và ngữ_nghĩa dữ_liệu lâm_sàng phục_vụ mục_tiêu trao_đổi dữ_liệu giữa các bên liên_quan . 
+
+5 . Tiêu_chuẩn hình_ảnh số và truyền_tải trong y_tế ( DICOM-Digital Imaging and Communications in Medicine ) là tiêu_chuẩn quốc_tế xác_định giao_thức trao_đổi , lưu_trữ , xử_lý , thu hoặc nhận , in_ấn và chia_sẻ dữ_liệu hình_ảnh số giữa các thiết_bị y_tế và hệ_thống thông_tin y_tế . 
+
+6 . Tiêu_chuẩn ISO/IEEE 11073 là một bộ các tiêu_chuẩn kết_hợp bởi các tiêu_chuẩn quốc_tế : ISO ( Tổ_chức quốc_tế về tiêu_chuẩn_hóa-International Organization for Standardization ) , IEEE ( Viện kỹ_sư điện và điện_tử-Institute of Electrical and Electronics Engineers ) và CEN ( Ủy_ban tiêu_chuẩn Châu_Âu-European Committee for Standardization ) nhằm xác_định giao_thức kết_nối , liên_thông và trao_đổi dữ_liệu giữa các ứng_dụng và thiết_bị y_tế . 
+
+7 . Tiêu_chuẩn SDMX là tiêu_chuẩn quốc_tế ISO/TS 17369 : 2005 hỗ_trợ trao_đổi và chia_sẻ dữ_liệu , siêu dữ_liệu thống_kê giữa các đơn_vị , tổ_chức . 
+
+8 . Tiêu_chuẩn SDMX-HD là tiêu_chuẩn do Tổ_chức Y_tế thế_giới xây_dựng dựa trên tiêu_chuẩn SDMX hỗ_trợ các cơ_sở y_tế trao_đổi và chia_sẻ các chỉ_số , siêu dữ_liệu thống_kê trong lĩnh_vực y_tế . 
+
+Điều 3 .  Điều_kiện về hạ_tầng kỹ_thuật công_nghệ thông_tin 
+
+1 . Đối_với hoạt_động có sử_dụng máy_chủ và phần_mềm hệ_thống : 
+
+a ) Bảo_đảm_hạ_tầng máy_chủ và các thiết_bị đi kèm có đủ công_suất , hiệu_năng , tốc_độ xử_lý truy_xuất dữ_liệu , đáp_ứng yêu_cầu triển_khai các hoạt_động y_tế trên môi_trường mạng ; 
+
+b ) Bảo_đảm hệ_thống máy_chủ có tính sẵn_sàng cao , cơ_chế dự_phòng linh_hoạt để hoạt_động liên_tục ; 
+
+c ) Bảo_đảm hệ điều_hành và phần_mềm hệ_thống cài_đặt trên các máy_chủ có bản_quyền hoặc xuất_xứ , nguồn_gốc rõ_ràng . 
+
+2 . Hệ_thống mạng : 
+
+a ) Hệ_thống mạng ( mạng viễn_thông , mạng internet , mạng diện_rộng , mạng nội_bộ , các kết_nối khác ) được thiết_kế , triển_khai phù_hợp , có băng_thông đáp_ứng mục_đích sử_dụng ; trường_hợp sử_dụng mạng viễn_thông phải thực_hiện đầy_đủ quyền và nghĩa_vụ được quy_định tại Điều 16 của <L rel="Reference"> Luật viễn_thông </L> .
+b ) Trang_thiết_bị mạng , các phần_mềm phân_tích , quản_lý giám_sát mạng phải có bản_quyền hoặc xuất_xứ , nguồn_gốc rõ_ràng ; 
+
+c ) Có phương_án dự_phòng đầy_đủ bảo_đảm hoạt_động của hệ_thống mạng . 
+
+3 . Cơ_sở dữ_liệu : 
+
+a ) Cơ_sở dữ_liệu sử_dụng cho các hoạt_động y_tế trên môi_trường mạng phải ổn_định ;  xử_lý , lưu_trữ được khối_lượng dữ_liệu theo yêu_cầu nghiệp_vụ ; 
+
+b ) Hệ_quản_trị cơ_sở dữ_liệu có nguồn_gốc , xuất_xứ rõ_ràng hoặc sử_dụng các hệ quản_trị cơ_sở dữ_liệu mã nguồn mở được dùng rộng_rãi trong nước và quốc_tế . 
+
+4 . Máy trạm : Có đủ máy trạm , cấu_hình phù_hợp cho các hoạt_động y_tế trên môi_trường mạng . 
+
+Điều 4 .  Điều_kiện về bảo_đảm an_toàn , an_ninh thông_tin 
+
+1 . Có chính_sách về an_toàn , bảo_mật thông_tin phù_hợp với quy_định về an_toàn , bảo_mật hệ_thống công_nghệ thông_tin của Nhà_nước và quy_chế an_toàn bảo_mật thông_tin của cơ_quan . 
+
+2 . An_toàn , an_ninh hệ_thống mạng : 
+
+a ) Bảo_đảm có biện_pháp kỹ_thuật cho phép kiểm_soát các truy_cập đối_với hệ_thống mạng ; 
+
+b ) Có biện_pháp phát_hiện và phòng_chống xâm_nhập , phòng_chống phát_tán mã độc_hại cho hệ_thống ; 
+
+c ) Có chính_sách cập_nhật định_kỳ các bản vá lỗi hệ_thống , cập_nhật cấu_hình cho các thiết_bị ; 
+
+d ) Có biện_pháp bảo_đảm an_toàn thông_tin cho các máy trạm khi kết_nối với môi_trường mạng ; 
+
+đ ) Bảo_đảm an_toàn , an_ninh về mặt vật_lý tại vị_trí đặt các hệ_thống máy_chủ ; 
+
+e ) Các trang_thiết_bị mạng , an_ninh , bảo_mật , phần_mềm chống vi rút , công_cụ phân_tích , quản_trị mạng được cài_đặt trong mạng của cơ_quan phải có nguồn_gốc , xuất_xứ rõ_ràng . 
+
+3 . An_toàn , bảo_mật thông_tin đối_với phần_mềm ứng_dụng : 
+
+a ) Có quy_định ghi lại các lỗi và quá_trình xử_lý lỗi , đặc_biệt là các lỗi về an_toàn , bảo_mật trong kiểm_tra và thử_nghiệm các phần_mềm ứng_dụng ; 
+
+b ) Các phiên_bản phần_mềm bao_gồm cả chương_trình nguồn cần được quản_lý tập_trung , lưu_trữ , bảo_mật và có cơ_chế phân_quyền cho từng thành_viên trong việc thao_tác với các tập_tin ; 
+
+c ) Có kế_hoạch_định_kỳ kiểm_tra mã nguồn , nhằm loại_trừ các đoạn mã độc_hại , các lỗ_hổng bảo_mật ; 
+
+d ) Đơn_vị cung_cấp phần_mềm ứng_dụng phải cam_kết không có các đoạn mã độc_hại trong sản_phẩm . 
+
+4 . An_toàn dữ_liệu : 
+
+a ) Bảo_đảm có cơ_chế bảo_vệ và phân_quyền truy_cập đối_với các tài_nguyên cơ_sở dữ_liệu ; 
+
+b ) Ghi nhật_ký đối_với các truy_cập cơ_sở dữ_liệu , các thao_tác đối_với cấu_hình cơ_sở dữ_liệu ; 
+
+c ) Có phương_án sao lưu dữ_liệu , bảo_đảm khôi_phục dữ_liệu trong trường_hợp cần_thiết ; 
+
+d ) Bảo_đảm có thuật_toán mã_hóa phù_hợp yêu_cầu bảo_đảm tính bí_mật và khả_năng xử_lý của hệ_thống ; 
+
+đ ) Rà_soát , cập_nhật các bản vá , các bản sửa lỗi hệ quản_trị cơ_sở dữ_liệu theo định_kỳ và theo khuyến_cáo của nhà cung_cấp ; 
+
+e ) Có các giải_pháp ngăn_chặn các hình_thức tấn_công cơ_sở dữ_liệu . 
+
+5 . Quản_lý_sự_cố : 
+
+a ) Có quy_trình quản_lý_sự_cố , trong đó phải quy_định rõ trách_nhiệm của các bộ_phận liên_quan , chi_tiết các bước thực_hiện bao_gồm cả việc thông_báo người sử_dụng cũng như bộ_phận vận_hành hệ_thống công_nghệ thông_tin ;  trường_hợp hạ_tầng công_nghệ thông_tin được thuê ngoài thì đơn_vị cung_cấp dịch_vụ phải cung_cấp quy_trình xử_lý_sự_cố . 
+
+b ) Định_kỳ rà_soát , cập_nhật các sự_cố và phương_án xử_lý cho quy_trình quản_lý_sự_cố ; 
+
+c ) Áp_dụng các giải_pháp kỹ_thuật để phát_hiện , xử_lý kịp_thời các cuộc tấn_công vào hệ_thống mạng ; 
+
+d ) Có biện_pháp phòng_chống rủi_ro và thảm_họa công_nghệ thông_tin một_cách có hệ_thống nhằm hạn_chế tối_đa những rủi_ro của hoạt_động y_tế trên môi_trường mạng . 
+
+Điều 5 .  Điều_kiện về nhân_lực 
+
+1 . Bảo_đảm nhân_lực chuyên_trách về công_nghệ thông_tin ( về số_lượng , trình_độ ) đáp_ứng được yêu_cầu hoạt_động y_tế trên môi_trường mạng của cơ_quan . 
+
+2 . Đối_với các cơ_quan sự_nghiệp hạng đặc_biệt , hạng 1 và các trường đại_học trong ngành y_tế phải có phòng công_nghệ thông_tin , tối_thiểu 5 người , trong đó số người có trình_độ từ cao_đẳng chuyên_ngành công_nghệ thông_tin trở lên chiếm 60 % tổng_số nhân_lực của phòng . 
+
+3 . Đối_với các cơ_quan sự_nghiệp hạng 2 , hạng 3 của ngành y_tế bảo_đảm phải có tổ công_nghệ thông_tin trở lên với nhân_sự tối_thiểu là 3 người có trình_độ công_nghệ thông_tin từ trung_cấp trở lên . 
+
+4 . Xây_dựng kế_hoạch và tổ_chức đào_tạo nâng cao_trình_độ công_nghệ thông_tin cho nhân_lực tham_gia vào hoạt_động y_tế trên môi_trường mạng . 
+
+5 . Trường_hợp thuê nhân_lực bên ngoài , nhân_lực tham_gia hoạt_động y_tế trên môi_trường mạng của đơn_vị được thuê phải đáp_ứng yêu_cầu chuyên_môn nghiệp_vụ ;  trong hợp_đồng có điều_khoản ghi rõ việc thực_hiện cam_kết đáp_ứng qui_định tại Khoản 5 Điều 6 Thông_tư này . 
+
+Điều 6 .  Điều_kiện về ứng_dụng công_nghệ thông_tin 
+
+1 . Bảo_đảm_hạ_tầng kỹ_thuật theo quy_định tại Điều 3 Thông_tư này . 
+
+2 . Chuẩn_hóa các quy_trình nghiệp_vụ bảo_đảm ứng_dụng công_nghệ thông_tin hoạt_động y_tế trên môi_trường mạng có hiệu_quả . 
+
+3 . Áp_dụng các tiêu_chuẩn quốc_gia , quốc_tế trong quá_trình xây_dựng các ứng_dụng công_nghệ thông_tin y_tế : 
+
+a ) Tiêu_chuẩn HL7 ( bản tin HL7 phiên_bản 2 .  x , bản tin HL7 phiên_bản 3 , kiến_trúc tài_liệu lâm_sàng CDA ) ; 
+
+b ) Tiêu_chuẩn hình_ảnh số và truyền_tải trong y_tế : DI_COM ; 
+
+c ) Tiêu_chuẩn kết_nối , liên_thông và trao_đổi dữ_liệu giữa các ứng_dụng và thiết_bị y_tế : ISO/IEEE 11073 ; 
+
+d ) Tiêu_chuẩn trao_đổi và chia_sẻ các chỉ_số , siêu dữ_liệu thống_kê trong lĩnh_vực y_tế : SDMX-HD ; 
+
+đ ) Các tiêu_chuẩn đã được ban_hành theo <TT rel="Reference"> Thông_tư số 22/2013/BTTTT ngày 23 tháng 12 năm 2013 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông .
+4 . Có Quy_chế quản_lý và vận_hành ứng_dụng công_nghệ thông_tin tại cơ_quan . 
+
+5 . Việc khai_thác và sử_dụng dữ_liệu thông_tin y_tế liên_quan đến người_bệnh phải bảo_đảm quyền được tôn_trọng bí_mật riêng_tư của người_bệnh theo quy_định của <L rel="Reference"> Luật khám bệnh , chữa bệnh </L> .
+6 . Được phép sử_dụng chữ_ký số , chứng_thư số theo quy_định tại <NĐ rel="Reference"> Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2006 </NĐ> của Chính_phủ về việc quy_định chi_tiết thi_hành luật giao_dịch điện_tử về chữ_ký số và dịch_vụ chứng_thực chữ_ký số , <NĐ rel="Reference"> Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="Others"> Nghị_định số 26/2007/NĐ-CP </NĐ> , <NĐ rel="Reference"> Nghị_định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 </NĐ> của Chính_phủ về việc sửa_đổi , bổ_sung một_số điều của <NĐ rel="Others"> Nghị_định số 26/2007/NĐ-CP </NĐ> và <NĐ rel="Others"> Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="Others"> Nghị_định số 26/2007/NĐ-CP </NĐ> .
+7 . Việc lập , lưu_trữ và khai_thác hồ_sơ bệnh_án điện_tử phải tuân_thủ quy_định tại Điều 59 của <L rel="Reference"> Luật khám bệnh , chữa bệnh </L> .
+8 . Trường_hợp thuê dịch_vụ ứng_dụng công_nghệ thông_tin bên ngoài phải có hợp_đồng với các điều_khoản quy_định về cam_kết về sở_hữu hợp_pháp thông_tin , trách_nhiệm của mỗi bên khi có sự_cố xảy ra . 
+
+Điều 7 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực kể từ ngày 01 tháng 03 năm 2015 . 
+
+Điều 8 .  Điều_khoản chuyển_tiếp 
+
+Các cơ_quan đã triển_khai hoạt_động y_tế trên môi_trường mạng trước ngày Thông_tư này có hiệu_lực , phải thực_hiện các điều_kiện quy_định tại Thông_tư này trước ngày 01 tháng 01 năm 2017 . 
+
+Điều 9 .  Điều_khoản tham_chiếu 
+
+Trường_hợp các văn_bản được dẫn chiếu trong Thông_tư này bị thay_thế hoặc sửa_đổi , bổ_sung thì áp_dụng theo văn_bản thay_thế hoặc văn_bản đã được sửa_đổi , bổ_sung . 
+
+Điều 10 .  Tổ_chức thực_hiện 
+
+1 . Cục Công_nghệ thông_tin-Bộ Y_tế có trách_nhiệm chỉ_đạo , hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này trên phạm_vi toàn_quốc . 
+
+2 . Sở Y_tế có trách_nhiệm chỉ_đạo , hướng_dẫn , kiểm_tra , thanh_tra việc thực_hiện Thông_tư này trên địa_bàn quản_lý . 
+
+3 . Các cơ_quan có liên_quan chịu trách_nhiệm xây_dựng , chuẩn_hóa các qui_trình nghiệp_vụ phục_vụ cho hoạt_động y_tế trên môi_trường mạng tại cơ_quan của mình . 
+
+Trong quá_trình thực_hiện , nếu có vướng_mắc đề_nghị phản_ánh kịp_thời về Bộ Y_tế ( Cục Công_nghệ thông_tin ) để nghiên_cứu , giải_quyết ./. 

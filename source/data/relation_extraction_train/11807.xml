@@ -1,0 +1,246 @@
+Thông tư Quy định về giải pháp công nghệ và yêu cầu
+
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_Thương ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 158/2006/NĐ-CP ngày 28 tháng 12 năm 2006 </NĐ> của Chính_phủ quy_định chi_tiết <L rel="Others"> Luật Thương_mại </L> về hoạt_động mua_bán hàng_hóa qua Sở Giao_dịch hàng_hóa ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 52/2013/NĐ-CP ngày 16 tháng 5 năm 2013 </NĐ> của Chính_phủ về Thương_mại điện_tử ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định về giải_pháp công_nghệ và yêu_cầu kỹ_thuật trong hoạt_động mua_bán hàng_hóa qua Sở Giao_dịch hàng_hóa . 
+
+2 . Đối_tượng áp_dụng bao_gồm các Sở Giao_dịch hàng_hóa tại Việt_Nam , thành_viên , Trung_tâm thanh_toán , Trung_tâm giao_nhận hàng_hóa và các tổ_chức , cá_nhân khác liên_quan đến hoạt_động mua_bán hàng_hóa qua Sở Giao_dịch hàng_hóa tại Việt_Nam . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Hệ_thống công_nghệ thông_tin phục_vụ mua_bán hàng_hóa qua Sở Giao_dịch hàng_hóa bao_gồm trang_thiết_bị cho cơ_sở hạ_tầng công_nghệ thông_tin , phần_mềm ứng_dụng , bảng thông_tin giao_dịch điện_tử , trang thông_tin phục_vụ hoạt_động giao_dịch . 
+
+2 . Cơ_sở hạ_tầng công_nghệ thông_tin bao_gồm máy_chủ , máy_tính cá_nhân , máy_in , thiết_bị mạng , thiết_bị lưu_trữ , thiết_bị hiển_thị thông_tin , hệ_thống đường truyền , hệ_thống chống sét , hệ_thống lưu-phát_điện và các trang_thiết_bị khác phục_vụ cho hoạt_động giao_dịch . 
+
+3 . Trang thông_tin điện_tử về giao_dịch hàng_hóa qua Sở Giao_dịch hàng_hóa là trang thông_tin điện_tử được thiết_lập để phục_vụ cho việc cung_cấp thông_tin liên_quan đến các hoạt_động của Sở Giao_dịch hàng_hóa . 
+
+4 . Phần_mềm ứng_dụng là phần_mềm được phát_triển và cài_đặt trên môi_trường phù_hợp để thực_hiện giao_dịch và các nghiệp_vụ liên_quan đến hoạt_động mua_bán hàng_hóa qua Sở Giao_dịch hàng_hóa . 
+
+5 . Bảng thông_tin giao_dịch điện_tử là bảng thông_tin của Sở Giao_dịch hàng_hóa gồm những nội_dung : khối_lượng chào mua , khối_lượng chào_bán , giá chào mua , giá chào_bán , khối_lượng khớp , giá khớp , giá đóng_cửa phiên ngày hôm trước , giá mở_cửa phiên , mức thay_đổi giá trong ngày so giá khớp với giá mở_cửa phiên ;  được thể_hiện trên màn_hình , trang thông_tin điện_tử hoặc các thiết_bị hiển_thị khác của Sở Giao_dịch hàng_hóa . 
+
+Điều 3 .  Yêu_cầu chung về Hệ_thống công_nghệ thông_tin 
+
+1 . Sở Giao_dịch hàng_hóa , các thành_viên Sở Giao_dịch hàng_hóa , Trung_tâm thanh_toán , Trung_tâm giao_nhận hàng_hóa phải trang_bị Hệ_thống công_nghệ thông_tin phục_vụ hoạt_động mua_bán hàng_hóa qua Sở Giao_dịch hàng_hóa đáp_ứng các quy_định tại Thông_tư này . 
+
+2 . Hệ_thống công_nghệ thông_tin phải được bảo_trì và nâng_cấp thường_xuyên , kịp_thời chỉnh_sửa các lỗi kỹ_thuật , đảm_bảo cho hệ_thống sẵn_sàng phục_vụ giao_dịch trên Sở Giao_dịch hàng_hóa và cung_cấp thông_tin cho khách_hàng . 
+
+3 . Hệ_thống công_nghệ thông_tin phải được thiết_kế đảm_bảo an_toàn , an_ninh thông_tin . 
+
+4 . Hệ_thống công_nghệ thông_tin phải được thiết_kế đảm_bảo khả_năng phân_tách , phát_hiện , xử_lý_sự_cố kịp_thời . 
+
+5 . Sở Giao_dịch hàng_hóa phải đảm_bảo khả_năng kết_nối , trao_đổi dữ_liệu về Bộ Công_Thương khi có yêu_cầu . 
+
+6 . Sở Giao_dịch hàng_hóa , thành_viên của Sở Giao_dịch hàng_hóa phải thực_hiện các quy_định sau đây khi xảy ra sự_cố về Hệ_thống công_nghệ thông_tin và không khắc_phục được sau 24 ( hai mươi bốn ) giờ : 
+
+a ) Thông_báo ngay cho các thành_viên , khách_hàng về tình_trạng sự_cố của Hệ_thống công_nghệ thông_tin ; 
+
+b ) Lưu_trữ , đảm_bảo tính toàn_vẹn của toàn_bộ cơ_sở dữ_liệu tại thời_điểm ngừng giao_dịch ; 
+
+c ) Giao_dịch sẽ tiếp_tục thực_hiện ngay sau khi sự_cố Hệ_thống công_nghệ thông_tin được khắc_phục ; 
+
+e ) Lưu lại toàn_bộ báo_cáo dưới dạng giấy và điện_tử của quá_trình tìm_hiểu , xử_lý_sự_cố ; 
+
+g ) Báo_cáo Bộ Công_Thương sự_cố Hệ_thống công_nghệ thông_tin và biện_pháp cải_tiến , khắc_phục lỗi kỹ_thuật . 
+
+7 . Trong trường_hợp sự_cố Hệ_thống công_nghệ thông_tin ảnh_hưởng đến quyền_lợi của khách_hàng , Sở Giao_dịch hàng_hóa chịu trách_nhiệm theo quy_định của pháp_luật . 
+
+Điều 4 .  Yêu_cầu về Hệ_thống công_nghệ thông_tin đối_với Sở Giao_dịch hàng_hóa 
+
+1 . Hệ_thống công_nghệ thông_tin phải được thiết_kế đảm_bảo tập_trung thông_tin , dữ_liệu liên_quan đến chi_tiết giao_dịch , thông_tin thanh_toán , thông_tin giao_nhận hàng_hóa , khách_hàng , thành_viên hoạt_động trên Sở Giao_dịch hàng_hóa ; 
+
+2 . Sở Giao_dịch hàng_hóa phải có đội_ngũ cán_bộ kỹ_thuật đủ trình_độ để quản_lý , vận_hành và giám_sát Hệ_thống công_nghệ thông_tin bao_gồm quản_trị hệ_thống mạng , quản_trị các hệ điều_hành , bảo_mật Hệ_thống công_nghệ thông_tin , quản_trị cơ_sở dữ_liệu . 
+
+3 . Sở Giao_dịch hàng_hóa phải xây_dựng một trang thông_tin điện_tử với địa_chỉ xác_định trên mạng Internet để công_bố thông_tin theo quy_định hiện_hành và tuân_thủ các quy_định tại Mục 3 Chương II của Thông_tư này . 
+
+4 . Sở Giao_dịch hàng_hóa phải xây_dựng bộ tài_liệu kỹ_thuật và vận_hành Hệ_thống công_nghệ thông_tin tại Sở Giao_dịch hàng_hóa , gồm các loại : 
+
+a ) Hồ_sơ_khảo_sát thiết_kế và thuyết_minh kỹ_thuật của hệ_thống ; 
+
+b ) Tài_liệu tự kiểm_tra , đánh_giá của đơn_vị hoặc do cơ_quan chuyên_môn có chức_năng kiểm_định xác_nhận thiết_kế của hệ_thống đủ tiêu_chuẩn an_toàn cho vận_hành ; 
+
+c ) Quy_định quy_trình quản_lý sử_dụng hệ_thống mạng , sao lưu dự_phòng , vận_hành hệ_thống và đảm_bảo an_toàn , an_ninh thông_tin . 
+
+Điều 5 .  Yêu_cầu chung về hệ_thống máy_chủ và hạ_tầng mạng 
+
+1 . Sở Giao_dịch hàng_hóa , thành_viên kinh_doanh của Sở Giao_dịch hàng_hóa , Trung_tâm thanh_toán , Trung_tâm giao_nhận hàng_hóa phải trang_bị hệ_thống máy_chủ cho Hệ_thống công_nghệ thông_tin : 
+
+a ) Máy_chủ phải có cấu_hình phù_hợp với yêu_cầu của phần_mềm cài_đặt trên máy_chủ và các dịch_vụ mà máy_chủ đó cung_cấp ; 
+
+b ) Các phần_mềm ứng_dụng phải được duy_trì hoạt_động trên các máy_chủ ; 
+
+c ) Hệ_thống máy_chủ phải được đặt tại địa_chỉ xác_định trên lãnh_thổ Việt_Nam . 
+
+2 . Hệ_thống máy_chủ phải đảm_bảo hoạt_động ổn_định và có tối_thiểu một máy_chủ dự_phòng luôn ở trạng_thái sẵn_sàng trong trường_hợp hệ_thống chính xảy ra sự_cố . 
+
+3 . Hệ_thống máy_chủ phải có giải_pháp sao lưu dự_phòng cho dữ_liệu của các ứng_dụng nghiệp_vụ , dữ_liệu giao_dịch , khách_hàng trên Sở Giao_dịch hàng_hóa .  Các thiết_bị sao lưu dự_phòng phải chuyên_dụng . 
+
+4 . Hệ_thống mạng phải có tối_thiểu hai đường truyền của hai nhà mạng khác nhau , một đường truyền chính và một đường truyền dự_phòng trong trường_hợp đường truyền chính gặp sự_cố thì đường truyền dự_phòng phải được sử_dụng kịp_thời , đảm_bảo thông_tin luôn được thông_suốt . 
+
+5 . Hệ_thống máy_chủ và hạ_tầng mạng phải có khả_năng nâng_cấp và mở_rộng hệ_thống . 
+
+Điều 6 .  Yêu_cầu chung về đảm_bảo an_toàn , an_ninh thông_tin với cơ_sở hạ_tầng công_nghệ thông_tin 
+
+1 . Sở Giao_dịch hàng_hóa , thành_viên kinh_doanh của Sở Giao_dịch hàng_hóa , Trung_tâm thanh_toán , Trung_tâm giao_nhận hàng_hóa phải có giải_pháp đảm_bảo an_toàn , an_ninh cho Hệ_thống công_nghệ thông_tin ;  đảm_bảo tính nguyên_vẹn , tính bảo_mật và tính khả_dụng của thông_tin giao_dịch ;  đảm_bảo bí_mật thông_tin của tổ_chức , khách_hàng , giao_dịch trên Sở Giao_dịch hàng_hóa . 
+
+2 . Việc truy_cập hệ_thống phải được phân_quyền đến từng bộ_phận , cá_nhân sử_dụng để bảo_vệ các lớp thông_tin khác nhau .  Các máy_chủ phải được cài_đặt , cấu_hình để hệ_thống có_thể lưu vết mọi xâm_nhập . 
+
+3 . Hệ_thống công_nghệ thông_tin phải có biện_pháp bảo_mật để quản_lý truy_cập của người sử_dụng .  Hệ_thống phải có khả_năng tổ_chức , tra_cứu tìm_kiếm dữ_liệu . 
+
+4 . Thông_tin sao lưu dữ_liệu trên băng_từ , đĩa_quang , ổ_cứng và các thiết_bị lưu_trữ khác phải được bảo_vệ vật_lý trong điều_kiện bảo_mật và an_toàn .  Căn_cứ vào đặc_tính kỹ_thuật của từng loại thiết_bị lưu_trữ để có chế_độ tái lưu thích_hợp . 
+
+Điều 7 .  Yêu_cầu kỹ_thuật về cơ_sở hạ_tầng công_nghệ thông_tin đối_với Sở Giao_dịch hàng_hóa 
+
+1 . Sử_dụng thiết_bị tường lửa để ngăn_chặn các tấn_công trực_tiếp vào các thông_tin quan_trọng của hệ_thống , kiểm_soát các thông_tin ra vào hệ_thống của Sở Giao_dịch hàng_hóa . 
+
+2 . Phải trang_bị thiết_bị phát_hiện và ngăn_chặn xâm_nhập để ngăn_chặn các kết_nối trái_phép vào các tài_nguyên quan_trọng trong trường_hợp xâm_nhập vượt qua được tường lửa . 
+
+3 . Sử_dụng phần_mềm chống virus và phần_mềm_chống phần_mềm gián_điệp trên tất_cả các máy_chủ , máy trạm và tại cổng kết_nối với các mạng mở . 
+
+4 . Thực_hiện chia tách hệ_thống mạng thành các vùng mạng khác nhau theo mục_đích sử_dụng , đối_tượng sử_dụng và có chính_sách bảo_mật cho từng vùng . 
+
+5 . Phải có biện_pháp sao lưu dự_phòng hệ_thống cơ_sở hạ_tầng công_nghệ thông_tin định_kỳ , đảm_bảo khôi_phục thông_tin dữ_liệu trong vòng 24 ( hai mươi bốn ) giờ kể từ khi phát_sinh_sự_cố .  Việc sao lưu dự_phòng phải được thực_hiện hàng ngày . 
+
+6 . Phải trang_bị , tổ_chức và sử_dụng các thiết_bị lưu_trữ an_toàn cho cơ_sở dữ_liệu và phần_mềm ứng_dụng , đảm_bảo an_toàn và vận_hành theo đúng yêu_cầu kỹ_thuật . 
+
+Mục 2 
+
+YÊU_CẦU VỀ PHẦN_MỀM ỨNG_DỤNG 
+
+Điều 8 .  Yêu_cầu chung về phần_mềm ứng_dụng 
+
+1 . Phần_mềm ứng_dụng tại Sở Giao_dịch hàng_hóa , thành_viên Sở Giao_dịch hàng_hóa , Trung_tâm thanh_toán , Trung_tâm giao_nhận hàng_hóa phải đảm_bảo tuân_thủ các quy_định pháp_luật về thị_trường mua_bán hàng_hóa qua Sở Giao_dịch hàng_hóa và phù_hợp với điều_kiện hoạt_động , yêu_cầu quản_lý nghiệp_vụ trên Sở Giao_dịch hàng_hóa . 
+
+2 . Giải_pháp công_nghệ được lựa_chọn để xây_dựng phần_mềm ứng_dụng phải đáp_ứng khả_năng mở_rộng giao_dịch của thị_trường Sở Giao_dịch hàng_hóa . 
+
+3 . Phần_mềm ứng_dụng phải được kiểm_thử chặt_chẽ trước khi được đưa vào vận_hành cả bản chính_thức và các bản cập_nhật , Sở Giao_dịch hàng_hóa phải lập biên_bản cho mỗi lần kiểm_thử . 
+
+4 . Sở Giao_dịch hàng_hóa , thành_viên Sở Giao_dịch hàng_hóa sử_dụng phần_mềm ứng_dụng phải thực_hiện các yêu_cầu về bản_quyền phần_mềm theo quy_định của pháp_luật . 
+
+Điều 9 .  Yêu_cầu chung về tính_năng kỹ_thuật của phần_mềm ứng_dụng 
+
+1 . Phải có chức_năng nhật_ký thao_tác để lưu vết mọi giao_dịch hàng_hóa , thanh_toán , giao_nhận trong quy_trình nghiệp_vụ tối_thiểu trong thời_gian 1 ( một ) năm . 
+
+2 . Các phần_mềm giao_dịch hàng_hóa phải có khả_năng kiểm_soát các truy_cập về thao_tác_nghiệp_vụ trong giao_dịch , đảm_bảo thực_hiện đúng quy_trình , chống sai_sót . 
+
+3 . Phần_mềm ứng_dụng phải có các chức_năng nhật_ký thao_tác phục_vụ cho việc kiểm_tra giao_dịch của người sử_dụng , kiểm_tra những dữ_liệu người sử_dụng đã truy_cập , đã chỉnh_sửa , thời_gian truy_nhập , truy_xuất . 
+
+4 . Dữ_liệu lưu_trữ để giám_sát người sử_dụng bao_gồm tài_khoản người dùng và thời_gian truy_cập thông_tin vào hệ_thống ;  tài_khoản và thời_gian tạo ra dữ_liệu , thời_gian sửa dữ_liệu cuối_cùng và thời_gian kiểm_soát dữ_liệu . 
+
+5 . Cơ_sở dữ_liệu của phần_mềm ứng_dụng phải được tổ_chức để hệ_thống phần_mềm dễ_dàng cập_nhật thông_tin , tổng_hợp , lựa_chọn , xử_lý , truyền_dẫn nhanh_chóng và chính_xác . 
+
+Điều 10 .  Yêu_cầu chung về đảm_bảo an_toàn , an_ninh thông_tin của phần_mềm ứng_dụng 
+
+1 . Phần_mềm ứng_dụng phải đảm_bảo có khả_năng phân_quyền theo chức_năng đến từng người sử_dụng .  Mỗi người sử_dụng được được phân_định rõ_ràng về nhiệm_vụ và quyền_hạn .  Người không được phân_quyền không_thể truy_cập vào công_việc của người khác . 
+
+2 . Đối_với các phần_mềm ứng_dụng có chức_năng giao_dịch qua mạng Internet phải có cơ_chế kiểm_soát truy_nhập , xác_thực người sử_dụng , bảo_mật dữ_liệu trên đường truyền , đảm_bảo tính toàn_vẹn dữ_liệu và chống chối_bỏ . 
+
+3 . Mật_khẩu người sử_dụng khi lưu_trữ phải được mã_hóa .  Nghiêm_cấm trao_đổi mật_khẩu người sử_dụng dưới dạng văn_bản không mã_hóa ( clear text ) trong mọi trường_hợp , ngoại_trừ mật_khẩu sử_dụng một lần .  Việc in , gửi mật_khẩu cho người dùng trong hệ_thống phải được bảo_mật . 
+
+4 . Phần_mềm ứng_dụng phải có chức_năng sao lưu dự_phòng , phục_hồi các dữ_liệu , thông_tin giao_dịch hàng_hóa và các thông_tin khác trong vòng 24 ( hai mươi bốn ) giờ kể từ khi phát_sinh_sự_cố kỹ_thuật . 
+
+5 . Trước khi đưa phần_mềm ứng_dụng vào vận_hành phải đảm_bảo phần_mềm đã được kiểm_tra để phát_hiện , khắc_phục các lỗ_hổng bảo_mật và các lỗi phát_sinh . 
+
+Điều 11 .  Yêu_cầu về phần_mềm ứng_dụng đối_với Sở Giao_dịch hàng_hóa 
+
+1 . Phần_mềm ứng_dụng trên hệ_thống của Sở Giao_dịch hàng_hóa phải được phát_triển và hoạt_động độc_lập , không sử_dụng chung phần_mềm với các Sở Giao_dịch , thành_viên , tổ_chức , đơn_vị khác . 
+
+2 . Phần_mềm ứng_dụng của Sở Giao_dịch hàng_hóa phải đảm_bảo các tính_năng phục_vụ quản_trị giao_dịch , thanh_toán , giám_sát hợp_đồng , giao_nhận ;  lưu_trữ thông_tin thành_viên , khách_hàng ;  kết_nối , trao_đổi giao_dịch với thành_viên Sở Giao_dịch hàng_hóa và các quy_trình nghiệp_vụ khác mà Sở Giao_dịch hàng_hóa được phép triển_khai theo quy_định của pháp_luật . 
+
+3 . Hệ_thống khớp lệnh điện_tử phải có cơ_chế xác_thực giao_dịch , trả về kết_quả giao_dịch cho người dùng : 
+
+a ) Kết_quả giao_dịch phải bao_gồm thông_tin về thời_gian giao_dịch , khối_lượng giao_dịch , giá giao_dịch , chiều giao_dịch , mặt_hàng giao_dịch , mã khách_hàng giao_dịch ; 
+
+b ) Thông_tin trao_đổi phải đảm_bảo tính xác_thực của người gửi , bảo_mật dữ_liệu trên đường truyền , toàn_vẹn dữ_liệu và chống chối_bỏ . 
+
+4 . Phần_mềm ứng_dụng phải có chức_năng liên_kết , hiển_thị thông_tin trên bảng thông_tin giao_dịch điện_tử . 
+
+5 . Phần_mềm ứng_dụng trước khi đưa vào sử_dụng phải có thuyết_minh rõ xuất_xứ , tính_năng kỹ_thuật và có tài_liệu hướng_dẫn cụ_thể kèm theo bao_gồm phân_tích thiết_kế hệ_thống , tài_liệu yêu_cầu người sử_dụng , hướng_dẫn sử_dụng , biên_bản kiểm_thử phần_mềm . 
+
+6 . Việc xây_dựng và đưa ra các giải_pháp phần_mềm ứng_dụng phải đồng_thời với việc xử_lý dữ_liệu , tích_hợp đồng_bộ với các thiết_bị phần_cứng , giải_pháp về mạng truyền_thông , an_ninh mạng của Sở Giao_dịch hàng_hóa . 
+
+Điều 12 .  Yêu_cầu về phần_mềm ứng_dụng đối_với thành_viên kinh_doanh của Sở Giao_dịch hàng_hóa 
+
+1 . Phần_mềm ứng_dụng của thành_viên kinh_doanh trên Sở Giao_dịch hàng_hóa phải đáp_ứng các yêu_cầu về nghiệp_vụ theo quy_định của Sở Giao_dịch hàng_hóa , trong đó bao_gồm : 
+
+a ) Quản_trị chi_tiết giao_dịch hàng_hóa , kiểm_soát tài_khoản tiền gửi , tài_khoản hàng_hóa , giao_dịch thanh_toán , thông_tin , danh_sách khách_hàng ; 
+
+b ) Quản_trị các giao_dịch , nghiệp_vụ mà thành_viên được phép hoạt_động trên Sở Giao_dịch hàng_hóa . 
+
+2 . Phần_mềm ứng_dụng của thành_viên kinh_doanh trên Sở Giao_dịch hàng_hóa phải đảm_bảo khả_năng giao_dịch , kết_nối thông_suốt với Sở Giao_dịch hàng_hóa . 
+
+3 . Đối_với phần_mềm Thành_viên tự_phát_triển cho khách_hàng sử_dụng , phải đảm_bảo các yêu_cầu về an_toàn , an_ninh thông_tin đối_với khách_hàng và tuân_thủ các quy_định do Sở Giao_dịch hàng_hóa yêu_cầu . 
+
+Mục 3 
+
+YÊU_CẦU VỀ TRANG THÔNG_TIN ĐIỆN_TỬ 
+
+Điều 13 .  Yêu_cầu chung về trang thông_tin điện_tử 
+
+1 . Sở Giao_dịch hàng_hóa và thành_viên Sở Giao_dịch hàng_hóa phải triển_khai trang thông_tin điện_tử sử_dụng tên miền quốc_gia Việt_Nam “ .  vn ” . 
+
+2 . Trang thông_tin điện_tử được xây_dựng trên nền_tảng công_nghệ của các sản_phẩm thương_mại phải có bản_quyền phần_mềm của sản_phẩm đó . 
+
+3 . Trên trang thông_tin điện_tử phải đăng_tải các thông_tin để liên_hệ với Sở Giao_dịch hàng_hóa , thành_viên Sở Giao_dịch hàng_hóa . 
+
+4 . Trang thông_tin điện_tử phải được lưu_trữ trên máy_chủ tại công_ty hoặc tại tổ_chức cung_cấp dịch_vụ lưu_trữ website của Việt_Nam . 
+
+5 . Trang thông_tin điện_tử của Sở Giao_dịch hàng_hóa phải cung_cấp gồm nhưng không giới_hạn các thông_tin sau đây : 
+
+a ) Chỉ_số giá giao_dịch trên tổng_lượng hàng_hóa giao_dịch trong từng ngày , bao_gồm giá mở_cửa , giá đóng_cửa , mức giá cao nhất , mức giá thấp nhất và các mức giá được khớp đối_với từng loại hàng_hóa được giao_dịch qua Sở Giao_dịch hàng_hóa ; 
+
+b ) Kết_quả giao_dịch theo phương_thức khớp lệnh , nội_dung khớp lệnh bao_gồm loại hàng_hóa , số_lượng hàng hóa_khớp lệnh bán với lệnh mua và các nội_dung khác theo quy_định của Điều_lệ hoạt_động ; 
+
+c ) Các thông_tin khác được quy_định trong Điều_lệ hoạt_động của Sở Giao_dịch hàng_hóa . 
+
+Điều 14 .  Yêu_cầu về an_toàn và bảo_mật với trang thông_tin điện_tử 
+
+1 . Trang thông_tin điện_tử phải có khả_năng giám_sát và theo_dõi các thay_đổi nội_dung , quyền điều_khiển của hệ_thống . 
+
+2 . Hệ_thống trang thông_tin điện_tử phải thường_xuyên cập_nhật các bản vá lỗi cho các phần_mềm nền xây_dựng trang thông_tin điện_tử bao_gồm hệ điều_hành , hệ cơ_sở dữ_liệu , tường lửa . 
+
+3 . Trang thông_tin điện_tử phải được kiểm_tra , bảo_trì và tìm_kiếm lỗ_hổng bảo_mật theo định_kỳ . 
+
+4 . Đối_với những trang thông_tin điện_tử có thực_hiện giao_dịch hàng_hóa qua mạng thì phần nội_dung giao_dịch trực_tuyến phải được tách riêng và đặt trên máy_chủ riêng_biệt tại Sở Giao_dịch hàng_hóa .  Các thông_tin giao_dịch , tài_khoản và mật_khẩu phải mã_hóa , đảm_bảo bí_mật cho khách_hàng . 
+
+Điều 15 .  Yêu_cầu về sao lưu và phục_hồi 
+
+1 . Trang thông_tin điện_tử phải được sao lưu định_kỳ toàn_bộ , hàng ngày , bao_gồm cả phần_mềm và cơ_sở dữ_liệu lưu nội_dung thông_tin . 
+
+2 . Trong trường_hợp gặp sự_cố , trang thông_tin điện_tử phải được phục_hồi trong thời_gian không quá 24 ( hai mươi bốn ) giờ kể từ khi xảy ra sự_cố . 
+
+Mục 4 
+
+HỆ_THỐNG QUẢN_LÝ , GIÁM_SÁT GIAO_DỊCH 
+
+Điều 16 .  Hệ_thống quản_lý , giám_sát giao_dịch Sở Giao_dịch hàng_hóa 
+
+1 . Bộ Công_Thương có trách_nhiệm và chủ_động xây_dựng hệ_thống quản_lý , giám_sát giao_dịch Sở Giao_dịch hàng_hóa .  Hệ_thống cơ_sở dữ_liệu tối_thiểu phải gồm các nội_dung sau : 
+
+a ) Dữ_liệu về kết_quả giao_dịch , thanh_toán , giao_nhận hàng_hóa trên Sở Giao_dịch hàng_hóa ; 
+
+b ) Dữ_liệu về các đối_tượng thuộc phạm_vi quản_lý theo quy_định của pháp_luật về Sở Giao_dịch hàng_hóa và yêu_cầu của Bộ Công_Thương ; 
+
+c ) Dữ_liệu về tài_khoản giao_dịch tại Sở Giao_dịch hàng_hóa của khách_hàng ; 
+
+d ) Dữ_liệu về hàng_hóa đăng_ký giao_dịch trên Sở Giao_dịch hàng_hóa . 
+
+2 . Dữ_liệu lưu_trữ trên hệ_thống của Bộ Công_Thương phải được cập_nhật , tổng_hợp và lưu_trữ khoa_học , chuẩn_xác , an_toàn , là cơ_sở để các Sở Giao_dịch hàng_hóa , doanh_nghiệp , tổ_chức , các đơn_vị có thẩm_quyền tham_chiếu . 
+
+3 . Bộ Công_Thương có trách_nhiệm kiểm_tra theo định_kỳ hoặc đột_xuất Hệ_thống công_nghệ thông_tin của Sở Giao_dịch hàng_hóa để đánh_giá mức_độ tuân_thủ các quy_định pháp_luật của doanh_nghiệp . 
+
+Điều 17 .  Hệ_thống trao_đổi dữ_liệu , báo_cáo của Sở Giao_dịch hàng_hóa 
+
+1 . Hệ_thống công_nghệ thông_tin của các Sở Giao_dịch hàng_hóa , thành_viên Sở Giao_dịch hàng_hóa phải được thiết_kế để đáp_ứng hoạt_động trao_đổi thông_tin , báo_cáo theo yêu_cầu của Bộ Công_Thương . 
+
+2 . Hệ_thống công_nghệ thông_tin của các Sở Giao_dịch hàng_hóa phải được thiết_kế để trao_đổi thông_tin với thành_viên Sở giao_dịch hàng_hóa , khách_hàng , giao_dịch khớp lệnh , hàng hóa đăng_ký trên Sở và các thông_tin khác theo yêu_cầu của Bộ Công_Thương . 
+
+Điều 18 .  Điều_khoản thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 20 tháng 02 năm 2014 . 
+
+2 . Các Sở Giao_dịch hàng_hóa , thành_viên Sở Giao_dịch hàng_hóa và các đơn_vị , tổ_chức có liên_quan đã được cấp phép và đang hoạt_động có trách_nhiệm hoàn_thiện Hệ_thống công_nghệ thông_tin theo các hướng_dẫn tại Thông_tư này trong thời_hạn không quá 180 ( một trăm tám mươi ) ngày kể từ thời_điểm văn_bản có hiệu_lực . 
+
+3 . Trong quá_trình thực_hiện Thông_tư này , nếu có phát_sinh vướng_mắc , các Sở Giao_dịch hàng_hóa hoặc các tổ_chức , cá_nhân có liên_quan kịp_thời phản_ánh về Bộ Công_Thương để xem_xét , xử_lý ./. 

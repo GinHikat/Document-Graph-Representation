@@ -1,0 +1,918 @@
+Thông tư Hướng dẫn thực hỉện thuế giá trị gia tăng và thuế thu nhập cá nhân đốỉ với cá nhân cư trú có hoạt động kinh doanh; hướng dẫn thực hiện một số nội dung sửa đổỉ, bổ sung về thuế thu nhập cá nhân quy định tại Luật sửa đổi, bổ sung một số điều của các Luật về thuế số 71/2014/QH13 và Nghị định sổ 12/2015/NĐ-CP ngày 12/02/2015 của Chính phủ quy định chi tiết thi hành Luật sửa đỗi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế
+
+Căn_cứ <L rel="Pursuant"> Luật Thuế_thu_nhập cá_nhân số 04/2007/QH12 ngày 21 tháng 11 năm 2007 </L> ; và <L rel="Pursuant"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Thuế_thu_nhập cá_nhân </L> số 26/2012/QH13 ngày 22 tháng 11 năm 2012 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Quản_lý thuế số 78/2006/QH11 ngày 29 tháng 11 năm 2006 </L> ; và <L rel="Pursuant"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Quản_lý thuế </L> số 21/2012/QH13 ngày 20 tháng 11 năm 2012 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật sửa_đổi , bổ_sung một_số điều của các <L rel="Others"> Luật về thuế </L> số 71/2014/QH13 ngày 26 tháng 11 năm 2014 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật thuế giá_trị gia_tăng số 13/2008/QH12 ngày 03 tháng 6 năm 2008 </L> đã được sửa_đổi , bổ_sung một_số điều theo <L rel="Others"> Luật thuế giá_trị gia_tăng số 31/2013/QH13 ngày 19 tháng 6 năm 2013 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 65/2013/NĐ-CP ngày 27 tháng 6 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <L rel="Others"> Luật Thuế_thu_nhập cá_nhân </L> và <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Thuế_thu_nhập cá_nhân </L> </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 83/2013/NĐ-CP ngày 22 tháng 7 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <L rel="Others"> Luật Quản_lý thuế </L> và <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Quản_lý thuế </L> </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 12/2015/NĐ-CP ngày 12 tháng 02 năm 2015 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của các Luật về thuế </L> và sửa_đổi , bổ_sung một_số điều của các Nghị_định về thuế ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 209/2013/NĐ-CP ngày 18 tháng 12 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật thuế giá_trị gia_tăng </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 </NĐ> của Chính_phủ quy_định về chức_năng nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức Bộ Tài_chính ;
+Căn_cứ tính thuế đối_với cá_nhân nộp thuế khoán là doanh_thu tính thuế và tỷ_lệ thuế tính trên doanh_thu . 
+
+Căn_cứ tính thuế đối_với cá_nhân nộp thuế theo từng lần phát_sinh là doanh_thu tính thuế và tỷ_lệ thuế tính trên doanh_thu . 
+
+Căn_cứ tính thuế đối_với cá_nhân cho thuê tài_sản là doanh_thu tính thuế và tỷ_lệ thuế tính trên doanh_thu . 
+
+Căn_cứ tính thuế đối_với cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp là doanh_thu tính thuế và tỷ_lệ thuế_thu_nhập cá_nhân_tính trên doanh_thu . 
+
+Căn_cứ hồ_sơ khai thuế của cá_nhân kinh_doanh và cơ_sở dữ_liệu của cơ_quan thuế bao_gồm : hệ_thống thông_tin tích_hợp tập_trung của ngành thuế ;  kết_quả xác_minh , khảo_sát ;  kết_quả kiểm_tra , thanh_tra thuế ( nếu có ) cơ_quan thuế xác_định doanh_thu khoán và mức thuế khoán dự_kiến của cá_nhân để lấy ý_kiến công_khai , tham_vấn ý_kiến của Hội_đồng tư_vấn thuế và làm cơ_sở cho Cục Thuế chỉ_đạo , rà_soát việc lập Sổ bộ thuế tại từng Chi_cục Thuế . 
+
+Căn_cứ tài_liệu khai thuế của cá_nhân nộp thuế_khoán , kết_quả điều_tra thực_tế , tổng_hợp ý_kiến phản_hồi khi niêm_yết công_khai lần 1 , biên_bản họp với Hội_đồng tư_vấn thuế và văn_bản chỉ_đạo của Cục Thuế , Chi_cục Thuế thực_hiện lập và duyệt Sổ bộ thuế trước ngày 15 tháng 01 hằng năm . 
+
+Căn_cứ xác_định thu_nhập được miễn thuế tại điểm này là các giấy_tờ chứng_minh nguồn tiền nhận từ nước_ngoài và chứng_từ chi tiền của tổ_chức trả hộ ( nếu có ) .  ” 
+
+Căn_cứ để xác_định thu_nhập từ bồi_thường , hỗ_trợ theo quy_định của pháp_luật về bồi_thường , hỗ_trợ , tái_định_cư là quyết_định của cơ_quan Nhà_nước có thẩm_quyền về việc thu_hồi đất , bồi_thường tái_định_cư và chứng_từ chi tiền bồi_thường . 
+
+Căn_cứ tính thuế đối_với thu_nhập từ chuyển_nhượng bất_động_sản là giá chuyển_nhượng từng lần và thuế_suất . 
+
+Điều 1 .  Người nộp thuế 
+
+1 . Người nộp thuế theo hướng_dẫn tại Chương I_Thông_tư này là cá_nhân cư_trú bao_gồm cá_nhân , nhóm cá_nhân và hộ gia_đình có hoạt_động_sản_xuất , kinh_doanh hàng_hóa , dịch_vụ thuộc tất_cả các lĩnh_vực , ngành_nghề sản_xuất , kinh_doanh theo quy_định của pháp_luật ( sau đây gọi là cá_nhân kinh_doanh ) .  Lĩnh_vực , ngành_nghề sản_xuất , kinh_doanh bao_gồm cả một_số trường_hợp sau : 
+
+a ) Hành_nghề độc_lập trong những lĩnh_vực , ngành_nghề được cấp giấy_phép hoặc chứng_chỉ hành_nghề theo quy_định của pháp_luật . 
+
+b ) Làm đại_lý bán đúng giá đối_với đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp của cá_nhân trực_tiếp ký hợp_đồng với công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp . 
+
+c ) Hợp_tác kinh_doanh với tổ_chức . 
+
+d ) Sản_xuất , kinh_doanh nông_nghiệp , lâm_nghiệp , làm muối , nuôi_trồng , đánh_bắt thủy_sản không đáp_ứng điều_kiện được miễn thuế hướng_dẫn tại điểm e , khoản 1 , Điều 3 <TT rel="Reference"> Thông_tư số 111/2013/TT-BTC ngày 15/8/2013 </TT> của Bộ Tài_chính .
+2 . Người nộp thuế nêu tại khoản 1 Điều này không bao_gồm cá_nhân kinh_doanh có doanh_thu từ 100 triệu đồng/năm trở xuống . 
+
+Điều 2 .  Phương_pháp tính thuế đối_với cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán 
+
+1 . Nguyên_tắc áp_dụng 
+
+a ) Cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán ( sau đây gọi là cá_nhân nộp thuế_khoán ) là cá_nhân kinh_doanh có phát_sinh doanh_thu từ kinh_doanh hàng_hóa , dịch_vụ thuộc tất_cả các lĩnh_vực , ngành_nghề sản_xuất , kinh_doanh trừ cá_nhân kinh_doanh hướng_dẫn tại Điều 3 , Điều 4 và Điều 5 Thông_tư này . 
+
+b ) Đối_với cá_nhân nộp thuế khoán thì mức doanh_thu từ 100 triệu đồng/năm trở xuống để xác_định cá_nhân không phải nộp thuế giá_trị gia_tăng , không phải nộp thuế_thu_nhập cá_nhân là doanh_thu tính thuế_thu_nhập cá_nhân của năm . 
+
+Trường_hợp cá_nhân nộp thuế khoán kinh_doanh không trọn năm ( không đủ 12 tháng trong năm dương_lịch ) bao_gồm : cá_nhân mới ra kinh_doanh , cá_nhân kinh_doanh thường_xuyên theo thời_vụ , cá_nhân ngừng/nghỉ kinh_doanh thì mức doanh_thu từ 100 triệu đồng/năm trở xuống để xác_định cá_nhân không phải nộp thuế giá_trị gia_tăng , không phải nộp thuế_thu_nhập cá_nhân là doanh_thu tính thuế_thu_nhập cá_nhân của một năm ( 12 tháng ) ;  doanh_thu tính thuế thực_tế để xác_định số thuế phải nộp trong năm là doanh_thu tương_ứng với số tháng thực_tế kinh_doanh .  Trường_hợp cá_nhân nộp thuế khoán đã được cơ_quan thuế thông_báo số thuế khoán phải nộp , nếu kinh_doanh không trọn năm thì cá_nhân được giảm_thuế khoán phải nộp tương_ứng với số tháng ngừng/nghỉ kinh_doanh trong năm . 
+
+Ví_dụ 1 : Ông A bắt_đầu kinh_doanh từ tháng 4 năm 2015 , và dự_kiến có doanh_thu khoán của 09 tháng thực_tế kinh_doanh là 90 triệu đồng ( trung_bình 10 triệu/tháng ) thì doanh_thu tương_ứng của một năm ( 12 tháng ) là 120 triệu đồng ( > 100 triệu đồng ) .  Như_vậy , Ông A thuộc diện phải nộp thuế giá_trị gia_tăng , phải nộp thuế_thu_nhập cá_nhân tương_ứng với doanh_thu thực_tế phát_sinh từ tháng 4 năm 2015 là 90 triệu đồng . 
+
+Ví_dụ 2 : Bà B đã được cơ_quan thuế thông_báo số thuế khoán phải nộp của cả năm 2015 .  Đến tháng 10 năm 2015 Bà B ngừng/nghỉ kinh_doanh thì Bà B được giảm thuế_khoán tương_ứng với 03 tháng cuối năm 2015 . 
+
+c ) Trường_hợp cá_nhân kinh_doanh theo hình_thức nhóm cá_nhân , hộ gia_đình thì mức doanh_thu từ 100 triệu đồng/năm trở xuống để xác_định cá_nhân không phải nộp thuế giá_trị gia_tăng , không phải nộp thuế_thu_nhập cá_nhân được xác_định cho một ( 01 ) người đại_diện duy_nhất trong năm tính thuế . 
+
+Ví_dụ 3 : Hộ gia_đình C được thành_lập bởi một nhóm gồm 04 cá_nhân .  Năm 2015 Hộ gia_đình C có doanh_thu kinh_doanh là 180 triệu đồng ( > 100 triệu đồng ) thì Hộ gia_đình C thuộc diện phải nộp thuế_gia trị_giá tăng và thuế_thu_nhập cá_nhân trên tổng doanh_thu là 180 triệu đồng . 
+
+d ) Cá_nhân kinh_doanh là đối_tượng không cư_trú nhưng có địa_điểm kinh_doanh cố_định trên lãnh_thổ Việt_Nam thực_hiện khai thuế như đối_với cá_nhân kinh_doanh là đối_tượng cư_trú . 
+
+2 . Căn_cứ tính thuế 
+
+a ) Doanh_thu tính thuế 
+
+a . 1 ) Doanh_thu tính thuế giá_trị gia_tăng và doanh_thu tính thuế_thu_nhập cá_nhân là doanh_thu bao_gồm thuế ( trường_hợp thuộc diện chịu thuế ) của toàn_bộ tiền bán hàng , tiền gia_công , tiền hoa_hồng , tiền cung_ứng dịch_vụ phát_sinh trong kỳ tính thuế từ các hoạt_động_sản_xuất , kinh_doanh hàng_hóa , dịch_vụ . 
+
+Trường_hợp cá_nhân nộp thuế khoán có sử_dụng hóa_đơn của cơ_quan thuế thì doanh_thu tính thuế được căn_cứ theo doanh_thu khoán và doanh_thu trên hóa_đơn . 
+
+a . 2 ) Trường_hợp cá_nhân kinh_doanh không xác_định được doanh_thu tính thuế khoán hoặc xác_định không phù_hợp thực_tế thì cơ_quan thuế có thẩm_quyền ấn_định doanh_thu tính thuế_khoán theo quy_định của pháp_luật về quản_lý thuế . 
+
+b ) Tỷ_lệ thuế tính trên doanh_thu 
+
+b . 1 ) Tỷ_lệ thuế tính trên doanh_thu gồm tỷ_lệ thuế giá_trị gia_tăng và tỷ_lệ thuế_thu_nhập cá_nhân áp_dụng đối_với từng lĩnh_vực ngành_nghề như sau : 
+
+- Phân_phối , cung_cấp hàng_hóa : tỷ_lệ thuế giá_trị gia_tăng là 1 % ;  tỷ_lệ thuế_thu_nhập cá_nhân là 0,5 % . 
+
+- Dịch_vụ , xây_dựng không bao_thầu nguyên vật_liệu : tỷ_lệ thuế giá_trị gia_tăng là 5 % ;  tỷ_lệ thuế_thu_nhập cá_nhân là 2 % . 
+
+- Sản_xuất , vận_tải , dịch_vụ có gắn với hàng_hóa , xây_dựng có bao_thầu nguyên vật_liệu : tỷ_lệ thuế giá_trị gia_tăng là 3 % ;  tỷ_lệ thuế_thu_nhập cá_nhân là 1,5 % . 
+
+- Hoạt_động kinh_doanh khác : tỷ_lệ thuế giá_trị gia_tăng là 2 % ;  tỷ_lệ thuế_thu_nhập cá_nhân là 1 % . 
+
+b . 2 ) Chi_tiết danh_mục ngành_nghề để áp_dụng tỷ_lệ thuế giá_trị gia_tăng , tỷ_lệ thuế_thu_nhập cá_nhân theo hướng_dẫn tại Phụ_lục 01 ban_hành kèm Thông_tư này . 
+
+b . 3 ) Trường_hợp cá_nhân kinh_doanh nhiều lĩnh_vực , ngành_nghề thì cá_nhân thực_hiện khai và tính thuế_theo tỷ_lệ thuế tính trên doanh_thu áp_dụng đối_với từng lĩnh_vực , ngành_nghề .  Trường_hợp cá_nhân kinh_doanh không xác_định được doanh_thu tính thuế của từng lĩnh_vực , ngành_nghề hoặc xác_định không phù_hợp với thực_tế kinh_doanh thì cơ_quan thuế có thẩm_quyền ấn_định doanh_thu tính thuế_khoán của từng lĩnh_vực , ngành_nghề theo quy_định của pháp_luật về quản_lý thuế . 
+
+c ) Xác_định số thuế phải nộp 
+
+Số thuế GTGT phải nộp 
+
+= 
+
+Doanh_thu tính thuế GTGT 
+
+x 
+
+Tỷ_lệ thuế GTGT 
+
+Số thuế TNCN phải nộp 
+
+Doanh_thu tính thuế TNCN 
+
+Tỷ_lệ thuế TNCN 
+
+Trong đó : 
+
+- Doanh_thu tính thuế giá_trị gia_tăng và doanh_thu tính thuế_thu_nhập cá_nhân theo hướng_dẫn tại điểm a và điểm b .  3 , khoản 2 Điều này . 
+
+- Tỷ_lệ thuế giá_trị gia_tăng và tỷ_lệ thuế_thu_nhập cá_nhân theo hướng_dẫn tại điểm b khoản 2 Điều này . 
+
+d ) Thời_điểm xác_định doanh_thu tính thuế 
+
+d . 1 ) Đối_với doanh_thu tính thuế khoán thì thời_điểm cá_nhân thực_hiện việc xác_định doanh_thu là từ ngày 20/11 đến ngày 15/12 của năm trước năm tính thuế . 
+
+d . 2 ) Đối_với cá_nhân kinh_doanh nộp thuế khoán mới ra kinh_doanh ( không hoạt_động từ đầu năm ) hoặc cá_nhân thay_đổi quy_mô , ngành_nghề kinh_doanh trong năm thì thời_điểm cá_nhân thực_hiện việc xác_định doanh_thu tính thuế_khoán của năm là trong vòng 10 ngày kể từ ngày bắt_đầu kinh_doanh hoặc ngày thay_đổi quy_mô , ngành_nghề kinh_doanh . 
+
+d . 3 ) Đối_với doanh_thu theo hóa_đơn thì thời_điểm xác_định doanh_thu tính thuế thực_hiện theo hướng_dẫn tại điểm d khoản 2 Điều 3 Thông_tư này . 
+
+Điều 3 .  Phương_pháp tính thuế đối_với cá_nhân kinh_doanh nộp thuế theo từng lần phát_sinh 
+
+a ) Cá_nhân kinh_doanh nộp thuế theo từng lần phát_sinh gồm : cá_nhân cư_trú có phát_sinh doanh_thu kinh_doanh ngoài lãnh_thổ Việt_Nam ;  cá_nhân kinh_doanh không thường_xuyên và không có địa_điểm kinh_doanh cố_định ;  cá_nhân hợp_tác kinh_doanh với tổ_chức theo hình_thức xác_định được doanh_thu kinh_doanh của cá_nhân . 
+
+Kinh_doanh không thường_xuyên được xác_định tùy theo đặc_điểm hoạt_động_sản_xuất , kinh_doanh của từng lĩnh_vực , ngành_nghề và do cá_nhân tự xác_định để lựa_chọn hình_thức khai thuế theo phương_pháp khoán hướng_dẫn tại Điều 2 Thông_tư này hoặc khai thuế theo từng lần phát_sinh hướng_dẫn tại Điều này . 
+
+Địa_điểm kinh_doanh cố_định là nơi cá_nhân tiến_hành hoạt_động_sản_xuất , kinh_doanh như : địa_điểm giao_dịch , cửa_hàng , cửa_hiệu , nhà_xưởng , nhà_kho , bến , bãi , .  . . 
+
+b ) Đối_với cá_nhân kinh_doanh nộp thuế theo từng lần phát_sinh thì mức doanh_thu từ 100 triệu đồng/năm trở xuống để xác_định cá_nhân không phải nộp thuế giá_trị gia_tăng , không phải nộp thuế_thu_nhập cá_nhân là tổng doanh_thu từ kinh_doanh trong năm dương_lịch . 
+
+Ví_dụ 4 : Năm 2015 , Ông C_phát_sinh doanh_thu từ 01 hợp_đồng với Công_ty X với giá_trị hợp_đồng trong năm là 40 triệu đồng và 01 hợp_đồng với Công_ty Y với giá_trị hợp_đồng trong năm là 50 triệu đồng .  Tổng_giá_trị hai hợp_đồng trong năm là 90 triệu đồng ( < 100 triệu ) .  Như_vậy , ông C không phải nộp thuế giá_trị gia_tăng , không phải nộp thuế_thu_nhập cá_nhân đối_với doanh_thu phát_sinh của hai hợp_đồng nêu trên .  Trường_hợp trong năm 2015 , ông C_phát_sinh thêm doanh_thu từ hợp_đồng với Công_ty Z với giá_trị hợp_đồng trong năm là 20 triệu đồng .  Tổng_giá_trị 03 hợp_đồng trong năm là 110 triệu đồng ( > 100 triệu ) .  Như_vậy , ông C phải nộp thuế giá_trị gia_tăng , phải nộp thuế_thu_nhập cá_nhân đối_với doanh_thu phát_sinh của cả 03 hợp_đồng nêu trên là 110 triệu đồng . 
+
+a . 1 ) Doanh_thu tính thuế giá_trị gia_tăng và doanh_thu tính thuế_thu_nhập cá_nhân là doanh_thu bao_gồm thuế ( trường_hợp thuộc diện chịu thuế ) của toàn_bộ tiền bán hàng , tiền gia_công , tiền hoa_hồng , tiền cung_ứng dịch_vụ được xác_định theo hợp_đồng bán hàng , gia_công , hoa_hồng , dịch_vụ bao_gồm cả khoản trợ_giá , phụ_thu , phụ_trội ;  các khoản bồi_thường , phạt vi_phạm hợp_đồng ( đối_với doanh_thu tính thuế_thu_nhập cá_nhân ) mà cá_nhân kinh_doanh được hưởng không phân_biệt đã thu được tiền hay chưa thu được tiền .  Doanh_thu tính thuế trong một_số trường_hợp như sau : 
+
+a . 1.1 ) Doanh_thu tính thuế đối_với hàng_hóa bán theo phương_thức trả_góp được xác_định theo giá bán hàng_hóa trả tiền một lần không bao_gồm tiền lãi trả_chậm ; 
+
+a . 1.2 ) Doanh_thu tính thuế đối_với hàng_hóa , dịch_vụ dùng để trao_đổi , biếu tặng được xác_định theo giá bán của sản_phẩm , hàng hóa , dịch_vụ cùng loại hoặc tương_đương tại thời_điểm trao_đổi , biếu tặng ; 
+
+a . 1.3 ) Doanh_thu tính thuế đối_với hoạt_động gia_công hàng_hóa là tiền thu từ hoạt_động gia_công bao_gồm cả tiền công , nhiên_liệu , động_lực , vật_liệu phụ và chi_phí khác phục_vụ cho việc gia_công hàng_hóa ; 
+
+a . 1.4 ) Doanh_thu tính thuế đối_với hoạt_động vận_tải là toàn_bộ doanh_thu cước vận_chuyển hành_khách , hàng hóa , hành_lý phát_sinh trong kỳ tính thuế ; 
+
+a . 1.5 ) Doanh_thu tính thuế đối_với hoạt_động xây_dựng , lắp_đặt là giá_trị công_trình , hạng_mục công_trình hoặc khối_lượng công_trình xây_dựng , lắp_đặt được nghiệm_thu , bàn_giao công_trình , hạng_mục công_trình , khối_lượng xây_dựng , lắp_đặt hoàn_thành trong năm dương_lịch .  Trường_hợp xây_dựng , lắp_đặt không bao_thầu nguyên vật_liệu , máy_móc , thiết_bị thì doanh_thu tính thuế không bao_gồm giá_trị nguyên vật_liệu , máy_móc , thiết_bị . 
+
+Tỷ_lệ thuế giá_trị gia_tăng , tỷ_lệ thuế_thu_nhập cá_nhân đối_với cá_nhân nộp thuế từng lần phát_sinh áp_dụng như đối_với cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán hướng_dẫn tại điểm b khoản 2 Điều 2 Thông_tư này . 
+
+- Doanh_thu tính thuế giá_trị gia_tăng và doanh_thu tính thuế thuế_thu_nhập cá_nhân theo hướng_dẫn tại điểm a khoản 2 Điều này . 
+
+- Đối_với hoạt_động bán hàng_hóa là thời_điểm chuyển_giao quyền sở_hữu , quyền sử_dụng hàng_hóa hoặc thời_điểm lập hóa_đơn bán hàng nếu thời_điểm lập hóa_đơn trước thời_điểm chuyển_giao quyền sở_hữu , quyền sử_dụng hàng_hóa . 
+
+- Đối_với hoạt_động vận_tải , cung_ứng dịch_vụ là thời_điểm hoàn_thành việc cung_ứng dịch_vụ cho người mua hoặc thời_điểm lập hóa_đơn cung_ứng dịch_vụ nếu thời_điểm lập hóa_đơn cung_ứng dịch_vụ trước thời_điểm hoàn_thành việc cung_ứng dịch_vụ . 
+
+- Đối_với hoạt_động xây_dựng , lắp_đặt là thời_điểm nghiệm_thu , bàn_giao công_trình , hạng_mục công_trình , khối_lượng xây_dựng , lắp_đặt hoàn_thành . 
+
+Điều 4 .  Phương_pháp tính thuế đối_với cá_nhân cho thuê tài_sản 
+
+1 . Nguyên_tắc áp_dụng 
+
+a ) Cá_nhân cho thuê tài_sản là cá_nhân có phát_sinh doanh_thu từ cho thuê tài_sản bao_gồm : cho thuê nhà , mặt_bằng , cửa_hàng , nhà_xưởng , kho_bãi không bao_gồm dịch_vụ lưu_trú ;  cho thuê phương_tiện vận_tải , máy_móc thiết_bị không kèm theo người điều_khiển ;  cho thuê tài_sản khác không kèm theo dịch_vụ . 
+
+Dịch_vụ lưu_trú không tính vào hoạt_động cho thuê tài_sản theo hướng_dẫn tại điểm này gồm : cung_cấp cơ_sở lưu_trú ngắn_hạn cho khách du_lịch , khách vãng_lai khác ;  cung_cấp cơ_sở lưu_trú dài_hạn cho sinh_viên , công_nhân và những đối_tượng tương_tự ;  cung_cấp cơ_sở lưu_trú cùng dịch_vụ ăn_uống và/hoặc các phương_tiện giải_trí .  Dịch_vụ lưu_trú không bao_gồm : cung_cấp cơ_sở lưu_trú dài_hạn được coi như cơ_sở thường_trú như cho thuê căn_hộ hàng tháng hoặc hàng năm được phân_loại trong ngành bất_động_sản theo quy_định của pháp_luật về Hệ_thống ngành kinh_tế của Việt_nam . 
+
+b ) Đối_với cá_nhân cho thuê tài_sản thì mức doanh_thu từ 100 triệu đồng/năm trở xuống để xác_định cá_nhân không phải nộp thuế giá_trị gia_tăng và không phải nộp thuế_thu_nhập cá_nhân là tổng doanh_thu phát_sinh trong năm dương_lịch của các hợp_đồng cho thuê tài_sản .  Trường_hợp bên thuê trả tiền thuê tài_sản trước cho nhiều năm thì khi xác_định_mức doanh_thu từ 100 triệu đồng/năm trở xuống để xác_định cá_nhân không phải nộp thuế giá_trị gia_tăng và không phải nộp thuế_thu_nhập cá_nhân là doanh_thu trả tiền một lần được phân_bổ theo năm dương_lịch . 
+
+Ví_dụ 5 : Bà C ký hợp_đồng cho thuê nhà trong 02 năm-tính theo 12 tháng liên_tục-với thời_gian cho thuê là từ tháng 10 năm 2015 đến hết tháng 9 năm 2017 , tiền thuê là 10 triệu đồng/tháng và được trả 1 lần .  Như_vậy , doanh_thu tính thuế và thuế phải nộp đối_với doanh_thu trả tiền một lần từ hoạt_động cho thuê nhà của Bà C xác_định như sau : 
+
+a ) Cá_nhân trực_tiếp ký hợp_đồng làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp là cá_nhân trực_tiếp ký hợp_đồng với công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp theo hình_thức đại_lý bán đúng giá . 
+
+b ) Đối_với cá_nhân trực_tiếp ký hợp_đồng làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp thì mức doanh_thu từ 100 triệu đồng/năm trở xuống để xác_định cá_nhân không phải nộp thuế_thu_nhập cá_nhân là tổng_số tiền hoa_hồng của đại_lý , các khoản thưởng dưới mọi hình_thức , các khoản hỗ_trợ và các khoản thu khác mà cá_nhân nhận được trong năm dương_lịch . 
+
+Ví_dụ 7 : Ông D trực_tiếp ký hợp_đồng với Công_ty xổ_số kiến_thiết X để làm đại_lý xổ_số cho Công_ty .  Trong năm 2015 Ông D nhận được tiền hoa_hồng đại_lý tổng_cộng là 230 triệu đồng ( > 100 triệu đồng ) .  Như_vậy , Ông D thuộc diện phải nộp thuế đối_với hoạt_động làm đại_lý xổ_số với doanh_thu tính thuế là 230 triệu đồng . 
+
+2 . Căn_cứ tính thuế 
+
+Doanh_thu tính thuế là doanh_thu bao_gồm thuế ( trường_hợp thuộc diện chịu thuế ) của tổng_số tiền hoa_hồng , các khoản thưởng dưới mọi hình_thức , các khoản hỗ_trợ và các khoản thu khác mà cá_nhân nhận được từ công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp ( sau đây gọi là tiền hoa_hồng ) . 
+
+b ) Tỷ_lệ thuế_thu_nhập cá_nhân_tính trên doanh_thu 
+
+Tỷ_lệ thuế_thu_nhập cá_nhân đối_với cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp là 5 % . 
+
+5% 
+
+- Doanh_thu tính thuế_thu_nhập cá_nhân theo hướng_dẫn tại điểm a khoản 2 Điều này . 
+
+- Tỷ_lệ thuế_thu_nhập cá_nhân theo hướng_dẫn tại điểm b khoản 2 Điều này . 
+
+Thời_điểm xác_định doanh_thu tính thuế là thời_điểm công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp trả tiền hoa_hồng cho cá_nhân . 
+
+Điều 6 .  Khai thuế đối_với cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán 
+
+1 . Nguyên_tắc khai thuế 
+
+a ) Cá_nhân nộp thuế khoán khai thuế khoán một năm một lần tại Chi_cục Thuế_nơi cá_nhân có địa_điểm kinh_doanh và không phải quyết_toán thuế . 
+
+b ) Cá_nhân nộp thuế khoán sử_dụng hóa_đơn của cơ_quan thuế thì ngoài việc khai doanh_thu khoán , cá_nhân tự khai và nộp thuế đối_với doanh_thu trên hóa_đơn theo quý . 
+
+c ) Cá_nhân kinh_doanh theo hình_thức hợp_tác kinh_doanh với tổ_chức , tài_sản tham_gia hợp_tác kinh_doanh thuộc sở_hữu của cá_nhân , không xác_định được doanh_thu kinh_doanh thì cá_nhân ủy_quyền cho tổ_chức khai thuế và nộp thuế thay theo phương_pháp khoán .  Tổ_chức có trách_nhiệm khai thuế và nộp thuế thay cho cá_nhân nộp thuế theo phương_pháp khoán tại cơ_quan thuế quản_lý tổ_chức . 
+
+2 . Hồ_sơ khai thuế 
+
+Từ ngày 20 tháng 11 đến ngày 05 tháng 12 của hằng năm , cơ_quan thuế_phát Tờ khai thuế năm sau cho tất_cả các cá_nhân kinh_doanh nộp thuế khoán . 
+
+Hồ_sơ khai thuế đối_với cá_nhân nộp thuế khoán cụ_thể như sau : 
+
+- Cá_nhân nộp thuế khoán khai thuế đối_với doanh_thu khoán theo Tờ khai mẫu_số 01/CNKD ban_hành kèm theo Thông_tư này . 
+
+- Trường_hợp cá_nhân nộp thuế khoán sử_dụng hóa_đơn của cơ_quan thuế thì cá_nhân khai doanh_thu theo hóa_đơn vào Báo_cáo sử_dụng hóa_đơn theo mẫu_số 01/BC-SDHĐ-CNKD ban_hành kèm theo Thông_tư này và không phải lập , nộp Báo_cáo sử_dụng hóa đơn ban_hành kèm theo <TT rel="Reference"> Thông_tư số 39/2014/TT-BTC ngày 31/3/2014 </TT> của Bộ Tài_chính .
+- Trường_hợp cá_nhân kinh_doanh theo hình_thức hợp_tác kinh_doanh ủy_quyền cho tổ_chức khai thuế và nộp thuế thay thì tổ_chức khai thuế thay theo Tờ khai mẫu_số 01/CNKD kèm theo Phụ_lục mẫu_số 01-1/BK-CNKD ban_hành kèm theo Thông_tư này và bản chụp hợp_đồng hợp_tác kinh_doanh ( nếu là lần khai thuế đầu_tiên của hợp_đồng ) . 
+
+3 . Thời_hạn nộp hồ_sơ khai thuế 
+
+- Thời_hạn nộp hồ_sơ khai thuế đối_với cá_nhân nộp thuế_khoán chậm nhất là ngày 15 tháng 12 năm trước năm tính thuế . 
+
+- Trường_hợp cá_nhân nộp thuế khoán mới ra kinh_doanh hoặc thay_đổi ngành_nghề , quy_mô kinh_doanh trong năm thì thời_hạn nộp hồ_sơ khai thuế chậm nhất là ngày thứ mười ( 10 ) kể từ ngày bắt_đầu kinh_doanh hoặc thay_đổi ngành_nghề , quy_mô kinh_doanh . 
+
+- Trường_hợp cá_nhân nộp thuế khoán sử_dụng hóa_đơn của cơ_quan thuế thì thời_hạn nộp hồ_sơ khai thuế đối_với doanh_thu trên hóa_đơn chậm nhất là ngày thứ ba_mươi ( 30 ) của quý tiếp_theo quý phát_sinh nghĩa_vụ thuế . 
+
+4 . Xác_định doanh_thu và mức thuế_khoán 
+
+khoán đối_với cá_nhân nộp thuế khoán là doanh_thu được ổn_định trong một năm . 
+
+b ) Cá_nhân nộp thuế khoán tự xác_định doanh_thu tính thuế_khoán trong năm để làm cơ_sở xác_định số thuế phải nộp trên tờ khai mẫu_số 01/CNKD ban_hành kèm theo Thông_tư này .  Trường_hợp cá_nhân kinh_doanh không xác_định được doanh_thu khoán , không nộp hồ_sơ khai thuế hoặc doanh_thu tính thuế khoán xác_định không phù_hợp với thực_tế kinh_doanh thì cơ_quan thuế có thẩm_quyền ấn_định doanh_thu tính thuế_khoán theo quy_định của pháp_luật về quản_lý thuế . 
+
+c ) Cá_nhân nộp thuế_khoán trong năm có thay_đổi về hoạt_động kinh_doanh ( ngành_nghề , quy_mô , địa_điểm , ... ) thì phải khai điều_chỉnh , bổ_sung để cơ_quan thuế có cơ_sở xác_định lại doanh_thu khoán , mức thuế_khoán và các thông_tin khác về cá_nhân kinh_doanh cho thời_gian còn lại của năm tính thuế .  Trường_hợp cá_nhân kinh_doanh không thay_đổi về ngành_nghề kinh_doanh thì cơ_quan thuế chỉ xác_định lại doanh_thu khoán để áp_dụng cho thời_gian còn lại của năm tính thuế nếu qua số_liệu xác_minh , kiểm_tra , thanh_tra có căn_cứ xác_định doanh_thu khoán thay_đổi từ 50 % trở lên so với mức doanh_thu đã khoán .  Trường_hợp có thay_đổi ngành_nghề kinh_doanh thì thực_hiện điều_chỉnh bổ_sung theo thực_tế của ngành_nghề kinh_doanh thay_đổi . 
+
+5 . Niêm_yết công_khai lần thứ nhất 
+
+Cơ_quan thuế thực_hiện niêm_yết công_khai lần thứ nhất ( lần 1 ) để lấy ý_kiến về mức doanh_thu dự_kiến , mức thuế dự_kiến .  Tài_liệu niêm_yết công_khai lần 1 bao_gồm : Danh_sách cá_nhân thuộc diện không phải nộp thuế giá_trị gia_tăng , không phải nộp thuế_thu_nhập cá_nhân ;  Danh_sách cá_nhân thuộc diện phải nộp thuế ;  Danh_sách cá_nhân sử_dụng hóa_đơn của cơ_quan thuế .  Việc niêm_yết công_khai lần 1 được thực_hiện như sau : 
+
+a ) Chi_cục Thuế thực_hiện niêm_yết công_khai lần 1 tại bộ_phận một cửa của Chi_cục Thuế , Ủy_ban nhân_dân quận , huyện ;  tại cửa , cổng hoặc địa_điểm thích_hợp của : trụ_sở Ủy_ban nhân_dân xã , phường , thị_trấn ;  trụ_sở Đội thuế ;  Ban quản_lý chợ ;  . . .  đảm_bảo thuận_lợi cho việc tiếp_nhận thông_tin để giám_sát của người dân và cá_nhân kinh_doanh .  Thời_gian niêm_yết lần 1 từ ngày 20 tháng 12 đến ngày 31 tháng 12 hằng năm . 
+
+b ) Chi_cục Thuế gửi tài_liệu niêm_yết công_khai lần 1 đến Hội_đồng nhân_dân và Mặt_trận tổ_quốc quận , huyện , xã , phường , thị_trấn chậm nhất là ngày 20 tháng 12 hằng năm , trong đó nêu rõ địa_chỉ , thời_gian Chi_cục Thuế tiếp_nhận ý_kiến phản_hồi ( nếu có ) của Hội_đồng nhân_dân và Mặt_trận tổ_quốc quận , huyện , xã , phường , thị_trấn .  Thời_gian Chi_cục Thuế tiếp_nhận ý_kiến phản_hồi ( nếu có ) chậm nhất là ngày 31 tháng 12 . 
+
+c ) Chậm nhất là ngày 20 tháng 12 hằng năm , Chi_cục Thuế gửi Thông_báo mức doanh_thu dự_kiến , mức thuế dự_kiến theo mẫu_số 01/TBTDK-CNKD kèm theo Bảng công_khai_thông_tin cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán theo mẫu_số 01/CKTT-CNKD ( sau đây gọi là Bảng công_khai ) ban_hành kèm theo Thông_tư này cho từng cá_nhân kinh_doanh , trong đó nêu rõ địa_chỉ , thời_gian Chi_cục Thuế tiếp_nhận ý_kiến phản_hồi ( nếu có ) của cá_nhân kinh_doanh chậm nhất là ngày 31 tháng 12 .  Thông_báo được gửi trực_tiếp đến cá_nhân kinh_doanh ( có ký nhận của người nộp thuế về việc đã nhận thông_báo ) hoặc cơ_quan thuế phải thực_hiện việc gửi Thông_báo qua bưu_điện theo hình_thức gửi bảo_đảm . 
+
+Bảng công_khai_thông_tin dự_kiến gửi cho cá_nhân được lập theo địa_bàn bao_gồm cả cá_nhân thuộc diện phải nộp thuế và cá_nhân thuộc diện không phải nộp thuế .  Với chợ , đường , phố , tổ dân_phố có từ hai trăm ( 200 ) cá_nhân kinh_doanh trở xuống thì Chi_cục Thuế_in , phát cho từng cá_nhân kinh_doanh Bảng công_khai của các cá_nhân kinh_doanh tại địa_bàn .  Trường_hợp chợ , đường , phố , tổ dân_phố có trên 200 cá_nhân kinh_doanh thì Chi_cục Thuế_in , phát cho từng cá_nhân kinh_doanh Bảng công_khai của không quá 200 cá_nhân kinh_doanh tại địa_bàn .  Riêng đối_với chợ có trên 200 cá_nhân kinh_doanh thì Chi_cục Thuế_in , phát cho từng cá_nhân kinh_doanh Bảng công_khai theo ngành_hàng . 
+
+d ) Chi_cục Thuế có trách_nhiệm thông_báo công_khai địa_điểm niêm_yết , địa_chỉ nhận thông_tin phản_hồi ( số điện_thoại , số fax , địa_chỉ tại bộ_phận một cửa , địa_chỉ hòm_thư điện_tử ) về nội_dung niêm_yết công_khai để cá_nhân kinh_doanh biết . 
+
+e ) Chi_cục Thuế có trách_nhiệm tổng_hợp các ý_kiến phản_hồi nội_dung niêm_yết công_khai lần 1 của người dân , người nộp thuế , của Hội_đồng nhân_dân và Mặt_trận tổ_quốc quận , huyện , xã , phường , thị_trấn để nghiên_cứu điều_chỉnh , bổ_sung đối_tượng quản_lý , mức doanh_thu dự_kiến , mức thuế dự_kiến trước khi tham_vấn ý_kiến Hội_đồng tư_vấn thuế . 
+
+6 . Tham_vấn ý_kiến Hội_đồng tư_vấn thuế 
+
+Chi_cục Thuế tổ_chức họp tham_vấn ý_kiến Hội_đồng tư_vấn thuế trong thời_gian từ ngày 01 tháng 01 đến ngày 10 tháng 01 hằng năm về các tài_liệu niêm_yết công_khai lần 1 và các ý_kiến phản_hồi .  Nội_dung lấy ý_kiến tham_vấn của Hội_đồng tư_vấn thuế phải được lập thành Biên_bản có ký xác_nhận của các thành_viên trong Hội_đồng tư_vấn thuế .  Nội_dung biên_bản phải ghi rõ các ý_kiến về điều_chỉnh đối_tượng , doanh_thu , mức thuế phải nộp của từng cá_nhân kinh_doanh để làm tài_liệu lập Sổ bộ thuế . 
+
+Hội_đồng tư_vấn thuế theo hướng_dẫn tại Thông_tư này là Hội_đồng tư_vấn thuế được thành_lập theo quy_định của pháp_luật về quản_lý thuế . 
+
+7 . Lập và duyệt Sổ bộ thuế 
+
+Hằng tháng , căn_cứ tình_hình biến_động trong hoạt_động kinh_doanh của cá_nhân ( cá_nhân mới ra kinh_doanh ;  cá_nhân ngừng/nghỉ kinh_doanh ;  cá_nhân thay_đổi quy_mô , ngành_nghề kinh_doanh hoặc thay_đổi phương_pháp tính thuế_... ) hoặc do những thay_đổi về chính_sách thuế ảnh_hưởng đến doanh_thu khoán và mức thuế khoán phải nộp , Chi_cục Thuế_lập và duyệt Sổ bộ thuế điều_chỉnh , bổ_sung và thông_báo lại tiền thuế phải nộp trong tháng , quý cho cá_nhân nộp thuế khoán . 
+
+8 . Trách_nhiệm của Cục Thuế trong việc chỉ_đạo , kiểm_soát việc lập Sổ bộ thuế tại Chi_cục Thuế 
+
+Cục Thuế có trách_nhiệm khai_thác cơ_sở dữ_liệu quản_lý thuế tập_trung của ngành để phân_tích , đánh_giá và chỉ_đạo việc lập Sổ bộ thuế của các Chi_cục Thuế_cụ_thể như sau : 
+
+a ) Cục Thuế có trách_nhiệm triển_khai công_tác kiểm_tra thực_tế hằng năm tối_thiểu 20 % số Chi_cục Thuế theo quy_định về quản_lý rủi_ro đối_với việc xác_định_mức doanh_thu khoán dự_kiến , mức thuế dự_kiến .  Kết_quả kiểm_tra của Cục Thuế là một trong những cơ_sở để Chi_cục Thuế_lập và duyệt Sổ bộ thuế cá_nhân kinh_doanh nộp thuế khoán . 
+
+b ) Trong tổ_chức thực_hiện nhiệm_vụ thu , Cục Thuế có trách_nhiệm định_kỳ kiểm_tra thực_tế tối_thiểu 10 % số Chi_cục Thuế mỗi quý I , quý II , quý III .  Kết_quả kiểm_tra là căn_cứ xây_dựng mức doanh_thu dự_kiến , mức thuế dự_kiến cho năm sau và điều_chỉnh doanh_thu khoán , mức thuế khoán cho thời_gian còn lại của năm tính thuế theo hướng_dẫn tại điểm c khoản 4 Điều 6 Thông_tư này . 
+
+c ) Nội_dung kiểm_tra thực_tế của Cục Thuế quy_định tại khoản 8 Điều này gồm : kiểm_tra trên cơ_sở dữ_liệu quản_lý ;  đối_chiếu số_liệu đăng_ký kinh_doanh , đăng_ký thuế ;  kiểm_tra thực_tế đối_với ít_nhất 15 % số cá_nhân kinh_doanh trên địa_bàn trong đó tập_trung kiểm_tra 100 % cá_nhân kinh_doanh thuộc đối_tượng quản_lý rủi_ro theo tiêu_chí_hướng_dẫn tại điểm c khoản 12 Điều 6 Thông_tư này . 
+
+9 . Gửi Thông_báo thuế phải nộp và thời_hạn nộp thuế 
+
+a ) Gửi Thông_báo thuế phải nộp 
+
+a . 1 ) Cơ_quan thuế gửi Thông_báo nộp thuế theo mẫu_số 01/TBT-CNKD kèm theo Bảng công_khai theo mẫu_số 01/CKTT-CNKD ban_hành kèm theo Thông_tư này tới cá_nhân nộp thuế_khoán ( bao_gồm cả cá_nhân thuộc diện phải nộp thuế và cá_nhân thuộc diện không phải nộp thuế ) chậm nhất là ngày 20 tháng 01 hằng năm .  Thông_báo được gửi trực_tiếp đến cá_nhân kinh_doanh ( có ký nhận của người nộp thuế về việc đã nhận thông_báo ) hoặc cơ_quan thuế phải thực_hiện việc gửi Thông_báo qua bưu_điện theo hình_thức gửi bảo_đảm . 
+
+Bảng công_khai_thông_tin chính_thức gửi cho cá_nhân được lập theo địa_bàn bao_gồm cả cá_nhân thuộc diện phải nộp thuế và cá_nhân thuộc diện không phải nộp thuế .  Với chợ , đường , phố , tổ dân_phố có từ hai trăm ( 200 ) cá_nhân kinh_doanh trở xuống thì Chi_cục Thuế_in , phát cho từng cá_nhân kinh_doanh Bảng công_khai của các cá_nhân kinh_doanh tại địa_bàn .  Trường_hợp chợ , đường , phố , tổ dân_phố có trên 200 cá_nhân kinh_doanh thì Chi_cục Thuế_in , phát cho từng cá_nhân kinh_doanh Bảng công_khai của không quá 200 cá_nhân kinh_doanh tại địa_bàn .  Riêng đối_với chợ có trên 200 cá_nhân kinh_doanh thì Chi_cục Thuế_in , phát cho từng cá_nhân kinh_doanh Bảng công_khai theo ngành_hàng . 
+
+a . 2 ) Trường_hợp điều_chỉnh lại tiền thuế khoán phải nộp do thay_đổi về quy_mô , ngành_nghề kinh_doanh hoặc do thay_đổi về chính_sách thuế , cơ_quan thuế gửi Thông_báo nộp thuế mẫu_số 01/TBT-CNKD ban_hành kèm theo Thông_tư này cho cá_nhân nộp thuế_khoán chậm nhất là ngày 20 của tháng tiếp theo tháng có thay_đổi tiền thuế . 
+
+a . 3 ) Trường_hợp cá_nhân nộp thuế khoán mới ra kinh_doanh thì cơ_quan thuế gửi Thông_báo nộp thuế mẫu_số 01/TBT-CNKD ban_hành kèm theo Thông_tư này cho cá_nhân nộp thuế_khoán chậm nhất là ngày 20 của tháng tiếp theo tháng có phát_sinh tiền thuế phải nộp . 
+
+b ) Thời_hạn nộp thuế 
+
+b . 1 ) Căn_cứ Thông_báo nộp thuế , cá_nhân nộp thuế khoán nộp tiền thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân của quý chậm nhất là ngày cuối_cùng của quý . 
+
+b . 2 ) Trường_hợp cá_nhân nộp thuế khoán có sử_dụng hóa_đơn của cơ_quan thuế thì thời_hạn nộp thuế đối_với doanh_thu trên hóa_đơn là thời_hạn khai thuế đối_với doanh_thu trên hóa_đơn theo hướng_dẫn tại khoản 3 Điều này . 
+
+10 .  Niêm_yết công_khai lần thứ hai 
+
+Cơ_quan thuế thực_hiện niêm_yết công_khai lần thứ hai ( lần 2 ) về doanh_thu và mức thuế chính_thức phải nộp của năm đối_với cá_nhân kinh_doanh .  Việc niêm_yết công_khai lần 2 được thực_hiện như sau : 
+
+a ) Ở cấp Cục Thuế 
+
+Cục Thuế thực_hiện niêm_yết công_khai_thông_tin cá_nhân nộp thuế khoán trước ngày 30 tháng 01 hằng năm trên trang thông_tin điện_tử của ngành thuế bao_gồm các thông_tin sau : Danh_sách cá_nhân thuộc diện không phải nộp thuế giá_trị gia_tăng , không phải nộp thuế_thu_nhập cá_nhân ;  Danh_sách cá_nhân thuộc diện phải nộp thuế ;  Danh_sách cá_nhân sử_dụng hóa_đơn của cơ_quan thuế . 
+
+Trường_hợp cá_nhân mới ra kinh_doanh hoặc có biến_động về số thuế phải nộp , biến_động về trạng_thái kinh_doanh thì Cục Thuế thực_hiện công_khai_thông_tin hoặc điều_chỉnh thông_tin trên trang thông_tin điện_tử của ngành thuế chậm nhất là ngày cuối_cùng của tháng tiếp theo tháng cá_nhân ra kinh_doanh hoặc có biến_động . 
+
+b ) Ở cấp Chi_cục Thuế 
+
+b . 1 ) Chi_cục Thuế thực_hiện niêm_yết công_khai lần 2 trước ngày 30 tháng 01 hằng năm tại bộ_phận một cửa của Chi_cục Thuế , Ủy_ban nhân_dân quận , huyện ;  tại cửa , cổng hoặc địa_điểm thích_hợp của : trụ_sở Ủy_ban nhân_dân xã , phường , thị_trấn ;  trụ_sở Đội thuế ;  Ban quản_lý chợ ;  . . .  đảm_bảo thuận_lợi cho việc tiếp_nhận thông_tin để giám_sát của người dân và cá_nhân kinh_doanh . 
+
+b . 2 ) Chi_cục Thuế gửi tài_liệu niêm_yết công_khai lần 2 đến Hội_đồng nhân_dân và Mặt_trận tổ_quốc quận , huyện , xã , phường , thị_trấn chậm nhất là ngày 30 tháng 1 , trong đó nêu rõ địa_chỉ , thời_gian Chi_cục Thuế tiếp_nhận ý_kiến phản_hồi ( nếu có ) của Hội_đồng nhân_dân và Mặt_trận tổ_quốc quận , huyện , xã , phường , thị_trấn . 
+
+b . 3 ) Chi_cục Thuế có trách_nhiệm thông_báo công_khai địa_điểm niêm_yết , địa_chỉ nhận thông_tin phản_hồi ( số điện_thoại , số fax , địa_chỉ tại bộ_phận một cửa , địa_chỉ hòm_thư điện_tử ) về nội_dung niêm_yết công_khai để cá_nhân kinh_doanh biết . 
+
+b . 4 ) Các tài_liệu công_khai ở cấp Chi_cục Thuế thực_hiện như đối_với công_khai_thông_tin trên trang thông_tin điện_tử của ngành thuế ở cấp Cục Thuế . 
+
+11 .  Các trường_hợp giảm thuế_khoán 
+
+a ) Cá_nhân kinh_doanh nộp thuế_khoán ngừng/nghỉ kinh_doanh 
+
+Trường_hợp cá_nhân nộp thuế_khoán ngừng/nghỉ kinh_doanh thì thông_báo ngừng/nghỉ kinh_doanh đến cơ_quan thuế chậm nhất là một ngày_trước khi ngừng/nghỉ kinh_doanh . Cơ_quan thuế căn_cứ vào thời_gian ngừng/nghỉ kinh_doanh của cá_nhân nộp thuế khoán để xác_định số tiền thuế khoán được giảm và ban_hành Quyết_định giảm thuế theo mẫu_số 03/MGTH hoặc Thông_báo không được giảm thuế mẫu_số 04/MGTH ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> . Số thuế khoán được giảm xác_định như sau :
+Trường_hợp cá_nhân nộp thuế khoán nghỉ liên_tục từ trọn 01 ( một ) tháng ( từ ngày mùng 01 đến hết ngày cuối_cùng của tháng đó ) trở lên được giảm 1/3 số thuế khoán phải nộp của quý ;  nếu nghỉ liên_tục trọn 02 ( hai ) tháng trở lên được giảm 2/3 số thuế khoán phải nộp của quý , nếu nghỉ trọn quý được giảm toàn_bộ số thuế khoán phải nộp của quý .  Trường_hợp cá_nhân nộp thuế_khoán ngừng/nghỉ kinh_doanh không trọn tháng thì không được giảm_thuế khoán phải nộp của tháng . 
+
+Ví_dụ 8 : Hộ kinh_doanh A có số thuế khoán phải nộp của năm 2015 là 12 triệu đồng , tương_ứng 1 quý phải nộp là 3 triệu đồng .  Hộ kinh_doanh A có nghỉ kinh_doanh liên_tục từ ngày 20 tháng 02 đến hết ngày 20 tháng 6 .  Thời_gian nghỉ kinh_doanh được tính tròn tháng của Hộ kinh_doanh A là tháng 3 , tháng 4 và tháng 5 .  Vậy số thuế được giảm do nghỉ kinh_doanh của Hộ kinh_doanh A như sau : quý I được giảm 1/3 số thuế khoán phải nộp tương_ứng 1 triệu đồng ;  quý II được giảm 2/3 số thuế khoán phải nộp tương_ứng 2 triệu đồng . 
+
+b ) Cá_nhân kinh_doanh nộp thuế khoán bị thiên_tai , hỏa_hoạn , tai_nạn , bệnh hiểm_nghèo 
+
+Trường_hợp cá_nhân nộp thuế khoán bị thiên_tai , hỏa_hoạn , tai_nạn , bệnh hiểm_nghèo thì gửi văn_bản đề_nghị miễn ( giảm ) thuế theo mẫu_số 01/MGTH ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> đến cơ_quan thuế chậm nhất là ngày thứ 90 ( chín mươi ) kể từ ngày kết_thúc năm dương_lịch .
+Cơ_quan thuế căn_cứ hồ_sơ miễn ( giảm ) thuế theo quy_định của <L rel="Reference"> Luật Quản_lý thuế </L> và các văn_bản hướng_dẫn hiện_hành để xét giảm thuế tương_ứng với mức_độ thiệt_hại nhưng không vượt quá số thuế phải nộp .
+c ) Cá_nhân kinh_doanh nộp thuế khoán chuyển_đổi hình_thức khai thuế 
+
+Cá_nhân kinh_doanh đang nộp thuế theo phương_pháp khoán nếu có yêu_cầu chuyển_đổi hình_thức khai thuế theo từng lần phát_sinh thì cơ_quan thuế chấm_dứt quản_lý thuế đối_với cá_nhân theo phương_pháp khoán và thực_hiện thủ_tục giảm thuế_khoán theo hướng_dẫn như với cá_nhân ngừng/nghỉ kinh_doanh hướng_dẫn tại điểm a khoản 11 Điều này đối_với số tháng không nộp thuế theo phương_pháp khoán . 
+
+12 .  Một_số nội_dung khác về công_tác quản_lý thuế đối_với cá_nhân nộp thuế_khoán 
+
+a ) Cá_nhân kinh_doanh sử_dụng thường_xuyên từ 10 lao_động trở lên phải thành_lập doanh_nghiệp theo quy_định của <L rel="Reference"> Luật doanh_nghiệp </L> ; trường_hợp chưa thành_lập doanh_nghiệp , cơ_quan thuế ấn_định theo quy_định của pháp_luật về quản_lý thuế đối_với cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán , đồng_thời_cơ_quan thuế có trách_nhiệm lập danh_sách những cá_nhân kinh_doanh này báo_cáo cơ_quan quản_lý nhà_nước về đăng_ký kinh_doanh .
+b ) Cơ_quan Thuế có trách_nhiệm cấp mã_số thuế cho cá_nhân kinh_doanh dựa trên thông_tin tại hồ_sơ khai thuế của cá_nhân và thực_hiện quy_trình quản_lý thuế đối_với cá_nhân kinh_doanh trên ứng_dụng quản_lý thuế tập_trung của ngành thuế . 
+
+c ) Cục Thuế có trách_nhiệm xây_dựng bộ tiêu_chí rủi_ro đối_với cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán theo từng đối_tượng , địa_bàn quản_lý dựa trên một_số tiêu_chí rủi_ro như : 
+
+- Cá_nhân nộp thuế khoán kinh_doanh tại chợ biên_giới ; 
+
+- Cá_nhân nộp thuế khoán kinh_doanh vật_liệu xây_dựng có nguồn_gốc tài_nguyên khoáng_sản ( cát , đá , sỏi , gỗ , sản_phẩm từ gỗ , ... ) ; 
+
+- Cá_nhân kinh_doanh có mức doanh_thu tính thuế bất_hợp_lý so với chi_phí ( diện_tích kinh_doanh , thuê địa_điểm , giá_trị tài_sản , trang_thiết_bị , cửa_hàng , kho_tàng , chi_phí điện , chi_phí nước , ... ) ;  so với số phương_tiện vận_tải đang sử_dụng ;  so với số_lượng lao_động ;  so với hàng_hóa ( hàng_hóa mua vào , hàng_hóa trưng_bày , hàng hóa tồn_kho , ... ) ; 
+
+- Cá_nhân nộp thuế khoán nhưng thường_xuyên sử_dụng từ 10 lao_động trở lên nhưng không thành_lập doanh_nghiệp ; 
+
+- Cá_nhân nộp thuế khoán có sử_dụng hóa_đơn của cơ_quan thuế ; 
+
+- Cá_nhân nộp thuế khoán có từ hai ( 02 ) địa_điểm kinh_doanh trở lên ; 
+
+- Cá_nhân nộp thuế khoán nợ thuế . 
+
+d ) Chi_cục Thuế có trách_nhiệm cập_nhật kịp_thời các thông_tin biến_động trong quá_trình quản_lý đối_với cá_nhân kinh_doanh nộp thuế khoán .  Định_kỳ đến ngày 01 tháng 11 hằng năm , các Chi_cục Thuế , Cục Thuế phải xây_dựng xong cơ_sở dữ_liệu về cá_nhân kinh_doanh nộp thuế_khoán ( bao_gồm cả cá_nhân kinh_doanh trong danh_sách cá_nhân thuộc diện không phải nộp thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân ) trên cơ_sở thông_tin từ hồ_sơ của người nộp thuế , kết_quả số_liệu xác_minh , kiểm_tra , thanh_tra của cơ_quan thuế và thông_tin từ các cơ_quan quản_lý nhà_nước liên_quan . 
+
+e ) Tổng_cục Thuế hướng_dẫn quy_trình , trình_tự , phương_pháp xây_dựng và quản_lý sử_dụng cơ_sở dữ_liệu về người nộp thuế_khoán theo quy_định của Bộ Tài_chính để phục_vụ công_tác quản_lý rủi_ro trong kiểm_tra , thu thuế . 
+
+Điều 7 .  Khai thuế , nộp thuế đối_với cá_nhân kinh_doanh nộp thuế theo từng lần phát_sinh 
+
+a ) Cá_nhân kinh_doanh nộp thuế từng lần phát_sinh khai thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân theo từng lần phát_sinh nếu có tổng doanh_thu trong năm dương_lịch trên 100 triệu đồng . 
+
+b ) Cá_nhân kinh_doanh theo hình_thức hợp_tác kinh_doanh với tổ_chức , tài_sản tham_gia hợp_tác kinh_doanh thuộc sở_hữu của cá_nhân , xác_định được doanh_thu kinh_doanh của cá_nhân thì cá_nhân ủy_quyền cho tổ_chức khai thuế và nộp thuế thay .  Tổ_chức có trách_nhiệm khai thuế và nộp thuế thay cho cá_nhân tại cơ_quan thuế quản_lý tổ_chức . 
+
+Hồ_sơ khai thuế đối_với cá_nhân kinh_doanh nộp thuế theo từng lần phát_sinh gồm : 
+
+- Tờ khai theo mẫu_số 01/CNKD ban_hành kèm theo Thông_tư này ; 
+
+- Bản chụp hợp_đồng kinh_tế cung_cấp hàng_hóa , dịch_vụ ; 
+
+- Bản chụp biên_bản nghiệm_thu , thanh_lý hợp_đồng ; 
+
+- Bản chụp tài_liệu chứng_minh nguồn_gốc xuất_xứ của hàng_hóa như : Bảng kê thu_mua hàng nông_sản nếu là hàng_hóa nông_sản trong nước ;  Bảng kê hàng_hóa mua_bán , trao_đổi của cư_dân biên_giới nếu là hàng cư_dân biên_giới nhập_khẩu ;  Hóa_đơn của người bán hàng giao cho nếu là hàng_hóa_nhập_khẩu mua của tổ_chức , cá_nhân kinh_doanh trong nước ;  tài_liệu liên_quan để chứng_minh nếu là hàng_hóa do cá_nhân tự sản_xuất ;  . . . 
+
+- Trường_hợp cá_nhân kinh_doanh theo hình_thức hợp_tác kinh_doanh ủy_quyền cho tổ_chức khai thuế , nộp thuế thay thì tổ_chức khai thuế thay theo Tờ khai mẫu_số 01/CNKD kèm theo Phụ_lục mẫu_số 01-1/BK-CNKD ban_hành kèm theo Thông_tư này và bản chụp hợp_đồng hợp_tác kinh_doanh ( nếu là lần khai thuế đầu_tiên của hợp_đồng ) . 
+
+3 . Nơi nộp hồ_sơ khai thuế 
+
+- Cá_nhân nộp thuế theo từng lần phát_sinh nộp hồ_sơ khai thuế tại Chi_cục Thuế_nơi cá_nhân cư_trú ( nơi thường_trú hoặc tạm_trú ) . 
+
+- Cá_nhân kinh_doanh buôn_chuyến thì nơi nộp hồ_sơ khai thuế là nơi cá_nhân đăng_ký kinh_doanh . 
+
+- Cá_nhân kinh_doanh theo hình_thức hợp_tác kinh_doanh ủy_quyền cho tổ_chức khai thuế và nộp thuế thay thì tổ_chức nộp hồ_sơ khai thuế thay tại cơ_quan thuế quản_lý tổ_chức . 
+
+4 . Thời_hạn nộp hồ_sơ khai thuế 
+
+Thời_hạn nộp hồ_sơ khai thuế theo từng lần phát_sinh chậm nhất là ngày thứ 30 ( ba mươi ) của quý tiếp_theo quý phát_sinh doanh_thu tính thuế . 
+
+5 . Thời_hạn nộp thuế 
+
+Thời_hạn nộp thuế là thời_hạn nộp hồ_sơ khai thuế . 
+
+Điều 8 .  Khấu_trừ thuế , khai thuế , nộp thuế đối_với cá_nhân cho thuê tài_sản 
+
+1 . Đối_với trường_hợp cá_nhân trực_tiếp khai thuế với cơ_quan thuế 
+
+Cá_nhân cho thuê tài_sản trực_tiếp khai thuế với cơ_quan thuế là cá_nhân ký hợp_đồng cho thuê tài_sản với cá_nhân ;  cá_nhân ký hợp_đồng cho thuê tài_sản với tổ_chức không phải là tổ_chức kinh_tế ( cơ_quan Nhà_nước , tổ_chức Đoàn_thể , Hiệp_hội , tổ_chức Quốc_tế , Đại_sứ_quán , Lãnh_sự_quán , ... ) ;  cá_nhân ký hợp_đồng cho thuê tài_sản với doanh_nghiệp , tổ_chức kinh_tế mà trong hợp_đồng không có thỏa_thuận bên thuê là người nộp thuế . 
+
+a ) Nguyên_tắc khai thuế 
+
+- Cá_nhân trực_tiếp khai thuế thực_hiện khai thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân nếu có tổng doanh_thu cho thuê tài_sản trong năm dương_lịch trên 100 triệu đồng . 
+
+- Cá_nhân lựa_chọn khai thuế theo kỳ thanh_toán hoặc khai thuế một lần theo năm . Trường_hợp có sự thay_đổi về nội_dung hợp_đồng thuê tài_sản dẫn đến thay_đổi doanh_thu tính thuế , kỳ thanh_toán , thời_hạn thuê thì cá_nhân thực_hiện khai điều_chỉnh , bổ_sung theo quy_định của <L rel="Reference"> Luật Quản_lý thuế </L> cho kỳ tính thuế có sự thay_đổi .
+- Cá_nhân khai thuế theo từng hợp_đồng hoặc khai thuế cho nhiều hợp_đồng trên một tờ khai nếu tài_sản cho thuê tại địa_bàn có cùng cơ_quan thuế quản_lý . 
+
+b ) Hồ_sơ khai thuế 
+
+Hồ_sơ khai thuế đối_với hoạt đông cho thuê tài_sản của cá_nhân gồm : 
+
+- Tờ khai theo mẫu_số 01/TTS ban_hành kèm theo Thông_tư này ; 
+
+- Phụ_lục theo mẫu_số 01-1/BK-TTS ban_hành kèm theo Thông_tư này ( nếu là lần khai thuế đầu_tiên của Hợp_đồng hoặc Phụ_lục hợp_đồng ) ; 
+
+- Bản chụp hợp_đồng thuê tài_sản , phụ_lục hợp_đồng ( nếu là lần khai thuế đầu_tiên của Hợp_đồng hoặc Phụ_lục hợp_đồng ) ; 
+
+- Bản chụp Giấy_ủy_quyền theo quy_định của pháp_luật ( trường_hợp cá_nhân cho thuê tài_sản ủy_quyền cho đại_diện hợp_pháp thực_hiện thủ_tục khai , nộp thuế ) . 
+
+c ) Nơi nộp hồ_sơ khai thuế 
+
+Nơi nộp hồ_sơ khai thuế là Chi_cục Thuế_nơi có tài_sản cho thuê . 
+
+d ) Thời_hạn nộp hồ_sơ khai thuế 
+
+- Thời_hạn nộp hồ_sơ khai thuế đối_với cá_nhân khai thuế theo kỳ_hạn thanh_toán chậm nhất là ngày thứ 30 ( ba mươi ) của quý tiếp_theo quý bắt_đầu thời_hạn cho thuê . 
+
+Ví_dụ 9 : Ông X có phát_sinh hợp_đồng cho thuê nhà với thời_hạn thuê là 02 năm-tính theo 12 tháng liên_tục-kể từ ngày 10/04/2015 đến ngày 09/04/2017 , kỳ_hạn thanh_toán là 3 tháng_một lần .  Ông X lựa_chọn khai thuế theo kỳ thanh_toán thì : Thời_hạn khai thuế của kỳ đầu_tiên chậm nhất là ngày 30 tháng 7 năm 2015 ( ngày 30 của tháng đầu quý III ) ;  Thời_hạn khai thuế của kỳ thứ hai chậm nhất là ngày 30 tháng 10 năm 2015 .  Các kỳ khai thuế tiếp_theo thực_hiện tương_tự , chậm nhất là ngày 30 của tháng đầu quý sau quý bắt_đầu thời_hạn cho thuê ;  Trường_hợp hợp_đồng cho thuê nhà của Ông X có kỳ_hạn thanh_toán là 6 tháng/lần .  Ông X lựa_chọn khai thuế theo kỳ thanh_toán thì : Thời_hạn khai thuế của kỳ đầu_tiên chậm nhất là ngày 30 tháng 7 năm 2015 ( ngày 30 của tháng đầu quý III ) ;  Thời_hạn khai thuế của kỳ thứ hai chậm nhất là ngày 30 tháng 01 năm 2016 ( ngày thứ 30 của tháng đầu quý I ) .  Các kỳ khai thuế tiếp_theo thực_hiện tương_tự , chậm nhất là ngày thứ 30 của quý tiếp_theo quý bắt_đầu thời_hạn cho thuê . 
+
+- Thời_hạn nộp hồ_sơ khai thuế đối_với cá_nhân khai thuế một lần theo năm chậm nhất là ngày thứ 90 ( chín mươi ) kể từ ngày kết_thúc năm dương_lịch . 
+
+đ ) Thời_hạn nộp thuế 
+
+2 . Đối_với doanh_nghiệp , tổ_chức kinh_tế khai thuế , nộp thuế thay cho cá_nhân cho thuê tài_sản 
+
+Cá_nhân ký hợp_đồng cho thuê tài_sản với doanh_nghiệp , tổ_chức kinh_tế mà trong hợp_đồng thuê có thỏa_thuận bên đi thuê là người nộp thuế thì doanh_nghiệp , tổ_chức kinh_tế có trách_nhiệm khấu_trừ thuế , khai thuế và nộp thuế thay cho cá_nhân bao_gồm cả thuế giá_trị gia_tăng và thuế_thu_nhập cá_nhân . 
+
+a ) Khấu_trừ thuế 
+
+Doanh_nghiệp , tổ_chức kinh_tế khấu_trừ thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân trước khi trả tiền thuê tài_sản cho cá_nhân nếu trong năm dương_lịch cá_nhân có doanh_thu cho thuê tài_sản tại đơn_vị trên 100 triệu đồng .  Trường_hợp trong năm cá_nhân phát_sinh doanh_thu từ nhiều nơi , cá_nhân dự_kiến hoặc xác_định được tổng doanh_thu trên 100 triệu đồng/năm thì có_thể ủy_quyền theo quy_định của pháp_luật để doanh_nghiệp , tổ_chức khai thay , nộp thay đối_với hợp_đồng cho thuê từ 100 triệu/năm trở xuống tại đơn_vị . 
+
+Số thuế khấu_trừ được xác_định theo hướng_dẫn tại khoản 2 Điều 4 Thông_tư này . 
+
+b ) Nguyên_tắc khai thuế 
+
+Doanh_nghiệp , tổ_chức kinh_tế khai thay thuế cho cá_nhân cho thuê tài_sản thì trên tờ khai ghi thêm “ Khai thay ” vào phần trước cụm từ “ Người nộp thuế hoặc Đại_diện hợp_pháp của người nộp thuế_” đồng_thời người khai ký , ghi rõ họ tên , nếu là tổ_chức khai thay thì sau khi ký_tên phải đóng_dấu của tổ_chức theo quy_định .  Trên hồ_sơ tính thuế , chứng_từ thu thuế vẫn phải thể_hiện đúng người nộp thuế là cá_nhân cho thuê tài_sản . 
+
+Doanh_nghiệp , tổ_chức kinh_tế khai thay sử_dụng tờ khai mẫu_số 01/TTS của cá_nhân để khai theo từng hợp_đồng hoặc khai cho nhiều hợp_đồng trên một tờ khai nếu tài_sản thuê tại địa_bàn có cùng cơ_quan thuế quản_lý . 
+
+c ) Hồ_sơ khai thuế 
+
+Hồ_sơ khai thuế đối_với hoạt_động cho thuê tài_sản của cá_nhân gồm : 
+
+- Phụ_lục theo mẫu_số 01-1/BK-TTS ban_hành kèm theo Thông_tư này ; 
+
+- Bản chụp Hợp_đồng thuê tài_sản , Phụ_lục hợp_đồng ( nếu là lần khai thuế đầu_tiên của Hợp_đồng hoặc Phụ_lục hợp_đồng ) . 
+
+d ) Nơi nộp hồ_sơ khai thuế , thời_hạn nộp hồ_sơ khai thuế , thời_hạn nộp thuế 
+
+Nơi nộp hồ_sơ khai thuế , thời_hạn nộp hồ_sơ khai thuế , thời_hạn nộp thuế đối_với trường_hợp_doanh_nghiệp , tổ_chức kinh_tế khai thuế , nộp thuế thay cho cá_nhân được thực_hiện như đối_với cá_nhân trực_tiếp khai thuế hướng_dẫn tại điểm c , điểm d và điểm đ khoản 1 Điều này . 
+
+Điều 9 .  Khấu_trừ thuế , khai thuế , nộp thuế đối_với cá_nhân trực_tiếp ký hợp_đồng làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp 
+
+1 . Khấu_trừ thuế 
+
+Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp trả tiền hoa_hồng cho cá_nhân trực_tiếp ký hợp_đồng làm đại_lý bán đúng giá có trách_nhiệm khấu_trừ thuế_thu_nhập cá_nhân nếu doanh_nghiệp xác_định số tiền hoa_hồng trả cho cá_nhân tại đơn_vị trong năm dương_lịch trên 100 triệu đồng . 
+
+Trường_hợp trong năm cá_nhân phát_sinh_hoạt_động kinh_doanh từ nhiều nơi và cá_nhân dự_kiến hoặc xác_định được tổng doanh_thu trên 100 triệu đồng/năm thì có_thể ủy_quyền theo quy_định của pháp_luật để doanh_nghiệp khấu_trừ thuế đối_với số tiền hoa_hồng nhận được tại đơn_vị_từ 100 triệu/năm trở xuống . 
+
+Số thuế khấu_trừ được xác_định theo hướng_dẫn tại khoản 2 Điều 5 Thông_tư này . 
+
+2 . Nguyên_tắc khai thuế 
+
+- Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp có phát_sinh khấu_trừ thuế_thu_nhập cá_nhân đối_với cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp thì khai thuế theo tháng hoặc quý . Nguyên_tắc xác_định đối_tượng khai thuế theo tháng hoặc quý thực_hiện theo hướng_dẫn tại điểm a khoản 1 Điều 16 <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> .
+- ôhcông ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp thực_hiện khai thuế theo tháng hoặc quý và không phải khai quyết_toán thuế đối_với nghĩa_vụ khấu_trừ thuế_thu_nhập cá_nhân của các cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp . 
+
+- Cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp nếu phát_sinh thuế_thu_nhập cá_nhân phải nộp thêm trong trường_hợp Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp chưa khấu_trừ thuế do chưa đến mức phải nộp thuế thì cuối năm cá_nhân thực_hiện khai thuế vào tờ khai thuế năm theo mẫu_số 01/TKN-XSBHĐC ban_hành kèm theo Thông_tư này . 
+
+3 . Hồ_sơ khai thuế 
+
+a ) Hồ_sơ khai thuế tháng , quý của tổ_chức khấu_trừ 
+
+- Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp khấu_trừ thuế đối_với tiền hoa_hồng từ làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp của cá_nhân khai thuế theo Tờ khai mẫu_số 01/XSBHĐC ban_hành kèm theo Thông_tư này . 
+
+- Đối_với tờ khai của kỳ tháng/kỳ quý cuối_cùng trong năm , phải kèm theo Phụ_lục theo mẫu_số 01-1/BK-XSBHĐC ban_hành kèm theo Thông_tư này ( không phân_biệt có phát_sinh khấu_trừ thuế hay không phát_sinh khấu_trừ thuế ) . 
+
+năm của cá_nhân trực_tiếp khai thuế 
+
+Cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp thuộc diện khai thuế năm khai thuế theo Tờ khai mẫu_số 01/TKN-XSBHĐC ban_hành kèm theo Thông_tư này . 
+
+- Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp khấu_trừ thuế đối_với tiền hoa_hồng từ làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp của cá_nhân nộp hồ_sơ khai thuế tại cơ_quan thuế trực_tiếp_quản_lý . 
+
+- Cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp thuộc diện khai thuế năm nộp hồ_sơ khai thuế tại Chi_cục Thuế_nơi cá_nhân cư_trú ( nơi thường_trú hoặc tạm_trú ) . 
+
+- Thời_hạn nộp hồ_sơ khai thuế tháng của Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp chậm nhất là ngày thứ 20 ( hai mươi ) của tháng tiếp theo tháng phát_sinh nghĩa_vụ thuế . 
+
+- Thời_hạn nộp hồ_sơ khai thuế theo quý của Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp chậm nhất là ngày thứ 30 ( ba mươi ) của quý tiếp_theo quý phát_sinh nghĩa_vụ thuế . 
+
+- Thời_hạn nộp hồ_sơ khai thuế của cá_nhân thuộc diện khai thuế năm chậm nhất là ngày thứ 90 ( chín mươi ) kể từ ngày kết_thúc năm dương_lịch . 
+
+- Đối_với Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp thì thời_hạn nộp thuế là thời_hạn nộp hồ_sơ khai thuế . 
+
+- Đối_với cá_nhân thuộc diện khai thuế năm thì thời_hạn nộp thuế là thời_hạn nộp hồ_sơ khai thuế năm . 
+
+Điều 10 .  Ủy_nhiệm thu thuế 
+
+Tại các địa_bàn chưa thực_hiện nộp thuế qua phương_thức điện_tử , Cơ_quan quản_lý thuế_ủy_nhiệm cho các tổ_chức thu thuế đối_với cá_nhân kinh_doanh nộp thuế khoán .  Việc_ủy_nhiệm thu thuế phải được thực_hiện thông_qua hợp_đồng giữa Thủ_trưởng cơ_quan quản_lý thuế với Tổ_chức được ủy_nhiệm thu . 
+
+Tổ_chức được ủy_nhiệm thu là các đơn_vị như : Ban quản_lý chợ ;  Trung_tâm thương_mại ;  hoặc các doanh_nghiệp có hệ_thống mạng_lưới rộng khắp trên cả nước đáp_ứng điều_kiện thuận_lợi cho cá_nhân nộp thuế vào ngân_sách nhà_nước như : các doanh_nghiệp hoạt_động trong lĩnh_vực bưu_chính , viễn_thông , điện_lực , .  . . 
+
+Tổ_chức được ủy_nhiệm thu thuế quy_định tại điều này được hưởng kinh_phí_ủy_nhiệm thu trích từ kinh_phí hoạt_động của cơ_quan thuế . 
+
+Cơ_quan thuế sử_dụng kinh_phí của đơn_vị để chi_trả cho tổ_chức được ủy_nhiệm thu thuế theo hợp_đồng đã ký với cơ_quan thuế . 
+
+Tổng_cục Trưởng Tổng_cục Thuế tổ_chức thực_hiện công_tác_ủy_nhiệm thu thuế thống_nhất trong cả nước theo quy_định hiện_hành về ủy_nhiệm thu và quy_định tại Điều này . 
+
+Điều 11 . Sửa_đổi , bổ_sung Điều 2 <TT rel="Reference"> Thông_tư số 111/2013/TT-BTC ngày 15/8/2013 </TT> của Bộ Tài_chính hướng_dẫn thực_hiện <L rel="Others"> Luật Thuế_thu_nhập cá_nhân </L> , <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật thuế_thu_nhập cá_nhân </L> </L> và <NĐ rel="Reference"> Nghị_định số 65/2013/NĐ-CP </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <L rel="Others"> Luật Thuế_thu_nhập cá_nhân </L> và <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật thuế_thu_nhập cá_nhân </L> </L> ( sau đây gọi là <TT rel="Reference"> Thông_tư số 111/2013/TT-BTC </TT> ) như sau :
+1 . Sửa_đổi , bổ_sung tiết b .  9 điểm b khoản 2 Điều 2 
+
+“ b .  9 ) Trợ_cấp một lần đối_với cá_nhân khi chuyển công_tác đến vùng có điều_kiện kinh_tế xã_hội đặc_biệt khó_khăn , hỗ_trợ một lần đối_với cán_bộ công_chức làm công_tác về chủ_quyền biển đảo theo quy_định của pháp_luật .  Trợ_cấp chuyển vùng một lần đối_với người nước_ngoài đến cư_trú tại Việt_Nam , người Việt_Nam đi làm_việc ở nước_ngoài , người Việt_Nam cư_trú dài_hạn ở nước_ngoài về Việt_Nam làm_việc .  ” 
+
+2 . Sửa_đổi , bổ_sung tiết đ .  1 điểm đ khoản 2 Điều 2 
+
+“ đ .  1 ) Tiền nhà ở , điện , nước và các dịch_vụ kèm theo ( nếu có ) , không bao_gồm : khoản lợi_ích về nhà ở , điện nước và các dịch_vụ kèm theo ( nếu có ) đối_với nhà ở do người sử_dụng lao_động xây_dựng để cung_cấp miễn_phí cho người lao_động làm_việc tại khu công_nghiệp ;  nhà ở do người sử_dụng lao_động xây_dựng tại khu kinh_tế , địa_bàn có điều_kiện kinh_tế xã_hội khó_khăn , địa_bàn có điều_kiện kinh_tế xã_hội đặc_biệt khó_khăn cung_cấp miễn_phí cho người lao_động làm_việc tại đó . 
+
+Trường_hợp cá_nhân ở tại trụ_sở làm_việc thì thu_nhập chịu thuế căn_cứ vào tiền thuê nhà hoặc chi_phí khấu_hao , tiền điện , nước và các dịch_vụ khác tính theo tỷ_lệ giữa diện_tích cá_nhân sử_dụng với diện_tích trụ_sở làm_việc . 
+
+Khoản tiền thuê nhà , điện nước và các dịch_vụ kèm theo ( nếu có ) đối_với nhà ở do đơn_vị sử_dụng lao_động trả thay tính vào thu_nhập chịu thuế theo số thực_tế trả thay nhưng không vượt quá 15 % tổng_thu_nhập chịu thuế phát_sinh ( chưa bao_gồm tiền thuê nhà , điện nước và dịch_vụ kèm theo ( nếu có ) ) tại đơn_vị không phân_biệt nơi trả thu_nhập .  ” 
+
+3 . Sửa_đổi , bổ_sung tiết đ .  2 điểm đ khoản 2 Điều 2 
+
+“ đ .  2 ) Khoản tiền do người sử_dụng lao_động mua bảo_hiểm_nhân_thọ , bảo_hiểm không bắt_buộc khác có tích_lũy về phí bảo_hiểm ;  mua bảo_hiểm hưu_trí tự_nguyện hoặc đóng_góp Quỹ hưu_trí tự_nguyện cho người lao_động . 
+
+Trường_hợp người sử_dụng lao_động mua cho người lao_động_sản_phẩm bảo_hiểm không bắt_buộc không có tích_lũy về phí bảo_hiểm ( kể_cả trường_hợp mua bảo_hiểm của các doanh_nghiệp bảo_hiểm không thành_lập và hoạt_động theo pháp_luật Việt_Nam được phép bán bảo_hiểm tại Việt_Nam ) thì khoản tiền phí mua sản_phẩm bảo_hiểm này không tính vào thu_nhập chịu thuế_thu_nhập cá_nhân của người lao_động .  Bảo_hiểm không bắt_buộc và không có tích_lũy về phí bảo_hiểm gồm các sản_phẩm bảo_hiểm như : bảo_hiểm sức_khỏe , bảo_hiểm_tử kỳ ( không bao_gồm sản_phẩm bảo_hiểm_tử kỳ có hoàn phí ) , .  . . mà người tham_gia_bảo_hiểm không nhận được tiền phí tích_lũy từ việc tham_gia_bảo_hiểm , ngoài khoản tiền bảo_hiểm hoặc bồi_thường theo thỏa_thuận tại hợp_đồng bảo_hiểm_do doanh_nghiệp bảo_hiểm_trả .  ” 
+
+4 . Sửa_đổi , bổ_sung tiết đ .  5 điểm đ khoản 2 Điều 2 
+
+“ đ .  5 ) Đối_với khoản chi về phương_tiện phục_vụ đưa_đón người lao_động từ nơi ở đến_nơi làm_việc và ngược_lại thì không tính vào thu_nhập chịu thuế của người lao_động theo quy_chế của đơn_vị .  ” 
+
+5 . Bổ_sung tiết g .  10 điểm g khoản 2 Điều 2 
+
+“ g . 10 ) Khoản tiền nhận được do tổ_chức , cá_nhân trả thu_nhập chi đám hiếu , hỉ cho bản_thân và gia_đình người lao_động theo quy_định chung của tổ_chức , cá_nhân trả thu_nhập và phù_hợp với mức xác_định thu_nhập chịu thuế_thu_nhập doanh_nghiệp theo các văn_bản hướng_dẫn thi_hành <L rel="Reference"> Luật thuế_thu_nhập doanh_nghiệp </L> ”
+6 . Sửa_đổi , bổ_sung điểm c khoản 3 Điều 2 
+
+“ c ) Lợi_tức nhận được do tham_gia góp vốn vào công_ty trách_nhiệm hữu_hạn , công_ty hợp danh , hợp_tác_xã , liên_doanh , hợp_đồng hợp_tác kinh_doanh và các hình_thức kinh_doanh khác theo quy_định của <L rel="Reference"> Luật_Doanh_nghiệp </L> và <L rel="Reference"> Luật Hợp_tác_xã </L> ; lợi_tức nhận được do tham_gia góp vốn thành_lập tổ_chức tín_dụng theo quy_định của <L rel="Reference"> Luật các tổ_chức tín_dụng </L> ; góp vốn vào Quỹ đầu_tư chứng_khoán và quỹ đầu_tư khác được thành_lập và hoạt_động theo quy_định của pháp_luật .
+Không tính vào thu_nhập chịu thuế từ đầu_tư vốn đối_với lợi_tức của doanh_nghiệp tư_nhân , công_ty trách_nhiệm hữu_hạn một thành_viên do cá_nhân làm_chủ .  ” 
+
+Điều 12 . Sửa_đổi , bổ_sung Điều 3 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+1 . Sửa_đổi , bổ_sung tiết b .  1.2 điểm b khoản 1 Điều 3 
+
+“ b .  1.2 ) Có quyền sở_hữu nhà ở , quyền sử_dụng đất ở tính đến thời_điểm chuyển_nhượng tối_thiểu là 183 ngày . 
+
+Thời_điểm xác_định quyền sở_hữu nhà ở , quyền sử_dụng đất ở là ngày cấp Giấy chứng_nhận quyền sử_dụng đất , quyền sở_hữu nhà ở và tài_sản khác gắn liền với đất .  Riêng trường_hợp được cấp lại , cấp đổi theo quy_định của pháp_luật về đất_đai thì thời_điểm xác_định quyền sở_hữu nhà ở , quyền sử_dụng đất ở được tính theo thời_điểm cấp Giấy chứng_nhận quyền sử_dụng đất , quyền sở_hữu nhà ở và tài_sản khác gắn liền với đất trước khi được cấp lại , cấp đổi .  ” 
+
+2 . Sửa_đổi , bổ_sung điểm h khoản 1 Điều 3 
+
+“ h ) Thu_nhập từ kiều_hối được miễn thuế là khoản tiền cá_nhân nhận được từ nước_ngoài do thân_nhân là người Việt_Nam định_cư ở nước_ngoài , người Việt_Nam đi lao_động , công_tác , học_tập tại nước_ngoài gửi tiền về cho thân_nhân ở trong nước ; 
+
+Trường_hợp cá_nhân nhận được tiền từ nước_ngoài do thân_nhân là người nước_ngoài gửi về đáp_ứng điều_kiện về khuyến_khích chuyển tiền về nước theo quy_định của Ngân_hàng nhà_nước Việt_nam thì cũng được miễn thuế theo quy_định tại điểm này . 
+
+3 . Sửa_đổi , bổ_sung điểm n khoản 1 Điều 3 
+
+“ n ) Thu_nhập từ bồi_thường hợp_đồng bảo_hiểm_nhân_thọ , phi nhân_thọ , bảo_hiểm sức_khỏe ;  tiền bồi_thường tai_nạn lao_động ;  tiền bồi_thường , hỗ_trợ theo quy_định của pháp_luật về bồi_thường , hỗ_trợ , tái_định_cư ;  các khoản bồi_thường Nhà_nước và các khoản bồi_thường khác theo quy_định của pháp_luật .  Cụ_thể trong một_số trường_hợp như sau : 
+
+n . 1 ) Thu_nhập từ bồi_thường hợp_đồng bảo_hiểm_nhân_thọ , phi nhân_thọ , bảo_hiểm sức_khỏe là khoản tiền mà cá_nhân nhận được do tổ_chức bảo_hiểm_nhân_thọ , phi nhân_thọ , bảo_hiểm sức_khỏe trả cho người được bảo_hiểm theo thỏa_thuận tại hợp_đồng bảo_hiểm đã ký_kết .  Căn_cứ xác_định khoản bồi_thường này là văn_bản hoặc quyết_định bồi_thường của tổ_chức bảo_hiểm hoặc tòa_án và chứng_từ trả tiền bồi_thường . 
+
+n . 2 ) Thu_nhập từ tiền bồi_thường tai_nạn lao_động là khoản tiền người lao_động nhận được từ người sử_dụng lao_động hoặc quỹ bảo_hiểm_xã_hội do bị tai_nạn trong quá_trình tham_gia lao_động .  Căn_cứ xác_định khoản bồi_thường này là văn_bản hoặc quyết_định bồi_thường của người sử_dụng lao_động hoặc tòa_án và chứng_từ chi bồi_thường tai_nạn lao_động . 
+
+n . 3 ) Thu_nhập từ bồi_thường , hỗ_trợ theo quy_định của pháp_luật về bồi_thường , hỗ_trợ , tái_định_cư là tiền bồi_thường , hỗ_trợ do Nhà_nước thu_hồi đất , kể_cả các khoản thu_nhập do các tổ_chức kinh_tế bồi_thường , hỗ_trợ khi thực_hiện thu_hồi đất theo quy_định . 
+
+n . 4 ) Thu_nhập từ bồi_thường Nhà_nước và các khoản bồi_thường khác theo quy_định của pháp_luật về bồi_thường Nhà_nước là khoản tiền cá_nhân được bồi_thường do các quyết_định xử_phạt vi_phạm hành_chính không đúng của người có thẩm_quyền , của cơ_quan Nhà_nước có thẩm_quyền gây thiệt_hại đến quyền_lợi của cá_nhân ;  thu_nhập từ bồi_thường cho người bị oan do cơ_quan có thẩm_quyền trong hoạt_động tố_tụng_hình_sự quyết_định .  Căn_cứ xác_định khoản bồi_thường này là quyết_định của cơ_quan Nhà_nước có thẩm_quyền buộc cơ_quan hoặc cá_nhân có quyết_định sai phải bồi_thường và chứng_từ chi bồi_thường . 
+
+n . 5 ) Thu_nhập từ bồi_thường thiệt_hại ngoài hợp_đồng theo quy_định của <BL rel="Reference"> Bộ_Luật dân_sự </BL> . ”
+4 . Bổ_sung điểm r khoản 1 Điều 3 
+
+“ r ) Thu_nhập từ tiền_lương , tiền công của thuyền_viên là người Việt_Nam nhận được do làm_việc cho các hãng tàu nước_ngoài hoặc các hãng tàu Việt_Nam vận_tải quốc_tế .  ” 
+
+5 . Bổ_sung điểm s khoản 1 Điều 3 
+
+“ s ) Thu_nhập của cá_nhân là chủ tàu , cá_nhân có quyền sử_dụng tàu và cá_nhân làm_việc trên tàu có được từ hoạt_động cung_cấp hàng_hóa , dịch_vụ trực_tiếp phục_vụ hoạt_động khai_thác thủy_sản xa bờ .  ” 
+
+Điều 13 . Sửa_đổi , bổ_sung Điều 5 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+“ Điều 5 .  Quy_đổi thu_nhập chịu thuế ra Đồng Việt_Nam 
+
+Trường_hợp doanh_thu , thu_nhập chịu thuế nhận được bằng ngoại_tệ phải quy_đổi ra Đồng Việt_Nam_theo tỷ_giá giao_dịch thực_tế mua vào của ngân_hàng cá_nhân mở tài_khoản giao_dịch tại thời_điểm phát_sinh thu_nhập . 
+
+Trường_hợp người nộp thuế không mở tài_khoản giao_dịch tại Việt_nam thì phải quy_đổi ngoại_tệ ra Đồng Việt_Nam_theo tỷ_giá ngoại_tệ mua vào của Ngân_hàng thương_mại cổ_phần Ngoại_thương Việt_Nam tại thời_điểm phát_sinh thu_nhập . 
+
+Đối_với loại ngoại_tệ không có tỷ_giá hối_đoái với Đồng Việt_Nam thì phải quy_đổi thông_qua một loại ngoại_tệ có tỷ_giá hối_đoái với Đồng Việt_Nam . 
+
+2 . Thu_nhập chịu thuế nhận được không bằng tiền phải quy_đổi ra Đồng Việt_Nam theo giá thị_trường của sản_phẩm , dịch_vụ đó hoặc sản_phẩm , dịch_vụ cùng loại hoặc tương_đương tại thời_điểm phát_sinh thu_nhập .  ” 
+
+Điều 14 . Sửa_đổi , bổ_sung Điều 7 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+1 . Sửa_đổi , bổ_sung điểm a khoản 4 Điều 7 
+
+“ a ) Thu_nhập làm căn_cứ quy_đổi thành thu_nhập tính thuế là thu_nhập thực nhận ( không bao_gồm thu_nhập được miễn thuế ) cộng ( + ) các khoản lợi_ích do người sử_dụng lao_động trả thay cho người lao_động ( nếu có ) trừ (-) các khoản giảm_trừ .  Trường_hợp người sử_dụng lao_động áp_dụng chính_sách “ tiền thuế giả_định ” , “ tiền nhà giả_định ” thì thu_nhập làm căn_cứ quy_đổi thành thu_nhập tính thuế không bao_gồm “ tiền thuế giả_định ” , “ tiền nhà giả_định ” .  Trường_hợp trong các khoản trả thay có tiền thuê nhà thì tiền thuê nhà tính vào thu_nhập làm căn_cứ quy_đổi bằng số thực trả nhưng không vượt quá 15 % tổng_thu_nhập chịu thuế phát_sinh tại đơn_vị không phân_biệt nơi trả thu_nhập ( chưa bao_gồm tiền thuê nhà , điện , nước và các dịch_vụ kèm theo thực_tế phát_sinh , “ tiền nhà giả_định ” ( nếu có ) ) . 
+
+Công_thức xác_định thu_nhập làm căn_cứ quy_đổi : 
+
+Thu_nhập làm căn_cứ quy_đổi 
+
+= 
+
+Thu_nhập thực nhận 
+
++ 
+
+Các khoản trả thay 
+
+- 
+
+Các khoản giảm_trừ 
+
+Trong đó : 
+
+Thu_nhập thực nhận là tiền_lương , tiền công không bao_gồm thuế mà người lao_động nhận được hàng tháng ( không bao_gồm thu_nhập được miễn thuế ) . 
+
+Các khoản trả thay là các khoản lợi_ích bằng tiền hoặc không bằng tiền do người sử_dụng lao_động trả cho người lao_động theo hướng_dẫn tại điểm đ , khoản 2 , Điều 2 <TT rel="Reference"> Thông_tư số 111/2013/TTBTC </TT> và khoản 2 , khoản 3 , khoản 4 Điều 11 <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> .
+Các khoản giảm_trừ bao_gồm : giảm_trừ gia cảnh ; giảm_trừ đóng bảo_hiểm , quỹ hưu_trí tự_nguyện ; giảm_trừ đóng_góp từ_thiện , nhân_đạo , khuyến_học theo hướng_dẫn tại Điều 9 <TT rel="Reference"> Thông_tư số 111/2013/TTBTC </TT> và Điều 15 <TT rel="Reference"> Thông_tư số 92/2015/TTBTC. </TT> ”
+2 . Sửa_đổi , bổ_sung khoản 6 Điều 7 
+
+“ 6 .  Căn_cứ tính thuế đối_với tiền tích_lũy mua bảo_hiểm không bắt_buộc là khoản tiền phí tích_lũy mua bảo_hiểm_nhân_thọ ( không bao_gồm bảo_hiểm hưu_trí tự_nguyện ) , bảo_hiểm không bắt_buộc khác do người sử_dụng lao_động mua hoặc đóng_góp cho người lao_động và tỷ_lệ khấu_trừ 10 % . 
+
+Trường_hợp người sử_dụng lao_động mua cho người lao_động bảo_hiểm_nhân_thọ ( không bao_gồm bảo_hiểm hưu_trí tự_nguyện ) , bảo_hiểm không bắt_buộc khác có tích_lũy về phí bảo_hiểm của doanh_nghiệp bảo_hiểm được thành_lập và hoạt_động theo quy_định của pháp_luật Việt_Nam , người lao_động chưa phải tính vào thu_nhập chịu thuế khi người sử_dụng lao_động mua bảo_hiểm .  Đến thời_điểm đáo_hạn hợp_đồng , doanh_nghiệp bảo_hiểm có trách_nhiệm khấu_trừ tiền thuế_theo tỷ_lệ 10 % trên khoản tiền phí tích_lũy tương_ứng với phần người sử_dụng lao_động mua cho người lao_động từ ngày 01 tháng 7 năm 2013 .  Trường_hợp khoản phí tích_lũy được trả nhiều lần thì tiền thuế được khấu_trừ theo tỷ_lệ 10 % tương_ứng với từng lần trả tiền phí tích_lũy . 
+
+Trường_hợp người sử_dụng lao_động mua cho người lao_động bảo_hiểm_nhân_thọ ( không bao_gồm bảo_hiểm hưu_trí tự_nguyện ) , bảo_hiểm không bắt_buộc khác có tích_lũy về phí bảo_hiểm của doanh_nghiệp bảo_hiểm không thành_lập và hoạt_động theo pháp_luật Việt_Nam được phép bán bảo_hiểm tại Việt_Nam thì người sử_dụng lao_động có trách_nhiệm khấu_trừ thuế_theo tỷ_lệ 10 % trên khoản tiền phí bảo_hiểm đã mua hoặc đóng_góp trước khi trả lương cho người lao_động . 
+
+Doanh_nghiệp bảo_hiểm có trách_nhiệm theo_dõi riêng phần phí bảo_hiểm_nhân_thọ , bảo_hiểm không bắt_buộc khác do người sử_dụng lao_động mua hoặc đóng_góp cho người lao_động để làm căn_cứ tính thuế_thu_nhập cá_nhân .  ” 
+
+Điều 15 . Sửa_đổi , bổ_sung điểm b khoản 2 Điều 9 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+“ b ) Các khoản đóng vào Quỹ hưu_trí tự_nguyện , mua bảo_hiểm hưu_trí tự_nguyện 
+
+Mức đóng vào quỹ hưu_trí tự_nguyện , mua bảo_hiểm hưu_trí tự_nguyện được trừ ra khỏi thu_nhập chịu thuế theo thực_tế phát_sinh nhưng tối_đa không quá một ( 01 ) triệu đồng/tháng đối_với người lao_động tham_gia các sản_phẩm hưu_trí tự_nguyện theo hướng_dẫn của Bộ Tài_chính bao_gồm cả số tiền do người sử_dụng lao_động đóng cho người lao_động và cả số tiền do người lao_động tự đóng ( nếu có ) , kể_cả trường_hợp tham_gia nhiều quỹ .  Căn_cứ xác_định thu_nhập được trừ là bản chụp chứng_từ nộp tiền ( hoặc nộp phí ) do quỹ hưu_trí tự_nguyện , doanh_nghiệp bảo_hiểm cấp .  ” 
+
+Điều 16 . Sửa_đổi , bổ_sung điểm a và điểm b khoản 2 Điều 11 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+“ a ) Thu_nhập tính thuế 
+
+Thu_nhập tính thuế từ chuyển_nhượng chứng_khoán được xác_định là giá chuyển_nhượng chứng_khoán từng lần . 
+
+a . 1 ) Giá chuyển_nhượng chứng_khoán được xác_định như sau : 
+
+a . 1.1 ) Đối_với chứng_khoán của công_ty đại_chúng giao_dịch trên Sở Giao_dịch chứng_khoán , giá chuyển_nhượng chứng_khoán là giá thực_hiện tại Sở Giao_dịch chứng_khoán .  Giá thực_hiện là giá chứng_khoán được xác_định từ kết_quả khớp lệnh hoặc giá hình_thành từ các giao_dịch thỏa_thuận tại Sở Giao_dịch chứng_khoán . 
+
+a . 1.2 ) Đối_với chứng_khoán không thuộc trường_hợp nêu trên , giá chuyển_nhượng là giá ghi trên hợp_đồng chuyển_nhượng hoặc giá thực_tế chuyển_nhượng hoặc giá theo sổ_sách kế_toán của đơn_vị có chứng_khoán chuyển_nhượng tại thời_điểm lập báo_cáo tài_chính gần nhất theo quy_định của pháp_luật về kế_toán trước thời_điểm chuyển_nhượng . 
+
+b ) Thuế_suất và cách tính thuế : 
+
+Cá_nhân chuyển_nhượng chứng_khoán nộp thuế theo thuế_suất 0,1 % trên giá chuyển_nhượng chứng_khoán từng lần . 
+
+Cách tính thuế : 
+
+Thuế_thu_nhập cá_nhân phải nộp 
+
+Giá chuyển_nhượng chứng_khoán từng lần 
+
+× 
+
+Thuế_suất 0,1 % 
+
+” 
+
+Điều 17 . Sửa_đổi , bổ_sung Điều 12 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+1 . Giá chuyển_nhượng 
+
+a ) Giá chuyển_nhượng đối_với chuyển_nhượng quyền sử_dụng đất không có công_trình xây_dựng trên đất là giá ghi trên hợp_đồng chuyển_nhượng tại thời_điểm chuyển_nhượng . 
+
+Trường_hợp trên hợp_đồng chuyển_nhượng không ghi giá hoặc giá trên hợp_đồng chuyển_nhượng thấp hơn giá đất do Ủy_ban nhân_dân cấp tỉnh quy_định tại thời_điểm chuyển_nhượng thì giá chuyển_nhượng được xác_định theo bảng giá đất do Ủy_ban nhân_dân cấp tỉnh quy_định tại thời_điểm chuyển_nhượng . 
+
+b ) Giá chuyển_nhượng đối_với chuyển_nhượng quyền sử_dụng đất_gắn với công_trình xây_dựng trên đất , kể_cả nhà , công_trình xây_dựng hình_thành trong tương_lai là giá ghi trên hợp_đồng chuyển_nhượng tại thời_điểm chuyển_nhượng . 
+
+Trường_hợp trên hợp_đồng chuyển_nhượng không ghi giá đất hoặc giá đất trên hợp_đồng chuyển_nhượng thấp hơn giá do Ủy_ban nhân_dân cấp tỉnh quy_định thì giá chuyển_nhượng đất là giá do Ủy_ban nhân_dân cấp tỉnh quy_định tại thời_điểm chuyển_nhượng theo quy_định của pháp_luật về đất_đai . 
+
+Trường_hợp chuyển_nhượng nhà_gắn liền với đất thì phần giá_trị nhà , kết_cấu_hạ_tầng và công_trình kiến_trúc gắn liền với đất được xác_định căn_cứ theo giá tính lệ_phí trước_bạ nhà do Ủy_ban nhân_dân cấp tỉnh quy_định .  Trường_hợp Ủy_ban nhân_dân cấp tỉnh không có quy_định_giá tính lệ_phí trước_bạ nhà thì căn_cứ vào quy_định của Bộ Xây_dựng về phân_loại nhà , về tiêu_chuẩn , định_mức xây_dựng cơ_bản , về giá_trị còn lại thực_tế của công_trình trên đất . 
+
+Đối_với nhà , công_trình xây_dựng hình_thành trong tương_lai , trường_hợp hợp_đồng không ghi giá chuyển_nhượng hoặc giá chuyển_nhượng thấp hơn tỷ_lệ góp vốn trên tổng giá_trị hợp_đồng nhân với giá đất và giá tính lệ_phí trước_bạ công_trình xây_dựng do Ủy_ban nhân_dân cấp tỉnh quy_định thì giá chuyển_nhượng được xác_định theo giá Ủy_ban nhân với tỷ_lệ góp vốn trên tổng giá_trị hợp_đồng .  Trường_hợp Ủy_ban nhân_dân cấp tỉnh chưa có quy_định về đơn_giá thì áp_dụng theo suất vốn đầu_tư xây_dựng công_trình do Bộ Xây_dựng công_bố , đang áp_dụng tại thời_điểm chuyển_nhượng . 
+
+c ) Giá chuyển_nhượng đối_với chuyển_nhượng quyền thuê đất , thuê mặt_nước là giá ghi trên hợp_đồng tại thời_điểm chuyển_nhượng quyền thuê mặt_đất , thuê mặt_nước . 
+
+Trường_hợp đơn_giá cho thuê lại trên hợp_đồng thấp hơn giá do Ủy_ban nhân_dân tỉnh quy_định tại thời_điểm cho thuê lại thì giá cho thuê lại được xác_định căn_cứ theo bảng giá do Ủy_ban nhân_dân tỉnh quy_định . 
+
+2 . Thuế_suất 
+
+Thuế_suất đối_với chuyển_nhượng bất_động_sản là 2 % trên giá chuyển_nhượng hoặc giá cho thuê lại . 
+
+3 . Thời_điểm tính thuế từ chuyển_nhượng bất_động_sản được xác_định như sau : 
+
+Trường_hợp hợp_đồng chuyển_nhượng không có thỏa_thuận bên mua là người nộp thuế thay cho bên bán thì thời_điểm tính thuế là thời_điểm hợp_đồng chuyển_nhượng có hiệu_lực theo quy_định của pháp_luật ; 
+
+Trường_hợp hợp_đồng chuyển_nhượng có thỏa_thuận bên mua là người nộp thuế thay cho bên bán thì thời_điểm tính thuế là thời_điểm làm thủ_tục đăng_ký quyền sở_hữu , quyền sử_dụng bất_động_sản . 
+
+Trường_hợp cá_nhân nhận chuyển_nhượng nhà ở hình_thành trong tương_lai , quyền sử_dụng đất_gắn với công_trình xây_dựng tương_lai là thời_điểm cá_nhân nộp hồ_sơ khai thuế với cơ_quan thuế . 
+
+4 . Cách tính thuế 
+
+a ) Thuế_thu_nhập cá_nhân đối_với thu_nhập từ chuyển_nhượng bất_động_sản được xác_định như sau : 
+
+Giá chuyển_nhượng 
+
+x 
+
+Thuế_suất 2 % 
+
+b ) Trường_hợp chuyển_nhượng bất_sản là đồng sở_hữu thì nghĩa_vụ thuế được xác_định riêng cho từng người nộp thuế_theo tỷ_lệ sở_hữu bất_động_sản .  Căn_cứ xác_định tỷ_lệ sở_hữu là tài_liệu hợp_pháp như : thỏa_thuận góp vốn ban_đầu , di_chúc hoặc quyết_định phân_chia của tòa_án , .  . . Trường_hợp không có tài_liệu hợp_pháp thì nghĩa_vụ thuế của từng người nộp thuế được xác_định theo tỷ_lệ bình_quân .  ” 
+
+Điều 18 . Sửa_đổi , bổ_sung điểm c khoản 1 Điều 15 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+“ c ) Đối_với trúng thưởng trong các hình_thức cá_cược , đặt_cược là toàn_bộ giá_trị giải_thưởng vượt trên 10 triệu đồng mà người tham_gia nhận được chưa trừ bất_cứ một khoản chi_phí nào .  ” 
+
+Điều 19 . Sửa_đổi , bổ_sung Điều 16 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+“ a ) Đối_với thừa_kế , quà tặng là chứng_khoán : giá_trị tài_sản nhận thừa_kế là phần giá_trị tài_sản nhận thừa_kế , quà tặng vượt trên 10 triệu đồng_tính trên toàn_bộ các mã_chứng_khoán nhận được chưa trừ bất_cứ một khoản chi_phí nào tại thời_điểm đăng_ký chuyển quyền sở_hữu .  Cụ_thể như sau : 
+
+a . 1 ) Đối_với chứng_khoán giao_dịch trên Sở Giao_dịch chứng_khoán : giá_trị của chứng_khoán được căn_cứ vào giá tham_chiếu trên Sở giao_dịch chứng_khoán tại thời_điểm đăng_ký quyền sở_hữu_chứng_khoán . 
+
+a . 2 ) Đối_với chứng_khoán không thuộc trường_hợp trên : giá_trị của chứng_khoán được căn_cứ vào giá_trị sổ_sách kế_toán của công_ty phát_hành loại chứng_khoán đó tại thời_điểm lập báo_cáo tài_chính gần nhất theo quy_định của pháp_luật về kế_toán trước thời_điểm đăng_ký quyền sở_hữu_chứng_khoán .  ” 
+
+“ d ) Đối_với thừa_kế , quà tặng là các tài_sản khác phải đăng_ký quyền sở_hữu hoặc quyền sử_dụng với cơ_quan quản_lý Nhà_nước : giá_trị tài_sản được xác_định trên cơ_sở bảng giá tính lệ_phí trước_bạ do Ủy_ban nhân_dân cấp tỉnh quy_định tại thời_điểm cá_nhân làm thủ_tục đăng_ký quyền sở_hữu , quyền sử_dụng tài_sản thừa_kế , quà tặng . 
+
+Trường_hợp cá_nhân nhận thừa_kế , quà tặng là tài_sản nhập_khẩu và cá_nhân nhận thừa_kế , quà tặng phải nộp các khoản thuế liên_quan đến việc nhập_khẩu tài_sản thì giá_trị tài_sản để làm căn_cứ tính thuế_thu_nhập cá_nhân đối_với thừa_kế quà tặng là giá tính lệ_phí trước_bạ do Ủy_ban nhân_dân cấp tỉnh quy_định tại thời_điểm làm thủ_tục đăng_ký quyền sở_hữu , quyền sử_dụng tài_sản_trừ (-) các khoản thuế ở khâu nhập_khẩu mà cá_nhân tự nộp theo quy_định .  ” 
+
+Điều 20 . Sửa_đổi , bổ_sung Điều 25 <TT rel="Amended"> Thông_tư số 111/2013/TT-BTC </TT> như sau :
+1 . Sửa_đổi , bổ_sung tiết b .  4 điểm b khoản 1 Điều 25 
+
+“ b . 4 ) Doanh_nghiệp bảo_hiểm có trách_nhiệm khấu_trừ thuế đối_với khoản tiền phí tích_lũy tương_ứng với phần người sử_dụng lao_động mua cho người lao_động bảo_hiểm_nhân_thọ ( không bao_gồm bảo_hiểm hưu_trí tự_nguyện ) , bảo_hiểm không bắt_buộc khác có tích_lũy về phí bảo_hiểm của doanh_nghiệp bảo_hiểm được thành_lập và hoạt_động theo quy_định của pháp_luật Việt_Nam . Số thuế khấu_trừ được xác_định theo hướng_dẫn tại khoản 2 Điều 14 <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC </TT> .
+Tổ_chức , cá_nhân trả thu_nhập có trách_nhiệm khấu_trừ thuế trên khoản tiền phí bảo_hiểm đã mua hoặc đóng_góp trước khi trả lương cho người lao_động đối_với khoản bảo_hiểm_nhân_thọ , bảo_hiểm không bắt_buộc khác có tích_lũy về phí bảo_hiểm của doanh_nghiệp bảo_hiểm không thành_lập và hoạt_động theo pháp_luật Việt_Nam được phép bán bảo_hiểm tại Việt_Nam mà tổ_chức , cá_nhân trả thu_nhập mua cho người lao_động . Số thuế khấu_trừ được xác_định theo hướng_dẫn tại khoản 2 Điều 14 <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC. </TT> ”
+2 . Sửa_đổi , bổ_sung điểm c khoản 1 Điều 25 
+
+“ c ) Thu_nhập từ làm đại_lý bảo_hiểm , đại_lý xổ_số , bán hàng đa_cấp ;  thu_nhập từ hoạt_động cho doanh_nghiệp , tổ_chức kinh_tế thuê tài_sản . 
+
+Công_ty xổ_số , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp , trả tiền hoa_hồng cho cá_nhân làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp với số tiền hoa_hồng trên 100 triệu đồng/năm có trách_nhiệm khấu_trừ thuế_thu_nhập cá_nhân trước khi trả thu_nhập cho cá_nhân . Số thuế khấu_trừ được xác_định theo hướng_dẫn tại khoản 2 Điều 9 <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC </TT> .
+Doanh_nghiệp , tổ_chức kinh_tế thuê tài_sản của cá_nhân có trách_nhiệm khấu_trừ thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân trước khi trả thu_nhập trên 100 triệu đồng/năm cho cá_nhân cho thuê tài_sản nếu trong hợp_đồng thuê có thỏa_thuận bên đi thuê là người nộp thuế thay . Số thuế khấu_trừ được xác_định theo hướng_dẫn tại khoản 2 Điều 8 <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC. </TT> ”
+Điều 21 . Sửa_đổi , bổ_sung Điều 16 <TT rel="Amended"> Thông_tư số 156/2013/TT-BTC ngày 06/11/2013 </TT> của Bộ Tài_chính hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Quản_lý thuế </L> ; <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Quản_lý thuế </L> </L> và <NĐ rel="Reference"> Nghị_định số 83/2013/NĐ-CP ngày 22/7/2013 </NĐ> của Chính_phủ ( sau đây gọi là <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> ) như sau :
+1 . Sửa_đổi , bổ_sung tiết a .  3 điểm a khoản 1 Điều 16 
+
+“ a .  3 ) Tổ_chức , cá_nhân trả thu_nhập thuộc diện chịu thuế_thu_nhập cá_nhân đối_với thu_nhập từ tiền_lương , tiền công có trách_nhiệm khai quyết_toán thuế_thu_nhập cá_nhân và quyết_toán thuế_thu_nhập cá_nhân thay cho các cá_nhân có ủy_quyền không phân_biệt có phát_sinh khấu_trừ thuế hay không phát_sinh khấu_trừ thuế .  Trường_hợp tổ_chức , cá_nhân không phát_sinh trả thu_nhập thì không phải khai quyết_toán thuế_thu_nhập cá_nhân . 
+
+Trường_hợp tổ_chức , cá_nhân trả thu_nhập giải_thể , chấm_dứt hoạt_động có phát_sinh trả thu_nhập nhưng không phát_sinh khấu_trừ thuế_thu_nhập cá_nhân thì tổ_chức , cá_nhân trả thu_nhập không thực_hiện quyết_toán thuế_thu_nhập cá_nhân , chỉ cung_cấp cho cơ_quan thuế danh_sách cá_nhân đã chi_trả thu_nhập trong năm ( nếu có ) theo mẫu_số 05/DS-TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC </TT> chậm nhất là ngày thứ 45 ( bốn mươi lăm ) kể từ ngày có quyết_định về việc giải_thể , chấm_dứt hoạt_động .
+Tổ_chức trả thu_nhập chia , tách , hợp_nhất , sáp_nhập , chuyển_đổi , giải_thể hoặc phá_sản theo quy_định của <L rel="Reference"> Luật_Doanh_nghiệp </L> thì phải quyết_toán thuế đối_với số thuế_thu_nhập cá_nhân đã khấu_trừ chậm nhất là ngày thứ 45 ( bốn mươi lăm ) kể từ ngày chia , tách , hợp_nhất , sáp_nhập , chuyển_đổi , giải_thể hoặc phá_sản và cấp chứng_từ khấu_trừ thuế cho người lao_động để làm cơ_sở cho người lao_động thực_hiện quyết_toán thuế_thu_nhập cá_nhân . Trường_hợp chuyển_đổi loại_hình doanh_nghiệp mà bên tiếp_nhận kế_thừa toàn_bộ nghĩa_vụ về thuế của doanh_nghiệp trước chuyển_đổi ( như chuyển_đổi loại_hình doanh_nghiệp từ Công_ty trách_nhiệm hữu_hạn sang Công_ty cổ_phần hoặc ngược_lại ; chuyển_đổi Doanh_nghiệp 100 % vốn Nhà_nước thành Công_ty cổ_phần và các trường_hợp khác theo quy_định của pháp_luật ) thì doanh_nghiệp trước chuyển_đổi không phải khai quyết_toán thuế đến thời_điểm có quyết_định về việc chuyển_đổi doanh_nghiệp , bên tiếp_nhận thực_hiện khai quyết_toán thuế năm theo quy_định . ”
+2 . Sửa_đổi , bổ_sung điểm b .  1 khoản 1 Điều 16 
+
+“ b .  1 ) Hồ_sơ khai thuế tháng , quý 
+
+Tổ_chức , cá_nhân trả thu_nhập khấu_trừ thuế đối_với thu_nhập từ tiền_lương , tiền công_khai thuế theo Tờ khai mẫu_số 05/KKTNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> .
+Tổ_chức , cá_nhân trả thu_nhập khấu_trừ thuế đối_với thu_nhập từ đầu_tư vốn , từ chuyển_nhượng chứng_khoán , từ bản_quyền , từ nhượng quyền thương_mại , từ trúng thưởng của cá_nhân cư_trú và cá_nhân không cư_trú ; từ kinh_doanh của cá_nhân không cư_trú ; Tổ_chức , cá_nhân nhận chuyển_nhượng vốn của cá_nhân không cư_trú khai thuế theo Tờ khai mẫu_số 06/TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> .
+Công_ty xổ_số kiến_thiết , doanh_nghiệp bảo_hiểm , doanh_nghiệp bán hàng đa_cấp khấu_trừ thuế đối_với tiền hoa_hồng từ làm đại_lý xổ_số , đại_lý bảo_hiểm , bán hàng đa_cấp của cá_nhân khai thuế theo Tờ khai mẫu_số 01/XSBHĐC ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> . Đối_với tờ khai thuế_kỳ tháng/kỳ quý cuối_cùng trong năm , phải kèm theo Phụ_lục theo mẫu_số 011/BKXSBHĐC ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> ( không phân_biệt có phát_sinh khấu_trừ thuế hay không phát_sinh khấu_trừ thuế ) . ”
+3 . Sửa_đổi , bổ_sung khoản 2 Điều 16 
+
+“ 2 .  Khai thuế đối_với cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công 
+
+a ) Nguyên_tắc khai thuế 
+
+a . 1 ) Cá_nhân khai thuế trực_tiếp với cơ_quan thuế là cá_nhân sau đây : 
+
+Cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công do các tổ_chức Quốc_tế , Đại_sứ_quán , Lãnh_sự_quán tại Việt_Nam trả nhưng tổ_chức này chưa thực_hiện khấu_trừ thuế ; 
+
+Cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công do các tổ_chức , cá_nhân trả từ nước_ngoài . 
+
+a . 2 ) Hình_thức khai thuế 
+
+Cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công_khai thuế trực_tiếp với cơ_quan thuế theo quý và khai quyết_toán thuế . 
+
+a . 3 ) Khai quyết_toán thuế 
+
+Cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công có trách_nhiệm khai quyết_toán thuế nếu có số thuế phải nộp thêm hoặc có số thuế nộp thừa đề_nghị hoàn hoặc bù_trừ vào kỳ khai thuế tiếp_theo trừ các trường_hợp sau : 
+
+Cá_nhân có số thuế phải nộp nhỏ hơn số thuế đã tạm nộp mà không có yêu_cầu hoàn thuế hoặc bù_trừ thuế vào kỳ sau . 
+
+Cá_nhân có thu_nhập từ tiền_lương , tiền công ký hợp_đồng lao_động từ 03 ( ba ) tháng trở lên tại một đơn_vị mà có thêm thu_nhập vãng_lai ở các nơi khác bình_quân tháng trong năm không quá 10 ( mười ) triệu đồng , đã được đơn_vị trả thu_nhập khấu_trừ thuế tại nguồn theo tỷ_lệ 10 % nếu không có yêu_cầu thì không quyết_toán thuế đối_với phần thu_nhập này . 
+
+Cá_nhân được người sử_dụng lao_động mua bảo_hiểm_nhân_thọ ( trừ bảo_hiểm hưu_trí tự_nguyện ) , bảo_hiểm không bắt_buộc khác có tích_lũy về phí bảo_hiểm mà người sử_dụng lao_động hoặc doanh_nghiệp bảo_hiểm đã khấu_trừ thuế_thu_nhập cá_nhân theo tỷ_lệ 10 % trên khoản tiền phí bảo_hiểm tương_ứng với phần người sử_dụng lao_động mua hoặc đóng_góp cho người lao_động theo hướng_dẫn tại khoản 2 Điều 14 <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> thì không phải quyết_toán thuế đối_với phần thu_nhập này .
+a . 4 ) Ủy_quyền quyết_toán thuế 
+
+a . 4.1 ) Cá_nhân có thu_nhập từ tiền_lương , tiền công_ủy quyền cho tổ_chức , cá_nhân trả thu_nhập quyết_toán thuế thay trong các trường_hợp sau : 
+
+Cá_nhân có thu_nhập từ tiền_lương , tiền công ký hợp_đồng lao_động từ 03 ( ba ) tháng trở lên tại một tổ_chức , cá_nhân trả thu_nhập và thực_tế đang làm_việc tại đó vào thời_điểm ủy quyền quyết_toán thuế , kể_cả trường_hợp không làm_việc đủ 12 ( mười hai ) tháng trong năm . 
+
+Cá_nhân có thu_nhập từ tiền_lương , tiền công ký hợp_đồng lao_động từ 03 ( ba ) tháng trở lên tại một tổ_chức , cá_nhân trả thu_nhập và thực_tế đang làm_việc tại đó vào thời_điểm ủy quyền quyết_toán thuế , kể_cả trường_hợp không làm_việc đủ 12 ( mười hai ) tháng trong năm , đồng_thời có thu_nhập vãng_lai ở các nơi khác bình_quân tháng trong năm không quá 10 triệu đồng đã được đơn_vị trả thu_nhập khấu_trừ thuế 10 % mà không có yêu_cầu quyết_toán thuế đối_với phần thu_nhập này . 
+
+Cá_nhân là người lao_động được điều_chuyển từ tổ_chức cũ đến tổ_chức mới trong trường_hợp tổ_chức cũ thực_hiện chia , tách , hợp_nhất , sáp_nhập , chuyển_đổi doanh_nghiệp .  Cuối năm người lao_động có ủy quyền quyết_toán thuế thì tổ_chức mới phải thu lại chứng_từ khấu_trừ thuế_thu_nhập cá_nhân do tổ_chức cũ đã cấp cho người lao_động ( nếu có ) để làm căn_cứ tổng_hợp thu_nhập , số thuế đã khấu_trừ và quyết_toán thuế thay cho người lao_động . 
+
+a . 4.2 ) Tổ_chức , cá_nhân trả thu_nhập chỉ thực_hiện quyết_toán thuế thay cho cá_nhân đối_với phần thu_nhập từ tiền_lương , tiền công mà cá_nhân nhận được từ tổ_chức , cá_nhân trả thu_nhập .  Trường_hợp tổ_chức chi_trả sau khi thực_hiện chia , tách , hợp_nhất , sáp_nhập , chuyển_đổi doanh_nghiệp và thực_hiện quyết_toán thuế theo ủy_quyền của người lao_động được điều_chuyển từ tổ_chức cũ sang thì tổ_chức mới có trách_nhiệm quyết_toán thuế đối_với cả phần thu_nhập do tổ_chức cũ chi_trả . 
+
+a . 5 ) Nguyên_tắc khai quyết_toán thuế đối_với một_số trường_hợp như sau : 
+
+Cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công trong trường_hợp_số ngày có_mặt tại Việt_Nam_tính trong năm dương_lịch đầu_tiên dưới 183 ngày , nhưng tính trong 12 ( mười hai ) tháng liên_tục kể từ ngày đầu_tiên có_mặt tại Việt_Nam là từ 183 ngày trở lên . 
+
+Năm tính thuế thứ nhất : khai và nộp hồ_sơ quyết_toán thuế chậm nhất là ngày thứ 90 ( chín mươi ) kể từ ngày tính đủ 12 ( mười hai ) tháng liên_tục . 
+
+Từ năm tính thuế thứ hai : khai và nộp hồ_sơ quyết_toán thuế chậm nhất là ngày thứ 90 ( chín mươi ) kể từ ngày kết_thúc năm dương_lịch . 
+
+Trường_hợp cá_nhân cư_trú là người nước_ngoài kết_thúc hợp_đồng làm_việc tại Việt_Nam khai quyết_toán thuế với cơ_quan thuế trước khi xuất_cảnh theo hướng_dẫn về hồ_sơ_khai quyết_toán thuế tại điểm b .  2 khoản này . 
+
+Trường_hợp cá_nhân cư_trú là người nước_ngoài kết_thúc hợp_đồng làm_việc tại Việt_Nam nhưng trước khi xuất_cảnh chưa làm thủ_tục quyết_toán thuế với cơ_quan thuế thì có_thể ủy_quyền theo quy_định của <BL rel="Reference"> Bộ_Luật Dân_sự </BL> cho đơn_vị trả thu_nhập hoặc tổ_chức , cá_nhân khác quyết_toán thuế theo quy_định nếu tổ_chức , cá_nhân đó cam_kết chịu trách_nhiệm với cơ_quan thuế về số thuế_thu_nhập cá_nhân phải nộp của cá_nhân theo quy_định . Thời_hạn nộp hồ_sơ quyết_toán thuế_thu_nhập cá_nhân trong trường_hợp này chậm nhất là ngày thứ 45 ( bốn mươi lăm ) kể từ ngày cá_nhân xuất_cảnh .
+Cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công đồng_thời thuộc diện xét giảm thuế do thiên_tai , hỏa_hoạn , tai_nạn , bệnh hiểm_nghèo thì không ủy quyền quyết_toán thuế mà cá_nhân tự khai quyết_toán thuế kèm theo hồ_sơ xét giảm thuế theo hướng_dẫn tại khoản 1 Điều 46 <TT rel="Reference"> Thông_tư số 156/2013/TTBTC ngày 06/11/2013 </TT> của Bộ Tài_chính .
+b ) Hồ_sơ khai thuế 
+
+b . 1 ) Hồ_sơ khai thuế_quý 
+
+Cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công_khai thuế_quý trực_tiếp với cơ_quan thuế theo Tờ khai mẫu_số 02/KK-TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC </TT> .
+b . 2 ) Hồ_sơ_khai quyết_toán 
+
+b . 2.1 ) Cá_nhân có thu_nhập từ tiền_lương , tiền công không thuộc trường_hợp được ủy_quyền cho tổ_chức , cá_nhân trả thu_nhập quyết_toán thuế thay thì khai quyết_toán thuế trực_tiếp với cơ_quan thuế theo mẫu sau : 
+
+Tờ khai quyết_toán thuế mẫu_số 02/QTTTNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> .
+Phụ_lục mẫu_số 021/BKQTTTNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> nếu có đăng_ký giảm_trừ gia cảnh cho người phụ_thuộc .
+Bản chụp các chứng_từ chứng_minh số thuế đã khấu_trừ , đã tạm nộp trong năm , số thuế đã nộp ở nước_ngoài ( nếu có ) .  Cá_nhân cam_kết chịu trách_nhiệm về tính chính_xác của các thông_tin trên bản chụp đó .  Trường_hợp tổ_chức trả thu_nhập không cấp chứng_từ khấu_trừ thuế cho cá_nhân do tổ_chức trả thu_nhập đã chấm_dứt hoạt_động thì cơ_quan thuế căn_cứ cơ_sở dữ_liệu của ngành thuế để xem_xét xử_lý hồ_sơ quyết_toán thuế cho cá_nhân mà không bắt_buộc phải có chứng_từ khấu_trừ thuế . 
+
+Trường_hợp , theo quy_định của luật_pháp nước_ngoài , cơ_quan thuế nước_ngoài không cấp giấy xác_nhận số thuế đã nộp , người nộp thuế có_thể nộp bản chụp Giấy chứng_nhận khấu_trừ thuế ( ghi rõ đã nộp thuế theo tờ khai thuế_thu_nhập nào ) do cơ_quan trả thu_nhập cấp hoặc bản chụp chứng_từ ngân_hàng đối_với số thuế đã nộp ở nước_ngoài có xác_nhận của người nộp thuế . 
+
+Bản chụp các hóa_đơn chứng_từ chứng_minh khoản đóng_góp vào quỹ từ_thiện , quỹ nhân_đạo , quỹ khuyến_học ( nếu có ) . 
+
+Trường_hợp cá_nhân nhận thu_nhập từ các tổ_chức Quốc_tế , Đại_sứ_quán , Lãnh_sự_quán và nhận thu_nhập từ nước_ngoài phải có tài_liệu chứng_minh về số tiền đã trả của đơn_vị , tổ_chức trả thu_nhập ở nước_ngoài . 
+
+b . 2.2 ) Đối_với cá_nhân ủy_quyền cho tổ_chức , cá_nhân trả thu_nhập quyết_toán thuế_thay 
+
+Cá_nhân ủy_quyền cho tổ_chức , cá_nhân trả thu_nhập quyết_toán thay theo mẫu_số 02/UQ-QTT-TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC </TT> , kèm theo bản chụp_hóa_đơn , chứng_từ chứng_minh đóng_góp từ_thiện , nhân_đạo , khuyến_học ( nếu có ) .
+c ) Nơi nộp hồ_sơ khai thuế 
+
+c . 1 ) Nơi nộp hồ_sơ khai thuế_quý 
+
+Nơi nộp hồ_sơ khai thuế đối_với cá_nhân cư_trú có thu_nhập từ tiền_lương , tiền công_khai thuế trực_tiếp với cơ_quan thuế là Cục Thuế_trực tiếp_quản_lý nơi cá_nhân làm_việc hoặc nơi phát_sinh công_việc tại Việt_Nam ( trường_hợp cá_nhân không làm_việc tại Việt_Nam ) . 
+
+c . 2 ) Nơi nộp hồ_sơ quyết_toán thuế 
+
+c . 2.1 ) Cá_nhân có thu_nhập từ tiền_lương , tiền công trực_tiếp khai thuế với cơ_quan thuế thì nơi nộp hồ_sơ quyết_toán thuế là Cục Thuế_nơi cá_nhân đã nộp hồ_sơ khai thuế trong năm . 
+
+c . 2.2 ) Cá_nhân có thu_nhập từ tiền_lương , tiền công từ hai nơi trở lên thuộc diện trực_tiếp quyết_toán thuế với cơ_quan thuế thì nơi nộp hồ_sơ quyết_toán thuế như sau : 
+
+Cá_nhân đã tính giảm_trừ gia cảnh cho bản_thân tại tổ_chức , cá_nhân trả thu_nhập nào thì nộp hồ_sơ quyết_toán thuế tại cơ_quan thuế trực_tiếp_quản_lý tổ_chức , cá_nhân trả thu_nhập đó .  Trường_hợp cá_nhân có thay_đổi nơi làm_việc và tại tổ_chức , cá_nhân trả thu_nhập cuối_cùng có tính giảm_trừ gia cảnh cho bản_thân thì nộp hồ_sơ quyết_toán thuế tại cơ_quan thuế quản_lý tổ_chức , cá_nhân trả thu_nhập cuối_cùng .  Trường_hợp cá_nhân có thay_đổi nơi làm_việc và tại tổ_chức , cá_nhân trả thu_nhập cuối_cùng không tính giảm_trừ gia cảnh cho bản_thân thì nộp hồ_sơ quyết_toán thuế tại Chi_cục Thuế_nơi cá_nhân cư_trú ( nơi thường_trú hoặc tạm_trú ) . 
+
+Trường_hợp cá_nhân chưa tính giảm_trừ gia cảnh cho bản_thân ở bất_cứ tổ_chức , cá_nhân trả thu_nhập nào thì nộp hồ_sơ quyết_toán thuế tại Chi_cục Thuế_nơi cá_nhân cư_trú ( nơi thường_trú hoặc tạm_trú ) . 
+
+c . 2.3 ) Trường_hợp cá_nhân không ký hợp_đồng lao_động , hoặc ký hợp_đồng lao_động dưới 03 ( ba ) tháng , hoặc ký hợp_đồng cung_cấp dịch_vụ có thu_nhập tại một nơi hoặc nhiều nơi đã khấu_trừ 10 % thì quyết_toán thuế tại Chi_cục Thuế_nơi cá_nhân cư_trú ( nơi thường_trú hoặc tạm_trú ) . 
+
+c . 2.4 ) Cá_nhân trong năm có thu_nhập từ tiền_lương , tiền công tại một nơi hoặc nhiều nơi nhưng tại thời_điểm quyết_toán không làm_việc tại tổ_chức , cá_nhân trả thu_nhập nào thì nơi nộp hồ_sơ quyết_toán thuế là Chi_cục Thuế_nơi cá_nhân cư_trú ( nơi thường_trú hoặc tạm_trú ) . 
+
+d ) Thời_hạn nộp hồ_sơ khai thuế 
+
+Thời_hạn nộp hồ_sơ khai thuế theo quý chậm nhất là ngày thứ 30 ( ba mươi ) của quý tiếp_theo quý phát_sinh nghĩa_vụ thuế . 
+
+Thời_hạn nộp hồ_sơ_khai quyết_toán thuế chậm nhất là ngày thứ 90 ( chín mươi ) kể từ ngày kết_thúc năm dương_lịch . 
+
+đ ) Thời_hạn nộp thuế 
+
+Thời_hạn nộp thuế là thời_hạn nộp hồ_sơ khai thuế_quý , khai quyết_toán thuế .  ” 
+
+4 . Sửa_đổi , bổ_sung tiết b .  1 điểm b khoản 3 Điều 16 
+
+“ b .  1 ) Hồ_sơ khai thuế đối_với thu_nhập từ chuyển_nhượng bất_động_sản bao_gồm : 
+
+Tờ khai thuế_thu_nhập cá_nhân theo mẫu_số 03/BĐSTNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TTBTC </TT> .
+Bản chụp giấy chứng_nhận quyền sử_dụng đất , giấy_tờ chứng_minh quyền sở_hữu nhà hoặc quyền sở_hữu các công_trình trên đất và cá_nhân ký cam_kết chịu trách_nhiệm vào bản chụp đó . Trường_hợp chuyển_nhượng hợp_đồng mua_bán nhà , công_trình xây_dựng hình_thành trong tương_lai thì nộp bản_sao hợp_đồng mua_bán nhà , công_trình xây_dựng hình_thành trong tương_lai ký với chủ dự_án cấp I , cấp II hoặc sàn giao_dịch của chủ dự_án ; hoặc bản_sao hợp_đồng góp vốn để có quyền mua nền nhà , căn_hộ ký trước thời_điểm có hiệu_lực của <NĐ rel="Reference"> Nghị_định số 71/2010/NĐCP ngày 26/3/2010 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật nhà ở </L> .
+Hợp_đồng chuyển_nhượng bất_động_sản .  Trường_hợp chuyển_nhượng hợp_đồng mua_bán nhà , công_trình xây_dựng hình_thành trong tương_lai thì nộp Hợp_đồng chuyển_nhượng Hợp_đồng mua_bán nhà , công_trình xây_dựng hình_thành trong tương_lai đã được công_chứng ;  hoặc Hợp_đồng chuyển_nhượng hợp_đồng góp vốn để có quyền mua nhà , nền nhà , căn_hộ đã được công_chứng .  Nếu chuyển_nhượng hợp_đồng mua_bán nhà , công_trình xây_dựng hình_thành trong tương_lai từ lần thứ hai trở đi thì các bên phải xuất_trình thêm hợp_đồng chuyển_nhượng lần trước liền kề .  Trường_hợp ủy_quyền bất_động_sản thì nộp Hợp_đồng ủy_quyền bất_động_sản . 
+
+Các giấy_tờ làm căn_cứ xác_định thuộc đối_tượng được miễn thuế theo hướng_dẫn tại điểm b .  2 , khoản này ( trong trường_hợp chuyển_nhượng bất_động_sản được miễn thuế_thu_nhập cá_nhân ) . 
+
+Các tài_liệu làm căn_cứ chứng_minh việc góp vốn theo quy_định của pháp_luật ( trong trường_hợp chuyển_nhượng bất_động_sản do góp vốn vào doanh_nghiệp thuộc diện tạm_thời chưa thu thuế_thu_nhập cá_nhân ) . 
+
+Cơ_quan thuế thông_báo số thuế phải nộp theo mẫu_số 03/TBT-BĐS-TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC </TT> cho cá_nhân . ”
+5 . Sửa_đổi , bổ_sung điểm c và điểm d khoản 3 Điều 16 
+
+“ c ) Nơi nộp hồ_sơ khai thuế 
+
+Cá_nhân nộp hồ_sơ khai thuế cùng hồ_sơ chuyển_nhượng bất_động_sản tại bộ_phận một cửa liên_thông hoặc Chi_cục Thuế_nơi có bất_động_sản chuyển_nhượng .  Trường_hợp ở địa_phương chưa thực_hiện quy_chế một cửa liên_thông thì nộp hồ_sơ trực_tiếp cho văn_phòng đăng_ký quyền sử_dụng đất nơi có bất_động_sản chuyển_nhượng . 
+
+Trường_hợp cá_nhân chuyển_nhượng nhà , công_trình xây_dựng hình_thành trong tương_lai thì khai thuế , nộp thuế_thu_nhập cá_nhân tại Chi_cục Thuế địa_phương nơi có nhà , công_trình xây_dựng hình_thành trong tương_lai hoặc tổ_chức , cá_nhân được cơ_quan thuế_ủy_nhiệm thu . 
+
+Trường_hợp hợp_đồng chuyển_nhượng không có thỏa_thuận bên mua là người nộp thuế thay cho bên bán thì nộp hồ_sơ khai thuế chậm nhất là ngày thứ 10 ( mười ) kể từ thời_điểm hợp_đồng chuyển_nhượng có hiệu_lực theo quy_định của pháp_luật . 
+
+Trường_hợp hợp_đồng chuyển_nhượng có thỏa_thuận bên mua là người nộp thuế thay cho bên bán thì nộp hồ_sơ khai thuế chậm nhất là thời_điểm làm thủ_tục đăng_ký quyền sở_hữu , quyền sử_dụng bất_động_sản .  Trường_hợp cá_nhân nhận chuyển_nhượng nhà , công_trình xây_dựng tương_lai là thời_điểm cá_nhân nộp hồ_sơ khai thuế với cơ_quan thuế .  ” 
+
+6 . Sửa_đổi , bổ_sung khoản 5 Điều 16 
+
+“ 5 .  Khai thuế đối_với thu_nhập từ chuyển_nhượng chứng_khoán 
+
+a . 1 ) Cá_nhân chuyển_nhượng chứng_khoán của Công_ty đại_chúng giao_dịch tại Sở giao_dịch chứng_khoán không phải khai thuế trực_tiếp với cơ_quan thuế , Công_ty_chứng_khoán , Ngân_hàng thương_mại nơi cá_nhân mở tài_khoản lưu ký , Công_ty quản_lý quỹ nơi cá_nhân ủy_thác quản_lý danh_mục đầu_tư khai thuế theo hướng_dẫn tại khoản 1 Điều 16 <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> .
+a . 2 ) Cá_nhân chuyển_nhượng chứng_khoán không thông_qua hệ_thống giao_dịch trên Sở giao_dịch chứng_khoán : 
+
+- Cá_nhân chuyển_nhượng chứng_khoán của công_ty đại_chúng đã đăng_ký chứng_khoán tập_trung tại Trung_tâm lưu ký chứng_khoán không khai thuế trực_tiếp với cơ_quan thuế , Công_ty_chứng_khoán , Ngân_hàng thương_mại nơi cá_nhân mở tài_khoản lưu ký chứng_khoán khấu_trừ thuế và khai thuế theo hướng_dẫn tại khoản 1 Điều 16 <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> .
+- Cá_nhân chuyển_nhượng chứng_khoán của công_ty cổ_phần chưa là công_ty đại_chúng nhưng tổ_chức phát_hành chứng_khoán ủy_quyền cho công_ty_chứng_khoán quản_lý danh_sách cổ_đông không khai thuế trực_tiếp với cơ_quan thuế , Công_ty_chứng_khoán được ủy_quyền quản_lý danh_sách cổ_đông khấu_trừ thuế và khai thuế theo hướng_dẫn tại khoản 1 Điều 16 <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> .
+a . 3 ) Cá_nhân chuyển_nhượng chứng_khoán không thuộc trường_hợp nêu tại tiết a .  1 và tiết a .  2 khoản này khai thuế theo từng lần phát_sinh . 
+
+a . 4 ) Doanh_nghiệp thực_hiện thủ_tục thay_đổi danh_sách cổ_đông trong trường_hợp chuyển_nhượng chứng_khoán không có chứng_từ chứng_minh cá_nhân chuyển_nhượng chứng_khoán đã hoàn_thành nghĩa_vụ thuế thì doanh_nghiệp nơi cá_nhân chuyển_nhượng chứng_khoán có trách_nhiệm khai thuế , nộp thuế thay cho cá_nhân . 
+
+Trường_hợp_doanh_nghiệp nơi cá_nhân chuyển_nhượng chứng_khoán khai thuế thay cho cá_nhân thì doanh_nghiệp thực_hiện khai thay hồ_sơ khai thuế_thu_nhập cá_nhân .  Doanh_nghiệp khai thay ghi cụm từ “ Khai thay ” vào phần trước cụm từ “ Người nộp thuế hoặc Đại_diện hợp_pháp của người nộp thuế_” đồng_thời người khai ký , ghi rõ họ tên và đóng_dấu của doanh_nghiệp .  Trên hồ_sơ tính thuế , chứng_từ thu thuế vẫn thể_hiện người nộp thuế là cá_nhân chuyển_nhượng chứng_khoán . 
+
+Hồ_sơ khai thuế đối_với cá_nhân chuyển_nhượng chứng_khoán thuộc diện khai trực_tiếp với cơ_quan thuế hướng_dẫn tại tiết a .  3 khoản này gồm : 
+
+- Tờ khai mẫu_số 04/CNV-TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 92/2015/TT-BTC </TT> ;
+- Bản chụp Hợp_đồng chuyển_nhượng chứng_khoán . 
+
+Cá_nhân thuộc diện trực_tiếp khai thuế từng lần phát_sinh nêu tại điểm a .  3 khoản này nộp hồ_sơ khai thuế tại cơ_quan thuế quản_lý doanh_nghiệp phát_hành chứng_khoán mà cá_nhân chuyển_nhượng . 
+
+- Thời_hạn nộp hồ_sơ khai thuế đối_với cá_nhân thuộc diện trực_tiếp khai thuế với cơ_quan thuế chậm nhất là ngày thứ 10 ( mười ) kể từ ngày hợp_đồng chuyển_nhượng chứng_khoán có hiệu_lực theo quy_định của pháp_luật . 
+
+- Trường_hợp_doanh_nghiệp nộp thuế thay cho cá_nhân thì thời_điểm nộp hồ_sơ khai thuế chậm nhất là trước khi làm thủ_tục thay_đổi danh_sách cổ_đông theo quy_định của pháp_luật . 
+
+Thời_hạn nộp thuế là thời_hạn nộp hồ_sơ khai thuế .  ” 
+
+Điều 22 . Sửa_đổi , bổ_sung khoản 5 Điều 33 <TT rel="Amended"> Thông_tư số 156/2013/TT-BTC </TT> như sau :
+“ 5 .  Nghĩa_vụ quyết_toán thuế thay cho cá_nhân được bù_trừ với nghĩa_vụ khấu_trừ của tổ_chức , cá_nhân chi_trả thu_nhập . 
+
+Trường_hợp sau khi bù_trừ có số thuế phải nộp thì tổ_chức , cá_nhân trả thu_nhập phải nộp đủ số thuế_còn thiếu vào ngân_sách nhà_nước . Trường_hợp sau khi bù_trừ có số thuế nộp thừa được cơ_quan thuế tự_động bù_trừ vào số thuế phải nộp của kỳ tính thuế tiếp_theo hoặc tổ_chức , cá_nhân trả thu_nhập lập Giấy đề_nghị hoàn_trả khoản thu ngân_sách nhà_nước theo mẫu_số 01/ĐNHT ban_hành tại <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> gửi cơ_quan thuế trực_tiếp_quản_lý để hoàn_trả thuế theo quy_định . ”
+Điều 23 . Sửa_đổi , bổ_sung Điều 53 <TT rel="Amended"> Thông_tư số 156/2013/TT-BTC </TT> như sau :
+1 . Hoàn thuế đối_với tổ_chức , cá_nhân trả thu_nhập thực_hiện quyết_toán thuế thay cho các cá_nhân có ủy quyền quyết_toán thuế . 
+
+Trường_hợp tổ_chức , cá_nhân trả thu_nhập sau khi bù_trừ số thuế nộp thừa , nộp thiếu của các cá_nhân mà có số thuế nộp thừa , nếu đề_nghị cơ_quan thuế hoàn_trả thì tổ_chức , cá_nhân trả thu_nhập nộp hồ_sơ hoàn thuế cho cơ_quan thuế trực_tiếp_quản_lý .  Hồ_sơ hoàn thuế bao_gồm : 
+
+- Giấy đề_nghị hoàn_trả khoản thu ngân_sách nhà_nước theo mẫu_số 01/ĐNHT ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> .
+- Bản chụp chứng_từ , biên_lai nộp thuế_thu_nhập cá_nhân và người đại_diện hợp_pháp của tổ_chức , cá_nhân trả thu_nhập ký cam_kết chịu trách_nhiệm tại bản chụp đó . 
+
+2 . Đối_với cá_nhân có thu_nhập từ tiền_lương , tiền công trực_tiếp quyết_toán thuế với cơ_quan thuế nếu có số thuế nộp thừa thì cá_nhân không phải nộp hồ_sơ hoàn thuế mà chỉ cần ghi số thuế đề_nghị hoàn vào chỉ_tiêu [ 47 ]-“ Số thuế hoàn_trả vào tài_khoản NNT ” hoặc chỉ_tiêu [ 49 ]-“ Tổng_số thuế bù_trừ cho các phát_sinh của kỳ sau ” tại tờ khai quyết_toán thuế theo mẫu_số 02/QTT-TNCN khi quyết_toán thuế .  ” 
+
+Điều 24 .  Sửa_đổi , bổ_sung các mẫu biểu , tờ khai thuế đối_với cá_nhân kinh_doanh và mẫu biểu , tờ khai thuế_thu_nhập cá_nhân 
+
+2 . Thay_thế các mẫu biểu số 02/THKH , 01/KK-TTS ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> bằng các mẫu biểu mới tương_ứng số 01/TB-CNKD , 01/TTS ban_hành kèm theo Thông_tư này .
+3 . Thay_thế mẫu_số 01/KK-BHĐC và 01/KK-XS ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> bằng mẫu_số 01/BHXSĐC ban_hành kèm theo Thông_tư này .
+4 . Thay_thế mẫu_số 02-1/BK-BH , 02-1/BK-ĐC và 02-1/BK-XS ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> bằng mẫu_số 01-1/BK-BHXSĐC ban_hành kèm theo Thông_tư này .
+5 . Thay_thế mẫu_số 21a/XN-TNCN và 21b/XN-TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC </TT> bằng mẫu_số 09/XN-NPT-TNCN ban_hành kèm theo Thông_tư này .
+7 . Sửa_đổi các mẫu biểu số 05/KK-TNCN , 05-1/BK-TNCN , 05-2/BK-TNCN , 05-3/BK-TNCN , 02/KK-TNCN , 11/KK-TNCN , 11-1/TB-TNCN , 04-2/KK-TNCN , 07/KK-TNCN , 09/KK-TNCN , 09-3/KK-TNCN , 16/ĐK-TNCN , 04-2/TNCN , 23/CK-TNCN , 03/KK-TNCN , 17/TNCN , 18/MGT-TNCN ban_hành kèm theo <TT rel="Reference"> Thông_tư số 156/2013/TT-BTC ngày 06/11/2013 </TT> của Bộ Tài_chính bằng các mẫu biểu mới tương_ứng số 05/QTT-TNCN , 05-1/BK-TNCN , 05-2/BK-TNCN , 05-3/BK-TNCN , 05/KK-TNCN , 03/BĐS-TNCN , 03/TBT-BĐS-TNCN , 04/UQ-QTT-TNCN , 02/KK-TNCN , 02/QTT-TNCN , 02-1/BK-QTT , 02/ĐK-NPT-TNCN ; 02/UQ-QTT-TNCN , 02/CK-TNCN ; 06/TNCN , 07/CTKT-TNCN , 08/MGT-TNCN ban_hành kèm theo Thông_tư này .
+Danh_mục các mẫu biểu , tờ khai thuế đối_với cá_nhân kinh_doanh và mẫu biểu , tờ khai thuế_thu_nhập cá_nhân được thống_kê theo Phụ_lục 02 ban_hành kèm theo Thông_tư này . 
+
+Điều 25 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 30 tháng 07 năm 2015 và áp_dụng cho kỳ tính thuế_thu_nhập cá_nhân từ năm 2015 trở đi . 
+
+Các hướng_dẫn về cá_nhân kinh_doanh nộp thuế theo phương_pháp khoán có sử_dụng hóa_đơn của cơ_quan thuế thì áp_dụng cho kỳ tính thuế từ ngày 01 tháng 01 năm 2016 . 
+
+2 . Trường_hợp cá_nhân có phát_sinh hợp_đồng thuê trong nhiều năm và đã khai thuế , nộp thuế theo quy_định trước_đây thì không điều_chỉnh lại đối_với số thuế đã khai , đã nộp . 
+
+3 . Trường_hợp cá_nhân chuyển_nhượng bất_động_sản đã nộp hồ_sơ làm thủ_tục đăng_ký quyền sở_hữu , quyền sử_dụng bất_động_sản hoặc hồ_sơ khai thuế trước ngày 01 tháng 01 năm 2015 áp_dụng thuế_suất 25 % nhưng đến ngày 31 tháng 12 năm 2014 cơ_quan thuế chưa có thông_báo nộp thuế thì cá_nhân được khai điều_chỉnh theo thuế_suất 2 % nếu có yêu_cầu . 
+
+4 . Bãi_bỏ tiết b . 2.2 , tiết b . 2.3 và tiết b . 2.4 điểm b khoản 1 Điều 16 ; bãi_bỏ Điều 22 <TT rel="PartDrop"> Thông_tư số 156/2013/TT-BTC ngày 06/11/2013 </TT> của Bộ Tài_chính hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Quản_lý thuế </L> , <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật Quản_lý thuế </L> </L> và <NĐ rel="Others"> Nghị_định số 83/2013/NĐ-CP ngày 22/7/2013 </NĐ> của Chính_phủ .
+5 . Bãi_bỏ các nội_dung liên_quan đến thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân đối_với cá_nhân kinh_doanh hướng_dẫn tại Điều 16 và Điều 21 <TT rel="PartDrop"> Thông_tư số 156/2013/TT-BTC ngày 06/11/2013 </TT> của Bộ Tài_chính .
+6 . Bãi_bỏ các nội_dung liên_quan đến thuế_thu_nhập cá_nhân đối_với cá_nhân kinh_doanh hướng_dẫn tại Điều 7 , Điều 8 , Điều 9 <TT rel="Reference"> Thông_tư số 111/2013/TT-BTC ngày 15/8/2013 </TT> hướng_dẫn thực_hiện <L rel="Reference"> Luật Thuế_thu_nhập cá_nhân </L> , <L rel="Reference"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật thuế_thu_nhập cá_nhân </L> </L> và <NĐ rel="Others"> Nghị_định số 65/2013/NĐ-CP </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <L rel="Others"> Luật Thuế_thu_nhập cá_nhân </L> và <L rel="Others"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật thuế_thu_nhập cá_nhân </L> </L> .
+7 . Bãi_bỏ điểm d khoản 6 Điều 2 <TT rel="PartDrop"> Thông_tư số 111/2013/TT-BTC </TT> hướng_dẫn về thuế_thu_nhập cá_nhân đối_với cá_nhân có thu_nhập từ trúng thưởng trong casino .
+8 . Đối_với mức thuế_khoán đang thực_hiện của năm 2015 , chậm nhất là ngày 30/8/2015 Chi_cục Thuế thực_hiện : niêm_yết công_khai Danh_sách hộ kinh_doanh thuộc diện không phải nộp thuế giá_trị gia_tăng , thuế_thu_nhập cá_nhân , Danh_sách_hộ khoán và mức thuế phải nộp tại bộ_phận một cửa của Chi_cục Thuế và Ủy_ban nhân_dân quận , huyện và tại cửa , cổng hoặc địa_điểm thích_hợp của : trụ_sở Ủy_ban nhân_dân xã , phường , thị_trấn , trụ_sở Đội thuế , Ban quản_lý chợ ;  . . .  ; gửi tài_liệu niêm_yết công_khai như nêu trên đến Hội_đồng nhân_dân và Mặt_trận tổ_quốc quận , huyện , xã , phường , thị_trấn ;  đồng_thời gửi Bảng công_khai theo mẫu_số 01/CKTT-CNKD ban_hành kèm theo Thông_tư này tới từng cá_nhân kinh_doanh .  Bảng công_khai theo mẫu_số 01/CKTT-CNKD được lập theo hướng_dẫn tại tiết a .  1 điểm a khoản 9 Điều 6 Thông_tư này . 
+
+Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các tổ_chức , cá_nhân phản_ảnh kịp_thời về Bộ Tài_chính ( Tổng_cục Thuế ) để nghiên_cứu giải_quyết ./. 

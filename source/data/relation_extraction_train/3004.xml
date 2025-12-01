@@ -1,0 +1,268 @@
+Thông tư Hướng dẫn về dịch vụ trung gian thanh toán
+
+Căn_cứ <L rel="Pursuant"> Luật Ngân_hàng Nhà_nước Việt_Nam số 46/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Các tổ_chức tín_dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 </NĐ> của Chính_phủ về thanh_toán không dùng tiền_mặt ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+Thông_tư này hướng_dẫn về dịch_vụ trung_gian thanh_toán đối_với các tổ_chức , cá_nhân có liên_quan đến hoạt_động cung_ứng và sử_dụng dịch_vụ trung_gian thanh_toán . 
+
+Điều 2 .  Các loại dịch_vụ trung_gian thanh_toán 
+
+1 . Dịch_vụ cung_ứng_hạ_tầng thanh_toán điện_tử , gồm : 
+
+a ) Dịch_vụ chuyển mạch tài_chính ; 
+
+b ) Dịch_vụ bù_trừ điện_tử ; 
+
+c ) Dịch_vụ cổng thanh_toán điện_tử . 
+
+2 . Dịch_vụ hỗ_trợ dịch_vụ thanh_toán , gồm : 
+
+a ) Dịch_vụ hỗ_trợ thu hộ , chi hộ ; 
+
+b ) Dịch_vụ hỗ_trợ chuyển tiền điện_tử ; 
+
+c ) Dịch_vụ Ví điện_tử . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Dịch_vụ chuyển mạch tài_chính là dịch_vụ cung_ứng_hạ_tầng kỹ_thuật để thực_hiện việc kết_nối , truyền_dẫn và xử_lý dữ_liệu điện_tử để thực_hiện các giao_dịch thanh_toán thông_qua ATM , POS , Internet , điện_thoại_di_động và các kênh giao_dịch điện_tử khác giữa các tổ_chức cung_ứng dịch_vụ thanh_toán và/hoặc giữa các tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán . 
+
+2 . Dịch_vụ bù_trừ điện_tử là dịch_vụ cung_ứng_hạ_tầng kỹ_thuật để thực_hiện việc tiếp_nhận , đối_chiếu dữ_liệu thanh_toán và tính_toán kết_quả số tiền phải thu , phải trả sau khi bù_trừ giữa các bên thành_viên tham_gia là tổ_chức cung_ứng dịch_vụ thanh_toán hoặc tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán để thực_hiện việc quyết_toán cho các bên có liên_quan . 
+
+3 . Dịch_vụ cổng thanh_toán điện_tử là dịch_vụ cung_ứng_hạ_tầng kỹ_thuật để thực_hiện việc kết_nối giữa các đơn_vị chấp_nhận thanh_toán và ngân_hàng nhằm hỗ_trợ khách_hàng thực_hiện thanh_toán trong giao_dịch thương_mại điện_tử , thanh_toán hóa_đơn điện_tử và các dịch_vụ thanh_toán điện_tử khác . 
+
+4 . Dịch_vụ hỗ_trợ thu hộ , chi hộ là dịch_vụ hỗ_trợ các ngân_hàng thực_hiện dịch_vụ thu hộ , chi hộ cho khách_hàng có tài_khoản thanh_toán , thẻ ngân_hàng tại ngân_hàng thông_qua việc nhận , xử_lý , gửi thông_điệp dữ_liệu điện_tử và tính_toán kết_quả thu hộ , chi hộ ;  hủy việc thu hộ , chi hộ để quyết_toán cho các bên có liên_quan . 
+
+5 . Dịch_vụ hỗ_trợ chuyển tiền điện_tử là dịch_vụ hỗ_trợ việc tiếp_nhận , truyền_dẫn và xử_lý dữ_liệu trong các giao_dịch_chuyển tiền điện_tử của ngân_hàng hoặc được ngân_hàng ủy_thác . 
+
+6 . Dịch_vụ Ví điện_tử là dịch_vụ cung_cấp cho khách_hàng một tài_khoản điện_tử định_danh do các tổ_chức cung_ứng dịch_vụ tạo_lập trên vật_mang tin ( như chip điện_tử , sim điện_thoại_di_động , máy_tính ... ) , cho phép lưu_giữ một giá_trị tiền_tệ được đảm_bảo bằng giá_trị tiền gửi tương_đương với số tiền được chuyển từ tài_khoản thanh_toán của khách_hàng tại ngân_hàng vào tài_khoản đảm_bảo thanh_toán của tổ_chức cung_ứng dịch_vụ Ví điện_tử theo tỷ_lệ 1 : 1 và được sử_dụng làm phương_tiện thanh_toán không dùng tiền_mặt . 
+
+7 . Tài_khoản đảm_bảo thanh_toán là tài_khoản thanh_toán bằng đồng Việt_Nam của tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán mở tại các ngân_hàng thương_mại để đảm_bảo cho việc cung_ứng các dịch_vụ trung_gian thanh_toán . 
+
+8 . Đơn_vị chấp_nhận thanh_toán là tổ_chức , cá_nhân cung_cấp hàng_hóa , dịch_vụ và chấp_nhận thanh_toán thông_qua một hoặc một_số dịch_vụ trung_gian thanh_toán . 
+
+Điều 4 .  Cấp , thu_hồi và cấp lại Giấy_phép 
+
+1 . Ngân_hàng Nhà_nước Việt_Nam ( sau đây gọi là Ngân_hàng Nhà_nước ) thực_hiện cấp , thu_hồi và cấp lại Giấy_phép hoạt_động cung_ứng dịch_vụ trung_gian thanh_toán ( sau đây gọi tắt là Giấy_phép ) theo quy_định tại Điều 15 và Điều 16 <NĐ rel="Reference"> Nghị_định số 101/2012/NĐ-CP ngày 22/11/2012 </NĐ> của Chính_phủ về thanh_toán không dùng tiền_mặt ( sau đây gọi tắt là <NĐ rel="Reference"> Nghị_định số 101/2012/NĐ-CP </NĐ> ) .
+2 . Tổ_chức không phải là ngân_hàng được xin cấp Giấy_phép thực_hiện một hoặc một_số dịch_vụ trung_gian thanh_toán quy_định tại Điều 2 Thông_tư này trên cơ_sở đáp_ứng các điều_kiện quy_định tại khoản 2 Điều 15 <NĐ rel="Reference"> Nghị_định số 101/2012/NĐ-CP </NĐ> và các quy_định về cơ_sở vật_chất , hạ_tầng kỹ_thuật như sau :
+a ) Đối_với dịch_vụ chuyển mạch tài_chính , dịch_vụ bù_trừ điện_tử , tổ_chức cung_ứng dịch_vụ phải được một tổ_chức thực_hiện quyết_toán kết_quả bù_trừ giữa các bên liên_quan ; 
+
+b ) Đối_với dịch_vụ hỗ_trợ dịch_vụ thanh_toán cho khách_hàng có tài_khoản tại nhiều ngân_hàng , tổ_chức cung_ứng dịch_vụ phải kết_nối với một tổ_chức cung_ứng dịch_vụ chuyển mạch tài_chính và dịch_vụ bù_trừ điện_tử . 
+
+Điều 5 .  Quy_trình , thủ_tục , hồ_sơ_cấp , thu_hồi và cấp lại Giấy_phép 
+
+1 . Quy_trình , thủ_tục cấp , thu_hồi và cấp lại Giấy_phép thực_hiện theo quy_định tại Điều 16 <NĐ rel="Reference"> Nghị_định số 101/2012/NĐ-CP </NĐ> .
+2 . Hồ_sơ đề_nghị cấp Giấy_phép hoạt_động cung_ứng dịch_vụ trung_gian thanh_toán thực_hiện theo quy_định tại khoản 2 Điều 16 <NĐ rel="Reference"> Nghị_định số 101/2012/NĐ-CP </NĐ> và tài_liệu chứng_minh đáp_ứng các điều_kiện tại điểm a , điểm b khoản 2 Điều 4 Thông_tư này .
+3 . Đơn đề_nghị cấp Giấy_phép thực_hiện theo mẫu tại Phụ_lục số 01 ban_hành kèm theo Thông_tư này . 
+
+4 . Tổ_chức được cấp Giấy_phép hoạt_động cung_ứng dịch_vụ trung_gian thanh_toán phải nộp lệ_phí cấp Giấy_phép theo quy_định của pháp_luật . 
+
+Điều 6 .  Sử_dụng Giấy_phép 
+
+1 . Tổ_chức được cấp Giấy_phép phải sử_dụng đúng tên và hoạt_động theo đúng nội_dung quy_định trong Giấy_phép . 
+
+2 . Nghiêm_cấm việc làm giả , tẩy xóa , chuyển_nhượng , cho thuê , cho mượn Giấy_phép ;  ủy_thác , giao đại_lý cho tổ_chức , cá_nhân khác thực_hiện hoạt_động được phép theo Giấy_phép . 
+
+Điều 7 .  Quản_lý rủi_ro , đảm_bảo an_toàn , bảo_mật 
+
+1 . Tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán phải xây_dựng và thực_hiện quy_định nội_bộ và tuân_thủ theo quy_định của Ngân_hàng Nhà_nước về các nguyên_tắc quản_lý rủi_ro trong hoạt_động ngân_hàng điện_tử , tuân_thủ các quy_định của pháp_luật hiện_hành về phòng , chống rửa_tiền và các quy_định khác của pháp_luật Việt_Nam có liên_quan . 
+
+2 . Tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán phải thực_hiện các yêu_cầu đảm_bảo an_toàn , bảo_mật hệ_thống công_nghệ thông_tin trong hoạt_động ngân_hàng ;  an_toàn , bảo_mật cho việc cung_cấp dịch_vụ ngân_hàng điện_tử theo quy_định của Ngân_hàng Nhà_nước . 
+
+3 . Tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán phải tuân_thủ các quy_định về việc lập , sử_dụng , bảo_quản , lưu_trữ chứng_từ điện_tử theo quy_định của pháp_luật về giao_dịch điện_tử trong hoạt_động ngân_hàng . 
+
+Điều 8 .  Đảm_bảo khả_năng thanh_toán 
+
+1 . Tổ_chức cung_ứng dịch_vụ hỗ_trợ thu hộ , chi hộ và tổ_chức cung_ứng dịch_vụ Ví điện_tử phải mở tài_khoản đảm_bảo thanh_toán để đảm_bảo cho việc cung_ứng các dịch_vụ này .  Số_dư trên tài_khoản đảm_bảo thanh_toán phải được duy_trì không thấp hơn so với tổng_số tiền đã nhận của khách_hàng mà chưa thực_hiện thanh_toán cho đơn_vị chấp_nhận thanh_toán ( đối_với dịch_vụ hỗ_trợ thu hộ , chi hộ ) hoặc tổng_số_dư của tất_cả các Ví điện_tử của các khách_hàng ( đối_với dịch_vụ Ví điện_tử ) tại cùng một thời_điểm . 
+
+2 . Tài_khoản đảm_bảo thanh_toán chỉ được sử_dụng vào việc : 
+
+a ) Thanh_toán tiền cho các đơn_vị chấp_nhận thanh_toán ; 
+
+b ) Hoàn_trả tiền cho khách_hàng sử_dụng dịch_vụ khi có yêu_cầu . 
+
+Điều 9 .  Hoạt_động cung_ứng Ví điện_tử 
+
+1 . Tổ_chức cung_ứng dịch_vụ Ví điện_tử không được phép : 
+
+a ) Phát_hành hơn 01 ( một ) Ví điện_tử cho một tài_khoản thanh_toán của khách_hàng tại một ngân_hàng ; 
+
+b ) Cấp tín_dụng cho khách_hàng sử_dụng Ví điện_tử , trả lãi trên số_dư Ví điện_tử hoặc bất_kỳ hành_động nào có_thể làm tăng_giá_trị tiền_tệ trên Ví điện_tử . 
+
+2 . Tổ_chức cung_ứng dịch_vụ Ví điện_tử phải có công_cụ để Ngân_hàng Nhà_nước kiểm_tra , giám_sát theo thời_gian thực tổng_số tiền của khách_hàng trên các Ví điện_tử và tổng_số tiền trên tài_khoản đảm_bảo thanh_toán của tổ_chức cung_ứng dịch_vụ Ví điện_tử tại các ngân_hàng . 
+
+3 . Việc nạp tiền vào Ví điện_tử , rút_tiền ra khỏi Ví điện_tử của khách_hàng phải thực_hiện thông_qua tài_khoản thanh_toán của khách_hàng tại ngân_hàng . 
+
+Điều 10 .  Quyền của tổ_chức cung_ứng dịch_vụ cung_ứng_hạ_tầng thanh_toán điện_tử 
+
+1 . Quy_định điều_kiện sử_dụng dịch_vụ ;  yêu_cầu khách_hàng cung_cấp đầy_đủ và chính_xác thông_tin có liên_quan khi sử_dụng dịch_vụ và trong quá_trình sử_dụng dịch_vụ ;  từ_chối cung_cấp dịch_vụ khi khách_hàng không đáp_ứng đầy_đủ các điều_kiện để sử_dụng dịch_vụ , không tuân_thủ quy_định của tổ_chức cung_ứng dịch_vụ hoặc vi_phạm các thỏa_thuận khác . 
+
+2 . Quy_định các biện_pháp đảm_bảo an_toàn cho việc sử_dụng dịch_vụ . 
+
+3 . Quy_định loại phí và mức phí sử_dụng dịch_vụ phù_hợp với quy_định pháp_luật hiện_hành . 
+
+4 . Lựa_chọn ngân_hàng , các tổ_chức khác làm đối_tác để ký_kết_hợp_đồng cung_ứng , phát_triển dịch_vụ trên cơ_sở đảm_bảo an_toàn , hiệu_quả và phù_hợp với nội_dung Giấy_phép và quy_định của pháp_luật . 
+
+5 . Các quyền khác theo hợp_đồng với ngân_hàng , khách_hàng và đối_tác phù_hợp với quy_định của pháp_luật . 
+
+Điều 11 .  Trách_nhiệm của tổ_chức cung_ứng dịch_vụ cung_ứng_hạ_tầng thanh_toán điện_tử 
+
+1 . Đối_với khách_hàng : 
+
+a ) Hướng_dẫn khách_hàng cách_thức sử_dụng dịch_vụ ; 
+
+b ) Giải_quyết hoặc trả_lời các khiếu_nại , yêu_cầu tra soát của khách_hàng ; 
+
+c ) Bồi_thường thiệt_hại cho khách_hàng do lỗi kỹ_thuật của hệ_thống , lỗi để lộ thông_tin khách_hàng và các lỗi khác của tổ_chức cung_ứng dịch_vụ ; 
+
+d ) Phối_hợp với khách_hàng thực_hiện kiểm_tra , đối soát dữ_liệu giao_dịch hàng ngày ; 
+
+đ ) Cung_cấp đầy_đủ thông_tin định_kỳ , đột_xuất về các giao_dịch thông_qua hệ_thống của tổ_chức cung_ứng dịch_vụ khi có yêu_cầu của khách_hàng ; 
+
+e ) Công_bố các loại phí và mức phí cho khách_hàng trước khi khách_hàng sử_dụng dịch_vụ . 
+
+2 . Phối_hợp với khách_hàng và các đối_tác thực_hiện các biện_pháp quản_lý rủi_ro , bảo_đảm an_toàn , bảo_mật khi sử_dụng , cung_ứng dịch_vụ . 
+
+3 . Các nghĩa_vụ khác theo hợp_đồng với ngân_hàng , khách_hàng và đối_tác . 
+
+Điều 12 .  Quyền của tổ_chức cung_ứng dịch_vụ hỗ_trợ dịch_vụ thanh_toán 
+
+1 . Quy_định điều_kiện sử_dụng dịch_vụ ;  yêu_cầu khách_hàng cung_cấp đầy_đủ và chính_xác thông_tin có liên_quan khi sử_dụng dịch_vụ và trong quá_trình sử_dụng dịch_vụ ;  từ_chối , chấm_dứt cung_cấp dịch_vụ khi khách_hàng không đáp_ứng đầy_đủ các điều_kiện để sử_dụng dịch_vụ , không tuân_thủ quy_định của tổ_chức cung_ứng dịch_vụ hoặc vi_phạm các thỏa_thuận khác . 
+
+4 . Lựa_chọn ngân_hàng , các tổ_chức khác để ký_kết_hợp_đồng cung_ứng , phát_triển dịch_vụ trên cơ_sở đảm_bảo an_toàn , hiệu_quả và phù_hợp với nội_dung Giấy_phép và quy_định của pháp_luật . 
+
+Điều 13 .  Trách_nhiệm của tổ_chức cung_ứng dịch_vụ hỗ_trợ dịch_vụ thanh_toán 
+
+1 . Đối_với khách_hàng sử_dụng dịch_vụ : 
+
+a ) Quy_định và thông_báo các điều_khoản và điều_kiện về việc sử_dụng dịch_vụ qua các kênh thích_hợp ( trang thông_tin điện_tử của tổ_chức cung_ứng dịch_vụ , tờ_rơi và mẫu hợp_đồng/mẫu đăng_ký sử_dụng dịch_vụ ... ) .  Tổ_chức cung_ứng dịch_vụ và/hoặc phối_hợp với ngân_hàng phải thỏa_thuận với khách_hàng các vấn_đề sau đây trước khi sử_dụng dịch_vụ : 
+
+- Các hình_thức thanh_toán ; 
+
+- Các loại phí và lệ_phí ; 
+
+- Mẫu bảng kê chi_tiết giao_dịch , thông_báo số_dư cung_cấp cho khách_hàng trong quá_trình sử_dụng dịch_vụ ; 
+
+- Thủ_tục trình_báo về việc tổn_thất , mất_mát khi sử_dụng dịch_vụ , quy_trình khiếu_nại bao_gồm địa_điểm , thời_gian và cách_thức xử_lý khiếu_nại ; 
+
+- Chính_sách hoàn_trả tiền bao_gồm điều_kiện , thủ_tục , thời_gian và chi_phí hoàn_trả ; 
+
+- Quyền và trách_nhiệm của khách_hàng ; 
+
+- Nghĩa_vụ của khách_hàng trong các trường_hợp xảy ra sự_cố , tổn_thất , mất_mát và các giao_dịch lừa_đảo ; 
+
+- Địa_chỉ , số điện_thoại liên_hệ của tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán ; 
+
+b ) Hướng_dẫn khách_hàng cách_thức sử_dụng dịch_vụ ; 
+
+c ) Kiểm_tra , xác_thực , cập_nhật đầy_đủ và chính_xác thông_tin khách_hàng đăng_ký sử_dụng dịch_vụ ; 
+
+d ) Giải_quyết hoặc trả_lời các khiếu_nại , yêu_cầu tra soát của khách_hàng ; 
+
+đ ) Bồi_thường thiệt_hại cho khách_hàng do lỗi kỹ_thuật của hệ_thống , lỗi để lộ thông_tin khách_hàng và các lỗi khác của tổ_chức cung_ứng dịch_vụ ; 
+
+e ) Đối_với dịch_vụ Ví điện_tử , tổ_chức cung_ứng dịch_vụ có trách_nhiệm yêu_cầu khách_hàng phải có tài_khoản thanh_toán mở tại ngân_hàng trước khi sử_dụng dịch_vụ ;  cung_cấp đầy_đủ thông_tin định_kỳ , đột_xuất về các giao_dịch thanh_toán , số_dư , hạn_mức liên_quan đến việc sử_dụng dịch_vụ khi có yêu_cầu của khách_hàng . 
+
+2 . Đối_với ngân_hàng : 
+
+a ) Đáp_ứng đầy_đủ , kịp_thời các nghĩa_vụ phát_sinh đối_với các giao_dịch sử_dụng dịch_vụ theo thỏa_thuận giữa tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán với ngân_hàng và phù_hợp với các quy_định pháp_luật ; 
+
+b ) Phối_hợp với ngân_hàng để kiểm_tra , xác_thực , cập_nhật đầy_đủ và chính_xác thông_tin khách_hàng đăng_ký sử_dụng dịch_vụ ; 
+
+c ) Phối_hợp với ngân_hàng và các đối_tác thực_hiện kiểm_tra , đối soát dữ_liệu giao_dịch hàng ngày . 
+
+3 . Tổ_chức cung_ứng dịch_vụ phải thỏa_thuận bằng văn_bản với các ngân_hàng , các đối_tác về các điều_khoản khi hợp_tác cung_ứng dịch_vụ , yêu_cầu đơn_vị chấp_nhận thanh_toán cam_kết không được thu thêm các loại phí đối_với khách_hàng khi thanh_toán thông_qua dịch_vụ trung_gian thanh_toán dưới bất_kỳ hình_thức nào .  Trường_hợp đơn_vị chấp_nhận thanh_toán không tuân_thủ cam_kết , tổ_chức cung_ứng dịch_vụ có trách_nhiệm chấm_dứt hợp_đồng và yêu_cầu đơn_vị chấp_nhận thanh_toán bồi_thường thiệt_hại cho khách_hàng hoặc áp_dụng các biện_pháp thích_hợp khác theo các điều_khoản cam_kết giữa các bên . 
+
+4 . Thực_hiện các biện_pháp quản_lý rủi_ro , đảm_bảo an_toàn , bảo_mật cho việc cung_cấp dịch_vụ . 
+
+5 . Các nghĩa_vụ khác theo hợp_đồng với ngân_hàng , khách_hàng và đối_tác . 
+
+Điều 14 .  Quyền của ngân_hàng 
+
+1 . Lựa_chọn tổ_chức không phải là ngân_hàng để hợp_tác , thử_nghiệm kỹ_thuật một hoặc một_số dịch_vụ trung_gian thanh_toán . 
+
+2 . Ký_kết_hợp_đồng sử_dụng dịch_vụ cung_ứng_hạ_tầng thanh_toán điện_tử và/hoặc hợp_tác triển_khai cung_cấp dịch_vụ hỗ_trợ dịch_vụ thanh_toán với các tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán . 
+
+3 . Được yêu_cầu các tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán cung_cấp các thông_tin cần_thiết liên_quan đến các giao_dịch thanh_toán thông_qua dịch_vụ trung_gian thanh_toán . 
+
+4 . Các quyền khác theo hợp_đồng và các thỏa_thuận cung_cấp dịch_vụ cho tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán . 
+
+Điều 15 .  Trách_nhiệm của ngân_hàng 
+
+1 . Chỉ hợp_tác cung_ứng dịch_vụ trung_gian thanh_toán với các tổ_chức không phải là ngân_hàng được Ngân_hàng Nhà_nước cấp Giấy_phép . 
+
+2 . Phối_hợp với tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán thực_hiện kiểm_tra , đối soát dữ_liệu giao_dịch hàng ngày . 
+
+3 . Thực_hiện việc thanh_toán các giao_dịch thanh_toán cho các bên liên_quan theo quy_định của Ngân_hàng Nhà_nước và hợp_đồng hợp_tác cung_cấp dịch_vụ cho tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán . 
+
+4 . Quản_lý_số_dư tài_khoản đảm_bảo thanh_toán của các tổ_chức cung_ứng dịch_vụ hỗ_trợ dịch_vụ thanh_toán theo đúng hợp_đồng hợp_tác ký_kết với các tổ_chức cung_ứng dịch_vụ hỗ_trợ dịch_vụ thanh_toán và quy_định tại Thông_tư này . 
+
+5 . Phối_hợp với tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán để kiểm_tra , xác_thực , cập_nhật đầy_đủ và chính_xác thông_tin khách_hàng đăng_ký sử_dụng dịch_vụ hỗ_trợ dịch_vụ thanh_toán . 
+
+6 . Phối_hợp với tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán hướng_dẫn các biện_pháp , quy_trình kỹ_thuật nghiệp_vụ và bảo_mật trong thanh_toán thông_qua dịch_vụ trung_gian thanh_toán đối_với đơn_vị chấp_nhận thanh_toán và khách_hàng sử_dụng dịch_vụ trung_gian thanh_toán .  Ngân_hàng phải chịu trách_nhiệm bồi_thường thiệt_hại cho khách_hàng và các bên liên_quan do lỗi của ngân_hàng không thực_hiện đúng quy_định này . 
+
+7 . Phối_hợp cùng tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán xây_dựng quy_trình và thủ_tục giải_quyết khiếu_nại của khách_hàng liên_quan tới các giao_dịch thanh_toán thông_qua dịch_vụ trung_gian thanh_toán . 
+
+8 . Các nghĩa_vụ khác theo hợp_đồng với tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán , đơn_vị chấp_nhận thanh_toán , khách_hàng . 
+
+Điều 16 .  Báo_cáo , cung_cấp thông_tin 
+
+1 . Tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán thực_hiện báo_cáo Ngân_hàng Nhà_nước ( qua Vụ Thanh_toán ) định_kỳ hàng quý , năm theo các nội_dung được yêu_cầu tại Phụ_lục số 02 ban_hành kèm theo Thông_tư này .  Thời_hạn nộp báo_cáo định_kỳ chậm nhất là ngày 05 của tháng đầu_tiên quý tiếp_theo đối_với báo_cáo quý và ngày 15 tháng 01 của năm tiếp_theo đối_với báo_cáo năm . 
+
+2 . Tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán và các ngân_hàng có trách_nhiệm báo_cáo Ngân_hàng Nhà_nước các thông_tin liên_quan tới giao_dịch trung_gian thanh_toán trong các trường_hợp sau : 
+
+a ) Theo yêu_cầu cụ_thể của Ngân_hàng Nhà_nước để phục_vụ cho mục_tiêu quản_lý nhà_nước ; 
+
+b ) Khi có phát_sinh diễn_biến bất_thường trong hoạt_động có_thể làm ảnh_hưởng đến tình_hình hoạt_động của tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán và các ngân_hàng hoặc của tổ_chức , cá_nhân có liên_quan khác ; 
+
+c ) Khi phát_sinh_sự_cố gây gián_đoạn hoạt_động thanh_toán thông_qua dịch_vụ trung_gian thanh_toán . 
+
+3 . Tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán , ngân_hàng có trách_nhiệm giữ bí_mật các thông_tin liên_quan đến giao_dịch thanh_toán thông_qua dịch_vụ trung_gian thanh_toán , thông_tin cá_nhân của khách_hàng , tài_khoản thanh_toán của khách_hàng và chỉ được cung_cấp thông_tin trong các trường_hợp sau : 
+
+a ) Theo yêu_cầu của khách_hàng ; 
+
+b ) Theo quy_định của pháp_luật . 
+
+Điều 17 .  Xử_lý vi_phạm 
+
+Tổ_chức , cá_nhân vi_phạm các quy_định tại Thông_tư này thì tùy theo tính_chất và mức_độ vi_phạm sẽ bị xử_lý vi_phạm hành_chính , trường_hợp nghiêm_trọng thì bị truy_cứu trách_nhiệm hình_sự ;  nếu gây thiệt_hại thì phải bồi_thường theo quy_định của pháp_luật . 
+
+Điều 18 .  Vụ Thanh_toán 
+
+1 . Làm_đầu_mối tiếp_nhận và phối_hợp với các đơn_vị có liên_quan thẩm_định hồ_sơ đề_nghị cấp Giấy_phép . 
+
+2 . Trong thời_hạn 15 ngày làm_việc kể từ ngày nhận được đầy_đủ hồ_sơ theo quy_định tại khoản 2 Điều 16 <NĐ rel="Reference"> Nghị_định số 101/2012/NĐ-CP </NĐ> , Vụ Thanh_toán có trách_nhiệm xem_xét và gửi hồ_sơ cho các Vụ , Cục , đơn_vị có liên_quan thuộc Ngân_hàng Nhà_nước để tham_gia ý_kiến .
+3 . Tổng_hợp ý_kiến từ các đơn_vị liên_quan , thẩm_định hồ_sơ và trình Thống_đốc Ngân_hàng Nhà_nước quyết_định cấp hoặc từ_chối việc cấp Giấy_phép . 
+
+4 . Làm_đầu_mối trình Thống_đốc Ngân_hàng Nhà_nước trong việc xử_lý các vấn_đề liên_quan về cấp , thu_hồi và cấp lại Giấy_phép . 
+
+5 . Làm_đầu_mối tiếp_nhận báo_cáo về việc thực_hiện dịch_vụ trung_gian thanh_toán của các tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán và các ngân_hàng . 
+
+6 . Theo_dõi và làm đầu_mối tham_mưu cho Thống_đốc Ngân_hàng Nhà_nước trong việc quản_lý , giám_sát hoạt_động cung_ứng dịch_vụ trung_gian thanh_toán của các tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán . 
+
+Điều 19 .  Cục Công_nghệ tin_học 
+
+1 . Trong thời_hạn tối_đa 15 ngày làm_việc kể từ ngày nhận được văn_bản đề_nghị của Vụ Thanh_toán , Cục Công_nghệ tin_học có trách_nhiệm xem_xét , đánh_giá và có văn_bản gửi về Vụ Thanh_toán xác_nhận các điều_kiện về mặt kỹ_thuật , giải_pháp công_nghệ , khả_năng về an_toàn bảo_mật , đội_ngũ cán_bộ kỹ_thuật đảm_bảo thực_hiện dịch_vụ trung_gian thanh_toán của tổ_chức xin cấp Giấy_phép . 
+
+2 . Phối_hợp với Vụ Thanh_toán kiểm_tra việc tuân_thủ các quy_định về an_toàn , bảo_mật và quản_lý rủi_ro trong giao_dịch điện_tử của tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán . 
+
+Điều 20 .  Cơ_quan Thanh_tra , giám_sát ngân_hàng 
+
+Thực_hiện thanh_tra , kiểm_tra , giám_sát các tổ_chức , cá_nhân có liên_quan trong việc thực_hiện Thông_tư này . 
+
+Điều 21 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 3 năm 2015 . 
+
+Điều 22 .  Điều_khoản chuyển_tiếp 
+
+Kể từ ngày Thông_tư này có hiệu_lực thi_hành , các tổ_chức không phải là ngân_hàng đã được Ngân_hàng Nhà_nước cho phép thực_hiện thí_điểm cung_ứng một hoặc một_số dịch_vụ trung_gian thanh_toán được quy_định tại Điều 2 Thông_tư này có trách_nhiệm hoàn_thiện thủ_tục và gửi hồ_sơ đề_nghị cấp Giấy_phép theo quy_định tại Điều 5 Thông_tư này đến Ngân_hàng Nhà_nước để xem_xét cấp Giấy_phép . 
+
+Sau 09 tháng kể từ ngày Thông_tư này có hiệu_lực thi_hành , các văn_bản của Ngân_hàng Nhà_nước về việc cho phép các tổ_chức không phải là ngân_hàng thực_hiện thí_điểm cung_ứng dịch_vụ thanh_toán , dịch_vụ trung_gian thanh_toán sẽ hết hiệu_lực . 
+
+Điều 23 .  Trách_nhiệm thi_hành 
+
+Chánh_Văn_phòng , Vụ_trưởng Vụ Thanh_toán và Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước ;  Giám_đốc Ngân_hàng Nhà_nước Chi_nhánh các tỉnh , thành_phố trực_thuộc trung_ương , Chủ_tịch Hội_đồng quản_trị ( Hội_đồng thành_viên ) , Tổng_Giám_đốc ( Giám_đốc ) các tổ_chức cung_ứng dịch_vụ thanh_toán , các tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán chịu trách_nhiệm tổ_chức thi_hành Thông_tư này ./. 

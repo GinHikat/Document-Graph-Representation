@@ -1,0 +1,532 @@
+Thông tư Hướng dẫn công tác thiết kế, thi công và nghiệm thu cầu treo dân sinh
+
+Căn_cứ <L rel="Pursuant"> Luật Xây_dựng năm 2003 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 15/2013/NĐ-CP ngày 06 tháng 02 năm 2013 </NĐ> của Chính_phủ về quản_lý chất_lượng công_trình xây_dựng ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này hướng_dẫn công_tác thiết_kế , thi_công và nghiệm_thu cầu_treo dân_sinh trên đường giao_thông nông_thôn . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với các tổ_chức , cá_nhân trực_tiếp tham_gia hoặc có liên_quan đến hoạt_động thiết_kế , thi_công và nghiệm_thu cầu_treo dân_sinh trên đường nông_thôn . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Đường giao_thông nông_thôn bao_gồm các đường_trục xã , đường liên_xã , đường_trục thôn , đường ngõ xóm và các điểm dân_cư tương_đương , đường_trục chính nội_đồng . 
+
+2 . Cầu_treo dân_sinh là loại cầu_treo dây võng có một nhịp nằm trên đường giao_thông nông_thôn ;  có khổ cầu không lớn hơn 2,0 m ;  dành cho người đi bộ , gia_súc , ngựa thồ , xe_đạp , xe mô_tô , xe_gắn_máy , xe thô_sơ khác . 
+
+3 . Hệ_thống cáp chủ bao_gồm hai cáp chủ , mỗi cáp chủ có_thể gồm một hoặc nhiều bó cáp thép cùng chịu lực , được chế_tạo theo Tiêu_chuẩn cáp sợi thép ASTM A603 .  Các cáp chủ được kéo từ mố neo này vắt qua hai đỉnh tháp sang mố neo kia của cầu . 
+
+4 . Hệ_thống dây treo bao_gồm các cấu_kiện bằng cáp hoặc thanh thép phân_bố dọc theo chiều dài dầm cầu để liên_kết hệ dầm cầu vào cáp chủ . 
+
+5 . Các phụ_kiện của cáp bao_gồm các chi_tiết như đầu neo , kẹp cáp ( má ôm cáp ) , lớp bảo_vệ cáp và các chi_tiết cơ_khí khác . 
+
+6 . Hệ_thống neo bao_gồm các kết_cấu đỡ và neo cáp chủ như yên chủ tại đỉnh tháp , yên loe ( yên chuyển_hướng ) và thanh neo ( tăng-đơ ) tại mố neo . 
+
+7 . Tao_cáp là tổ_hợp các sợi thép cường_độ cao song_song hoặc bện xoắn được chế_tạo sẵn theo Tiêu_chuẩn ASTM A603 , là thành_phần cơ_bản để chế_tạo cáp chủ và dây treo . 
+
+8 . Mố neo là kết_cấu khối lớn bằng bê_tông cốt thép và đá xây có phần chìm trong đất để tạo ra trọng_lượng và áp_lực bị_động phía trước khối neo đủ khả_năng làm đối_trọng neo giữ cáp chủ . 
+
+9 . Tháp cầu là kết_cấu có nhiệm_vụ đỡ cáp chủ trên đỉnh cột tháp .  Tháp_cầu được xây_dựng theo dạng khung cổng bằng thép hay bê_tông cốt thép ( BTCT ) bên trên mố hoặc trụ bờ . 
+
+10 .  Khổ_cầu ( B1 ) là khoảng trống giữa hai gờ chắn bánh ( bằng gỗ hoặc bằng thép ) dành cho người và xe qua cầu , đơn_vị đo là mét . 
+
+11 .  Chiều rộng cầu ( B ) là khoảng_cách giữa tim 2 dây treo theo phương ngang cầu tại vị_trí liên_kết với dầm ngang , đơn_vị đo là mét . 
+
+12 .  Đường tên cáp chủ ( f ) là độ chênh cao giữa cao_độ điểm giữa của đường nối 2 đỉnh tháp theo phương dọc cầu và cao_độ của cáp chủ tại vị_trí giữa nhịp cầu , đơn_vị đo là mét . 
+
+13 .  Chiều dài nhịp cầu ( L ) là khoảng_cách giữa hai tim tháp cầu theo phương dọc cầu , đơn_vị đo bằng mét . 
+
+14 .  Các chữ_viết tắt 
+
+- MNCNLS Mực nước cao nhất lịch_sử . 
+
+- MNTNLS Mực nước thấp nhất lịch_sử . 
+
+Điều 4 .  Yêu_cầu chung về thiết_kế cầu_treo dân_sinh 
+
+1 . Cầu_treo dân_sinh được phân làm 3 loại ( loại I , II , III ) tùy theo lưu_lượng giao_thông_qua cầu , được quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này .  Các chi_tiết và bộ_phận chính của cầu_treo dân_sinh bao_gồm : cáp chủ , tháp cầu , mố ( Trụ bờ ) , hệ mặt_cầu , mố neo , hệ_thống dây treo ( chi_tiết tại hình 1 của Phụ_lục II ban_hành kèm theo Thông_tư này ) . 
+
+2 . Tuổi_thọ thiết_kế của cầu_treo dân_sinh tối_thiểu là 25 năm . 
+
+3 . Các cầu_treo dân_sinh loại I và loại II có_thể cho xe thô_sơ súc_vật kéo lưu_thông_qua cầu nhưng chỉ cho phép xe lưu_thông theo một_chiều , qua cầu từng chiếc một và phải có biển cảnh_báo , đảm_bảo tầm nhìn khi xe ra , vào_cầu . 
+
+Khi dự_kiến xây_dựng cầu_treo dân_sinh loại I và loại II , phải so_sánh với các phương_án cầu dây văng , cầu cứng để chọn được phương_án kinh_tế nhất , xét cả về chi_phí duy_tu , bảo_dưỡng trong thời_gian tuổi_thọ thiết_kế của cầu . 
+
+4 . Để cung_cấp các số_liệu cho thiết_kế cầu_treo dân_sinh , phải tiến_hành điều_tra_khảo_sát theo quy_định tại Phụ_lục III ban_hành kèm theo Thông_tư này và các quy_định khác của pháp_luật có liên_quan . 
+
+5 . Khi thiết_kế các bộ_phận kết_cấu và nền_móng của cầu_treo dân_sinh , phải tuân theo các quy_định chung của Tiêu_chuẩn 22TCN 272-05 về lý_thuyết tính_toán theo các trạng_thái giới_hạn , các nội_dung tính_toán kết_cấu và nền_móng , các yêu_cầu về địa_chất , thủy_lực và thủy_văn , các yêu_cầu an_toàn kết_cấu và phương_tiện .  Riêng đối_với tải_trọng của cầu_treo dân_sinh thì thực_hiện theo quy_định tại Điều 8 của Thông_tư này . 
+
+6 . Đối_với các chi_tiết cơ_khí bằng thép bao_gồm các tăng-đơ và phụ_kiện , các liên_kết giữ cáp , nối cáp với cáp và nối cáp với các dầm thép hay cấu_kiện gỗ , phải tuân_thủ các yêu_cầu thiết_kế quy_định tại Phần 6 “ Kết_cấu thép ” của Tiêu_chuẩn 22TCN 272-05 .  Các chi_tiết thép khác phải được thiết_kế và chế_tạo như sản_phẩm công_nghiệp chuyên_dụng và phải đảm_bảo mức_độ an_toàn phù_hợp với các bộ_phận chịu lực chủ_yếu của cầu , có_thể tham_khảo các Tiêu_chuẩn cơ_khí chế_tạo về thiết_kế , gia_công và nghiệm_thu kết_cấu thép hiện_hành . 
+
+7 . Hệ_thống mố neo và các chi_tiết thép hay cáp để nối neo với cáp chủ chịu lực của cầu phải được thiết_kế biện_pháp bảo_vệ chống ăn_mòn đủ mức bảo_đảm tuổi_thọ thiết_kế của cầu trong điều_kiện bảo_trì bình_thường theo quy_định trong Quy_trình bảo_trì cầu . 
+
+8 . Khuyến_khích áp_dụng các thiết_kế kết_cấu nhịp cầu_treo dân_sinh điển_hình đã được Bộ Giao_thông vận_tải phê_duyệt để đảm_bảo chất_lượng thiết_kế kết_cấu nhịp và giảm_giá_thành công_trình .  Phần kết_cấu mố , trụ , móng được thiết_kế theo điều_kiện cụ_thể về địa_hình , địa_chất , thủy_văn , của vị_trí xây_dựng cầu . 
+
+9 . Cầu_treo dân_sinh kiểu dây võng phù_hợp với điều_kiện địa_chất tốt , hai bờ sông , suối cao , sông , suối có lũ lớn về mùa lũ mà việc xây_dựng trụ giữa sông , suối khó_khăn .  Trong điều_kiện địa_chất yếu và khu_vực đồng_bằng , phải so_sánh phương_án sơ_đồ cầu_treo dây võng với sơ_đồ cầu dây văng và các dạng kết_cấu nhịp cầu khác để lựa_chọn . 
+
+10 .  Một_số quy_định cấu_tạo chung 
+
+a ) Trắc dọc mặt_cầu ( ở điều_kiện không có hoạt tải ) có độ vồng theo đường_cong đứng lồi . 
+
+b ) Các dây treo đỡ kết_cấu dầm , mặt_cầu có chiều dài thay_đổi phù_hợp với độ võng của cáp chủ dọc theo chiều dài dầm cầu . 
+
+c ) Các tháp cầu cần bố_trí các giằng ngang để giữ ổn_định .  Hai tháp cầu nên cao bằng nhau và có cấu_tạo giống nhau .  Tháp_cầu có_thể được làm bằng bê_tông cốt thép hoặc tổ_hợp thép hình , có hoặc không có cấu_tạo chốt ở chân cột .  Trường_hợp cá_biệt có_lý_do hợp_lý về kinh_tế-kỹ_thuật , có_thể làm hai tháp cầu có chiều cao khác nhau . 
+
+d ) Ngoài hệ_thống cáp chủ , phải bố_trí các dây neo chống dao_động dọc và dao_động ngang cho hệ dầm mặt_cầu .  Các nhịp cầu nhỏ hơn 50 m có_thể không cần bố_trí hệ dây neo chống dao_động ngang . 
+
+đ ) Với các nhịp lớn hơn 50 m hoặc cầu có tỷ_số chiều rộng cầu ( B ) trên chiều dài nhịp cầu ( L ) ( B/L < 1/25 ) phải bố_trí hệ dây neo chống dao_động ngang để giữ ổn_định . 
+
+11 .  Phải có Hồ_sơ thiết_kế theo quy_định tại Phụ_lục IV ban_hành kèm theo Thông_tư này .  Hồ_sơ thiết_kế phải được lưu_trữ theo quy_định của pháp_luật về lưu_trữ . 
+
+Điều 5 .  Chọn vị_trí cầu_treo dân_sinh 
+
+1 . Sự phù_hợp với quy_hoạch đường thôn_xóm hoặc đường_mòn sẵn với mục_đích phát_triển kinh_tế-xã_hội , các chỉ_tiêu xây_dựng , các điều_kiện địa_hình , địa_chất , thủy_văn nhằm xác_định phương_án cầu hợp_lý , có xét đến sự phát_triển của giao_thông trong tương_lai , ưu_tiên giao_thông an_toàn trong mùa mưa_lũ . 
+
+2 . Ưu_tiên chọn vị_trí cầu ở chỗ địa_hình dòng sông , suối thẳng , lòng_sông , suối hẹp nhất , dòng_chảy song_song hai bên bờ , luồng_lạch ổn_định . 
+
+3 . Ưu_tiên chọn tuyến tim cầu vuông_góc với dòng_chảy . 
+
+4 . Cầu ở miền núi không đặt ở thượng_lưu_thác , trường_hợp cần_thiết phải cách xa thác ít_nhất 2 km . 
+
+5 . Cầu không đặt ở vị_trí gần các công_trình đã có ở hai bên bờ sông như bến cảng , đường_dây tải_điện , công_trình thủy_lợi .  Trường_hợp bắt_buộc , Chủ đầu_tư phải thống_nhất với các cơ_quan liên_quan để di_dời vị_trí của công_trình nào ít quan_trọng hơn . 
+
+6 . Chọn vị_trí cầu căn_cứ vào MNCNLS , tránh chỗ xói_lở hoặc bồi nhiều .  Không chọn vị_trí cầu ở quá gần hạ_lưu hay thượng_lưu của các hợp_lưu sông .  MNCNLS được lấy theo điều_tra_khảo_sát thực_tế . 
+
+7 . Vị_trí đặt móng trụ ( mố ) chọn ở nơi không có hiện_tượng sạt_lở , không có nước_ngầm . 
+
+8 . Không bố_trí cầu_treo dân_sinh trong phạm_vi 1 km tính từ khu_vực có đập thủy_điện . 
+
+Điều 6 .  Các nguyên_tắc chung 
+
+1 . Phải điều_tra thu_thập đầy_đủ các số_liệu khảo_sát như địa_hình , địa_chất , khí_hậu , thủy_văn , nhu_cầu hoạt tải , đặc_trưng cơ lý của vật_liệu .  . . theo các tiêu_chuẩn hiện_hành trước khi tiến_hành công_tác thiết_kế . 
+
+2 . Các kết_cấu , cấu_kiện chế_tạo sẵn ( gồm cả các bộ_phận cơ_khí như tăng-đơ , cóc bắt dây_cáp , vòng liên_kết_nối cáp với các dây treo hoặc với kết_cấu mặt_cầu ... ) , nền_móng của công_trình cầu_treo dân_sinh được tính_toán theo các trạng_thái giới_hạn quy_định trong Tiêu_chuẩn 22TCN 272-05 . 
+
+a ) Trạng_thái giới_hạn cường_độ : Trạng_thái giới_hạn do mất khả_năng chịu_tải hoặc do không sử_dụng được .  Việc tính_toán nhằm đảm_bảo cường_độ và độ ổn_định cần_thiết của kết_cấu để ngăn_ngừa các hiện_tượng : mất ổn_định chung về hình_dạng , mất ổn_định về vị_trí ( chống trượt , chống lật , chống trồi lên ... ) phá_hoại đồng_nhất , ngăn_ngừa phá_hoại mới ( khi kết_cấu chịu tác_động của tải_trọng tác_động trùng_lặp ) , ngăn_ngừa phá_hoại dưới tác_động đồng_thời của các yếu_tố lực và ảnh_hưởng bất_lợi của môi_trường bên ngoài ( môi_trường xâm_thực , ... ) . 
+
+b ) Trạng_thái giới_hạn sử_dụng : Trạng_thái giới_hạn do công_trình không tiếp_tục sử_dụng bình_thường được .  Việc tính_toán nhằm ngăn_ngừa sự hình_thành các vết nút của kết_cấu BTCT hoặc hạn_chế sự mở_rộng quá mức hoặc lâu_dài của các vết nứt đó , ngăn_ngừa các chuyển vị quá mức của các bộ_phận kết_cấu , đặc_biệt là tháp cầu và dầm chủ ( về độ võng , góc xoay , dao_động ) . 
+
+c ) Không xét trạng_thái giới_hạn đặc_biệt đối_với cầu_treo dân_sinh . 
+
+3 . Phải tính_toán về tác_dụng động_lực_học của gió đối_với cầu_treo dân_sinh khi tỷ_số B/L < 1/25 . 
+
+4 . Phải bố_trí dây neo chống dao_động ngang cho cầu_treo dân_sinh khi tỷ_số B/L < 1/25 . 
+
+5 . Tùy theo yêu_cầu ổn_định chống dao_động ngang tính_toán , phải bố_trí dây neo chống dao_động ngang .  Trong trường_hợp đơn_giản , dây neo chống dao_động ngang có_thể chỉ là các cốt thép tròn có đường_kính từ 8 đến 12 mm ( d = 8-12 mm ) đặt ở cao_độ bên dưới kết_cấu mặt_cầu và được kéo căng rồi neo lại ở chân cột tháp .  Trường_hợp tốt hơn là bố_trí 2 tao_cáp thép căng cong đối_xứng nhau theo phương nằm ngang ở hai phía thượng_lưu và hạ_lưu cầu và liên_kết vào các đầu dầm ngang của hệ mặt_cầu .  Khi đó cao_độ thấp nhất ( ở vị_trí neo ) của 2 dây neo phải cao hơn mức_nước cao nhất lịch_sử . 
+
+Điều 7 .  Yêu_cầu vật_liệu và cấu_kiện 
+
+1 . Các đặc_trưng cơ lý của vật_liệu làm các bộ_phận cầu , kể_cả cáp thép phải tuân theo quy_định trong Tiêu_chuẩn 22TCN 272-05 . 
+
+2 . Đối_với cáp thép còn phải theo Tiêu_chuẩn ASTM A603 .  Cáp chủ phải là cáp có lõi thép . 
+
+3 . Đối_với các chi_tiết cơ_khí như tăng-đơ , neo , má ôm cáp phải tuân theo quy_định tại khoản 6 Điều 4 của Thông_tư này . 
+
+Điều 8 .  Tải_trọng và tác_động 
+
+1 . Phân_loại tải_trọng thiết_kế và các quy_định về tĩnh tải thực_hiện theo Tiêu_chuẩn 22TCN 272-05 . 
+
+2 . Hoạt tải xe thô_sơ và người 
+
+a ) Đối_với cầu_treo dân_sinh , xét tải_trọng đoàn người đi bộ rải đều trên đơn_vị diện_tích mặt_cầu là 3 kN/m2 ( 300KG/m2 ) , có kiểm_toán với 1 tải_trọng tập_trung_đại_diện cho xe_máy ( không xét xung_kích ) là 5 kn ( 500KG ) . 
+
+b ) Hệ_số tải_trọng của xe và người lấy bằng 1,75 ;  không xét tác_động xung_kích của hoạt tải người và phương_tiện thô_sơ . 
+
+c ) Tải_trọng_gió : tải_trọng tác_dụng tĩnh của gió là tải_trọng rải đều và tùy theo vận_tốc gió thiết_kế của khu_vực cầu .  Vận_tốc gió thiết_kế theo quy_định của Quy_chuẩn kỹ_thuật QCVN 02 : 2009/BXD với các vùng và địa_hình tương_ứng với khu_vực xây_dựng cầu . 
+
+Tác_dụng động_học của gió đối_với cầu_treo dân_sinh phải được xét như một bài_toán riêng về khí động_học cầu dây . 
+
+d ) Áp_lực đất : Áp_lực đất chủ_động và bị_động tuân_thủ theo Tiêu_chuẩn 22TCN 272-05 . 
+
+đ ) Tải_trọng tác_dụng lên lan_can bao_gồm tĩnh tải bản_thân lan_can cộng với lực rải đều dọc cầu : theo phương thẳng_đứng là 0,5 kN/m ;  theo phương nằm ngang là 1kN/m . 
+
+e ) Ảnh_hưởng của nhiệt_độ tuân_thủ theo Tiêu_chuẩn 22TCN 272-05 . 
+
+3 . Tổ_hợp tải_trọng 
+
+Tính_toán công_trình cầu_treo dân_sinh theo các tổ_hợp tải_trọng như đã quy_định ở bảng 3.4.1-1 của Tiêu_chuẩn 22TCN 272-05 nhưng chỉ kiểm_toán Trạng_thái giới_hạn cường_độ I , II , III và Trạng_thái giới_hạn sử_dụng . 
+
+Điều 9 .  Lựa_chọn sơ_đồ cầu và bố_trí chung 
+
+1 . Áp_dụng sơ_đồ một nhịp có 2 tháp cầu bố_trí trên trụ ( mố ) tại vị_trí bờ sông , suối ổn_định , không có nguy_cơ sụt lở ở hai bờ sông , suối theo hình 2 của Phụ_lục I ban_hành kèm theo Thông_tư này . 
+
+2 . Để giảm bớt sự bồi_lắng và sạt_lở bờ sông , suối khu_vực sát cầu có_thể đưa vị_trí 2 tháp và trụ ( mố ) vào xa trong bờ .  Nếu điều_kiện thủy_văn và thủy_lực có nguy_cơ gây sạt_lở trước móng trụ ( mố ) cần bố_trí công_trình bảo_vệ mép thân móng trụ ( mố ) đủ ổn_định vững_chắc . 
+
+3 . Tỷ_lệ đường tên cáp chủ ( f )/chiều dài nhịp ( L ) phải chọn trong khoảng f/L = 1/8-1/12 . 
+
+4 . Độ vồng tương_đối của mặt_cầu sau khi thi_công xong phải đạt trị_số không nhỏ hơn 1/100 L . 
+
+5 . Hai góc nghiêng của cáp chủ tại vị_trí đỉnh tháp theo phía mố neo và nhịp dầm nên chọn bằng nhau . 
+
+6 . Để tăng ổn_định kết_cấu nhịp có_thể áp_dụng sơ_đồ cáp chủ nối sát với hệ mặt_cầu tại giữa nhịp ( không có dây treo tại đó ) . 
+
+7 . Yêu_cầu tần_số dao_động riêng của kết_cấu nhịp theo phương thẳng_đứng và phương ngang không được trùng hoặc là bội_số của nhau . 
+
+8 . Độ dốc dọc đường đầu cầu tùy theo điều_kiện cục_bộ không dốc hơn 6 % . 
+
+9 . Cao_độ đáy dầm phải cao hơn mực nước thiết_kế tối_thiểu 1m ( để tránh hiện_tượng cây trôi va vào dầm cầu trong trường_hợp xảy ra lũ lớn ) . 
+
+Điều 10 .  Phân_tích kết_cấu 
+
+Mọi phương_pháp phân_tích kết_cấu đã được quy_định trong Tiêu_chuẩn 22TCN 272-05 đều có_thể áp_dụng để phân_tích kết_cấu nhịp cầu_treo dân_sinh .  Phải tính_toán kết_cấu nhịp theo sơ_đồ biến_dạng .  Khuyến_cáo sử_dụng mô_hình phần_tử hữu_hạn và các chương_trình máy_tính thương_mại sẵn có . 
+
+Tính_toán phân_tích kết_cấu cầu_treo dân_sinh được tiến_hành cho một_số giai_đoạn thi_công và khai_thác : phân_tích trạng_thái hoàn_thiện cầu và phân_tích các trạng_thái kết_cấu trong quá_trình thi_công , khai_thác . 
+
+Điều 11 .  Trụ ( mố ) , tháp cầu và phụ_kiện 
+
+1 . Yêu_cầu cấu_tạo trụ ( mố ) và tháp_cầu 
+
+a ) Tháp_cầu được xây_dựng trên trụ hoặc mố cầu . 
+
+Trụ ( mố ) có cấu_tạo bằng bê_tông cốt thép hoặc bằng đá xây , kích_thước kết_cấu phụ_thuộc vào tính_toán ; 
+
+Tháp_cầu ( cổng cầu ) có dạng khung gồm 2 cột tháp và các liên_kết ngang giữa 2 cột , vật_liệu có_thể làm bằng thép hoặc bê_tông cốt thép . 
+
+b ) Tháp_cầu có nhiệm_vụ đỡ cáp chủ và truyền lực từ cáp chủ xuống kết_cấu trụ ( mố ) và nền_móng .  Theo phương ngang cầu , tháp cầu được cấu_tạo theo dạng khung cổng gồm 2 cột tháp và các liên_kết ngang .  Bề rộng của cột tháp theo phương ngang thường được chọn bằng 1/01/clip_image002 .  gif " width = " 76 "/> chiều cao của cột tháp . 
+
+Các tháp cầu bằng bê_tông cốt thép thường là ngàm cứng ở liên_kết chân cột tháp .  Tiết_diện cột tháp có_thể thay_đổi hoặc không thay_đổi và đều là các tiết_diện đặc .  Cáp chủ có_thể vắt qua yên đỡ cáp với hệ_thống con_lăn ở trên đỉnh tháp . 
+
+Các tháp cầu bằng thép được tổ_hợp từ thép hình hoặc bằng thép bản giằng , sử_dụng liên_kết hàn hoặc đinh_tán .  Theo phương dọc cầu , chân cột tháp có_thể được liên_kết ngàm hay khớp với trụ .  Nếu dùng liên_kết chân cột tháp là chốt thì cáp chủ khi đó được liên_kết cố_định trên đỉnh tháp cầu . 
+
+2 . Yêu_cầu về thiết_kế tháp_cầu 
+
+Tháp_cầu cũng như các bộ_phận bố_trí trên đỉnh hay chân cột tháp ( yên đỡ cáp chủ , yên đổi hướng cáp chủ , chốt chân cột tháp và các bộ_phận khác ) được thiết_kế theo quy_định đối_với kết_cấu BTCT và kết_cấu thép trong Tiêu_chuẩn 22TCN 272-05 . 
+
+Các phụ_kiện định_vị cáp như các yên ngựa , yên đổi hướng cáp được coi là các chi_tiết cơ_khí và phải được thiết_kế chế_tạo theo các tiêu_chuẩn Kết_cấu thép hiện_hành , tương_ứng với các ngoại_lực và tác_động , chuyển vị cưỡng_bức đã tính được từ sơ_đồ tính_toán chung của cầu và tháp . 
+
+3 . Yêu_cầu cấu_tạo yên đỡ cáp 
+
+Hai đầu cáp chủ được liên_kết với hệ_thống neo và được vắt qua đỉnh trụ tháp thông_qua kết_cấu yên đỡ cáp .  Tùy_thuộc kết_cấu tháp cầu là cột khớp hay cột ngàm mà cáp chủ được bắt cố_định trên yên đỡ cáp liên_kết chặt với đỉnh tháp hay cáp chủ nằm trên yên đỡ cáp của gối con_lăn trên đỉnh tháp . 
+
+Yên_đỡ cáp được tạo các đường rãnh trên để có_thể ôm khít sợi cáp ( với kiểu cáp chủ rải song_song ) hoặc bó cáp ( với kiểu cáp chủ bó thành bó ) .  Bán_kính cong của yên đỡ cáp được tính_toán trên cơ_sở sao cho không xuất_hiện ứng suất kéo quá mức cho phép ( tổng_hợp ứng suất kéo dọc trục cáp chủ và ứng suất kéo do uốn sợi cáp ) đối_với cáp chủ . 
+
+Đối_với kiểu cấu_tạo cáp chủ rải song_song , liên_kết dây treo với cáp chủ được thực_hiện thông_qua má ôm cáp , chốt ắc , bulông đeo .  Má ôm cáp được vát góc tấm để chống gãy cục_bộ của tháp tại vị_trí đó .  Với kiểu cấu_tạo cáp chủ bó thành bó , liên_kết dây đeo với cáp chủ được thực_hiện thông_qua đai bó , chốt ắc hoặc bulông ắc . 
+
+Điều 12 .  Mố neo và thiết_bị điều_chỉnh cáp chủ 
+
+1 . Yêu_cầu chung 
+
+Hệ_thống neo giữ cáp chủ gồm mố neo trọng_lực bằng BTCT chôn trong đất và các chi_tiết thép liên_kết mố neo này với cáp chủ được thiết_kế theo Tiêu_chuẩn 22TCN 272-05 . 
+
+Tùy theo điều_kiện địa_hình và địa_chất đầu cầu , có_thể thiết_kế hệ neo đào_sâu trong vách núi đá hoặc đặt mố neo BTCT chìm trong đất . 
+
+Cần_thiết_kế các chi_tiết thép phù_hợp để căng và điều_chỉnh cáp chủ ở đầu cầu và hệ_thống neo nối vào cáp chủ một_cách an_toàn .  Các chi_tiết cơ_khí của tăng-đơ và các liên_kết của cáp với các bộ_phận khác như dầm hay dây treo phải được thiết_kế đảm_bảo an_toàn chịu lực theo Tiêu_chuẩn 22TCN 272-05 . 
+
+Bản_vẽ thiết_kế các chi_tiết thép nói trên phải ghi rõ các yêu_cầu về vật_liệu , các tính_chất cơ lý vật_liệu thép , phương_pháp gia_công , độ chính_xác gia_công và phương_pháp kiểm_tra , nghiệm_thu . 
+
+2 . Các cấu_tạo điển_hình hệ_thống neo giữ cáp chủ 
+
+Neo dây_cáp chủ vào đất bằng mố neo .  Mố neo là công_trình khối lớn bằng BTCT và đá có trọng_lượng đủ nặng , chịu lực ngang và lực nhổ bật từ cáp chủ truyền đến và có cấu_tạo tương_đối đa_dạng . 
+
+Hệ neo gồm có hai bộ_phận là hố thế và mấu neo , cụ_thể : 
+
+a ) Hố_thế : dùng trọng_lượng bằng bê_tông cốt thép và đá xây để neo giữ cáp chủ .  Khi tính_toán có xét đến áp_lực đất bị_động trước hố thế và ma_sát đáy móng hố thế và đất .  Tùy theo điều_kiện đầm lèn và điều_kiện địa_chất đáy móng mà lấy trị_số áp_lực chủ_động và hệ_số ma_sát khác nhau .  Nếu hố thế nằm trong nước thì phải xét áp_lực đẩy nổi của nước . 
+
+b ) Mấu neo : Mấu neo của hố thế trọng_lực thường cấu_tạo từ thép tròn , đường_kính 30 ¸ 50mm và thép hình , được neo giữ trong bê_tông . 
+
+Phải tạo điều_kiện dễ_dàng kiểm_tra phần mấu neo ngoài bê_tông khi không_gian quá chật_hẹp , tránh tình_trạng vị_trí này thường có độ_ẩm cao gây gỉ nghiêm_trọng các mấu neo . 
+
+Điều 13 .  Cáp chủ và phụ_kiện 
+
+về cáp chủ 
+
+a ) Cáp chủ và phụ_kiện được thiết_kế theo Tiêu_chuẩn 22TCN 272-05 . 
+
+b ) Phải có biện_pháp bảo_đảm chống ăn_mòn cho cáp thép trong suốt tuổi_thọ thiết_kế của cầu .  Nếu dùng sơ_đồ cầu có cáp chủ liên_kết trực_tiếp với hệ mặt_cầu tại vị_trí giữa nhịp thì cần tăng_cường biện_pháp chống ăn_mòn cho cáp chủ tại đó . 
+
+c ) Cáp chủ được tạo bằng cáp xoắn trần_lõi cứng hoặc cáp xoắn kín lõi cứng . 
+
+d ) Các bó cáp trong hệ cáp chủ của cầu_treo dân_sinh nên đặt song_song nhau . 
+
+đ ) Hệ_số sức kháng của cáp chủ lấy bằng 0,45 đối_với các tính duyệt Trạng_thái giới_hạn cường_độ . 
+
+2 . Yêu_cầu chung đối_với phụ_kiện liên_kết của cáp chủ 
+
+a ) Phụ_kiện liên_kết cáp chủ với hệ_thống neo ( bao_gồm cả các tăng-đơ ) được coi là các chi_tiết cơ_khí , có cấu_tạo từ đơn_giản đến phức_tạp tùy theo thiết_kế cụ_thể nhưng phải đảm_bảo khả_năng chế_tạo chính_xác và có giải_pháp chống ăn_mòn để đảm_bảo tuổi_thọ thiết_kế của cầu . 
+
+b ) Nghiêm_cấm các biện_pháp_chế_tạo như thổi nhiệt tạo lỗ hoặc các biện_pháp_chế_tạo thủ_công khác . 
+
+c ) Lắp cóc_cáp và xiết cóc_cáp phải theo đúng chỉ_dẫn của bản_vẽ thiết_kế cầu .  Số_liệu về cóc_cáp theo quy_định tại Phụ_lục V_ban_hành kèm theo Thông_tư này . 
+
+Điều 14 .  Dây treo và các phụ_kiện liên_kết 
+
+1 . Dây treo có_thể làm từ các thép tròn hoặc tao_cáp tùy theo thiết_kế .  Đơn_giản nhất đối_với cầu loại III có_thể làm_bằng các thép tròn D = 14-16 mm . 
+
+2 . Phụ_kiện liên_kết hai đầu dây treo được coi là các chi_tiết cơ_khí , có cấu_tạo từ đơn_giản đến phức_tạp tùy theo thiết_kế tính_toán nhưng phải đảm_bảo khả_năng chế_tạo chính_xác và có giải_pháp chống ăn_mòn để đảm_bảo tuổi_thọ thiết_kế của cầu . 
+
+Điều 15 .  Hệ mặt_cầu 
+
+1 . Hệ mặt_cầu phải được thiết_kế thuận_lợi cho việc thoát nước , không làm đọng nước , đất trên mặt_cầu . 
+
+2 . Các bộ_phận của kết_cấu nhịp cầu phải làm bằng dầm thép hoặc giàn thép , mặt_cầu bằng thép , không dùng mặt_cầu bằng kết_cấu BTCT .  Gối_di_động của các kết_cấu nhịp thép có_thể đặt trên mố hoặc trụ . 
+
+Khuyến_cáo áp_dụng kết_cấu hệ mặt_cầu hoàn_toàn bằng thép ( dầm dọc , dầm ngang bằng thép hình , bản mặt_cầu bằng tôn thép có gân chống trơn ) .  Độ dốc ngang mặt_cầu lấy bằng 0 % . 
+
+3 . Hệ dầm dọc 
+
+a ) Hệ dầm dọc gồm hai hoặc nhiều dầm ( giàn ) dọc nối với nhau bằng các dầm ngang và nối với cáp chủ bằng các dây treo .  Dầm dọc có_thể làm bằng thép hình . 
+
+b ) Tỷ_số giữa chiều cao h của dầm và chiều dài L của nhịp phụ_thuộc vào nhiều yếu_tố và có ảnh_hưởng lớn đến độ cứng của toàn hệ . 
+
+c ) Cấu_tạo điển_hình của kiểu mặt_cầu này bao_gồm : dầm dọc sử_dụng thép hình chữ I hoặc chữ U đặt trên các dầm ngang chữ I hoặc chữ U .  Liên_kết giữa dầm dọc và dầm ngang bằng liên_kết bulông , bản cá . 
+
+4 . Lựa_chọn chiều rộng cầu 
+
+Chiều rộng cầu được chọn sao cho tỷ_số 1/01/clip_image004 .  gif " width = " 45 "/> để cầu ổn_định với gió . 
+
+5 . Mặt_cầu được làm bằng thép . 
+
+6 . Lan_can , khe biến_dạng 
+
+a ) Lan_can có_thể bằng gỗ hoặc kim_loại có cấu_tạo chắc_chắn để chịu các tải_trọng thẳng_đứng và nằm ngang .  Lan_can phải đảm_bảo kín khít đủ an_toàn không để người và trẻ_em lọt qua khe hở . 
+
+b ) Khe hở đầu dầm phù_hợp với yêu_cầu co_dãn .  Bề rộng ít_nhất 5 cm .  Kết_cấu máng khe co_dãn phải đủ độ rộng để đảm_bảo thuận_tiện cho việc kiểm_tra , sửa_chữa và vệ_sinh . 
+
+Điều 16 .  Nền_móng của trụ ( mố ) đỡ tháp_cầu 
+
+1 . Chọn loại móng , chiều sâu đặt móng cho trụ ( mố ) phải căn_cứ vào tính_toán nền đất , điều_kiện xói_lở .  Ưu_tiên xét phương_án móng nông trên nền tự_nhiên để giảm_giá_thành xây_dựng cầu . 
+
+2 . Nền_móng của công_trình được thiết_kế theo hướng_dẫn ở Phần 10 của Tiêu_chuẩn 22TCN 272-05 theo lý_thuyết các trạng_thái giới_hạn . 
+
+3 . Biện_pháp chống xói cho khu_vực móng trụ ( mố ) 
+
+a ) Khi tốc_độ dòng_chảy từ v = 1,5 m/s đến 2,0 m/s và sóng vỗ nhẹ , dùng các hình_thức gia_cố mái dốc đường vào_cầu như trồng cỏ , lát đá khan hoặc miết mạch , dùng tấm bê_tông có cọc ghim vào mái dốc hoặc các hình_thức gia_cố phù_hợp khác . 
+
+b ) Khi tốc_độ dòng_chảy lớn hơn 2,0 m/s , chiều cao của nền đắp cao hơn 8,0 m , chiều cao tự_do của thân trụ tháp ( kể từ cao_độ mặt_cầu đến mặt_đất tự_nhiên ) lớn hơn 4,0 m thì phải xây đá vữa xi_măng mác 100 để chống xói cho mái dốc của đường vào_cầu và xếp các rọ đá chống xói cho mép móng trụ tháp .  Ngoài_ra có_thể áp_dụng các biện_pháp chống xói khác . 
+
+Điều 17 .  Nối_tiếp cầu và đường 
+
+Cấu_tạo nối_tiếp cầu với đường đối_với cầu_treo dân_sinh phải đảm_bảo xe thô_sơ ra vào_cầu êm_thuận , đủ tầm nhìn . 
+
+Điều 18 .  Yêu_cầu thiết_kế các công_trình phụ_trợ 
+
+1 . Công_trình an_toàn giao_thông 
+
+Trên đường vào_cầu phải cắm cọc tiêu , biển báo_hiệu để hướng_dẫn , đảm_bảo an_toàn giao_thông . 
+
+2 . Biển_báo thực_hiện theo quy_định của <TT rel="Reference"> Thông_tư số 12/2014/TT-BGTVT ngày 29 tháng 4 năm 2014 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải hướng_dẫn quản_lý , vận_hành khai_thác cầu trên đường giao_thông nông_thôn .
+3 . Báo_hiệu đường_thủy 
+
+Đối_với các sông có thông thuyền , phải đặt các phao_tiêu , biển_báo trên sông theo Quy_chuẩn kỹ_thuật QCVN 39 : 2011/BGTVT . 
+
+Điều 19 .  Yêu_cầu chung 
+
+Công_tác thi_công cầu_treo dân_sinh ngoài việc phải tuân_thủ quy_định từ Điều 20 đến Điều 26 của Thông_tư này thì còn phải tuân theo các Tiêu_chuẩn được quy_định tại Phụ_lục VI ban_hành kèm theo Thông_tư này và các Tiêu_chuẩn hiện_hành khác có liên_quan về thi_công cầu . 
+
+Điều 20 .  Công_tác chuẩn_bị 
+
+Công_tác chuẩn_bị thi_công cầu_treo dân_sinh thực_hiện như công_tác chuẩn_bị thi_công các loại cầu thông_thường và theo hướng_dẫn của Tiêu_chuẩn TCCS 02 : 2010/TCĐBVN . 
+
+Điều 21 .  Thi_công tháp_cầu 
+
+1 . Tháp_cầu bằng BTCT tiết_diện chữ nhật thi_công đổ tại_chỗ .  Ván khuôn làm bằng gỗ hoặc ván khuôn thép . 
+
+2 . Tháp_cầu làm bằng thép được tổ_hợp từ thép hình hoặc bằng thép bản giằng , sử_dụng liên_kết hàn hoặc đinh_tán phải được chế_tạo và kiểm_tra chất_lượng trong xưởng , lắp_đặt tại công_trường theo quy_định của Tiêu_chuẩn TCCS 02 : 2010 TCĐBVN . 
+
+Điều 22 .  Thi_công trụ ( mố ) cầu , mố neo 
+
+1 . Trụ ( mố ) cầu thi_công như đối_với kết_cấu móng và mố trụ cầu thông_thường . 
+
+2 . Mố neo có phần chìm trong đất và được thi_công giống như thi_công móng thông_thường trong các hố móng đào trần .  Đối_với những chi_tiết thép và cáp nằm trong mố neo phải chú_ý các biện_pháp chống gỉ . 
+
+Điều 23 .  Thi_công rải cáp chủ và căng_cáp 
+
+1 . Chỉ_dẫn chung về rải các cáp chủ và căng_cáp 
+
+a ) Chế_tạo cáp chủ_từ các tao_cáp 
+
+Tao_cáp chủ được chế_tạo trong nhà_máy , nhập_khẩu và được đưa về công_trường trong bao_bì nguyên_dạng theo thiết_kế .  Sợi thép dùng để chế_tạo tao_cáp chủ phải tuân theo Tiêu_chuẩn 22TCN 272-05 .  Sau khi chế_tạo , các tao_cáp chủ được bảo_quản , vận_chuyển đến công_trường và lắp dựng thành cáp chủ .  Mỗi bó cáp chủ có_thể gồm một hoặc nhiều tao_cáp tùy theo thiết_kế cụ_thể của mỗi cầu . 
+
+Các tao_cáp của cáp chủ được bố_trí song_song nhau ( có kẹp định_vị cách_quãng 2-3 m ) hoặc bó thành một bó cáp lớn . 
+
+Chiều dài của từng tao_cáp phụ_thuộc vào vị_trí của tao cáp bó cáp chủ .  Mỗi tao_cáp được đánh_dấu tối_thiểu tại 5 điểm : 1 điểm ở nơi thấp nhất của cáp chủ ở nhịp giữa , 2 điểm tại yên ngựa đỉnh tháp và 2 điểm ở vị_trí neo .  Chiều dài tao_cáp và các điểm đánh_dấu phải được xác_định trước .  Khi đo , chiều dài tao_cáp ở trạng_thái không chịu lực được xác_định gián_tiếp bằng cách đo chiều dài của sợi thép ở trạng_thái kéo căng với ứng suất tối_thiểu tương_đương với ứng suất trong cáp trên cầu ở trạng_thái dây không . 
+
+Để đưa cáp chủ qua sông có_thể dùng sợi dây mồi kéo qua đỉnh trụ tháp , hoặc sức người đi bộ hay thuyền , phao phù_hợp từng điều_kiện cụ_thể và công_nghệ của Nhà_thầu . 
+
+b ) Chế_tạo dây treo 
+
+Nếu dây treo dùng các tao_cáp thì phải được chế_tạo trong nhà_máy , theo thiết_kế .  Việc chế_tạo , kiểm_tra và nghiệm_thu dây treo phải tuân_thủ Tiêu_chuẩn ASTM A603 . 
+
+Nếu dùng các thanh treo làm bằng thép tròn d = 14-16 mm , thì có_thể được chế_tạo theo thiết_kế tại xưởng hoặc ngay tại công_trường . 
+
+c ) Các yêu_cầu về kẹp cáp chủ ( má ôm cáp chủ ) 
+
+Bộ_phận kẹp cáp chủ là một chi_tiết cơ_khí , phải được chế_tạo trong xưởng cơ_khí chuyên_dụng có đủ điều_kiện đảm_bảo chất_lượng gia_công theo đúng thiết_kế . 
+
+Khi chế_tạo phải lập và thử_nghiệm công_nghệ sản_xuất cũng như tập_huấn cho tất_cả cán_bộ tham_gia_sản_xuất hiểu rõ các yêu_cầu kỹ_thuật nhằm đảm_bảo chất_lượng sản_phẩm . 
+
+Tất_cả các góc bén nhọn phải mài thành tròn . 
+
+Tất_cả các kẹp cáp đều phải dò_tìm khuyết_tật bằng siêu_âm , dán nhãn ghi rõ số_hiệu hình_dáng và đóng thành kiện . 
+
+2 . Lắp_đặt cáp 
+
+a ) Lắp_đặt bó cáp chủ 
+
+Trước khi lắp_đặt cáp chủ_từ các tao_cáp song_song chế_tạo sẵn cần tiến_hành công_tác chuẩn_bị chu_đáo như lắp dựng sàn đạo thi_công , cáp vận_chuyển , tời kéo_cáp , xe goòng dẫn hướng , khung nâng theo phương ngang .  . . 
+
+Trình_tự lắp_đặt các tao_cáp trong bó cáp chủ phải được tuân_thủ triệt_để như đã chỉ rõ trong hồ_sơ thiết_kế .  Mỗi tao_cáp được đánh_dấu tối_thiểu 5 vị_trí , các vị_trí này cũng đã được chỉ rõ trong thiết_kế và phải được kiểm_soát chặt_chẽ khi lắp dựng . 
+
+b ) Trình_tự kéo 1 tao_cáp 
+
+Trước khi kéo 1 tao_cáp , cuộn tao_cáp được đưa đến vị_trí mố neo tại một đầu cầu .  Dùng tời kéo đặt tại mố neo bên kia của cầu để kéo 1 đầu tao_cáp thông_qua hệ_thống con_lăn trên đường đầu cầu và bè phao trên sông . 
+
+Cuộn tao_cáp phải được đặt sao cho tao_cáp được kéo_theo phương dọc trục tao_cáp .  Khi kéo các tao_cáp cần dùng tời hãm tại cuộn tao_cáp để có_thể làm_chủ và kiểm_soát được quá_trình kéo .  Chú_ý khi tao_cáp sắp được kéo hết khỏi ru_lô cần giảm_tốc_độ kéo và khống_chế được đầu cáp trên ru_lô để tránh xảy ra tai_nạn . 
+
+Khi kéo đầu tao_cáp đến bờ sông đối_diện , trước khi neo tại mố neo phải giữ đầu tao_cáp này bằng hệ_thống neo giữ tạm để tao_cáp không bị trượt . 
+
+Cả hai đầu tao_cáp ở hai đầu cầu phải được neo giữ tạm tốt , đồng_thời phải sớm đưa vào neo tại mố neo . 
+
+c ) Lắp các tao_cáp thành cáp chủ 
+
+Sau khi tao_cáp đã được kéo và nằm trên hệ_thống con_lăn của sàn đạo thi_công , phải kiểm_tra trước khi chuyển tao_cáp tới vị_trí bó cáp chủ và hệ_thống neo đỡ .  Tao_cáp cũng phải được kiểm_tra và làm sạch trước khi đưa sang vị_trí neo đỡ . 
+
+Khi di_chuyển tao_cáp theo phương ngang từ các con_lăn tới vị_trí bó cáp chủ và neo đỡ , phải chú_ý chỉ sau khi toàn_bộ tao_cáp đã được nâng khỏi các con_lăn mới được di_chuyển tao_cáp . 
+
+Trước khi tiến_hành điều_chỉnh dạng hình_học của tao_cáp , đầu neo của tao_cáp được kéo vào vị_trí neo và lắp_đặt tăng-đơ . 
+
+Để kiểm_tra hình_dáng công_trình trong quá_trình thi_công , nhà_thầu phải tiến_hành tính_toán để có các số_liệu về hình_học tại các trạng_thái thi_công thực_tế với các tải_trọng và tác_động tại các trạng_thái đó như tĩnh tải , tải_trọng thi_công , nhiệt_độ , độ lệch vị_trí của yên ngựa so với trạng_thái hoàn_thành cầu . 
+
+Sau khi toàn_bộ các tao_cáp của bó cáp chủ đã được lắp_đặt vào vị_trí thì tiến_hành bó chặt cáp chủ . 
+
+Bọc bảo_vệ cáp chủ : Tiến_hành bọc bó cáp chủ tùy theo thiết_kế cụ_thể cho mỗi cầu . 
+
+3 . Các yêu_cầu về điều_chỉnh độ võng của cáp chủ 
+
+a ) Yêu_cầu chung 
+
+Chỉ tiến_hành điều_chỉnh độ võng khi nhiệt_độ ổn_định . 
+
+Khi cáp chủ gồm nhiều tao_cáp thì phải điều_chỉnh 1 cáp trước_tiên làm tao_cáp chuẩn .  Cao_trình tuyệt_đối tính_toán của tao_cáp chuẩn được xác_định ứng với nhiệt_độ môi_trường và nhiệt_độ cáp là 25 ° C .  Tại thời_điểm đo_đạc điều_chỉnh độ võng , cao_trình tuyệt_đối của tao_cáp chuẩn sẽ được tính_toán lại dựa trên nhiệt_độ môi_trường và nhiệt_độ cáp thực_tế . 
+
+Nếu cầu chỉ có 1 tao_cáp chủ thì coi đó là tao_cáp chuẩn để điều_chỉnh . 
+
+b ) Yêu_cầu kỹ_thuật về cao_độ khi điều_chỉnh độ võng tao_cáp 
+
+Chênh_lệch cao_độ 2 tao_cáp chuẩn ở thượng và hạ_lưu là ± 10 mm .  Đối_với các tao_cáp khác ( so với tao_cáp chuẩn ) các giá_trị sẽ là-5 mm và + 10 mm . 
+
+c ) Lắp_đặt kẹp cáp ( má ôm cáp ) và cáp treo 
+
+Trước khi lắp_đặt kẹp cáp , phải xác_định vị_trí cụ_thể của mỗi kẹp cáp trên bó cáp chủ và phải ghi số đánh_dấu .  Phải làm sạch các vết dầu và bụi trên bề_mặt bó cáp chủ , cũng như_sơn chúng bằng sơn chống rỉ . 
+
+Trong quá_trình vận_chuyển và lắp_đặt , phải bảo_vệ kẹp cáp và hỏng hóc . 
+
+Phương_pháp lắp_đặt kẹp cáp sẽ được cụ_thể_hóa trong quy_trình công_nghệ của nhà_thầu dựa trên các thiết_bị lắp_đặt và kinh_nghiệm sẵn có . 
+
+Khi kẹp cáp đã được định_vị chính_xác trên cáp chủ , tiến_hành xiết bu_lông kẹp cáp .  Việc xiết bu_lông trên kẹp cáp sẽ được thực_hiện theo 3 giai_đoạn .  Ngay sau khi lắp_đặt kẹp cáp , tiến_hành xuyên bu_lông và xiết chặt giai_đoạn 1 mỗi bu_lông bằng lực xiết tương_ứng đã quy_định trong thiết_kế . 
+
+Khi treo lắp dầm chủ xiết bu_lông giai_đoạn 2 và sau khi thi_công bản_mặt_cầu , bảo_vệ cáp xong , tiến_hành xiết lại toàn_bộ bu_lông giai_đoạn 3 để đạt lực xiết thiết_kế .  Để kiểm_tra được lực của bu_lông khi xiết , thiết_bị xiết bu_lông phải có chức_năng tính đổi mô men xiết thành lực kéo trong bu_lông . 
+
+4 . Công_tác bảo_quản_cáp 
+
+a ) Công_tác bảo_quản phải được thực_hiện chu_đáo đảm_bảo cho cáp và các phụ_kiện không bị bẩn .  hư_hỏng trong quá_trình vận_chuyển , lắp_đặt . 
+
+b ) Cáp chính sau khi lắp dựng phải làm sạch toàn_bộ bụi , vết dầu và nước trên bề_mặt và phải được bọc lại tạm_thời cho đến khi bọc và sơn phủ chống gỉ chính_thức . 
+
+c ) Việc cuộn các tao_cáp chủ và cáp treo thành từng cuộn ( ru_lô ) để vận_chuyển từ nhà_máy đến công_trường phải đảm_bảo không gây hư_hỏng sợi thép và tao_cáp . 
+
+Điều 24 .  Thi_công dây treo 
+
+Các dây treo thường được đặt trên giá , rồi dùng thuyền ( phao ) chuyển đến vị_trí lắp_đặt .  Từ kẹp cáp có_thể thòng các dây , xuyên qua đường thi_công để kéo dây treo lên , lưu_ý thi_công phải đối_xứng . 
+
+Điều 25 .  Thi_công dầm và hệ mặt_cầu 
+
+Hệ dầm dọc , dầm ngang và bản_mặt_cầu được chế_tạo tại xưởng cơ_khí hay tại công_trường theo bản_vẽ thiết_kế và các quy_định trong Tiêu_chuẩn TCCS 02 : 2010/TCĐBVN . 
+
+Nhà_thầu có_thể áp_dụng nhiều giải_pháp khác nhau để lắp_ghép hệ dầm mặt_cầu với các dây treo .  Khuyến_khích chế_tạo thành từng panel để cẩu lắp thuận_tiện . 
+
+Có_thể lắp từ 2 phía đầu cầu tiến vào giữa nhịp , hoặc lắp từ giữa nhịp tiến dần đối_xứng ra 2 phía đầu cầu . 
+
+Điều 26 .  Thi_công các hạng_mục công_trình , kết_cấu khác 
+
+1 . Chế_tạo yên đỡ cáp chủ và kỹ_thuật lắp_dựng 
+
+Trước khi chế_tạo yên đỡ cáp chủ , nhà_thầu phải nghiên_cứu kỹ hồ_sơ thiết_kế ( bao_gồm tất_cả các quy_phạm , các bản_vẽ liên_quan ) và chuẩn_bị bản_vẽ xưởng ( bản_vẽ chế_tạo ) cũng như lập quy_trình công_nghệ để chế_tạo và lắp dựng các kết_cấu này .  Trước khi chế_tạo hàng_loạt , nhà_thầu phải tiến_hành chế_tạo thử_nghiệm .  Sản_phẩm chế_tạo thử phải được nghiệm_thu đánh_giá chất_lượng nghiệm_thu theo quy_định tại Điều 29 và Điều 30 của Thông_tư này . 
+
+2 . Đường hàn và kiểm_tra chất_lượng đường hàn 
+
+Nhà_thầu phải chuẩn_bị tốt đồng_thời quán_triệt công_nghệ và kỹ_thuật hàn .  Công_tác hàn phải tuyệt_đối tuân_thủ các quy_định trong Tiêu_chuẩn TCCS 02 : 2010/TCĐBVN cũng như các nguyên_tắc như vệ_sinh tại vị_trí hàn , nhiệt_lượng và các điều_kiện khác . 
+
+Phải tiến_hành kiểm_nghiệm mối hàn chồng bằng siêu_âm . 
+
+3 . Lớp_phủ mặt ngoài 
+
+Bề_mặt của yên đỡ cáp phải nhẵn và phủ một lớp vật_liệu để độ ma_sát thấp nhất và chống hư_hại cho cáp chủ . 
+
+4 . Thử_nghiệm và lắp_ráp thử 
+
+a ) Khi chế_tạo hoàn_thành đế yên tại công_xưởng , phải tiến_hành , lắp thử .  Khi sản_phẩm đã đáp_ứng các yêu_cầu của thiết_kế và được tư_vấn giám_sát chấp_thuận mới được đưa lắp_đặt vào công_trình . 
+
+b ) Các bản ngăn tao_cáp của yên đỡ cáp sau khi hàn nối phải xử_lý hàn chồng , sau đó yêu_cầu mài nhẵn bóng và không bị bavia . 
+
+c ) Để lắp_đặt bản ngăn tao_cáp một_cách chính_xác , tại rãnh bố_trí tao_cáp của yên đỡ phải xác_định vị_trí chính_xác và dùng sơn làm_dấu . 
+
+d ) Yên_đỡ khi vận_chuyển và lắp_đặt phải bảo_vệ bề_mặt nhẵn bóng , không bị trầy_xước , cong vênh . 
+
+5 . Lắp_đặt yên_cáp 
+
+a ) Khi lắp_đặt yên đỡ cáp phải chú_ý các tiêu_chuẩn kỹ_thuật an_toàn về nâng vật nặng . 
+
+b ) Khi lắp_đặt yên đỡ cáp phải chú_ý độ lệch trước của yên theo như trình_tự thi_công lắp_đặt .  Trong quá_trình lắp_đặt dầm cứng và mặt_cầu , yên đỡ cáp chủ được kích dần vào đúng vị_trí thiết_kế .  Độ lệch của yên đỡ cáp phải được thường_xuyên khống_chế và đo_đạc .  Việc_kích dần yên đỡ cáp vào vị_trí thiết_kế phải được thực_hiện sao cho trong mọi trường_hợp độ dịch_chuyển ngang của đỉnh tháp phải nằm trong phạm_vi cho phép của thiết_kế . 
+
+6 . Yêu_cầu chung về an_toàn lao_động 
+
+a ) Các đơn_vị thực_hiện công_việc chế_tạo và lắp dựng các cấu_kiện phải chấp_hành đầy_đủ yêu_cầu kỹ_thuật an_toàn lao_động theo quy_định của Tiêu_chuẩn TCVN 8747 : 2012 và các quy_định khác của pháp_luật có liên_quan . 
+
+b ) Trên mỗi khu_vực sản_xuất và vị_trí làm_việc phải có bản chỉ_dẫn về quy_tắc an_toàn bắt_buộc mọi người chấp_hành . 
+
+c ) Trong xưởng sản_xuất phải bố_trí đèn_chiếu sáng , quạt thông_gió đảm_bảo_vệ_sinh công_nghiệp . 
+
+d ) Không được tiến_hành công_việc cắt hàn và sơn cùng trong một xưởng hoặc bố_trí sát nhau để tránh cháy nổ .  Thực_hiện an_toàn phòng_chống cháy nổ theo các Tiêu_chuẩn TCVN 3254-86 , TCVN 3255-86 . 
+
+đ ) Mọi công_nhân đều phải được trang_bị bảo_hộ lao_động đầy_đủ khi làm_việc . 
+
+e ) Khi làm_việc trên sông mọi công_nhân phải mặc áo_phao . 
+
+g ) Khi cầu lắp hàng nặng phải có người tín_hiệu phối_hợp nhịp_nhàng . 
+
+h ) Phải có bộ_phận chuyên kiểm_tra về công_tác an_toàn . 
+
+i ) Trong các tổ thi_công phải có các an_toàn viên đeo băng đỏ trong ca làm_việc luôn nhắc_nhở mọi người mỗi khi có tình_huống có khả_năng mất an_toàn xảy ra . 
+
+k ) Phải có biện_pháp an_toàn khi làm_việc trên cao , đề_phòng ngã . 
+
+l ) Phải có biện_pháp an_toàn trong khâu bố_trí_mạng điện thi_công . 
+
+m ) Phải có phương_tiện , thiết_bị cứu_hộ dưới nước khi thi_công các hạng_mục trên sông . 
+
+n ) Không được thi_công lắp_dựng trong mùa mưa bão , phải có biện_pháp tăng_cường ổn_định khi có gió cấp 5 trở lên . 
+
+Điều 27 .  Yêu_cầu chung 
+
+Công_tác quản_lý chất_lượng công_trình cầu_treo dân_sinh phải tuân_thủ các quy_định tại <NĐ rel="Reference"> Nghị_định số 15/2013/NĐ-CP ngày 06 tháng 02 năm 2013 </NĐ> của Chính_phủ về quản_lý chất_lượng công_trình xây_dựng và <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD ngày 25 tháng 7 năm 2013 </TT> của Bộ_trưởng Bộ Xây_dựng quy_định chi_tiết một_số nội_dung về quản_lý chất_lượng công_trình xây_dựng .
+Điều 28 .  Nghiệm_thu công_tác khảo_sát và thiết_kế xây_dựng công_trình 
+
+1 . Nghiệm_thu công_tác khảo_sát xây_dựng cầu_treo dân_sinh thực_hiện theo quy_định tại Điều 12 của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> .
+2 . Nghiệm_thu hồ_sơ thiết_kế xây_dựng cầu_treo dân_sinh thực_hiện theo quy_định tại Điều 15 của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> .
+Điều 29 .  Quản_lý chất_lượng vật_liệu , cấu_kiện , sản_phẩm xây_dựng , thiết_bị lắp_đặt vào công_trình 
+
+Các vật_liệu , cấu_kiện , sản_phẩm xây_dựng , thiết_bị công_trình , thiết_bị công_nghệ lắp_đặt vào công_trình cầu_treo dân_sinh phải được kiểm_soát chất_lượng theo quy_định tại Điều 17 của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> .
+Điều 30 .  Thí_nghiệm đối_chứng , kiểm_định chất_lượng , thí_nghiệm khả_năng chịu lực của kết_cấu công_trình trong quá_trình thi_công xây_dựng 
+
+Công_tác thí_nghiệm đối_chứng , kiểm_định chất_lượng , thí_nghiệm khả_năng chịu lực của kết_cấu công_trình thực_hiện theo quy_định tại Điều 26 của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> .
+Điều 31 .  Nghiệm_thu , bàn_giao công_trình đưa vào sử_dụng 
+
+1 . Nghiệm_thu công_việc xây_dựng thực_hiện theo quy_định tại Điều 20 của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> .
+2 . Nghiệm_thu giai_đoạn thi_công hoặc bộ_phận công_trình xây_dựng trong thi_công cầu_treo dân_sinh phải thực_hiện theo quy_định tại Điều 21 của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> .
+3 . Nghiệm_thu hoàn_thành công_trình cầu_treo dân_sinh phải được thực_hiện theo quy_định tại Điều 22 của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> .
+4 . Việc lập Quy_trình bảo_trì cầu và bàn_giao công_trình cầu_treo dân_sinh cho địa_phương được thực_hiện theo quy_định tại Điều 23 ; của <TT rel="Reference"> Thông_tư số 10/2013/TT-BXD </TT> và <TT rel="Reference"> Thông_tư số 12/2014/TT-BGTVT ngày 29 tháng 4 năm 2014 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải hướng_dẫn quản_lý , vận_hành khai_thác cầu trên đường giao_thông nông_thôn .
+Điều 32 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 6 năm 2014 . 
+
+Điều 33 .  Tổ_chức thực_hiện 
+
+1 . Chánh_Văn_phòng Bộ , Chánh Thanh_tra Bộ , các Vụ_trưởng thuộc Bộ , Tổng_cục_trưởng Tổng_cục Đường_bộ Việt_Nam , Cục_trưởng Cục Quản_lý xây_dựng và chất_lượng công_trình giao_thông , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Giao_thông vận_tải , Giám_đốc Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc Trung_ương , các tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . 
+
+2 . Tổng_cục Đường_bộ Việt_Nam có trách_nhiệm theo_dõi việc thực_hiện các quy_định tại Thông_tư này . 
+
+3 . Trong quá_trình thực_hiện , nếu có vướng_mắc , các tổ_chức , cá_nhân phản_ánh về Bộ Giao_thông vận_tải để xem_xét , giải_quyết ./. 

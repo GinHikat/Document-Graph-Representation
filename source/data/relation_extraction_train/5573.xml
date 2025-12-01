@@ -1,0 +1,211 @@
+Thông tư Quy định giao dịch điện tử trong hoạt động nghiệp vụ Kho bạc Nhà nước
+
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29/11/2005 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 26/2007/NĐ-CP ngày 15/02/2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật Giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 27/2007/NĐ-CP ngày 23/2/2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động tài_chính ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 118/2008/NĐ-CP ngày 27/11/2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Căn_cứ <TT rel="Pursuant"> Thông_tư số 78/2008/TT-BTC ngày 24/11/2008 </TT> của Bộ Tài_chính hướng_dẫn thi_hành một_số nội_dung của <NĐ rel="Others"> Nghị_định số 27/2007/NĐ-CP ngày 23/02/2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động tài_chính ;
+I . QUY_ĐỊNH CHUNG 
+
+1 . Đối_tượng 
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân lựa_chọn sử_dụng hoặc cung_cấp dịch_vụ về giao_dịch điện_tử ( GDĐT ) trong hoạt_động nghiệp_vụ Kho_bạc Nhà_nước ( KBNN ) , các đơn_vị KBNN đủ điều_kiện thực_hiện các GDĐT . 
+
+2 . Phạm_vi áp_dụng : 
+
+- Các hoạt_động GDĐT trong nội_bộ hệ_thống KBNN ; 
+
+- Hoạt_động thanh_toán điện_tử giữa KBNN với các ngân_hàng ; 
+
+- Hoạt_động trao_đổi dữ_liệu điện_tử về thu , chi ngân_sách nhà_nước ( NSNN ) giữa KBNN với cơ_quan Thuế , Hải_quan , Tài_chính ; 
+
+- Hoạt_động trao_đổi dữ_liệu điện_tử về thu , chi ngân_sách nhà_nước , về giao dự_toán , kế_hoạch vốn , về các đoạn mã thông_tin quản_lý giữa các cơ_quan quản_lý nhà_nước với KBNN ; 
+
+- Hoạt_động giao_dịch thu , chi NSNN , thanh_toán giữa KBNN với các cơ_quan , đơn_vị , tổ_chức , cá_nhân lựa_chọn tham_gia GDĐT và đáp_ứng đầy_đủ các điều_kiện theo quy_định của <L rel="Reference"> Luật GDĐT </L> và các văn_bản hướng_dẫn .
+Điều 2 .  Giải_thích từ_ngữ : 
+
+1 . Chứng_từ điện_tử trong hoạt_động nghiệp_vụ KBNN là thông_tin được tạo ra , gửi đi , nhận và lưu_trữ bằng phương_tiện điện_tử trong hoạt_động KBNN .  Chứng_từ điện_tử trong hoạt_động KBNN là một hình_thức của thông_điệp dữ_liệu có nội_dung trao_đổi , giao_dịch về tài_chính , tiền_tệ , bao_gồm : chứng từ kế_toán điện_tử ;  chứng_từ thu , chi ngân_sách điện_tử ;  chứng_từ thanh_toán điện_tử , sổ kế_toán điện_tử , báo_cáo tài_chính , báo_cáo thu – chi ngân_sách , báo_cáo quyết_toán điện_tử và các loại chứng_từ điện_tử khác trong các hoạt_động giao_dịch của KBNN theo quy_định của pháp_luật . 
+
+2 . Văn_bản điện_tử là các văn_bản , tài_liệu thể_hiện dưới dạng thông_điệp dữ_liệu ( không bao_gồm các chứng_từ điện_tử quy_định tại khoản 1 Điều 1 nêu trên ) . 
+
+3 . Hoạt_động nghiệp_vụ KBNN quy_định tại Thông_tư này là các hoạt_động về thu , chi , quản_lý quỹ NSNN , các quỹ tài_chính nhà_nước , quản_lý ngân quỹ KBNN , hoạt_động thanh_toán giữa KBNN với các cơ_quan , tổ_chức , cá_nhân và giữa các đơn_vị trong nội_bộ hệ_thống KBNN và các hoạt_động khác theo quy_định . 
+
+Điều 3 .  Nguyên_tắc GDĐT trong hoạt_động nghiệp_vụ KBNN : 
+
+1 . Đối_với các cơ_quan nhà_nước , KBNN khi tham_gia GDĐT trong lĩnh_vực hoạt_động nghiệp_vụ KBNN phải tuân_thủ nguyên_tắc rõ_ràng , công_bằng , trung_thực , an_toàn , hiệu_quả , phù_hợp với Điều 5 của <L rel="Reference"> Luật Giao_dịch điện_tử_số 51/2005/QH11 </L> và đảm_bảo các yêu_cầu về quy_trình nghiệp_vụ , tiêu_chuẩn kỹ_thuật trong hoạt_động GDĐT do KBNN quy_định .
+2 . Đối_với các tổ_chức , cá_nhân có quan_hệ GDĐT với KBNN : 
+
+- Tự_nguyện lựa_chọn sử_dụng phương_tiện điện_tử để thực_hiện giao_dịch ; 
+
+- Sử_dụng công_nghệ thông_tin phù_hợp để thực_hiện GDĐT với KBNN ;  có đủ các điều_kiện kỹ_thuật để tham_gia GDĐT , hoặc thực_hiện thông_qua tổ_chức cung_cấp dịch_vụ về GDĐT theo quy_định ; 
+
+- Tổ_chức , cá_nhân có quyền lựa_chọn phương_thức giao_dịch với KBNN trong trường_hợp KBNN đồng_thời chấp_nhận giao_dịch theo phương_thức truyền_thống và giao_dịch bằng phương_tiện điện_tử . 
+
+3 . KBNN chủ_động thực_hiện từng phần hoặc toàn_bộ giao_dịch bằng phương_tiện điện_tử trong nội_bộ KBNN và giữa KBNN với các cơ_quan , tổ_chức , cá_nhân . 
+
+Điều 4 .  Các điều_kiện để các cơ_quan , tổ_chức , cá_nhân tham_gia GDĐT trong hoạt_động nghiệp_vụ KBNN : 
+
+1 . Đối_với tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số công_cộng , hoặc chuyên_dùng : 
+
+Đủ điều_kiện hoạt_động trong lĩnh_vực đăng_ký kinh_doanh theo quy_định của pháp_luật , đảm_bảo các điều_kiện quy_định tại Điều 13 , Điều 45 <NĐ rel="Reference"> Nghị_định số 26/2007/NĐ-CP </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Reference"> Luật Giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số ;
+2 . Đối_với các cơ_quan , tổ_chức , cá_nhân : 
+
+Khi tham_gia GDĐT với KBNN , các cơ_quan , tổ_chức , cá_nhân phải tuân_thủ quy_định cụ_thể của Bộ Tài_chính và hướng_dẫn của KBNN về : 
+
+a ) Định_dạng , biểu_mẫu của thông_điệp dữ_liệu , theo yêu_cầu kỹ_thuật của KBNN đối_với từng loại nghiệp_vụ ; 
+
+b ) Loại chữ_ký số , chứng_thực chữ_ký số trong trường_hợp GDĐT cần có chữ_ký số , chứng_thực chữ_ký số ; 
+
+c ) Các quy_trình bảo_đảm tính toàn_vẹn , an_toàn và bí_mật của GDĐT . 
+
+II .  QUY_ĐỊNH CỤ_THỂ 
+
+Điều 5 .  Các hoạt_động nghiệp_vụ KBNN được áp_dụng hình_thức GDĐT : 
+
+1 . GDĐT trong nội_bộ hệ_thống KBNN bao_gồm : 
+
+- Thanh_toán điện_tử trong nội_bộ KBNN ; 
+
+- Truyền , nhận dữ_liệu về thu , chi , tồn_quỹ ngân_sách và các dữ_liệu khác liên_quan đến NSNN và hoạt_động nghiệp_vụ KBNN ; 
+
+- Truyền , nhận dữ_liệu về dự_toán , kế_hoạch vốn , chuyển vốn ; 
+
+- Truyền , nhận dữ_liệu về thông_tin quản_lý ngân_sách ( hệ_thống các mã quản_lý ngân_sách ) ; 
+
+- Truyền , nhận dữ_liệu về thanh_toán gốc , lãi , phí phát_hành trái_phiếu ; 
+
+- Truyền , nhận dữ_liệu về báo_cáo nghiệp_vụ , quyết_toán vốn ; 
+
+- Truyền , nhận thư điện_tử ( email ) bằng hệ_thống email nội_bộ KBNN ; 
+
+- Truyền nhận dữ_liệu về văn_bản chế_độ , văn_bản nghiệp_vụ khác . 
+
+2 . GDĐT giữa KBNN với hệ_thống ngân_hàng , bao_gồm : 
+
+- Thanh_toán điện_tử song_phương ; 
+
+- Thanh_toán điện_tử liên ngân_hàng , thanh_toán bù_trừ điện_tử . 
+
+- Trao_đổi dữ_liệu về thu – chi NSNN . 
+
+3 . GDĐT giữa KBNN với các cơ_quan trong ngành tài_chính : 
+
+- Trao_đổi dữ_liệu về thu NSNN với các cơ_quan thuế , hải_quan , tài_chính ;  thông_tin về người nộp thuế ;  báo_cáo số_liệu thu thuế , hoàn thuế ; 
+
+- Trao_đổi dữ_liệu về văn_bản thẩm_tra dự_toán của cơ_quan_tài_chính , thông_báo phân_bổ dự_toán , lệnh chi NSNN , thẩm_định dự_toán của cơ_quan_tài_chính , báo_cáo quyết_toán vốn hàng năm ; 
+
+- Trao_đổi dữ_liệu về thu , chi , tồn_quỹ ngân_sách với cơ_quan_tài_chính . 
+
+4 . GDĐT giữa KBNN với các cơ_quan , đơn_vị thanh_toán ngân_sách , các tổ_chức , cá_nhân có quan_hệ thanh_toán với KBNN : 
+
+- Trao_đổi dữ_liệu về phân_bổ ngân_sách , lệnh chi NSNN , thanh_toán và quyết_toán ngân_sách với các cơ_quan , đơn_vị sử_dụng NSNN ; 
+
+- Trao_đổi , xử_lý dữ_liệu về các thủ_tục , điều_kiện chi_tiêu từ ngân_sách : cam_kết chi , hợp_đồng kinh_tế , hóa_đơn , chứng_từ thanh_toán , bảng kê thanh_toán , giấy đề_nghị thanh_toán , tạm_ứng ; 
+
+- Nhận , xử_lý và truyền chứng_từ điện_tử về thu , chi NSNN do đơn_vị lập ( giấy nộp tiền vào NSNN , giấy rút dự_toán , giấy rút vốn đầu_tư , giấy đề_nghị thanh_toán tạm_ứng , … ) ; 
+
+- Nhận , xử_lý và truyền chứng_từ điện_tử về thu NSNN giữa KBNN và các đối_tượng nộp NSNN , các cơ_quan thu và nhận_ủy_nhiệm thu NSNN . 
+
+Điều 6 .  Các điều_kiện đối_với chứng_từ điện_tử : 
+
+1 . Các nội_dung chủ_yếu của chứng_từ điện_tử trong hoạt_động KBNN : 
+
+a ) Tên và số_liệu của chứng_từ ; 
+
+b ) Ngày , tháng , năm lập chứng_từ , nhận chứng_từ ; 
+
+c ) Tên , địa_chỉ của tổ_chức hoặc cá_nhân lập chứng_từ ; 
+
+d ) Tên , địa_chỉ của tổ_chức hoặc cá_nhân nhận chứng_từ ; 
+
+đ ) Nội_dung của nghiệp_vụ phát_sinh ; 
+
+e ) Chữ_ký , họ và tên của người lập , người kiểm_soát , ký duyệt chứng_từ và những người có liên_quan đến chứng_từ theo quy_định của pháp_luật . 
+
+2 . Nội_dung của chứng_từ điện_tử trong nghiệp_vụ kế_toán thu , chi NSNN và thanh_toán còn phải đáp_ứng quy_định tại Điều 17 <L rel="Reference"> Luật Kế_toán </L> và quy_định của Bộ Tài_chính về chứng từ kế_toán trong hoạt_động nghiệp_vụ KBNN .
+3 . Ngoài các nội_dung được quy_định tại tiết 6.1 , điều 6 nêu trên , chứng từ điện_tử phải có thêm những nội_dung khác theo từng loại nghiệp_vụ , theo yêu_cầu của KBNN . 
+
+Điều 7 .  Các quy_định về xử_lý chứng_từ , văn_bản điện_tử : 
+
+1 . Chứng_từ điện_tử : 
+
+- Chứng_từ điện_tử phải được lập theo đúng định_dạng , mẫu và cấu_trúc dữ_liệu theo các văn_bản quy_định cụ_thể của Bộ Tài_chính và KBNN ; 
+
+- Các chứng_từ giấy được sử_dụng trong quy_trình nghiệp_vụ theo phương_thức truyền_thống có quy_định bắt_buộc phải có dấu , chữ_ký của người có thẩm_quyền thì khi sử_dụng phương_thức GDĐT , phải được tổ_chức có thẩm_quyền chứng_thực chữ_ký số xác_nhận về tổ_chức , cá_nhân tham_gia GDĐT là người ký chữ_ký số ; 
+
+- Đối_với các hệ_thống chứng_thực nội_bộ của KBNN đã hoặc đang thực_hiện nhưng chưa sử_dụng dịch_vụ chứng_thực chữ_ký số thì không mở_rộng tiếp mà duy_trì như hiện_nay , đồng_thời tiến_hành chuyển_đổi dần theo hướng áp_dụng hệ_thống chứng_thực công_cộng hoặc chuyên_dùng . 
+
+- Trường_hợp thanh_toán điện_tử với ngân_hàng , việc sử_dụng và chứng_thực chữ_ký số được thực_hiện theo quy_định của Ngân_hàng Nhà_nước về GDĐT trong lĩnh_vực ngân_hàng ; 
+
+- Người lập , người kiểm_soát , người ký duyệt và những người tham_gia quá_trình xử_lý chứng_từ điện_tử phải chịu trách_nhiệm về các nội_dung mà mình được giao nhiệm_vụ trong quá_trình xử_lý chứng_từ ; 
+
+- Việc lưu_trữ chứng_từ điện_tử được thực_hiện theo thời_hạn do pháp_luật quy_định như đối_với chứng_từ giấy .  Trường_hợp chứng_từ điện_tử hết thời_hạn lưu_trữ theo quy_định nhưng có liên_quan đến tính toàn_vẹn về thông_tin của hệ_thống thông_tin và các chứng_từ điện_tử đang lưu_hành , thì tiếp_tục được lưu_trữ , cho đến khi việc hủy chứng_từ điện_tử hoàn_toàn không ảnh_hưởng đến các GDĐT khác thì mới được tiêu_hủy . 
+
+2 . Văn_bản điện_tử : 
+
+- Các văn_bản được lập , truyền , nhận dưới hình_thức dữ_liệu điện_tử theo hệ_thống chương_trình ứng_dụng được Chính_phủ , Bộ Tài_chính ( hoặc cơ_quan được Bộ Tài_chính ủy_quyền ) cho phép sử_dụng , công_nhận đáp_ứng đủ tiêu_chuẩn kỹ_thuật , hoặc được tổ_chức chứng_thực chữ_ký số chuyên_dùng ( hoặc công_cộng ) chứng_thực nguồn_gốc tạo_lập văn_bản thì có giá_trị pháp_lý tương_đương văn_bản giấy .  Đối_với các văn_bản điện_tử không đáp_ứng điều_kiện nêu trên thì thông_tin trên văn_bản chỉ có giá_trị tham_khảo ; 
+
+- Văn_bản giấy được chuyển_đổi từ văn_bản điện_tử được dùng làm căn_cứ pháp_lý cho các hoạt_động giao_dịch thì trên văn_bản phải thể_hiện rõ tên và chữ_ký của người có trách_nhiệm chuyển_đổi văn_bản điện_tử sang văn_bản giấy và đóng_dấu của tổ_chức tham_gia giao_dịch ( nếu có ) . 
+
+Điều 8 .  Tổ_chức hoạt_động GDĐT về nghiệp_vụ KBNN : 
+
+1 . GDĐT trong nội_bộ KBNN : 
+
+- Việc giao_dịch thanh_toán điện_tử trong nội_bộ hệ_thống KBNN thực_hiện theo chương_trình ứng_dụng được Bộ Tài_chính phê_duyệt , KBNN xây_dựng hệ_thống bảo_mật thông_tin trong các giao_dịch thanh_toán , yêu_cầu phải chứng_thực chữ_ký số theo quy_trình kỹ_thuật nghiệp_vụ được Bộ Tài_chính duyệt .  Quy_trình xử_lý hạch_toán kế_toán , thanh_toán được thực_hiện theo các quy_định hiện_hành đối_với từng loại nghiệp_vụ cụ_thể ; 
+
+- Tổng_Giám_đốc KBNN quyết_định các loại tài_liệu sử_dụng trong thanh_toán điện_tử phải in và quản_lý , lưu_trữ dưới dạng chứng_từ giấy ; 
+
+- Việc tạo_lập , chuyển_đổi chứng_từ điện_tử từ chứng_từ giấy và ngược_lại được thực_hiện theo các quy_định hiện_hành của Chính_phủ về GDĐT ; 
+
+- Các hình_thức báo_cáo , quyết_toán thực_hiện qua phương_thức GDĐT : báo_cáo kế_toán , báo_cáo quyết_toán , báo_cáo thống_kê . 
+
+Đối_với các loại báo_cáo theo quy_định phải gửi cho các cơ_quan liên_quan , trường_hợp KBNN đã thiết_lập hệ_thống truyền gửi dữ_liệu cho các cơ_quan đó thì không phải gửi báo_cáo bằng giấy .  KBNN chịu trách_nhiệm về tính chính_xác , trung_thực của thông_tin đã gửi bằng phương_tiện điện_tử ; 
+
+- Hình_thức lưu_trữ thông_tin ( dữ_liệu điện_tử , giấy ) với từng loại báo_cáo : các thông_tin bắt_buộc phải được lưu_trữ trên giấy gồm thông_tin về quyết_toán công_trình hoàn_thành , thông_tin về quyết_toán NSNN năm ; 
+
+- Ngoài các nội_dung trên , căn_cứ các nội_dung hoạt_động cụ_thể , KBNN được quyết_định hình_thức lưu_trữ duy_nhất bằng phương_tiện điện_tử . 
+
+2 . GDĐT trong thanh_toán giữa KBNN và hệ_thống ngân_hàng : 
+
+- Việc trao_đổi dữ_liệu , thanh_toán , chuyển tiền điện_tử giữa KBNN với hệ_thống ngân_hàng và các tổ_chức tín_dụng được thực_hiện theo các quy_định hiện_hành về GDĐT trong hoạt_động ngân_hàng theo <NĐ rel="Reference"> Nghị_định số 35/2007/NĐ-CP ngày 8/3/2007 </NĐ> của Chính_phủ và các văn_bản hướng_dẫn của Ngân_hàng Nhà_nước ;
+- KBNN phối_hợp với các ngân_hàng có quan_hệ thanh_toán điện_tử xây_dựng hệ_thống hạ_tầng kỹ_thuật đảm_bảo tương_thích giữa các hệ_thống , các giải_pháp đảm_bảo an_toàn , chính_xác và bảo_mật trong quan_hệ thanh_toán điện_tử ; 
+
+- KBNN và các ngân_hàng xây_dựng quy_trình xử_lý dữ_liệu thống_nhất , thỏa_thuận các giải_pháp chứng_thực chữ_ký số trong nội_bộ các hệ_thống để thực_hiện các giao_dịch thanh_toán thông_thường bằng phương_tiện điện_tử .  KBNN và Ngân_hàng thỏa_thuận cụ_thể đối_với một_số trường_hợp giao_dịch thanh_toán điện_tử đặc_biệt , cần có chứng_thực chữ_ký số công_cộng . 
+
+- KBNN , cơ_quan thuế , hải_quan sử_dụng chương_trình ứng_dụng được Bộ Tài_chính phê_duyệt trong việc trao_đổi dữ_liệu , truyền , nhận thông_tin thu nộp thuế với hệ_thống ngân_hàng phải thực_hiện các giải_pháp kỹ_thuật đảm_bảo tính an_toàn , toàn_vẹn , chính_xác , kịp_thời của thông_tin .  Các thông_tin truyền nhận giữa các đơn_vị trong ngành tài_chính với hệ_thống ngân_hàng phải thực_hiện chứng_thực chữ_ký số của các tổ_chức chứng_thực chữ_ký số chuyên_dùng hoặc công_cộng . 
+
+3 . GDĐT trong quá_trình lập , chấp_hành , quyết_toán ngân_sách giữa KBNN và các cơ_quan trong ngành Tài_chính : 
+
+- Việc trao_đổi dữ_liệu điện_tử giữa các cơ_quan nhà_nước , cơ_quan thuộc ngành tài_chính ( cơ_quan_tài_chính , thuế , hải_quan ) và KBNN về dự_toán ngân_sách , kế_hoạch vốn được thực_hiện theo các chương_trình ứng_dụng được Bộ Tài_chính phê_duyệt và cho phép sử_dụng . 
+
+Các cơ_quan liên_quan căn_cứ nhu_cầu quản_lý , theo_dõi , lưu_trữ hồ_sơ để quyết_định việc in_ấn văn_bản , hồ_sơ tài_liệu , ký , đóng_dấu để luân_chuyển , lưu_trữ theo các quy_định hiện_hành ; 
+
+- Đối_với cơ_quan thuế , hải_quan , tài_chính , KBNN sử_dụng chương_trình ứng_dụng được Bộ Tài_chính phê_duyệt trong việc trao_đổi dữ_liệu , truyền , nhận thông_tin thu nộp thuế , phải thực_hiện các giải_pháp kỹ_thuật đảm_bảo tính an_toàn , toàn_vẹn , chính_xác , kịp_thời của thông_tin .  Khuyến_khích việc sử_dụng chữ_ký số trong việc truyền , nhận thông_tin giữa các hệ_thống trong ngành tài_chính . 
+
+4 . GDĐT giữa KBNN với các tổ_chức là đơn_vị sử_dụng ngân_sách nhà_nước , các tổ_chức cung_cấp hàng_hóa , dịch_vụ và cá_nhân có quan_hệ với KBNN trong hoạt_động thu , chi NSNN và quan_hệ thanh_toán : 
+
+- KBNN căn_cứ điều_kiện hạ_tầng kỹ_thuật , các quy_trình xử_lý nghiệp_vụ theo phương_thức điện_tử được Bộ Tài_chính phê_duyệt để triển_khai GDĐT tại các đơn_vị KBNN theo lộ_trình phù_hợp ; 
+
+- Lĩnh_vực áp_dụng GDĐT : thu NSNN và các khoản nghĩa_vụ tài_chính với NSNN , phân_bổ dự_toán NSNN , chi thường_xuyên từ NSNN , chi đầu_tư xây_dựng cơ_bản , chi các chương_trình mục_tiêu , chi sự_nghiệp , phát_hành và thanh_toán trái_phiếu ;  thanh_toán trong nội_bộ và giữa KBNN với các tổ_chức thanh_toán bên ngoài . 
+
+- Các tổ_chức , cá_nhân có đủ điều_kiện về hạ_tầng kỹ_thuật theo quy_định của Bộ Tài_chính khi tham_gia GDĐT với KBNN thì phải đăng_ký và được sự chấp_thuận của KBNN cấp trung_ương hoặc KBNN cấp tỉnh nơi thực_hiện GDĐT . 
+
+Trường_hợp tổ_chức , cá_nhân được một tổ_chức cung_cấp dịch GDĐT với KBNN xác_nhận đủ điều_kiện tham_gia GDĐT thì tổ_chức , cá_nhân đó thông_báo với KBNN cấp trung_ương hoặc KBNN cấp tỉnh ( có_thể thông_qua tổ_chức cung_cấp dịch_vụ GDĐT ) về việc tham_gia GDĐT với KBNN mà không phải đăng_ký trực_tiếp với KBNN ; 
+
+- Các điều_kiện về hồ_sơ thanh_toán thể_hiện dưới dạng dữ_liệu điện_tử : 
+
++ Đơn_vị , tổ_chức cá_nhân giao_dịch với KBNN trên cơ_sở chứng_từ , hồ_sơ , hợp_đồng điện_tử được lập đúng quy_trình , mẫu định_dạng và đầy_đủ các thông_tin quy_định .  Trường_hợp các hồ_sơ , tài_liệu chỉ thể_hiện dưới dạng dữ_liệu điện_tử ( không có hồ_sơ , tài_liệu giấy theo quy_định ) thì phải có chữ_ký số được chứng_thực theo đúng quy_định . 
+
++ Người lập , người kiểm_soát , người ký duyệt và những người tham_gia xử_lý và ký trên chứng_từ điện_tử phải chịu trách_nhiệm về các nội_dung của chứng_từ điện_tử . 
+
+III .  TỔ_CHỨC THỰC_HIỆN 
+
+Điều 9 .  Xử_lý vi_phạm 
+
+Tổ_chức , cá_nhân khi tham_gia giao_dịch điện_tử trong lĩnh_vực KBNN có hành_vi vi_phạm pháp_luật , tùy theo tính_chất , mức_độ vi_phạm sẽ bị xử_phạt vi_phạm hành_chính , bồi_thường thiệt_hại hoặc bị truy_cứu trách_nhiệm hình_sự theo quy_định của <NĐ rel="Reference"> Nghị_định số 27/2007/NĐ-CP </NĐ> , <L rel="Reference"> Luật NSNN </L> và các quy_định pháp_luật khác có liên_quan .
+Điều 10 .  Điều_khoản thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành sau 45 ngày , kể từ ngày ký . 
+
+2 . Các nội_dung khác không quy_định trong Thông_tư này được thực_hiện theo <L rel="Reference"> Luật Giao_dịch điện_tử </L> và các văn_bản hướng_dẫn hiện_hành .
+Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các cơ_quan , đơn_vị phản_ánh về Bộ Tài_chính để nghiên_cứu giải_quyết ./. 

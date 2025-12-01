@@ -1,0 +1,6 @@
+.env
+.json
+.txt
+.pem
+secrets/
+VnCoreNLP/

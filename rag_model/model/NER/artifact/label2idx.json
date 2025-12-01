@@ -1,0 +1,20 @@
+{
+  "B-CLA": 0,
+  "B-DAT": 1,
+  "B-DEP": 2,
+  "B-DOCID": 3,
+  "B-LOC": 4,
+  "B-PER": 5,
+  "B-TIT": 6,
+  "B-TYP": 7,
+  "I-CLA": 8,
+  "I-DAT": 9,
+  "I-DEP": 10,
+  "I-DOCID": 11,
+  "I-LOC": 12,
+  "I-PER": 13,
+  "I-TIT": 14,
+  "I-TYP": 15,
+  "O": 16,
+  "<PAD>": 17
+}

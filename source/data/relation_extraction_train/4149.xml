@@ -1,0 +1,75 @@
+Thông tư Hướng dẫn tiêu chuẩn và điều kiện của Phần mềm Quản lý tài sản cố định áp dụng trong khu vực hành chính sự nghiệp
+
+Căn_cứ <L rel="Pursuant"> Luật Quản_lý , sử_dụng tài_sản nhà_nước ngày 03 tháng 6 năm 2008 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 52/2009/NĐ-CP ngày 03 tháng 6 năm 2009 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Quản_lý , sử_dụng tài_sản nhà_nước </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 118/2008/NĐ-CP ngày 27 tháng 11 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này hướng_dẫn tiêu_chuẩn và điều_kiện của Phần_mềm Quản_lý_tài_sản cố_định áp_dụng trong khu_vực hành_chính sự_nghiệp ( sau đây gọi tắt là Phần_mềm Quản_lý_tài_sản cố_định ) . 
+
+2 . Đối_tượng áp_dụng Thông_tư này là các cơ_quan nhà_nước , đơn_vị sự_nghiệp công_lập ( sau đây gọi tắt là cơ_quan , đơn_vị ) khi xây_dựng , mua_sắm Phần_mềm Quản_lý_tài_sản cố_định . 
+
+3 . Tổ_chức chính_trị , tổ_chức chính_trị-xã_hội , tổ_chức chính_trị xã_hội-nghề_nghiệp , tổ_chức xã_hội , tổ_chức xã_hội-nghề_nghiệp ( sau đây gọi tắt là tổ_chức ) khi sử_dụng nguồn kinh_phí do ngân_sách nhà_nước cấp hoặc hỗ_trợ để xây_dựng , mua_sắm phần_mềm Quản_lý_tài_sản cố_định phải thực_hiện theo các quy_định tại Thông_tư này . 
+
+Điều 2 .  Xây_dựng , mua_sắm Phần_mềm Quản_lý_tài_sản cố_định 
+
+Việc quyết_định xây_dựng hoặc mua_sắm Phần_mềm Quản_lý_tài_sản cố_định và thủ_tục lựa_chọn đơn_vị cung_cấp Phần_mềm Quản_lý_tài_sản cố_định thực_hiện theo quy_định của <L rel="Reference"> Luật_Đấu_thầu ngày 29/11/2005 </L> , <L rel="Reference"> Luật Công_nghệ thông_tin ngày 29/6/2006 </L> , <NĐ rel="Reference"> Nghị_định số 102/2009/NĐ-CP ngày 06/11/2009 </NĐ> của Chính_phủ về quản_lý đầu_tư ứng_dụng công_nghệ thông_tin sử_dụng nguồn vốn ngân_sách nhà_nước và các văn_bản hướng_dẫn thi_hành , <NĐ rel="Reference"> Nghị_định số 85/2009/NĐ-CP ngày 15/10/2009 </NĐ> của Chính_phủ hướng_dẫn thi_hành <L rel="Others"> Luật_Đấu_thầu </L> và lựa_chọn nhà_thầu xây_dựng theo <L rel="Others"> Luật Xây_dựng </L> , <TT rel="Reference"> Thông_tư số 68/2012/TT-BTC ngày 26/4/2012 </TT> của Bộ Tài_chính quy_định việc đấu_thầu để mua_sắm tài_sản nhằm duy_trì hoạt_động thường_xuyên của cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị-xã_hội , tổ_chức chính_trị xã_hội-nghề_nghiệp , tổ_chức xã_hội , tổ_chức xã_hội-nghề_nghiệp , đơn_vị vũ_trang nhân_dân hoặc văn_bản sửa_đổi , bổ_sung ( nếu có ) .
+Điều 3 .  Tiêu_chuẩn của Phần_mềm Quản_lý_tài_sản cố_định 
+
+1 . Phần_mềm Quản_lý_tài_sản cố_định phải hỗ_trợ cho người sử_dụng tuân_thủ các quy_định của pháp_luật về quản_lý , sử_dụng tài_sản nhà_nước . 
+
+Khi sử_dụng Phần_mềm Quản_lý_tài_sản cố_định không được làm thay_đổi nghiệp_vụ quản_lý_tài_sản được quy_định tại các văn_bản quy_phạm pháp_luật hiện_hành về quản_lý , sử_dụng tài_sản nhà_nước . 
+
+Tài_liệu , báo_cáo về tài_sản nhà_nước được in ra từ Phần_mềm Quản_lý_tài_sản cố_định phải tuân_thủ mẫu biểu và nội_dung theo quy_định của pháp_luật , đảm_bảo sự thống_nhất giữa số_liệu tài_sản nhà_nước lưu_giữ trên máy và số_liệu tài_sản nhà_nước trên Sổ tài_sản , đảm_bảo cập_nhật kịp_thời các biến_động của tài_sản nhà_nước với tình_hình sử_dụng thực_tế của cơ_quan , tổ_chức , đơn_vị . 
+
+2 . Phần_mềm Quản_lý_tài_sản cố_định phù_hợp với chế_độ quản_lý , sử_dụng tài_sản nhà_nước hiện_hành và có khả_năng tích_hợp được với Cơ_sở dữ_liệu quốc_gia về tài_sản nhà_nước theo các nội_dung sau : 
+
+a ) Danh_mục tài_sản cố_định trong Phần_mềm Quản_lý_tài_sản cố_định phải bao_gồm các loại tài_sản : Đất ;  nhà ;  xe ô_tô ;  tài_sản khác có nguyên giá theo sổ kế_toán từ 500 triệu đồng trở lên/01 đơn_vị tài_sản ;  vật kiến_trúc ;  phương_tiện vận_tải , truyền_dẫn ;  máy_móc , thiết_bị ;  thiết_bị , dụng_cụ quản_lý ;  cây lâu_năm , súc_vật làm_việc và cho sản_phẩm ;  tài_sản đặc_biệt ;  tài_sản cố_định hữu_hình khác ;  tài_sản cố_định vô_hình khác ( giá_trị bằng phát_minh sáng_chế , giá_trị bản quyền tác_giả , kiểu_dáng công_nghiệp , giải_pháp hữu_ích , giá_trị phần_mềm máy_tính ) . 
+
+Tiêu_chuẩn nhận biết tài_sản cố_định , tỷ_lệ hao_mòn tài_sản cố_định , nguyên giá , giá_trị còn lại , lý_do tăng , giảm tài_sản cố_định , các chỉ_tiêu theo_dõi phải phù_hợp với quy_định tại <QĐ rel="Reference"> Quyết_định số 32/2008/QĐ-BTC ngày 29/5/2008 </QĐ> của Bộ_trưởng Bộ Tài_chính về việc ban_hành Chế_độ Quản_lý , tính hao_mòn tài_sản cố_định trong các cơ_quan nhà_nước , đơn_vị_nghiệp và các tổ_chức có sử_dụng ngân_sách nhà_nước hoặc văn_bản sửa_đổi , bổ_sung ( nếu có ) .
+b ) Phần_mềm Quản_lý_tài_sản cố_định có khả_năng trao_đổi được thông_tin về tài_sản nhà_nước với Cơ_sở dữ_liệu quốc_gia về tài_sản nhà_nước .  Cấu_trúc Cơ_sở dữ_liệu , chuẩn về lưu_trữ dữ_liệu , trao_đổi thông_tin , chỉ_tiêu cần tích_hợp , mã đăng_ký tài_sản chung để áp_dụng và các tiêu_chuẩn khác để các Phần_mềm Quản_lý_tài_sản cố_định có thể_tích_hợp được dữ_liệu vào Cơ_sở dữ_liệu quốc_gia về tài_sản nhà_nước theo hướng_dẫn tại Phụ_lục đính kèm Thông_tư này hoặc thông_báo của Bộ Tài_chính khi có sự điều_chỉnh . 
+
+c ) Phần_mềm Quản_lý_tài_sản cố_định có khả_năng tự_động tính hao_mòn và khấu_hao tài_sản cố_định trong trường_hợp đơn_vị sự_nghiệp công_lập tự_chủ tài_chính sử_dụng tài_sản nhà_nước vào mục_đích sản_xuất , kinh_doanh dịch_vụ , cho thuê , liên_doanh , liên_kết theo quy_định của pháp_luật . 
+
+d ) Phần_mềm Quản_lý_tài_sản cố_định có khả_năng tổng_hợp được toàn_bộ dữ_liệu về tài_sản của tất_cả các đơn_vị thuộc phạm_vi quản_lý của cơ_quan , tổ_chức , đơn_vị đó . Các báo_cáo đầu_ra của Phần_mềm phải phù_hợp với các quy_định hiện_hành ( <TT rel="Reference"> Thông_tư số 245/2009/TT-BTC ngày 31/12/2009 </TT> của Bộ Tài_chính quy_định thực_hiện một_số nội_dung của <NĐ rel="Others"> Nghị_định số 52/2009/NĐ-CP ngày 03/6/2009 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Quản_lý sử_dụng tài_sản nhà_nước </L> ; <TT rel="Reference"> Thông_tư số 09/2012/TT-BTC ngày 19/01/2012 </TT> của Bộ Tài_chính sửa_đổi , bổ_sung một_số điều của <TT rel="Others"> Thông_tư số 245/2009/TT-BTC </TT> ; <TT rel="Reference"> Thông_tư số 89/2010/TT-BTC ngày 16/6/2010 </TT> của Bộ Tài_chính hướng_dẫn mẫu biểu thực_hiện công_khai quản_lý , sử_dụng tài_sản nhà_nước và báo_cáo số_liệu tình_hình quản_lý , sử_dụng tài_sản nhà_nước và Báo_cáo theo chế_độ kế_toán hiện_hành quy_định tại <TT rel="Reference"> Thông_tư số 185/2010/TT-BTC ngày 15/11/2010 </TT> của Bộ Tài_chính hướng_dẫn sửa_đổi , bổ_sung Chế_độ kế_toán hành_chính sự_nghiệp ban_hành kèm theo <QĐ rel="Others"> Quyết_định số 19/2006/QĐ-BTC ngày 30/3/2006 </QĐ> của Bộ_trưởng Bộ Tài_chính hoặc văn_bản sửa_đổi , bổ_sung ( nếu có ) ) .
+e ) Phần_mềm Quản_lý_tài_sản cố_định phải đảm_bảo thống_nhất dữ_liệu giữa các cấp trong đơn_vị .  Đối_với đơn_vị có các đơn_vị cấp dưới trực_thuộc có_thể xem và in báo_cáo tổng_hợp về tình_hình quản_lý , sử_dụng tài_sản nhà_nước của đơn_vị cấp dưới . 
+
+3 . Phần_mềm Quản_lý_tài_sản cố_định có khả_năng nâng_cấp , sửa_đổi , bổ_sung phù_hợp với những thay_đổi của chế_độ quản_lý , sử_dụng tài_sản nhà_nước mà không ảnh_hưởng đến dữ_liệu đã có . 
+
+4 . Phần_mềm Quản_lý_tài_sản cố_định tự_động xử_lý và đảm_bảo sự chính_xác về số_liệu tài_sản nhà_nước : 
+
+a ) Tự_động xử_lý , lưu_giữ số_liệu trên nguyên_tắc tuân_thủ các quy_trình quản_lý_tài_sản nhà_nước cũng như phương_pháp tính_toán các chỉ_tiêu trên báo_cáo theo quy_định hiện_hành ; 
+
+b ) Đảm_bảo sự phù_hợp , không trùng_lắp giữa các số_liệu tài_sản nhà_nước ; 
+
+c ) Có khả_năng tự_động dự_báo , phát_hiện và ngăn_chặn các sai_sót khi nhập dữ_liệu và quá_trình xử_lý thông_tin tài_sản . 
+
+5 . Phần_mềm Quản_lý_tài_sản cố_định phải đảm_bảo tính bảo_mật thông_tin và an_toàn dữ_liệu theo quy_định sau : 
+
+a ) Có khả_năng phân_quyền đến từng người sử_dụng theo chức_năng gồm : Quản_trị Cơ_sở dữ_liệu , Nhập dữ_liệu và Khai_thác dữ_liệu .  Mỗi vị_trí được phân_công có nhiệm_vụ và quyền_hạn được phân_định rõ_ràng , đảm_bảo người không có trách_nhiệm không_thể truy_cập vào công_việc của người khác trong Phần_mềm của đơn_vị nếu không được người có trách_nhiệm đồng_ý ; 
+
+b ) Có khả_năng tổ_chức theo_dõi được người dùng theo các tiêu_thức như : thời_gian truy_cập thông_tin tài_sản vào hệ_thống , các thao_tác của người truy_cập vào hệ_thống , các đối_tượng bị tác_động của thao_tác đó ; 
+
+c ) Có khả_năng lưu lại các dấu_vết trên Sổ tài_sản về việc chỉnh_sửa các số_liệu tài_sản đã được truy_cập chính_thức vào hệ_thống phù_hợp với từng phương_pháp sửa_chữa theo quy_định , đảm_bảo chỉ có người có trách_nhiệm mới được quyền chỉnh_sửa sai_sót đối_với các nghiệp_vụ đã được truy_cập chính_thức vào hệ_thống ; 
+
+d ) Có khả_năng phục_hồi được các dữ_liệu , thông_tin tài_sản trong các trường_hợp phát_sinh_sự_cố kỹ_thuật trong quá_trình sử_dụng . 
+
+Điều 4 .  Điều_kiện của Phần_mềm Quản_lý_tài_sản cố_định 
+
+1 . Phần_mềm Quản_lý_tài_sản cố_định trước khi đưa vào sử_dụng phải được đặt tên , thuyết_minh rõ xuất_xứ , tính_năng kỹ_thuật , mức_độ đạt các tiêu_chuẩn hướng_dẫn tại Thông_tư này và các quy_định hiện_hành trong quản_lý , sử_dụng tài_sản nhà_nước . 
+
+2 . Phần_mềm Quản_lý_tài_sản cố_định khi đưa vào sử_dụng phải có tài_liệu hướng_dẫn cụ_thể kèm theo để giúp người sử_dụng vận_hành an_toàn , có khả_năng xử_lý các sự_cố . 
+
+3 . Phần_mềm Quản_lý_tài_sản cố_định phải được hỗ_trợ từ đơn_vị cung_cấp thông_qua các hình_thức đơn_giản , thuận_tiện để đảm_bảo trong quá_trình triển_khai , thực_hiện được thông_suốt . 
+
+4 . Phần_mềm Quản_lý_tài_sản cố_định phải phù_hợp với các quy_định có liên_quan của tiêu_chuẩn kỹ_thuật về kết_nối hệ_thống , tích_hợp dữ_liệu , đặc_tả dữ_liệu và truy_xuất thông_tin theo quy_định tại <TT rel="Reference"> Thông_tư số 01/2011/TT-BTTTT ngày 04/01/2011 </TT> của Bộ Thông_tin và Truyền_thông về Công_bố Danh_mục_tiêu_chuẩn kỹ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước ; <TT rel="Reference"> Thông_tư số 24/2011/TT-BTTTT ngày 20/9/2011 </TT> của Bộ Thông_tin và Truyền_Thông quy_định về việc tạo_lập , sử_dụng và lưu_trữ dữ_liệu đặc_tả trên trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước hoặc các văn_bản sửa_đổi , bổ_sung ( nếu có ) .
+5 . Phần_mềm Quản_lý_tài_sản cố_định khi đưa vào sử_dụng phải đảm_bảo tính hợp_pháp . 
+
+Điều 5 .  Điều_khoản thi_hành 
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 20 tháng 01 năm 2014 . 
+
+2 . Đối_với các Phần_mềm quản_lý_tài_sản cố_định đang được sử_dụng tại cơ_quan , tổ_chức , đơn_vị chưa đáp_ứng các tiêu_chuẩn và điều_kiện tại Thông_tư này , trong thời_hạn một năm , kể từ ngày Thông_tư này có hiệu_lực thi_hành phải được nâng_cấp để đáp_ứng các tiêu_chuẩn và điều_kiện quy_định tại Thông_tư này . 
+
+Trong quá_trình thực_hiện , nếu phát_sinh vướng_mắc đề_nghị các cơ_quan , tổ_chức , đơn_vị phản_ánh kịp_thời về Bộ Tài_chính để phối_hợp giải_quyết ./. 

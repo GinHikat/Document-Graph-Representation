@@ -1,0 +1,274 @@
+Thông tư Quy định việc bảo đảm chất lượng và kiểm soát chất lượng trong quan trắc môi trường
+
+Căn_cứ <L rel="Pursuant"> Luật Bảo_vệ môi_trường ngày 29 tháng 11 năm 2005 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và môi_trường , đã được sửa_đổi , bổ_sung tại <NĐ rel="Others"> Nghị_định số 19/2010/NĐ-CP ngày 08 tháng 3 năm 2010 </NĐ> và <NĐ rel="Others"> Nghị_định 89/2010/NĐ-CP ngày 16 tháng 8 năm 2010 </NĐ> của Chính_phủ ;
+Căn_cứ vào các yêu_cầu của cơ_quan quản_lý nhà_nước về bảo_vệ môi_trường , các trạm và trung_tâm quan_trắc môi_trường , các tổ_chức và cá_nhân tham_gia hoạt_động quan_trắc môi_trường để xác_định mục_tiêu cụ_thể của chương_trình quan_trắc .  Việc xác_định mục_tiêu phải căn_cứ vào chính_sách , pháp_luật về bảo_vệ môi_trường hiện_hành và các nhu_cầu thông_tin cần thu_thập . 
+
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+1 . Thông_tư này quy_định việc bảo_đảm chất_lượng và kiểm_soát chất_lượng trong hoạt_động quan_trắc môi_trường . 
+
+2 . Hoạt_động quan_trắc môi_trường bằng các thiết_bị quan_trắc tự_động , liên_tục không thuộc phạm_vi điều_chỉnh của Thông_tư này . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với cơ_quan quản_lý Nhà_nước về môi_trường ở Trung_ương và địa_phương ;  các trạm và trung_tâm quan_trắc môi_trường và các tổ_chức , cá_nhân tham_gia hoạt_động quan_trắc môi_trường để giao_nộp báo_cáo , số_liệu cho cơ_quan quản_lý nhà_nước về môi_trường ở Trung_ương và địa_phương . 
+
+Điều 3 .  Các thuật_ngữ và định_nghĩa 
+
+1 . Bảo_đảm chất_lượng ( quality assurance-viết tắt là QA ) trong quan_trắc môi_trường là một hệ_thống tích_hợp các hoạt_động quản_lý và kỹ_thuật trong một tổ_chức nhằm bảo_đảm cho hoạt_động quan_trắc môi_trường đạt được các tiêu_chuẩn chất_lượng đã quy_định . 
+
+2 . Kiểm_soát chất_lượng ( quality control-viết tắt là QC ) trong quan_trắc môi_trường là việc thực_hiện các biện_pháp để đánh_giá , theo_dõi và kịp_thời điều_chỉnh để đạt được độ tập_trung , độ chính_xác của các phép đo nhằm bảo_đảm cho hoạt_động quan_trắc môi_trường đạt các tiêu_chuẩn chất_lượng theo quy_định . 
+
+3 . Độ tập_trung hoặc độ chụm ( precision ) là mức_độ tập_trung của các giá_trị đo_lặp của cùng một thông_số . 
+
+4 . Độ chính_xác ( accuracy ) là thước_đo độ tin_cậy của phương_pháp , mô_tả độ gần tới giá_trị thực của đại_lượng đo được . 
+
+5 . Mẻ mẫu ( sample batch ) là nhóm các mẫu được xử_lý , phân_tích theo một quy_trình thực_hiện , do một người phân_tích , trong cùng một lần hiệu chuẩn thiết_bị và được xử_lý , phân_tích liên_tục , đồng_thời trong một khoảng thời_gian nhất_định . 
+
+6 . Mẫu trắng hiện_trường ( field blank sample ) là mẫu_vật_liệu sạch được sử_dụng để kiểm_soát sự nhiễm bẩn trong quá_trình lấy mẫu , đo và thử_nghiệm tại hiện_trường .  Mẫu trắng hiện_trường được xử_lý , bảo_quản , vận_chuyển và phân_tích các thông_số trong phòng_thí_nghiệm tương_tự như mẫu thực . 
+
+7 . Mẫu_lặp hiện_trường ( field replicate/duplicate sample ) là hai mẫu trở lên được lấy tại cùng một vị_trí , cùng một thời_gian , sử_dụng cùng một thiết_bị lấy mẫu , được xử_lý , bảo_quản , vận_chuyển và phân_tích các thông_số trong phòng_thí_nghiệm tương_tự như nhau .  Mẫu_lặp hiện_trường được sử_dụng để kiểm_soát độ tập_trung của việc lấy mẫu , đo và thử_nghiệm tại hiện_trường . 
+
+8 . Mẫu trắng vận_chuyển ( trip blank sample ) là mẫu_vật_liệu sạch được sử_dụng để kiểm_soát sự nhiễm bẩn trong quá_trình vận_chuyển mẫu .  Mẫu trắng vận_chuyển được vận_chuyển cùng với mẫu thực trong cùng một điều_kiện , được bảo_quản , phân_tích các thông_số trong phòng_thí_nghiệm tương_tự như mẫu thực . 
+
+9 . Mẫu trắng thiết_bị ( equipment blank sample ) là mẫu_vật_liệu sạch được sử_dụng để kiểm_soát sự nhiễm bẩn của thiết_bị lấy mẫu , đánh_giá sự ổn_định và độ nhiễu của thiết_bị .  Mẫu trắng thiết_bị được xử_lý như mẫu thật bằng thiết_bị lấy mẫu , được bảo_quản , vận_chuyển và phân_tích các thông_số trong phòng_thí_nghiệm như mẫu thực . 
+
+10 .  Mẫu trắng phương_pháp ( method blank sample ) là mẫu_vật_liệu sạch , thường là nước_cất hai lần , được sử_dụng để kiểm_tra sự nhiễm bẩn dụng_cụ và hóa_chất , chất chuẩn trong quá_trình phân_tích mẫu .  Mẫu trắng phương_pháp được trải qua các bước xử_lý , phân_tích như mẫu thực . 
+
+11 .  Mẫu chuẩn thẩm_tra ( hoặc chuẩn kiểm_tra ) ( control standard sample ) là dung_dịch chuẩn của chất cần phân_tích có nồng_độ nằm trong khoảng đo của thiết_bị hay khoảng làm_việc của đường chuẩn được sử_dụng để kiểm_tra quá_trình hiệu chuẩn thiết_bị , theo_dõi quá_trình đo mẫu sau một khoảng thời_gian đo mẫu nhất_định . 
+
+12 .  Mẫu_lặp phòng_thí_nghiệm ( lab replicate/duplicate sample ) gồm hai hoặc nhiều hơn các phần của cùng một mẫu được chuẩn_bị , phân_tích độc_lập với cùng một phương_pháp .  Mẫu_lặp phòng_thí_nghiệm là mẫu được sử_dụng để đánh_giá độ chụm của kết_quả phân_tích . 
+
+13 .  Mẫu thêm chuẩn ( spike sample/matrix spike ) là mẫu được bổ_sung thêm một lượng chất cần phân_tích đã biết trước nồng_độ trên nền mẫu thực .  Mẫu thêm chuẩn được chuẩn_bị và phân_tích như đối_với các mẫu thực để xem_xét quá_trình thực_hiện của một phương_pháp phân_tích . 
+
+14 .  Mẫu chuẩn đối_chứng ( certified reference materials-viết tắt là CRMs ) là một lượng vật_liệu hay loại chất có đầy_đủ các tính_chất để hiệu chuẩn thiết_bị , đánh_giá một_phép thử hoặc để xác_định giá_trị đối_với các vật_liệu .  Mỗi mẫu chuẩn đối_chứng phải được kèm theo một chứng_nhận về giá_trị tham_khảo , độ không đảm_bảo đo ở một mức_độ tin_cậy . 
+
+15 .  Kế_hoạch bảo_đảm chất_lượng ( quality assurance project plan-viết tắt là QAPP ) là bản kế_hoạch mô_tả toàn_bộ các thủ_tục bảo_đảm chất_lượng cần_thiết , các hoạt_động kiểm_soát chất_lượng và các hoạt_động kỹ_thuật khác cần được thực_hiện của một chương_trình quan_trắc môi_trường , để bảo_đảm các kết_quả thu được đáp_ứng các yêu_cầu đề ra . 
+
+16 .  Giới_hạn phát_hiện của phương_pháp ( method detection limit-viết tắt là MDL ) là giá_trị nồng_độ thấp nhất của một chất cần phân_tích có độ chính_xác đến 99 % , nồng_độ chất cần phân_tích lớn hơn 0 . 
+
+17 .  Giới_hạn phát_hiện của thiết_bị ( instrument detection limit-viết tắt là IDL ) là giá_trị thấp nhất của một chất cần phân_tích được phát_hiện lớn hơn năm lần tín_hiệu nhiễu của thiết_bị . 
+
+Điều 4 .  Bảo_đảm chất_lượng trong xác_định mục_tiêu của chương_trình quan_trắc 
+
+Điều 5 .  Yêu_cầu cơ_bản đối_với một chương_trình quan_trắc 
+
+1 . Phù_hợp với chiến_lược , chương_trình , kế_hoạch bảo_vệ môi_trường quốc_gia . 
+
+2 . Thực_hiện đầy_đủ các quy_định về thiết_kế chương_trình quan_trắc môi_trường . 
+
+3 . Bảo_đảm đáp_ứng mục_đích sử_dụng số_liệu ;  thời_gian , tần_suất , thành_phần và thông_số quan_trắc hợp_lý , tối_ưu . 
+
+4 . Tuân_thủ các quy_định về quy_trình , phương_pháp cho từng thành_phần và thông_số môi_trường cần quan_trắc . 
+
+5 . Thường_xuyên được rà_soát , điều_chỉnh , bổ_sung . 
+
+Điều 6 .  Thiết_kế chương_trình quan_trắc môi_trường 
+
+1 . Xác_định mục_tiêu chương_trình quan_trắc theo quy_định tại Điều 4 Thông_tư này . 
+
+2 . Khảo_sát thực_tế khu_vực cần quan_trắc . 
+
+3 . Xác_định các nguồn gây tác_động , chất gây ô_nhiễm chủ_yếu của khu_vực quan_trắc ;  xác_định vấn_đề , đối_tượng ảnh_hưởng , các tác_động của khu_vực quan_trắc ;  xác_định ranh_giới khu_vực quan_trắc và dự_báo các tác_động hoặc những biến_đổi có_thể xảy ra trong khu_vực quan_trắc . 
+
+4 . Xác_định rõ kiểu , loại quan_trắc , thành_phần môi_trường cần quan_trắc . 
+
+5 . Lập danh_mục các thông_số quan_trắc theo thành_phần môi_trường : các thông_số_đo và thử_nghiệm tại hiện_trường , các thông_số phân_tích trong phòng_thí_nghiệm . 
+
+6 . Thiết_kế phương_án lấy mẫu : xác_định_tuyến , điểm lấy mẫu và đánh_dấu trên bản_đồ hoặc sơ_đồ ;  mô_tả vị_trí địa_lý , tọa_độ điểm quan_trắc ( kinh_độ , vĩ_độ ) và ký_hiệu các điểm quan_trắc . 
+
+7 . Xác_định tần_suất , thời_gian quan_trắc . 
+
+8 . Xác_định phương_pháp lấy mẫu , đo và thử_nghiệm tại hiện_trường và phương_pháp phân_tích trong phòng_thí_nghiệm . 
+
+9 . Xác_định quy_trình lấy mẫu , thể_tích mẫu cần lấy , loại dụng_cụ chứa mẫu , loại hóa_chất bảo_quản , thời_gian lưu mẫu , loại mẫu và số_lượng mẫu kiểm_soát chất_lượng ( mẫu QC ) . 
+
+10 .  Lập danh_mục và kế_hoạch bảo_trì , bảo_dưỡng , hiệu chuẩn các thiết_bị hiện_trường và thiết_bị phòng_thí_nghiệm , bao_gồm cả thiết_bị , dụng_cụ , phương_tiện bảo_đảm an_toàn lao_động . 
+
+11 .  Xác_định các phương_tiện phục_vụ hoạt_động lấy mẫu , vận_chuyển mẫu . 
+
+12 .  Lập kế_hoạch thực_hiện bảo_đảm chất_lượng và kiểm_soát chất_lượng ( QA/QC ) trong quan_trắc môi_trường .  Việc lập kế_hoạch bảo_đảm chất_lượng ( QAPP ) thực_hiện theo hướng_dẫn tại Phụ_lục I_Thông_tư này . 
+
+13 .  Lập kế_hoạch nhân_lực thực_hiện quan_trắc , trong đó nêu rõ nhiệm_vụ cụ_thể của từng cán_bộ , nhân_viên thực_hiện các hoạt_động quan_trắc môi_trường . 
+
+14 .  Lập dự_toán kinh_phí thực_hiện chương_trình quan_trắc , bao_gồm cả kinh_phí thực_hiện bảo_đảm chất_lượng và kiểm_soát chất_lượng trong quan_trắc môi_trường . 
+
+15 .  Lập danh_mục các tổ_chức , cá_nhân tham_gia thực_hiện chương_trình và trách_nhiệm của các bên liên_quan . 
+
+Mục 2 
+
+BẢO_ĐẢM CHẤT_LƯỢNG VÀ KIỂM_SOÁT CHẤT_LƯỢNG 
+
+TRONG QUAN_TRẮC TẠI HIỆN_TRƯỜNG 
+
+Điều 7 .  Bảo_đảm chất_lượng trong quan_trắc tại hiện_trường 
+
+1 . Xác_định vị_trí cần lấy mẫu . 
+
+2 . Xác_định các thông_số cần quan_trắc , bao_gồm : tên thông_số , đơn_vị đo , phương_pháp quan_trắc thông_số đó . 
+
+3 . Sử_dụng phương_pháp quan_trắc phù_hợp với mục_tiêu , thông_số quan_trắc .  Phương_pháp quan_trắc thực_hiện theo các văn_bản , quy_định pháp_luật hiện_hành về quan_trắc môi_trường hoặc theo phương_pháp theo tiêu_chuẩn quốc_tế đã được cơ_quan nhà_nước có thẩm_quyền của Việt_Nam thừa_nhận .  Thông_tin về thông_số và phương_pháp quan_trắc thực_hiện theo quy_định tại Bảng 1 Phụ_lục II Thông_tư này . 
+
+4 . Sử_dụng trang_thiết_bị phù_hợp với phương_pháp quan_trắc đã được xác_định , đáp_ứng yêu_cầu của phương_pháp về kỹ_thuật và đo_lường .  Trang_thiết_bị phải có hướng_dẫn sử_dụng , thông_tin chi_tiết về ngày bảo_dưỡng , kiểm_định , hiệu chuẩn và người sử_dụng thiết_bị quan_trắc .  Thông_tin về trang_thiết_bị quan_trắc thực_hiện theo quy_định tại Bảng 2 Phụ_lục II Thông_tư này . 
+
+5 . Sử_dụng phương_pháp , cách_thức bảo_quản mẫu phù_hợp với các thông_số quan_trắc theo các quy_định pháp_luật hiện_hành về quan_trắc môi_trường hoặc phương_pháp theo tiêu_chuẩn quốc_tế đã được cơ_quan nhà_nước có thẩm_quyền của Việt_Nam thừa_nhận .  Thông_tin về phương_pháp bảo_quản mẫu thực_hiện theo quy_định tại Bảng 3 Phụ_lục II Thông_tư này . 
+
+6 . Hóa_chất , mẫu chuẩn được chuẩn_bị đầy_đủ theo quy_định của từng phương_pháp quan_trắc , được đựng trong các bình chứa phù_hợp , có dán nhãn thể_hiện đầy_đủ các thông_tin về : tên hoặc loại hóa_chất , mẫu chuẩn ;  tên nhà sản_xuất ;  nồng_độ ;  ngày chuẩn_bị ;  người chuẩn_bị ;  thời_gian sử_dụng và các thông_tin khác ( nếu có ) . 
+
+7 . Dụng_cụ chứa mẫu phải đáp_ứng các yêu_cầu sau : 
+
+a ) Phù_hợp với từng thông_số quan_trắc ; 
+
+b ) Bảo_đảm chất_lượng , không làm ảnh_hưởng hoặc biến_đổi chất_lượng của mẫu ; 
+
+c ) Được dán nhãn trong suốt thời_gian tồn_tại của mẫu .  Nhãn thể_hiện các thông_tin về : thông_số quan_trắc ;  ký_hiệu mẫu ;  thời_gian lấy mẫu ;  phương_pháp bảo_quản mẫu đã sử_dụng và các thông_tin khác ( nếu có ) . 
+
+8 . Vận_chuyển mẫu phải bảo_toàn mẫu về chất_lượng và số_lượng .  Thời_gian vận_chuyển và nhiệt_độ của mẫu thực_hiện theo các văn_bản , quy_định hiện_hành về quan_trắc môi_trường đối_với từng thông_số quan_trắc . 
+
+9 . Giao và nhận mẫu được thực_hiện như sau : 
+
+a ) Giao và nhận mẫu ngay tại hiện_trường : do cán_bộ , nhân_viên thực_hiện quan_trắc hiện_trường bàn_giao cho cán_bộ , nhân_viên chịu trách_nhiệm vận_chuyển mẫu ; 
+
+b ) Giao và nhận mẫu tại phòng_thí_nghiệm : do cán_bộ , nhân_viên thực_hiện quan_trắc hiện_trường hoặc cán_bộ , nhân_viên chịu trách_nhiệm vận_chuyển bàn_giao cho cán_bộ , nhân_viên phòng_thí_nghiệm ; 
+
+c ) Việc giao và nhận mẫu quy_định tại điểm a , b khoản này phải có biên_bản bàn_giao , trong đó có đầy_đủ tên , chữ_ký của các bên có liên_quan theo các nội_dung quy_định tại Bảng 4 Phụ_lục II Thông_tư này . 
+
+10 .  Cán_bộ , nhân_viên thực_hiện quan_trắc tại hiện_trường phải có trình_độ , chuyên_môn phù_hợp .  Việc phân_công nhiệm_vụ cho từng cán_bộ , nhân_viên thực_hiện theo quy_định tại Bảng 5 Phụ_lục II Thông_tư này . 
+
+11 .  Báo_cáo lấy mẫu được thực_hiện và hoàn_thành ngay sau khi kết_thúc thời_gian lấy mẫu tại hiện_trường .  Nội_dung báo_cáo tối_thiểu phải gồm các thông_tin quy_định tại Bảng 6 Phụ_lục II Thông_tư này . 
+
+Điều 8 .  Kiểm_soát chất_lượng trong quan_trắc tại hiện_trường 
+
+1 . Không vượt quá 10 % tổng_số mẫu thực cần quan_trắc . 
+
+2 . Trường_hợp số_lượng mẫu thực cần quan_trắc của một chương_trình quan_trắc nhỏ hơn 30 mẫu thì số_lượng mẫu QC được sử_dụng ít_nhất là 03 mẫu . 
+
+Mục 3 
+
+TRONG PHÒNG THÍ_NGHIỆM 
+
+Điều 9 .  Bảo_đảm chất_lượng trong phòng_thí_nghiệm 
+
+1 . Về cán_bộ , nhân_viên phòng_thí_nghiệm : 
+
+a ) Có văn_bản quy_định cụ_thể về trách_nhiệm , quyền_hạn của các cán_bộ phòng_thí_nghiệm do người có thẩm_quyền quản_lý , phụ_trách phòng_thí_nghiệm ký , ban_hành ; 
+
+b ) Cán_bộ quản_lý phòng_thí_nghiệm phải trình_độ đại_học trở lên ; 
+
+c ) Nhân_viên chỉ được giao chính_thức thực_hiện thử_nghiệm khi lãnh_đạo phòng_thí_nghiệm đánh_giá là đạt được độ chính_xác theo yêu_cầu theo các tiêu_chí nội_bộ . 
+
+2 . Hệ_thống quản_lý chất_lượng phòng_thí_nghiệm : Phòng_thí_nghiệm phải thiết_lập và duy_trì hệ_thống quản_lý chất_lượng phù_hợp với phạm_vi hoạt_động , bảo_đảm tính khách_quan và chính_xác của các kết_quả thử_nghiệm . 
+
+3 . Kiểm_soát tài_liệu , hồ_sơ phòng_thí_nghiệm : Phòng_thí_nghiệm phải thực_hiện phân_loại , thống_kê , lưu_trữ , quản_lý và kiểm_soát các tài_liệu , hồ_sơ thuộc hệ_thống quản_lý chất_lượng của phòng . 
+
+4 . Đánh_giá nội_bộ về hoạt_động của phòng_thí_nghiệm : Hàng năm , phòng_thí_nghiệm phải lập kế_hoạch và tự đánh_giá được các hoạt_động của phòng nhằm kiểm_tra và xác_nhận mức_độ tuân_thủ các yêu_cầu của hệ_thống quản_lý chất_lượng đối_với hoạt_động của phòng_thí_nghiệm .  Sau khi đánh_giá , phòng_thí_nghiệm phải có các biện_pháp khắc_phục , cải_tiến các lỗi phát_hiện ( nếu có ) . 
+
+5 . Phương_pháp thử_nghiệm : 
+
+a ) Lựa_chọn phương_pháp thử_nghiệm : 
+
+Các phương_pháp thử_nghiệm được sử_dụng là các phương_pháp tiêu_chuẩn đã được ban_hành : tiêu_chuẩn Việt_Nam hoặc tiêu_chuẩn quốc_tế , tiêu_chuẩn khu_vực có độ chính_xác tương_đương hoặc cao hơn .  Ưu_tiên sử_dụng các phương_pháp được tiêu_chuẩn_hóa mới nhất .  Các phương_pháp nội_bộ do phòng_thí_nghiệm tự xây_dựng phải được phê_chuẩn theo quy_định tại điểm b khoản 5 Điều 9 Thông_tư này . 
+
+b ) Phê_chuẩn phương_pháp thử_nghiệm 
+
+Phòng_thí_nghiệm phải có kế_hoạch phê_chuẩn phương_pháp thử_nghiệm .  Trưởng_phòng thí_nghiệm chịu trách_nhiệm đánh_giá kế_hoạch , quá_trình thực_hiện và kết_quả phê_chuẩn phương_pháp theo các tiêu_chí nội_bộ , trình lãnh_đạo cấp trên ký ban_hành và áp_dụng phương_pháp thử_nghiệm trong phòng_thí_nghiệm ; 
+
+Phòng_thí_nghiệm phải có bằng_chứng bằng văn_bản về việc lựa_chọn phương_pháp , xác_nhận giá_trị sử_dụng của phương_pháp . 
+
+6 . Trang_thiết_bị phòng_thí_nghiệm : Phòng_thí_nghiệm phải lập kế_hoạch kiểm_tra , bảo_trì , bảo_dưỡng và hiệu chuẩn các thiết_bị theo định_kỳ .  Các thiết_bị không đáp_ứng yêu_cầu về kỹ_thuật theo nhà sản_xuất khuyến_cáo thì phải được khắc_phục sửa_chữa , hiệu_chỉnh trước khi đưa vào hoạt_động , nếu thiết_bị chưa thể sửa_chữa và hiệu_chỉnh được thì phải ngừng sử_dụng cho đến khi sửa_chữa , hiệu_chỉnh xong . 
+
+7 . Điều_kiện và môi_trường phòng_thí_nghiệm : Phòng_thí_nghiệm phải kiểm_soát các điều_kiện và môi_trường của phòng_thí_nghiệm , bảo_đảm không ảnh_hưởng đến kết_quả thử_nghiệm hoặc không ảnh_hưởng bất_lợi đến chất_lượng của các phép thử_nghiệm . 
+
+8 . Quản_lý mẫu thử_nghiệm : 
+
+a ) Các quy_trình quản_lý mẫu phải thích_hợp với từng thông_số phân_tích cụ_thể ; 
+
+b ) Hệ_thống mã_hóa mẫu của phòng_thí_nghiệm phải được xây_dựng và được duy_trì tại phòng_thí_nghiệm trong suốt thời_gian mẫu được lưu tại phòng_thí_nghiệm .  Hệ_thống mã_hóa mẫu phải bảo_đảm mẫu không bị nhầm_lẫn ; 
+
+c ) Khi tiếp_nhận mẫu , phòng_thí_nghiệm phải ghi lại các sai_lệch so với các điều_kiện bảo_quản mẫu đã quy_định .  Khi có bất_cứ nghi_ngờ nào về sự không phù_hợp , phòng_thí_nghiệm phải trao_đổi ý_kiến với khách_hàng ; 
+
+d ) Các mẫu sau khi được phân_tích xong cần phải được lưu_giữ và bảo_quản trong một thời_gian theo các quy_định hiện_hành để sử_dụng trong trường_hợp cần kiểm_tra và phân_tích lại . 
+
+9 . Bảo_đảm chất_lượng số_liệu : Phòng_thí_nghiệm phải xây_dựng các thủ_tục kiểm_soát chất_lượng để kiểm_tra tính đúng , độ lặp_lại của phép thử cũng như sự thành_thạo của nhân_viên thực_hiện phép thử . 
+
+Điều 10 .  Kiểm_soát chất_lượng trong phòng_thí_nghiệm 
+
+1 . Để kiểm_soát chất_lượng trong phòng_thí_nghiệm , phòng_thí_nghiệm phải sử_dụng mẫu QC như : mẫu trắng thiết_bị , mẫu trắng phương_pháp , mẫu lặp , mẫu thêm , mẫu chuẩn đối_chứng , chuẩn thẩm_tra hoặc mẫu QC khác do chương_trình quan_trắc yêu_cầu hoặc chương_trình bảo_đảm chất_lượng của phòng_thí_nghiệm đề ra . 
+
+2 . Số_lượng mẫu QC tối_thiểu cần thực_hiện trong mỗi mẻ mẫu phải đủ để kiểm_tra sự nhiễm bẩn của dụng_cụ , hóa_chất , thuốc_thử , các yếu_tố ảnh_hưởng và đánh_giá độ chụm , độ chính_xác của kết_quả phân_tích nhưng không được vượt quá 15 % tổng_số mẫu cần phân_tích của một chương_trình quan_trắc . 
+
+3 . Tiêu_chí chấp_nhận của kiểm_soát chất_lượng : kết_quả phân_tích các mẫu QC chỉ có giá_trị khi đưa ra được các giới_hạn để so_sánh và xác_định được sai_số chấp_nhận theo yêu_cầu của chương_trình quan_trắc hoặc theo tiêu_chí thống_kê mà phòng_thí_nghiệm xác_định được quá_trình phê_chuẩn phương_pháp .  Tiêu_chí chấp_nhận các mẫu kiểm_soát chất_lượng trong phòng_thí_nghiệm được quy_định tại Phụ_lục III Thông_tư này . 
+
+Mục 4 
+
+TRONG QUẢN_LÝ_SỐ_LIỆU VÀ LẬP BÁO_CÁO 
+
+Điều 11 .  Yêu_cầu cơ_bản trong quản_lý_số_liệu và lập báo_cáo quan_trắc môi_trường 
+
+1 . Quản_lý và đánh_giá số_liệu : 
+
+a ) Tài_liệu , hồ_sơ có liên_quan đến quá_trình quan_trắc tại hiện_trường và phân_tích trong phòng_thí_nghiệm phải được lập đầy_đủ , trung_thực , kịp_thời và được lưu_giữ , quản_lý theo quy_định ; 
+
+Số_liệu trong hoạt_động quan_trắc tại hiện_trường phải bảo_đảm đầy_đủ , thống_nhất với hồ_sơ quan_trắc tại hiện_trường ;  phù_hợp , thống_nhất với thời_gian và vị_trí lấy mẫu ;  phù_hợp , thống_nhất với phương_pháp , thiết_bị quan_trắc ; 
+
+Số_liệu trong hoạt_động phân_tích trong phòng_thí_nghiệm phải bảo_đảm đầy_đủ , thống_nhất với hồ_sơ phân_tích trong phòng_thí_nghiệm ;  phù_hợp , thống_nhất với thời_gian , thông_số phân_tích , các loại mẫu , các phương_pháp và thiết_bị phân_tích ;  phù_hợp với tiêu_chí chấp_nhận kết_quả phép đo . 
+
+b ) Số_liệu quan_trắc tại hiện_trường và phân_tích trong phòng_thí_nghiệm phải được kiểm_tra , tính_toán và xử_lý .  Trường_hợp , cán_bộ , nhân_viên quan_trắc và phân_tích phát_hiện các sai_sót trong các hoạt_động quan_trắc môi_trường phải báo_cáo lãnh_đạo để có quyết_định xử_lý hoặc hủy bỏ những số_liệu đó , không dùng cho mục_đích xử_lý_số_liệu và viết báo_cáo kết_quả quan_trắc .  Tuy_nhiên , các tài_liệu , số liệu ban_đầu trước khi xử_lý hoặc hủy_bỏ vẫn phải được lưu_giữ coi như hồ_sơ gốc , dùng trong các trường_hợp cần tra_cứu lại ; 
+
+c ) Kết_quả đo , thử_nghiệm tại hiện_trường , kết_quả phân_tích trong phòng_thí_nghiệm phải chính_xác , rõ_ràng , khách_quan ;  không suy_đoán , sửa_chữa hoặc tự_ý bổ_sung số_liệu .  Khi phát_hiện hoặc nghi_ngờ về kết_quả quan_trắc , có_thể cần tiến_hành quan_trắc , phân_tích lại và các cán_bộ , nhân_viên có liên_quan phải chịu trách_nhiệm thực_hiện việc ghi_chú trong tài_liệu , hồ_sơ quan_trắc để báo_cáo lãnh_đạo xem_xét , xử_lý . 
+
+2 . Lập báo_cáo quan_trắc : 
+
+a ) Tổ_chức thực_hiện quan_trắc môi_trường phải lập Báo_cáo kết_quả quan_trắc môi_trường sau mỗi đợt quan_trắc và Báo_cáo tổng_hợp kết_quả quan_trắc môi_trường hàng năm .  Các Báo_cáo kết_quả quan_trắc phải bao_gồm kết_quả việc thực_hiện QA/QC trong quan_trắc môi_trường ; 
+
+b ) Báo_cáo kết_quả quan_trắc phải bám sát và đáp_ứng mục_tiêu của chương_trình quan_trắc ;  bảo_đảm tính trung_thực , kịp_thời , chính_xác và khách_quan . 
+
+Điều 12 .  Kiểm_soát chất_lượng trong xử_lý_số_liệu 
+
+1 . Đánh_giá độ chụm của phép phân_tích 
+
+Mẫu_lặp được sử_dụng để đánh_giá độ chụm của kết_quả phân_tích .  Đối_với hai lần lặp , độ chụm được đánh_giá dựa trên việc đánh_giá RPD , được tính_toán như sau : 
+
+Trong đó : 
+
+RPD : phần_trăm sai khác tương_đối của mẫu lặp ; 
+
+LD1 : kết_quả phân_tích lần thứ nhất ; 
+
+LD2 : kết_quả phân_tích lần thứ hai . 
+
+Giới_hạn RPD được tổ_chức thực_hiện quan_trắc thiết_lập dựa trên kết_quả phê_duyệt phương_pháp phân_tích nhưng không vượt quá 30 % . 
+
+2 . Đánh_giá tính hoàn_thiện của số_liệu 
+
+a ) Tính hoàn_thiện của số_liệu được xác_định thông_qua phần_trăm đầy_đủ của số_liệu , là phép đo số_lượng mẫu cần quan_trắc , được so_sánh với số_lượng mẫu quan_trắc dự_kiến lấy ban_đầu . 
+
+b ) Cách tính : Công_thức sau đây được sử_dụng để xác_định phần_trăm đầy_đủ của số_liệu ( % ) : 
+
+C : Phần_trăm đầy_đủ của số_liệu ( % ) ; 
+
+v : số_lượng phép đo mẫu quan_trắc theo kế_hoạch được chấp_nhận hợp_lệ ; 
+
+T : tổng_số mẫu cần quan_trắc theo dự_kiến ban_đầu . 
+
+C phải bảo_đảm đạt từ 95 % trở lên thì số_liệu quan_trắc bảo_đảm nhu_cầu cung_cấp và sử_dụng thông_tin . 
+
+Điều 13 .  Bảo_đảm chất_lượng trong lập báo_cáo 
+
+1 . Báo_cáo kết_quả quan_trắc môi_trường phải được lãnh_đạo của các tổ_chức thực_hiện quan_trắc môi_trường ký , đóng_dấu xác_nhận trước khi giao_nộp cho cơ_quan có thẩm_quyền . 
+
+2 . Các Báo_cáo kết_quả quan_trắc môi_trường được lập theo các nội_dung quy_định tại Phụ_lục IV Thông_tư này . 
+
+Điều 14 .  Tổ_chức thực_hiện 
+
+1 . Tổng_cục Môi_trường có trách_nhiệm hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này . 
+
+2 . Căn_cứ quy_trình , phương_pháp , định_mức kinh_tế-kỹ_thuật và chế_độ chi_tiêu hiện_hành có liên_quan , các tổ_chức tham_gia hoạt_động quan_trắc môi_trường trong quá_trình lập dự_toán kinh_phí thực_hiện quan_trắc phải lập dự_toán kinh_phí thực_hiện bảo_đảm chất_lượng và kiểm_soát chất_lượng . 
+
+Điều 15 .  Điều_khoản thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành , kể từ ngày 03 tháng 02 năm 2013 . 
+
+2 . <TT rel="Drop"> Thông_tư số 10/2007/TT-BTNMT ngày 22 tháng 10 năm 2007 </TT> của Bộ Tài_nguyên và Môi_trường hướng_dẫn bảo_đảm chất_lượng và kiểm_soát chất_lượng trong quan_trắc môi_trường hết hiệu_lực thi_hành kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+3 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc đề_nghị phản_ánh về Bộ Tài_nguyên và Môi_trường ( thông_qua Tổng_cục Môi_trường ) để kịp_thời xem_xét , giải_quyết ./. 

@@ -1,0 +1,200 @@
+Thông tư Hướng dẫn thực hiện thí điểm thủ tục biên phòng điện tử cảng biển
+
+Căn_cứ <L rel="Pursuant"> Luật ban_hành_văn_bản quy_phạm pháp_luật năm 2008 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử năm 2005 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 71/2006/NĐ-CP ngày 25 tháng 7 năm 2006 </NĐ> của Chính_phủ về quản_lý cảng biển và luồng hàng_hải ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 50/2008/NĐ-CP ngày 21 tháng 4 năm 2008 </NĐ> của Chính_phủ về quản_lý , bảo_vệ an_ninh , trật_tự tại cửa_khẩu cảng biển ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 104/2008/NĐ-CP ngày 16 tháng 9 năm 2008 </NĐ> của Chính_phủ Quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Quốc_phòng ;
+Căn_cứ <QĐ rel="Pursuant"> Quyết_định số 22/2011/QĐ-TTg ngày 15 tháng 4 năm 2011 </QĐ> của Thủ_tướng Chính_phủ về việc thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này hướng_dẫn thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ;  kiểm_tra biên_phòng trong và sau khi hoàn_thành thủ_tục biên_phòng điện_tử cảng biển . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+1 . Các đơn_vị Biên_phòng cửa_khẩu cảng quy_định tại Điều 3 <QĐ rel="Reference"> Quyết_định số 22/2011/QĐ-TTg ngày 15 tháng 4 năm 2011 </QĐ> của Thủ_tướng Chính_phủ về việc thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ( sau đây viết gọn là Quyết_định số 22/2011/QĐ-TTg ) ;
+2 . Chủ tàu , người quản_lý tàu , người khai_thác tàu hoặc người được ủy_quyền đăng_ký tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ( sau đây gọi chung là người làm thủ_tục ) ; 
+
+3 . Tàu , thuyền Việt_Nam nhập_cảnh , xuất_cảnh ;  Tàu , thuyền , thuyền_viên nước_ngoài nhập_cảnh , xuất_cảnh , quá_cảnh , chuyển cảng tại các cửa_khẩu cảng biển ( bao_gồm cả các tàu thăm_dò , khai_thác , dịch_vụ dầu_khí hoạt_động ngoài khơi ) do các đơn_vị Biên_phòng cửa_khẩu cảng quy_định tại khoản 1 Điều này quản_lý . 
+
+Thông_tư này không áp_dụng đối_với tàu cá Việt_Nam , tàu , thuyền nước_ngoài chuyển cảng đi từ các cửa_khẩu cảng thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển đến các cửa_khẩu cảng chưa thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ;  tàu , thuyền của cơ_quan , tổ_chức , cá_nhân nước_ngoài được hưởng quyền ưu_đãi , miễn_trừ theo quy_định của pháp_luật ;  tàu_biển chạy bằng năng_lượng nguyên_tử của nước_ngoài ;  tàu quân_sự , tàu thuộc lực_lượng Cảnh_sát biển nước_ngoài đến thăm , sửa_chữa , thực_hiện các hoạt_động khác tại nước Cộng_hòa xã_hội chủ_nghĩa Việt_Nam . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Thủ_tục biên_phòng điện_tử cảng biển là việc đơn_vị Biên_phòng cửa_khẩu cảng và người làm thủ_tục khai_báo , tiếp_nhận , xử_lý thông_tin và xác báo hoàn_thành thủ_tục biên_phòng cảng biển cho tàu , thuyền , thuyền_viên nhập_cảnh , xuất_cảnh , quá_cảnh , chuyển cảng qua cổng thông_tin điện_tử biên_phòng . 
+
+2 . Cổng thông_tin điện_tử biên_phòng là điểm truy_cập tập_trung , duy_nhất trên môi_trường mạng , tích_hợp các thông_tin , các dịch_vụ và ứng_dụng , phục_vụ cho việc thực_hiện thủ_tục biên_phòng điện_tử cảng biển qua mạng internet . 
+
+3 . Hệ_thống xử_lý dữ_liệu điện_tử biên_phòng cảng biển là hệ_thống_thiết_bị , phần_mềm và cơ_sở dữ_liệu do Bộ Tư_lệnh Bộ_đội Biên_phòng quản_lý tập_trung , thống_nhất , sử_dụng để thực_hiện thủ_tục biên_phòng điện_tử cảng biển . 
+
+4 . Khai_báo thủ_tục biên_phòng điện_tử cảng biển là việc người làm thủ_tục khai_báo các thông_tin cần_thiết trên các bản khai của hồ_sơ biên_phòng điện_tử cảng biển để làm thủ_tục biên_phòng cảng biển cho tàu , thuyền , thuyền_viên nhập_cảnh , xuất_cảnh , quá_cảnh và chuyển cảng qua cổng thông_tin điện_tử biên_phòng . 
+
+5 . Xác báo hoàn_thành thủ_tục biên_phòng điện_tử cảng biển là việc đơn_vị Biên_phòng cửa_khẩu cảng xác_nhận hoàn_thành thủ_tục biên_phòng cảng biển đối_với tàu , thuyền , thuyền_viên nhập_cảnh , xuất_cảnh , quá_cảnh , chuyển cảng cho người làm thủ_tục qua cổng thông_tin điện_tử biên_phòng . 
+
+Điều 4 .  Các mẫu biểu trong hồ_sơ biên_phòng điện_tử cảng biển và các mẫu biểu bổ_trợ liên_quan 
+
+1 . Các mẫu biểu trong hồ_sơ biên_phòng điện_tử cảng biển thực_hiện theo nội_dung Mục 1 tại Phụ_lục kèm theo Thông_tư này . 
+
+2 . Các mẫu biểu bổ_trợ liên_quan đến thủ_tục biên_phòng điện_tử cảng biển thực_hiện theo nội_dung Mục 2 tại Phụ_lục kèm theo Thông_tư này . 
+
+Điều 5 .  Quản_lý khai_thác , sử_dụng thông_tin liên_quan đến thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Bộ Tư_lệnh Bộ_đội Biên_phòng thực_hiện quản_trị , xử_lý toàn_bộ dữ_liệu , thông_tin liên_quan đến thủ_tục biên_phòng điện_tử cảng biển phục_vụ công_tác_nghiệp_vụ của Bộ_đội Biên_phòng ;  cấp tài_khoản truy_cập Cổng thông_tin điện_tử của Bộ_đội Biên_phòng cho các đơn_vị Biên_phòng cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển . 
+
+2 . Thủ_tục biên_phòng điện_tử cảng biển được đăng_tải trên cổng thông_tin điện_tử của Bộ_đội Biên_phòng ; 
+
+3 . Các đơn_vị Biên_phòng cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển cấp tài_khoản truy_cập Cổng thông_tin điện_tử của Bộ_đội Biên_phòng cho người làm thủ_tục sau khi tiếp_nhận , xem_xét , chấp_thuận công_văn đăng_ký tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển của người làm thủ_tục ;  cấp lại tài_khoản truy_cập trong trường_hợp người làm thủ_tục không_thể đăng_nhập Cổng thông_tin điện_tử của Bộ_đội Biên_phòng ;  được truy_cập vào Cổng thông_tin điện_tử của Bộ_đội Biên_phòng để tiếp_nhận , kiểm_tra , xử_lý các thông_tin khai_báo thủ_tục biên_phòng điện_tử cảng biển và xác báo hoàn_thành thủ_tục biên_phòng điện_tử cảng biển . 
+
+4 . Người_làm thủ_tục được cấp tài_khoản được truy_cập vào Cổng thông_tin điện_tử của Bộ_đội Biên_phòng để khai_báo thủ_tục biên_phòng điện_tử cảng biển và trao_đổi các thông_tin liên_quan khác với Biên_phòng cửa_khẩu cảng ;  tiếp_nhận các thông_báo phản_hồi của Biên_phòng cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển . 
+
+Điều 6 .  Bảo_mật thông_tin liên_quan đến thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Người_làm thủ_tục biên_phòng điện_tử cảng biển phải chịu trách_nhiệm về các thông_tin do mình cung_cấp trên mạng , phải tự bảo_vệ và chịu trách_nhiệm về việc sử_dụng mật_khẩu để truy_nhập , khai_báo thông_tin thủ_tục biên_phòng điện_tử cảng biển . 
+
+2 . Bộ Tư_lệnh Bộ_đội Biên_phòng chịu trách_nhiệm đảm_bảo an_toàn mọi dữ_liệu , thông_tin về thủ_tục biên_phòng điện_tử cảng biển .  Việc bảo_quản , sao lưu dữ_liệu được thực_hiện trên máy_chủ do Bộ Tư_lệnh Bộ_đội Biên_phòng quản_lý . 
+
+3 . Các đơn_vị Biên_phòng cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển chỉ sử_dụng thông_tin cá_nhân của người làm thủ_tục để xác_định chính_xác danh_tính , tư_cách pháp_nhân của người làm thủ_tục phục_vụ cấp tài_khoản truy_cập Cổng thông_tin điện_tử của Bộ_đội Biên_phòng và yêu_cầu quản_lý nghiệp_vụ ;  không được cung_cấp , chia_sẻ thông_tin cá_nhân của người làm thủ_tục cho bên thứ ba , trừ trường_hợp có sự đồng_ý của cá_nhân đó hoặc pháp_luật có quy_định khác ; 
+
+Các đơn_vị Biên_phòng cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển được sử_dụng , chia_sẻ cho các cơ_quan quản_lý nhà_nước chuyên_ngành tại cảng các thông_tin khai_báo liên_quan đến tàu , thuyền_viên , hành_khách , hàng_hóa của người làm thủ_tục để làm thủ_tục cho tàu , thuyền Việt_Nam nhập_cảnh , xuất_cảnh ;  tàu , thuyền , thuyền_viên nước_ngoài nhập_cảnh , xuất_cảnh , quá_cảnh , chuyển cảng tại cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển . 
+
+Điều 7 .  Xử_lý vi_phạm và giải_quyết khiếu_nại , tố_cáo trong thực_hiện thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Tổ_chức , cá_nhân có hành_vi vi_phạm các quy_định trong thực_hiện khai_báo thủ_tục biên_phòng điện_tử cảng biển , tùy theo tính_chất , mức_độ vi_phạm sẽ bị xử_phạt vi_phạm hành_chính hoặc bị đình_chỉ việc tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển , nếu gây thiệt_hại thì phải bồi_thường theo quy_định của pháp_luật . 
+
+2 . Cán_bộ , chiến_sĩ Bộ_đội Biên_phòng có hành_vi vi_phạm các quy_định trong thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển , tùy theo tính_chất , mức_độ vi_phạm sẽ bị xử_lý kỷ_luật theo quy_định của Điều_lệnh quản_lý bộ_đội của Quân_đội nhân_dân Việt_Nam , nếu gây thiệt_hại thì phải bồi_thường theo quy_định của pháp_luật . 
+
+3 . Việc khiếu_nại , tố_cáo và giải_quyết khiếu_nại , tố_cáo trong thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển , được thực_hiện theo quy_định của pháp_luật về khiếu_nại , tố_cáo . 
+
+Điều 8 .  Đăng_ký tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển 
+
+Người_làm thủ_tục phải đăng_ký bằng văn_bản tham_gia thực_hiện thủ_tục biên_phòng điện_tử cảng biển thực_hiện theo Mẫu biểu 12 tại Phụ_lục kèm theo Thông_tư này .  Trong thời_hạn 03 ngày làm_việc , kể từ ngày nhận được bản đăng_ký tham_gia , Biên_phòng cửa_khẩu cảng phải có văn_bản trả_lời đồng_ý hoặc không đồng_ý thực_hiện theo các Mẫu biểu 13 , 14 tại Phụ_lục kèm theo Thông_tư này . 
+
+Điều 9 .  Thời_hạn thực_hiện thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Chậm nhất 08 giờ trước khi tàu , thuyền dự_kiến đến cảng và 02 giờ trước khi tàu , thuyền dự_kiến rời cảng , các thông_tin liên_quan đến tàu , thuyền , thuyền_viên nhập_cảnh , xuất_cảnh , quá_cảnh , chuyển cảng ;  hàng_hóa_nhập_khẩu , xuất_khẩu , quá_cảnh , chuyển cảng tại cửa_khẩu cảng biển phải được người làm thủ_tục khai_báo theo mẫu biểu quy_định trong hồ_sơ thủ_tục biên_phòng điện_tử cảng biển . 
+
+Thời_gian bắt_đầu thực_hiện thủ_tục biên_phòng điện_tử cảng biển được xác_định từ thời_điểm hệ_thống xử_lý dữ_liệu điện_tử biên_phòng tiếp_nhận đầy_đủ thông_tin cần_thiết do người làm thủ_tục khai_báo , gửi đến . 
+
+2 . Chậm nhất 01 giờ kể từ khi tiếp_nhận đầy_đủ các thông_tin mà người làm thủ_tục khai_báo trong hồ_sơ điện_tử gửi tới , Biên_phòng cửa_khẩu cảng phải xác báo hoàn_thành thủ_tục biên_phòng điện_tử cảng biển .  Thời_điểm xác_định hoàn_thành thủ_tục biên_phòng điện_tử cảng biển là thời_điểm Biên_phòng cửa_khẩu cảng gửi xác_nhận hoàn_thành thủ_tục biên_phòng điện_tử cảng biển cho người làm thủ_tục qua cổng thông_tin điện_tử biên_phòng . 
+
+Sau khi hoàn_thành thủ_tục biên_phòng điện_tử cảng biển và thủ_tục của các cơ_quan quản_lý nhà_nước chuyên_ngành khác tại cảng , tàu , thuyền nhập_cảnh , chuyển cảng đến được thực_hiện xếp , dỡ hàng_hóa và các hoạt_động khác theo chương_trình , kế_hoạch ; thuyền_viên thuộc tàu , thuyền đó được đi bờ . Việc đi bờ của thuyền_viên được thực_hiện theo quy_định tại Điều 18 <NĐ rel="Reference"> Nghị_định số 50/2008/NĐ-CP ngày 21 tháng 4 năm 2008 </NĐ> của Chính_phủ về quản_lý , bảo_vệ an_ninh , trật_tự tại cửa_khẩu cảng biển .
+3 . Chậm nhất 02 giờ sau khi tàu , thuyền neo đậu an_toàn tại cầu_cảng ;  chậm nhất 04 giờ sau khi tàu , thuyền neo đậu an_toàn trên sông , vịnh thuộc vùng nước cảng , người làm thủ_tục phải nộp hồ_sơ giấy cho Biên_phòng cửa_khẩu cảng ; 
+
+Đối_với các tàu , thuyền thăm_dò , khai_thác , dịch_vụ dầu_khí hoạt_động ngoài khơi , chậm nhất 02 giờ kể từ thời_điểm tàu , thuyền vào đến bờ , người làm thủ_tục phải nộp hồ_sơ giấy cho Biên_phòng cửa_khẩu cảng ; 
+
+4 . Trường_hợp tàu , thuyền không có thay_đổi về hành_trình , thuyền bộ , hành_khách ( nếu có ) , không vi_phạm các quy_định của pháp_luật Việt_Nam , sau khi tàu_thuyền rời cảng , chậm nhất 02 giờ đối_với tàu , thuyền neo đậu tại cầu_cảng , chậm nhất 04 giờ đối_với tàu , thuyền neo đậu trên sông , vịnh , người làm thủ_tục phải nộp hồ_sơ giấy cho Biên_phòng cửa_khẩu cảng . 
+
+5 . Đối_với tàu , thuyền nước_ngoài chuyển cảng đi , chuyển cảng đến giữa các cửa_khẩu cảng tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển , hồ_sơ biên_phòng tàu , thuyền chuyển cảng được lập dưới dạng hồ_sơ điện_tử và chuyển qua hệ_thống xử_lý dữ_liệu thông_tin biên_phòng điện_tử , sau khi hoàn_thành thủ_tục biên_phòng điện_tử cảng biển cho tàu , thuyền , người làm thủ_tục không phải nộp hồ_sơ giấy tàu , thuyền chuyển cảng cho Biên_phòng cửa_khẩu cảng . 
+
+Trường_hợp tàu , thuyền chuyển cảng có các loại giấy_phép do Biên_phòng cửa_khẩu cảng đi cấp cho tàu , thuyền , thuyền_viên , hành_khách có giá_trị sử_dụng tại cảng đến hoặc có văn_bản hồ_sơ vụ_việc liên_quan đến tàu , thuyền , thuyền_viên , hành_khách trên tàu cần bàn_giao cho Biên_phòng cửa_khẩu cảng đến xử_lý , thì Biên_phòng cửa_khẩu cảng đi phải lập hồ_sơ tàu , thuyền chuyển cảng bằng hồ_sơ giấy để chuyển theo tàu cho Biên_phòng cửa_khẩu cảng đến .  Tại cửa_khẩu cảng đi , chậm nhất 01 giờ trước khi tàu , thuyền rời cảng , người làm thủ_tục phải đến trụ_sở Biên_phòng cửa_khẩu cảng để tiếp_nhận hồ_sơ giấy của tàu , thuyền chuyển cảng , giao cho thuyền_trưởng để chuyển cho Biên_phòng cửa_khẩu cảng đến .  Tại cửa_khẩu cảng đến , chậm nhất 02 giờ đối_với tàu , thuyền neo đậu tại cầu_cảng , chậm nhất 04 giờ đối_với tàu , thuyền neo đậu trên sông , vịnh , người làm thủ_tục phải nộp hồ_sơ giấy của tàu , thuyền chuyển cảng cho Biên_phòng cửa_khẩu cảng đến . 
+
+6 . Đối_với tàu , thuyền nước_ngoài chuyển cảng đến từ các cửa_khẩu cảng chưa thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển đến các cửa_khẩu cảng thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển , chậm nhất 02 giờ sau khi tàu , thuyền neo đậu an_toàn tại cầu_cảng ;  chậm nhất 04 giờ sau khi tàu , thuyền neo đậu an_toàn trên sông , vịnh thuộc vùng nước cảng , người làm thủ_tục phải nộp hồ_sơ giấy của tàu , thuyền chuyển cảng cho Biên_phòng cửa_khẩu cảng đến . 
+
+Điều 10 .  Địa_điểm thực_hiện thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Trường_hợp bất_khả_kháng ( thiên_tai , hỏa_hoạn , gián_đoạn đường truyền do nhà cung_cấp dịch_vụ ) , người làm thủ_tục không_thể thực_hiện khai_báo thủ_tục biên_phòng điện_tử cảng biển qua cổng thông_tin điện_tử biên_phòng thì đến khai_báo và tiếp_nhận xác_nhận hoàn_thành thủ_tục biên_phòng điện_tử cảng biển trực_tiếp tại trụ_sở Biên_phòng cửa_khẩu cảng ; 
+
+2 . Địa_điểm tiếp_nhận khai_báo và xác_nhận hoàn_thành thủ_tục biên_phòng điện_tử cảng biển được thực_hiện_tại trụ_sở Biên_phòng cửa_khẩu cảng . 
+
+Điều 11 .  Khai_báo thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Khi khai_báo thủ_tục biên_phòng điện_tử cảng biển , người làm thủ_tục phải sử_dụng bản khai điện_tử thực_hiện theo các Mẫu_số 1 , 2 , 3 , 4 , 5 tại Phụ_lục kèm theo Thông_tư này , tại Cổng thông_tin điện_tử biên_phòng ;  việc khai_báo phải đầy_đủ , chính_xác và chịu trách_nhiệm trước pháp_luật về nội_dung khai_báo . 
+
+2 . Trường_hợp nhận được yêu_cầu khai_báo lại từ Biên_phòng cửa_khẩu cảng , người làm thủ_tục phải thực_hiện theo hướng_dẫn và sửa_đổi , bổ_sung theo yêu_cầu của Biên_phòng cửa_khẩu cảng . 
+
+3 . Sau 01 giờ , kể từ thời_điểm đã gửi đầy_đủ các bản khai điện_tử cần khai_báo cho Biên_phòng cửa_khẩu cảng mà chưa nhận được thông_tin phản_hồi thì người làm thủ_tục phải thông_báo ngay cho Biên_phòng cửa_khẩu cảng nơi làm thủ_tục biên_phòng điện_tử cảng biển để kiểm_tra , xử_lý . 
+
+Điều 12 .  Tiếp_nhận , xử_lý thông_tin khai_báo và thực_hiện thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Thủ_tục biên_phòng điện_tử cảng biển được thực_hiện 24h/24h trong ngày . Trường_hợp bất_khả_kháng ( thiên_tai , hỏa_hoạn , gián_đoạn đường truyền do nhà cung_cấp dịch_vụ ) , Biên_phòng cửa_khẩu cảng không_thể thực_hiện thủ_tục biên_phòng điện_tử cảng biển qua cổng thông_tin điện_tử biên_phòng thì thủ_tục biên_phòng cho tàu , thuyền , thuyền_viên thực_hiện theo quy_định tại <NĐ rel="Reference"> Nghị_định số 50/2008/NĐ-CP ngày 21 tháng 4 năm 2008 </NĐ> của Chính_phủ về quản_lý , bảo_vệ an_ninh , trật_tự tại cửa_khẩu cảng biển .
+2 . Trên_cơ_sở kết_quả phân_tích thông_tin của hệ_thống xử_lý dữ_liệu thông_tin điện_tử biên_phòng , kết_hợp với các nguồn thông_tin khác , Biên_phòng cửa_khẩu cảng chấp_nhận hoặc không chấp_nhận thực_hiện thủ_tục biên_phòng điện_tử cảng biển cho tàu , thuyền , thuyền_viên và phải thông_báo ngay cho người làm thủ_tục để thực_hiện và các cơ_quan quản_lý Nhà_nước chuyên_ngành tại cảng để phối_hợp thực_hiện . 
+
+3 . Xác_nhận hoàn_thành thủ_tục biên_phòng điện_tử cảng biển hoặc thông_báo từ_chối thực_hiện thủ_tục biên_phòng điện_tử cảng biển được Biên_phòng cửa_khẩu cảng gửi qua hệ_thống xử_lý dữ_liệu biên_phòng điện_tử hoặc bằng văn_bản trong trường_hợp không tiếp_nhận được ở dạng điện_tử ( văn_bản phải có chữ_ký , ghi rõ họ , tên người chịu trách_nhiệm ) .  Trong thông_báo từ_chối thực_hiện thủ_tục biên_phòng điện_tử cảng biển phải nêu rõ lý_do và các biện_pháp Biên_phòng cửa_khẩu cảng áp_dụng xử_lý . 
+
+4 . Xác_nhận hoàn_thành thủ_tục biên_phòng điện_tử cảng biển , yêu_cầu sửa_chữa , bổ_sung nội_dung khai_báo thủ_tục biên_phòng và thông_báo từ_chối thực_hiện thủ_tục biên_phòng điện_tử cảng biển thực_hiện theo các Mẫu biểu 7 , 8 , 9 , 11 tại Phụ_lục kèm theo Thông_tư này . 
+
+5 . Tàu , thuyền xuất_cảnh , chuyển cảng đi sau khi được xác báo hoàn_thành thủ_tục biên_phòng điện_tử cảng biển , mà có sự thay_đổi về hành_trình , thuyền bộ , hành_khách ( nếu có ) hoặc vi_phạm các quy_định của pháp_luật Việt_Nam phải xử_lý thì phải làm lại thủ_tục biên_phòng . 
+
+6 . Trường_hợp tàu , thuyền có dấu_hiệu vi_phạm các quy_định của pháp_luật Việt_Nam ; tàu , thuyền có người trốn trên tàu ; nội_dung thông_tin khai_báo không đầy_đủ , không chính_xác , Biên_phòng cửa_khẩu cảng từ_chối thực_hiện thủ_tục biên_phòng điện_tử cảng biển , đồng_thời tiến_hành thực_hiện thủ_tục biên_phòng cho tàu , thuyền , thuyền_viên theo quy_định tại <NĐ rel="Reference"> Nghị_định số 50/2008/NĐ-CP ngày 21 tháng 4 năm 2008 </NĐ> của Chính_phủ về quản_lý , bảo_vệ an_ninh , trật_tự tại cửa_khẩu cảng biển và kiểm_tra trực_tiếp tại tàu ;
+Việc từ_chối thực_hiện thủ_tục biên_phòng điện_tử cảng biển do Chỉ_huy_trưởng đơn_vị Biên_phòng cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển quyết_định thực_hiện theo Mẫu biểu 15 tại Phụ_lục kèm theo Thông_tư này . 
+
+Điều 13 .  Sửa_chữa , bổ_sung trong khai_báo hồ_sơ biên_phòng điện_tử cảng biển 
+
+1 . Người_làm thủ_tục được thực_hiện sửa_chữa , bổ_sung nội_dung khai_báo trên các bản khai hồ_sơ biên_phòng điện_tử cảng biển trong các trường_hợp sau : 
+
+a ) Chậm nhất 01 giờ , kể từ thời_điểm đã gửi các bản khai điện_tử cho Biên_phòng cửa_khẩu cảng , người làm thủ_tục tự_phát_hiện những sai_sót và đề_nghị được sửa_chữa , bổ_sung nội_dung thông_tin đã khai_báo thực_hiện theo Mẫu biểu 10 tại Phụ_lục kèm theo Thông_tư này ; 
+
+b ) Sau khi đã khai_báo thủ_tục biên_phòng điện_tử cảng biển , vì lý_do khách_quan mà người làm thủ_tục mới cập_nhật được những thông_tin cần khai_báo bổ_sung hoặc những thông_tin phải khai_báo theo quy_định , nhưng phát_sinh sau thời_điểm đã hoàn_thành thủ_tục biên_phòng điện_tử cảng biển thực_hiện theo Mẫu biểu 10 tại Phụ_lục kèm theo Thông_tư này . 
+
+c ) Theo yêu_cầu sửa_chữa , bổ_sung nội_dung khai_báo thủ_tục biên_phòng của Biên_phòng cửa_khẩu cảng . 
+
+2 . Khi sửa_chữa , bổ_sung người làm thủ_tục thực_hiện theo nội_dung điểm a , b khoản 1 Điều này và phải nêu rõ lý_do sửa_chữa , bổ_sung . 
+
+3 . Xử_lý hồ_sơ sửa_chữa , khai bổ_sung 
+
+a ) Biên_phòng cửa_khẩu cảng quyết_định chấp_nhận cho phép sửa_chữa , khai bổ_sung thông_qua kiểm_tra , xác_minh , làm rõ lý_do đề_nghị sửa_chữa , khai bổ_sung của người làm thủ_tục ; 
+
+b ) Bản khai trước và bản khai bổ_sung , sửa_chữa được lưu lại trong hệ_thống xử_lý dữ_liệu biên_phòng điện_tử cảng biển để làm cơ_sở cho việc kiểm_tra , đối_chiếu , xác_định_tính xác_thực trong khai_báo hồ_sơ thủ_tục biên_phòng điện_tử cảng biển . 
+
+Điều 14 .  Đối_tượng kiểm_tra 
+
+1 . Hồ_sơ biên_phòng điện_tử cảng biển và hồ_sơ giấy . 
+
+2 . Thuyền_viên thực_tế trên tàu và hộ_chiếu , giấy_tờ có giá_trị thay hộ_chiếu của thuyền_viên . 
+
+Điều 15 .  Hình_thức và mức_độ kiểm_tra 
+
+1 . Kiểm_tra hồ_sơ biên_phòng điện_tử cảng biển thông_qua hệ_thống xử_lý dữ_liệu điện_tử biên_phòng ;  kiểm_tra , đối_chiếu thông_tin khai_báo trong hồ_sơ biên_phòng điện_tử cảng biển với hồ_sơ giấy do người làm thủ_tục nộp sau khi hoàn_thành thủ_tục biên_phòng điện_tử cảng biển và hộ_chiếu , giấy_tờ có giá_trị thay hộ_chiếu của thuyền_viên thông_qua hoạt_động đi bờ để phát_hiện và xử_lý các trường_hợp vi_phạm theo quy_định của pháp_luật . 
+
+2 . Kiểm_tra đột_xuất trực_tiếp tại tàu để đối_chiếu nội_dung đã khai_báo trong hồ_sơ biên_phòng điện_tử cảng biển với thực_tế hoặc yêu_cầu người làm thủ_tục xuất_trình hộ_chiếu , giấy_tờ có giá_trị thay hộ_chiếu của thuyền_viên sau khi đã hoàn_thành thủ_tục biên_phòng điện_tử cảng biển để đánh_giá mức_độ tuân_thủ pháp_luật của đối_tượng kiểm_tra biên_phòng . 
+
+3 . Kiểm_tra trực_tiếp trên tàu khi phát_hiện tàu , thuyền , thuyền_viên , hành_khách ( nếu có ) có dấu_hiệu vi_phạm pháp_luật , tàu , thuyền có người trốn trên tàu , thông_tin khai_báo về tàu , thuyền , thuyền_viên , hành_khách ( nếu có ) không đầy_đủ , không chính_xác để xử_lý theo quy_định của pháp_luật . 
+
+Điều 16 .  Thẩm_quyền quyết_định hình_thức , mức_độ kiểm_tra 
+
+Trên_cơ_sở kết_quả phân_tích , đánh_giá thông_tin khai_báo thủ_tục biên_phòng điện_tử cảng biển của hệ_thống xử_lý dữ_liệu biên_phòng điện_tử và các nguồn thông_tin khác , Chỉ_huy_trưởng đơn_vị Biên_phòng cửa_khẩu cảng nơi thực_hiện thủ_tục biên_phòng điện_tử cảng biển quyết_định hình_thức , mức_độ kiểm_tra hoặc thay_đổi các hình_thức , mức_độ kiểm_tra thực_hiện theo nội_dung khoản 2 , 3 Điều 15 của Thông_tư này . 
+
+Điều 17 .  Các giai_đoạn thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển 
+
+1 . Giai_đoạn I thực_hiện trong 01 năm , kể từ ngày 09/06/2011 ( Quyết_định số 22/2011/QĐ-TTg có hiệu_lực thi_hành ) : 
+
+a ) 03 tháng đầu : Tổ_chức thông_tin tuyên_truyền thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cho các tổ_chức , cá_nhân liên_quan tại các tỉnh , thành_phố trực_thuộc Trung_ương có cảng biển được chọn thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ;  xây_dựng Cổng thông_tin điện_tử biên_phòng phục_vụ thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ;  xây_dựng và ban_hành quy_trình thực_hiện thủ_tục biên_phòng điện_tử cảng biển ; 
+
+b ) Các tháng tiếp_theo : triển_khai đăng_ký tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển cho các tổ_chức , cá_nhân và tổ_chức thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển tại 07 đơn_vị Biên_phòng cửa_khẩu cảng quy_định tại Điều 3 <QĐ rel="Reference"> Quyết_định số 22/2011/QĐ-TTg </QĐ> .
+2 . Giai_đoạn II thực_hiện trong 01 năm ( kể từ khi kết_thúc Giai_đoạn I ) : 
+
+a ) 06 tháng đầu : sơ_kết , rút kinh_nghiệm , báo_cáo Thủ_tướng Chính_phủ quá_trình triển_khai thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển trong giai_đoạn I ; 
+
+b ) 06 tháng sau : hoàn_thiện quy_trình để tổng_kết thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển , phục_vụ cho việc triển_khai trên toàn_bộ hệ_thống cửa_khẩu cảng biển toàn_quốc ;  báo_cáo Thủ_tướng Chính_phủ , đề_xuất các nội_dung triển_khai trên toàn_bộ hệ_thống cửa_khẩu cảng biển toàn_quốc . 
+
+Điều 18 .  Tổ_chức thực_hiện 
+
+1 . Bộ Tư_lệnh Bộ_đội Biên_phòng 
+
+a ) Chủ_trì , phối_hợp với các cơ_quan , tổ_chức liên_quan triển_khai thực_hiện Thông_tư này ; 
+
+b ) Chỉ_đạo Bộ chỉ_huy Bộ_đội Biên_phòng các tỉnh , thành_phố có đơn_vị Biên_phòng cửa_khẩu cảng thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển chủ_trì , phối_hợp với Sở Tư_pháp và các ngành chức_năng liên_quan , tham_mưu cho Ủy_ban nhân_dân các tỉnh , thành_phố tổ_chức Hội_nghị quán_triệt <QĐ rel="Reference"> Quyết_định số 22/2011/QĐ-TTg </QĐ> và Thông_tư này đến các cấp , các ngành tại địa_phương ; tổ_chức tuyên_truyền , phổ_biến sâu_rộng trong cộng_đồng doanh_nghiệp vận_tải ; các tổ_chức , cá_nhân liên_quan , khuyến_khích và hỗ_trợ các doanh_nghiệp , tổ_chức , cá_nhân tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ;
+2 . Biên_phòng cửa_khẩu cảng nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển 
+
+a ) Chủ_trì , phối_hợp với các cơ_quan quản_lý nhà_nước chuyên_ngành tại cảng biển trong triển_khai thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển .  Tổ_chức tiếp_nhận và làm thủ_tục đăng_ký các doanh_nghiệp , tổ_chức , cá_nhân tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ; 
+
+b ) Cung_cấp phần_mềm , mẫu biểu ;  hướng_dẫn cài_đặt , khai_báo thông_tin cho người làm thủ_tục tham_gia thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ; 
+
+c ) Cung_cấp , chia_sẻ thông_tin liên_quan đến tàu , thuyền , thuyền_viên làm thủ_tục biên_phòng điện_tử cảng biển cho các cơ_quan nhà_nước chuyên_ngành tại cảng biển để cùng phối_hợp thực_hiện ;  tổ_chức kết_nối đường truyền dữ_liệu với các cơ_quan quản_lý nhà_nước chuyên_ngành tại cảng biển nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ( nếu có yêu_cầu ) ; 
+
+3 . Các cơ_quan quản_lý nhà_nước chuyên_ngành tại cảng biển nơi thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển 
+
+a ) Phối_hợp , tạo điều_kiện thuận_lợi cho Biên_phòng cửa_khẩu cảng trong triển_khai thực_hiện thí_điểm thủ_tục biên_phòng điện_tử cảng biển ; 
+
+b ) Cung_cấp , chia_sẻ thông_tin liên_quan đến lĩnh_vực an_ninh , trật_tự đối_với tàu , thuyền , thuyền_viên , hành_khách , hàng_hóa cho Biên_phòng cửa_khẩu cảng ; 
+
+c ) Phối_hợp với Biên_phòng cửa_khẩu cảng trong xử_lý các vi_phạm của tàu , thuyền , thuyền_viên , hành_khách và các tổ_chức , cá_nhân khác trong và ngoài nước có liên_quan ( khi có yêu_cầu ) . 
+
+4 . Tổ_chức , cá_nhân tham_gia thực_hiện khai_báo thủ_tục biên_phòng điện_tử cảng biển . 
+
+Chấp_hành nghiêm các quy_định tại <QĐ rel="Reference"> Quyết_định số 22/2011/QĐ-TTg </QĐ> , các nội_dung hướng_dẫn tại Thông_tư này và các quy_định pháp_luật có liên_quan .
+Điều 19 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực sau 45 ngày , kể từ ngày ký . 
+
+2 . Trong quá_trình thực_hiện nếu có vướng_mắc , các cơ_quan , đơn_vị và cá_nhân liên_quan kịp_thời phản_ánh về Bộ Quốc_phòng ( qua Bộ Tư_lệnh Bộ_đội Biên_phòng ) để xem_xét , giải_quyết ./. 

@@ -1,0 +1,201 @@
+Thông tư Quy định về việc quản lý, vận hành, sử dụng và bảo đảm an toàn thông tin trên mạng truyền số liệu chuyên dùng của các cơ quan Đảng, Nhà nước
+
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về Ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 </NĐ> của Chính_phủ Quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <L rel="Others"> Luật Viễn_thông </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ; <NĐ rel="Pursuant"> Nghị_định số 50/2011/NĐ-CP ngày 24 tháng 6 năm 2011 </NĐ> của Chính_phủ sửa_đổi <NĐ rel="Others"> Nghị_định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định về việc quản_lý , vận_hành , sử_dụng và bảo_đảm an_toàn thông_tin trên Mạng_truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+1 . Các tổ_chức , cá_nhân tham_gia quản_lý , vận_hành , sử_dụng Mạng_truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước . 
+
+2 . Các đơn_vị chuyên_trách công_nghệ thông_tin của các cơ_quan Đảng , Nhà_nước tại Trung_ương , Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Mạng_truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước là mạng truyền_dẫn tốc_độ cao , sử_dụng phương_thức chuyển mạch nhãn đa giao_thức trên nền giao_thức liên mạng ( IP/MPLS ) sử_dụng riêng trong hoạt_động ứng_dụng công_nghệ thông_tin của các cơ_quan Đảng và Nhà_nước do Tập_đoàn Bưu_chính Viễn_thông Việt_Nam xây_dựng , vận_hành ( sau đây gọi là Mạng chuyên_dùng ) . 
+
+2 . Đơn_vị sử_dụng Mạng chuyên_dùng là các cơ_quan thuộc hệ_thống chính_trị tại Trung_ương và địa_phương có điểm kết_nối vào Mạng chuyên_dùng . 
+
+Điều 4 .  Nguyên_tắc quản_lý , vận_hành Mạng chuyên_dùng 
+
+1 . Quản_lý , vận_hành Mạng chuyên_dùng phải bảo_đảm khai_thác hiệu_quả tài_nguyên mạng máy_tính và nâng cao chất_lượng ứng_dụng công_nghệ thông_tin trong hoạt_động của các cơ_quan Đảng , Nhà_nước . 
+
+2 . Mạng chuyên_dùng được quản_lý , vận_hành tập_trung , thống_nhất ;  được rà_soát kiểm_tra , đánh_giá định_kỳ để bảo_đảm an_toàn , bảo_mật và tính sẵn_sàng cao trong quá_trình vận_hành và sử_dụng . 
+
+3 . Mạng chuyên_dùng phải bảo_đảm thông_tin liên_lạc thông_suốt , liên_tục ( 24 giờ trong một ngày và 7 ngày trong một tuần ) . 
+
+Điều 5 .  Danh_mục dịch_vụ cung_cấp trên Mạng chuyên_dùng 
+
+1 . Các dịch_vụ truyền số_liệu và thuê kênh riêng sử_dụng công_nghệ kết_nối_mạng riêng ảo ( VPN ) gồm : 
+
+a ) Dịch_vụ Intranet IP/MPLS VPN ; 
+
+b ) Dịch_vụ Extranet IP/MPLS VPN ; 
+
+c ) Dịch_vụ Internet IP/MPLS VPN ; 
+
+d ) Dịch_vụ IP VPN truy_nhập từ xa ; 
+
+đ ) Dịch_vụ VPN liên_kết giữa các nhà cung_cấp . 
+
+2 . Dịch_vụ hội_nghị truyền_hình . 
+
+3 . Các dịch_vụ giá_trị gia_tăng gồm : 
+
+a ) Dịch_vụ truy_nhập Internet ; 
+
+b ) Dịch_vụ trung_tâm dữ_liệu ; 
+
+c ) Dịch_vụ cho thuê chỗ trên máy_chủ mạng ; 
+
+d ) Dịch_vụ máy_chủ mạng ; 
+
+đ ) Dịch_vụ máy_chủ thư điện_tử ; 
+
+e ) Dịch_vụ thoại voip . 
+
+Điều 6 .  Trách_nhiệm của Bộ Thông_tin và Truyền_thông 
+
+1 . Chỉ_đạo Tập_đoàn Bưu_chính Viễn_thông Việt_Nam điều_hành hoạt_động vận_hành và duy_trì Mạng chuyên_dùng . 
+
+2 . Hướng_dẫn , chỉ_đạo việc kết_nối các mạng viễn_thông khác phục_vụ cơ_quan Đảng , Nhà_nước với Mạng chuyên_dùng . 
+
+3 . Ban_hành theo thẩm_quyền giá cước sử_dụng Mạng chuyên_dùng . 
+
+4 . Hướng_dẫn các đơn_vị sử_dụng Mạng chuyên_dùng khai_thác hiệu_quả các dịch_vụ được cung_cấp trên Mạng chuyên_dùng . 
+
+5 . Thanh_tra , kiểm_tra và xử_lý các hành_vi vi_phạm theo thẩm_quyền . 
+
+Điều 7 .  Trách_nhiệm của Tập_đoàn Bưu_chính Viễn_thông Việt_Nam 
+
+1 . Bảo_đảm các yêu_cầu về dung_lượng , tốc_độ , chất_lượng dịch_vụ và an_toàn thông_tin của Mạng chuyên_dùng . 
+
+2 . Xây_dựng và công_bố : các quy_định về quản_lý , điều_hành khai_thác , cảnh_báo và khắc_phục sự_cố , bảo_dưỡng đường truyền kết_nối ;  các chỉ_tiêu chất_lượng mạng và dịch_vụ . 
+
+3 . Xây_dựng và trình Bộ Thông_tin và Truyền_thông ban_hành : quy_hoạch tài_nguyên mạng , các giải_pháp , các phương_án kỹ_thuật ;  kế_hoạch rà_soát , kiểm_tra , đánh_giá định_kỳ để bảo_đảm an_toàn Mạng chuyên_dùng . 
+
+4 . Công_bố các điểm đăng_ký dịch_vụ , hỗ_trợ kỹ_thuật , khắc_phục sự_cố và giải_quyết khiếu_nại ( sau đây gọi tắt là điểm đăng_ký dịch_vụ ) của các đơn_vị sử_dụng Mạng chuyên_dùng tại địa_phương tới cấp huyện . 
+
+5 . Xây_dựng và công_bố quy_định chi_tiết các nội_dung hợp_đồng mẫu và ủy_quyền điểm đăng_ký dịch_vụ gần nhất tiến_hành thương_thảo , ký_kết_hợp_đồng với đơn_vị sử_dụng Mạng chuyên_dùng . 
+
+6 . Bảo_đảm chất_lượng dịch_vụ theo quy_định tại hợp_đồng với đơn_vị sử_dụng Mạng chuyên_dùng ;  trong trường_hợp thay_đổi danh_sách các dịch_vụ , trình Bộ Thông_tin và Truyền_thông xem_xét phê_duyệt việc sửa_đổi danh_mục các dịch_vụ cung_cấp trên Mạng chuyên_dùng quy_định tại Điều 5 Thông_tư này . 
+
+7 . Điều_hành kết_nối hạ_tầng mạng đường_trục với mạng truy_nhập các cấp . 
+
+8 . Định_kỳ 6 tháng , hàng năm chỉ_đạo Viễn_thông các tỉnh , thành_phố trực_thuộc Trung_ương báo_cáo về tình_hình khai_thác , sử_dụng Mạng chuyên_dùng tại địa_phương với Sở Thông_tin và Truyền_thông ;  thực_hiện báo_cáo Bộ Thông_tin và Truyền_thông định_kỳ 3 tháng_một lần và đột_xuất theo yêu_cầu về tình_hình hoạt_động của Mạng chuyên_dùng . 
+
+Điều 8 .  Trách_nhiệm của Bộ Thông_tin và Truyền_thông 
+
+1 . Ban_hành theo thẩm_quyền cơ_chế , chính_sách bảo_đảm an_toàn mạng và thông_tin trên Mạng chuyên_dùng . 
+
+2 . Chỉ_đạo Tập_đoàn Bưu_chính Viễn_thông Việt_Nam thực_hiện các quy_định của pháp_luật về bảo_đảm an_toàn mạng và thông_tin trên Mạng chuyên_dùng . 
+
+3 . Thanh_tra , kiểm_tra và xử_lý theo thẩm_quyền các vi_phạm_quy_định về an_toàn mạng và thông_tin trên Mạng chuyên_dùng . 
+
+Điều 9 .  Trách_nhiệm của Tập_đoàn Bưu_chính Viễn_thông Việt_Nam 
+
+1 . Ban_hành quy_chế về bảo_vệ an_toàn mạng và thông_tin được truyền_tải trên Mạng chuyên_dùng . 
+
+2 . Tổ_chức thực_hiện các biện_pháp bảo_đảm Mạng chuyên_dùng đáp_ứng các tiêu_chuẩn , quy_chuẩn kỹ_thuật về an_toàn thông_tin . 
+
+3 . Triển_khai các giải_pháp và hệ_thống_thiết_bị dự_phòng để bảo_đảm cơ_sở hạ_tầng Mạng chuyên_dùng hoạt_động liên_tục và an_toàn . 
+
+4 . Triển_khai các giải_pháp , biện_pháp cần_thiết để ngăn_chặn việc sử_dụng , lợi_dụng mạng_lưới , thiết_bị , các công_cụ phần_cứng , phần_mềm để cản_trở , gây nhiễu , gây_rối_loạn , làm hư_hỏng , hủy_hoại hoạt_động của Mạng chuyên_dùng . 
+
+5 . Thường_xuyên kiểm_tra đánh_giá về mức_độ bảo_vệ an_toàn mạng và thông_tin trên mạng , tiến_hành những biện_pháp phòng_tránh , khắc_phục kịp_thời . 
+
+6 . Báo_cáo ngay Bộ Thông_tin và Truyền_thông để nhận chỉ_đạo , hỗ_trợ kịp_thời trong trường_hợp xảy ra sự_cố đối_với mạng đường_trục hoặc các sự_cố cần tổ_chức ứng_cứu thông_tin . 
+
+Điều 10 .  Sử_dụng , chia_sẻ và lưu_trữ thông_tin trên Mạng chuyên_dùng 
+
+1 . Thông_tin thuộc danh_mục bí_mật nhà_nước được truyền_tải trên Mạng chuyên_dùng phải tuân_thủ pháp_luật về bảo_vệ bí_mật nhà_nước . 
+
+2 . Việc sử_dụng , chia_sẻ và lưu_trữ thông_tin trên Mạng chuyên_dùng phải tuân_thủ các quy_định của pháp_luật về viễn_thông , công_nghệ thông_tin và lưu_trữ . 
+
+3 . Thông_tin được sử_dụng , chia_sẻ và lưu_trữ trên Mạng chuyên_dùng phải là những thông_tin phục_vụ cho hoạt_động quản_lý điều_hành và chuyên_môn nghiệp_vụ của đơn_vị sử_dụng Mạng chuyên_dùng . 
+
+Điều 11 .  Trách_nhiệm của đơn_vị sử_dụng Mạng chuyên_dùng 
+
+1 . Quản_lý , khai_thác và bảo_vệ thiết_bị mạng của điểm kết_nối đặt tại cơ_quan mình theo hợp_đồng với Tập_đoàn Bưu_chính Viễn_thông Việt_Nam . 
+
+2 . Chịu trách_nhiệm về nội_dung , thông_tin truyền đưa trên Mạng chuyên_dùng theo đúng qui_định pháp_luật . 
+
+3 . Không thay_đổi kết_nối , thông_số thiết_lập mạng của các thiết_bị liên_quan đến Mạng chuyên_dùng không thuộc thẩm_quyền , gây xung_đột tài_nguyên , ảnh_hưởng đến việc vận_hành hệ_thống Mạng chuyên_dùng . 
+
+4 . Chịu trách_nhiệm các vấn_đề liên_quan như : 
+
+a ) Hệ_thống tường lửa của đơn_vị đối_với Mạng chuyên_dùng ; 
+
+b ) Quản_lý bộ tập_trung người dùng mạng riêng ảo của cơ_quan được thiết_lập ( nếu có ) trên nền_tảng Mạng chuyên_dùng ; 
+
+c ) Quản_lý các tên_miền của cơ_quan ; 
+
+d ) Sở_hữu và quản_lý các chính_sách kết_nối Internet của riêng cơ_quan thông_qua Mạng chuyên_dùng ; 
+
+đ ) Ghi lại các sự_cố , lỗi xảy ra về kết_nối Mạng chuyên_dùng , về an_toàn , bảo_mật thông_tin ;  trường_hợp có sự_cố nghiêm_trọng vượt quá khả_năng khắc_phục của đơn_vị phải báo_cáo với điểm đăng_ký dịch_vụ gần nhất của Tập_đoàn Bưu_chính Viễn_thông Việt_Nam để phối_hợp khắc_phục kịp_thời , nhanh_chóng . 
+
+5 . Đăng_ký sử_dụng dịch_vụ chứng_thực chữ_ký số với Ban_Cơ_yếu Chính_phủ ( Bộ Nội_vụ ) để bảo_đảm an_toàn , bảo_mật thông_tin trên Mạng chuyên_dùng . 
+
+6 . Trong trường_hợp có kế_hoạch nâng_cấp , bảo_trì hệ_thống mạng nội_bộ có ảnh_hưởng đến Mạng chuyên_dùng , cần thông_báo cho điểm đăng_ký dịch_vụ gần nhất của Tập_đoàn Bưu_chính Viễn_thông Việt_Nam trước tối_thiểu 05 ngày làm_việc để bảo_đảm phù_hợp với quy_hoạch tổng_thể Mạng chuyên_dùng . 
+
+7 . Phải tuân_thủ các quy_định về quản_lý , vận_hành và sử_dụng Mạng chuyên_dùng ;  xây_dựng quy_chế nội_bộ về việc sử_dụng Mạng chuyên_dùng . 
+
+8 . Phải tuân_thủ các quy_định của pháp_luật về viễn_thông , về quản_lý và cấp phép cung_cấp thông_tin , thiết_lập trang thông_tin điện_tử trên Internet , về chế_độ bảo_mật , an_toàn thông_tin . 
+
+9 . Phải trả chi_phí sử_dụng theo quy_định tại <TT rel="Reference"> Thông_tư số 06/2010/TT-BTTTT ngày 11 tháng 02 năm 2010 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành giá cước sử_dụng Mạng_truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước . Kinh_phí này do các đơn_vị lập dự_toán và được bố_trí từ nguồn ngân_sách hàng năm trên cơ_sở tiết_kiệm , hiệu_quả .
+10 .  Trước ngày 01 tháng 12 hàng năm , báo_cáo đơn_vị chuyên_trách công_nghệ thông_tin của cơ_quan hoặc Sở Thông_tin và Truyền_thông tại địa_phương về tình_hình khai_thác , sử_dụng Mạng chuyên_dùng trong hoạt_động ứng_dụng công_nghệ thông_tin tại đơn_vị mình . 
+
+Điều 12 .  Trách_nhiệm của cá_nhân sử_dụng Mạng chuyên_dùng 
+
+1 . Người sử_dụng ( thuộc các đơn_vị sử_dụng Mạng chuyên_dùng ) khi kết_nối vào Mạng chuyên_dùng phải tuyệt_đối tuân_thủ những quy_định về quản_lý , vận_hành và sử_dụng Mạng chuyên_dùng . 
+
+2 . Khi sự_cố xảy ra , cần thông_báo kịp_thời cho người có thẩm_quyền để giải_quyết . 
+
+Điều 13 .  Trách_nhiệm hướng_dẫn , thi_hành 
+
+1 . Cục Ứng_dụng công_nghệ thông_tin có trách_nhiệm : 
+
+a ) Giúp Bộ_trưởng Bộ Thông_tin và Truyền_thông chỉ_đạo Tập_đoàn Bưu_chính Viễn_thông Việt_Nam quản_lý , vận_hành và duy_trì Mạng chuyên_dùng ; 
+
+b ) Tuyên_truyền , hướng_dẫn , đôn_đốc việc thực_hiện các nội_dung của Thông_tư này . 
+
+2 . Cục Viễn_thông có trách_nhiệm : 
+
+a ) Thực_hiện quản_lý , giám_sát việc triển_khai giá cước , kết_nối , chất_lượng mạng và dịch_vụ viễn_thông trên Mạng chuyên_dùng ; 
+
+b ) Trình Bộ_trưởng Bộ Thông_tin và Truyền_thông các giải_pháp bảo_đảm an_toàn , an_ninh đối_với cơ_sở hạ_tầng Mạng chuyên_dùng ; 
+
+c ) Thẩm_định quy_hoạch tài_nguyên mạng , các giải_pháp , phương_án kỹ_thuật , các kế_hoạch phát_triển Mạng chuyên_dùng do Tập_đoàn Bưu_chính Viễn_thông Việt_Nam đề_xuất . 
+
+3 . Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam có trách_nhiệm : 
+
+Phối_hợp với các đơn_vị chức_năng bảo_đảm an_toàn thông_tin truyền_tải trên Mạng chuyên_dùng ; 
+
+Phối_hợp , hỗ_trợ các đơn_vị sử_dụng Mạng chuyên_dùng trong việc xây_dựng các giải_pháp an_toàn thông_tin và khắc_phục sự_cố mất an_toàn thông_tin ; 
+
+Đề_xuất các giải_pháp giám_sát , cảnh_báo , ngăn_chặn cho mạng nội_bộ các đơn_vị kết_nối vào Mạng chuyên_dùng chống nguy_cơ xâm_nhập trái_phép qua Internet ; 
+
+Cung_cấp các dịch_vụ đánh_giá về kỹ_thuật an_toàn mạng cho các hệ_thống thông_tin của đơn_vị sử_dụng Mạng chuyên_dùng . 
+
+4 . Đơn_vị chuyên_trách công_nghệ thông_tin các cơ_quan Đảng , Nhà_nước tại Trung_ương có trách_nhiệm hàng năm báo_cáo về Bộ Thông_tin và Truyền_thông tình_hình sử_dụng Mạng chuyên_dùng trong hoạt_động ứng_dụng công_nghệ thông_tin của các đơn_vị thuộc và trực_thuộc cơ_quan . 
+
+5 . Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm : 
+
+a ) Tham_mưu cho Ủy_ban nhân_dân cấp tỉnh ban_hành quy_chế quản_lý , vận_hành và sử_dụng Mạng chuyên_dùng tại địa_phương ; 
+
+b ) Tuyên_truyền , phổ_biến , hướng_dẫn việc thực_hiện các quy_định của Thông_tư này cho các cơ_quan Đảng , Nhà_nước tại địa_phương ;  hướng_dẫn các đơn_vị này quản_lý , khai_thác hiệu_quả Mạng chuyên_dùng ; 
+
+c ) Trước ngày 15 tháng 12 hàng năm , tổng_hợp , báo_cáo về Bộ Thông_tin và Truyền_thông tình_hình khai_thác , sử_dụng Mạng chuyên_dùng trong hoạt_động ứng_dụng công_nghệ thông_tin tại địa_phương đơn_vị quản_lý . 
+
+6 . Thủ_trưởng các đơn_vị sử_dụng Mạng chuyên_dùng , trong phạm_vi chức_năng , nhiệm_vụ của mình , có trách_nhiệm tổ_chức triển_khai và kiểm_tra việc chấp_hành tại đơn_vị theo đúng các quy_định của Thông_tư này . 
+
+Điều 14 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 10 năm 2011 . 
+
+2 . Trong quá_trình thực_hiện quản_lý , vận_hành , khai_thác và sử_dụng Mạng chuyên_dùng , nếu có vướng_mắc tổ_chức , cá_nhân có liên_quan cần kịp_thời phản_ánh về Bộ Thông_tin và Truyền_thông ( Cục Ứng_dụng công_nghệ thông_tin ) ./. 

@@ -1,0 +1,201 @@
+Thông tư Quy định việc thu thập, sử dụng, chia sẻ, đảm bảo an toàn và bảo vệ thông tin cá nhân trên trang thông tin điện tử hoặc cổng thông tin điện tử của cơ quan nhà nước
+
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về Ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 187/2007/NĐ-CP ngày 25 tháng 12 năm 2007 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định việc thu_thập , sử_dụng , chia_sẻ thông_tin cá_nhân và các biện_pháp đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân trên trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước ( sau đây gọi là cổng thông_tin điện_tử ) . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+1 . Cơ_quan nhà_nước theo quy_định tại <NĐ rel="Reference"> Nghị_định 64/2007/NĐ-CP </NĐ> đang quản_lý , vận_hành cổng thông_tin điện_tử ( sau đây gọi là cơ_quan chủ_quản ) .
+2 . Cá_nhân khai_thác , sử_dụng cổng thông_tin điện_tử của cơ_quan nhà_nước . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Trang thông_tin điện_tử là trang thông_tin hoặc một tập_hợp trang thông_tin trên môi_trường mạng phục_vụ cho việc cung_cấp , trao_đổi thông_tin . 
+
+2 . Cổng thông_tin điện_tử là điểm truy_cập duy_nhất trên môi_trường mạng , liên_kết , tích_hợp các kênh thông_tin , các dịch_vụ và các ứng_dụng mà qua đó người dùng có_thể khai_thác , sử_dụng và cá_nhân hóa_việc hiển_thị thông_tin . 
+
+3 . Thông_tin cá_nhân là thông_tin đủ để xác_định chính_xác danh_tính một cá_nhân , bao_gồm ít_nhất một trong những thông_tin sau đây : họ tên , ngày_sinh , nghề_nghiệp , chức_danh , địa_chỉ liên_hệ , địa_chỉ thư điện_tử , số điện_thoại , số chứng_minh nhân_dân , số hộ_chiếu .  Những thông_tin thuộc bí_mật cá_nhân gồm có hồ_sơ y_tế , hồ_sơ nộp thuế , số thẻ bảo_hiểm_xã_hội , số thẻ tín_dụng và những bí_mật cá_nhân khác . 
+
+4 . Trang_chủ là trang thông_tin đầu_tiên mà người sử_dụng nhìn thấy khi mở cổng thông_tin điện_tử theo địa_chỉ cổng thông_tin điện_tử mà cơ_quan , tổ_chức đã đăng_ký và được cấp . 
+
+5 . Người sử_dụng là cá_nhân khai_thác , sử_dụng cổng thông_tin điện_tử của cơ_quan nhà_nước hoặc người đại_diện theo pháp_luật của cá_nhân đó . 
+
+Điều 4 .  Nguyên_tắc thu_thập , sử_dụng , chia_sẻ , đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân 
+
+1 . Việc_thu_thập , sử_dụng và chia_sẻ thông_tin cá_nhân qua cổng thông_tin điện_tử của cơ_quan nhà_nước được bảo_vệ và đảm_bảo an_toàn . 
+
+2 . Việc trao_đổi , truyền đưa , lưu_trữ thông_tin cá_nhân trên cổng thông_tin điện_tử được bảo_vệ và đảm_bảo an_toàn theo quy_định pháp_luật . 
+
+3 . Việc_thu_thập và sử_dụng thông_tin cá_nhân phải được sự đồng_ý của cá_nhân đó trừ những trường_hợp pháp_luật có quy_định khác . 
+
+4 . Đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân là yêu_cầu bắt_buộc trong quá_trình thiết_kế , xây_dựng , vận_hành , bảo_trì và nâng_cấp cổng thông_tin điện_tử của cơ_quan nhà_nước . 
+
+Điều 5 .  Thu_thập thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản thông_báo và hướng_dẫn trên cổng thông_tin điện_tử cho cá_nhân biết về hình_thức , phạm_vi và mục_đích của việc thu_thập và sử_dụng thông_tin cá_nhân . 
+
+2 . Hình_thức thu_thập thông_tin cá_nhân bao_gồm : do người sử_dụng cung_cấp khi sử_dụng dịch_vụ công trực_tuyến hoặc được thu_thập tự_động trong quá_trình người sử_dụng truy_cập cổng thông_tin điện_tử . 
+
+3 . Cơ_quan chủ_quản có trách_nhiệm tạo các biểu_mẫu điện_tử tích_hợp trong hệ_thống cổng thông_tin điện_tử để thu_thập thông_tin cá_nhân . 
+
+Điều 6 .  Sử_dụng thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản chỉ sử_dụng thông_tin cá_nhân cho những mục_đích đã được nêu rõ trước khi tiến_hành thu_thập thông_tin . 
+
+2 . Cơ_quan chủ_quản phải cung_cấp cơ_chế lựa_chọn giới_hạn nội_dung và phạm_vi sử_dụng thông_tin cá_nhân . 
+
+Điều 7 .  Truy_cập và cập_nhật thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản phải cung_cấp cho người sử_dụng quyền truy_cập vào thông_tin cá_nhân của mình . 
+
+2 . Trường_hợp cá_nhân không_thể đăng_nhập để xem thông_tin của mình thì có quyền yêu_cầu cơ_quan chủ_quản cấp lại thông_tin về tài_khoản đăng_nhập . 
+
+3 . Cá_nhân có quyền yêu_cầu cơ_quan chủ_quản kiểm_tra , đính_chính , bổ_sung , sửa_đổi thông_tin cá_nhân . 
+
+4 . Trường_hợp thông_tin cá_nhân được sửa_đổi mà đã cung_cấp cho cơ_quan nhà_nước khác thì cơ_quan cung_cấp thông_tin phải thông_báo cho cơ_quan tiếp_nhận thông_tin biết để cập_nhật một_cách nhanh nhất . 
+
+Điều 8 .  Cung_cấp , chia_sẻ thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản không được cung_cấp , chia_sẻ thông_tin cá_nhân thu_thập , tiếp_cận hoặc kiểm_soát được cho bên thứ ba_trừ trường_hợp có sự đồng_ý của cá_nhân đó hoặc pháp_luật có quy_định khác . 
+
+2 . Việc xin ý_kiến người sử_dụng để cung_cấp , chia_sẻ thông_tin cá_nhân phải được tiến_hành thông_qua một bước riêng để người đó lựa_chọn chấp_nhận hoặc từ_chối .  Không được thiết_lập cơ_chế chọn đồng_ý mặc_định cho người sử_dụng . 
+
+3 . Người sử_dụng có quyền yêu_cầu cấp xác_nhận về nội_dung thông_tin cá_nhân do cơ_quan chủ_quản lưu_trữ . 
+
+4 . Cơ_quan chủ_quản khi tiếp_nhận thông_tin cá_nhân từ một cơ_quan nhà_nước khác theo quy_định pháp_luật phải có trách_nhiệm đảm_bảo an_toàn và sử_dụng thông_tin cá_nhân đúng mục_đích . 
+
+Điều 9 .  Hoạt_động đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản có trách_nhiệm xây_dựng và ban_hành quy_định về đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân ;  hướng_dẫn và kiểm_tra thường_xuyên việc thực_hiện quy_định ;  bảo_đảm cổng thông_tin cá_nhân đáp_ứng các tiêu_chuẩn , quy_chuẩn kỹ_thuật về an_toàn thông_tin cá_nhân . 
+
+2 . Cơ_quan chủ_quản không chịu trách_nhiệm về đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân đối_với các trường_hợp sau : 
+
+a ) Thông_tin cá_nhân được tiết_lộ , công_khai bởi cơ_quan tiếp_nhận thông_tin ; 
+
+b ) Thông_tin cá_nhân do người sử_dụng vô_tình hoặc cố_ý tiết_lộ , chia_sẻ . 
+
+Điều 10 .  Giám_sát quá_trình sử_dụng thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản có trách_nhiệm xây_dựng và ban_hành nội_quy đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân khi khai_thác , sử_dụng dịch_vụ công trực_tuyến trên cổng thông_tin điện_tử . 
+
+2 . Nội_quy bao_gồm các quy_tắc quản_lý thông_tin cá_nhân đơn_giản , dễ hiểu để áp_dụng một_cách thích_hợp và hiệu_quả , phù_hợp với quy_mô cung_cấp thông_tin và dịch_vụ công trực_tuyến trên cổng thông_tin điện_tử . 
+
+3 . Nội_quy đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân phải được duy_trì và giám_sát thực_hiện thường_xuyên . 
+
+Điều 11 .  Công_khai quy_định đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản có trách_nhiệm thông_báo rõ các quy_định về đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân trên trang_chủ hoặc cung_cấp một cơ_chế để người sử_dụng dễ_dàng tiếp_cận và tìm_hiểu trên cổng thông_tin điện_tử . 
+
+2 . Các quy_định về đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân phải đáp_ứng các yêu_cầu sau đây : 
+
+a ) Nội_dung đơn_giản , rõ_ràng , dễ hiểu , phù_hợp với tính_chất , quy_trình công_việc liên_quan và không chồng_chéo ; 
+
+b ) Được tổ_chức khoa_học , có khả_năng in_ấn , hiển_thị được về sau và có_thể truy_cập bằng phương_pháp trực_tuyến ; 
+
+c ) Mô_tả cách_thức thông_tin cá_nhân sẽ được xử_lý sau khi thu_thập trên cổng thông_tin điện_tử , các nội_dung thông_tin có_thể được chia_sẻ với bên thứ ba ; 
+
+d ) Được hiển_thị rõ đối_với người sử_dụng trước thời_điểm người sử_dụng gửi thông_tin cá_nhân . 
+
+3 . Trường_hợp quy_định đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân có thay_đổi dưới bất_kỳ hình_thức nào , cơ_quan chủ_quản phải đăng_tải thông_tin cập_nhật trên cổng thông_tin điện_tử . 
+
+Điều 12 .  Các biện_pháp kỹ_thuật để đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản có trách_nhiệm áp_dụng các biện_pháp kỹ_thuật để đảm_bảo an_toàn dữ_liệu , an_toàn mạng máy_tính , đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân ;  chống truy_cập , sử_dụng , thay_đổi , phát_tán trái_phép thông_tin cá_nhân và các hành_vi không được phép khác . 
+
+2 . Áp_dụng quy_trình đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+3 . Sử_dụng công_nghệ mã_hóa đối_với thông_tin thuộc bí_mật cá_nhân . 
+
+4 . Áp_dụng quy_trình quản_lý an_toàn hạ_tầng kỹ_thuật bao_gồm ( nhưng không giới_hạn ) : 
+
+a ) Thiết_lập hệ_thống tường lửa ; 
+
+a ) Mã_hóa tín_hiệu trên đường truyền ; 
+
+c ) Sử_dụng tài_khoản , mật_khẩu ; 
+
+d ) Thiết_lập giải_pháp và hệ_thống_thiết_bị dự_phòng , tự_động khôi_phục dữ_liệu ; 
+
+đ ) Sử_dụng các thiết_bị chuyên_dụng có chức_năng bảo_vệ tự_động tăng_cường khả_năng phòng , chống sự tấn_công đột_nhập từ bên ngoài . 
+
+5 . Cơ_quan chủ_quản phải tuân_thủ các tiêu_chuẩn , quy_chuẩn kỹ_thuật về bảo_đảm an_toàn , bảo_vệ thông_tin cá_nhân trong quá_trình chia_sẻ , trao_đổi thông_tin giữa các cơ_quan nhà_nước . 
+
+Điều 13 .  Lưu_trữ thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản có trách_nhiệm lưu_trữ thông_tin cá_nhân trên cổng thông_tin điện_tử tới khi nào còn cần_thiết để thực_hiện dịch_vụ công trực_tuyến được đăng_ký và tuân_thủ quy_định của Nhà_nước về Lưu_trữ . 
+
+2 . Thông_tin cá_nhân được thu_thập để phục_vụ cho mục_đích khảo_sát , thống_kê chỉ được lưu_trữ đến khi công_tác khảo_sát , thống_kê kết_thúc . 
+
+Điều 14 .  Bảo_đảm tính tương_thích với công_nghệ 
+
+Cơ_quan chủ_quản hoặc tổ_chức , doanh_nghiệp được thuê xây_dựng , duy_trì hệ_thống cổng thông_tin điện_tử cho cơ_quan nhà_nước phải áp_dụng các tiêu_chuẩn , quy_chuẩn kỹ_thuật liên_quan đến bảo_đảm an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+Điều 15 .  Kiểm_tra , đánh_giá mức_độ đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân 
+
+1 . Cơ_quan chủ_quản cần tiến_hành kiểm_tra , đánh_giá thường_xuyên về mức_độ đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+2 . Quy_trình kiểm_tra , đánh_giá phải đáp_ứng các yêu_cầu sau đây : 
+
+a ) Tuân_thủ các quy_định pháp_luật ; 
+
+b ) Xác_định nội_dung thu_thập , mục_đích thu_thập , mục_đích sử_dụng , các cơ_quan được chia_sẻ thông_tin cá_nhân ; 
+
+c ) Đánh_giá hiệu_quả và rủi_ro của việc thu_thập , sử_dụng và chia_sẻ thông_tin cá_nhân ; 
+
+d ) Kiểm_tra và đánh_giá mức_độ đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân ; 
+
+đ ) Kiểm_định hạ_tầng kỹ_thuật về mặt an_toàn thông_tin phù_hợp với các tiêu_chuẩn , quy_chuẩn kỹ_thuật được quy_định ; 
+
+e ) Xây_dựng biện_pháp dự_phòng để giảm_thiểu tác_động xấu khi xảy ra mất an_toàn đối_với thông_tin cá_nhân ; 
+
+g ) Nghiên_cứu các hạn_chế của cổng thông_tin điện_tử liên_quan đến bảo_đảm tính toàn_vẹn của thông_tin cá_nhân để tiến_hành các biện_pháp khắc_phục kịp_thời . 
+
+3 . Ngay khi có sự thay_đổi hoặc nâng_cấp cổng thông_tin điện_tử , cơ_quan chủ_quản phải kiểm_tra đánh_giá lại về mức_độ đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+Điều 16 .  Điều_kiện đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân 
+
+1 . Cán_bộ , công_chức trong cơ_quan chủ_quản phải nắm vững các quy_định pháp_luật và nội_quy của cơ_quan về bảo_đảm an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+2 . Chuyên_viên kỹ_thuật phải được tuyển_chọn , đào_tạo , thường_xuyên bồi_dưỡng nghiệp_vụ phù_hợp với nhiệm_vụ được giao và được tạo điều_kiện làm_việc phù_hợp . 
+
+3 . Ưu_tiên sử_dụng chuyên_viên kỹ_thuật của cơ_quan chủ_quản để bảo_đảm an_toàn và bảo_vệ thông_tin cá_nhân lưu_trữ trên cổng thông_tin điện_tử .  Trường_hợp cần_thiết có_thể sử_dụng dịch_vụ đảm_bảo an_toàn thông_tin của các tổ_chức , doanh_nghiệp bên ngoài nhưng phải có cam_kết bằng văn_bản với tổ_chức , doanh_nghiệp đó về đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+4 . Cơ_quan chủ_quản có trách_nhiệm bố_trí kinh_phí để phục_vụ cho công_tác đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân trên cổng thông_tin điện_tử . 
+
+Điều 17 .  Trách_nhiệm của cơ_quan chủ_quản 
+
+1 . Thực_hiện theo các quy_định tại Thông_tư này để đảm_bảo thông_tin cá_nhân cung_cấp trên cổng thông_tin điện_tử được sử_dụng đúng mục_đích , không bị mất , đánh_cắp , tiết_lộ hay thay_đổi hoặc phá_hủy . 
+
+2 . Phối_hợp với các cơ_quan có thẩm_quyền trong quá_trình điều_tra , xử_lý các hành_vi vi_phạm các quy_định pháp_luật về đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+3 . Phổ_biến và đảm_bảo việc thực_hiện các quy_định về đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân trong nội_bộ cơ_quan . 
+
+4 . Tuyên_truyền , nâng cao nhận_thức cho các tổ_chức , cá_nhân tham_gia cung_cấp , khai_thác thông_tin và sử_dụng dịch_vụ công trực_tuyến trên cổng thông_tin điện_tử về mục_đích , vai_trò , ý_nghĩa của việc đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân . 
+
+Điều 18 .  Trách_nhiệm của người sử_dụng 
+
+1 . Cung_cấp thông_tin cá_nhân chính_xác , đầy_đủ , trung_thực để thực_hiện dịch_vụ công trực_tuyến hoặc khi được cơ_quan nhà_nước yêu_cầu và chịu trách_nhiệm đối_với những thông_tin cá_nhân do mình cung_cấp . 
+
+2 . Giữ kín tài_khoản cá_nhân khi tham_gia khai_thác , sử_dụng cổng thông_tin điện_tử của cơ_quan nhà_nước và hoàn_toàn chịu trách_nhiệm đối_với tất_cả các hoạt_động diễn ra thông_qua việc sử_dụng tài_khoản của mình . 
+
+3 . Tuân_thủ các quy_định và hướng_dẫn của cơ_quan nhà_nước để đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân trên cổng thông_tin điện_tử . 
+
+Điều 19 .  Trách_nhiệm hướng_dẫn thi_hành 
+
+1 . Cục Ứng_dụng công_nghệ thông_tin-Bộ Thông_tin và Truyền_thông có trách_nhiệm tuyên_truyền , hướng_dẫn , đôn_đốc việc thực_hiện các nội_dung của Thông_tư này ;  hằng năm đánh_giá việc đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân trên cổng thông_tin điện_tử của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương . 
+
+2 . Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_Nam ( VNCERT ) có trách_nhiệm phối_hợp , hỗ_trợ các vấn_đề liên_quan đến cổng thông_tin điện_tử có khả_năng gây mất an_toàn , an_ninh thông_tin cá_nhân ;  phối_hợp xây_dựng các tiêu_chuẩn kỹ_thuật áp_dụng cho cổng thông_tin điện_tử để đảm_bảo an_toàn và bảo_vệ thông_tin cá_nhân ;  hỗ_trợ các cơ_quan nhà_nước trong việc khắc_phục sự_cố mất đảm_bảo an_toàn thông_tin cá_nhân trên cổng thông_tin điện_tử . 
+
+3 . Thanh_tra Bộ Thông_tin và Truyền_thông có trách_nhiệm thanh_tra , kiểm_tra , xử_lý vi_phạm theo quy_định của pháp_luật trong việc thực_hiện các quy_định của Thông_tư này . 
+
+4 . Đơn_vị chuyên_trách công_nghệ thông_tin các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm tuyên_truyền , phổ_biến , hướng_dẫn việc thực_hiện các quy_định của Thông_tư này trong cơ_quan và các đơn_vị trực_thuộc . 
+
+Điều 20 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 01 năm 2011 . 
+
+2 . Trong quá_trình thực_hiện nếu có vấn_đề phát_sinh , vướng_mắc , các cơ_quan , tổ_chức , cá_nhân cần phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông để xem_xét , bổ_sung , sửa_đổi ./. 

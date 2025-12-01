@@ -1,0 +1,218 @@
+Thông tư Quy định về cung cấp, quản lý và sử dụng dữ liệu từ thiết bị giám sát hành trình của xe ô tô
+
+Căn_cứ <L rel="Pursuant"> Luật Giao_thông đường_bộ ngày 13 tháng 11 năm 2008 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 86/2014/NĐ-CP ngày 10 tháng 9 năm 2014 </NĐ> của Chính_phủ quy_định về kinh_doanh và điều_kiện kinh_doanh vận_tải bằng xe ô_tô ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định về cung_cấp , quản_lý và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình của xe ô_tô sau ( sau đây gọi chung là thiết_bị giám_sát hành_trình ) . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với các đơn_vị kinh_doanh vận_tải , bến xe_khách , bến_xe hàng , các đơn_vị cung_cấp dịch_vụ giám_sát hành_trình và các cơ_quan , tổ_chức , cá_nhân có liên_quan đến việc cung_cấp , quản_lý và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình của xe ô_tô trong phạm_vi toàn_quốc . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Hệ_thống thông_tin : là tập_hợp các thiết_bị phần_cứng , phần_mềm và đường truyền dùng để thu_nhận , quản_lý , khai_thác dữ_liệu từ thiết_bị giám_sát hành_trình . 
+
+2 . Dữ_liệu : là tập_hợp các thông_tin có cấu_trúc được truyền từ thiết_bị giám_sát hành_trình về máy_chủ dịch_vụ và từ máy_chủ dịch_vụ truyền về Tổng_cục Đường_bộ Việt_Nam . 
+
+3 . Máy_chủ dịch_vụ : là máy_chủ của đơn_vị vận_tải hoặc đơn_vị cung_cấp dịch_vụ giám_sát hành_trình thực_hiện việc tiếp_nhận dữ_liệu truyền về từ thiết_bị giám_sát hành_trình và có nhiệm_vụ truyền các dữ_liệu bắt_buộc về Tổng_cục Đường_bộ Việt_Nam theo quy_định . 
+
+4 . Đơn_vị cung_cấp dịch_vụ giám_sát hành_trình của xe ô_tô ( sau đây gọi dung là đơn_vị cung_cấp dịch_vụ ) : là đơn_vị tổ_chức thực_hiện việc cung_cấp dịch_vụ quản_lý , khai_thác , tổng_hợp , phân_tích và lưu_trữ dữ_liệu từ thiết_bị giám_sát hành_trình của xe ô_tô theo hợp_đồng với đơn_vị kinh_doanh vận_tải . 
+
+Điều 4 .  Quy_định về cung_cấp dữ_liệu 
+
+1 . Yêu_cầu về cung_cấp dữ_liệu : dữ_liệu cung_cấp được chia thành 02 loại , bao_gồm các dữ_liệu định_danh và dữ_liệu giám_sát hành_trình . 
+
+a ) Dữ_liệu định_danh bao_gồm : tên đơn_vị kinh_doanh vận_tải ;  tên Sở Giao_thông vận_tải ( nơi cấp giấy_phép kinh_doanh vận_tải ) ;  biển số xe ;  trọng_tải xe ( số_lượng hành_khách hoặc khối_lượng hàng chuyên_chở cho phép tham_gia giao_thông ) ;  loại_hình kinh_doanh .  Dữ_liệu định_danh này phải được gắn_kết với dữ_liệu giám_sát hành_trình . 
+
+b ) Dữ_liệu giám_sát hành_trình phải được cập_nhật liên_tục các thông_tin bao_gồm : số giấy_phép lái_xe ;  tốc_độ , thời_gian , tọa_độ của phương_tiện . 
+
+2 . Dữ_liệu từ thiết_bị giám_sát hành_trình phải được truyền về máy_chủ dịch_vụ với tần_suất không quá 30 giây trên một lần khi xe chạy và không quá 15 phút trên một lần khi xe dừng không hoạt_động ( khi xe dừng , đỗ để nghỉ trên hành_trình , xe chờ vào nốt xếp khách tại các bến_xe đối_với tuyến cố_định ) . 
+
+3 . Dữ_liệu phải đảm_bảo đầy_đủ theo cấu_trúc quy_định tại Phụ_lục 1 của Thông_tư này và phải đảm_bảo các yêu_cầu sau : 
+
+a ) Dữ_liệu từ thiết_bị giám_sát hành_trình phải được truyền về máy_chủ của Tổng_cục Đường_bộ Việt_Nam trong thời_gian không quá 02 phút , kể từ thời_điểm máy_chủ dịch_vụ nhận được dữ_liệu ; 
+
+b ) Dữ_liệu từ thiết_bị giám_sát hành_trình được truyền_thông_qua máy_chủ dịch_vụ về máy_chủ của Tổng_cục Đường_bộ Việt_Nam phải đảm_bảo theo trình_tự thời_gian .  Trường_hợp đường truyền bị gián_đoạn thì cho phép gửi đồng_thời cả dữ_liệu cũ và dữ_liệu hiện_tại khi đường truyền hoạt_động bình_thường ; 
+
+c ) Giao_thức truyền dữ_liệu theo chuẩn mở AMQP ( Advanced_Message Queuing_Protocol ) .  Định_dạng bản tin theo chuẩn Protocol_Buffers . 
+
+4 . Máy_chủ dịch_vụ và máy_chủ Tổng_cục Đường_bộ Việt_Nam tham_gia việc truyền , nhận dữ_liệu từ thiết_bị giám_sát hành_trình phải được đồng_bộ với thời_gian chuẩn Quốc_gia theo chuẩn NTP ( Network Time_Protocol ) . 
+
+5 . Dữ_liệu cung_cấp phải bảo_đảm kịp_thời , chính_xác , không được sửa_chữa và làm sai_lệch dữ_liệu trước hoặc trong khi truyền . 
+
+Điều 5 .  Quy_định về phương_pháp tính_toán vi_phạm 
+
+1 . Các vi_phạm về tốc_độ xe chạy , thời_gian lái_xe liên_tục , thời_gian làm_việc của lái_xe trong ngày , vi_phạm về truyền dữ_liệu được tính_toán , xác_định theo một phương_pháp thống_nhất trên máy_chủ dịch_vụ và máy_chủ của Tổng_cục Đường_bộ Việt_Nam . 
+
+2 . Tính_toán vi_phạm tốc_độ xe chạy 
+
+a ) Phương_pháp tính vi_phạm tốc_độ xe chạy được thực_hiện theo quy_định tại Phụ_lục 2 của Thông_tư này ; 
+
+b ) Phần_mềm trên máy_chủ phải thực_hiện tính_toán tốc_độ vi_phạm theo tốc_độ giới_hạn dựa trên biển_báo hoặc khu_vực hạn_chế tốc_độ được cơ_quan quản_lý đường_bộ công_bố . 
+
+3 . Tính_toán vi_phạm thời_gian lái_xe liên_tục 
+
+a ) Thời_gian lái_xe liên_tục của một người lái_xe được xác_định kể từ khi người lái_xe bắt_đầu điều_khiển phương_tiện ( xe bắt_đầu chạy ) đến khi xe dừng , đỗ từ 15 phút trở lên hoặc thay_đổi lái_xe ; 
+
+b ) Vi_phạm thời_gian lái_xe liên_tục được xác_định khi người lái_xe điều_khiển phương_tiện liên_tục từ 04 giờ trở lên nhưng không dừng , đỗ xe tối_thiểu 15 phút . 
+
+4 . Tính_toán vi_phạm thời_gian làm_việc của lái_xe trong ngày 
+
+a ) Ngày làm_việc của người lái_xe được tính từ khi người lái_xe bắt_đầu điều_khiển phương_tiện ( xe bắt_đầu chạy ) đến khi đủ 24 giờ hoặc đến khi người lái_xe nghỉ ( không điều_khiển phương_tiện ) đủ 14 giờ trở lên ; 
+
+b ) Vi_phạm thời_gian làm_việc của lái_xe trong ngày được xác_định khi tổng thời_gian lái_xe trong ngày làm_việc vượt quá 10 giờ . 
+
+5 . Tính_toán vi_phạm không truyền dữ_liệu 
+
+Vi_phạm không truyền dữ_liệu được xác_định khi phương_tiện có sự dịch_chuyển về vị_trí so với vị_trí được ghi_nhận tại thời_điểm bắt_đầu ngừng truyền dữ_liệu và không có dữ_liệu trong khoảng thời_gian phương_tiện di_chuyển giữa hai vị_trí . 
+
+Điều 6 .  Quy_định sử_dụng dữ_liệu 
+
+1 . Việc khai_thác dữ_liệu từ thiết_bị giám_sát hành_trình thực_hiện theo quy_định của pháp_luật về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước . 
+
+2 . Dữ_liệu từ thiết_bị giám_sát hành_trình của phương_tiện được khai_thác , sử_dụng để phục_vụ cho công_tác quản_lý vận_tải của đơn_vị kinh_doanh vận_tải , cơ_quan quản_lý nhà_nước ;  phục_vụ công_tác xử_lý vi_phạm theo hướng_dẫn của Bộ Giao_thông vận_tải ;  phục_vụ nghiên_cứu khoa_học và công_tác khác để bảo_đảm an_toàn giao_thông . 
+
+3 . Thông_tin , dữ_liệu trong cơ_sở dữ_liệu từ thiết_bị giám_sát hành_trình trên môi_trường mạng được bảo_mật theo quy_định của pháp_luật về công_nghệ thông_tin . 
+
+4 . Các thông_tin tổng_hợp về vi_phạm được ghi_nhận qua thiết_bị giám_sát hành_trình trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam được công_bố công_khai trên trang Thông_tin điện_tử của Tổng_cục Đường_bộ Việt_Nam . 
+
+Điều 7 .  Phân_cấp quản_lý , khai_thác và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình 
+
+1 . Tổng_cục Đường_bộ Việt_Nam quản_lý hệ_thống thông_tin thống_nhất trong phạm_vi cả nước , tổng_hợp dữ_liệu đầu_vào được truyền về từ đơn_vị kinh_doanh vận_tải hoặc đơn_vị cung_cấp dịch_vụ để phân_tích theo các chỉ_tiêu : 
+
+a ) Tổng_số lần và hành_vi vi_phạm của từng xe theo ngày , tháng , năm ; 
+
+b ) Tổng_số lần vi_phạm của xe theo từng hành_vi vi_phạm ; 
+
+c ) Tổng_số lần vi_phạm/1.000 km của từng xe , từng đơn_vị kinh_doanh vận_tải và từng Sở Giao_thông vận_tải ; 
+
+d ) Tỷ_lệ tổng_số km vi_phạm/tổng km xe chạy ( tính theo % ) ; 
+
+đ ) Tổng_hợp các xe có vi_phạm quá tốc_độ cao nhất ; 
+
+e ) Tổng_hợp các đơn_vị kinh_doanh vận_tải , các Sở Giao_thông vận_tải có tổng_số lần vi_phạm/1.000 km cao nhất ; 
+
+g ) Tỷ_lệ người lái_xe vi_phạm_quy_định về thời_gian lái_xe liên_tục , thời_gian làm_việc của lái_xe trong ngày trên số ngày xe hoạt_động ; 
+
+h ) Số lần và thời_gian không truyền dữ_liệu trong tháng của từng đơn_vị kinh_doanh vận_tải , Sở Giao_thông vận_tải ; 
+
+i ) Tổng_hợp tình_hình vi_phạm theo từng tuyến đường và theo các thời_điểm khác nhau . 
+
+2 . Sở Giao_thông vận_tải thực_hiện việc khai_thác , quản_lý dữ_liệu về biển số xe , trọng_tải xe ( số_lượng hành_khách hoặc khối_lượng hàng chuyên_chở cho phép tham_gia giao_thông ) , tên đơn_vị kinh_doanh vận_tải và các dữ_liệu vi_phạm về hành_trình , tốc_độ xe chạy , thời_gian lái_xe liên_tục , thời_gian làm_việc của lái_xe trong ngày của từng đơn_vị kinh_doanh vận_tải thuộc Sở trực_tiếp_quản_lý thông_qua tài_khoản đăng_nhập và mật_khẩu được cung_cấp để truy_cập vào hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam . 
+
+3 . Bến_xe_khách , bến_xe hàng được cung_cấp tài_khoản đăng_nhập vào cơ_sở dữ_liệu của Tổng_cục Đường_bộ Việt_Nam để phục_vụ công_tác quản_lý đối_với phương_tiện hoạt_động tại bến . 
+
+4 . Đơn_vị vận_tải hoặc đơn_vị cung_cấp dịch_vụ được ủy_quyền được cung_cấp tài_khoản đăng_nhập vào cơ_sở dữ_liệu của Tổng_cục Đường_bộ Việt_Nam để đối_chiếu , kiểm_chứng dữ_liệu gốc đã truyền và dữ_liệu đã xử_lý của các phương_tiện do đơn_vị cung_cấp dịch_vụ giám_sát hành_trình trên hệ_thống máy_chủ của Tổng_cục Đường_bộ Việt_Nam . 
+
+Điều 8 .  Trách_nhiệm của Tổng_cục Đường_bộ Việt_Nam 
+
+1 . Đầu_tư , xây_dựng hệ_thống thông_tin , quản_lý , nâng_cấp , bảo_trì trang_thiết_bị phần_cứng , phần_mềm và đường truyền dữ_liệu của hệ_thống thông_tin , khai_thác và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình . 
+
+2 . Xây_dựng phần_mềm để tiếp_nhận , tổng_hợp , phân_tích dữ_liệu được truyền từ các đơn_vị kinh_doanh vận_tải , đơn_vị cung_cấp dịch_vụ theo mẫu quy_định tại các Phụ_lục từ 3 đến 21 của Thông_tư này .  Cảnh_báo trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam để các đơn_vị khai_thác dữ_liệu thiết_bị giám_sát hành_trình biết các trường_hợp không nhận được dữ_liệu từ 30 phút trở lên hoặc các sự_cố về đường truyền hoặc máy_chủ của Tổng_cục Đường_bộ Việt_Nam . 
+
+3 . Đảm_bảo tính liên_tục , chính_xác các thông_tin , dữ_liệu từ thiết_bị giám_sát hành_trình trên hệ_thống thông_tin khi cung_cấp cho các cơ_quan , đơn_vị khai_thác và cơ_quan quản_lý nhà_nước có thẩm_quyền khi có yêu_cầu ;  chịu trách_nhiệm về tính chính_xác , trung_thực của thông_tin , dữ_liệu cung_cấp . 
+
+4 . Cung_cấp tài_khoản truyền dữ_liệu cho các đơn_vị vận_tải hoặc đơn_vị cung_cấp dịch_vụ giám_sát hành_trình được ủy_quyền ;  tài_khoản đăng_nhập vào hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam cho các đơn_vị theo phân_cấp quản_lý , khai_thác và sử_dụng quy_định tại Điều 7 của Thông_tư này . 
+
+5 . Hướng_dẫn cụ_thể đối_với các đơn_vị kinh_doanh vận_tải , đơn_vị cung_cấp dịch_vụ về phương_thức và quy_trình thực_hiện việc truyền dữ_liệu về Tổng_cục Đường_bộ Việt_Nam . 
+
+6 . Khai_thác , sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam phục_vụ công_tác quản_lý nhà_nước trong hoạt_động vận_tải , cụ_thể như sau : 
+
+a ) Quản_lý , thanh_tra , kiểm_tra hoạt_động vận_tải trên phạm_vi toàn_quốc ; 
+
+b ) Phục_vụ công_tác điều_tra , giải_quyết tai_nạn giao_thông của các cơ_quan có thẩm_quyền khi có yêu_cầu bằng văn_bản ; 
+
+c ) Đánh_giá các đơn_vị kinh_doanh vận_tải và các Sở Giao_thông vận_tải trong việc chấp_hành các quy_định về quản_lý hoạt_động vận_tải trên phạm_vi toàn_quốc . 
+
+7 . Hướng_dẫn sử_dụng , cập_nhật , khai_thác và quản_lý hệ_thống thông_tin từ thiết_bị giám_sát hành_trình cho Sở Giao_thông vận_tải . 
+
+8 . Bố_trí cán_bộ theo_dõi , vận_hành hệ_thống thông_tin , đảm_bảo hệ_thống hoạt_động liên_tục trong quá_trình khai_thác và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình . 
+
+9 . Lưu_trữ trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam về dữ_liệu tổng_hợp lỗi vi_phạm của các phương_tiện tối_thiểu là 03 năm ;  bảo_mật , đảm_bảo an_toàn dữ_liệu cho hệ_thống thông_tin . 
+
+10 .  Yêu_cầu các Sở Giao_thông vận_tải xử_lý vi_phạm của lái_xe , đơn_vị kinh_doanh vận_tải trên địa_bàn ;  theo_dõi , đôn_đốc Sở Giao_thông vận_tải báo_cáo kết_quả xử_lý . 
+
+11 .  Xử_lý hoặc đề_nghị cấp có thẩm_quyền xử_lý trách_nhiệm đối_với các Sở Giao_thông vận_tải , đơn_vị kinh_doanh vận_tải và các cá_nhân , tổ_chức liên_quan theo quy_định . 
+
+12 .  Công_bố dữ_liệu về tọa_độ , chiều của các biển_báo tốc_độ , khu_vực hạn_chế tốc_độ trên các tuyến quốc_lộ , đường_cao_tốc . 
+
+13 .  Định_kỳ hàng tháng , cung_cấp dữ_liệu đã phân_tích , tổng_hợp trên Trang thông_tin điện_tử của Tổng_cục Đường_bộ Việt_Nam .  Báo_cáo định_kỳ hàng quý , 6 tháng , năm hoặc đột_xuất theo yêu_cầu của Bộ Giao_thông vận_tải về tình_hình vi_phạm trong hoạt_động kinh_doanh vận_tải thông_qua dữ_liệu từ thiết_bị giám_sát hành_trình và kết_quả xử_lý của các cơ_quan , đơn_vị trong phạm_vi toàn_quốc . 
+
+Điều 9 .  Trách_nhiệm của Sở Giao_thông vận_tải 
+
+1 . Bố_trí cán_bộ theo_dõi , khai_thác và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam , của các đơn_vị kinh_doanh vận_tải tại địa_phương để phục_vụ công_tác quản_lý vận_tải bao_gồm : 
+
+a ) Quản_lý , thanh_tra , kiểm_tra hoạt_động vận_tải ; 
+
+b ) Theo_dõi , chấn_chỉnh , xử_lý các vi_phạm trong hoạt_động vận_tải đối_với các đơn_vị kinh_doanh vận_tải ; 
+
+c ) Công_tác đánh_giá đơn_vị kinh_doanh vận_tải tại địa_phương trong việc chấp_hành các quy_định về quản_lý vận_tải ; 
+
+d ) Công_tác điều_tra , giải_quyết tai_nạn giao_thông của các cơ_quan có thẩm_quyền khi có yêu_cầu . 
+
+2 . Kiểm_tra , cập_nhật , đối_chiếu thông_tin đảm_bảo tính chính_xác của các dữ_liệu do các đơn_vị kinh_doanh vận_tải và đơn_vị cung_cấp dịch_vụ truyền về Tổng_cục Đường_bộ Việt_Nam để khai_thác và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình , bao_gồm : tên Sở Giao_thông vận_tải ;  tên đơn_vị kinh_doanh vận_tải ;  biển số xe ;  trọng_tải xe ( số_lượng hành_khách hoặc khối_lượng hàng chuyên_chở cho phép tham_gia giao_thông ) ;  loại_hình kinh_doanh của các đơn_vị kinh_doanh vận_tải và số_lượng phương_tiện vận_tải thuộc đối_tượng phải lắp_đặt thiết_bị giám_sát hành_trình . 
+
+3 . Bảo_mật tên đăng_nhập và mật_khẩu truy_cập hệ_thống thông_tin , khai_thác và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam . 
+
+4 . Yêu_cầu đơn_vị kinh_doanh vận_tải thuộc địa_phương quản_lý tiến_hành xử_lý các hành_vi vi_phạm của lái_xe ;  theo_dõi , đôn_đốc các đơn_vị báo_cáo kết_quả xử_lý . 
+
+5 . Xử_lý hoặc đề_nghị cấp có thẩm_quyền xử_lý trách_nhiệm đối_với đơn_vị kinh_doanh vận_tải trên địa_bàn theo quy_định . 
+
+6 . Xử_lý trách_nhiệm cá_nhân , tổ_chức liên_quan đến việc cung_cấp , quản_lý và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình trong quản_lý , theo_dõi , khai_thác , sử_dụng dữ_liệu thiết_bị giám_sát hành_trình . 
+
+7 . Công_bố dữ_liệu về tọa_độ , hướng của các biển_báo tốc_độ , khu_vực hạn_chế tốc_độ trên các tuyến đường địa_phương quản_lý trên trang Thông_tin điện_tử của Sở Giao_thông vận_tải . 
+
+8 . Báo_cáo định_kỳ hàng quý , 6 tháng , năm hoặc đột_xuất theo yêu_cầu của Tổng_cục Đường_bộ Việt_Nam về tình_hình vi_phạm và kết_quả xử_lý vi_phạm của địa_phương và đơn_vị kinh_doanh vận_tải trên địa_bàn . 
+
+Điều 10 .  Trách_nhiệm của đơn_vị kinh_doanh vận_tải 
+
+1 . Đầu_tư , bảo_trì thiết_bị phần_cứng , phần_mềm và đường truyền dữ_liệu đặt tại đơn_vị đảm_bảo tương_thích với phần_mềm tiếp_nhận dữ_liệu của Tổng_cục Đường_bộ Việt_Nam . 
+
+2 . Truyền_dẫn chính_xác , đầy_đủ dữ_liệu theo quy_định tại điểm b khoản 1 Điều 4 của Thông_tư này về Tổng_cục Đường_bộ Việt_Nam . 
+
+3 . Bảo_đảm tính khách_quan , chính_xác , kịp_thời trong việc cung_cấp dữ_liệu , không được sửa_chữa hoặc làm sai_lệch dữ_liệu truyền về Tổng_cục Đường_bộ Việt_Nam . 
+
+4 . Bố_trí cán_bộ để theo_dõi , khai_thác dữ_liệu trên phần_mềm khai_thác dữ_liệu từ thiết_bị giám_sát hành_trình để phục_vụ công_tác quản_lý , điều_hành của đơn_vị ;  kiểm_tra tính chính_xác các thông_tin về biển số xe , trọng_tải xe ( số_lượng hành_khách hoặc khối_lượng hàng chuyên_chở cho phép tham_gia giao_thông ) , loại_hình kinh_doanh vận_tải , họ tên lái_xe , số giấy_phép lái_xe thuộc đơn_vị quản_lý . 
+
+5 . Lưu_trữ có hệ_thống các thông_tin bắt_buộc trong thời_hạn tối_thiểu 01 năm . 
+
+6 . Bảo_đảm an_toàn dữ_liệu , bảo_mật cho hệ_thống thông_tin từ thiết_bị giám_sát hành_trình tại đơn_vị và trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam . 
+
+7 . Xử_lý trách_nhiệm quản_lý , theo_dõi , khai_thác , sử_dụng dữ_liệu đối_với các cá_nhân , bộ_phận liên_quan theo quy_định ;  xử_lý kịp_thời lái_xe vi_phạm theo nội_quy , quy_chế của đơn_vị . 
+
+8 . Đơn_vị kinh_doanh vận_tải trực_tiếp thực_hiện hoặc ủy_thác cho đơn_vị cung_cấp dịch_vụ thực_hiện thông_qua hợp_đồng có hiệu_lực pháp_lý các quy_định tại khoản 1 , 2 , 3 , 5 và khoản 6 Điều này . 
+
+9 . Báo_cáo định_kỳ hàng tháng , năm hoặc đột_xuất theo yêu_cầu của Sở Giao_thông vận_tải về kết_quả xử_lý vi_phạm tại đơn_vị . 
+
+Điều 11 .  Trách_nhiệm của đơn_vị kinh_doanh bến xe_khách và bến_xe hàng 
+
+1 . Khai_thác dữ_liệu từ thiết_bị giám_sát hành_trình của đơn_vị kinh_doanh vận_tải hoạt_động tại bến_xe trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam để phục_vụ công_tác theo_dõi , giám_sát và điều_hành hoạt_động của các phương_tiện tại bến_xe . 
+
+2 . Kiểm_tra trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam đảm_bảo đầy_đủ dữ_liệu của phương_tiện .  Đối_với các phương_tiện không có thông_tin trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam thì đơn_vị kinh_doanh Bến_xe phải có trách_nhiệm yêu_cầu lái_xe xác_nhận và tổng_hợp báo_cáo Sở Giao_thông vận_tải nơi phương_tiện đăng_ký kinh_doanh vận_tải trong khoảng thời_gian không quá 05 ngày làm_việc , kể từ ngày lái_xe xác_nhận không có dữ_liệu trên hệ_thống thông_tin của Tổng_cục Đường_bộ Việt_Nam . 
+
+Điều 12 .  Trách_nhiệm của đơn_vị cung_cấp dịch_vụ 
+
+1 . Đầu_tư , bảo_trì trang_thiết_bị , phần_mềm cung_cấp và truyền dữ_liệu theo đúng hợp_đồng đã ký với đơn_vị kinh_doanh vận_tải để đảm_bảo tương_thích với phần_mềm tiếp_nhận dữ_liệu của Tổng_cục Đường_bộ Việt_Nam . 
+
+2 . Bảo_đảm tính khách_quan , chính_xác , kịp_thời trong việc cung_cấp dữ_liệu , không được sửa_chữa hoặc làm sai_lệch các thông_tin , dữ_liệu truyền về Tổng_cục Đường_bộ Việt_Nam ;  đảm_bảo an_toàn và bảo_mật dữ_liệu của các đơn_vị kinh_doanh vận_tải do mình cung_cấp . 
+
+3 . Cung_cấp kịp_thời , chính_xác các thông_tin , dữ_liệu từ thiết_bị giám_sát hành_trình cho cơ_quan quản_lý nhà_nước có thẩm_quyền khi có yêu_cầu ;  chịu trách_nhiệm về tính chính_xác , trung_thực của thông_tin , dữ_liệu cung_cấp và truyền về Tổng_cục Đường_bộ Việt_Nam . 
+
+4 . Xây_dựng phần_mềm khai_thác dữ_liệu từ thiết_bị giám_sát hành_trình theo quy_định tại Quy_chuẩn kỹ_thuật quốc_gia QCVN 31 : 2014/BGTVT-Quy_chuẩn kỹ_thuật quốc_gia về thiết_bị giám_sát hành_trình xe ô_tô để đơn_vị kinh_doanh vận_tải khai_thác , quản_lý phương_tiện . 
+
+5 . Có phương_án bảo_đảm thay_thế khi thiết_bị lắp trên phương_tiện vận_tải bị hỏng hoặc đang sửa_chữa nhằm đảm_bảo dữ_liệu của phương_tiện không bị gián_đoạn trong suốt quá_trình hoạt_động vận_tải ( trừ trường_hợp phương_tiện đang hoạt_động vận_tải nhưng chưa kết_thúc hành_trình ) . 
+
+6 . Có trách_nhiệm cảnh_báo các thiết_bị không truyền dữ_liệu trên phần_mềm khai_thác dữ_liệu từ thiết_bị giám_sát hành_trình . 
+
+Điều 13 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 6 năm 2015 và thay_thế <TT rel="Replace"> Thông_tư số 23/2013/TT-BGTVT ngày 26 tháng 8 năm 2013 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải quy_định về cung_cấp , quản_lý và sử_dụng dữ_liệu từ thiết_bị giám_sát hành_trình của xe ô_tô .
+Điều 14 .  Tổ_chức thực_hiện 
+
+1 . Tổng_cục Đường_bộ Việt_Nam có trách_nhiệm triển_khai và hướng_dẫn các đơn_vị liên_quan thực_hiện Thông_tư này . 
+
+2 . Chánh_Văn_phòng Bộ , Chánh Thanh_tra Bộ , các Vụ_trưởng , Tổng_cục_trưởng Tổng_cục Đường_bộ Việt_Nam , Giám_đốc Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc Trung_ương , Thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này ./. 

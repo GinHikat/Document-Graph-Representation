@@ -1,0 +1,95 @@
+Thông tư Hướng dẫn mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên của các cơ quan, đơn vị sử dụng ngân sách nhà nước
+
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 60/2003/NĐ-CP ngày 06 tháng 6 năm 2003 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành <L rel="Others"> Luật Ngân_sách nhà_nước </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 118/2008/NĐ-CP ngày 27 tháng 11 năm 2008 </NĐ> của Chính_phủ quy_định về chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Điều 1 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với cơ_quan hành_chính , đơn_vị sự_nghiệp công_lập ;  các cơ_quan , tổ_chức khác có sử_dụng kinh_phí từ ngân_sách Nhà_nước để thực_hiện việc tạo_lập thông_tin điện_tử trên môi_trường mạng phục_vụ hoạt_động thường_xuyên của cơ_quan , đơn_vị ở trung_ương và các địa_phương . 
+
+Tạo_lập , chuyển_đổi thông_tin điện_tử và số hóa thông_tin ( sau đây gọi chung là tạo_lập thông_tin điện_tử ) là tạo ra các cơ_sở dữ_liệu điện_tử được sử_dụng để cung_cấp thông_tin trên môi_trường mạng , phục_vụ cho công_tác quản_lý , điều_hành , hoạt_động chuyên_môn nghiệp_vụ của các cơ_quan , đơn_vị . 
+
+Điều 2 .  Phạm_vi áp_dụng 
+
+1 . Mức chi quy_định tại Thông_tư này được áp_dụng trong việc tính_toán chi_phí để thuê các cá_nhân , tổ_chức bên ngoài ( không bao_gồm cán_bộ , công_chức trong cơ_quan , đơn_vị và các tổ_chức trực_thuộc ) thực_hiện những công_việc tạo_lập thông_tin điện_tử trên mạng máy_tính . 
+
+2 . Cán_bộ , công_chức , viên_chức khi làm thêm giờ để tạo_lập thông_tin điện_tử trên mạng máy_tính được thanh_toán tiền_lương làm thêm giờ theo quy_định tại <TTLT rel="Reference"> Thông_tư liên_tịch số 08/2005/TTLT-BNV-BTC ngày 05/01/2005 </TTLT> của Liên_Bộ Tài_chính , Bộ Nội_vụ hướng_dẫn thực_hiện chế_độ trả lương làm_việc vào ban_đêm , làm thêm giờ đối_với cán_bộ , công_chức , viên_chức .
+Trường_hợp do yêu_cầu an_toàn thông thông_tin hoặc yêu_cầu đặc_thù về chuyên_môn nghiệp_vụ mà không_thể thuê ngoài tạo_lập thông_tin điện_tử , Thủ_trưởng cơ_quan , đơn_vị xem_xét lựa_chọn hình_thức thanh_toán tiền_lương làm thêm giờ theo quy_định tại <TTLT rel="Reference"> Thông_tư liên_tịch số 08/2005/TTLT-BNV-BTC </TTLT> nêu trên hoặc quyết_định mức chi cụ_thể nhưng tối_đa không quá 50 % mức chi áp_dụng cho đối_tượng thuê ngoài đối_với các công_việc tương_ứng để chi cho cán_bộ , công_chức trong đơn_vị và chịu trách_nhiệm về quyết_định của mình trên cơ_sở nhiệm_vụ cần thực_hiện đồng_thời không làm ảnh_hưởng đến công_việc chuyên_môn và đảm_bảo yêu_cầu về chất_lượng , an_toàn , an_ninh thông_tin trong quá_trình tạo_lập thông_tin điện_tử .
+Điều 3 .  Nội_dung chi 
+
+1 . Chi_nhập dữ_liệu . 
+
+2 . Chi tạo_lập các trang siêu văn_bản . 
+
+3 . Chi tạo_lập thông_tin điện_tử trên cơ_sở các dữ_liệu có sẵn . 
+
+4 . Chi số hóa thông_tin . 
+
+Điều 4 .  Mức chi : 
+
+1 . Đối_với công_việc nhập dữ_liệu : 
+
+a ) Nhập dữ_liệu có cấu_trúc : 
+
+Dữ_liệu có cấu_trúc là các dữ_liệu đã được tổ_chức theo một cấu_trúc thống_nhất , bản_thân các cấu_trúc này không hoặc ít có sự_biến_động theo thời_gian . 
+
+Mức chi nhập dữ_liệu có cấu_trúc được tính theo trường dữ_liệu trên cơ_sở số_lượng ký_tự trong 01 trường dữ_liệu , cụ_thể như sau : 
+
+- Đối_với trường dữ_liệu có số_lượng ký_tự trong 1 trường ( n ) ≤ 15 : tối_đa 300 đồng/1 trường . 
+
+- Đối_với trường dữ_liệu có số_lượng ký_tự trong 1 trường 15 < n ≤ 50 : tối_đa 375 đồng/1 trường . 
+
+- Đối_với trường dữ_liệu có số_lượng ký_tự trong 1 trường ( n ) > 50 : tối_đa 450 đồng/1 trường . 
+
+Trong đó : đơn_giá trên bao_gồm cả cả việc kiểm_tra hiệu_đính thông_tin ;  01 trang văn_bản tương_ứng 46 dòng x 70 ký_tự/dòng , tương_đương bình_quân 
+
+b ) Nhập dữ_liệu phi cấu_trúc : 
+
+Dữ_liệu phi cấu_trúc để chỉ dữ_liệu ở dạng tự_do và không có cấu_trúc được định_nghĩa sẵn , ví_dụ như : các tập_tin video , tập_tin ảnh , tập_tin âm_thanh .  . . 
+
+Mức chi nhập dữ_liệu phi cấu_trúc được tính theo trang dữ_liệu , cụ_thể như sau : 
+
+- Trang tài_liệu chỉ gồm các chữ_cái , chữ_số : tối_đa 9.500 đồng/1 trang . 
+
+- Trang tài_liệu có bảng_biểu kèm theo : tối_đa 11.700 đồng/1 trang . 
+
+- Trang tài_liệu dạng đặc_biệt có nhiều công_thức toán_học , hoặc các ký_tự đặc_biệt : tối_đa 14.000 đồng/1 trang . 
+
+Trong đó : đơn_giá trên bao_gồm cả cả việc kiểm_tra hiệu_đính thông_tin . 
+
+2 . Đối_với công_việc tạo_lập các trang siêu văn_bản ( Web ) : 
+
+Trang siêu văn_bản là một dạng dữ_liệu được mô_tả_bằng ngôn_ngữ đánh_dấu siêu văn_bản ( HTML ) , chức_năng chính là cho phép tạo_lập kết_nối đến các tài_nguyên khác trên mạng . 
+
+Mức chi cụ_thể cho việc tạo_lập các trang siêu văn_bản được quy_định cho từng dạng trang siêu văn_bản .  Cụ_thể như sau : 
+
+a ) Trang siêu văn_bản đơn_giản : Là các văn_bản chủ_yếu nhằm mục_đích thể_hiện nội_dung thông_tin .  Mức chi tối_đa là 12.000 đồng/trang tài_liệu gốc A4 chuyển vào trang siêu văn_bản ( văn_bản phi cấu_trúc chuyển_đổi sang trang siêu văn_bản , tùy theo độ phức_tạp về cấu_trúc và kỹ_thuật miêu_tả ) . 
+
+b ) Trang siêu văn_bản phức_tạp : là các văn_bản có sử_dụng các tính_năng tiên_tiến_của ngôn_ngữ đánh_dấu siêu văn_bản , tạo được một giao_diện thân_thiện , mỹ_thuật , dễ sử_dụng , làm cơ_sở dẫn_dắt người dùng truy_tìm và sử_dụng thông_tin một_cách hiệu_quả nhất .  Mức chi tối_đa là 42.000 đồng/trang tài_liệu gốc A4 chuyển vào trang siêu văn_bản phức_tạp ( tuỳ theo độ phức_tạp về bố_cục mỹ_thuật , nhiều hình_ảnh , sử_dụng các công_nghệ tiên_tiến , các mối liên_kết phức_tạp ) . 
+
+c ) Các mức chi quy_định tại điểm a , điểm b khoản này không bao_gồm chi_phí thiết_kế giao_diện , cấu_trúc toàn trang . 
+
+3 . Đối_với công_việc tạo_lập thông_tin điện_tử bằng tiếng nước_ngoài , tiếng dân_tộc_thiểu_số được phép tăng từ 10 % đến 30 % mức chi quy_định tương_ứng ( không bao_gồm chi_phí thiết_kế giao_diện , cấu_trúc toàn trang ) . 
+
+4 . Đối_với việc tạo_lập thông_tin điện_tử từ các nguồn dữ_liệu điện_tử có sẵn , mức chi được tính tối_đa bằng 15 % mức chi tạo_lập thông_tin lần đầu theo quy_định tại Thông_tư này . 
+
+5 . Chuyển_đổi thông_tin : 
+
+Trường_hợp sử_dụng thiết_bị ngoại_vi để quét dữ_liệu có sẵn trên giấy nhằm chuyển dữ_liệu dạng văn_bản in sang dữ_liệu dạng văn_bản điện_tử ( không hiệu_đính ) , sau đó sử_dụng phần_mềm chuyên_dụng để chuyển_đổi thông_tin từ dạng văn_bản điện_tử ( không hiệu_đính ) sang thông_tin dạng văn_bản điện_tử ( có hiệu_đính ) : mức chi tối_đa bằng 30 % mức chi nhập dữ_liệu phi cấu_trúc quy_định tại điểm b khoản 1 Điều này . 
+
+6 . Số_hóa thông_tin : 
+
+Trường_hợp sử_dụng thiết_bị ngoại_vi để tiến_hành số hóa các bức ảnh và lưu_giữ hình_ảnh đó dưới dạng 1 tệp_tin để có_thể kết_hợp sử_dụng trong các văn_bản hoặc siêu văn_bản : mức chi tối_đa bằng 30 % mức chi tạo_lập trang siêu văn_bản quy_định tại khoản 5 Điều này . 
+
+7 . Thủ_trưởng đơn_vị xem_xét , quyết_định mức chi cụ_thể trên cơ_sở khả_năng kinh_phí và yêu_cầu thực_tế , bảo_đảm không vượt quá mức chi quy_định tại Thông_tư này .  Trên_cơ_sở quyết_định mức chi cụ_thể nêu trên , căn_cứ vào khối_lượng công_việc , thủ_trưởng đơn_vị có_thể áp_dụng thanh_toán khoán cho từng khối_lượng công_việc .  Việc thanh_toán khoán theo khối_lượng công_việc phải được thực_hiện công_khai trong đơn_vị và thể_hiện trong quy_chế chi_tiêu nội_bộ của đơn_vị . 
+
+Điều 5 .  Quản_lý , sử_dụng và thanh quyết_toán kinh_phí : 
+
+1 . Kinh_phí để chi cho nhiệm_vụ này được sử_dụng trong dự_toán chi ngân_sách hàng năm của các cơ_quan , đơn_vị được cơ_quan có thẩm_quyền giao . Việc quản_lý , chi_tiêu theo quy_định hiện_hành của <L rel="Reference"> Luật Ngân_sách nhà_nước </L> và các văn_bản hướng_dẫn thực_hiện .
+2 . Các khoản chi được thanh_toán theo hợp_đồng giữa các cơ_quan , đơn_vị và nhà cung_cấp , bảo_đảm tuân_thủ quy_định hóa_đơn chứng_từ và quy_định về đấu_thầu , mua_sắm tài_sản , hàng hóa , dịch_vụ của pháp_luật . 
+
+3 . Các khoản chi cho cán_bộ , công_chức , viên_chức theo chế_độ tiền_lương làm thêm giờ thực_hiện thanh_toán theo quy_định hiện_hành và hướng_dẫn tại <TTLT rel="Reference"> Thông_tư liên_tịch số 08/2005/TTLT-BNV-BTC ngày 05/01/2005 </TTLT> của Liên_Bộ Tài_chính , Bộ Nội_vụ hướng_dẫn thực_hiện chế_độ trả lương làm_việc vào ban_đêm , làm thêm giờ đối_với cán_bộ , công_chức , viên_chức .
+Điều 6 .  Tổ_chức thực_hiện 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 01 năm 2013 và thay_thế <TT rel="Replace"> Thông_tư số 137/2007/TT-BTC ngày 28/11/2007 </TT> của Bộ Tài_chính hướng_dẫn mức chi tạo_lập thông_tin điện_tử .
+2 . Trong quá_trình thực_hiện nếu có khó_khăn vướng_mắc , đề_nghị các cơ_quan , đơn_vị phản_ánh về Bộ Tài_chính để nghiên_cứu giải_quyết ./. 

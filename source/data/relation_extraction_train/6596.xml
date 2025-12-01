@@ -1,0 +1,668 @@
+Thông tư Quy định về xây dựng cơ sở dữ liệu đất đai
+
+Căn_cứ <L rel="Pursuant"> Luật Đất_đai ngày 26 tháng 11 năm 2003 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 181/2004/NĐ-CP ngày 29 tháng 10 năm 2004 </NĐ> của Chính_phủ về thi_hành <L rel="Others"> Luật Đất_đai </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 102/2008/NĐ-CP ngày 15 tháng 9 năm 2008 </NĐ> của Chính_phủ về thu_thập , quản_lý , khai_thác và sử_dụng dữ_liệu về tài_nguyên và môi_trường ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 88/2009/NĐ-CP ngày 19 tháng 10 năm 2009 </NĐ> của Chính_phủ về cấp giấy chứng_nhận quyền sử_dụng đất , quyền sở_hữu nhà ở và tài_sản khác gắn liền với đất ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ; <NĐ rel="Pursuant"> Nghị_định số 19/2010/NĐ-CP ngày 05 tháng 3 năm 2010 </NĐ> của Chính_phủ về sửa_đổi , bổ_sung các điểm c , d , g , h và i khoản 5 Điều 2 của <NĐ rel="Others"> Nghị_định số 25/2008/NĐ-CP ngày 04 tháng 3 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định việc xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu đất_đai . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Cơ_quan quản_lý nhà_nước ;  cơ_quan chuyên_môn về tài_nguyên và môi_trường ;  cán_bộ địa_chính xã , phường , thị_trấn và các tổ_chức , cá_nhân có liên_quan đến việc xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu đất_đai . 
+
+Điều 3 .  Giải_thích thuật_ngữ 
+
+1 . Dữ_liệu : là thông_tin dưới dạng ký_hiệu , chữ_viết , chữ_số , hình_ảnh , âm_thanh hoặc dạng tương_tự . 
+
+2 . Cơ_sở dữ_liệu đất_đai : là tập_hợp thông_tin có cấu_trúc của dữ_liệu địa_chính , dữ_liệu quy_hoạch sử_dụng đất , dữ_liệu giá đất , dữ_liệu thống_kê , kiểm_kê đất_đai được sắp_xếp , tổ_chức để truy_cập , khai_thác , quản_lý và cập_nhật thường_xuyên bằng phương_tiện điện_tử . 
+
+3 . Hạ_tầng kỹ_thuật công_nghệ thông_tin : là tập_hợp thiết_bị tính_toán ( máy_chủ , máy trạm ) , thiết_bị kết_nối_mạng , thiết_bị an_ninh an_toàn , thiết_bị ngoại_vi và thiết_bị phụ_trợ , mạng nội_bộ , mạng diện_rộng . 
+
+Điều 4 .  Nguyên_tắc xây_dựng cơ_sở dữ_liệu đất_đai 
+
+1 . Cơ_sở dữ_liệu đất_đai được xây_dựng tập_trung thống_nhất từ Trung_ương đến các tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi chung là cấp tỉnh ) và các huyện , quận , thị_xã , thành_phố thuộc tỉnh ( sau đây gọi tắt là cấp huyện ) . 
+
+2 . Đơn_vị hành_chính xã , phường , thị_trấn ( sau đây gọi chung là cấp xã ) là đơn_vị cơ_bản để thành_lập cơ_sở dữ_liệu đất_đai . 
+
+Cơ_sở dữ_liệu đất_đai của cấp huyện là tập_hợp dữ_liệu đất_đai của các xã thuộc huyện ;  đối_với các huyện không có đơn_vị hành_chính xã trực_thuộc thì cấp huyện là đơn_vị cơ_bản để thành_lập cơ_sở dữ_liệu đất_đai . 
+
+Cơ_sở dữ_liệu đất_đai cấp tỉnh được tập_hợp từ cơ_sở dữ_liệu đất_đai của tất_cả các huyện thuộc tỉnh . 
+
+Cơ_sở dữ_liệu đất_đai cấp Trung_ương được tổng_hợp từ cơ_sở dữ_liệu đất_đai của tất_cả các tỉnh trên phạm_vi cả nước . 
+
+3 . Việc xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật sử_dụng dữ_liệu đất_đai phải đảm_bảo tính chính_xác , khoa_học , khách_quan , kịp_thời và thực_hiện theo quy_định hiện_hành về thành_lập hồ_sơ địa_chính , cấp Giấy chứng_nhận quyền sử_dụng đất ;  Giấy chứng_nhận quyền sở_hữu nhà ở và quyền sử_dụng đất ở ;  Giấy chứng_nhận quyền sử_dụng đất , quyền sở_hữu nhà ở và tài_sản khác gắn liền với đất ( sau đây gọi chung là Giấy chứng_nhận ) . 
+
+Điều 5 .  Nội_dung , cấu_trúc cơ_sở dữ_liệu đất_đai 
+
+1 . Cơ_sở dữ_liệu đất_đai bao_gồm các cơ_sở dữ_liệu thành_phần sau : 
+
+a ) Cơ_sở dữ_liệu địa_chính ; 
+
+b ) Cơ_sở dữ_liệu quy_hoạch sử_dụng đất ; 
+
+c ) Cơ_sở dữ_liệu giá đất ; 
+
+d ) Cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai . 
+
+Cơ_sở dữ_liệu địa_chính là thành_phần cơ_bản của cơ_sở dữ_liệu đất_đai , làm cơ_sở để xây_dựng và định_vị không_gian các cơ_sở dữ_liệu thành_phần khác . 
+
+2 . Nội_dung , cấu_trúc và kiểu thông_tin cơ_sở dữ_liệu địa_chính được thực_hiện theo quy_định tại Điều 4 của <TT rel="Reference"> Thông_tư số 17/2010/TT-BTNMT ngày 04 tháng 10 năm 2010 </TT> của Bộ Tài_nguyên và Môi_trường quy_định kỹ_thuật về chuẩn dữ_liệu địa_chính ( sau đây gọi là <TT rel="Reference"> Thông_tư số 17/2010/TT-BTNMT </TT> ) .
+3 . Nội_dung , cấu_trúc , kiểu thông_tin của cơ_sở dữ_liệu quy_hoạch sử_dụng đất , cơ_sở dữ_liệu giá đất và cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai thực_hiện theo quy_định kỹ_thuật về chuẩn dữ_liệu quy_hoạch sử_dụng đất , quy_định kỹ_thuật về chuẩn dữ_liệu giá đất và quy_định kỹ_thuật về chuẩn dữ_liệu thống_kê , kiểm_kê đất_đai do Bộ Tài_nguyên và Môi_trường quy_định . 
+
+Điều 6 .  Giá_trị pháp_lý của cơ_sở dữ_liệu đất_đai 
+
+1 . Thông_tin trong cơ_sở dữ_liệu đất_đai đã được kiểm_tra , nghiệm_thu theo quy_định thì có giá_trị pháp_lý như trong hồ_sơ đất_đai dạng giấy . 
+
+Trường_hợp thông_tin không thống_nhất giữa cơ_sở dữ_liệu đất_đai với hồ_sơ đất_đai ( hồ_sơ địa_chính , hồ_sơ quy_hoạch , hồ_sơ giá đất , hồ_sơ thống_kê , kiểm_kê ) thì xác_định theo tài_liệu của hồ_sơ đất_đai đã được cơ_quan có thẩm_quyền ký duyệt cuối_cùng . 
+
+2 . Đối_với trường_hợp đo_đạc địa_chính thay_thế tài_liệu , số_liệu đo_đạc đã sử_dụng để đăng_ký trước_đây mà chưa cấp đổi Giấy chứng_nhận thì thông_tin về mã thửa đất , ranh_giới thửa và diện_tích thửa đất được xác_định theo cơ_sở dữ_liệu địa_chính phù_hợp với tài_liệu đo_đạc mới đã được cơ_quan có thẩm_quyền kiểm_tra , nghiệm_thu xác_nhận . 
+
+Điều 7 .  Trách_nhiệm xây_dựng cơ_sở dữ_liệu đất_đai 
+
+1 . Tổng_cục Quản_lý đất_đai thuộc Bộ Tài_nguyên và Môi_trường có trách_nhiệm tổ_chức xây_dựng , quản_lý , khai_thác sử_dụng cập_nhật , cơ_sở dữ_liệu đất_đai cấp Trung_ương ;  chỉ_đạo , hướng_dẫn việc xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu đất_đai ở các địa_phương . 
+
+2 . Sở Tài_nguyên và Môi_trường có trách_nhiệm thực_hiện các công_việc sau đây : 
+
+a ) Xây_dựng kế_hoạch triển_khai việc xây_dựng cơ_sở dữ_liệu đất_đai trong phạm_vi toàn tỉnh trình Ủy_ban nhân_dân tỉnh phê_duyệt ; 
+
+b ) Phân_công đơn_vị trực_thuộc Sở Tài_nguyên và Môi_trường chịu trách_nhiệm xây_dựng , quản_lý_hạ_tầng kỹ_thuật công_nghệ thông_tin ;  vận_hành hệ_thống cơ_sở dữ_liệu đất_đai bảo_đảm an_toàn , an_ninh , bảo_mật cơ_sở dữ_liệu ; 
+
+c ) Chỉ_đạo việc xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu đất_đai trên địa_bàn tỉnh . 
+
+3 . Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh có trách_nhiệm : 
+
+a ) Xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu địa_chính và cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai cấp tỉnh ; 
+
+b ) Cập_nhật , chỉnh_lý cơ_sở dữ_liệu địa_chính đối_với các trường_hợp đăng_ký cấp Giấy chứng_nhận lần đầu và đăng_ký biến_động thuộc thẩm_quyền của cấp tỉnh ;  đồng_bộ hóa cơ_sở dữ_liệu địa_chính trong phạm_vi toàn tỉnh đối_với các trường_hợp đăng_ký cấp Giấy chứng_nhận lần đầu và đăng_ký biến_động của tất_cả các đối_tượng sử_dụng đất , sở_hữu tài_sản gắn liền với đất ; 
+
+c ) Tích_hợp cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai của cấp huyện và tổng_hợp bổ_sung vào cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai của cấp tỉnh . 
+
+4 . Đơn_vị trực_thuộc Sở Tài_nguyên và Môi_trường có chức_năng thực_hiện quy_hoạch sử_dụng đất cấp tỉnh có trách_nhiệm : 
+
+a ) Xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu quy_hoạch sử_dụng đất cấp tỉnh ; 
+
+b ) Tích_hợp cơ_sở dữ_liệu quy_hoạch của các cấp huyện , xã ; 
+
+5 . Đơn_vị trực_thuộc Sở Tài_nguyên và Môi_trường có chức_năng thực_hiện định_giá đất cấp tỉnh có trách_nhiệm xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu giá đất ; 
+
+6 . Phòng Tài_nguyên và Môi_trường có trách_nhiệm xây_dựng , cập_nhật , quản_lý và khai_thác sử_dụng cơ_sở dữ_liệu quy_hoạch sử_dụng đất các cấp huyện , xã . 
+
+7 . Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện có trách_nhiệm : 
+
+a ) Xây_dựng , cập_nhật , quản_lý và khai_thác sử_dụng cơ_sở dữ_liệu địa_chính và cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai cấp huyện ; 
+
+b ) Cập_nhật , chỉnh_lý cơ_sở dữ_liệu địa_chính đối_với các trường_hợp đăng_ký , cấp Giấy chứng_nhận lần đầu và đăng_ký biến_động thuộc thẩm_quyền của cấp huyện ; 
+
+c ) Tổng_hợp cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai của cấp xã , huyện để bổ_sung vào cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai của cấp huyện ; 
+
+d ) Cung_cấp thông_tin biến_động đất_đai đã cập_nhật cho Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh để cập_nhật cơ_sở dữ_liệu địa_chính cấp tỉnh ; 
+
+đ ) Cung_cấp dữ_liệu địa_chính và các thông_tin biến_động đất_đai cho Ủy_ban nhân_dân cấp xã để sử_dụng cho quản_lý đất_đai ở địa_phương . 
+
+Điều 8 .  Xây_dựng cơ_sở dữ_liệu địa_chính đối_với trường_hợp thực_hiện đồng_bộ việc chỉnh_lý hoàn_thiện hoặc đo_đạc lập mới bản_đồ địa_chính gắn với đăng_ký , cấp mới , cấp đổi Giấy chứng_nhận và xây_dựng cơ_sở dữ_liệu địa_chính cho tất_cả các thửa đất 
+
+1 . Công_tác chuẩn_bị ( Bước 1 ) 
+
+Được thực_hiện lồng_ghép với quá_trình chuẩn_bị triển_khai đo_đạc lập bản_đồ địa_chính và đăng_ký đất_đai , bao_gồm những nội_dung công_việc sau đây : 
+
+a ) Chuẩn_bị vật_tư , thiết_bị , dụng_cụ , phần_mềm phục_vụ cho công_tác xây_dựng cơ_sở dữ_liệu địa_chính ; 
+
+b ) Chuẩn_bị nhân_lực , địa_điểm làm_việc . 
+
+2 . Thu_thập tài_liệu ( Bước 2 ) 
+
+a ) Thu_thập các tài_liệu đã lập trong quá_trình đăng_ký , cấp Giấy chứng_nhận trước đây gồm : Bản_đồ , sơ_đồ , bản trích đo địa_chính , Giấy chứng_nhận , sổ địa_chính , sổ mục kê đất_đai , sổ theo_dõi biến_động đất_đai và tài_liệu phát_sinh trong quá_trình quản_lý đất_đai ; 
+
+b ) Bản_đồ địa_chính , bản_đồ quy_hoạch sử_dụng đất ; 
+
+c ) Các hồ_sơ kê_khai đăng_ký cấp mới , cấp đổi Giấy chứng_nhận và đăng_ký biến_động . 
+
+3 . Xây_dựng dữ_liệu không_gian địa_chính ( Bước 3 ) 
+
+a ) Chuẩn_hóa các lớp đối_tượng không_gian địa_chính theo chuẩn dữ_liệu địa_chính từ nội_dung bản_đồ địa_chính số : 
+
+- Lập bảng đối_chiếu giữa lớp đối_tượng không_gian địa_chính với nội_dung tương_ứng trong bản_đồ địa_chính để tách , lọc các đối_tượng cần_thiết từ nội_dung bản_đồ địa_chính ; 
+
+- Chuẩn_hóa các lớp đối_tượng không_gian địa_chính chưa phù_hợp với yêu_cầu của chuẩn dữ_liệu địa_chính ; 
+
+- Rà_soát chuẩn_hóa thông_tin thuộc_tính cho từng đối_tượng không_gian địa_chính theo quy_định kỹ_thuật về chuẩn dữ_liệu địa_chính . 
+
+b ) Chuyển_đổi và gộp các lớp đối_tượng không_gian địa_chính vào cơ_sở dữ_liệu theo đơn_vị hành_chính xã . 
+
+4 . Xây_dựng dữ_liệu thuộc tính địa_chính ( Bước 4 ) 
+
+- Lập bảng tham_chiếu số thửa cũ và số thửa mới đối_với các thửa đất đã cấp Giấy chứng_nhận theo bản_đồ cũ . 
+
+- Nhập , chuẩn_hóa thông_tin từ hồ_sơ địa_chính hoặc hồ_sơ cấp Giấy chứng_nhận , hồ_sơ đăng_ký biến_động ( kể_cả hồ_sơ giao_dịch bảo_đảm ) , bản lưu Giấy chứng_nhận của các thửa đất đã được cấp Giấy chứng_nhận trước khi cấp đổi ( chỉ nhập theo hồ_sơ của lần biến_động cuối_cùng ) .  Không nhập thông_tin thuộc tính địa_chính đối_với trường_hợp hồ_sơ nằm trong khu_vực dồn điền_đổi thửa . 
+
+- Nhập , chuẩn_hóa thông_tin từ hồ_sơ đăng_ký cấp Giấy chứng_nhận lần đầu , cấp đổi Giấy chứng_nhận , hồ_sơ đăng_ký biến_động . 
+
+5 . Quét ( chụp ) giấy_tờ pháp_lý về quyền sử_dụng đất ( Bước 5 ) 
+
+a ) Quét ( chụp ) giấy_tờ pháp_lý về quyền sử_dụng đất bao_gồm : 
+
+- Giấy chứng_nhận cấp mới , cấp đổi hoặc Giấy chứng_nhận đã cấp trước_đây đang sử_dụng ; 
+
+- Giấy_tờ pháp_lý về nguồn_gốc sử_dụng đất làm cơ_sở cho việc cấp Giấy chứng_nhận ; 
+
+- Chứng_từ thực_hiện nghĩa_vụ tài_chính về đất_đai . 
+
+b ) Quét bản_đồ , sơ_đồ , bản trích đo địa_chính đã sử_dụng để cấp Giấy chứng_nhận trước đây ; 
+
+c ) Xử_lý tập_tin quét hình_thành bộ hồ_sơ cấp Giấy chứng_nhận_dạng số , lưu_trữ dưới khuôn_dạng tập_tin PDF ; 
+
+d ) Liên_kết bộ hồ_sơ cấp Giấy chứng_nhận_dạng số với cơ_sở dữ_liệu địa_chính và xây_dựng kho hồ_sơ cấp Giấy chứng_nhận_dạng số . 
+
+6 . Hoàn_thiện dữ_liệu địa_chính ( Bước 6 ) 
+
+Thực_hiện đối_soát và hoàn_thiện chất_lượng dữ_liệu địa_chính của 100 % thửa đất so với thông_tin trong kho hồ_sơ Giấy chứng_nhận_dạng số và hồ_sơ đăng_ký đất_đai , tài_sản khác gắn liền với đất đã sử_dụng để xây_dựng cơ_sở dữ_liệu địa_chính . 
+
+7 . Xây_dựng dữ_liệu đặc_tả-metadata ( Bước 7 ) 
+
+a ) Thu_nhận các thông_tin cần_thiết về dữ_liệu địa_chính để xây_dựng dữ_liệu đặc_tả địa_chính theo quy_định tại <TT rel="Reference"> Thông_tư số 17/2010/TT-BTNMT </TT> ;
+b ) Nhập thông_tin đặc_tả dữ_liệu địa_chính theo quy_định tại Điều 6 của <TT rel="Reference"> Thông_tư số 17/2010/TT-BTNMT </TT> .
+8 . Thử_nghiệm quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu ( Bước 8 ) 
+
+Triển_khai thử_nghiệm trực_tiếp trên sản_phẩm cơ_sở dữ_liệu đất_đai , nội_dung cụ_thể như sau : 
+
+a ) Thực_hiện việc thử_nghiệm quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu bằng hệ_thống phần_mềm quản_lý đất_đai do chủ đầu_tư quy_định trong thời_gian tối_thiểu 60 ngày ; 
+
+b ) Xử_lý , khắc_phục những sai_sót , tồn_tại của cơ_sở dữ_liệu phát_hiện trong quá_trình thử_nghiệm quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu ; 
+
+c ) Lập báo_cáo về quá_trình vận_hành thử_nghiệm cơ_sở dữ_liệu . 
+
+9 . Kiểm_tra , đánh_giá chất_lượng cơ_sở dữ_liệu địa_chính ( Bước 9 ) 
+
+a ) Kiểm_tra cơ_sở dữ_liệu địa_chính theo quy_định tại <TT rel="Reference"> Thông_tư số 05/2009/TT-BTNMT ngày 01 tháng 6 năm 2009 </TT> của Bộ Tài_nguyên và Môi_trường hướng_dẫn kiểm_tra , thẩm_định và nghiệm_thu công_trình , sản_phẩm địa_chính ( sau đây gọi là <TT rel="Reference"> Thông_tư số 05/2009/TT-BTNMT </TT> ) ;
+b ) Đánh_giá chất_lượng cơ_sở dữ_liệu địa_chính theo quy_định tại Điều 7 <TT rel="Reference"> Thông_tư số 17/2010/TT-BTNMT </TT> .
+10 .  Đóng_gói , giao_nộp sản_phẩm cơ_sở dữ_liệu địa_chính ( Bước 10 ) 
+
+a ) Đóng_gói , giao_nộp dữ_liệu không_gian địa_chính theo đơn_vị hành_chính xã theo định_dạng chuẩn Geography Markup_Language ( GML ) ; 
+
+b ) Đóng_gói , giao_nộp dữ_liệu thuộc tính địa_chính theo đơn_vị hành_chính xã lưu_trữ theo định_dạng extensible Markup_Language ( XML ) ; 
+
+c ) Đóng_gói , giao_nộp dữ_liệu đặc_tả địa_chính của cơ_sở dữ_liệu tương_ứng lưu_trữ theo định_dạng XML ; 
+
+d ) Đóng_gói , giao_nộp dữ_liệu địa_chính dưới dạng cơ_sở dữ_liệu đã được thử_nghiệm quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu bằng phần_mềm hệ_thống thông_tin đất_đai theo điểm a khoản 8 Điều 8 Thông_tư này ; 
+
+đ ) Đóng_gói , giao nộp kho hồ_sơ cấp Giấy chứng_nhận_dạng số đã liên_kết với cơ_sở dữ_liệu địa_chính theo đơn_vị hành_chính xã ; 
+
+e ) Tạo sổ mục kê số , sổ địa_chính số và bản_đồ địa_chính số từ cơ_sở dữ_liệu địa_chính được trình_bày theo quy_định của Bộ Tài_nguyên và Môi_trường . 
+
+Điều 9 .  Xây_dựng cơ_sở dữ_liệu địa_chính đối_với trường_hợp đã thực_hiện đăng_ký , cấp Giấy chứng_nhận , đăng_ký biến_động đất_đai 
+
+Bao_gồm những công_việc sau đây : 
+
+a ) Lập kế_hoạch thực_hiện ; 
+
+b ) Chuẩn_bị vật_tư , thiết_bị , dụng_cụ , phần_mềm phục_vụ cho công_tác xây_dựng cơ_sở dữ_liệu địa_chính ; 
+
+c ) Chuẩn_bị nhân_lực , địa_điểm làm_việc . 
+
+a ) Thu_thập dữ_liệu , tài_liệu 
+
+- Bản_đồ địa_chính hoặc các loại tài_liệu đo_đạc khác ( nơi không có bản_đồ địa_chính ) đã sử_dụng để cấp Giấy chứng_nhận ( bản_đồ giải thửa , bản_đồ quy_hoạch xây_dựng chi_tiết , sơ_đồ , trích đo địa_chính ) ; 
+
+- Bản_đồ quy_hoạch sử_dụng đất ; 
+
+- Bản lưu Giấy chứng_nhận , sổ mục kê , sổ địa_chính , sổ cấp Giấy chứng_nhận , sổ đăng_ký biến_động đã lập ; 
+
+- Hồ_sơ đăng_ký cấp Giấy chứng_nhận lần đầu , cấp đổi ; 
+
+- Hồ_sơ đăng_ký biến_động đất_đai và tài_liệu giao đất , cho thuê đất , thu_hồi đất được lập sau khi hoàn_thành cấp Giấy chứng_nhận , lập hồ_sơ địa_chính ; 
+
+- Các tài_liệu hồ_sơ địa_chính đã lập trước khi đo vẽ bản_đồ địa_chính ( nếu có ) . 
+
+b ) Phân_tích , đánh_giá , lựa_chọn tài_liệu sử_dụng : 
+
+- Nội_dung phân_tích đánh_giá phải xác_định được thời_gian xây_dựng và mức_độ đầy_đủ thông_tin của từng tài_liệu để lựa_chọn tài_liệu sử_dụng cho việc xây_dựng cơ_sở dữ_liệu địa_chính ;  ưu_tiên lựa_chọn loại tài_liệu có thời_gian lập gần nhất , có đầy_đủ thông_tin nhất , có giá_trị pháp_lý cao nhất ; 
+
+- Kết_quả phân_tích đánh_giá phải xác_định được tài_liệu sử_dụng cho từng mục_đích khác nhau trong quá_trình xây_dựng cơ_sở dữ_liệu địa_chính : 
+
++ Tài_liệu để xây_dựng dữ_liệu không_gian địa_chính là bản_đồ địa_chính .  Đối_với nơi chưa có bản_đồ địa_chính mà đã sử_dụng các loại tài_liệu đo_đạc khác cho cấp giấy chứng_nhận phải đánh_giá độ chính_xác , khả_năng liên_kết không_gian giữa các thửa đất kế_cận để đảm_bảo quan_hệ liên_kết không_gian ( Topo ) theo quy_định_chuẩn dữ_liệu địa_chính .  Trường_hợp kết_quả đo_đạc trên một phạm_vi rộng ( bao_gồm nhiều thửa ) , đạt độ chính_xác yêu_cầu , cho phép nắn chỉnh_hình_học để đồng_bộ theo quy_định hiện_hành thì có_thể sử_dụng để xây_dựng xây_dựng cơ_sở dữ_liệu không_gian địa_chính .  Trường_hợp chỉ có sơ_đồ hoặc bản trích đo địa_chính từng thửa đất hoặc có bản_đồ , bản trích đo địa_chính cho một khu_vực gồm nhiều thửa đất nhưng chưa có tọa_độ địa_chính thì không xây_dựng dữ_liệu không_gian mà chỉ thực_hiện xây_dựng cơ_sở dữ_liệu thuộc tính địa_chính ; 
+
++ Tài_liệu để xây_dựng dữ_liệu thuộc tính địa_chính ưu_tiên sử_dụng sổ địa_chính và bản lưu Giấy chứng_nhận .  Trường_hợp sổ địa_chính không đầy_đủ thông_tin , không được cập_nhật chỉnh_lý biến_động thường_xuyên ;  bản lưu giấy chứng_nhận không có đầy_đủ thì phải lựa_chọn hồ_sơ đăng_ký cấp Giấy chứng_nhận lần đầu , cấp đổi Giấy chứng_nhận đối_với trường_hợp còn thiếu để cập_nhật ; 
+
++ Các tài_liệu để cập_nhật hoặc chỉnh_lý biến_động hồ_sơ địa_chính bao_gồm : Hồ_sơ đăng_ký biến_động đất_đai , tài_liệu giao đất , cho thuê đất , thu_hồi đất ( lập sau khi hoàn_thành cấp Giấy chứng_nhận , lập hồ_sơ địa_chính ) ; 
+
++ Các loại bản_đồ khác , sơ_đồ , bản trích đo địa_chính đã sử_dụng để cấp Giấy chứng_nhận trước_đây thì được xem_xét lựa_chọn để bổ_sung vào kho hồ_sơ cấp Giấy chứng_nhận_dạng số . 
+
+3 . Phân_loại thửa đất và hoàn_thiện hồ_sơ địa_chính hiện có ( Bước 3 ) 
+
+a ) Đối_soát , phân_loại thửa đất 
+
+Đối_soát thửa đất trên bản_đồ địa_chính hoặc tài_liệu đo_đạc khác ( nơi không có bản_đồ địa_chính ) sử_dụng để xây_dựng dữ_liệu không_gian địa_chính so với hồ_sơ đăng_ký , bản lưu Giấy chứng_nhận .  Dựa vào mức_độ đồng_nhất về hình_học và tình_trạng cấp Giấy chứng_nhận để đưa ra danh_sách phân_loại thửa đất như sau : 
+
+- Thửa đất loại A : Bao_gồm các thửa đất đã được cấp Giấy chứng_nhận có nội_dung thông_tin phù_hợp với quy_định hiện_hành và chưa có biến_động ; 
+
+- Thửa đất loại B : Bao_gồm các thửa đất đã được cấp Giấy chứng_nhận có một_số thông_tin ( nguồn_gốc sử_dụng , mục_đích sử_dụng ... ) chưa phù_hợp với quy_định hiện_hành và chưa có biến_động ; 
+
+- Thửa đất loại C : Bao_gồm các thửa đất đã được cấp Giấy chứng_nhận nhưng đã biến_động thông_tin thuộc_tính ; 
+
+- Thửa đất loại D : Bao_gồm thửa đất đã được cấp Giấy chứng_nhận nhưng đã có biến_động ranh_giới thửa đất ( tách , hợp thửa , điều_chỉnh ranh_giới ... ) mà chưa chỉnh_lý bản_đồ địa_chính ; 
+
+- Thửa đất loại Đ : Các thửa đất đã được cấp Giấy chứng_nhận ở nơi chưa có bản_đồ địa_chính nhưng tài_liệu đo_đạc đã sử_dụng để cấp giấy không đủ điều_kiện để xây_dựng cơ_sở dữ_liệu không_gian ; 
+
+- Thửa đất loại E : Trường_hợp thửa đất đã được cấp Giấy chứng_nhận ở nơi có bản_đồ địa_chính nhưng chưa cấp đổi Giấy chứng_nhận theo bản_đồ địa_chính mới ; 
+
+- Thửa đất loại G : Các thửa đất đã kê_khai đăng_ký nhưng chưa được cấp Giấy chứng_nhận . 
+
+b ) Hoàn_thiện hồ_sơ địa_chính 
+
+- Trường_hợp bản_đồ địa_chính hoặc tài_liệu đo_đạc khác ( nơi không có bản_đồ địa_chính ) để xây_dựng cơ_sở dữ_liệu địa_chính ở dạng giấy hoặc chưa được thành_lập trong hệ tọa_độ VN-2000 thì thực_hiện việc số hóa , chuyển_đổi hệ tọa_độ và biên_tập hoàn_thiện theo quy_định hiện_hành ; 
+
+- Xác_minh để bổ_sung về những nội_dung thông_tin ( nguồn_gốc sử_dụng , mục_đích sử_dụng ... ) chưa phù_hợp với quy_định hiện_hành để hoàn_thiện hồ_sơ địa_chính ; 
+
+- Chỉnh_lý_tài_liệu của hồ_sơ địa_chính ( trừ tài_liệu đo_đạc ) được lựa_chọn sử_dụng cho việc cập_nhật cơ_sở dữ_liệu về những nội_dung thông_tin ( nguồn_gốc sử_dụng , mục_đích sử_dụng ... ) theo kết_quả điều_tra bổ_sung ; 
+
+- Cập_nhật , chỉnh_lý bản_đồ địa_chính số hoặc tài_liệu đo_đạc khác đã sử_dụng ( nơi không có bản_đồ địa_chính ) trong các trường_hợp như sau : 
+
++ Đối_với thửa đất loại B và G : Cập_nhật , chỉnh_lý các nội_dung thông_tin mục_đích sử_dụng theo hồ_sơ địa_chính đã được chỉnh_lý . 
+
++ Đối_với thửa đất loại C : Chỉnh_lý thông_tin thuộc_tính cho thửa đất có biến_động theo hồ_sơ giao đất , cho thuê đất , thu_hồi đất , bản lưu Giấy chứng_nhận hoặc hồ_sơ đăng_ký biến_động đã giải_quyết . 
+
++ Đối_với thửa đất loại D : Lưu lại thông_tin thửa đất để phục_vụ xây_dựng phiên_bản dữ_liệu không_gian thửa đất trước chỉnh_lý ;  Chỉnh_lý hình_thể thửa đất , tài_sản gắn liền với đất và các thông_tin thuộc tính có thay_đổi theo hồ_sơ giao đất , cho thuê đất , thu_hồi đất , bản lưu Giấy chứng_nhận hoặc hồ_sơ đăng_ký biến_động đã giải_quyết . 
+
++ Đối_với thửa đất loại E : Xây_dựng dữ_liệu không_gian địa_chính của thửa đất từ các tài_liệu đo_đạc cũ ( chưa phải là bản_đồ địa_chính ) đã được sử_dụng để cấp Giấy chứng_nhận đối_với các thửa đất đã có biến_động hình_thể không xác_định được trên bản_đồ địa_chính mới . 
+
+4 . Xây_dựng dữ_liệu không_gian địa_chính ( Bước 4 ) 
+
+a ) Chuẩn_hóa các lớp đối_tượng không_gian địa_chính theo chuẩn dữ_liệu địa_chính từ nội_dung bản_đồ địa_chính số sau khi được chỉnh_lý : 
+
+- Lập bảng đối_chiếu giữa lớp đối_tượng không_gian địa_chính với nội_dung tương_ứng trong bản_đồ địa_chính hoặc tài_liệu đo_đạc khác đã sử_dụng ( nơi không có bản_đồ địa_chính ) để tách , lọc các đối_tượng cần_thiết ; 
+
+c ) Ghép_nối dữ_liệu không_gian địa_chính cho khu_vực chỉ có tài_liệu đo_đạc khác ( nơi không có bản_đồ địa_chính ) có đủ điều_kiện xây_dựng cơ_sở dữ_liệu theo đơn_vị hành_chính xã . 
+
+5 . Xây_dựng dữ_liệu thuộc tính địa_chính ( Bước 5 ) 
+
+Trên_cơ_sở danh_sách phân_loại thửa đất và kết_quả chỉnh_lý hoàn_thiện hồ_sơ địa_chính được lập theo điểm a khoản 3 Điều 9 Thông_tư này , tiến_hành nhập và chuẩn_hóa thông_tin thuộc tính địa_chính như sau : 
+
+a ) Đối_với thửa đất loại A , B và Đ : Thực_hiện nhập và chuẩn_hóa thông_tin từ hồ_sơ cấp Giấy chứng_nhận cho các nhóm : Thửa đất , tài_sản trên đất , chủ sử_dụng và quyền sử_dụng đất từ hồ_sơ địa_chính tương_ứng với từng thửa đất ; 
+
+Trường_hợp thửa đất đã được cấp đổi Giấy chứng_nhận theo bản_đồ địa_chính thì nhập , chuẩn_hóa thông_tin từ hồ_sơ_cấp đổi Giấy chứng_nhận , bản lưu Giấy chứng_nhận của các thửa đất đã được cấp Giấy chứng_nhận trước khi cấp đổi , trừ khu_vực dồn điền_đổi thửa . 
+
+b ) Đối_với thửa đất loại C : 
+
+- Nhập và chuẩn_hóa cho các nhóm thông_tin thửa đất , tài_sản trên đất , chủ sử_dụng và quyền sử_dụng đất từ hồ_sơ địa_chính trước khi biến_động ; 
+
+- Nhập các thông_tin sau khi biến_động từ hồ_sơ giao đất , cho thuê đất , thu_hồi đất , bản lưu Giấy chứng_nhận hoặc hồ_sơ đăng_ký biến_động . 
+
+c ) Đối_với thửa đất loại D : 
+
+trừ khu_vực đã dồn điền_đổi thửa hoặc có biến_động phân_chia lại các thửa đất không xác_định được các thửa đất cũ trên bản_đồ địa_chính mới ; 
+
+- Nhập và chuẩn_hóa cho các nhóm thông_tin thửa đất , tài_sản trên đất , chủ sử_dụng và quyền sử_dụng đất sau biến_động từ hồ_sơ giao đất , cho thuê đất , thu_hồi đất , bản lưu Giấy chứng_nhận hoặc hồ_sơ đăng_ký biến_động . 
+
+d ) Đối_với thửa đất loại E : 
+
+- Nhập và chuẩn_hóa cho các nhóm thông_tin thửa đất , tài_sản trên đất , chủ sử_dụng và quyền sử_dụng đất từ hồ_sơ địa_chính đã lập trước khi đo vẽ bản_đồ địa_chính ; 
+
+- Nhập thông_tin thay_đổi theo bản_đồ địa_chính mới ( số tờ , số thửa , diện_tích ) . 
+
+e ) Đối_với thửa đất loại G : Nhập và chuẩn_hóa cho các nhóm thông_tin thửa đất , tài_sản trên đất , chủ sử_dụng đất từ hồ_sơ kê_khai đăng_ký đất_đai . 
+
+6 . Quét ( chụp ) giấy_tờ pháp_lý về quyền sử_dụng đất ( Bước 6 ) 
+
+b ) Quét bản_đồ , sơ_đồ , bản trích đo địa_chính đã sử_dụng để cấp Giấy chứng_nhận trước đây . 
+
+7 . Hoàn_thiện dữ_liệu địa_chính ( Bước 7 ) 
+
+Đối_soát và hoàn_thiện chất_lượng dữ_liệu địa_chính của 100 % thửa đất so với thông_tin trong kho hồ_sơ Giấy chứng_nhận_dạng số và hồ_sơ đăng_ký đất_đai , tài_sản khác gắn liền với đất đã sử_dụng để xây_dựng cơ_sở dữ_liệu địa_chính . 
+
+8 . Xây_dựng dữ_liệu đặc_tả-metadata ( Bước 8 ) 
+
+9 . Thử_nghiệm quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu ( Bước 9 ) 
+
+10 .  Kiểm_tra , đánh_giá chất_lượng cơ_sở dữ_liệu địa_chính ( Bước 10 ) 
+
+a ) Kiểm_tra cơ_sở dữ_liệu địa_chính theo quy_định tại <TT rel="Reference"> Thông_tư số 05/2009/TT-BTNMT </TT> ;
+11 .  Đóng_gói , giao_nộp sản_phẩm cơ_sở dữ_liệu địa_chính ( Bước 11 ) 
+
+a ) Đóng_gói , giao_nộp dữ_liệu không_gian địa_chính theo đơn_vị hành_chính xã theo định_dạng chuẩn GML ; 
+
+b ) Đóng_gói , giao_nộp dữ_liệu thuộc tính địa_chính theo đơn_vị hành_chính xã lưu_trữ theo định_dạng XML ; 
+
+d ) Đóng_gói , giao_nộp dữ_liệu địa_chính dưới dạng cơ_sở dữ_liệu đã được thử_nghiệm quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu bằng phần_mềm hệ_thống thông_tin đất_đai theo điểm a khoản 9 Điều 9 Thông_tư này ; 
+
+e ) Tạo sổ mục kê số , sổ địa_chính số và bản_đồ địa_chính số từ cơ_sở dữ_liệu địa_chính được trình_bày theo quy_định của Bộ Tài_nguyên và Môi_trường , trừ trường_hợp bản_đồ địa_chính số đã được tạo_lập mà chưa có biến_động . 
+
+Điều 10 . Hoàn_thiện cơ_sở dữ_liệu địa_chính đã xây_dựng nhưng nội_dung chưa theo đúng quy_định tại <TT rel="Reference"> Thông_tư số 17/2010/TT-BTNMT </TT>
+2 . Rà_soát , đánh_giá hiện_trạng cơ_sở dữ_liệu ( Bước 2 ) 
+
+Rà_soát lập báo_cáo về hiện_trạng dữ_liệu , cụ_thể như sau : 
+
+a ) Dữ_liệu không_gian địa_chính : Hệ_tọa_độ , phân_loại đối_tượng , quan_hệ hình_học , kiểu đối_tượng , chất_lượng chuẩn_hóa không_gian đối_tượng địa_chính ; 
+
+b ) Dữ_liệu thuộc tính địa_chính : Kiểm_tra tính đầy_đủ , đúng_đắn của các nhóm dữ_liệu thuộc tính được liệt_kê theo phụ_lục kèm theo ; 
+
+c ) Đánh_giá liên_kết dữ_liệu không_gian và thuộc_tính : Lập danh_sách thửa đất có dữ_liệu không_gian mà không có dữ_liệu thuộc_tính và ngược_lại ; 
+
+d ) Đánh_giá kết_quả và chất_lượng cập_nhật biến_động của hệ_thống tại thời_điểm hoàn_thiện cơ_sở dữ_liệu ( lập danh_sách những thửa đất có trong cơ_sở dữ_liệu nhưng theo hiện_trạng hồ_sơ cấp Giấy chứng_nhận đã bị biến_động ) . 
+
+3 . Thu_thập bổ_sung tài_liệu ( Bước 3 ) 
+
+Thu_thập , phân_loại hồ_sơ , tài_liệu phục_vụ nhập thông_tin bổ_sung và quét hồ_sơ ( bao_gồm hồ_sơ địa_chính và hồ_sơ gốc cấp Giấy chứng_nhận ) . 
+
+4 . Hoàn_thiện dữ_liệu không_gian ( Bước 4 ) 
+
+Bao_gồm các công_việc đối_với các thửa đất mới cập_nhật và các nhóm đối_tượng không_gian còn thiếu so với chuẩn cơ_sở dữ_liệu địa_chính , cụ_thể : 
+
+a ) Chuẩn_hóa đối_tượng không_gian bổ_sung cho phù_hợp với yêu_cầu của chuẩn dữ_liệu địa_chính ; 
+
+b ) Cập_nhật các đối_tượng địa_chính đã biến_động theo tình_trạng hồ_sơ cấp Giấy chứng_nhận , hồ_sơ đăng_ký biến_động ; 
+
+c ) Chuyển_đổi các đối_tượng không_gian địa_chính bổ_sung vào cơ_sở dữ_liệu hiện có . 
+
+5 . Chuyển_đổi và hoàn_thiện cơ_sở dữ_liệu ( Bước 5 ) 
+
+a ) Lập mô_hình chuyển_đổi dữ_liệu ; 
+
+b ) Chuyển_đổi và chuẩn_hóa dữ_liệu theo quy_định của chuẩn dữ_liệu địa_chính ; 
+
+c ) Nhập và chuẩn_hóa dữ_liệu thuộc tính bổ_sung theo hiện_trạng biến_động của hồ_sơ cấp Giấy chứng_nhận , hồ_sơ đăng_ký biến_động ; 
+
+d ) Rà_soát , hoàn_thiện chất_lượng cơ_sở dữ_liệu so với hiện_trạng được đánh_giá tại khoản 2 Điều này . 
+
+8 . Thử_nghiệm quản_lý khai_thác , cập_nhật cơ_sở dữ_liệu ( Bước 8 ) 
+
+d ) Đóng_gói , giao_nộp dữ_liệu địa_chính dưới dạng cơ_sở dữ_liệu đã được thử_nghiệm quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu bằng phần_mềm hệ_thống thông_tin đất_đai theo điểm a khoản 8 Điều 10 thông_tư này ; 
+
+Điều 11 .  Tích_hợp cơ_sở dữ_liệu địa_chính 
+
+1 . Rà_soát dữ_liệu không_gian của từng đơn_vị hành_chính cấp xã để xử_lý các lỗi dọc biên giữa các xã tiếp_giáp nhau ( nếu có ) .  Trường_hợp có mâu_thuẫn về hình thửa ( do độ chính_xác của các loại bản_đồ địa_chính khác loại tỷ_lệ ) cần xử_lý đồng_bộ với các loại hồ_sơ có liên_quan . 
+
+2 . Rà_soát , cập_nhật bổ_sung cơ_sở dữ_liệu đối_với các trường_hợp biến_động sau thời_điểm nghiệm_thu sản_phẩm cơ_sở dữ_liệu địa_chính đến thời_điểm triển_khai tích_hợp vào hệ_thống cơ_sở dữ_liệu đất_đai cấp tỉnh . 
+
+3 . Chuyển_đổi dữ_liệu địa_chính được xây_dựng theo đơn_vị hành_chính cấp xã vào cơ_sở dữ_liệu đất_đai cấp huyện ;  tập_hợp cơ_sở dữ_liệu đất_đai cấp huyện vào cơ_sở dữ_liệu đất_đai cấp tỉnh ;  tổng_hợp cơ_sở dữ_liệu đất_đai các tỉnh vào cơ_sở dữ_liệu đất_đai cấp trung_ương . 
+
+Dữ_liệu sau khi cập_nhật vào hệ_thống cơ_sở dữ_liệu phải đảm_bảo tính nguyên_bản với dữ_liệu gốc trước khi cập_nhật . 
+
+4 . Xử_lý những bất_cập về thông_tin thuộc tính địa_chính trong quá_trình tích_hợp cơ_sở dữ_liệu theo đơn_vị hành_chính xã bảo_đảm các yêu_cầu sau : 
+
+a ) Đảm_bảo tính thống_nhất thông_tin thuộc tính địa_chính trong toàn_bộ hệ_thống cơ_sở dữ_liệu bao_gồm : 
+
+- Thông_tin của cùng đối_tượng địa_danh , địa_giới , giao_thông , thủy_văn , các đối_tượng_hình tuyến khác thuộc các đơn_vị hành_chính xã kế_cận ; 
+
+- Thông_tin về địa_chỉ của thửa đất , tài_sản gắn liền với đất , địa_chỉ chủ sử_dụng đất thuộc các đơn_vị hành_chính xã khác nhau . 
+
+b ) Đảm_bảo tính duy_nhất thông_tin về chủ sử_dụng trong toàn_bộ hệ_thống cơ_sở dữ_liệu ; 
+
+5 . Thử_nghiệm việc quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu đã được tích_hợp trong thời_gian mười ( 10 ) ngày . 
+
+6 . Đồng_bộ cơ_sở dữ_liệu đất_đai cấp tỉnh vào cơ_sở dữ_liệu đất_đai cấp Trung_ương được thực_hiện định_kỳ hàng tuần . 
+
+Điều 12 .  Xây_dựng cơ_sở dữ_liệu về giá đất , quy_hoạch sử_dụng đất và thống_kê , kiểm_kê đất_đai 
+
+1 . Việc xây_dựng cơ_sở dữ_liệu giá đất được thực_hiện gắn với quy_trình xây_dựng bảng giá đất theo quy_định của Bộ Tài_nguyên và Môi_trường . 
+
+2 . Việc xây_dựng cơ_sở dữ_liệu quy_hoạch sử_dụng đất được thực_hiện gắn với quy_trình xây_dựng quy_hoạch sử_dụng đất ở các cấp theo quy_định của Bộ Tài_nguyên và Môi_trường . 
+
+3 . Việc xây_dựng cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai được thực_hiện gắn với quy_trình thực_hiện thống_kê , kiểm_kê đất_đai theo quy_định của Bộ Tài_nguyên và Môi_trường . 
+
+Điều 13 .  Mô_hình quản_lý và vận_hành cơ_sở dữ_liệu đất_đai ở địa_phương 
+
+1 . Cơ_sở dữ_liệu đất_đai được quản_lý và vận_hành theo mô_hình tập_trung như sau : 
+
+a ) Cơ_sở dữ_liệu đất_đai được lưu_trữ , quản_lý thống_nhất tại Sở Tài_nguyên và Môi_trường ( gọi là cơ_sở dữ_liệu đất_đai cấp tỉnh ) ; 
+
+b ) Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh truy_cập vào cơ_sở dữ_liệu đất_đai cấp tỉnh thông_qua mạng cục_bộ ( LAN ) hoặc mạng diện_rộng ( WAN ) để khai_thác , cập_nhật thông_tin đối_với các trường_hợp thuộc thẩm_quyền ; 
+
+c ) Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện truy_cập vào cơ_sở dữ_liệu đất_đai cấp tỉnh thông_qua mạng diện_rộng ( WAN/internet ) để khai_thác , cập_nhật thông_tin đối_với các trường_hợp thuộc thẩm_quyền ; 
+
+d ) Cán_bộ địa_chính xã nơi có điều_kiện công_nghệ thì truy_cập vào cơ_sở dữ_liệu đất_đai cấp tỉnh thông_qua mạng diện_rộng ( WAN/internet ) để khai_thác thông_tin phục_vụ yêu_cầu quản_lý đất_đai ở địa_phương ; 
+
+e ) Các tổ_chức khác và cá_nhân có nhu_cầu sử_dụng thông_tin thì tra_cứu thông_qua cổng thông_tin đất_đai cấp tỉnh . 
+
+2 . Trường_hợp hạ_tầng mạng chưa đáp_ứng được yêu_cầu truy_cập trực_tiếp của Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện vào cơ_sở dữ_liệu đất_đai tập_trung tại cấp tỉnh thì chiết_xuất cơ_sở dữ_liệu đất_đai cấp tỉnh ra bản_sao theo từng huyện và cài_đặt vào máy_chủ của cấp huyện để khai_thác sử_dụng và cập_nhật chỉnh_lý biến_động đất_đai thường_xuyên . 
+
+Điều 14 .  Yêu_cầu cơ_bản của việc xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu đất_đai 
+
+1 . Yêu_cầu về phần_mềm ứng_dụng 
+
+Các phần_mềm ứng_dụng cho việc xây_dựng , quản_lý , khai_thác , cập_nhật cơ_sở dữ_liệu phải được Bộ Tài_nguyên và Môi_trường thẩm_định và cho phép sử_dụng , bao_gồm : 
+
+a ) Phần_mềm hệ_thống ; 
+
+b ) Phần_mềm nền ( quản_trị cơ_sở dữ_liệu quan_hệ , hệ_thống thông_tin địa_lý ... ) ; 
+
+c ) Phần_mềm ứng_dụng , gồm các phân hệ cơ_bản : 
+
+- Quản_trị hệ_thống ; 
+
+- Quản_lý thông_tin không_gian địa_chính ; 
+
+- Nhập , cập_nhật dữ_liệu ; 
+
+- Đăng_ký đất_đai ( đăng_ký lần đầu , đăng_ký biến_động ) ; 
+
+- Đồng_bộ dữ_liệu ; 
+
+- Khai_thác thông_tin đất_đai ( tổng_hợp , tra_cứu , cung_cấp , kết xuất_bản_đồ , ... ) ; 
+
+- Cổng thông_tin đất_đai . 
+
+2 . Yêu_cầu về hạ_tầng kỹ_thuật công_nghệ thông_tin 
+
+a ) Thiết_bị phục_vụ lưu_trữ và vận_hành cơ_sở dữ_liệu đất_đai bao_gồm : 
+
+- Máy_chủ cơ_sở dữ_liệu ( Data Server ) ; 
+
+- Máy_chủ cơ_sở dữ_liệu dự_phòng ( Standby_Data Server ) ; 
+
+- Máy_chủ sao lưu cơ_sở dữ_liệu ( Backup_Data Server ) ; 
+
+- Hệ_thống lưu_trữ cơ_sở dữ_liệu có_thể sử_dụng trực_tiếp hệ_thống đĩa_cứng trên máy_chủ ( giải_pháp DAS ) hoặc các hệ_thống lưu_trữ dữ_liệu chuyên_dụng trên mạng như Hệ_thống lưu_trữ trên mạng ( Storage Area_Network-SAN ) , hệ_thống lưu_trữ kết_nối_mạng ( Network Attached_Storage-NAS ) .  Dung_lượng của hệ_thống_thiết_bị lưu_trữ phải đảm_bảo đủ để lưu_trữ cơ_sở dữ_liệu đất_đai và kho hồ_sơ cấp Giấy chứng_nhận_dạng số ; 
+
+- Hệ_thống sao lưu dữ_liệu : thiết_bị ghi đĩa DVD-ROM hoặc các hệ_thống sao lưu dữ_liệu lâu_dài khác . 
+
+b ) Thiết_bị phục_vụ khai_thác , cập_nhật dữ_liệu thường_xuyên của Văn_phòng đăng_ký quyền sử_dụng đất các cấp bao_gồm : 
+
+- Hệ_thống máy trạm có cấu_hình mạnh về đồ_họa để thao_tác , chỉnh_lý dữ_liệu không_gian của cơ_sở dữ_liệu đất_đai ; 
+
+- Hệ_thống máy trạm có cấu_hình trung_bình để thao_tác , chỉnh_lý dữ_liệu thuộc_tính của cơ_sở dữ_liệu đất_đai ; 
+
+- Hệ_thống_thiết_bị ngoại_vi : máy_quét khổ A3 , máy_quét tài_liệu khổ A4 , máy_in khổ A4 , máy_in khổ A3 , máy vẽ khổ A1 trở lên , máy đọc mã_vạch ; 
+
+- Thiết_bị ghi đĩa DVD-ROM phục_vụ chia_sẻ , đồng_bộ dữ_liệu giữa Văn_phòng đăng_ký quyền sử_dụng đất các cấp . 
+
+c ) Đường truyền bao_gồm : 
+
+- Mạng diện_rộng ( WAN/internet ) kết_nối trực_tuyến giữa Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh và Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện ; 
+
+- Hệ_thống mạng cục_bộ ( LAN ) . 
+
+3 . Yêu_cầu về tổ_chức xây_dựng , quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu : 
+
+a ) Việc xây_dựng cơ_sở dữ_liệu đất_đai phải được tổ_chức thực_hiện theo từng đơn_vị hành_chính cấp huyện và ưu_tiên thực_hiện trước đối_với khu_vực đô_thị , ven_đô_thị và các địa_bàn hành_chính có mức_độ giao_dịch đất_đai lớn . 
+
+b ) Đối_với địa_phương triển_khai thực_hiện đồng_bộ việc đo_đạc lập mới hoặc chỉnh_lý hoàn_thiện bản_đồ địa_chính và đăng_ký cấp mới , cấp đổi Giấy chứng_nhận phải thực_hiện xây_dựng cơ_sở dữ_liệu địa_chính lồng_ghép với quá_trình đo_đạc , chỉnh_lý hoàn_thiện bản_đồ địa_chính và đăng_ký đất_đai , cấp Giấy chứng_nhận theo quy_định của Bộ Tài_nguyên và Môi_trường . 
+
+c ) Đơn_vị tư_vấn thực_hiện việc xây_dựng cơ_sở dữ_liệu đất_đai phải được Tổng_cục Quản_lý đất_đai thẩm_định , đánh_giá về năng_lực thực_hiện phù_hợp với yêu_cầu nhiệm_vụ xây_dựng cơ_sở dữ_liệu đất_đai của địa_phương . 
+
+Đơn_vị tư_vấn gửi hồ_sơ về Tổng_cục Quản_lý đất_đai để thẩm_định năng_lực , hồ_sơ gồm có : 
+
+- Văn_bản về nội_dung , khối_lượng nhiệm_vụ xây_dựng cơ_sở dữ_liệu đất_đai dự_kiến thực_hiện ; 
+
+- Bản_sao quyết_định thành_lập hoặc giấy_phép kinh_doanh hoạt_động trong lĩnh_vực công_nghệ thông_tin , đo_đạc bản_đồ địa_chính và quản_lý đất_đai ; 
+
+- Danh_mục và số_lượng các loại thiết_bị công_nghệ của đơn_vị sẽ được sử_dụng để xây_dựng cơ_sở dữ_liệu đất_đai ; 
+
+- Danh_sách cán_bộ đăng_ký tham_gia thực_hiện , trong đó thể_hiện trình_độ và chuyên_môn đào_tạo , chứng_chỉ đào_tạo về xây_dựng cơ_sở dữ_liệu đất_đai và kinh_nghiệm công_tác của từng người ; 
+
+- Danh_mục dự_án , công_trình xây_dựng cơ_sở dữ_liệu đất_đai đã , đang thực_hiện hoặc tham_gia thực_hiện ( nếu có ) . 
+
+Trong thời_hạn 30 ngày làm_việc kể từ ngày nhận được hồ_sơ , Tổng_cục Quản_lý đất_đai phải hoàn_thành việc thẩm_định và thông_báo kết_quả cho Sở Tài_nguyên và Môi_trường và đơn_vị tư_vấn biết . 
+
+d ) Văn_phòng đăng_ký quyền sử_dụng đất các cấp và các đơn_vị khác có liên_quan đến việc khai_thác , cập_nhật cơ_sở dữ_liệu đất_đai phải được kiện toàn_bộ_máy , cán_bộ để xác_định rõ chức_năng , nhiệm_vụ , các vị_trí chức_danh chuyên_môn và bố_trí đủ số_lượng cán_bộ cần_thiết để đáp_ứng yêu_cầu nhiệm_vụ khai_thác sử_dụng , cập_nhật thường_xuyên cơ_sở dữ_liệu đất_đai ở địa_phương . 
+
+đ ) Đơn_vị được giao nhiệm_vụ quản_lý , vận_hành hệ_thống cơ_sở dữ_liệu đất_đai ở địa_phương phải có cán_bộ được đào_tạo chuyên_ngành về công_nghệ thông_tin trình_độ từ đại_học trở lên để thực_hiện việc cài_đặt phần_mềm , quản_lý hệ_thống ;  giám_sát , xử_lý_sự_cố cho hệ_thống máy_chủ ;  sao lưu cơ_sở dữ_liệu . 
+
+Điều 15 .  Quản_lý , bảo_đảm an_toàn cơ_sở dữ_liệu đất_đai 
+
+1 . Nội_dung quản_lý cơ_sở dữ_liệu đất_đai bao_gồm : 
+
+a ) Thực_hiện các biện_pháp bảo_đảm an_toàn hệ_thống hạ_tầng kỹ_thuật thông_tin ; 
+
+b ) Quản_lý hệ_thống phần_mềm để bảo_đảm ổn_định , an_toàn cho toàn_bộ hệ_thống ; 
+
+c ) Quản_lý , lưu_trữ cơ_sở dữ_liệu đất_đai bảo_đảm an_toàn thông_tin dữ_liệu , dữ_liệu truy_cập và dữ_liệu trên đường truyền .  Dữ_liệu trong cơ_sở dữ_liệu , dữ_liệu trên đường truyền và trong các bản_sao lưu phục_hồi phải được bảo_vệ với các giải_pháp mã_hóa và che_giấu dữ_liệu .  Dữ_liệu trên đường truyền sử_dụng giải_pháp mã_hóa dữ_liệu .  Hệ_thống phần_mềm quản_trị và cập_nhật , quản_lý , khai_thác cơ_sở dữ_liệu phải có các giải_pháp để kiểm_soát việc truy_cập vượt quá mức cho phép của ứng_dụng hoặc người dùng vào cơ_sở dữ_liệu , theo_dõi hoạt_động của người sử_dụng . 
+
+2 . Tổng_cục Quản_lý đất_đai thuộc Bộ Tài_nguyên và Môi_trường chịu trách_nhiệm bảo_đảm an_toàn đối_với hệ_thống thông_tin địa_chính ở Trung_ương . 
+
+3 . Sở Tài_nguyên và Môi_trường chịu trách_nhiệm quản_lý_hạ_tầng kỹ_thuật công_nghệ thông_tin cấp tỉnh và hệ_thống kết_nối cơ_sở dữ_liệu đến các huyện ;  quản_lý hệ_thống phần_mềm ứng_dụng . 
+
+Đối_với các huyện chưa có đủ điều_kiện truy_cập trực_tiếp vào cơ_sở dữ_liệu đất_đai cấp tỉnh thì Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện chịu trách_nhiệm quản_lý_hạ_tầng kỹ_thuật công_nghệ thông_tin của địa_phương . 
+
+4 . Văn_phòng đăng_ký quyền sử_dụng đất thuộc Sở Tài_nguyên và Môi_trường chịu trách_nhiệm quản_lý , sao lưu cơ_sở dữ_liệu địa_chính và cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai cấp tỉnh . 
+
+Đối_với các huyện chưa có đủ điều_kiện truy_cập trực_tiếp vào cơ_sở dữ_liệu đất_đai cấp tỉnh thì Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện chịu trách_nhiệm quản_lý , sao lưu cơ_sở dữ_liệu địa_chính và cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai của địa_phương . 
+
+5 . Đơn_vị trực_thuộc Sở Tài_nguyên và Môi_trường thực_hiện quy_hoạch sử_dụng đất cấp tỉnh , định_giá đất quản_lý hệ_thống phần_mềm ứng_dụng ;  quản_lý , sao lưu cơ_sở dữ_liệu quy_hoạch sử_dụng đất và cơ_sở dữ_liệu giá đất cấp tỉnh . 
+
+Đối_với các huyện chưa có đủ điều_kiện truy_cập trực_tiếp vào cơ_sở dữ_liệu đất_đai cấp tỉnh thì Phòng Tài_nguyên và Môi_trường chịu trách_nhiệm quản_lý , lưu_giữ cơ_sở dữ_liệu quy_hoạch sử_dụng đất của địa_phương . 
+
+6 . Cơ_sở dữ_liệu đất_đai phải được sao lưu vào các thiết_bị nhớ để lưu theo định_kỳ hàng tuần , hàng tháng , hàng năm để phòng_tránh trường_hợp sai hỏng , mất dữ_liệu trong quá_trình quản_lý , sử_dụng . 
+
+Dữ_liệu sao lưu hàng tuần phải được lưu_giữ tối_thiểu trong 3 tháng ;  sao lưu hàng tháng phải được lưu_giữ tối_thiểu trong 1 năm ;  sao lưu hàng năm phải được lưu_giữ vĩnh_viễn và sao lưu được lưu_trữ ít_nhất tại 2 địa_điểm . 
+
+7 . Sở Tài_nguyên và Môi_trường có trách_nhiệm xây_dựng quy_chế quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu đất_đai bao_gồm : 
+
+a ) Quy_chế quản_lý , khai_thác sử_dụng , cập_nhật cơ_sở dữ_liệu đất_đai ; 
+
+b ) Quy_trình quản_trị cơ_sở dữ_liệu đất_đai ; 
+
+c ) Quy_trình cập_nhật cơ_sở dữ_liệu đất_đai từ kết_quả đăng_ký biến_động đất_đai ; 
+
+d ) Quy_trình tra_cứu , cung_cấp thông_tin đất_đai ; 
+
+đ ) Quy_chế về bảo_đảm an_ninh , bảo_mật thông_tin và an_toàn cho cơ_sở dữ_liệu đất_đai ; 
+
+e ) Xây_dựng đơn_giá , quy_định về quản_lý , sử_dụng nguồn kinh_phí thu từ cung_cấp thông_tin đất_đai theo đặc_thù địa_phương . 
+
+Điều 16 .  Cập_nhật , chỉnh_lý biến_động cơ_sở dữ_liệu đất_đai 
+
+1 . Căn_cứ để cập_nhật , chỉnh_lý biến_động cơ_sở dữ_liệu đất_đai 
+
+a ) Cơ_sở dữ_liệu địa_chính được cập_nhật , chỉnh_lý thường_xuyên theo các căn_cứ sau : 
+
+- Hồ_sơ giao đất hoặc hồ_sơ cho thuê đất , hồ_sơ đấu_giá quyền sử_dụng đất , hồ_sơ đăng_ký , cấp Giấy chứng_nhận được lập sau khi xây_dựng cơ_sở dữ_liệu đất_đai ; 
+
+- Hồ_sơ thu_hồi đất ; 
+
+- Hồ_sơ đăng_ký biến_động về sử_dụng đất , sở_hữu tài_sản gắn liền với đất ; 
+
+- Hồ_sơ_cấp đổi Giấy chứng_nhận , cấp lại Giấy chứng_nhận bị mất ;  đính_chính nội_dung ghi trên Giấy chứng_nhận đã cấp ; 
+
+- Văn_bản của cơ_quan nhà_nước có thẩm_quyền về việc thành_lập mới hoặc điều_chỉnh địa_giới hoặc đổi tên đơn_vị hành_chính liên_quan đến thửa đất , tài_sản gắn liền với đất . 
+
+b ) Cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai được cập_nhật , chỉnh_lý bổ_sung theo kết_quả thống_kê , kiểm_kê đất_đai đã được cơ_quan có thẩm_quyền phê_duyệt , công_bố . 
+
+c ) Cơ_sở dữ_liệu quy_hoạch sử_dụng đất được cập_nhật , chỉnh_lý theo kết_quả điều_chỉnh quy_hoạch sử_dụng đất trong kỳ hoặc kết_quả lập quy_hoạch sử_dụng đất của kỳ tiếp_theo đã được cơ_quan có thẩm_quyền phê_duyệt . 
+
+d ) Cơ_sở dữ_liệu giá đất được cập_nhật , chỉnh_lý về những thay_đổi theo các căn_cứ sau : 
+
+- Bảng giá đất đã được Ủy_ban nhân_dân cấp tỉnh phê_duyệt , công_bố ; 
+
+- Hồ_sơ giao đất , cho thuê đất , đấu_giá quyền sử_dụng đất ; 
+
+- Hồ_sơ chuyển quyền sử_dụng đất ; 
+
+- Văn_bản điều_chỉnh giá thuê đất . 
+
+2 . Mức_độ , tần_suất thực_hiện cập_nhật , chỉnh_lý cơ_sở dữ_liệu đất_đai 
+
+a ) Đối_với cơ_sở dữ_liệu địa_chính , việc cập_nhật , chỉnh_lý thông_tin được thực_hiện liên_tục , thường_xuyên ngay trong quá_trình giải_quyết thủ_tục hành_chính về đất_đai đối_với mỗi truờng hợp và phải được hoàn_thành trước khi trao Giấy chứng_nhận cho người được cấp Giấy chứng_nhận ; 
+
+b ) Đối_với cơ_sở dữ_liệu thống_kê , kiểm_kê đất_đai được tổng_hợp trong quá_trình thực_hiện thống_kê , kiểm_kê đất_đai theo định_kỳ và được cập_nhật chính_thức vào cơ_sở dữ_liệu trong thời_hạn 05 ngày kể từ ngày được cơ_quan có thẩm_quyền phê_duyệt , công_bố ; 
+
+c ) Đối_với cơ_sở dữ_liệu quy_hoạch sử_dụng đất được cập_nhật , chỉnh_lý trong thời_hạn 10 ngày kể từ ngày cơ_quan có thẩm_quyền phê_duyệt ; 
+
+d ) Đối_với cơ_sở dữ_liệu giá đất được cập_nhật , chỉnh_lý trong thời_hạn 10 ngày kể từ ngày bảng giá đất , hồ_sơ giao đất , cho thuê đất , đấu_giá quyền sử_dụng đất , hồ_sơ chuyển quyền sử_dụng đất được thực_hiện . 
+
+3 . Kiểm_tra việc cập_nhật cơ_sở dữ_liệu đất_đai 
+
+a ) Các đơn_vị làm nhiệm_vụ xây_dựng , tích_hợp cơ_sở dữ_liệu theo đơn_vị hành_chính cấp xã phải có trách_nhiệm kiểm_tra , rà_soát lại toàn_bộ thông_tin đã được phát_hiện , chỉnh_sửa và cập_nhật vào hiện_trạng hồ_sơ địa_chính trước khi nhập chính_thức vào cơ_sở dữ_liệu đất_đai .  Kết_quả cập_nhật phải cho phép các biến_động tiếp_theo được thực_hiện trực_tiếp trên hệ_thống cơ_sở dữ_liệu ngay sau khi sản_phẩm được nghiệm_thu và đưa vào vận_hành tại Văn_phòng đăng_ký quyền sử_dụng đất các cấp ; 
+
+Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh , Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện vận_hành bản_sao cơ_sở dữ_liệu tổ_chức kiểm_tra thường_xuyên đối_với cơ_sở dữ_liệu địa_chính và cơ_sở dữ_liệu thống_kê , kiểm_kê đã được cập_nhật .  Tỷ_lệ kiểm_tra tối_thiểu 10 % số trường_hợp cập_nhật , chỉnh_lý . 
+
+Điều 17 .  Đồng_bộ cơ_sở dữ_liệu địa_chính 
+
+1 . Đối_với các huyện chưa có đủ điều_kiện truy_cập trực_tiếp vào cơ_sở dữ_liệu đất_đai cấp tỉnh thì Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện thực_hiện định_kỳ việc chiết_xuất các dữ_liệu về việc cấp Giấy chứng_nhận lần đầu hoặc đăng_ký biến_động trong kỳ ở cấp huyện gửi về Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh để nhập vào cơ_sở dữ_liệu của cấp tỉnh . 
+
+Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh thực_hiện định_kỳ việc chiết_xuất các dữ_liệu về việc cấp Giấy chứng_nhận lần đầu hoặc đăng_ký biến_động trong kỳ ở cấp tỉnh gửi về Văn_phòng đăng_ký quyền sử_dụng đất cấp huyện cập_nhật vào cơ_sở dữ_liệu của huyện . 
+
+2 . Văn_phòng đăng_ký quyền sử_dụng đất cấp tỉnh thực_hiện định_kỳ việc chiết_xuất dữ_liệu biến_động gửi Tổng_cục Quản_lý đất_đai cập_nhật vào cơ_sở dữ_liệu đất_đai cấp trung_ương . 
+
+3 . Văn_phòng đăng_ký quyền sử_dụng đất các cấp và Tổng_cục Quản_lý đất_đai sau khi nhận được dữ_liệu gửi đến phải thực_hiện kiểm_tra , chuẩn_hóa dữ_liệu trước khi cập_nhật vào cơ_sở dữ_liệu đất_đai để quản_lý , sử_dụng . 
+
+4 . Thời_gian định_kỳ thực_hiện việc gửi dữ_liệu ở địa_phương do Sở Tài_nguyên và Môi_trường quy_định , nhưng không được kéo_dài quá một tuần .  Thời_gian định_kỳ thực_hiện việc gửi dữ_liệu của cấp tỉnh về Tổng_cục Quản_lý đất_đai được thực_hiện mỗi quý một lần vào tuần cuối_cùng của tháng cuối quý . 
+
+Trường_hợp cần đồng_bộ cơ_sở dữ_liệu đất_đai trước thời_hạn quy_định trên đây thì các cơ_quan có nhu_cầu đồng_bộ cơ_sở dữ_liệu đất_đai gửi văn_bản yêu_cầu đến các Văn_phòng đăng_ký quyền sử_dụng đất nơi cập_nhật dữ_liệu biến_động để cung_cấp dữ_liệu phục_vụ cho việc đồng_bộ cơ_sở dữ_liệu đất_đai . 
+
+Điều 18 .  Cung_cấp thông_tin từ cơ_sở dữ_liệu đất_đai 
+
+1 . Việc cung_cấp thông_tin từ cơ_sở dữ_liệu đất_đai được thực_hiện bằng các hình_thức sau : 
+
+a ) Tra_cứu trực_tuyến trên mạng ; 
+
+b ) Trích_lục bản_đồ địa_chính , trích sao hồ_sơ địa_chính , bảng giá đất ; 
+
+c ) Sao thông_tin chiết_xuất từ cơ_sở dữ_liệu đất_đai vào thiết_bị nhớ . 
+
+2 . Nội_dung thông_tin cung_cấp 
+
+a ) Trường_hợp tra_cứu trực_tuyến tự_do trên mạng , nội_dung thông_tin gồm có : 
+
+- Thông_tin thuộc tính địa_chính gồm : số_hiệu thửa , số_hiệu tờ bản_đồ địa_chính ;  diện_tích ;  mục_đích sử_dụng đất được giao , được thuê hoặc được Nhà_nước công_nhận quyền sử_dụng ;  đã đăng_ký hay chưa đăng_ký ;  đã cấp Giấy chứng_nhận hay chưa cấp Giấy chứng_nhận ; 
+
+- Thông_tin quy_hoạch sử_dụng đất đã được cơ_quan nhà_nước có thẩm_quyền xét_duyệt gồm : sơ_đồ không_gian quy_hoạch khu_vực có thửa đất ;  mục_đích sử_dụng đất theo quy_hoạch ; 
+
+- Bảng giá đất đã công_bố . 
+
+b ) Trường_hợp cung_cấp thông_tin dữ_liệu đất_đai theo nhu_cầu được thực_hiện như sau : 
+
+- Đối_với người sử_dụng đất có nhu_cầu thì được cung_cấp các thông_tin về dữ_liệu đất_đai đối_với thửa đất thuộc quyền sử_dụng và tài_sản gắn liền với đất thuộc quyền sở_hữu có trong cơ_sở dữ_liệu đất_đai ; 
+
+- Ủy_ban nhân_dân , cơ_quan quản_lý đất_đai , Thanh_tra nhà_nước , Tòa_án nhân_dân các cấp có nhu_cầu sử_dụng thông_tin đất_đai để thực_hiện nhiệm_vụ được giao thì được cung_cấp các thông_tin dữ_liệu đất_đai có trong cơ_sở dữ_liệu đất_đai ; 
+
+- Các tổ_chức , cá_nhân khác có nhu_cầu thì được cung_cấp các thông_tin dữ_liệu đất_đai có trong cơ_sở dữ_liệu đất_đai trừ các thông_tin dữ_liệu thửa đất sau đây : 
+
++ Tên cơ_quan , đơn_vị quốc_phòng , an_ninh ; 
+
++ Thông_tin về giấy_tờ pháp_nhân , nhân_thân và địa_chỉ của người sử_dụng đất , chủ sở_hữu tài_sản gắn liền với đất ; 
+
++ Thông_tin tọa_độ thửa đất ; 
+
++ Hồ_sơ cấp Giấy chứng_nhận ( dữ_liệu quét Giấy chứng_nhận và các giấy_tờ pháp_lý về quyền sử_dụng đất ) ; 
+
++ Hồ_sơ đăng_ký thế_chấp bằng quyền sử_dụng đất , quyền sở_hữu tài_sản gắn liền với đất . 
+
+3 . Cơ_quan có thẩm_quyền cung_cấp thông_tin được thực_hiện như sau : 
+
+a ) Tổng_cục Quản_lý đất_đai , Sở Tài_nguyên và Môi_trường thực_hiện cung_cấp thông_tin về giá đất , quy_hoạch sử_dụng đất , thống_kê , kiểm_kê đất_đai ;  Phòng Tài_nguyên và Môi_trường thực_hiện cung_cấp thông_tin về giá đất , quy_hoạch sử_dụng đất , thống_kê , kiểm_kê đất_đai trong phạm_vi cấp quản_lý . 
+
+b ) Văn_phòng đăng_ký quyền sử_dụng đất có thẩm_quyền cung_cấp thông_tin về địa_chính thửa đất theo quy_định tại khoản 2 mục VI của <TT rel="Reference"> Thông_tư số 09/2007/TT-BTNMT ngày 02 tháng 8 năm 2007 </TT> hướng_dẫn việc lập , chỉnh_lý , quản_lý hồ_sơ địa_chính ;
+4 . Thủ_tục cung_cấp thông_tin được thực_hiện theo quy_định tại khoản 4 mục VI của <TT rel="Reference"> Thông_tư số 09/2007/TT-BTNMT ngày 02 tháng 8 năm 2007 </TT> hướng_dẫn việc lập , chỉnh_lý , quản_lý hồ_sơ địa_chính .
+5 . Tổng_cục Quản_lý đất_đai , Sở Tài_nguyên và Môi_trường , Phòng Tài_nguyên và Môi_trường có trách_nhiệm công_khai danh_mục thông_tin đất_đai hiện có và đơn_vị có thẩm_quyền cung_cấp thông_tin tại trụ_sở cơ_quan và trên cổng thông_tin điện_tử ( nếu có ) . 
+
+6 . Tổ_chức và cá_nhân khai_thác thông_tin địa_chính phải nộp phí khai_thác thông_tin đất_đai theo quy_định của pháp_luật về phí , lệ_phí . 
+
+Hội_đồng nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương ban_hành quy_định về mức thu và việc sử_dụng phí cung_cấp thông_tin đất_đai từ cơ_sở dữ_liệu đất_đai đối_với từng hình_thức cung_cấp thông_tin và đối_tượng sử_dụng thông_tin cụ_thể theo quy_định của pháp_luật . 
+
+Điều 19 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 10 tháng 6 năm 2013 . 
+
+Điều 20 .  Trách_nhiệm thực_hiện 
+
+1 . Tổng_cục Quản_lý đất_đai có trách_nhiệm kiểm_tra việc thực_hiện Thông_tư này . 
+
+2 . Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm phổ_biến , bố_trí kinh_phí và chỉ_đạo thực_hiện Thông_tư này ở địa_phương . 
+
+3 . Sở Tài_nguyên và Môi_trường có trách_nhiệm giúp Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương triển_khai thực_hiện Thông_tư này ở địa_phương ;  báo_cáo Tổng_cục Quản_lý đất_đai về tình_hình triển_khai và kết_quả xây_dựng cơ_sở dữ_liệu đất_đai tại địa_phương theo định_kỳ 6 tháng và hàng năm ( gửi trước ngày 15 tháng 6 và ngày 15 tháng 12 hàng năm ) ;  giao_nộp một bộ sản_phẩm cơ_sở dữ_liệu đất_đai của các xã đã hoàn_thành ( dạng_đĩa CD ) gửi về Trung_tâm Lưu_trữ và Thông_tin đất_đai trực_thuộc Tổng_cục Quản_lý đất_đai để đồng_bộ vào cơ_sở dữ_liệu đất_đai cấp Trung_ương . 
+
+Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc thì các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét quyết_định ./. 

@@ -1,0 +1,879 @@
+Thông tư Ban hành quy chuẩn kỹ thuật quốc gia về máy lái thủy lực trên phương tiện thủy - yêu cầu kỹ thuật và phương pháp thử
+
+Căn_cứ <L rel="Pursuant"> Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 127/2007/NĐ-CP ngày 1 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <L rel="Others"> Luật Tiêu_chuẩn và Quy_chuẩn kỹ_thuật </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 51/2008/NĐ-CP ngày 22 tháng 4 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+Điều 1 .  Ban_hành kèm theo Thông_tư này Quy_chuẩn kỹ_thuật quốc_gia về máy lái thủy_lực trên phương_tiện thủy-Yêu_cầu kỹ_thuật và phương_pháp thử ; 
+
+Mã_số đăng_ký : QCVN 24 : 2010/BGTVT . 
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành sau 6 tháng kể từ ngày ký ban_hành ; Bãi_bỏ <QĐ rel="Drop"> Quyết_định số 07/2006/QĐ-BGTVT ngày 18 tháng 1 năm 2006 </QĐ> ban_hành Tiêu_chuẩn ngành 22 TCN 343-06 “ Máy lái thủy_lực tàu_thủy-Yêu_cầu kỹ_thuật ” và <QĐ rel="Drop"> Quyết_định số 08/2006/QĐ-BGTVT ngày 18 tháng 1 năm 2006 </QĐ> ban_hành Tiêu_chuẩn ngành 22TCN 344-06 “ Máy lái thủy_lực tàu_thủy-Phương_pháp thử tại xưởng ” .
+Điều 3 .  Chánh_văn_phòng Bộ , Chánh thanh_tra Bộ , Vụ_trưởng các Vụ , Cục_trưởng Cục Đăng_kiểm Việt_Nam , thủ_trưởng các cơ_quan đơn_vị thuộc Bộ Giao_thông vận_tải , các tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này ./. 
+
+1 . QUY_ĐỊNH CHUNG 
+
+1.1 .  Phạm_vi điều_chỉnh 
+
+1.2 .  Đối_tượng áp_dụng 
+
+1.3 .  Giải_thích từ_ngữ 
+
+1.4 .  Tài_liệu viện_dẫn 
+
+1.5 .  Bản_vẽ và tài_liệu 
+
+1.6 .  Trưng_bày hướng_dẫn vận_hành 
+
+1.7 .  Hướng_dẫn vận_hành và bảo_dưỡng thiết_bị lái 
+
+2 . QUY_ĐỊNH KỸ_THUẬT 
+
+2.1 .  Yêu_cầu chung về đặc_tính và bố_trí máy lái thủy_lực 
+
+2.2 .  Đặc_tính của máy lái chính 
+
+2.3 .  Đặc_tính của máy lái phụ 
+
+2.4 .  Đường_ống 
+
+2.5 .  Khởi_động lại và báo_động mất năng_lượng của các máy lái 
+
+2.6 .  Nguồn năng_lượng dự_phòng 
+
+2.7 .  Trang_bị điện cho máy_điện thủy_lực 
+
+2.8 .  Vị_trí máy lái 
+
+2.9 .  Phương_tiện liên_lạc 
+
+2.10 .  Thiết_bị chỉ báo góc bánh_lái 
+
+2.11 .  Điều_khiển 
+
+2.12 .  Vật_liệu , kết_cấu và độ bền của máy lái thủy_lực 
+
+2.13 .  Yêu_cầu bổ_sung cho các tàu chở hàng lỏng , tàu chở xô khí hóa_lỏng và tàu chở hóa xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên và các tàu khác có GT từ 70.000 trở lên 
+
+2.14 .  Một_số yêu_cầu riêng đối_với máy lái thủy_lực sử_dụng trên tàu_biển 
+
+2.15 .  Một_số yêu_cầu riêng đối_với máy lái thủy_lực sử_dụng trên tàu_biển có vùng hoạt_động hạn_chế 
+
+3 . QUY_ĐỊNH VỀ QUẢN_LÝ 
+
+4 . TRÁCH_NHIỆM CỦA TỔ_CHỨC , CÁ_NHÂN 
+
+5 . TỔ_CHỨC THỰC_HIỆN 
+
+QUY_CHUẨN KỸ_THUẬT QUỐC_GIA 
+
+Về máy lái thủy_lực trên phương_tiện thủy yêu_cầu kỹ_thuật và phương_pháp thử 
+
+National_Technical Regulation on Hydraulic steering Gears for Ships_Technical equipments and Test_method 
+
+1.1.1 .  Quy_chuẩn này quy_định về các yêu_cầu kỹ_thuật liên_quan đến thiết_kế , chế_tạo , lắp_đặt , nhập_khẩu , sử_dụng , kiểm_tra , thử và chứng_nhận đối_với các loại máy lái thủy_lực trên phương_tiện thủy . 
+
+1.1.2 .  Ngoài thỏa_mãn các quy_định trong Quy_chuẩn này các máy lái thủy_lực còn phải thỏa_mãn các quy_định trong các văn_bản quy_phạm pháp_luật , tiêu_chuẩn , quy_chuẩn , hướng_dẫn có liên_quan cho từng chủng_loại . 
+
+Quy_chuẩn này áp_dụng đối_với các tổ_chức , cá_nhân có liên_quan đến thiết_kế , chế_tạo , lắp_đặt , nhập_khẩu , sử_dụng và kiểm_tra , chứng_nhận máy lái thủy_lực trên phương_tiện thủy trong phạm_vi cả nước . 
+
+1.3.1 .  Máy lái chính ( Main steering Gear ) 
+
+Hệ_thống_thiết_bị bao_gồm Bộ động_lực chính ( Main_Power Unit ) và hệ_thống dẫn_động của nó .  Máy lái chính có khả_năng cung_cấp mô men lái lớn nhất cho trục lái đáp_ứng được mọi chế_độ hoạt_động khai_thác của tàu . 
+
+1.3.2 .  Máy lái phụ ( Auxiliary steering Gear ) 
+
+Hệ_thống_thiết_bị khác với các phần của máy lái chính cần_thiết cho việc lái tàu trong trường_hợp máy lái chính bị sự_cố . 
+
+1.3.3 .  Bơm tay sự_cố ( Emergency_Hand Pump ) 
+
+Tổ bơm thủy_lực quay tay tạo ra năng_lượng cung_cấp cho hệ_thống dẫn_động để quay bánh_lái , khi nguồn điện của tàu cấp cho máy lái chính và máy lái phụ chạy_điện bị sự_cố . 
+
+1.3.4 .  Bộ động_lực ( Power Unit ) 
+
+Cụm các thiết_bị bao_gồm một động_cơ_điện với các thiết_bị điện đi kèm và một bơm thủy_lực với các van chức_năng . 
+
+1.3.5 .  Hệ_thống dẫn_động ( Power_Actuating Systems ) 
+
+Cụm thiết_bị thủy_lực và cơ_khí để tạo lực quay trục lái , bao_gồm thiết_bị dẫn_động bánh_lái , séc tơ , giá đỡ xi_lanh , các van an_toàn , các van chặn , các đường_ống và phụ_kiện .  Hệ_thống dẫn_động của máy lái thủy_lực phải phải được thiết_kế đảm_bảo cho bánh_lái quay từ phải sang trái và từ trái sang phải với tốc_độ như nhau . 
+
+1.3.6 .  Thiết_bị dẫn_động bánh_lái ( Rudder Actuator ) 
+
+Thiết_bị trực_tiếp biến_đổi áp_suất thủy_lực thành tác_dụng cơ_giới để chuyển_dịch bánh_lái .  Nó có_thể là xi_lanh quay , xi_lanh tác_dụng đơn , xi_lanh tác_dụng kép , mô_tơ thủy_lực , v .  v . .  . 
+
+1.3.7 .  Hệ_thống điều_khiển ( Steering_Gear Control ) 
+
+Hệ_thống các trang_thiết_bị điện và dây_dẫn dùng để truyền tín_hiệu điều_khiển từ vị_trí điều_khiển đến các cơ_cấu chấp_hành . 
+
+1.3.8 .  Séc_tơ ( Tiller ) 
+
+Bộ_phận kết_cấu cơ_khí truyền mô men cho trục lái . 
+
+1.3.9 .  Giá đỡ xi_lanh ( Fitting ) 
+
+Bộ_phận kết_cấu cơ_khí truyền mô men ngoại_lực từ bánh_lái xuống bệ đỡ gắn với thân tàu . 
+
+1.3.10 .  Van an_toàn ( Safety Valve ) 
+
+Van_thủy_lực bảo_vệ cho các thiết_bị và đường_ống của hệ_thống dẫn_động khi áp_suất thủy_lực vượt quá áp_suất thiết_kế do ngoại_lực từ bên ngoài tác_động vào bánh_lái tạo ra . 
+
+1.3.11 .  Van_ngắt ( Stop Valve ) 
+
+Van_thủy_lực đảm_nhiệm chức_năng cách_ly chỗ hỏng phát_sinh trên đường_ống để khả_năng lái được duy_trì ở phần còn lại . 
+
+1.3.12 .  Van_hãm ( Pilot_Check Valve ) 
+
+Van_thủy_lực đảm_nhiệm chức_năng hãm giữ bánh_lái ở vị_trí bất_kỳ , bằng cách tự_động tách_biệt mạch thủy_lực của hệ_thống dẫn_động lái khi thôi điều_khiển với hệ_thống thủy_lực của máy lái thủy_lực . 
+
+1.3.13 .  Van_định áp ( Relief Valve ) 
+
+Van_thủy_lực có tác_dụng tự_động xả dầu cấp từ bơm khi áp_suất trong hệ_thống vượt quá áp_suất làm_việc lớn nhất . 
+
+1.3.14 .  Áp_suất làm_việc lớn nhất ( Maximum working pressure ) 
+
+Áp_suất dầu thủy_lực trong hệ_thống khi máy lái thủy_lực tạo ra mô men làm_việc định_mức . 
+
+1.3.15 .  Áp_suất thiết_kế ( Design pressure ) 
+
+Áp_suất để tính_toán xác_định quy_cách ống và các chi_tiết khác của máy lái thủy_lực .  Áp_suất thiết_kế được chọn bằng 1,25 lần áp_suất làm_việc lớn nhất . 
+
+1.3.16 .  Đăng_kiểm 
+
+Cục Đăng_kiểm Việt_Nam-Vietnam_Register ( VR ) . 
+
+1.3.17 .  GT 
+
+Tổng_dung_tích của phương_tiện . 
+
+1.3.18 .  Cơ_sở chế_tạo 
+
+Tổ_chức , cá_nhân sản_xuất , chế_tạo , sửa_chữa , hoán cải , lắp_ráp máy lái thủy_lực và các chi_tiết , bộ_phận sử_dụng để chế_tạo máy lái thủy_lực . 
+
+1.3.19 .  Cơ_sở thiết_kế 
+
+Tổ_chức , cá_nhân hành_nghề kinh_doanh dịch_vụ thiết_kế máy lái thủy_lực . 
+
+1.3.20 .  Cơ_sở thử_nghiệm ( trạm thử , phòng_thí_nghiệm ) 
+
+Các cơ_sở thử_nghiệm , trạm thử , phòng_thí_nghiệm ( sau đây gọi là Phòng thử_nghiệm ) của tổ_chức , cá_nhân trong nước , nước_ngoài hoạt_động trong lĩnh_vực kiểm_tra , thử_nghiệm vật_liệu , máy lái thủy_lực và các chi_tiết , bộ_phận sử_dụng để chế_tạo máy lái thủy_lực được Cục Đăng_kiểm Việt_Nam đánh_giá , chứng_nhận hoặc thừa_nhận . 
+
+1.3.21 .  Chủ_thiết_bị 
+
+Tổ_chức , cá_nhân quản_lý , khai_thác sử_dụng máy lái thủy_lực . 
+
+1.4.1 .  Công_ước Quốc_tế về An_toàn sinh_mạng con_người trên biển 1974 ( SOLAS 1974 , văn_bản hợp_nhất 2004 ) và các bổ_sung sửa_đổi . 
+
+1.4.2 .  Quy_định của Hiệp_hội các Tổ_chức Đăng_kiểm Quốc_tế ( IACS ) về máy lái thủy_lực và các bổ_sung sửa_đổi . 
+
+1.4.3 .  Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT-Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép và các bổ_sung sửa_đổi . 
+
+1.4.4 .  Tiêu_chuẩn Việt_Nam-Quy_phạm Phân_cấp và đóng phương_tiện thủy nội_địa TCVN 5801 : 2005 và các bổ_sung sửa_đổi . 
+
+Các tài_liệu và bản_vẽ chế_tạo máy lái thủy_lực phải được Đăng_kiểm_duyệt .  Cụ_thể : 
+
+1.5.1 .  Bản_vẽ 
+
+( a ) Bản_vẽ bố_trí chung của thiết_bị lái ; 
+
+( b ) Các chi_tiết của cần bánh_lái ; 
+
+( c ) Bản_vẽ lắp_ráp và chi_tiết của máy lái thủy_lực ; 
+
+( d ) Bản_vẽ lắp_ráp và chi_tiết của thiết_bị dẫn_động bánh_lái ; 
+
+( e ) Sơ_đồ hệ_thống thủy_lực và sơ_đồ đường_ống thủy_lực ; 
+
+( f ) Sơ_đồ hệ_thống điều_khiển và điện ( kể_cả thiết_bị báo_động và lái tự_động ) ; 
+
+( g ) Bố_trí và sơ_đồ của nguồn năng_lượng dự_phòng ; 
+
+( h ) Sơ_đồ của thiết_bị chỉ báo góc bánh_lái ; 
+
+( i ) Những bản_vẽ khác mà Đăng_kiểm cho là cần_thiết . 
+
+1.5.2 .  Tài_liệu 
+
+( a ) Các đặc_tính kỹ_thuật ; 
+
+( b ) Hướng_dẫn vận_hành ( kể_cả các bản_vẽ trình_bày quy_trình chuyển_đổi giữa các máy lái thủy_lực và giữa các hệ_thống điều_khiển .  Các bản_vẽ thể_hiện trình_tự_cấp năng_lượng tự_động từ một nguồn năng_lượng dự_phòng , các số_liệu về kiểu loại , đặc_tính kỹ_thuật và sự lắp_ráp nguồn năng_lượng trong trường_hợp nguồn dự_phòng là nguồn độc_lập và đặc_tính của chất_lỏng thủy_lực ) ; 
+
+( c ) Tài_liệu hướng_dẫn biện_pháp đối_phó khi có hư_hỏng riêng ở hệ_thống truyền động ; 
+
+( d ) Bản_tính độ bền của những bộ_phận quan_trọng ; 
+
+( e ) Các tài_liệu khác mà Đăng_kiểm thấy cần_thiết . 
+
+1.6.1 .  Các hướng_dẫn vận_hành đơn_giản kèm theo sơ_đồ khối thể_hiện quy_trình chuyển_đổi các máy lái thủy_lực và các hệ_thống điều_khiển phải được trưng_bày cố_định ở buồng_lái và buồng_máy lái đối_với các tàu được trang_bị thiết_bị lái cơ_giới . 
+
+1.6.2 .  Nếu có thiết_bị báo_động khi hệ_thống hỏng phù_hợp với 2.11.1.4 phải trang_bị trên buồng_lái các hướng_dẫn thích_hợp về các quy_trình xử_lý_sự_cố khi có báo_động . 
+
+Phải trang_bị các hướng_dẫn vận_hành và bảo_dưỡng thiết_bị lái và các bản_vẽ cơ_khí của thiết_bị lái .  Các hướng_dẫn và bản_vẽ này phải sử_dụng ngôn_ngữ tiếng Việt_Nam và tiếng Anh để sĩ_quan và thuyền_viên cần phải hiểu những thông_tin đó khi thực_hiện nhiệm_vụ . 
+
+2.1.1 .  Máy lái thủy_lực được truyền động_cơ_giới phải có đặc_tính kỹ_thuật và kết_cấu máy lái tay thủy_lực sẽ được Đăng_kiểm kiểm_tra trong từng trường_hợp cụ_thể . 
+
+2.1.2 .  Máy lái thủy_lực trang_bị cho mỗi tàu tối_thiểu phải gồm : 
+
+- 01 máy lái chính ; 
+
+- 01 máy lái phụ . 
+
+Máy lái chính và máy lái phụ phải được bố_trí sao cho sự hư_hỏng của một trong các máy lái đó không làm tê_liệt hoạt_động của máy lái kia . 
+
+Máy lái phụ được phép dùng chung hệ_thống dẫn_động của máy lái chính . 
+
+2.1.3 .  Nếu máy lái chính gồm hai hoặc nhiều bộ động_lực giống nhau thì không cần phải có máy lái phụ , với điều_kiện là : 
+
+( 1 ) Trên tàu khách , máy lái chính có khả_năng điều_khiển hoạt_động của bánh_lái như mục 2.2 yêu_cầu khi một trong các bộ động_lực đó bị hỏng . 
+
+( 2 ) Trên tàu hàng , máy lái chính có khả_năng điều_khiển hoạt_động của bánh_lái như mục 2.2 yêu_cầu khi làm_việc với tất_cả các bộ động_lực . 
+
+( 3 ) Máy lái chính phải thiết_kế sao cho sau khi có sự_cố đơn_lẻ trong hệ_thống ống của nó hoặc ở một trong các bộ động_lực thì có_thể tách phần sự_cố ra khỏi hệ_thống để duy_trì hoặc nhanh_chóng phục_hồi khả_năng điều_khiển tàu . 
+
+Máy lái chính phải : 
+
+( 1 ) Có khả_năng quay bánh_lái từ 35 ° mạn này sang 35 ° mạn kia khi tàu ở mớn_nước chở hàng sâu nhất và chạy tiến với tốc_độ khai_thác tối_đa và ở các điều_kiện đó , thời_gian quay bánh_lái từ 35 ° mạn này sang 30 ° mạn kia không được quá 28 giây . 
+
+( 2 ) Được vận_hành bằng cơ_giới nếu cần để thỏa_mãn các yêu_cầu ở ( 1 ) hoặc trong trường_hợp đường_kính trục bánh_lái phía trên lớn hơn 120 mm theo yêu_cầu ( được tính_toán với hệ_số phụ_thuộc vào vật_liệu Ks = 1 , khi Ks nhỏ hơn 1 ) , và không kể phần kích_thước gia cường đi băng ( sau đây được coi tương_tự như_vậy ) và 
+
+( 3 ) Được thiết_kế sao cho không bị hỏng khi lùi ở tốc_độ lớn nhất .  Tuy_nhiên yêu_cầu thiết_kế này không cần phải chứng_minh bằng thử ở tốc_độ lùi lớn nhất và ở góc bẻ lái lớn nhất . 
+
+Thiết_bị lái phụ phải : 
+
+( 1 ) Có khả_năng quay bánh_lái từ 15 ° mạn này sang 15 ° mạn kia trong thời_gian không quá 60 giây khi tàu ở mớn_nước chở hàng sâu nhất và chạy tiến với tốc_độ bằng số lớn hơn giữa trị_số một nửa vận_tốc khai_thác lớn nhất và 7 hải_lý/giờ ;  và có khả_năng đưa vào vận_hành nhanh_chóng trong trường_hợp sự_cố ;  và 
+
+( 2 ) Được vận_hành bằng cơ_giới nếu cần để thỏa_mãn các yêu_cầu ( 1 ) và trong mọi trường_hợp khi đường_kính trục bánh_lái trên lớn hơn 230 mm . 
+
+( 1 ) Hệ_thống ống thủy_lực phải được bố_trí để sao cho có_thể luôn sẵn_sàng chuyển_đổi được giữa các máy lái . 
+
+( 2 ) Phải bố_trí các thiết_bị thích_hợp để giữ sạch chất_lỏng thủy_lực có lưu_ý tới kiểu loại và thiết_kế của hệ_thống truyền động . 
+
+( 3 ) Phải có thiết_bị để xả khí ra khỏi hệ_thống truyền động nếu thấy cần_thiết . 
+
+( 4 ) Van an_toàn phải lắp ở phần bất_kỳ của hệ_thống thủy_lực mà có_thể bị cô_lập và sinh ra áp_suất bởi nguồn năng_lượng hoặc ngoại_lực .  Áp_suất đặt của van an_toàn không được nhỏ hơn 1,25 lần áp_suất làm_việc lớn nhất có_thể có trong phần được bảo_vệ này .  Sản_lượng xả nhỏ nhất của các van an_toàn này không được nhỏ hơn sản_lượng tổng của các bơm cấp năng_lượng cho thiết_bị dẫn_động khi đã tăng lên 10 % .  Ở điều_kiện như_vậy sự tăng áp_suất không được vượt quá 10 % áp_suất đặt van an_toàn , về mặt này , phải chú_ý thích_đáng tới các điều_kiện xung_quanh khó_khăn nhất dự_kiến trước đối_với độ nhớt của dầu . 
+
+( 5 ) Mỗi két chứa_chất_lỏng thủy_lực phải có thiết_bị báo_động mức thấp để chỉ báo sớm nhất sự rò lọt chất_lỏng .  Tín_hiệu báo_động này phải bằng âm_thanh và ánh_sáng và được truyền lên buồng_lái và vị_trí điều_khiển máy chính . 
+
+( 6 ) Két dự_trữ cố_định phải có đủ dung_tích để nạp lại cho ít_nhất một hệ_thống truyền động , kể_cả két làm_việc .  Két dự_trữ phải luôn nối với hệ_thống ống để hệ_thống thủy_lực luôn có_thể dễ_dàng được nạp lại từ một vị_trí trong phạm_vi buồng_máy lái thủy_lực và phải có đồng_hồ chỉ mức dầu . 
+
+( 7 ) Đối_với những máy lái thủy_lực được bố_trí có từ hai hệ_thống trở lên ( hệ_thống năng_lượng hoặc là hệ_thống điều_khiển ) có_thể cùng hoạt_động thì phải đề_phòng xảy ra hiện_tượng khóa thủy_lực do một hư_hỏng riêng nào đó .  Hệ_thống thủy_lực của mỗi máy lái phải bố_trí các van hãm để loại_trừ hiện_tượng này . 
+
+( 8 ) Không được phép nối hệ_thống đường_ống của máy lái thủy_lực với hệ_thống thủy_lực khác . 
+
+Các máy lái chính và phụ phải : 
+
+( 1 ) Được bố_trí để tự_động khởi_động lại được khi năng_lượng được khôi_phục sau khi mất năng_lượng , và 
+
+( 2 ) Có khả_năng khởi_động được từ một vị_trí trên buồng_lái .  Trong trường_hợp mất năng_lượng ở bất_kỳ máy lái nào , thì các tín_hiệu báo_động ánh_sáng và âm_thanh phải được đưa tới buồng_lái . 
+
+Khi đường_kính trục trên của bánh_lái , theo yêu_cầu ở 25.1 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-QCVN 21 : 2010/BGTVT lớn hơn 230 mm , thì_phải trang_bị nguồn năng_lượng dự_phòng thỏa_mãn các quy_định sau : 
+
+( 1 ) Nguồn năng_lượng dự_phòng phải là : 
+
+( a ) Nguồn điện sự_cố , hoặc 
+
+( b ) Nguồn năng_lượng độc_lập đặt trong buồng_máy lái và chỉ sử_dụng cho mục_đích này . 
+
+( 2 ) Nguồn năng_lượng dự_phòng phải có khả_năng , trong phạm_vi 45 giây , tự_động cấp năng_lượng thay_thế cho máy lái và hệ_thống điều_khiển nối với nó và thiết_bị chỉ báo góc bánh_lái .  Trong trường_hợp này nguồn năng_lượng dự_phòng phải có khả_năng cung_cấp đủ năng_lượng cho máy lái thủy_lực để có_thể khôi_phục lại khả_năng lái quy_định ở 2.3 ( 1 ) .  Ở các tàu GT từ 10.000 trở lên , nguồn năng_lượng dự_phòng phải có dung_lượng đủ để thiết_bị lái hoạt_động liên_tục được ít_nhất trong 30 phút và ở các tàu khác ít_nhất là 10 phút . 
+
+( 3 ) Thiết_bị khởi_động tự_động cho máy phát hoặc động_cơ lai bơm được dùng làm nguồn năng_lượng độc_lập quy_định ở ( 1 ) ( b ) phải thỏa_mãn các yêu_cầu đối_với thiết_bị khởi_động và đặc_tính của trạm phát_điện sự_cố . 
+
+( 1 ) Các đường cáp trong mạch điện theo yêu_cầu của Chương này phải được trang_bị kép cần cố_gắng tách xa ra trên suốt chiều dài . 
+
+( 2 ) Các phương_tiện để chỉ báo các máy lái đang hoạt_động phải được đặt trên buồng_lái và ở vị_trí thường điều_khiển máy chính . 
+
+( 3 ) Mỗi máy lái_điện-thủy_lực có một hoặc nhiều máy lái phải có ít_nhất hai mạch điện riêng cấp trực_tiếp từ bảng điện chính .  Tuy_vậy một trong các mạch này có_thể được cấp qua bảng điện sự_cố . 
+
+( 4 ) Máy lái phụ điện-thủy_lực được liên_kết với máy lái chính_điện thủy_lực có_thể được nối với một trong các mạch cung_cấp điện cho máy lái chính này .  Các mạch phải có công_suất định mức thích_hợp để cung_cấp được cho tất_cả các động_cơ có_thể được đồng_thời nối vào chúng và có_thể làm_việc đồng_thời . 
+
+( 5 ) Phải trang_bị thiết_bị bảo_vệ ngắn mạch và báo_động quá_tải cho các mạch và các động_cơ .  Tín_hiệu báo_động quá_tải phải vừa nghe và nhìn thấy được và phải được đặt ở vị_trí dễ thấy ở nơi thường điều_khiển máy chính , và tại buồng_lái . 
+
+( 6 ) Thiết_bị bảo_vệ quá dòng_điện trong đó có dòng khởi_động , nếu có , phải chịu được không ít hơn hai lần dòng toàn tải của động_cơ hoặc của mạch được bảo_vệ và được bố_trí để cho phép dòng khởi_động thích_hợp đi qua . 
+
+( 7 ) Nếu sử_dụng nguồn ba pha thì_phải trang_bị thiết_bị báo_động để chỉ báo sự_cố ở một trong các pha của nguồn .  Tín_hiệu báo_động này phải bằng âm_thanh và ánh_sáng và được đặt ở vị_trí dễ thấy , thường ở vị_trí điều_khiển máy chính và ở buồng_lái . 
+
+( 8 ) Thiết_bị báo_động phải gồm cả âm_thanh , ánh_sáng và được bố_trí ở buồng_lái và vị_trí điều_khiển máy chính .  Tín_hiệu bằng âm_thanh phải được duy_trì tới khi chúng được báo nhận và các tín_hiệu bằng ánh_sáng của từng báo_động riêng phải được duy_trì tới khi sự_cố đó được khắc_phục , khi đó hệ_thống báo_động phải tự_động đặt lại chế_độ hoạt_động bình_thường . 
+
+( 9 ) Nếu tàu có GT nhỏ hơn 1600 có thiết_bị lái phụ vận_hành cơ_giới theo yêu_cầu 2.3 ( 2 ) truyền động bằng nguồn năng_lượng không phải là năng_lượng điện hoặc được cấp năng_lượng bằng một động_cơ_điện dùng chủ_yếu cho mục_đích khác , thì thiết_bị lái chính có_thể được cấp năng_lượng bởi một_mạch từ bảng điện chính .  Khi động_cơ_điện chủ_yếu dùng cho các mục_đích khác như_vậy được bố_trí để cấp năng_lượng cho máy lái phụ đó , thì có_thể được Đăng_kiểm bỏ_qua các yêu_cầu từ-5 đến-7 nếu thỏa_mãn về thiết_bị bảo_vệ và các yêu_cầu ở 2.5 và 1.11.1 ( 3 ) áp_dụng cho máy lái phụ . 
+
+( 10 ) Với các tàu có GT nhỏ hơn 1600 có máy lái phụ bằng tay , thì có_thể chỉ cần một_mạch điện cung_cấp từ bảng điện chính cho máy lái chính . 
+
+( 1 ) Máy lái phải được đặt ở một khoang kín dễ đến và đặt cách khoang máy càng xa càng tốt . 
+
+( 2 ) Buồng_máy lái phải được trang_bị phù_hợp để đảm_bảo lối vào làm_việc và điều_khiển .  Các trang_bị này gồm cả tay_vịn cầu_thang và lưới sắt hoặc các bề_mặt không trơn để đảm_bảo điều_kiện làm việc thích_hợp trong trường_hợp rò_rỉ chất_lỏng thủy_lực . 
+
+( 3 ) Buồng_máy lái phải có biện_pháp thông gió tự_nhiên hoặc cưỡng_bức để sao cho nhiệt_độ tại không_gian làm_việc của các thiết_bị thủy_lực và động_cơ_điện không vượt quá 45 ºC . 
+
+Phải có phương_tiện liên_lạc giữa buồng_lái và buồng_máy lái . 
+
+Vị_trí góc bánh_lái tính bằng độ phải được : 
+
+( 1 ) Chỉ báo trong buồng_lái .  Thiết_bị chỉ báo góc bánh_lái phải độc_lập với hệ_thống điều_khiển . 
+
+( 2 ) Nhận_biết được trong buồng_máy lái . 
+
+2.11.1 .  Yêu_cầu chung 
+
+1 Hệ_thống điều_khiển máy lái phải được trang_bị : 
+
+( 1 ) Cho máy lái chính cả ở buồng_lái lẫn trong buồng_máy lái . 
+
+( 2 ) Hai hệ_thống điều_khiển độc_lập nếu máy lái chính được bố_trí thỏa_mãn yêu_cầu 2.1.3 ;  cả hai đều có_thể vận_hành được từ buồng_lái .  Trong trường_hợp này không đòi_hỏi phải trang_bị gấp đôi vô_lăng lái hoặc cần lái .  Khi hệ_thống điều_khiển có một mô_tơ điều_khiển từ xa bằng thủy_lực thì không cần lắp hệ_thống độc_lập thứ hai . 
+
+( 3 ) Đối_với máy lái phụ , đặt ở trong buồng_máy lái và nếu được dẫn_động cơ_giới thì nó phải có_thể vận_hành được từ buồng_lái và độc_lập với hệ_thống điều_khiển của máy lái chính . 
+
+2 Mọi hệ_thống điều_khiển máy lái chính và phụ có_thể vận_hành được từ buồng_lái đều phải thỏa_mãn các quy_định sau : 
+
+( 1 ) Nếu điều_khiển bằng điện , thì phải có mạng điện riêng được cấp điện_từ một_mạch điện của máy lái từ một điểm trong phạm_vi buồng_máy lái , hoặc trực_tiếp từ các thanh dẫn của bảng điện cấp điện cho mạch điện của máy lái đó tại một điểm trên bảng điện ở cạnh nguồn điện cấp cho mạch điện của máy lái . 
+
+( 2 ) Ở trong buồng_máy lái phải có phương_tiện để ngắt một hệ_thống điều_khiển bất_kỳ , vận_hành được từ buồng_lái ra khỏi thiết_bị lái mà nó phục_vụ . 
+
+( 3 ) Phải có khả_năng đưa hệ_thống vào hoạt_động được từ một vị_trí trên buồng_lái . 
+
+( 4 ) Trong trường_hợp mất điện cấp cho hệ_thống điều_khiển , thì phải có tín_hiệu báo_động bằng âm_thanh và ánh_sáng trên buồng_lái . 
+
+( 5 ) Chỉ phải trang_bị thiết_bị bảo_vệ ngắn mạch cho các mạch cấp cho hệ_thống điều_khiển máy lái . 
+
+3 Các dây_cáp và hệ_thống điều_khiển mà Quy_chuẩn này yêu_cầu mắc kép phải cố_gắng đặt càng xa nhau càng tốt trên suốt chiều dài của chúng . 
+
+4 Đối_với những máy lái thủy_lực được bố_trí từ hai hệ_thống trở lên ( hệ_thống năng_lượng hoặc là hệ_thống điều_khiển ) có_thể cùng hoạt_động , nếu một hư_hỏng riêng gây nên hiện_tượng khóa thủy_lực có_thể dẫn đến mất lái thì_phải trang_bị trên lầu lái thiết_bị báo_động bằng âm_thanh và ánh_sáng để xác_định hệ_thống bị hỏng . 
+
+5 Khi máy lái thủy_lực được điều_khiển tự_động thì các hệ_thống lái tự_động phải phù_hợp với các yêu_cầu sau : 
+
+( 1 ) Hướng mũi tàu phải được duy_trì tại hướng đặt trước nhờ phối_hợp với la_bàn từ hoặc la_bàn điện . 
+
+( 2 ) Khi chế_độ lái được chuyển từ lái tay sang tự_động thì hướng mũi tàu phải có khả_năng chuyển_động sang hướng đặt trước . 
+
+( 3 ) Sự vận_hành phải dễ_dàng và tin_cậy . 
+
+( 4 ) Ngoài việc điều_khiển tác_động đặt hướng , bất_kỳ điều_khiển nào khác phải không ảnh_hưởng đáng_kể đến hướng của tàu . 
+
+( 5 ) Thiết_bị lái phải là tổ_hợp thống_nhất để ngăn_ngừa các tác_động không cần_thiết của bánh_lái làm cho tàu đi chệch hướng . 
+
+( 6 ) Phải trang_bị các chỉ báo trạng_thái đang hoạt_động của thiết_bị lái tự_động . 
+
+( 7 ) Phải trang_bị thiết_bị để hạn_chế góc bánh_lái , và để chỉ_thị rằng bánh_lái đang dần tới góc giới hạn_định trước . 
+
+( 8 ) Các báo_động âm_thanh và ánh_sáng phải được phát ra trên buồng_lái khi hướng mũi tàu bị lệch vượt quá giá_trị đặt trước . 
+
+( 9 ) Các báo_động âm_thanh và ánh_sáng phải được phát ra trên buồng_lái để chỉ báo sự_cố nguồn cấp điện cho lái tự_động và các hệ_thống báo_động nêu ở mục 2.11.1.5 ( 8 ) . 
+
+( 10 ) Phải được kết_nối và cấp tín_hiệu_lệnh điều_khiển tới thiết_bị ghi số_hiệu hành_trình ( VDR ) , để chỉ ra trạng_thái hoạt_động ( lệnh lái và đáp_ứng ) và chế_độ lái tự_động đối_với tàu khách và các tàu không phải tàu khách có tổng dung_tích từ 3000 trở lên . 
+
+2.11.2 .  Chuyển_đổi từ lái tự_động sang lái tay 
+
+Các máy lái thủy_lực của tàu có hệ_thống điều_khiển tự_động phải có khả_năng nhanh_chóng chuyển từ lái tự_động sang lái tay . 
+
+2.12.1 .  Vật_liệu 
+
+1 Các vật_liệu dùng trong máy lái thủy_lực phải bền , không có khuyết_tật và thích_hợp với điều_kiện khai_thác . 
+
+2 Vật_liệu làm xi_lanh và vỏ của thiết_bị dẫn_động bánh_lái , các đường_ống chịu áp_lực thủy_lực và các bộ_phận truyền lực cơ_giới cho trục bánh_lái không được có độ dãn dài tối_thiểu nhỏ hơn 12 % và không được có giới_hạn bền kéo_danh_nghĩa vượt quá 650 mpa .  Điều này không áp_dụng đối_với vật_liệu van và bu_lông được Đăng_kiểm_duyệt . 
+
+3 Vật_liệu làm séc tơ và cần bánh_lái phải là thép rèn hoặc thép đúc đã được thử thỏa_mãn các yêu_cầu ở Phần 7A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT . 
+
+4 Vật_liệu làm moay-ơ và các cánh của thiết_bị dẫn_động bánh_lái kiểu cánh quay phải là thép rèn , thép đúc hoặc gang cầu đã thử thỏa_mãn các yêu_cầu ở Phần 7A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT . 
+
+5 Vật_liệu bu_lông để lắp_ghép séc tơ và cần bánh_lái kiểu rời và bu_lông cố_định các cánh vào moay-ơ của thiết_bị dẫn_động bánh_lái kiểu cánh quay phải là thép rèn hoặc thép cán đã thử thỏa_mãn các yêu_cầu ở Phần 7A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT . 
+
+6 Vật_liệu làm các bộ_phận chính khác với các bộ_phận ở-3 đến-5 phải thỏa_mãn các tiêu_chuẩn được công_nhận . 
+
+7 Có_thể dùng các vật_liệu khác với vật_liệu ở-2 đến-6 nếu được Đăng_kiểm chấp_nhận . 
+
+2.12.2 .  Hàn 
+
+1 Tất_cả các mối hàn của các bộ_phận của hệ_thống dẫn_động phải ngấu hoàn_toàn và không có các khuyết_tật có hại khác . 
+
+2 Các mối hàn trong các bộ_phận chịu áp_lực bên trong của hệ_thống truyền động bằng cơ_giới phải có đủ độ bền . 
+
+3 Hàn phải được thực_hiện theo quy_trình hàn , vật_liệu hàn ( que_hàn , dây hàn , khí hàn ) và thợ hàn đã được Đăng_kiểm_chứng_nhận . 
+
+4 Chất_lượng các đường hàn máy lái thủy_lực phải được kiểm_tra và thử bằng phương_pháp kiểm_tra phù_hợp . 
+
+2.12.3 .  Kết_cấu chung của hệ_thống dẫn_động bánh_lái 
+
+1 Hệ_thống dẫn_động bánh_lái phải có đủ độ bền và độ tin_cậy . 
+
+2 Kết_cấu của các bộ_phận chính của hệ_thống dẫn_động bánh_lái phải được xác_định để tránh tập_trung ứng suất . 
+
+3 Áp_suất thiết_kế để xác_định kích_thước đường_ống và các chi_tiết khác của thiết_bị lái chịu áp_lực thủy_lực bên trong phải bằng ít_nhất 1,25 lần áp_suất làm_việc lớn nhất có_thể có trong các điều_kiện làm_việc đã được quy_định ở 2.2 ( 1 ) có tính đến mọi áp_suất có_thể có ở phía áp_suất thấp của hệ_thống .  Áp_suất thiết_kế không được nhỏ hơn áp_suất đặt của van an_toàn . 
+
+4 Cần xét riêng tới mức_độ hợp_lý của những chi_tiết quan_trọng không được trang_bị kép .  Khi có chi_tiết quan_trọng như_vậy , phải sử_dụng các ổ đỡ chống ma_sát như ổ_bi , ổ_bi đũa hay các ổ trượt được bôi_trơn liên_tục hoặc có các thiết_bị bôi_trơn . 
+
+5 Ống cứng dùng trong hệ_thống thủy_lực của máy lái phải là ống thép đúc liền bằng vật_liệu thép hợp_kim cấp 3 , cấp 4 ( Phần 7A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT ) thỏa_mãn điều_kiện làm_việc ở áp_suất cao hoặc tương_đương .  Khi xét thấy cần_thiết , phải tiến_hành tính_toán mỏi đối_với đường_ống và các chi_tiết có tính đến áp_suất xung_động gây ra do tải_trọng động .  Phải xem_xét cả mỏi chu_trình cao lẫn mỏi tích_lũy . 
+
+6 Giá đỡ xi_lanh của máy lái phải được lắp lên bệ đỡ gắn với thân tàu bằng các bu_lông và các con chặn .  Các bu_lông phải đủ khả_năng chịu lực và có biện_pháp chống tự lỏng .  Các con chặn phải được hàn chắc_chắn xuống mặt bệ và đủ khả_năng chịu lực từ các xi_lanh . 
+
+7 Bệ đỡ máy lái_gắn với thân tàu phải có kết_cấu đủ khả_năng chịu lực của máy lái tác_động vào vỏ tàu , các mã chân bệ phải được hàn trực_tiếp với kết_cấu_khỏe của vỏ tàu . 
+
+2.12.4 .  Độ_bền của thiết_bị dẫn_động bánh_lái 
+
+1 Ngoài ứng suất cho phép quy_định ở Quy_chuẩn này , độ bền của tất_cả các bộ_phận của thiết_bị dẫn_động bánh_lái chịu áp_lực bên trong phải thỏa_mãn các yêu_cầu tương_ứng ở Chương 10 phần 3 của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT . 
+
+2 Trong tính_toán độ bền quy_định ở-1 , ứng suất cho phép đối_với ứng suất màng chung chính tương_đương không được lớn hơn giá_trị ( 1 ) hoặc ( 2 ) dưới đây , lấy giá_trị nào nhỏ hơn : 
+
+( 1 ) 1/01/clip_image002 .  png " width = " 24 "/> 
+
+( 2 ) 1/01/clip_image004 .  png " width = " 23 "/> 
+
+Trong đó : 
+
+1/01/clip_image006 .  png " width = " 20 "/>-Giới_hạn bền kéo của vật_liệu ( MPa ) ; 
+
+1/01/clip_image008 .  png " width = " 21 "/>-Giới_hạn chảy danh_nghĩa ( giới_hạn chảy quy_ước ) của vật_liệu A và B được cho trong Bảng 2.12.4 ( MPa ) . 
+
+Bảng 2.12.4-Trị_số A và B 
+
+Thép cán hoặc rèn 
+
+Thép đúc 
+
+Gang cầu 
+
+A 
+
+3,5 
+
+4 
+
+5 
+
+B 
+
+1,7 
+
+2 
+
+3 
+
+. 1.5 .  Đệm_kín dầu của thiết_bị dẫn_động bánh_lái 
+
+1 Các đệm kín dầu giữa các bộ_phận không chuyển_động tạo thành một phần của ranh_giới áp_suất bên ngoài phải là kiểu kim_loại áp lên kim_loại hoặc kiểu tương_đương . 
+
+Xi_lanh thủy_lực đảm_nhiệm chức_năng thiết_bị dẫn_động bánh_lái phải được trang_bị đệm kín dầu kiểu kép ở vị_trí làm kín với cán pit tông , để nếu một trong hai đệm bị hỏng cũng không làm hệ_thống dẫn_động không làm_việc được .  Có_thể chấp_nhận biện_pháp bảo_vệ tương_đương để chống sự rò_rỉ dầu do hỏng đệm_kín ( trường_hợp hệ_thống dẫn_động kiểu có hai xi_lanh tác_dụng kép có_thể áp_dụng biện_pháp cách_ly xi_lanh bị hỏng đệm ) . 
+
+. 1.6 .  Ống_mềm 
+
+Các cụm ống mềm phải được Đăng_kiểm_chứng_nhận kiểu , có_thể lắp_đặt ở những nơi đòi_hỏi tính mềm_dẻo và thỏa_mãn các yêu_cầu sau : 
+
+( 1 ) Các ống không bị biến_dạng xoắn ở điều_kiện làm_việc bình_thường . 
+
+( 2 ) Nói_chung , ống mềm phải được giới_hạn đến chiều dài cần_thiết của ống để bảo_đảm độ linh_hoạt và sự làm_việc chính_xác của máy . 
+
+( 3 ) Các ống phải là ống thủy_lực chịu áp_suất cao và thích_hợp với điều_kiện làm_việc tức_là phù_hợp với chất_lỏng bên trong , áp_suất , nhiệt_độ v .  v . .  . 
+
+( 4 ) Áp_suất nổ vỡ ống không được nhỏ hơn 4 lần áp_suất thiết_kế . 
+
+. 1.7 .  Cần bánh_lái 
+
+1 Các kích_thước của cần bánh_lái , v .  v . .  . bằng thép rèn hoặc đúc , để truyền lực từ thiết_bị dẫn_động bánh_lái tới trục bánh_lái , phải được xác_định sao cho ứng suất uốn không vượt quá 118/K ( MPa ) và ứng suất cắt không vượt quá 68/K ( MPa ) khi mô men bánh_lái Tr tác_dụng . 
+
+TR -Mô men bánh_lái quy_định ở 25.1.3 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT ( Nm ) ; 
+
+K - Hệ_số vật_liệu của cần bánh_lái quy_định ở 25.1.1-2 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT . 
+
+Ngoại_trừ các yêu_cầu quy_định ở-1 , kích_thước cần bánh_lái kiểu con_trượt Rapson hoặc pít tông kiểu ống được xác_định theo các quy_định từ ( 1 ) đến ( 4 ) như sau : 
+
+( 1 ) Tiết_diện thẳng_đứng qua đường tâm trục lái ở mỗi phía của moay-ơ cần bánh_lái phải tuân theo công_thức sau : 
+
+( D2-d2 ) H_≥ 170 TRK 
+
+H/d ≥ 0,75 
+
+D - Đường_kính ngoài của moay-ơ ( mm ) ; 
+
+d - Đường_kính trong của moay-ơ ( mm ) ; 
+
+H - Chiều cao của moay-ơ ( mm ) ; 
+
+TR -Mô men bánh_lái được quy_định ở 25.1.3 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT ( Nm ) ; 
+
+K - Hệ_số vật_liệu cần bánh_lái quy_định ở 25.1.1-2 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT . 
+
+( 2 ) Mô đun tiết_diện của cánh_tay_đòn quanh trục thẳng_đứng không được nhỏ hơn giá_trị tính theo công_thức sau : 
+
+ZTA = 111/01/clip_image010 .  png " width = " 59 "/> TRK 
+
+ZTA -Mô đun tiết_diện quy_định của cánh_tay_đòn quanh trục thẳng_đứng ( mm3 ) ; 
+
+r - Khoảng_cách từ tâm trục lái đến tiết_diện ( mm ) ; 
+
+R1 -Chiều dài cánh_tay_đòn cần bánh_lái đo từ tâm trục lái tới điểm đặt lực dẫn_động .  Trong trường_hợp chiều dài này thay_đổi theo góc của bánh_lái , thì R1 là chiều dài lớn nhất trong phạm_vi 35 ° của góc bánh_lái ( mm ) ; 
+
+( 3 ) Diện_tích tiết_diện đầu ngoài của cánh_tay_đòn không được nhỏ hơn giá_trị tính theo công_thức : 
+
+QR18 , 51/01/clip_image012 .  png " width = " 25 "/> K 
+
+R - Diện_tích tiết_diện quy_định ở đầu ngoài của cánh_tay_đòn ( mm2 ) ; 
+
+R2 -Chiều dài cánh_tay_đòn cần bánh_lái đo từ tâm trục bánh_lái đến điểm đặt lực dẫn_động .  Trong trường_hợp chiều dài này thay_đổi theo góc bánh_lái , thì R2 là chiều dài khi bánh_lái ở 0 ° ( mm ) ; 
+
+TR -Mô men bánh_lái quy_định ở 25.1.3 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT ( Nm ) ; 
+
+( 4 ) Trong trường_hợp cần bánh_lái có hai cánh_tay_đòn , nếu các máy lái được nối với mỗi cánh_tay_đòn và hai máy lái này được dẫn_động đồng_thời , thì kích_thước của tay đòn có_thể giảm từ kích_thước yêu_cầu ở ( 2 ) và ( 3 ) xuống tới mức được Đăng_kiểm đồng_ý . 
+
+Bất_kể các yêu_cầu quy_định ở-1 , các kích_thước của thiết_bị dẫn_động bánh_lái kiểu cánh quay bằng thép rèn hoặc đúc có_thể xác_định theo các yêu_cầu sau đây bổ_sung cho các yêu_cầu ở 2.12.4 . 
+
+( 1 ) Các kích_thước của moay-ơ phải thỏa_mãn các yêu_cầu ở-2 ( 1 ) . 
+
+( 2 ) Mô đun tiết_diện quanh trục thẳng_đứng và diện_tích tiết_diện ngang của cánh không được nhỏ hơn các giá_trị được tính từ các công_thức dưới đây : 
+
+Zv = 111/01/clip_image014 .  png " width = " 79 "/> K 
+
+v 371/01/clip_image016 .  png " width = " 79 "/> K 
+
+Zv -Mô đun chống uốn tiết_diện quy_định quanh trục thẳng_đứng ( mm3 ) ; 
+
+v Diện_tích tiết_diện quy_định của cánh ( mm2 ) ; 
+
+- Chiều cao của cánh đo từ bề_mặt ngoài moay-ơ ( mm ) ; 
+
+n - Số cánh ; 
+
+Các cần bánh_lái có hai phần được ghép lại bằng bu_lông phải có ít_nhất hai bu_lông trên mỗi đầu .  Đường_kính bu_lông ở chân ren không được nhỏ hơn giá_trị tính theo công_thức dưới đây .  Trong trường_hợp này chiều dày mặt bích ghép không được nhỏ hơn 3/đường_kính các bu_lông : 
+
+db1 , 451/01/clip_image018 .  png " width = " 37 "/> K 
+
+db -Đường_kính yêu_cầu của bu_lông ở chân ren ( mm ) ; 
+
+K - Hệ_số vật_liệu cần bánh_lái quy_định ở 25.1.1-2 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT ; 
+
+n - Số bu_lông ở mỗi đầu ; 
+
+b - Khoảng_cách từ tâm trục lái đến tâm bu_lông ( cm ) . 
+
+Cần bánh_lái phải được lắp_ghép có then với trục bánh_lái một_cách chắc_chắn bằng lắp ép nóng , lắp găng hoặc bằng bu_lông .  Tuy_vậy có_thể được lắp không có then trong trường_hợp phương_pháp lắp_ráp được Đăng_kiểm đồng_ý . 
+
+6 Kích_thước của thiết_bị dẫn_động bánh_lái kiểu cánh quay chế_tạo bằng gang cầu phải được xác_định sao cho nó không phải chịu ứng suất uốn vượt quá 94/K ( MPa ) hoặc không phải chịu ứng suất cắt vượt quá 54/K ( MPa ) dưới tác_dụng của mô men bánh_lái TR .  Bằng cách khác , các kích_thước có_thể được tính theo các yêu_cầu quy_định ở-3 và tăng mô men bánh_lái Tr quy_định ở 25.1.3 , Phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT lên 1,2 lần để tính . 
+
+. 1.8 .  Thiết_bị chặn 
+
+1 Các cần bánh_lái phải có các thiết_bị chặn bánh_lái để giữ bánh_lái chắc_chắn trong trường_hợp sự_cố . 
+
+Máy lái thủy_lực phải có các thiết_bị chủ_động như là các công_tắc giới_hạn để dừng máy lái trước khi bánh_lái đến vị_trí dừng .  Các thiết_bị này phải đồng_bộ với chính máy lái và không đồng_bộ với hệ_thống điều_khiển_thiết máy lái .  Tuy_nhiên thiết_bị này có_thể hoạt_động được thông_qua các thanh nối cơ_khí như là các cần lắc . 
+
+Phải có thiết_bị hãm hoặc dây_cáp thích_hợp cho cần bánh_lái để giữ bánh_lái chắc_chắn trong trường_hợp sự_cố .  Trong trường_hợp dùng thiết_bị lái thủy_lực , nếu có_thể dừng bánh_lái một_cách an_toàn bằng cách đóng các van áp_lực dầu thì không yêu_cầu thiết_bị này . 
+
+. 13 .  Yêu_cầu bổ_sung cho các tàu chở hàng lỏng , tàu chở xô khí hóa_lỏng và tàu chở xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên và các tàu khác có GT từ 70.000 trở lên . 
+
+. 13.1 .  Thiết_bị lái chính 
+
+1 Đối_với các tàu chở hàng lỏng , tàu chở xô khí hóa lỏng hoặc tàu chở xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên và mọi tàu khác có GT từ 70.000 trở lên , máy lái chính phải có hai máy lái thủy_lực tương_tự như nhau trở lên thỏa_mãn các yêu_cầu ở mục 2.1.3 của quy_chuẩn này . 
+
+Máy lái trên tàu chở hàng lỏng , tàu chở xô khí hóa lỏng hoặc chở xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên phải thỏa_mãn các yêu_cầu sau : 
+
+( 1 ) Máy lái chính phải được bố_trí sao cho trong trường_hợp mất khả_năng lái do hỏng_hóc riêng ở phần bất_kỳ của một hệ_thống dẫn_động của máy lái chính , trừ hỏng ở séc tơ lái , cần lái hoặc kẹt ở thiết_bị dẫn_động bánh_lái , phải phục_hồi được khả_năng lái không chậm hơn 45 giây sau khi mất một hệ_thống truyền động . 
+
+( 2 ) Máy lái chính phải gồm có : 
+
+( a ) Hai hệ_thống dẫn_động bánh_lái độc_lập và tách_biệt , mỗi một hệ_thống đó phải có_thể thỏa_mãn các yêu_cầu ở mục 2.2 ( 1 ) của quy_chuẩn này hoặc : 
+
+( b ) Có ít_nhất hai hệ_thống dẫn_động bánh_lái tương_tự nhau , khi hoạt_động đồng_thời ở chế_độ bình_thường chúng phải có khả_năng thỏa_mãn các yêu_cầu ở mục 2.2 ( 1 ) của quy_chuẩn này .  Trong trường_hợp này , cũng còn phải thỏa_mãn các yêu_cầu sau : 
+
+( i ) Phát_hiện được sự mất dầu thủy_lực của một hệ_thống và hệ_thống hỏng này được tự_động tách ra để các hệ_thống khác vẫn duy_trì được hoạt_động một_cách đầy_đủ . 
+
+( ii ) Khi cần_thiết để đạt được khả_năng lái , phải nối các hệ_thống truyền động_cơ_giới thủy_lực với nhau . 
+
+. 13 .  . Điều_khiển 
+
+Đối_với các tàu chở hàng lỏng , tàu chở xô khí hóa lỏng hoặc hóa_chất nguy_hiểm có GT từ 10.000 trở lên , không được áp_dụng sự miễn_giảm đối_với động_cơ điều_khiển từ xa bằng thủy_lực cho phép ở 2.11.1-1 ( 2 ) . 
+
+. 13.3 .  Số_lượng và độ bền của thiết_bị dẫn_động bánh_lái 
+
+1 Đối_với tàu chở hàng lỏng , tàu chở xô khí hóa lỏng hoặc chở xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên nhưng trọng_tải toàn_phần dưới 100.000 tấn , cho phép chỉ có một thiết_bị dẫn_động bánh_lái , với điều_kiện là : 
+
+( 1 ) Sau khi bị mất khả_năng lái do hỏng_hóc riêng của bất_kỳ bộ_phận nào của hệ_thống ống hoặc ở một trong các máy lái , thì khả_năng lái phải được khôi_phục lại trong phạm_vi 45 giây . 
+
+( 2 ) Phải xét riêng việc tính_toán ứng suất cho thiết_kế bao_gồm tính_toán mỏi và tính_toán sự phá_hủy cơ_học tương_ứng cho vật_liệu được sử_dụng , cho việc lắp_đặt các thiết_bị làm kín , cho thử_nghiệm , kiểm_tra và bảo_dưỡng một_cách có hiệu_quả .  Trong trường_hợp này , phải xét cả mỏi có chu_trình cao và mỏi tích_lũy . 
+
+( 3 ) Các van cách_ly phải được lắp trực_tiếp lên thiết_bị dẫn_động bánh_lái để cách_ly thiết_bị dẫn_động bánh_lái khỏi dầu thủy_lực có trong các hệ_thống ống , và 
+
+( 4 ) Phải trang_bị các van an_toàn để bảo_vệ thiết_bị dẫn_động bánh_lái khỏi quá áp như yêu_cầu ở 2.4 ( 4 ) . 
+
+Đối_với các tàu chở hàng lỏng , tàu chở xô khí hóa lỏng hoặc chở xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên nhưng trọng_tải toàn_phần dưới 100.000 tấn và chỉ có một thiết_bị dẫn_động bánh_lái , ngoài các yêu_cầu ở .  1.4 độ bền của thiết_bị dẫn_động bánh_lái phải thỏa_mãn các yêu_cầu sau đây : 
+
+( 1 ) Phải tính_toán chi_tiết cho các bộ_phận quan_trọng của thiết_bị dẫn_động bánh_lái để khẳng_định độ bền của chúng . 
+
+( 2 ) Phải tính_toán ứng suất một_cách chi_tiết cho các bộ_phận của thiết_bị dẫn_động bánh_lái chịu áp_suất thủy_lực để khẳng_định đủ bền để chịu được áp_suất thiết_kế . 
+
+( 3 ) Do tính phức_tạp của thiết_kế hoặc do quy_trình sản_xuất , khi thấy cần_thiết phải tiến_hành tính_toán mỏi và tính_toán sự phá_hủy cơ_học .  Trong trường_hợp này , phải xét đến mỏi chu_trình cao và mỏi tích_lũy .  Đồng_thời phải xét đến tất_cả những tải_trọng động dự_kiến trước liên_quan với tính_toán này .  Khi thấy cần_thiết , Đăng_kiểm có_thể yêu_cầu phải tính_toán ứng suất bằng thực_nghiệm để bổ_sung hoặc thay cho thiết_kế lý_thuyết . 
+
+( 4 ) Để xác_định các kích_thước chung của các bộ_phận của các thiết_bị dẫn_động bánh_lái chịu áp_suất thủy_lực bên trong , các ứng suất cho phép không được vượt quá : 
+
+( a ) 1/01/clip_image020 .  png " width = " 21 "/> ≤ f 
+
+( b ) 1/01/clip_image022 .  png " width = " 16 "/> ≤ 1,5 f 
+
+( c ) 1/01/clip_image024 .  png " width = " 19 "/> ≤ 1,5 f 
+
+( d ) 1/01/clip_image022 .  png " width = " 16 "/> + 1/01/clip_image024 .  png " width = " 19 "/> ≤ 1,5 f 
+
+( e ) 1/01/clip_image020 .  png " width = " 21 "/> + 1/01/clip_image024 .  png " width = " 19 "/> ≤ 1,5 f 
+
+1/01/clip_image020 .  png " width = " 21 "/>-Ứng suất màng chung chính tương tương ( MPa ) ; 
+
+1/01/clip_image022 .  png " width = " 16 "/>-Ứng suất màng cục_bộ chính tương_đương ( MPa ) ; 
+
+1/01/clip_image024 .  png " width = " 19 "/>-Ứng suất uốn chính tương_đương ( MPa ) ; 
+
+f - Giá_trị nhỏ hơn của 1/01/clip_image024 .  png " width = " 19 "/>/A hoặc 1/01/clip_image029 .  png " width = " 19 "/>/B ; 
+
+1/01/clip_image024 .  png " width = " 19 "/>-Giới_hạn bền kéo của vật_liệu ( MPa ) ; 
+
+1/01/clip_image029 .  png " width = " 19 "/>-Giới_hạn chảy danh_nghĩa nhỏ nhất hoặc giới_hạn chảy quy_ước của vật_liệu ( MPa ) A và B được cho trong bảng sau : 
+
+ảng 2.13.3.1-Trị_số A và 
+
+n 
+
+,6 
+
+,8 
+
+,3 
+
+,5 
+
+Pb = PA1/01/clip_image032 .  png " width = " 28 "/> 
+
+Pb -Áp_suất gây vỡ nhỏ nhất ( MPa ) ; 
+
+P - Áp_suất thiết_kế ( MPa ) ; 
+
+- Như ở ( 4 ) ; 
+
+1/01/clip_image034 .  png " width = " 24 "/>-Giới_hạn bền kéo thực_tế của vật_liệu ( MPa ) ; 
+
+1/01/clip_image036 .  png " width = " 20 "/>-Giới_hạn bền kéo_danh_nghĩa nhỏ nhất của vật_liệu ( MPa ) . 
+
+. 14 .  Một_số yêu_cầu riêng đối_với máy lái thủy_lực sử_dụng trên tàu_biển có vùng hoạt_động hạn_chế 
+
+. 14.1 .  Máy lái thủy_lực sử_dụng trên tàu_biển dưới 500 GT được phân_cấp hoạt_động ở vùng_biển hạn_chế II hoặc tương_đương không chạy tuyến quốc_tế không cần áp_dụng yêu_cầu nêu ở mục 
+
+( 1 ) Không cần áp_dụng các yêu_cầu quy_định ở 2.11.1.4 ; 
+
+( 2 ) Không cần áp_dụng các yêu_cầu ở 2.5 ; 
+
+( 3 ) Các yêu_cầu được quy_định ở 2.4 ( 5 ) và các yêu_cầu về máy lái được quy_định ở phần sau_cùng của 2.4 ( 6 ) không cần_thiết phải áp_dụng ( trừ trường_hợp không cần trang_bị máy lái phụ phù_hợp với các yêu_cầu ở 2.1.3 ; 
+
+( 4 ) Các yêu_cầu về nguồn năng_lượng dự_phòng được quy_định ở 2.6 không cần_thiết phải áp_dụng ; 
+
+( 5 ) Các yêu_cầu ở 2.7 ( 1 ) và ( 7 ) không cần_thiết phải áp_dụng ; 
+
+( 6 ) Các yêu_cầu về sự quá_tải đối_với mạch điện và các động_cơ được quy_định ở 2.7 ( 5 ) không cần_thiết phải áp_dụng ; 
+
+( 7 ) Phương_tiện liên_lạc giữa lầu lái và khoang máy lái được quy_định ở 2.9 có_thể được thay_thế bằng một phương_tiện thích_hợp khác ; 
+
+( 8 ) Không cần phải áp_dụng các yêu_cầu ở 2.11.1 ( 3 ) . 
+
+. 14 .  . Các tàu có ký_hiệu cấp tàu “ hạn_chế III ” hoặc tương_đương 
+
+Ở các tàu có đường_kính trục lái trên nhỏ hơn 120 mm theo 25.1 , phần 2A của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT ( được tính với hệ_số vật_liệu Ks = 1 , khi Ks nhỏ hơn 1 ) , thì yêu_cầu về máy lái phụ được quy_định ở 2.12 có_thể được bỏ_qua , nếu các phụ_tùng dự_trữ cho các chi_tiết có_thể bị phá_hủy nhử đệm_kín và ở đỡ được trang_bị cho máy lái chính cơ_giới và các dây_cáp lái dự_trữ được trang_bị cho thiết_bị lái chính được dẫn_động bằng tay . 
+
+. 15 .  Máy lái thủy_lực trên phương_tiện thủy nội_địa 
+
+. 15.1 .  Một_số yêu_cầu riêng đối_với máy lái điện thủy_lực trên phương_tiện thủy nội_địa như sau : 
+
+( 1 ) Máy lái điện thủy_lực trên phương_tiện thủy nội_địa áp_dụng quy_định nêu ở mục 2.14 ; 
+
+( 2 ) Máy lái phụ phải có khả_năng quay bánh_lái từ 15 ° mạn này sang 15 ° mạn kia không quá 60 giây khi tàu ở mớn_nước chở đầy tải và chạy tiến với tốc_độ bằng tốc_độ thiết_kế hoặc bằng 6 km/h , lấy giá_trị lớn hơn . 
+
+. 15 .  . Kết_cấu lắp_nối với trục lái của thiết_bị dẫn_động phải tránh được khả_năng hỏng khi trục lái dịch_chuyển theo chiều trục trong phạm_vi cho phép , tối_đa 0,1 d ( d-đường_kính cổ trục lái phía trên ) . 
+
+. QUY_ĐỊNH VỀ QUẢN_LÝ 
+
+. 1 .  Các máy lái thủy_lực và các bộ_phận , chi_tiết của chúng phải được Đăng_kiểm kiểm_tra , chứng_nhận trong sản_xuất , chế_tạo , nhập_khẩu , sửa_chữa và khai_thác sử_dụng phù_hợp với các văn_bản quy_phạm pháp_luật , quy_định , hướng_dẫn có liên_quan của Quy_chuẩn này .  Thiết_kế phải được Đăng_kiểm thẩm_định và chứng_nhận 
+
+. 2 .  Cơ_sở thiết_kế , cơ_sở chế_tạo , cơ_sở thử_nghiệm máy lái thủy_lực và nhân_viên của các cơ_sở phải có đủ năng_lực và được Đăng_kiểm đánh_giá , cấp giấy chứng_nhận .  Thiết_bị kiểm_tra , thử_nghiệm , đo_lường của các cơ_sở phải được Đăng_kiểm kiểm chuẩn định_kỳ . 
+
+. . Máy lái thủy_lực phải được Đăng_kiểm_chứng_nhận phê_duyệt và chứng_nhận kiểu sản_phẩm ( Type Approval ) . 
+
+. 4 .  Chất_lượng các đường hàn , vật_liệu chế_tạo máy lái thủy_lực phải được kiểm_tra bằng các phương_pháp không phá_hủy ( NDT ) hoặc phá_hủy do thợ hàn , nhân_viên kiểm_tra đã qua đào_tạo và được Cục Đăng_kiểm Việt_Nam cấp giấy chứng_nhận thợ hàn hoặc giấy chứng_nhận nhân_viên phòng thử_nghiệm theo các tiêu_chuẩn , quy_định tương_ứng thực_hiện . 
+
+. 5 .  Máy lái thủy_lực nhập_khẩu 
+
+Các máy lái thủy_lực và các bộ_phận , chi_tiết nhập_khẩu sử_dụng để chế_tạo máy lái thủy_lực phải được Cục Đăng_kiểm Việt_Nam kiểm_tra , chứng_nhận phù_hợp với các yêu_cầu quy_định của Quy_chuẩn này và các quy_định của tiêu_chuẩn kỹ_thuật , quy_định của pháp_luật liên_quan đến các yêu_cầu về đảm_bảo chất_lượng an_toàn kỹ_thuật và bảo_vệ môi_trường tương_ứng với từng loại . 
+
+. 6 .  Quy_định về kiểm_tra và thử máy lái thủy_lực 
+
+. 6.1 .  Máy lái thủy_lực và các bộ_phận đi kèm phải được kiểm_tra và thử tại các cơ_sở thử_nghiệm có đủ năng_lực thực_hiện . 
+
+. 6.2 .  Ngoài các yêu_cầu về thử theo quy_định ở quy_chuẩn này , thiết_bị thủy_lực và hệ_thống ống đều phải được thử thỏa_mãn các yêu_cầu 10.9 , 12.6 , 1.17-Phần của Quy_phạm Phân_cấp và đóng tàu_biển vỏ thép-Quy_chuẩn kỹ_thuật quốc_gia-QCVN 21 : 2010/BGTVT .  Tất_cả các phần chịu áp_suất đều phải qua thử áp_lực với áp_suất bằng 1,5 lần áp_suất thiết_kế . 
+
+. 7 .  Phương_pháp thử 
+
+. 7.1 .  Kiểm_tra trước khi thử hoạt_động 
+
+. 7.1.1 .  Kiểm_tra hồ_sơ thiết_kế , quy_trình thử , các biên_bản nghiệm_thu_chi_tiết chế_tạo , biên_bản thử nội_bộ . 
+
+. 7.1.2 .  Kiểm_tra sự phù_hợp của các thiết_bị thủy_lực , điện đã lắp trên máy lái với các chứng_chỉ hiện có . 
+
+. 7.1 .  . Kiểm_tra sự phù_hợp về kết_cấu của máy lái với thiết_kế đã thẩm_định . 
+
+. 7.1.4 .  Kiểm_tra sự lắp_đặt máy lái trên băng thử và điều_kiện sẵn_sàng thử của cơ_sở chế_tạo . 
+
+. 7.1.5 Kiểm_tra thử thủy_lực đường_ống và thiết_bị với áp_suất thử lấy bằng 1,5 lần áp_suất làm_việc lớn nhất . 
+
+. 7.2 .  Thử hoạt_động 
+
+. 7.2.1 .  Thử hoạt_động của hệ_thống điện chỉ báo 
+
+Thử đèn báo , đồng_hồ V , A , v .  v . .  . 
+
+. 7.2.2 .  Thử hoạt_động của hệ_thống điện điều_khiển 
+
+Thử tác_dụng khóa điều_khiển của đài lái tại bảng điện hầm lái ; 
+
+Thử khởi_động từng bơm tại đài_lái , hầm lái .  Kiểm_tra khóa liên động ( nếu có ) ; 
+
+Thử điều_khiển van điện_từ tại đài_lái , hầm lái .  Kiểm_tra tác_dụng khóa liên động của chúng ;  Thử khả_năng tự khởi_động lại khi nguồn năng_lượng được phục_hồi sau khi mất . 
+
+. 7.2 .  . Thử hoạt_động của hệ_thống chỉ báo góc lái 
+
+Kiểm_tra độ chính_xác của đồng_hồ chỉ báo góc lái ; 
+
+Kiểm_tra khả_năng chống rung , chống tự lỏng cơ_cấu của bộ phát góc lái . 
+
+. 7.2.4 .  Thử hoạt_động của mạch báo_động 
+
+Thử cạn dầu trong két ; 
+
+Thử quá_tải ; 
+
+Thử mất pha ; 
+
+Thử mất nguồn điều_khiển ; 
+
+Thử trạng_thái sẵn_sàng hoạt_động của các chuông còi đèn báo . 
+
+. 7.2.5 .  Thử máy lái hoạt_động không tải 
+
+Thử thao_tác chuyển_đổi hoạt_động giữa các máy lái ; 
+
+Kiểm_tra sự hoạt_động ổn_định của từng máy lái khi thao_tác quay lái liên_tục ; 
+
+Kiểm_tra độ nhậy của hệ_thống điều_khiển khi thực_hiện di_chuyển nhỏ ( đến 10 ) , đảo chiều liên_tục ; 
+
+Đo thời_gian quay lái của từng máy lái theo quy_định với máy lái chính ( t/650 ) và máy lái phụ ( t/300 ) ; 
+
+Thử khả_năng quay lái của máy lái tay sự_cố ( nếu có ) ; 
+
+Các số_liệu thử được thể_hiện trong Biên_bản thử tại xưởng đối_với máy lái thủy_lực . 
+
+. 7 .  . Thử tải với bơm thủy_lực và động_cơ_điện 
+
+ơm thủy_lực và động_cơ_điện phải thử theo các hạng_mục sau : 
+
+1 . Thử hoạt_động ; 
+
+. Thử quá_tải ; 
+
+. Thử khả_năng làm_việc ổn_định . 
+
+. 7 .  . 1 .  Các phương_pháp và bố_trí thử 
+
+a ) Bố_trí thử 
+
+Thử bơm thủy_lực và động_cơ_điện của máy lái có_thể sử_dụng ngay bộ động_lực của nó để tiến_hành thử .  Các thiết_bị đo kiểm được lắp nối vào bộ động_lực theo sơ_đồ ở Hình 1 . 
+
+b ) Thử hoạt_động 
+
+Thử hoạt_động với bơm thủy_lực phải được thực_hiện ở 100 % sản_lượng thiết_kế . 
+
+Cho bơm thủy_lực làm_việc không tải trong thời_gian 15 phút , xác_định các thông_số của bơm thủy_lực và động_cơ_điện . 
+
+Điều_chỉnh van tạo tải , nâng áp_suất đẩy của bơm thủy_lực lên từng mức 50 % , 75 % , 100 % áp_suất làm_việc lớn nhất của máy lái ( Pmax ) . 
+
+Tại 100 % Pmax thời_gian thử không nhỏ hơn 30 giây .  Xác_định các thông_số của bơm thủy_lực và động_cơ_điện . 
+
+c ) Thử quá_tải 
+
+Nâng áp_suất đẩy của bơm thủy_lực lên giá_trị 115 % Pmax trong thời_gian ( 10 ¸ 13 ) giây .  Xác_định các thông_số của bơm thủy_lực và động_cơ_điện . 
+
+d ) Thử khả_năng làm_việc ổn_định 
+
+Sau các cuộc thử trên , bơm thủy_lực sẽ phải thử sức_bền kéo_dài trong thời_gian 30 phút .  Áp_suất đẩy của bơm thủy_lực cần duy_trì ở mức phù_hợp với công_suất làm_việc lâu_dài ( 100 % công_suất ) của động_cơ_điện . 
+
+. 7 .  . 2 .  Các thông_số cần xác_định trong cuộc thử 
+
+Tốc_độ vòng quay ; 
+
+Sản_lượng của bơm thủy_lực ; 
+
+Áp_suất đẩy ; 
+
+Cường_độ dòng_điện , điện_áp của động_cơ_điện ; 
+
+Nhiệt_độ dầu . 
+
+3.7.3.3 .  Kiểm_tra ở trạng_thái mở 
+
+Trong quá_trình thử , nếu có bất_kỳ sự bất_thường nào như tiếng ồn quá lớn , nhiệt_độ dầu tăng cao , v .  v . .  . cần phải kiểm_tra bơm thủy_lực ở trạng_thái mở để tìm nguyên_nhân .  Nếu bơm thủy_lực có khuyết_tật chế_tạo thì phải loại_bỏ . 
+
+3.7.3.4 Lập báo_cáo thử 
+
+Kết_quả kiểm_tra và thử bơm thủy_lực , động_cơ_điện dùng cho máy lái được thể_hiện trong Báo_cáo thử tại xưởng đối_với bơm thủy_lực và động_cơ_điện . 
+
+3.8 .  Thử_nghiệm tại xưởng đối_với các máy lái thủy_lực dùng cho tàu chở hàng lỏng , tàu chở xô khí hóa_lỏng và tàu chở xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên và các tàu khác có GT từ 70.000 trở lên 
+
+Đối_với các tàu chở hàng lỏng , tàu chở xô khí hóa lỏng hoặc tàu chở xô_hóa_chất nguy_hiểm có GT từ 10.000 trở lên nhưng có trọng_tải toàn_phần dưới 100.000 tấn và chỉ có một thiết_bị dẫn_động bánh_lái , thì thiết_bị dẫn_động bánh_lái này phải được thử đầy_đủ và phù_hợp bằng thử không phá_hủy để phát_hiện cả các khuyết_tật bề_mặt lẫn các khuyết_tật bên trong .  Quy_trình và tiêu_chuẩn được chấp_nhận đối_với thử không phá_hủy sẽ được Đăng_kiểm xem_xét cho từng trường_hợp .  Khi xét thấy cần_thiết , phải dùng phương_pháp phân_tích_sự phá_hủy cơ_học để xác_định kích_thước khuyết_tật cho phép lớn nhất . 
+
+3.9 .  Quy_định cấp hồ_sơ 
+
+Cục Đăng_kiểm Việt_Nam ban_hành , in_ấn , hướng_dẫn , lập và cấp các giấy chứng_nhận , biểu_mẫu có liên_quan đến kiểm_tra , chứng_nhận máy lái thủy_lực theo quy_định của Quy_chuẩn này . 
+
+3.9.1 .  Đề_nghị kiểm_tra 
+
+Đề_nghị kiểm_tra do cơ_quan , tổ_chức , cá_nhân có liên_quan đến thiết_kế , chế_tạo , sửa_chữa , cải_tạo , nhập_khẩu , khai_thác sử_dụng máy lái thủy_lực gửi cho Cục Đăng_kiểm Việt_Nam . 
+
+3.9.2 .  Giấy chứng_nhận 
+
+3.9.2.1 .  Cục Đăng_kiểm Việt_Nam sẽ cấp các Giấy chứng_nhận tương_ứng như quy_định tại Mục 3.1 , Mục 3.2 , Mục 3.3 , Mục 3.4 , Mục 3.5-Phần 3 của Quy_chuẩn này . 
+
+3.9.2.2 Giấy chứng_nhận đã cấp sẽ bị mất hiệu_lực trong các trường_hợp sau đây : 
+
+( a ) Nếu thiếu một yêu_cầu nào đó theo Quy_chuẩn hoặc ; 
+
+( b ) Không được kiểm_tra theo quy_định hoặc ; 
+
+( c ) Quá thời_hạn kiểm_tra hoặc ; 
+
+( d ) Các thiết_bị thực_tế không còn phù_hợp với giấy chứng_nhận đã cấp hoặc 
+
+( e ) Sau khi bị tai_nạn hoặc bị hủy bỏ . 
+
+3.9.2.3 .  Cấp lại Giấy chứng_nhận 
+
+Cục Đăng_kiểm Việt_Nam sẽ cấp lại Giấy chứng_nhận sau khi đã được kiểm_tra , thử và cấp biên_bản kiểm_tra phù_hợp theo quy_định của quy_chuẩn này . 
+
+3.9.3 .  Báo_cáo kiểm_tra 
+
+Sau khi hoàn_thành kiểm_tra , thử_nghiệm các máy lái thủy_lực , các chi_tiết , bộ_phận của chúng , Cục Đăng_kiểm Việt_Nam sẽ lập báo_cáo kiểm_tra tương_ứng cho loại_hình kiểm_tra quy_định trong Quy_chuẩn này ; 
+
+. TRÁCH_NHIỆM CỦA TỔ_CHỨC , CÁ_NHÂN 
+
+. 1 .  Các cơ_quan , tổ_chức , cá_nhân liên_quan đến công_tác sản_xuất , chế_tạo , nhập_khẩu , thiết_kế , khai_thác sử_dụng , quản_lý , kiểm_tra , chứng_nhận an_toàn kỹ_thuật và bảo_vệ môi_trường máy lái thủy_lực phải tuân_thủ các quy_định của Quy_chuẩn này và các văn_bản quy_phạm pháp_luật , quy_định , hướng_dẫn có liên_quan , chịu trách_nhiệm về kết_quả kiểm_tra . 
+
+. 2 .  Trách_nhiệm của cơ_sở thiết_kế 
+
+Tuân_thủ các quy_định , yêu_cầu kỹ_thuật của quy_chuẩn này . 
+
+. 3 .  Trách_nhiệm của tổ_chức , cá_nhân nhập_khẩu , cơ_sở chế_tạo , cơ_sở thử_nghiệm máy lái thủy_lực 
+
+1 Tuân_thủ các quy_định , quy_chuẩn , tiêu_chuẩn kỹ_thuật hiện_hành khi chế_tạo , lắp_ráp , sửa_chữa , cải_tạo , nhập_khẩu các máy lái thủy_lực . 
+
+Xây_dựng quy_trình công_nghệ , kiểm_tra , thử_nghiệm chất_lượng , đầu_tư thiết_bị kiểm_tra , thử_nghiệm phù_hợp , thiết_bị kiểm_tra phải được kiểm chuẩn định_kỳ ;  tổ_chức kiểm_tra chất_lượng cho từng sản_phẩm và chịu trách_nhiệm về chất_lượng sản_phẩm xuất_xưởng . 
+
+3 . Chịu trách_nhiệm về nguồn_gốc , xuất_xứ , chất_lượng các máy lái thủy_lực nhập_khẩu . 
+
+. . Trách_nhiệm của tổ_chức , cá_nhân sử_dụng máy lái thủy_lực 
+
+Chịu trách_nhiệm sửa_chữa , bảo_dưỡng để bảo_đảm tiêu_chuẩn an_toàn kỹ_thuật và bảo_vệ môi_trường của máy lái thủy_lực giữa hai kỳ kiểm_tra của đơn_vị đăng_kiểm để duy_trì tình_trạng kỹ_thuật của máy lái thủy_lực theo đúng các quy_định của Quy_chuẩn này . 
+
+. 5 .  Các tổ_chức , cá_nhân nhập_khẩu , cơ_sở chế_tạo , cơ_sở thử_nghiệm , chủ thiết_bị phải bảo_quản , giữ_gìn , không được sửa_chữa , tẩy xóa giấy_tờ xác_nhận kết_quả kiểm_tra , giấy chứng_nhận đã được cấp và xuất_trình khi có yêu_cầu của người thi_hành công_vụ có thẩm_quyền . 
+
+5 . TỔ_CHỨC THỰC_HIỆN 
+
+5.1 .  Cục Đăng_kiểm Việt_Nam có trách_nhiệm tổ_chức triển_khai , hướng_dẫn và thực_hiện Quy_chuẩn này ;  tham_mưu , đề_nghị Bộ Giao_thông vận_tải kịp_thời sửa_đổi , bổ_sung Quy_chuẩn này khi cần_thiết . 
+
+5.2 .  Căn_cứ vào điều_kiện thực_tế khi thực_hiện Quy_chuẩn , Cục Đăng_kiểm Việt_Nam có trách_nhiệm tham_mưu , đề_nghị Bộ Giao_thông vận_tải kịp_thời sửa_đổi , bổ_sung Quy_chuẩn này . 
+
+5.3 .  Khi các tiêu_chuẩn , quy_chuẩn viện_dẫn hoặc hướng_dẫn quy_định tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo nội_dung của văn_bản mới . 

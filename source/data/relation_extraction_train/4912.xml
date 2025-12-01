@@ -1,0 +1,198 @@
+Thông tư Hướng dẫn giao dịch điện tử trên thị trường chứng khoán
+
+Căn_cứ <L rel="Pursuant"> Luật_Chứng_khoán số 70/2006/QH11 ngày 29 tháng 06 năm 2006 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật_Chứng_khoán </L> số 62/2010/QH12 ngày 24 tháng 11 năm 2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29 tháng 11 năm 2005 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin số 67/2006/QH11 ngày 29 tháng 06 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 </NĐ> của Chính_phủ quy_định về giao_dịch điện_tử trong hoạt_động tài_chính ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 118/2008/NĐ-CP ngày 27 tháng 11 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định về nguyên_tắc , thủ_tục tổ_chức giao_dịch điện_tử trong hoạt_động giao_dịch chứng_khoán trực_tuyến , hoạt_động trao_đổi thông_tin điện_tử liên_quan đến hoạt_động chào_bán chứng_khoán ra_công_chúng , lưu ký chứng_khoán , niêm_yết , đăng_ký và giao_dịch chứng_khoán ; hoạt_động quản_lý công_ty_chứng_khoán , công_ty quản_lý quỹ , công_ty đầu_tư chứng_khoán ; hoạt_động công_bố thông_tin và các hoạt_động khác liên_quan đến thị_trường chứng_khoán theo quy_định của <L rel="Reference"> Luật_Chứng_khoán số 70/2006/QH11 ngày 29/06/2006 </L> và <L rel="Reference"> Luật sửa_đổi , bổ_sung một_số điều của <L rel="Others"> Luật_Chứng_khoán </L> số 62/2010/QH12 ngày 24/11/2010 </L> ( sau đây gọi chung là <L rel="Reference"> Luật_Chứng_khoán </L> ) .
+Điều 2 .  Đối_tượng điều_chỉnh 
+
+Đối_tượng điều_chỉnh bao_gồm : Ủy_ban Chứng_khoán Nhà_Nước ( UBCKNN ) , Sở giao_dịch Chứng_khoán ( SGDCK ) , Trung_tâm Lưu ký Chứng_khoán Việt_Nam ( TTLKCK ) , tổ_chức phát_hành , tổ_chức niêm_yết , công_ty_chứng_khoán , công_ty quản_lý quỹ , công_ty đầu_tư chứng_khoán , công_ty đại_chúng , nhà đầu_tư và các tổ_chức trung_gian khác lựa_chọn giao_dịch trong hoạt_động chứng_khoán và thị_trường chứng_khoán bằng phương_tiện điện_tử . 
+
+Điều 3 .  Giải_thích thuật_ngữ 
+
+1 . Giao_dịch điện_tử trong lĩnh_vực chứng_khoán là các giao_dịch trong hoạt_động dịch_vụ về chứng_khoán và thị_trường chứng_khoán được thực_hiện bằng phương_tiện điện_tử , bao_gồm : hoạt_động chào_bán chứng_khoán ra_công_chúng , lưu ký chứng_khoán , niêm_yết , đăng_ký và giao_dịch chứng_khoán ; hoạt_động quản_lý công_ty_chứng_khoán , công_ty quản_lý quỹ , công_ty đầu_tư chứng_khoán ; hoạt_động công_bố thông_tin và các hoạt_động khác liên_quan đến thị_trường chứng_khoán theo quy_định tại <L rel="Reference"> Luật_Chứng_khoán </L> .
+2 . Chứng_từ điện_tử trong lĩnh_vực chứng_khoán là thông_điệp dữ_liệu về hoạt_động nghiệp_vụ chứng_khoán được tạo ra , được gửi đi , được nhận và được lưu_trữ bằng phương_tiện điện_tử trong hoạt_động giao_dịch chứng_khoán trực_tuyến ; hoạt_động trao_đổi thông_tin điện_tử liên_quan đến hoạt_động chào_bán chứng_khoán ra_công_chúng , lưu ký chứng_khoán , niêm_yết , đăng_ký và giao_dịch chứng_khoán ; hoạt_động quản_lý công_ty_chứng_khoán , công_ty quản_lý quỹ , công_ty đầu_tư chứng_khoán ; hoạt_động công_bố thông_tin và các hoạt_động khác liên_quan đến thị_trường chứng_khoán theo quy_định của <L rel="Reference"> Luật_Chứng_khoán </L> .
+3 . Phiếu lệnh điện_tử là thông_điệp dữ_liệu ghi lại những dữ_liệu khách_hàng đã đặt lệnh giao_dịch qua hệ_thống giao_dịch chứng_khoán trực_tuyến ( của công_ty_chứng_khoán nơi khách_hàng mở tài_khoản giao_dịch ) tại một thời_điểm nhất_định mà chỉ có khách_hàng truy_cập được vào hệ_thống đó thông_qua xác_thực truy_cập và đặt lệnh . 
+
+Điều 4 .  Nguyên_tắc giao_dịch điện_tử trong lĩnh_vực chứng_khoán 
+
+1 . Việc thực_hiện các giao_dịch điện_tử trong lĩnh_vực chứng_khoán phải tuân theo nguyên_tắc rõ_ràng , công_bằng , trung_thực , an_toàn , hiệu_quả và phù_hợp với Điều 5 <L rel="Reference"> Luật Giao_dịch điện_tử_số 51/2005/QH11 </L> .
+2 . Tổ_chức cung_cấp dịch_vụ giao_dịch điện_tử trong lĩnh_vực chứng_khoán phải đáp_ứng các điều_kiện quy_định tại Mục I. 1 Phần II <TT rel="Reference"> Thông_tư số 78/2008/TT-BTC </TT> về giao_dịch điện_tử trong hoạt_động tài_chính .
+3 . Tổ_chức , cá_nhân sử_dụng dịch_vụ giao_dịch điện_tử trong lĩnh_vực chứng_khoán phải đáp_ứng các điều_kiện quy_định tại Mục I. 2 Phần II <TT rel="Reference"> Thông_tư 78/2008/TT-BTC </TT> về giao_dịch điện_tử trong hoạt_động tài_chính .
+Điều 5 .  Yêu_cầu về dịch_vụ 
+
+1 . Dịch_vụ giao_dịch chứng_khoán trực_tuyến là dịch_vụ do các công_ty_chứng_khoán cung_cấp cho nhà đầu_tư để mở tài_khoản , đặt lệnh , đưa ra yêu_cầu đối_với các giao_dịch chứng_khoán , hoặc nhận kết_quả giao_dịch thông_qua mạng Internet hoặc điện_thoại . 
+
+2 . Các chứng_khoán được phép thực_hiện dịch_vụ giao_dịch trực_tuyến là các chứng_khoán được giao_dịch trên SGDCK . 
+
+3 . Công_ty_chứng_khoán phải xây_dựng một trang thông_tin điện_tử với địa_chỉ xác_định trên mạng Internet đóng vai_trò như một cổng vào cho dịch_vụ giao_dịch trực_tuyến . 
+
+4 . Nhà_đầu_tư mở tài_khoản theo quy_định của pháp_luật tại trang thông_tin điện_tử của một công_ty_chứng_khoán có_thể thực_hiện được dịch_vụ giao_dịch trực_tuyến sau khi đăng_ký và thực_hiện những thủ_tục pháp_lý cần_thiết . 
+
+Khi thực_hiện giao_dịch chứng_khoán trực_tuyến , nhà đầu_tư có_thể sử_dụng phiếu lệnh điện_tử , trong đó phiếu lệnh điện_tử phải đáp_ứng đủ các tiêu_chuẩn quy_định tại Điều 5 của <NĐ rel="Reference"> Nghị_định 27/2007/NĐ-CP </NĐ> về Giao_dịch điện_tử trong hoạt_động tài_chính .
+5 . Công_ty_chứng_khoán phải trực_tiếp cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến cho nhà đầu_tư , không được ủy_thác hoặc thuê các tổ_chức không được phép khác thông_qua hình_thức thanh_toán phí dịch_vụ . 
+
+6 . Công_ty_chứng_khoán phải ban_hành quy_trình thực_hiện dịch_vụ giao_dịch trực_tuyến phù_hợp với <L rel="Reference"> Luật Giao_dịch điện_tử </L> và phải ký một hợp_đồng_bằng văn_bản với khách_hàng quy_định rõ trách_nhiệm pháp_lý của cả hai bên bao_gồm trách_nhiệm bồi_thường_khi xảy ra rủi_ro . Công_ty_chứng_khoán cũng phải nêu rõ rủi_ro liên_quan đối_với nhà đầu_tư dưới hình_thức một “ Bản công_bố rủi_ro ” đính kèm hợp_đồng .
+7 . Công_ty_chứng_khoán cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến phải cung_cấp những phương_pháp giao_dịch thay_thế , dự_phòng cho khách_hàng sử_dụng dịch_vụ giao_dịch chứng_khoán trực_tuyến . 
+
+8 . Công_ty_chứng_khoán có trách_nhiệm cung_cấp thường_xuyên các văn_bản đối_chiếu về các hoạt_động giao_dịch điện_tử cho các nhà đầu_tư sử_dụng dịch_vụ giao_dịch chứng_khoán trực_tuyến . 
+
+9 . Công_ty_chứng_khoán không được cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến về chuyển_nhượng các nguồn_lực tài_chính , chuyển_nhượng và ủy_thác mua_bán chứng_khoán . 
+
+10 .  Công_ty_chứng_khoán phải công_bố những rủi_ro có liên_quan trên “ Bản công_bố rủi_ro ” trên trang thông_tin điện_tử chính_thức của công_ty và trên phần_mềm ứng_dụng của khách_hàng .  Những rủi_ro được công_bố bao_gồm các rủi_ro sau : 
+
+a ) Trong khi truyền_tải qua mạng Internet , lệnh giao_dịch có_thể bị treo , bị ngừng , bị trì_hoãn hoặc có lỗi dữ_liệu ; 
+
+b ) Việc nhận_dạng các tổ_chức hoặc nhà đầu_tư có_thể không chính_xác , lỗi về bảo_mật có_thể xảy ra ; 
+
+c ) Giá_cả thị_trường và các thông_tin chứng_khoán khác có_thể có lỗi hoặc sai_lệch ; 
+
+d ) Các rủi_ro khác mà các cơ_quan quản_lý_chứng_khoán , công_ty_chứng_khoán có_thể thấy cần_thiết phải công_bố . 
+
+11 .  Công_ty_chứng_khoán tham_gia hoạt_động kinh_doanh dịch_vụ giao_dịch chứng_khoán trực_tuyến phải chú_thích thời_gian hiệu_lực hoặc thời_gian trễ của các Bảng giá chứng_khoán niêm_yết khi gửi cho khách_hàng .  Trường_hợp công_ty_chứng_khoán cung_cấp thông_tin chứng_khoán cho khách_hàng thì phải công_bố nguồn của thông_tin . 
+
+Điều 6 .  Yêu_cầu về bảo_mật thông_tin và lưu_trữ dữ_liệu 
+
+1 . Công_ty_chứng_khoán phải lưu_trữ , đảm_bảo tính toàn_vẹn , dạng nguyên_bản của các chứng_từ điện_tử , phiếu lệnh điện_tử , dữ_liệu điện_tử và ghi_âm các cuộc điện_thoại đặt lệnh của khách_hàng ít_nhất là 10 năm . 
+
+2 . Công_ty_chứng_khoán có trách_nhiệm bảo_mật thông_tin của các tổ_chức , cá_nhân tham_gia giao_dịch trực_tuyến theo quy_định của pháp_luật .  Công_ty_chứng_khoán không được phép công_bố ra bên ngoài những thông_tin liên_quan đến tài_khoản tiền , chứng_khoán , thông_tin nhận_dạng và các dữ_liệu khác của nhà đầu_tư . 
+
+Điều 7 .  Yêu_cầu về kỹ_thuật 
+
+1 . Công_ty_chứng_khoán phải áp_dụng những giải_pháp kỹ_thuật để đảm_bảo hệ_thống dịch_vụ giao_dịch chứng_khoán trực_tuyến được tách_biệt về mặt kỹ_thuật với các hệ_thống kinh_doanh khác ;  sử_dụng những giải_pháp an_toàn bảo_mật để ngăn_chặn việc truy_cập bất_hợp_pháp vào hệ_thống kinh_doanh nội_bộ của công_ty_chứng_khoán thông_qua hoạt_động giao_dịch trực_tuyến . 
+
+2 . Công_ty_chứng_khoán phải tách_biệt về mặt kỹ_thuật để lưu_giữ các dữ_liệu thông_tin của những nhà đầu_tư không đăng_ký dịch_vụ giao_dịch chứng_khoán trực_tuyến với hệ_thống dịch_vụ giao_dịch chứng_khoán trực_tuyến . 
+
+3 . Hệ_thống dịch_vụ giao_dịch chứng_khoán trực_tuyến phải có các giải_pháp kỹ_thuật đảm_bảo an_toàn hệ_thống , lưu_trữ dữ_liệu dự_phòng và khôi_phục hỏng_hóc để đảm_bảo cả về mặt kỹ_thuật về tính an_toàn , trọn_vẹn , chính_xác các dữ_liệu của khách_hàng . 
+
+4 . Công_ty_chứng_khoán phải bố_trí các nhân_viên nghiệp_vụ đủ trình_độ quản_lý và giám_sát các hoạt_động của hệ_thống dịch_vụ giao_dịch trực_tuyến .  Công_ty_chứng_khoán phải có đội_ngũ nhân_viên đáp_ứng được yêu_cầu chuyên_môn về công_nghệ thông_tin như : Quản_trị hệ điều_hành , Quản_trị cơ_sở dữ_liệu , kỹ_thuật bảo_mật , Quản_trị mạng . 
+
+5 . Hệ_thống dịch_vụ giao_dịch trực_tuyến phải có những chức_năng hoặc phương_tiện cho việc quản_lý thời_gian thực và ngăn_chặn những cuộc truy_cập bất_hợp_pháp .  Lưu_trữ một_cách hợp_lý các thông_tin nhật_ký hàng ngày và kiểm_tra các bản_lưu phần_mềm chính của hệ_thống dịch_vụ giao_dịch chứng_khoán trực_tuyến như hệ điều_hành mạng , cơ_sở dữ_liệu và phần_mềm ứng_dụng . 
+
+6 . Thông_tin về khách_hàng sử_dụng dịch_vụ giao_dịch trực_tuyến , các lệnh giao_dịch và các thông_tin nhạy_cảm khác phải được mã_hóa để đảm_bảo an_toàn bảo_mật trong quá_trình truyền_tải qua mạng Internet . 
+
+7 . Công_ty_chứng_khoán phải áp_dụng những biện_pháp kỹ_thuật hoặc quản_lý đáng tin_cậy để xác_định một_cách chính_xác những nhà đầu_tư trực_tuyến ;  ngăn_chặn những truy_cập giả_mạo nhà đầu_tư trong các giao_dịch chứng_khoán trực_tuyến . 
+
+8 . Công_ty_chứng_khoán phải áp_dụng những biện_pháp kỹ_thuật hoặc quản_lý để thiết_lập các mức giới_hạn về mua_bán chứng_khoán theo quy_định của pháp_luật cho mỗi nhà đầu_tư tham_gia vào dịch_vụ giao_dịch chứng_khoán trực_tuyến . 
+
+9 . Các thiết_bị kỹ_thuật chính liên_quan đến việc truyền_tải và nhận_dạng dữ_liệu an_toàn trong hệ_thống dịch_vụ giao_dịch chứng_khoán trực_tuyến sẽ phải qua kiểm_định và chứng_nhận về độ an_toàn của cơ_quan có chức_năng kiểm_định về công_nghệ thông_tin theo quy_định của pháp_luật . 
+
+10 .  Để đảm_bảo an_toàn và an_ninh bảo_mật , việc sử_dụng loại chữ_ký số , chứng_thư số cho các ứng_dụng dùng để giao_dịch trực_tuyến trên môi_trường Internet của công_ty_chứng_khoán được quy_định như sau : 
+
+a ) Trang thông_tin điện_tử ( website ) , hệ_thống thư điện_tử ( email ) của công_ty_chứng_khoán cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến phải được xác_thực bởi chứng_thư số ; 
+
+b ) Công_ty_chứng_khoán và nhà đầu_tư được chủ_động lựa_chọn sử_dụng loại chữ_ký số , chứng_thư số trong giao_dịch mua , bán chứng_khoán trực_tuyến .  Khuyến_nghị nhà đầu_tư sử_dụng chứng_thư số công_cộng trong giao_dịch mua , bán chứng_khoán trực_tuyến . 
+
+11 .  Công_ty_chứng_khoán phải yêu_cầu nhà cung_cấp giải_pháp và xây_dựng phần_mềm ứng_dụng cho hệ_thống giao_dịch chứng_khoán trực_tuyến , cam_kết bảo mật_mã nguồn phần_mềm ứng_dụng với công_ty_chứng_khoán . 
+
+Điều 8 .  Điều_kiện cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến 
+
+1 . Công_ty_chứng_khoán cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến cho nhà đầu_tư phải là công_ty_chứng_khoán thành_viên của SGDCK và phải thực_hiện kết_nối với hệ_thống giao_dịch của SGDCK .  Sau khi kết_nối với hệ_thống giao_dịch của SGDCK , Công_ty_chứng_khoán thực_hiện đăng_ký cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến với UBCKNN . 
+
+2 . Công_ty_chứng_khoán không được chấp_thuận cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến trong trường_hợp bị đình_chỉ hoạt_động , hoặc bị ngừng giao_dịch để chấm_dứt tư_cách thành_viên tại SGDCK , hoặc thuộc diện kiểm_soát đặc_biệt của UBCKNN . 
+
+Điều 9 .  Hồ_sơ đăng_ký cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến . 
+
+1 . Ðơn đăng_ký cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến theo mẫu quy_định tại Phụ_lục 01 của Thông_tư này ; 
+
+2 . Danh_sách tên và lý_lịch của các chuyên_gia quản_lý hệ_thống dịch_vụ giao_dịch chứng_khoán trực_tuyến của công_ty theo mẫu quy_định tại Phụ_lục 02 và 03 của Thông_tư này ; 
+
+3 . Hợp_đồng mẫu về dịch_vụ giao_dịch chứng_khoán trực_tuyến với khách_hàng và Bản công_bố rủi_ro theo mẫu quy_định tại Phụ_lục 04 và 05 của Thông_tư này ; 
+
+4 . Báo_cáo thiết_kế hệ_thống giao_dịch chứng_khoán trực_tuyến theo mẫu quy_định tại Phụ_lục 06 của Thông_tư này ; 
+
+5 . Kế_hoạch dự_phòng cho trường_hợp hỏng_hóc hệ_thống giao_dịch chứng_khoán trực_tuyến theo mẫu quy_định tại Phụ_lục 07 của Thông_tư này ; 
+
+6 . Các giấy chứng_nhận kiểm_định về tính an_toàn và chất_lượng của hệ_thống giao_dịch chứng_khoán trực_tuyến của cơ_quan , tổ_chức có chức_năng kiểm_định về công_nghệ thông_tin theo quy_định của pháp_luật ( bản_sao có chứng_thực ) ; 
+
+7 . Kế_hoạch kiểm_soát rủi_ro của công_ty trong việc thực_hiện dịch_vụ giao_dịch trực_tuyến theo mẫu quy_định tại Phụ_lục 08 của Thông_tư này ; 
+
+8 . Tài_liệu kỹ_thuật về thiết_bị truy_nhập mạng , thiết_bị hòa_nhập mạng , hệ_thống phần_mềm , phần_cứng và các thiết_bị khác có liên_quan theo mẫu quy_định tại Phụ_lục 09 của Thông_tư này ; 
+
+9 . Công_văn chấp_thuận và biên_bản kiểm_tra hệ_thống giao_dịch trực_tuyến của SGDCK ( bản_sao có chứng_thực ) . 
+
+Điều 10 .  Thủ_tục chấp_thuận cung_cấp dịch_vụ giao_dịch trực_tuyến 
+
+1 . Sau khi nhận được hồ_sơ theo quy_định tại Điều 9 Thông_tư này , trong thời_hạn năm ( 05 ) ngày làm_việc , UBCKNN có văn_bản yêu_cầu công_ty_chứng_khoán bổ_sung hoặc giải_trình bằng văn_bản đối_với trường_hợp hồ_sơ chưa hợp_lệ . 
+
+2 . Trong thời_hạn mười ( 10 ) ngày làm_việc kể từ ngày nhận được yêu_cầu của UBCKNN , công_ty_chứng_khoán phải có văn_bản giải_trình hoặc bổ_sung hồ_sơ sau khi có ý_kiến của UBCKNN .  Sau thời_hạn trên nếu công_ty_chứng_khoán không bổ_sung thêm hồ_sơ , UBCKNN có quyền từ_chối chấp_thuận . 
+
+3 . Trong thời_hạn ba mươi lăm ( 35 ) ngày làm_việc , kể từ ngày nhận đủ hồ_sơ hợp_lệ , UBCKNN sẽ ra quyết_định chấp_thuận cho việc cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến .  Trường_hợp từ_chối , UBCKNN phải trả_lời bằng văn_bản và nêu rõ lý_do . 
+
+Điều 11 .  Chế_độ báo_cáo và công_bố thông_tin 
+
+1 . Công_ty_chứng_khoán được chấp_thuận cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến phải gửi UBCKNN , SGDCK các tài_liệu , báo_cáo liên_quan đến nâng_cấp , thay_đổi hệ_thống như : thực_hiện nâng_cấp lớn cho hệ_thống vận_hành dịch_vụ giao_dịch chứng_khoán trực_tuyến ;  thực_hiện những sửa_chữa_lớn cho hệ_thống quản_lý kinh_doanh ;  hoặc vận_hành một hệ_thống kỹ_thuật và các nguyên_tắc kinh_doanh chứng_khoán trực_tuyến tại một chi_nhánh chưa từng thực_hiện dịch_vụ giao_dịch trực_tuyến .  Thời_hạn nộp báo_cáo là tối_thiểu 07 ngày làm_việc sau khi công_ty_chứng_khoán thực_hiện nâng_cấp hoặc thay_đổi hệ_thống . 
+
+2 . Công_ty_chứng_khoán được chấp_thuận cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến phải nộp báo_cáo năm lên UBCKNN về hoạt_động giao_dịch chứng_khoán trực_tuyến trước ngày 31 tháng 01 của năm kế_tiếp theo mẫu quy_định tại Phụ_lục 10 của Thông_tư này . 
+
+3 . SGDCK có trách_nhiệm báo_cáo UBCKNN về tình_hình cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến cho công_ty_chứng_khoán ;  báo_cáo về hệ_thống giao_dịch trực_tuyến trước ngày 31 tháng 01 của năm kế_tiếp theo mẫu quy_định tại Phụ_lục 11 của Thông_tư này . 
+
+4 . SGDCK có trách_nhiệm công_bố trên website của mình : danh_sách những công_ty_chứng_khoán đủ điều_kiện , được phép kết_nối đến hệ_thống giao_dịch của SGDCK , thủ_tục , quy_định về hồ_sơ đăng_ký làm thành_viên giao_dịch trực_tuyến của Sở . 
+
+5 . UBCKNN có trách_nhiệm công_bố trên website của mình : danh_sách những công_ty_chứng_khoán được phép cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến , thủ_tục , quy_định về hồ_sơ đăng_ký cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến cho khách_hàng . 
+
+6 . SGDCK , Công_ty_chứng_khoán gửi báo_cáo theo hình_thức báo_cáo điện_tử có sử_dụng chứng_thư số , chữ_ký số theo hướng_dẫn của UBCKNN . 
+
+Điều 12 .  Thanh_tra , kiểm_tra 
+
+UBCKNN thực_hiện công_tác thanh_tra , kiểm_tra định_kỳ hoặc bất_thường các SGDCK , công_ty_chứng_khoán về thực_hiện giao_dịch chứng_khoán trực_tuyến theo quy_định và khi xảy ra sự_kiện ảnh_hưởng nghiêm_trọng tới quyền_lợi của nhà đầu_tư và sự an_toàn của thị_trường . 
+
+Điều 13 .  Thu_hồi quyết_định chấp_thuận cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến 
+
+1 . Công_ty_chứng_khoán bị thu_hồi Quyết_định chấp_thuận cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến trong các trường_hợp : 
+
+a ) Đã đăng_ký rút nghiệp_vụ môi_giới chứng_khoán và đã được sự chấp_thuận của UBCKNN . 
+
+b ) Bị_rút nghiệp_vụ môi_giới chứng_khoán . 
+
+c ) Bị tạm ngừng hoạt_động . 
+
+d ) Bị thu_hồi Giấy_phép thành_lập và hoạt_động . 
+
+2 . Công_ty_chứng_khoán bị thu_hồi Quyết_định chấp_thuận cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến theo quy_định tại Khoản 1 Điều này phải duy_trì và lưu_trữ dữ_liệu của hệ_thống giao_dịch chứng_khoán trực_tuyến để thực_hiện các nghĩa_vụ theo quy_định của pháp_luật . 
+
+3 . Công_ty_chứng_khoán bị thu_hồi có_thể đăng_ký cung_cấp lại dịch_vụ giao_dịch chứng_khoán trực_tuyến sau khi đã khắc_phục được quy_định tại Khoản 1 Điều 13 Thông_tư này . 
+
+Điều 14 .  Quy_định về trao_đổi thông_tin điện_tử 
+
+1 . Hoạt_động trao_đổi thông_tin điện_tử là hoạt_động trao_đổi thông_tin thông_qua Internet giữa các tổ_chức quản_lý thị_trường ( bao_gồm : UBCKNN , SGDCK , TTLKCK ) , các công_ty_chứng_khoán , công_ty quản_lý quỹ , công_ty đầu_tư chứng_khoán với các đối_tượng đăng_ký sử_dụng . 
+
+2 . Các đối_tượng đăng_ký sử_dụng dịch_vụ trao_đổi thông_tin điện_tử thông_qua địa_chỉ đăng_ký có_thể gửi các dữ_liệu về công_bố thông_tin của đơn_vị mình và nhận các thông_tin phản_hồi từ cơ_quan quản_lý thị_trường chứng_khoán . 
+
+3 . Đối_tượng đăng_ký sử_dụng dịch_vụ trao_đổi thông_tin điện_tử bao_gồm : 
+
+a ) Công_ty đại_chúng , tổ_chức đăng_ký chào_bán chứng_khoán 
+
+b ) Tổ_chức , cá_nhân thực_hiện đăng_ký , lưu ký chứng_khoán 
+
+c ) Tổ_chức xin phép thành_lập công_ty_chứng_khoán , công_ty quản_lý quỹ , công_ty đầu_tư chứng_khoán . 
+
+d ) Tổ_chức , cá_nhân liên_quan khác . 
+
+4 . Các đối_tượng đăng_ký sử_dụng dịch_vụ trao_đổi thông_tin điện_tử phải nộp đơn đăng_ký và hoàn_thành các thủ_tục cần_thiết khác để có_thể sử_dụng bất_cứ dịch_vụ trao_đổi thông_tin điện_tử nào tại trang thông_tin điện_tử của các tổ_chức quản_lý thị_trường . 
+
+5 . Các tổ_chức quản_lý thị_trường có trách_nhiệm ban_hành Quy_trình về dịch_vụ trao_đổi thông_tin điện_tử và trong trường_hợp cần_thiết phải ký một hợp_đồng_bằng văn_bản với các đối_tượng đăng_ký sử_dụng dịch_vụ trên .  Hợp_đồng này phải nêu rõ trách_nhiệm pháp_lý của hai bên và những rủi_ro có_thể xảy ra đối_với khách_hàng khi sử_dụng dịch_vụ của đơn_vị cung_cấp . 
+
+6 . Cơ_quan quản_lý phải tạo_lập trang thông_tin điện_tử trên mạng Internet đóng vai_trò như một cổng vào cho dịch_vụ trao_đổi thông_tin điện_tử . 
+
+7 . Tổ_chức cung_cấp dịch_vụ trao_đổi thông_tin điện_tử có trách_nhiệm đảm_bảo chế_độ bảo_mật thông_tin cho khách_hàng . 
+
+8 . Các thông_tin , dữ_liệu chuyển qua hệ_thống trao_đổi thông_tin điện_tử phải đáp_ứng các điều_kiện quy_định tại Điều 4 <NĐ rel="Reference"> Nghị_định 27/2007/NĐ-CP </NĐ> về giao_dịch điện_tử trong hoạt_động tài_chính .
+9 . Thủ_tục đăng_ký cung_cấp dịch_vụ trao_đổi thông_tin điện_tử trong lĩnh_vực chứng_khoán phải tuân theo quy_định tại Mục_V . A. 2 Phần II <TT rel="Reference"> Thông_tư số 78/2008/TT-BTC </TT> về giao_dịch điện_tử trong hoạt_động tài_chính .
+Điều 15 .  Hiệu_lực thi_hành 
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 08 năm 2013 và thay_thế <TT rel="Replace"> Thông_tư số 50/2009/TT-BTC ngày 16/03/2009 </TT> về Hướng_dẫn giao_dịch điện_tử trên thị_trường chứng_khoán .
+Điều 16 .  Tổ_chức thực_hiện 
+
+1 . Các công_ty_chứng_khoán đã được chấp_thuận cung_cấp dịch_vụ giao_dịch chứng_khoán trực_tuyến trong thời_hạn 06 tháng kể từ khi Thông_tư có hiệu_lực thi_hành phải hoàn_thiện các yêu_cầu về chứng_thư số đối_với trang thông_tin điện_tử , hệ_thống thư điện_tử của công_ty_chứng_khoán theo quy_định tại Điểm a Khoản 10 Điều 7 của Thông_tư này . 
+
+2 . UBCKNN chịu trách_nhiệm ban_hành các quy_định hướng_dẫn cụ_thể về việc sử_dụng chữ_ký số trong lĩnh_vực chứng_khoán .  Các SGDCK , TTLKCK chịu trách_nhiệm ban_hành các Quy_chế hướng_dẫn , quy_trình nghiệp_vụ và giám_sát việc tuân_thủ các hoạt_động giao_dịch trực_tuyến của thành_viên sau khi được UBCKNN chấp_thuận . 
+
+UBCKNN , SGDCK , TTLKCK , Công_ty_chứng_khoán , công_ty quản_lý quỹ , công_ty đầu_tư chứng_khoán , các tổ_chức , cá_nhân khác có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . 
+
+3 . Việc sửa_đổi , bổ_sung Thông_tư này do Bộ_trưởng Bộ Tài_chính quyết_định ./. 

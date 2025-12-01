@@ -1,0 +1,234 @@
+Thông tư Hướng dẫn về cung cấp, quản lý và sử dụng dịch vụ chứng thực chữ ký số chuyên dùng phục vụ các cơ quan thuộc hệ thống chính trị
+
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 48/2008/NĐ-CP ngày 17 tháng 4 năm 2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Nội_vụ ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật Giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số ;
+Điều 1 .  Phạm_vi điều_chỉnh , đối_tượng áp_dụng 
+
+Thông_tư này hướng_dẫn việc cung_cấp , quản_lý và sử_dụng dịch_vụ chứng_thực chữ_ký số chuyên_dùng để xác_thực thông_tin , chứng_thực chữ_ký số , bảo_mật và an_toàn thông_tin trong các giao_dịch điện_tử của các cơ_quan , tổ_chức , cá_nhân thuộc hệ_thống chính_trị . 
+
+Điều 2 .  Dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị 
+
+1 . Tạo và phân_phối các cặp khóa . 
+
+2 . Cấp , thu_hồi chứng_thư số . 
+
+3 . Công_bố và duy_trì trực_tuyến cơ_sở dữ_liệu về chứng_thư số . 
+
+4 . Những dịch_vụ khác có liên_quan theo quy_định . 
+
+Điều 3 .  Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị 
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng do Ban_Cơ_yếu Chính_phủ thành_lập và duy_trì hoạt_động theo quy_định tại khoản 4 Điều 6 <NĐ rel="Reference"> Nghị_định 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <L rel="Others"> Luật Giao_dịch điện_tử </L> về chữ_ký số và dịch_vụ chứng_thực chữ_ký số là tổ_chức duy_nhất có trách_nhiệm cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị .
+Địa_chỉ : Số 105 Nguyễn_Chí_Thanh , Đống_Đa , Hà_Nội 
+
+Địa_chỉ thư điện : info @ ca .  gov .  vn 
+
+Địa_chỉ website : http ://ca .  gov .  vn 
+
+Điện_thoại/Fax : ( 04 ) 37738668 
+
+Điều 4 .  Cơ_quan tiếp_nhận yêu_cầu chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị 
+
+1 . Cơ_quan tiếp_nhận yêu_cầu chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị là cơ_quan cơ_yếu được Trưởng ban Ban_Cơ_yếu Chính_phủ giao làm đầu_mối tiếp_nhận các yêu_cầu cấp và quản_lý sử_dụng chứng_thư số ( sau đây gọi tắt là cơ_quan tiếp_nhận yêu_cầu chứng_thực ) . 
+
+2 . Các cơ_quan tiếp_nhận yêu_cầu chứng_thực bao_gồm : 
+
+a ) Cục Cơ_yếu-Bộ Tổng_tham_mưu đối_với các yêu_cầu trong phạm_vi Bộ Quốc_phòng : 
+
+Địa_chỉ : Số 7 Nguyễn_Tri_Phương , Ba_Đình , Hà_Nội . 
+
+Địa_chỉ thư điện_tử : c58 @ ca .  gov .  vn 
+
+b ) Cục Cơ_yếu H48-Tổng_cục Hậu_cần-Kỹ_thuật đối_với các yêu_cầu trong phạm_vi Bộ Công_an : 
+
+Địa_chỉ : Số 44 Yết_Kiêu , Hoàn_Kiếm , Hà_Nội 
+
+Địa_chỉ thư điện_tử : h48 @ ca .  gov .  vn 
+
+c ) Cục Cơ_yếu-Bộ Ngoại_giao đối_với các yêu_cầu trong phạm_vi Bộ Ngoại_giao : 
+
+Địa_chỉ : Số 1 Tôn_Thất_Đàm , Ba_Đình , Hà_Nội 
+
+Địa_chỉ thư điện_tử : cybng @ ca .  gov .  vn 
+
+d ) Cục Cơ_yếu 893-Ban Cơ_yếu Chính_phủ đối_với các yêu_cầu của các cơ_quan khác : 
+
+Địa_chỉ : Số 60 Nguyễn_Chí_Thanh , Đống_Đa , Hà_Nội 
+
+Địa_chỉ thư điện_tử : c893 @ ca .  gov .  vn 
+
+Điều 5 .  Người quản_lý thuê_bao 
+
+1 . Người đứng đầu các Ban của Đảng , Chánh_Văn_phòng , Trung_ương Đảng , người đứng đầu các cơ_quan Trung_ương của các Đoàn_thể , Chủ_tịch Ủy_ban Trung_ương Mặt_trận Tổ_quốc Việt_Nam , Chủ_nhiệm Văn_phòng Quốc_hội , Chủ_nhiệm Văn_phòng Chủ_tịch nước , Chánh_án Tòa_án nhân_dân tối_cao , Viện_trưởng Viện kiểm_sát nhân_dân tối_cao , Tổng_Kiểm_toán Nhà_nước , Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Bí_thư tỉnh ủy , thành_ủy trực_thuộc Trung_ương , Chủ_tịch Hội_đồng nhân_dân , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức khác theo quy_định của cấp có thẩm_quyền là người quản_lý thuê_bao có trách_nhiệm quản_lý thuê_bao thuộc cơ_quan , tổ_chức mình theo quy_định tại Điều 11 của Thông_tư này . 
+
+2 . Những người quy_định tại khoản 1 Điều này có_thể ủy_quyền cho người đứng đầu các cơ_quan , đơn_vị trực_thuộc thực_hiện trách_nhiệm của người quản_lý thuê_bao .  Danh_sách ủy_quyền gửi về Ban_Cơ_yếu Chính_phủ , địa_chỉ 105 Nguyễn_Chí_Thanh , Đống_Đa , Hà_Nội 
+
+Điều 6 .  Chứng_thư số 
+
+1 . Nội_dung chứng_thư số gồm : 
+
+a ) Tên tổ_chức cung_cấp chứng_thư số ; 
+
+b ) Tên của thuê_bao ; 
+
+c ) Số_hiệu chứng_thư số ; 
+
+d ) Thời_hạn có hiệu_lực của chứng_thư số ; 
+
+đ ) Khóa công_khai của thuê_bao ; 
+
+e ) Chữ_ký số của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị ; 
+
+g ) Các hạn_chế về mục_đích , phạm_vi sử_dụng của chứng_thư số ; 
+
+h ) Các thông_tin khác cho mục_đích quản_lý , sử_dụng , an_toàn , bảo_mật do Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số quy_định . 
+
+2 . Thời_hạn có hiệu_lực của chứng_thư số : 
+
+a ) Không quá 20 năm đối_với chứng_thư số của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số ; 
+
+b ) Không quá 05 năm đối_với chứng_thư số của thuê_bao . 
+
+3 . Các loại chứng_thư số của thuê_bao : 
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị cung_cấp 02 loại chứng_thư số cho thuê_bao : 
+
+a ) Chứng_thư số dùng để ký số thông_điệp dữ_liệu ; 
+
+b ) Chứng_thư số dùng để mã_hóa thông_điệp dữ_liệu . 
+
+Điều 7 .  Tạo và phân_phối các cặp khóa 
+
+1 . Các cặp khóa của thuê_bao được tạo ra bởi Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị ; 
+
+2 . Khóa bí_mật được lưu_giữ trên thiết_bị và chuyển đến thuê_bao bằng phương_thức an_toàn . 
+
+Điều 8 .  Cấp chứng_thư số 
+
+1 . Thuê_bao đề_nghị cấp chứng_thư số phải thỏa_mãn các điều_kiện sau : 
+
+a ) Là tổ_chức , cá_nhân thuộc hệ_thống chính_trị ; 
+
+b ) Thực_hiện các nghĩa_vụ , trách_nhiệm của thuê_bao quy_định tại Điều 13 của Thông_tư này . 
+
+2 . Quy_trình cấp chứng_thư số : 
+
+a ) Thuê_bao lập đề_nghị cấp chứng_thư số , gửi đến người quản_lý thuê_bao quy_định tại Điều 5 của Thông_tư này ( theo mẫu_số 01 ) ; 
+
+b ) Người quản_lý thuê_bao căn_cứ yêu_cầu đảm_bảo an_toàn và xác_thực thông_tin trong giao_dịch điện_tử phục_vụ nhiệm_vụ của cơ_quan , tổ_chức mình , xét_duyệt và lập danh_sách thuê_bao đề_nghị cấp chứng_thư số , gửi cơ_quan tiếp_nhận yêu_cầu chứng_thực ( theo mẫu_số 02 ) ; 
+
+c ) Trong vòng 03 ngày làm_việc , kể từ ngày nhận được đề_nghị cấp chứng_thư số , cơ_quan tiếp_nhận yêu_cầu chứng_thực kiểm_tra hồ_sơ , nếu hợp_lệ thì lập danh_sách đề_nghị cấp chứng_thư số ( theo mẫu_số 02 ) , kèm theo bản_sao danh_sách đề_nghị cấp chứng_thư số của người quản_lý thuê_bao gửi về Ban_Cơ_yếu Chính_phủ ( bằng văn_bản hoặc thông_qua chứng_thư số còn hiệu_lực ) . 
+
+Trường_hợp hồ_sơ đề_nghị không hợp_lệ , cơ_quan tiếp_nhận yêu_cầu chứng_thực hướng_dẫn để người quản_lý thuê_bao hoàn_thiện hồ_sơ . 
+
+Trường_hợp không chấp_nhận đề_nghị của người quản_lý thuê_bao thì cơ_quan tiếp_nhận yêu_cầu chứng_thực thông_báo rõ lý_do cho người quản_lý thuê_bao , đồng_thời báo_cáo Ban_Cơ_yếu Chính_phủ . 
+
+d ) Ngay sau khi nhận được danh_sách đề_nghị cấp chứng_thư số của cơ_quan tiếp_nhận yêu_cầu chứng_thực , Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị có trách_nhiệm tạo chứng_thư số để cấp cho thuê_bao ; 
+
+đ ) Việc cấp chứng_thư số tới các thuê_bao được thực_hiện như sau : Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị chuyển_giao chứng_thư số cho cơ_quan tiếp_nhận yêu_cầu chứng_thực để chuyển_giao cho người quản_lý thuê_bao ;  người quản_lý thuê_bao bàn_giao chứng_thư số tới thuê_bao ;  quá_trình giao_nhận lập biên_bản giao_nhận chứng_thư số ( theo mẫu_số 03 ) ; 
+
+e ) Sau khi bàn_giao chứng_thư số cho thuê_bao , người quản_lý thuê_bao gửi đề_nghị thời_điểm có hiệu_lực của chứng_thư số ( theo mẫu_số 04 ) về Ban_Cơ_yếu Chính_phủ ( bằng văn_bản hoặc thông_qua chứng_thư số còn hiệu_lực ) .  Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị có trách_nhiệm công_bố chứng_thư số của thuê_bao trên trang_web của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị tại địa_chỉ : http ://ca .  gov .  vn .  Chứng_thư số của thuê_bao có hiệu_lực kể từ thời_điểm được Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị công_bố .  Việc công_bố nội_dung chứng_thư số theo quy_định tại Điều 6 của Thông_tư này . 
+
+3 . Trường_hợp đề_nghị cấp chứng_thư số cho người có thẩm_quyền của cơ_quan , tổ_chức theo quy_định của pháp_luật về quản_lý và sử_dụng con_dấu , ngoài việc thực_hiện quy_trình quy_định tại khoản 2 Điều này , thuê_bao phải cung_cấp các tài_liệu sau cho người quản_lý thuê_bao : 
+
+a ) Bản_sao hợp_lệ giấy chứng_nhận đã đăng_ký mẫu con_dấu của cơ_quan , tổ_chức hoặc chức_danh nhà_nước đã được cấp theo quy_định của pháp_luật về quản_lý và sử_dụng con_dấu ; 
+
+b ) Bản_sao hợp_lệ văn_bản xác_nhận chức_danh của người có thẩm_quyền của cơ_quan , tổ_chức hoặc chức_danh nhà_nước đó . 
+
+Điều 9 .  Thu_hồi chứng_thư số 
+
+1 . Thu_hồi chứng_thư số trong các trường_hợp sau đây : 
+
+a ) Chứng_thư số hết hạn sử_dụng ; 
+
+b ) Theo yêu_cầu bằng văn_bản từ thuê_bao , có xác_nhận của người quản_lý thuê_bao ( theo mẫu_số 05 ) trong các trường_hợp : khóa bí_mật bị lộ hoặc nghi bị lộ ;  thiết_bị lưu khóa bí_mật bị thất_lạc , bị sao_chép hoặc các trường_hợp mất an_toàn khác ; 
+
+c ) Theo yêu_cầu bằng văn_bản ( hoặc thông_qua chứng_thư số còn hiệu_lực ) từ cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh ; 
+
+d ) Theo yêu_cầu bằng văn_bản ( hoặc thông_qua chứng_thư số còn hiệu_lực ) từ người quản_lý thuê_bao ; 
+
+đ ) Thuê_bao thay_đổi vị_trí công_tác hoặc nghỉ hưu ; 
+
+e ) Trường_hợp chứng_thư số cho người có thẩm_quyền của cơ_quan , tổ_chức theo quy_định của pháp_luật về quản_lý và sử_dụng con_dấu có thay_đổi chức_danh ; 
+
+g ) Thuê_bao vi_phạm các quy_định về quản_lý , sử_dụng khóa bí_mật và thiết_bị lưu khóa bí_mật được quy_định tại Điều 13 của Thông_tư này . 
+
+2 . Quy_trình thu_hồi chứng_thư số : 
+
+a ) Mọi yêu_cầu thu_hồi chứng_thư số phải thông_báo đến người quản_lý thuê_bao .  Người quản_lý thuê_bao gửi yêu_cầu thu_hồi chứng_thư số tới Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị .  Yêu_cầu thu_hồi chứng_thư số có_thể gửi thông_qua chứng_thư số còn hiệu_lực hoặc thực_hiện nhanh nhất bằng văn_bản ; 
+
+b ) Khi nhận được yêu_cầu thu_hồi chứng_thư số , Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị ngay lập_tức làm mất hiệu_lực của chứng_thư số và công_bố chứng_thư số bị thu_hồi trên trang_web của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị tại địa_chỉ : http ://ca .  gov .  vn ;  đồng_thời thông_báo bằng văn_bản ( hoặc thông_qua chứng_thư số còn hiệu_lực ) cho cơ_quan tiếp_nhận yêu_cầu chứng_thực và người quản_lý thuê_bao ; 
+
+c ) Sau khi nhận được văn_bản thu_hồi chứng_thư số , người quản_lý thuê_bao thu_hồi thiết_bị lưu khóa bí_mật , giao lại cho Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị thông_qua cơ_quan tiếp_nhận yêu_cầu chứng_thực .  Quá_trình giao_nhận phải lập biên_bản theo mẫu_số 03 . 
+
+Điều 10 .  Đối_với Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị 
+
+1 . Tạo các cặp khóa , cấp , thu_hồi chứng_thư số . 
+
+2 . Đảm_bảo an_toàn tuyệt_đối khóa bí_mật của chứng_thư số và xử_lý các tình_huống trong quá_trình cung_cấp và quản_lý chứng_thư số . 
+
+3 . Quản_lý , vận_hành_hạ_tầng kỹ_thuật của hệ_thống chứng_thực chữ_ký số , đảm_bảo việc cung_cấp dịch_vụ chứng_thực chữ_ký số được an_toàn , liên_tục . 
+
+4 . Lưu_trữ đầy_đủ , chính_xác và cập_nhật thông_tin của thuê_bao trong thời_gian chứng_thư số còn hiệu_lực và tối_thiểu 05 năm kể từ ngày chứng_thư số hết hiệu_lực . 
+
+5 . Đảm_bảo kênh thông_tin tiếp_nhận các yêu_cầu cấp , thu_hồi chứng_thư số , cập_nhật và duy_trì 24 giờ trong ngày và 7 ngày trong tuần các cơ_sở dữ_liệu trực_tuyến về chính_sách chứng_thư số , chứng_thư số của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số , các quy_định về việc cung_cấp , quản_lý và sử_dụng dịch_vụ chứng_thực chữ_ký số , danh_sách chứng_thư số có hiệu_lực , chứng_thư số bị thu_hồi và những thông_tin cần_thiết khác . 
+
+6 . Hướng_dẫn , kiểm_tra đối_với các tổ_chức , cá_nhân có trách_nhiệm trong việc đăng_ký , cung_cấp , quản_lý và sử_dụng dịch_vụ chứng_thực chữ_ký số . 
+
+7 . Thu_hồi chứng_thư số khi có đủ căn_cứ xác_định thuê_bao vi_phạm các quy_định tại Thông_tư này . 
+
+8 . Tuân_thủ các quy_định khác của pháp_luật về quản_lý sử_dụng chứng_thư số . 
+
+Điều 11 .  Đối_với người quản_lý thuê_bao 
+
+1 . Xem_xét và phê_duyệt danh_sách thuê_bao đề_nghị cấp , thu_hồi chứng_thư số . 
+
+2 . Chịu trách_nhiệm về tính chính_xác của các thông_tin về thuê_bao đề_nghị cấp , thu_hồi chứng_thư số . 
+
+3 . Bàn_giao chứng_thư số tới các thuê_bao , hướng_dẫn , kiểm_tra các thuê_bao thuộc thẩm_quyền quản_lý trong quá_trình sử_dụng chứng_thư số , khóa bí_mật và việc thực_hiện các quy_định tại Thông_tư này . 
+
+4 . Thông_báo , đề_nghị kịp_thời cho Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị việc thu_hồi chứng_thư số trong các trường_hợp quy_định tại Điều 9 của Thông_tư này . 
+
+5 . Tổ_chức lưu_trữ hồ_sơ đề_nghị cấp , thu_hồi chứng_thư số của thuê_bao thuộc quyền quản_lý và biên_bản giao_nhận chứng_thư số giữa người quản_lý thuê_bao và thuê_bao . 
+
+Điều 12 .  Đối_với cơ_quan tiếp_nhận yêu_cầu chứng_thực 
+
+1 . Tiếp_nhận yêu_cầu , kiểm_tra hồ_sơ và lập danh_sách đề_nghị cấp chứng_thư số từ người quản_lý thuê_bao . 
+
+2 . Tiếp_nhận , giao_nhận chứng_thư số , thiết_bị lưu khóa bí_mật với Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị hoặc người quản_lý thuê_bao theo quy_định tại Điều 8 , Điều 9 của Thông_tư này . 
+
+3 . Thống_kê , kiểm_tra , theo_dõi việc sử_dụng chứng_thư số trong phạm_vi quản_lý và báo_cáo định_kỳ 6 tháng_một lần về Ban_Cơ_yếu Chính_phủ . 
+
+4 . Quản_lý và duy_trì cơ_sở dữ_liệu về thuê_bao và chứng_thư số thuộc phạm_vi quản_lý . 
+
+Điều 13 .  Đối_với thuê_bao 
+
+1 . Cung_cấp các thông_tin liên_quan đến việc cấp chứng_thư số chính_xác và đầy_đủ . 
+
+2 . Thông_báo kịp_thời cho người quản_lý thuê_bao thu_hồi chứng_thư số của mình trong trường_hợp được quy_định tại điểm b , đ , e , g khoản 1 Điều 9 của Thông_tư này . 
+
+3 . Quản_lý và sử_dụng thiết_bị lưu khóa bí_mật theo chế_độ quản_lý bí_mật nhà_nước ở cấp_độ “ Tối_mật ” . 
+
+4 . Có trách_nhiệm thực_hiện đầy_đủ các quy_định , quy_trình quản_lý , sử_dụng chứng_thư số và tuân_thủ các quy_định của pháp_luật về quản_lý sử_dụng chứng_thư số , chữ_ký số . 
+
+Điều 14 .  Trách_nhiệm của các cơ_quan thuộc hệ_thống chính_trị 
+
+1 . Triển_khai và ứng_dụng có hiệu_quả chứng_thư số và dịch_vụ chứng_thực chữ_ký số . 
+
+2 . Căn_cứ yêu_cầu đảm_bảo an_toàn và xác_thực thông_tin trong giao_dịch điện_tử phục_vụ nhiệm_vụ của cơ_quan , tổ_chức đề_xuất cấp chứng_thư số cho thuê_bao thuộc quyền quản_lý . 
+
+Điều 15 .  Trách_nhiệm của Ban_Cơ_yếu Chính_phủ 
+
+1 . Quản_lý , chỉ_đạo Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_ký số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị bảo_đảm việc cung_cấp chứng_thư số , dịch_vụ chứng_thực chữ_ký số một_cách hiệu_quả trên cơ_sở có quy_hoạch nhu_cầu của các cơ_quan thuộc hệ_thống chính_trị . 
+
+2 . Phối_hợp với các cơ_quan liên_quan để tích_hợp chữ_ký số vào các ứng_dụng nhằm đảm_bảo an_toàn và xác_thực thông_tin . 
+
+3 . Nghiên_cứu , ứng_dụng các công_nghệ chữ_ký số phù_hợp với các ứng_dụng công_nghệ thông_tin phục_vụ các cơ_quan thuộc hệ_thống chính_trị . 
+
+4 . Giúp Bộ_trưởng Bộ Nội_vụ hướng_dẫn , theo_dõi và kiểm_tra việc thực_hiện Thông_tư này . 
+
+Điều 16 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 15 tháng 8 năm 2010 . 
+
+2 . Trong quá_trình thực_hiện nếu có vấn_đề phát_sinh , vướng_mắc đề_nghị các cơ_quan , tổ_chức , cá_nhân có liên_quan phản_ánh kịp_thời về Bộ Nội_vụ ( qua Ban_Cơ_yếu Chính_phủ ) để xem_xét , giải_quyết ./. 

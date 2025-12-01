@@ -1,0 +1,240 @@
+Thông tư Quy định về phân tích an toàn đối với nhà máy điện hạt nhân
+
+Căn_cứ <L rel="Pursuant"> Luật năng_lượng nguyên_tử ngày 03 tháng 6 năm 2008 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 70/2010/NĐ-CP ngày 22 tháng 6 năm 2010 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn một_số Điều của <L rel="Others"> Luật năng_lượng nguyên_tử </L> về nhà_máy_điện hạt_nhân ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 20/2013/NĐ-CP ngày 26 tháng 02 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Khoa_học và Công_nghệ ;
+Điều 1 .  Phạm_vi điều_chỉnh 
+
+Thông_tư này quy_định yêu_cầu về phân_tích an_toàn bao_gồm phân_tích an_toàn tất_định và phân_tích an_toàn xác_suất đối_với nhà_máy_điện hạt_nhân ( sau đây được viết tắt là NMĐHN ) . 
+
+Các yêu_cầu về phân_tích an_toàn tại Thông_tư này được hiểu là phù_hợp với mức_độ chi_tiết của thiết_kế tương_ứng các giai_đoạn phê_duyệt dự_án đầu_tư , cấp phép xây_dựng , cấp phép vận_hành và trong quá_trình vận_hành NMĐHN . 
+
+Điều 2 .  Đối_tượng áp_dụng 
+
+Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân có liên_quan tới việc lập , thẩm_định báo_cáo phân_tích an_toàn cho NMĐHN . 
+
+Điều 3 .  Giải_thích từ_ngữ 
+
+1 . Phân_tích an_toàn tất_định là phương_pháp phân_tích nhằm tiên_lượng các hiện_tượng xảy ra sau sự_kiện khởi_phát giả_định thông_qua việc áp_dụng đầy_đủ các quy_luật và tiêu_chí chấp_nhận cụ_thể .  Phân_tích an_toàn tất_định bao_gồm các phân_tích nơtron , thủy_nhiệt , bức_xạ , cơ nhiệt và cấu_trúc bằng các công_cụ tính_toán . 
+
+2 . Phân_tích an_toàn xác_suất là phương_pháp phân_tích mang tính hệ_thống nhằm xác_định sai hỏng , rủi_ro với xác_suất xảy ra được định_lượng bằng các công_cụ tính_toán . 
+
+3 . Phân_tích độ nhạy là phân_tích nhằm đánh_giá mức_độ thay_đổi của các kết_quả đầu_ra khi điều_chỉnh các thông_số đầu_vào , thường là của các thông_số có ảnh_hưởng lớn nhất . 
+
+4 . Phân_tích độ bất_định là phân_tích nhằm đánh_giá sai_số của các đại_lượng đầu_vào và của kết_quả tính_toán . 
+
+5 . Tiếp_cận bảo_thủ là việc sử_dụng chương_trình tính_toán , mô_hình , dữ_liệu đầu_vào và giả_định nhằm đánh_giá một_cách thận_trọng nhất về an_toàn . 
+
+6 . Độ dự_trữ an_toàn là mức dự_phòng giữa kết_quả phân_tích , đánh_giá các tham_số liên_quan tới an_toàn và các giới_hạn an_toàn theo quy_định của cơ_quan có thẩm_quyền . 
+
+7 . Kiểm_chứng là quá_trình xác_định_tính đúng_đắn của phương_pháp , chương_trình hoặc mô_hình tính_toán theo mô_tả , dự_định hay yêu_cầu đặt ra . 
+
+8 . Xác_thực là quá_trình xác_định_tính phù_hợp với thực_nghiệm của phương_pháp , chương_trình hoặc mô_hình tính_toán theo các chức_năng đã định . 
+
+9 . Sự_kiện khởi_phát giả_định là sự_kiện giả_định phát_sinh trực_tiếp từ hư_hỏng cấu_trúc , hệ_thống , bộ_phận hoặc lỗi vận_hành và hư_hỏng phát_sinh trực_tiếp do các nguy_hại bên trong và bên ngoài khi NMĐHN vận_hành ở công_suất danh_định , công_suất thấp hoặc ở trạng_thái dừng lò phản_ứng . 
+
+10 .  Tỷ_số rời khỏi sôi_bọt ( DNBR ) là tỉ_số của thông_lượng nhiệt tới hạn trên thông_lượng nhiệt cục_bộ thực_tế của thanh nhiên_liệu . 
+
+Điều 4 .  Phạm_vi áp_dụng phân_tích an_toàn 
+
+1 . Phân_tích an_toàn NMĐHN phải được tiến_hành theo cả hai phương_pháp phân_tích an_toàn tất_định và phân_tích an_toàn xác_suất , nhằm đánh_giá mức_độ an_toàn nhà_máy ứng với các trạng_thái và chế_độ vận_hành khác nhau . 
+
+2 . Phân_tích an_toàn NMĐHN phải được thực_hiện ở tất_cả các trạng_thái , bao_gồm vận_hành bình_thường , trạng_thái bất_thường , sự_cố trong cơ_sở thiết_kế , sự_cố ngoài cơ_sở thiết_kế và sự_cố nghiêm_trọng . 
+
+3 . Phân_tích an_toàn NMĐHN phải xác_định tần_suất xảy ra sự_kiện khởi_phát giả_định , thông_số vật_lý và thủy_nhiệt của các hệ_thống quan_trọng về an_toàn , tình_trạng của các lớp rào_chắn vật_lý và hậu_quả rò_rỉ phóng_xạ ra môi_trường . 
+
+4 . Phân_tích an_toàn phải bao_gồm các sự_kiện phát_sinh từ các nguy_cơ bên trong , nguy_cơ bên ngoài và quá_trình có_thể gây hư_hỏng các lớp giam_giữ chất phóng_xạ hoặc làm tăng rủi_ro rò_rỉ phóng_xạ ra môi_trường .  Các nguy_cơ bên ngoài có tần_suất xảy ra thấp nhưng có_thể dẫn tới nóng_chảy vùng hoạt phải được tính đến trong phân_tích_sự_cố nghiêm_trọng . 
+
+5 . Lựa_chọn phân_tích sự_kiện và các diễn_biến tiếp_theo phải dựa trên cơ_sở phương_pháp tiếp_cận có tính hệ_thống và logic .  Phải cung_cấp đầy_đủ luận_chứng cho việc xác_định tất_cả các kịch_bản sự_cố liên_quan tới an_toàn . 
+
+6 . Yêu_cầu cụ_thể đối_với phạm_vi thực_hiện phân_tích an_toàn xác_suất , bao_gồm : 
+
+a ) Thực_hiện phân_tích an_toàn xác_suất mức 1 nhằm xác_định tần_suất xảy ra các sự_kiện có_thể dẫn tới nóng_chảy vùng hoạt ;  ước_lượng tần_suất nóng_chảy vùng hoạt ;  đánh_giá điểm mạnh , điểm yếu của các hệ_thống an_toàn và quy_trình vận_hành nhằm ngăn_ngừa nóng_chảy vùng hoạt ; 
+
+b ) Thực_hiện phân_tích an_toàn xác_suất mức 2 nhằm xác_định con đường có khả_năng phát thải chất phóng_xạ trong sự_cố nghiêm_trọng , ước_tính mức_độ và tần_suất xảy ra phát thải ;  đánh_giá mức_độ đầy_đủ của các biện_pháp ngăn_ngừa và giảm_thiểu_phát_tán phóng_xạ ra ngoài môi_trường ; 
+
+c ) Thực_hiện phân_tích cho lò phản_ứng , bể chứa nhiên_liệu tại tất_cả các chế_độ vận_hành và trạng_thái NMĐHN ; 
+
+d ) Phân_tích sự_kiện khởi_phát bao_gồm sự_kiện bên trong nhà_máy , lỗi do con_người , các nguy_cơ bên trong và bên ngoài . 
+
+7 . Phạm_vi , mức_độ chi_tiết của phân_tích an_toàn phải tương_ứng với mức_độ hậu_quả bức_xạ và tần_suất xảy ra sự_kiện . 
+
+Điều 5 .  Phân_tích an_toàn trong thiết_kế NMĐHN 
+
+1 . Xác_định cơ_sở thiết_kế cho các hạng_mục quan_trọng về an_toàn ;  vai_trò của chúng trong việc giảm_thiểu các sự_kiện khởi_phát giả_định cũng như trong chuỗi sự_kiện . 
+
+2 . Phân_tích an_toàn phải chứng_minh được thiết_kế đã đáp_ứng đủ mức_độ bảo_vệ theo chiều sâu . 
+
+3 . Phân_tích an_toàn phải luận_chứng được_việc áp_dụng các giả_định , phương_pháp , độ bất_định và mức_độ bảo_thủ trong thiết_kế . 
+
+4 . Áp_dụng chương_trình bảo_đảm chất_lượng phù_hợp trong thực_hiện phân_tích an_toàn . 
+
+Điều 6 .  Kết_quả của phân_tích an_toàn tất_định và an_toàn xác_suất 
+
+1 . Kết_quả của phân_tích an_toàn tất_định bao_gồm việc so_sánh các kết_quả phân_tích với tiêu_chí chấp_nhận được quy_định tại Chương III của Thông_tư này và các nội_dung sau đây : 
+
+a ) Khẳng_định sự phù_hợp của cơ_sở thiết_kế cho tất_cả các hạng_mục quan_trọng về an_toàn ;  sự phù_hợp của giới_hạn , điều_kiện vận_hành và các hành_động cần_thiết của nhân_viên vận_hành ; 
+
+b ) Khẳng_định các sự_kiện khởi_phát giả_định là phù_hợp với đặc_điểm của địa_điểm và thiết_kế NMĐHN ; 
+
+c ) Luận_chứng việc quản_lý các trạng_thái bất_thường và sự_cố trong cơ_sở thiết_kế nhờ kích_hoạt hệ_thống an_toàn là phù_hợp với các tiêu_chí chấp_nhận ; 
+
+d ) Luận_chứng việc quản_lý các sự_cố ngoài thiết_kế nhờ sử_dụng các tính_năng an_toàn mà không bị ảnh_hưởng bởi chuỗi sự_cố là phù_hợp với tiêu_chí chấp_nhận . 
+
+2 . Kết_quả của phân_tích an_toàn xác_suất bao_gồm việc so_sánh kết_quả phân_tích với các tiêu_chí chấp_nhận được quy_định tại Chương III của Thông_tư này và các nội_dung sau đây : 
+
+a ) Luận_chứng không có sự_kiện khởi_phát giả_định đóng_góp quá lớn tới tổng_thể rủi_ro hoặc đóng_góp đáng_kể tới độ bất_định của kết_quả phân_tích ; 
+
+b ) Luận_chứng việc các lớp bảo_vệ theo chiều sâu phải độc_lập tối_đa ở mức có_thể đạt được trong thực_tế ; 
+
+c ) Luận_chứng việc ngăn_ngừa hiệu_ứng thăng giáng đột_ngột ảnh_hưởng đến an_toàn do biến_động của thông_số đầu_vào . 
+
+Điều 7 .  Yêu_cầu riêng đối_với phân_tích an_toàn tất_định 
+
+1 . Khi thực_hiện phân_tích an_toàn tất_định phải bảo_đảm đủ độ dự_trữ an_toàn giữa giá_trị tính_toán của các thông_số quan_trọng và giá_trị ngưỡng dẫn tới phát thải phóng_xạ ngay cả trong trường_hợp sử_dụng phương_pháp ước_lượng tốt nhất . 
+
+2 . Phân_tích an_toàn tất_định cho mục_đích thiết_kế phải bảo_đảm tính bảo_thủ trong đó có tính tới độ bất_định của mô_hình một_cách hợp_lý , trừ trường_hợp phân_tích_sự_cố ngoài cơ_sở thiết_kế . 
+
+3 . Việc lựa_chọn dữ_liệu tính_toán và các giả_định phải tính tới độ bất_định của các yếu_tố sau : 
+
+a ) Điều_kiện vận_hành ban_đầu của nhà_máy ; 
+
+b ) Khả_năng vận_hành của các hệ_thống an_toàn ; 
+
+c ) Thao_tác của nhân_viên vận_hành ; 
+
+d ) Sự sẵn_sàng của điện_lưới để có_thể khởi_động các hệ_thống an_toàn . 
+
+4 . Khi phân_tích mỗi sự_kiện , phải thực_hiện các quy_định sau : 
+
+a ) Xác_định các tiêu_chí chấp_nhận liên_quan và các thông_số vật_lý giới_hạn ; 
+
+b ) Lựa_chọn điều_kiện ban_đầu và điều_kiện biên theo hướng bảo_thủ tương_ứng cho từng tiêu_chí chấp_nhận .  Phải thực_hiện phân_tích độ nhạy để luận_chứng việc lựa_chọn này khi cần_thiết ; 
+
+c ) Đối_với các hệ_thống và thiết_bị của nhà_máy không được thiết_kế để vận_hành ở các trạng_thái nhất_định thì phải giả_định là chúng bị hỏng hoặc chúng được vận_hành theo cách làm cho sự_kiện khởi_phát trầm_trọng hơn , trừ khi có_thể chứng_minh khả_năng vận_hành của chúng đạt độ tin_cậy cao ; 
+
+d ) Khi phân_tích_sự_cố trong cơ_sở thiết_kế , phải giả_định xảy ra sai hỏng đơn nghiêm_trọng nhất trong vận_hành hệ_thống an_toàn . 
+
+Điều 8 .  Phân_tích độ bất_định và phân_tích độ nhạy 
+
+1 . Kết_quả phân_tích an_toàn phải bao_gồm kết_quả phân_tích độ bất_định và kết_quả phân_tích độ nhạy . 
+
+2 . Độ bất_định phải được định_lượng và luận giải rõ phương_pháp xử_lý , có tính đến nguồn_gốc , bản_chất của các yếu_tố bất_định . 
+
+Điều 9 .  Chương_trình tính_toán trong phân_tích an_toàn 
+
+1 . Ưu_tiên sử_dụng chương_trình tính_toán ước_lượng tốt nhất với khả_năng mô_phỏng thực nhất các hiện_tượng quan_trọng và hoạt_động của các hệ_thống trong nhà_máy . 
+
+2 . Phương_pháp tính_toán , chương_trình tính_toán và mô_hình tính_toán trong phân_tích an_toàn phải được kiểm_chứng và xác_thực . 
+
+Điều 10 .  Sử_dụng kinh_nghiệm vận_hành trong phân_tích an_toàn 
+
+1 . Thu_thập và đánh_giá dữ_liệu về hoạt_động vận_hành có khả_năng sử_dụng cho phân_tích an_toàn , bao_gồm cả việc xem_xét trạng_thái bất_thường và sự_cố đã xảy ra trong quá_trình vận_hành tại các NMĐHN tương_tự . 
+
+2 . Dữ_liệu về kinh_nghiệm vận_hành bao_gồm : 
+
+a ) Hồ_sơ các trạng_thái bất_thường và sự_cố xảy ra trong quá_trình vận_hành ; 
+
+b ) Lỗi do nhân_viên vận_hành ; 
+
+c ) Hoạt_động của hệ_thống an_toàn ; 
+
+d ) Độ tin_cậy của các hạng_mục quan_trọng về an_toàn ; 
+
+đ ) Liều bức_xạ ; 
+
+e ) Việc sinh ra chất_thải phóng_xạ . 
+
+3 . Trong_suốt thời_gian hoạt_động của NMĐHN , phải thu_thập dữ_liệu trên cơ_sở các chỉ_số chất_lượng an_toàn của nhà_máy .  Phải sử_dụng dữ_liệu về kinh_nghiệm vận_hành một_cách phù_hợp , cùng với việc sử_dụng các tiến_bộ khoa_học , kỹ_thuật trong phương_pháp phân_tích an_toàn và các kết_quả nghiên_cứu liên_quan nhằm cập_nhật kết_quả phân_tích an_toàn và đánh_giá hệ_thống quản_lý . 
+
+Điều 11 .  Yêu_cầu về việc thiết_lập tiêu_chí chấp_nhận 
+
+1 . Tiêu_chí chấp_nhận phải được thiết_lập cho toàn_bộ các trạng_thái vận_hành và điều_kiện sự_cố .  Các tiêu_chí này phải bảo_đảm duy_trì đủ mức_độ bảo_vệ theo chiều sâu , bảo_đảm không gây ra mức nguy_hại không chấp_nhận được đối_với con_người , môi_trường . 
+
+2 . Tiêu_chí chấp_nhận được thiết_lập dựa trên các yếu_tố sau đây : 
+
+a ) Đặc_điểm sự_kiện khởi_phát giả_định , đặc_biệt là tần_suất xảy ra ; 
+
+b ) Loại công_nghệ_lò phản_ứng ; 
+
+c ) Các điều_kiện thực_tế của nhà_máy , đặc_biệt là khả_năng tự_cấp điện ; 
+
+d ) Phạm_vi và các điều_kiện áp_dụng của mỗi tiêu_chí .  Áp_dụng tiêu_chí nghiêm_ngặt hơn đối_với sự_kiện có tần_suất xảy ra lớn hơn . 
+
+3 . Tiêu_chí chấp_nhận cho mỗi trạng_thái vận_hành hoặc điều_kiện sự_cố bao_gồm : 
+
+a ) Tiêu_chí chung liên_quan tới hậu_quả phát_tán phóng_xạ ; 
+
+b ) Tiêu_chí cụ_thể liên_quan tới tính toàn_vẹn của các lớp bảo_vệ chống phát_tán phóng_xạ bao_gồm viên nhiên_liệu , vỏ thanh nhiên_liệu , biên chịu áp_chất làm mát lò phản_ứng và boong-ke lò . 
+
+Điều 12 .  Tiêu_chí chấp_nhận đối_với phân_tích an_toàn tất_định về hậu_quả của phát_tán phóng_xạ 
+
+1 . Liều bức_xạ đối_với nhân_viên nhà_máy và dân_chúng tại các trạng_thái vận_hành trong suốt vòng đời nhà_máy phải tuân_thủ nguyên_lý ALARA .  Giới_hạn liều đối_với một người dân phải nhỏ hơn 1 mSv/năm . 
+
+2 . Tất_cả các sự_cố trong cơ_sở thiết_kế không được gây ra tác_động đáng_kể về phóng_xạ tại địa_điểm hoặc ngoài địa_điểm và không cần đến bất_kỳ biện_pháp ứng_phó nào ngoài địa_điểm .  Giới_hạn liều đối_với người dân do sự_cố trong cơ_sở thiết_kế ( không tính tới việc hấp_thụ chất phóng_xạ qua đường ăn_uống ) phải nhỏ hơn 5 mSv/năm . 
+
+3 . Sự_cố ngoài cơ_sở thiết_kế có_thể dẫn tới phát_tán lượng lớn phóng_xạ ra môi_trường phải được loại_trừ trong thực_tế .  Với các sự_cố ngoài cơ_sở thiết_kế khác , phải có các biện_pháp hạn_chế phát_tán sau khoảng thời_gian và trong phạm_vi nhất_định để có đủ thời_gian triển_khai các biện_pháp bảo_vệ dân_chúng . 
+
+4 . Việc phát_tán chất phóng_xạ từ sự_cố nghiêm_trọng không được phép gây ra các hậu_quả sau : 
+
+a ) Gây tổn_thương bức_xạ cấp_tính tới sức_khỏe của dân_chúng trong khu_vực lân_cận NMĐHN ; 
+
+b ) Hạn_chế việc sử_dụng đất và nước trong thời_gian dài trên diện rộng ; 
+
+c ) Phát_tán Cs-137 ra ngoài môi_trường vượt quá 30 tbq ; 
+
+d ) Sau ba tháng kể từ thời_điểm xảy ra sự_cố , tổ_hợp các đồng_vị phóng_xạ khác đồng_vị của Cesi lắng_đọng gây ra nguy_hại lớn hơn nguy_hại do phát_tán Cesi với giới_hạn được đề_cập tại điểm c khoản này . 
+
+Điều 13 .  Tiêu_chí chấp_nhận chung đối_với phân_tích an_toàn tất_định 
+
+1 . Các đặc_tính của thiết_kế , khả_năng kích_hoạt tự_động của hệ_thống an_toàn kết_hợp với hành_động cần_thiết của nhân_viên vận_hành phải đủ hiệu_quả để bảo_đảm : 
+
+a ) Không làm nghiêm_trọng hơn trạng_thái của nhà_máy ; 
+
+b ) Không làm phát_sinh thêm sai hỏng đơn ; 
+
+c ) Không làm mất khả_năng vận_hành của hệ_thống an_toàn hoặc tính_năng an_toàn cần_thiết để giảm_thiểu hậu_quả của sự_cố . 
+
+2 . Hệ_thống được sử_dụng để giảm_thiểu hậu_quả sự_kiện phải có khả_năng chịu_tải cực_đại , ứng suất và điều_kiện môi_trường tương_ứng với sự_kiện được phân_tích . 
+
+3 . Áp_suất trong các hệ_thống ở vòng sơ_cấp và thứ cấp phải không vượt quá giới_hạn thiết_kế đối_với từng trạng_thái nhất_định của nhà_máy . 
+
+4 . Sự_kiện khởi_phát giả_định có_thể dẫn đến hư_hại lớp vỏ của một_số thanh nhiên_liệu nhưng vẫn đáp_ứng được tiêu_chí chấp_nhận về hậu_quả của phát_tán phóng_xạ quy_định tại Điều 12 của Thông_tư này . 
+
+5 . Với tất_cả các sự_cố trong cơ_sở thiết_kế , phải duy_trì dạng hình_học của vùng hoạt , đáp_ứng khả_năng làm mát vùng hoạt . 
+
+6 . Sự_cố trong cơ_sở thiết_kế không được phép gây ra nhiệt_độ , áp_suất , chênh_lệch áp_suất hoặc các tải khác tác_động tới boong-ke lò vượt quá giá_trị được sử_dụng làm cơ_sở thiết_kế . 
+
+Điều 14 .  Tiêu_chí chấp_nhận cụ_thể đối_với phân_tích an_toàn tất_định 
+
+1 . Xác_định các tiêu_chí chấp_nhận cụ_thể để bảo_đảm đủ độ dự_trữ an_toàn , bảo_đảm tính toàn_vẹn của các lớp ngăn_chặn phát_tán phóng_xạ .  Xem_xét áp_dụng các tiêu_chí chấp_nhận cụ_thể sau : 
+
+a ) Tiêu_chí liên_quan tới tính toàn_vẹn của cấu_trúc_viên nhiên_liệu bao_gồm : nhiệt_độ cực_đại trong viên nhiên_liệu , giá_trị cực_đại của enthalpi nhiên_liệu trung_bình theo bán_kính ( cùng với sự phụ_thuộc của chúng vào độ sâu cháy và thành_phần nhiên_liệu ) ; 
+
+b ) Tiêu_chí liên_quan tới tính toàn_vẹn của lớp vỏ thanh nhiên_liệu bao_gồm : giá_trị cực_tiểu của tỉ_số rời khỏi sôi_bọt ( DNBR ) ( đối_với lò nước áp_lực ) hoặc tỉ_số công_suất tới hạn ( CPR ) ( đối_với lò nước sôi ) , giá_trị cực_đại của nhiệt_độ lớp vỏ thanh nhiên_liệu , giá_trị cực_đại mức ô-xi_hóa cục_bộ lớp vỏ thanh nhiên_liệu ; 
+
+c ) Tiêu_chí liên_quan tới tính toàn_vẹn của vùng hoạt lò phản_ứng bao_gồm : mức_độ dưới tới hạn , lượng hydro cực_đại sinh ra do_ô-xi_hóa lớp vỏ thanh nhiên_liệu , số_lượng cực_đại các thanh nhiên_liệu và bó nhiên_liệu bị hư_hỏng ; 
+
+d ) Tiêu_chí chấp_nhận liên_quan tới tính toàn_vẹn của hệ_thống làm mát ( vòng sơ_cấp ) lò phản_ứng bao_gồm : nhiệt_độ và áp_suất cực_đại của chất làm mát ;  thay_đổi nhiệt_độ , áp_suất và ứng suất gây ra tại biên chịu áp_chất làm mát lò phản_ứng ;  không xảy ra nút , gãy giòn hoặc dẻo do khuyết_tật giả_định trong thùng lò phản_ứng ; 
+
+đ ) Tiêu_chí chấp_nhận liên_quan tới tính toàn_vẹn của vòng thứ cấp bao_gồm : nhiệt_độ và áp_suất cực_đại , thay_đổi áp_suất và nhiệt_độ của chất công_tác trong các thiết_bị thuộc vòng thứ cấp ; 
+
+e ) Tiêu_chí chấp_nhận liên_quan tới tính toàn_vẹn của boong-ke lò và giới_hạn sự phát_tán chất phóng_xạ ra môi_trường bao_gồm : áp_suất và nhiệt_độ cực_đại và cực_tiểu bên trong boong-ke lò , chênh_lệch áp_suất cực_đại giữa hai lóp boong-ke lò ( trường_hợp thiết_kế boong-ke hai lớp vách ) , mức_độ rò_rỉ , nồng_độ khí dễ cháy , nổ , thông_số về điều_kiện môi_trường chấp_nhận được đối_với hoạt_động của các hệ_thống . 
+
+2 . Đối_với sự_kiện khởi_phát giả_định xảy ra trong khi dừng lò hoặc trường_hợp dẫn tới việc suy_giảm tính nguyên_vẹn của các lớp bảo_vệ , phải áp_dụng tiêu_chí chấp_nhận nghiêm_ngặt hơn nhằm không để xảy ra phơi trần_bó nhiên_liệu . 
+
+Điều 15 .  Tiêu_chí chấp_nhận đối_với phân_tích an_toàn xác_suất 
+
+1 . Đối_với phân_tích an_toàn xác_suất mức 1 , tổng tần_suất gây nóng_chảy vùng hoạt phải nhỏ hơn 10-5/lò .  năm . 
+
+2 . Đối_với phân_tích an_toàn xác_suất mức 2 , tổng tần_suất gây phát_tán lượng phóng_xạ Cs-137 lớn hơn 30 tbq ra môi_trường phải nhỏ hơn 10-6/lò .  năm . 
+
+Điều 16 .  Điều_khoản chuyển_tiếp 
+
+Trường_hợp tổ_chức , cá_nhân nộp báo_cáo phân_tích an_toàn tới Bộ Khoa_học và Công_nghệ trước ngày Thông_tư này có hiệu_lực không phải thực_hiện theo quy_định tại Thông_tư này . 
+
+Điều 17 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 05 tháng 9 năm 2015 . 
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc hoặc có vấn_đề mới phát_sinh , đề_nghị cơ_quan , tổ_chức , cá_nhân kịp_thời phản_ánh về Bộ Khoa_học và Công_nghệ để xem_xét sửa_đổi , bổ_sung ./. 

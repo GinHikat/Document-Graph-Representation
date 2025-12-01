@@ -1,0 +1,27 @@
+langchain 
+langgraph 
+"markitdown[all]" 'markitdown[pdf]' 
+faiss-cpu 
+langchain-openai 
+langchain-experimental 
+pydantic 
+langchain_google_genai 
+ragas 
+langchain 
+sentence_transformers 
+docling-core 
+docling 
+mlflow 
+pinecone
+neo4j
+supabase
+boto3
+PyPDF2
+google-api-python-client
+pandas 
+numpy
+matplotlib
+seaborn
+
+neo4j-graphrag
+neo4j-graphrag[openai]

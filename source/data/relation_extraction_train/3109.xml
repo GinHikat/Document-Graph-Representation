@@ -1,0 +1,548 @@
+Thông tư Quy định việc đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin trong hoạt động ngân hàng
+
+Căn_cứ <L rel="Pursuant"> Luật Ngân_hàng Nhà_nước Việt_Nam số 46/2010/QH12 ngày 16/6/2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Các tổ_chức tín_dụng số 47/2010/QH12 ngày 16/6/2010 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Công_nghệ thông_tin số 67/2006/QH11 ngày 29/6/2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 96/2008/NĐ-CP ngày 26/8/2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_Nam ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định các yêu_cầu đảm_bảo an_toàn , bảo_mật hệ_thống công_nghệ thông_tin ( CNTT ) trong hoạt_động ngân_hàng . 
+
+2 . Thông_tư này áp_dụng đối_với Ngân_hàng Nhà_nước Việt_Nam ;  các tổ_chức tín_dụng ;  chi_nhánh ngân_hàng nước_ngoài ( sau đây gọi chung là đơn_vị ) . 
+
+Điều 2 .  Giải_thích từ_ngữ 
+
+1 . Hệ_thống công_nghệ thông_tin : là một tập_hợp có cấu_trúc các trang_thiết_bị phần_cứng , phần_mềm , cơ_sở dữ_liệu và hệ_thống mạng phục_vụ cho một hoặc nhiều hoạt_động kỹ_thuật , nghiệp_vụ của ngân_hàng . 
+
+2 . Tài_sản CNTT : là các trang_thiết_bị , thông_tin thuộc hệ_thống CNTT của đơn_vị .  Bao_gồm : 
+
+a ) Tài_sản_vật_lý : là các thiết_bị CNTT , phương_tiện truyền_thông và các thiết_bị phục_vụ cho hoạt_động của hệ_thống CNTT . 
+
+b ) Tài_sản thông_tin : là các dữ_liệu , tài_liệu liên_quan đến hệ_thống CNTT .  Tài_sản thông_tin được thể_hiện bằng văn_bản giấy hoặc dữ_liệu điện_tử . 
+
+c ) Tài_sản phần_mềm : bao_gồm các chương_trình ứng_dụng , phần_mềm hệ_thống , cơ_sở dữ_liệu và công_cụ phát_triển . 
+
+3 . Rủi_ro CNTT : là khả_năng xảy ra tổn_thất khi thực_hiện các hoạt_động liên_quan đến hệ_thống CNTT .  Rủi_ro CNTT liên_quan đến quản_lý , sử_dụng phần_cứng , phần_mềm , truyền_thông , giao_diện hệ_thống , vận_hành và con_người . 
+
+4 . Quản_lý rủi_ro : là các hoạt_động phối_hợp nhằm xác_định và kiểm_soát các rủi_ro CNTT có_thể xảy ra . 
+
+5 . Bên thứ ba : là các tổ_chức , cá_nhân có chuyên_môn được đơn_vị thuê hoặc hợp_tác với đơn_vị nhằm cung_cấp hàng_hóa , dịch_vụ kỹ_thuật cho hệ_thống CNTT . 
+
+6 . Hệ_thống an_ninh mạng : là tập_hợp các thiết_bị tường lửa ;  thiết_bị kiểm_soát , phát_hiện truy_cập bất_hợp_pháp ;  phần_mềm quản_trị , theo_dõi , ghi nhật_ký trạng_thái an_ninh mạng và các trang_thiết_bị khác có chức_năng đảm_bảo an_toàn hoạt_động của mạng , tất_cả cùng hoạt_động đồng_bộ theo một chính_sách an_ninh mạng nhất_quán nhằm kiểm_soát chặt_chẽ tất_cả các hoạt_động trên mạng . 
+
+7 . Tường_lửa : là tập_hợp các thành_phần hoặc một hệ_thống các trang_thiết_bị , phần_mềm được đặt giữa hai mạng , nhằm kiểm_soát tất_cả các kết_nối từ bên trong ra bên ngoài mạng hoặc ngược_lại . 
+
+8 . Vi rút : là chương_trình máy_tính có khả_năng lây_lan , gây ra hoạt_động không bình_thường cho thiết_bị số hoặc sao_chép , sửa_đổi , xóa bỏ thông_tin lưu_trữ trong thiết_bị số . 
+
+9 . Phần_mềm độc_hại ( mã độc ) : là các phần_mềm có tính_năng gây hại như vi rút , phần_mềm do_thám ( spyware ) , phần_mềm quảng_cáo ( adware ) hoặc các dạng tương_tự khác . 
+
+10 .  Điểm yếu kỹ_thuật : là vị_trí trong hệ_thống CNTT dễ bị tổn_thương khi bị tấn_công hoặc xâm_nhập bất_hợp_pháp . 
+
+Điều 3 .  Nguyên_tắc chung 
+
+1 . Từng đơn_vị phải đảm_bảo an_toàn , bảo_mật hệ_thống CNTT của đơn_vị mình theo các quy_định tại Thông_tư này . 
+
+2 . Kịp_thời nhận_biết , phân_loại , đánh_giá và xử_lý có hiệu_quả các rủi_ro CNTT có_thể xảy ra trong đơn_vị . 
+
+3 . Xây_dựng , triển_khai quy_chế an_toàn , bảo_mật hệ_thống CNTT trên cơ_sở hài_hòa giữa lợi_ích , chi_phí và mức_độ chấp_nhận rủi_ro của đơn_vị . 
+
+4 . Bố_trí đủ nguồn_lực có chất_lượng phù_hợp với quy_mô nhằm đảm_bảo an_toàn , bảo_mật hệ_thống CNTT . 
+
+5 . Xác_định rõ quyền_hạn , trách_nhiệm của thủ_trưởng đơn_vị , các cấp , các bộ_phận và từng cá_nhân trong đơn_vị đối_với công_tác đảm_bảo an_toàn , bảo_mật hệ_thống CNTT . 
+
+Điều 4 .  Quy_chế an_toàn , bảo_mật hệ_thống CNTT 
+
+1 . Các đơn_vị phải xây_dựng quy_chế an_toàn , bảo_mật hệ_thống CNTT phù_hợp với hệ_thống CNTT , cơ_cấu tổ_chức , yêu_cầu quản_lý và hoạt_động của đơn_vị .  Quy_chế an_toàn , bảo_mật hệ_thống CNTT phải được thủ_trưởng đơn_vị phê_duyệt , tổ_chức thực_hiện và được triển_khai tới tất_cả các cán_bộ , nhân_viên và các bên liên_quan . 
+
+2 . Quy_chế an_toàn , bảo_mật hệ_thống CNTT phải bao_gồm các quy_định cơ_bản về : 
+
+a ) Quản_lý_tài_sản CNTT ; 
+
+b ) Quản_lý nguồn nhân_lực ; 
+
+c ) Quy_định về vật_lý và môi_trường ; 
+
+d ) Quy_định về truyền_thông và vận_hành ; 
+
+đ ) Quản_lý truy_cập ; 
+
+e ) Tiếp_nhận , phát_triển , duy_trì hệ_thống thông_tin ; 
+
+g ) Quản_lý_sự_cố ; 
+
+h ) Lưu_trữ và dự_phòng thảm_họa . 
+
+3 . Định_kỳ , đơn_vị phải rà_soát , chỉnh_sửa , hoàn_thiện quy_chế an_toàn , bảo_mật hệ_thống CNTT tối_thiểu mỗi năm một lần , đảm_bảo sự phù_hợp , đầy_đủ và có hiệu_quả của quy_chế .  Trong trường_hợp phát_hiện những bất_cập , bất_hợp_lý gây ra mất an_toàn hệ_thống CNTT hoặc theo yêu_cầu của cơ_quan có thẩm_quyền , đơn_vị phải tiến_hành chỉnh_sửa , bổ_sung ngay quy_chế của mình . 
+
+Điều 5 .  Quản_lý an_toàn , bảo_mật CNTT trong nội_bộ đơn_vị 
+
+1 . Thủ_trưởng đơn_vị phải trực_tiếp chỉ_đạo công_tác đảm_bảo an_toàn , bảo_mật CNTT và quy_định rõ trách_nhiệm trong công_tác đảm_bảo an_toàn , bảo_mật CNTT cho các cá_nhân , bộ_phận . 
+
+2 . Các cá_nhân trong đơn_vị liên_quan đến bảo_mật thông_tin phải ký cam_kết bảo_mật thông_tin . 
+
+Điều 6 .  Quản_lý an_toàn , bảo_mật CNTT của đơn_vị đối_với bên thứ_ba 
+
+1 . Đánh_giá về năng_lực kỹ_thuật , nhân_sự , khả_năng tài_chính của bên thứ ba trước khi ký_kết_hợp_đồng cung_cấp hàng_hóa , dịch_vụ . 
+
+2 . Xác_định rõ trách_nhiệm , quyền_hạn và nghĩa_vụ của các bên về an_toàn , bảo_mật CNTT khi ký hợp_đồng .  Hợp_đồng với bên thứ ba_phải bao_gồm các điều_khoản về việc xử_phạt đối_với bên thứ ba do vi_phạm_quy_định an_toàn , bảo_mật thông_tin và trách_nhiệm phải bồi_thường thiệt_hại của bên thứ ba trong trường_hợp có thiệt_hại do hành_vi vi_phạm của bên thứ ba gây ra . 
+
+3 . Đặc_biệt chú_ý đến các vấn_đề về tính bí_mật , tính toàn_vẹn , tính sẵn_sàng , tin_cậy , hiệu_năng tối_đa , khả_năng phục_hồi thảm_họa , phương_tiện lưu_trữ của hệ_thống thông_tin . 
+
+4 . Xác_định đầy_đủ các rủi_ro của đơn_vị liên_quan tới các bên thứ ba có_thể phát_sinh và áp_dụng các biện_pháp quản_lý rủi_ro . 
+
+5 . Áp_dụng các biện_pháp giám_sát chặt_chẽ và giới_hạn quyền truy_cập của bên thứ ba khi cho phép họ truy_cập vào hệ_thống CNTT của đơn_vị . 
+
+MỤC 2 
+
+QUẢN_LÝ TÀI_SẢN CNTT 
+
+Điều 7 .  Xác_định trách_nhiệm đối_với tài_sản CNTT 
+
+1 . Thống_kê , kiểm_kê các loại tài_sản CNTT tại đơn_vị mỗi năm tối_thiểu một lần .  Nội_dung thống_kê tài_sản phải bao_gồm các thông_tin : Loại tài_sản , giá_trị , mức_độ quan_trọng , vị_trí lắp_đặt , thông_tin dự_phòng , thông_tin về bản_quyền . 
+
+2 . Phân_loại , sắp_xếp thứ_tự ưu_tiên theo giá_trị , mức_độ quan_trọng của tài_sản CNTT để có biện_pháp bảo_vệ tài_sản phù_hợp .  Xây_dựng và thực_hiện các quy_định về quản_lý , sử_dụng tài_sản . 
+
+3 . Gắn quyền sử_dụng tài_sản cho các cá_nhân hoặc bộ_phận cụ_thể .  Người sử_dụng tài_sản CNTT phải tuân_thủ các quy_định về quản_lý , sử_dụng tài_sản , đảm_bảo tài_sản được sử_dụng đúng mục_đích . 
+
+Điều 8 .  Phân_loại tài_sản thông_tin 
+
+1 . Phân_loại tài_sản thông_tin theo các tiêu_chí về giá_trị , độ nhạy_cảm và tầm quan_trọng , tần_suất sử_dụng , thời_gian lưu_trữ . 
+
+2 . Thực_hiện các biện_pháp quản_lý phù_hợp với từng loại tài_sản thông_tin đã phân_loại . 
+
+MỤC 3 
+
+QUẢN_LÝ NGUỒN NHÂN_LỰC 
+
+Điều 9 .  Quản_lý nguồn nhân_lực nội_bộ của đơn_vị 
+
+1 . Trước khi tuyển_dụng hoặc phân_công nhiệm_vụ 
+
+a ) Xác_định trách_nhiệm về an_toàn , bảo_mật CNTT của vị_trí cần tuyển_dụng hoặc phân_công . 
+
+b ) Kiểm_tra lý_lịch , xem_xét đánh_giá nghiêm_ngặt tư_cách đạo_đức , trình_độ chuyên_môn khi tuyển_dụng , phân_công cán_bộ , nhân_viên làm_việc tại các vị_trí trọng_yếu của hệ_thống CNTT như quản_trị hệ_thống , quản_trị hệ_thống an_ninh bảo_mật , vận_hành hệ_thống , quản_trị cơ_sở dữ_liệu . 
+
+c ) Quyết_định hoặc hợp_đồng tuyển_dụng ( nếu có ) phải bao_gồm các điều_khoản về trách_nhiệm đảm_bảo an_toàn , bảo_mật CNTT của người được tuyển_dụng trong và sau khi làm_việc tại đơn_vị . 
+
+2 . Trong thời_gian làm_việc 
+
+a ) Đơn_vị có trách_nhiệm phổ_biến và cập_nhật các quy_định về an_toàn , bảo_mật CNTT cho cán_bộ , nhân_viên . 
+
+b ) Yêu_cầu và kiểm_tra việc thi_hành các quy_định về an_toàn , bảo_mật CNTT của cá_nhân , tổ_chức thuộc đơn_vị tối_thiểu mỗi năm một lần . 
+
+c ) Áp_dụng các biện_pháp kỷ_luật đối_với cán_bộ , nhân_viên của đơn_vị vi_phạm_quy_định an_toàn , bảo_mật CNTT . 
+
+d ) Những công_việc quan_trọng như cấu_hình hệ_thống an_ninh mạng , thay_đổi tham_số hệ điều_hành , cài_đặt thiết_bị tường lửa , thiết_bị phát_hiện và ngăn_chặn xâm_nhập ( IPS ) phải được thực_hiện bởi ít_nhất hai người hoặc phải có người giám_sát . 
+
+đ ) Không được cấp quyền_quản_trị ( người có_thể chỉnh_sửa cấu_hình , dữ_liệu , nhật_ký ) trên hệ_thống CNTT chính và hệ_thống dự_phòng cho_cùng một cá_nhân . 
+
+3 . Khi chấm_dứt hoặc thay_đổi công_việc 
+
+Khi cán_bộ , nhân_viên chấm_dứt hoặc thay_đổi công_việc , đơn_vị phải : 
+
+a ) Xác_định rõ trách_nhiệm của cán_bộ , nhân_viên và các bên liên_quan về hệ_thống CNTT . 
+
+b ) Làm biên_bản bàn_giao tài_sản với cán_bộ , nhân_viên . 
+
+c ) Thu_hồi hoặc thay_đổi quyền truy_cập hệ_thống CNTT của cán_bộ , nhân_viên cho phù_hợp với công_việc được thay_đổi . 
+
+Điều 10 .  Quản_lý nguồn nhân_lực bên thứ_ba 
+
+1 . Trước khi triển_khai công_việc 
+
+a ) Yêu_cầu bên thứ ba cung_cấp danh_sách nhân_sự tham_gia . 
+
+b ) Kiểm_tra tư_cách pháp_lý , năng_lực chuyên_môn của nhân_sự bên thứ ba phù_hợp với yêu_cầu công_việc . 
+
+c ) Yêu_cầu bên thứ ba ký cam_kết không tiết_lộ thông_tin của đơn_vị đối_với các thông_tin quan_trọng . 
+
+2 . Trong thời_gian triển_khai công_việc 
+
+a ) Cung_cấp và yêu_cầu bên thứ ba tuân_thủ đầy_đủ các quy_chế , quy_định về an_toàn , bảo_mật CNTT của đơn_vị . 
+
+b ) Giám_sát việc tuân_thủ các quy_định an_toàn , bảo_mật CNTT của nhân_sự bên thứ ba . 
+
+c ) Trong trường_hợp phát_hiện dấu_hiệu vi_phạm hoặc vi_phạm_quy_định an_toàn , bảo_mật thông_tin của bên thứ ba , đơn_vị cần : 
+
+- Tạm dừng hoặc đình_chỉ hoạt_động của bên thứ ba tùy theo mức_độ vi_phạm . 
+
+- Thông_báo chính_thức các vi_phạm về an_toàn , bảo_mật CNTT của nhân_sự cho bên thứ ba . 
+
+- Kiểm_tra xác_định , lập báo_cáo mức_độ vi_phạm và thông_báo cho bên thứ ba thiệt_hại xảy ra . 
+
+- Thu_hồi quyền truy_cập hệ_thống CNTT đã được cấp cho bên thứ ba . 
+
+3 . Khi kết_thúc công_việc 
+
+a ) Yêu_cầu bên thứ ba bàn_giao lại tài_sản sử_dụng của đơn_vị trong quá_trình triển_khai công_việc . 
+
+b ) Thu_hồi quyền truy_cập hệ_thống CNTT đã được cấp của bên thứ ba ngay sau khi kết_thúc công_việc . 
+
+c ) Thay_đổi các khóa , mật_khẩu nhận bàn_giao từ bên thứ ba . 
+
+MỤC 4 
+
+BẢO_ĐẢM AN_TOÀN VỀ MẶT VẬT_LÝ VÀ MÔI_TRƯỜNG 
+
+Điều 11 .  An_toàn vật_lý và môi_trường 
+
+1 . Các khu_vực xử_lý , lưu_giữ thông_tin và phương_tiện xử_lý thông_tin phải được bảo_vệ an_toàn bằng tường_bao , cổng ra vào có kiểm_soát . 
+
+2 . Các khu_vực có yêu_cầu cao về an_toàn , bảo_mật như phòng máy_chủ phải áp_dụng biện_pháp kiểm_soát ra vào thích_hợp , đảm_bảo chỉ những người có nhiệm_vụ mới được vào khu_vực đó . 
+
+3 . Có biện_pháp bảo_vệ phòng_chống nguy_cơ do cháy nổ , ngập_lụt , động_đất và các thảm_họa khác do thiên_nhiên và con_người gây ra .  Phòng máy_chủ phải đảm_bảo_vệ_sinh công_nghiệp : Không dột , không thấm nước ;  các trang_thiết_bị lắp_đặt trên sàn kỹ_thuật , không bị ánh nắng chiếu rọi trực_tiếp ;  độ_ẩm , nhiệt_độ đạt tiêu_chuẩn quy_định cho các thiết_bị và máy_chủ ;  trang_bị đầy_đủ thiết_bị phòng_chống cháy , nổ , lũ_lụt , hệ_thống chống sét . 
+
+4 . Có nội_quy , hướng_dẫn làm_việc trong khu_vực an_toàn , bảo_mật . 
+
+5 . Khu_vực sử_dụng chung , phân_phối , chuyển hàng phải được kiểm_soát và cách_ly với khu_vực an_toàn , bảo_mật . 
+
+Điều 12 .  An_toàn , bảo_mật tài_sản CNTT 
+
+1 . Tài_sản CNTT phải được bố_trí , lắp_đặt tại các địa_điểm an_toàn và được bảo_vệ để giảm_thiểu những rủi_ro do các đe_dọa , hiểm_họa từ môi_trường và các xâm_nhập trái_phép . 
+
+2 . Tài_sản CNTT phải được bảo_đảm về nguồn điện và các hệ_thống hỗ_trợ khi nguồn điện chính bị gián_đoạn .  Phải có biện_pháp chống quá_tải hay sụt_giảm điện_áp , chống sét lan_truyền ;  có hệ_thống tiếp_giáp ;  có hệ_thống máy phát_điện dự_phòng và hệ_thống lưu_điện đảm_bảo thiết_bị hoạt_động liên_tục . 
+
+3 . Dây_cáp cung_cấp nguồn điện và dây_cáp truyền_thông sử_dụng trong truyền_tải dữ_liệu hay những dịch_vụ hỗ_trợ thông_tin phải được bảo_vệ khỏi sự xâm_phạm hoặc hư_hại . 
+
+4 . Tất_cả các thiết_bị lưu_trữ dữ_liệu phải được kiểm_tra để đảm_bảo các dữ_liệu quan_trọng và phần_mềm có bản_quyền lưu_trữ trên thiết_bị được xóa_bỏ hoặc ghi đè không có khả_năng khôi_phục trước khi loại_bỏ hoặc tái sử_dụng cho mục_đích khác . 
+
+5 . Tài_sản CNTT chỉ được đưa ra bên ngoài đơn_vị khi có sự cho phép của cấp có thẩm_quyền . 
+
+6 . Các trang_thiết_bị dùng cho hoạt_động nghiệp_vụ lắp_đặt bên ngoài trụ_sở của đơn_vị phải có biện_pháp giám_sát , bảo_vệ an_toàn phòng_chống truy_cập bất_hợp_pháp . 
+
+MỤC 5 
+
+QUẢN_LÝ VẬN_HÀNH VÀ TRUYỀN_THÔNG 
+
+Điều 13 .  Quy_trình vận_hành 
+
+1 . Ban_hành và triển_khai quy_trình vận_hành các hệ_thống CNTT đến người sử_dụng bao_gồm : Quy_trình bật , tắt_thiết_bị ;  quy_trình sao lưu , phục_hồi dữ_liệu ;  quy_trình bảo_dưỡng thiết_bị ;  quy_trình vận_hành ứng_dụng ;  quy_trình xử_lý_sự_cố . 
+
+2 . Kiểm_soát sự thay_đổi của hệ_thống CNTT gồm : Phiên_bản phần_mềm , cấu_hình phần_cứng , tài_liệu , quy_trình vận_hành ;  có phương_án dự_phòng cho việc phục_hồi nếu sự thay_đổi không thành_công hoặc gặp các sự_cố không dự_tính được ;  ghi_chép lại các thay_đổi ;  lập kế_hoạch thực_hiện và kiểm_tra , thử_nghiệm sự thay_đổi trước khi áp_dụng chính_thức . 
+
+3 . Hệ_thống vận_hành chính_thức phải đáp_ứng yêu_cầu : 
+
+- Tách_biệt với môi_trường phát_triển và môi_trường kiểm_tra , thử_nghiệm . 
+
+- Chỉ cho phép kết_nối Internet đối_với hệ_thống CNTT đã được áp_dụng đầy_đủ các giải_pháp an_ninh , an_toàn và đủ khả_năng bảo_vệ trước các hiểm_họa , tấn_công từ bên ngoài . 
+
+- Không cài_đặt các công_cụ , phương_tiện phát_triển ứng_dụng trên hệ_thống vận_hành chính_thức . 
+
+4 . Đối_với hệ_thống thông_tin nghiệp_vụ : 
+
+a ) Không để một cá_nhân làm toàn_bộ các khâu từ khởi tạo đến phê_duyệt một giao_dịch nghiệp_vụ . 
+
+b ) Mọi tác vụ trên hệ_thống được lưu vết , sẵn_sàng cho kiểm_tra , kiểm_soát khi cần_thiết . 
+
+Điều 14 .  Quản_lý các dịch_vụ do bên thứ ba cung_cấp 
+
+1 . Phải giám_sát và kiểm_tra các dịch_vụ do bên thứ ba cung_cấp đảm_bảo mức_độ cung_cấp dịch_vụ , khả_năng hoạt_động hệ_thống đáp_ứng đúng theo thỏa_thuận đã ký_kết . 
+
+2 . Đảm_bảo triển_khai , duy_trì các biện_pháp an_toàn , bảo_mật của dịch_vụ do bên thứ ba cung_cấp theo đúng thỏa_thuận . 
+
+3 . Quản_lý các thay_đổi đối_với các dịch_vụ của bên thứ ba cung_cấp bao_gồm : Nâng_cấp phiên_bản mới ;  sử_dụng các kỹ_thuật mới , các công_cụ và môi_trường phát_triển mới .  Đánh_giá đầy_đủ tác_động của việc thay_đổi , đảm_bảo an_toàn khi được đưa vào sử_dụng . 
+
+Điều 15 .  Quản_lý việc lập kế_hoạch và chấp_nhận hệ_thống CNTT 
+
+1 . Giám_sát và tối_ưu hiệu_suất của hệ_thống CNTT ;  lập kế_hoạch về hiệu_suất , dung_lượng của hệ_thống CNTT trong tương_lai nhằm đảm_bảo tiêu_chuẩn cần_thiết . 
+
+2 . Xây_dựng các yêu_cầu , tiêu_chuẩn như hiệu_năng , thời_gian phục_hồi khi gặp sự_cố , đảm_bảo tính liên_tục ;  đào_tạo và chuyển_giao kỹ_thuật đối_với những nội_dung thay_đổi cho người sử_dụng và thực_hiện kiểm_tra đánh_giá khả_năng đáp_ứng của hệ_thống CNTT mới hoặc hệ_thống nâng_cấp trước khi áp_dụng chính_thức . 
+
+Điều 16 .  Sao lưu dự_phòng 
+
+1 . Ban_hành và thực_hiện quy_trình sao lưu dự_phòng và phục_hồi cho các phần_mềm , dữ_liệu cần_thiết . 
+
+2 . Lập danh_sách các dữ_liệu , phần_mềm cần được sao lưu , có phân_loại theo thời_gian lưu_trữ , thời_gian sao lưu , phương_pháp sao lưu và thời_gian kiểm_tra phục_hồi hệ_thống từ dữ_liệu sao lưu . 
+
+3 . Dữ_liệu sao lưu phải được lưu_trữ an_toàn và được kiểm_tra thường_xuyên đảm_bảo sẵn_sàng cho việc sử_dụng khi cần .  Kiểm_tra , phục_hồi hệ_thống từ dữ_liệu sao lưu tối_thiểu sáu tháng_một lần . 
+
+Điều 17 .  Quản_lý về an_toàn , bảo_mật mạng 
+
+1 . Thực_hiện việc quản_lý và kiểm_soát mạng nhằm ngăn_ngừa các hiểm_họa và duy_trì an_toàn cho các hệ_thống , ứng_dụng sử_dụng mạng : 
+
+a ) Có sơ_đồ logic và vật_lý về hệ_thống mạng ; 
+
+b ) Sử_dụng thiết_bị tường lửa , thiết_bị phát_hiện và ngăn_chặn xâm_nhập và các trang_thiết_bị khác đảm_bảo an_toàn bảo_mật mạng . 
+
+2 . Thiết_lập , cấu_hình đầy_đủ các tính_năng của thiết_bị an_ninh mạng .  Sử_dụng các công_cụ để dò_tìm và phát_hiện kịp_thời các điểm yếu , lỗ_hổng và các truy_cập bất_hợp_pháp vào hệ_thống mạng .  Thường_xuyên kiểm_tra , phát_hiện những kết_nối , trang_thiết_bị , phần_mềm cài_đặt bất_hợp_pháp vào mạng . 
+
+3 . Xác_định và ghi rõ các tính_năng an_toàn , các mức_độ bảo_mật của dịch_vụ và yêu_cầu quản_lý trong các thỏa_thuận về dịch_vụ mạng do bên thứ ba cung_cấp . 
+
+Điều 18 .  Trao_đổi thông_tin 
+
+1 . Ban_hành các quy_định trao_đổi thông_tin và phần_mềm qua mạng truyền_thông trong đơn_vị và với các đơn_vị khác .  Xác_định trách_nhiệm và nghĩa_vụ pháp_lý với các thành_phần tham_gia . 
+
+2 . Có thỏa_thuận cho việc trao_đổi thông_tin với bên ngoài . 
+
+3 . Có biện_pháp bảo_vệ phương_tiện mang tin khi vận_chuyển . 
+
+4 . Xây_dựng và thực_hiện các biện_pháp bảo_vệ thông_tin trao_đổi giữa các hệ_thống CNTT . 
+
+Điều 19 .  Các dịch_vụ thương_mại điện_tử 
+
+1 . Có biện_pháp bảo_vệ thông_tin trong thương_mại điện_tử nhằm chống lại các hoạt_động gian_lận , sửa_đổi trái_phép : 
+
+a ) Đường truyền và giao_thức truyền_thông phải được mã_hóa ; 
+
+b ) Sử_dụng các phương_thức xác_thực mạnh như xác_thực đa thành_phần hoặc chữ_ký số cho các thành_viên tham_gia giao_dịch . 
+
+2 . Thông_tin trong các giao_dịch trực_tuyến phải được truyền đầy_đủ , đúng địa_chỉ , tránh bị sửa_đổi , tiết_lộ hoặc nhân_bản một_cách trái_phép . 
+
+3 . Thông_tin công_khai trên các hệ_thống CNTT phải được bảo_vệ nhằm ngăn_chặn sự sửa_đổi trái_phép . 
+
+Điều 20 .  Giám_sát và ghi nhật_ký hoạt_động của hệ_thống CNTT 
+
+1 . Ghi nhật_ký và quy_định thời_gian lưu_trữ các thông_tin về hoạt_động của hệ_thống CNTT và người sử_dụng , lỗi phát_sinh và các sự_cố mất an_toàn thông_tin nhằm trợ_giúp cho việc điều_tra giám_sát về sau . 
+
+2 . Xem_xét và lập báo_cáo định_kỳ về nhật_ký và có các hoạt_động xử_lý các lỗi , sự_cố cần_thiết . 
+
+3 . Bảo_vệ các chức_năng ghi nhật_ký và thông_tin nhật_ký , chống giả_mạo và truy_cập trái_phép .  Người quản_trị hệ_thống và người sử_dụng không được xóa hay sửa_đổi nhật_ký hệ_thống ghi lại các hoạt_động của chính họ . 
+
+4 . Có cơ_chế đồng_bộ thời_gian giữa các hệ_thống CNTT . 
+
+Điều 21 .  Phòng_chống vi rút và phần_mềm độc_hại 
+
+1 . Triển_khai hệ_thống phòng_chống vi rút máy_tính cho toàn_bộ hệ_thống CNTT của đơn_vị . 
+
+2 . Kiểm_tra , diệt vi rút , mã độc cho toàn_bộ hệ_thống CNTT của đơn_vị hàng ngày và phương_tiện mang tin nhận từ bên ngoài trước khi sử_dụng . 
+
+3 . Không mở các thư điện_tử lạ , các tệp_tin đính kèm hoặc các liên_kết trong các thư lạ để tránh vi rút , mã độc . 
+
+4 . Không vào các trang_web không có nguồn_gốc xuất_xứ rõ_ràng , đáng ngờ . 
+
+5 . Cập_nhật kịp_thời các mẫu vi rút , mã độc mới và các phần_mềm chống vi rút , mã độc mới . 
+
+6 . Báo ngay cho người quản_trị hệ_thống xử_lý trong trường_hợp phát_hiện nhưng không diệt được vi rút , mã độc . 
+
+7 . Không tự_ý cài_đặt các phần_mềm khi chưa được phép của người quản_trị hệ_thống . 
+
+MỤC 6 
+
+CÁC BIỆN_PHÁP QUẢN_LÝ TRUY_CẬP 
+
+Điều 22 .  Yêu_cầu nghiệp_vụ đối_với kiểm_soát truy_cập 
+
+1 . Xây_dựng và thực_hiện các quy_định về quản_lý truy_cập đối_với người sử_dụng , nhóm người sử_dụng , đảm_bảo đáp_ứng yêu_cầu nghiệp_vụ và yêu_cầu an_toàn , bảo_mật .  Quy_định về quản_lý truy_cập bao_gồm các nội_dung cơ_bản sau : 
+
+a ) Đăng_ký , cấp_phát , gia_hạn và thu_hồi quyền truy_cập của người sử_dụng ; 
+
+b ) Giới_hạn và kiểm_soát các truy_cập đặc_quyền ; 
+
+c ) Quản_lý , cấp_phát mật_khẩu ; 
+
+d ) Rà_soát , kiểm_tra , xét_duyệt lại quyền truy_cập của người sử_dụng . 
+
+2 . Quy_định về quản_lý mật_khẩu phải đáp_ứng các yêu_cầu sau : 
+
+a ) Mật_khẩu phải có độ dài sáu ký_tự trở lên , cấu_tạo gồm các ký_tự số , chữ và các ký_tự đặc_biệt khác nếu hệ_thống cho phép .  Các yêu_cầu mật_khẩu hợp_lệ phải được kiểm_tra tự_động khi thiết_lập mật_khẩu ; 
+
+b ) Các mật_khẩu mặc_định của nhà sản_xuất cài_đặt sẵn trên các trang_thiết_bị , phần_mềm , cơ_sở dữ_liệu phải được thay_đổi ngay khi đưa vào sử_dụng ; 
+
+c ) Phần_mềm quản_lý mật_khẩu phải có các chức_năng : Thông_báo người sử_dụng thay_đổi mật_khẩu sắp hết hạn sử_dụng ;  hủy hiệu_lực của mật_khẩu hết hạn sử_dụng ;  cho phép thay_đổi ngay mật_khẩu bị lộ , có nguy_cơ bị lộ hoặc theo yêu_cầu của người sử_dụng ;  ngăn_chặn việc sử_dụng lại mật_khẩu cũ trong một khoảng thời_gian nhất_định . 
+
+3 . Quy_định trách_nhiệm người sử_dụng khi được cấp quyền truy_cập : Sử_dụng mật_khẩu đúng quy_định , giữ bí_mật mật_khẩu , thoát khỏi hệ_thống khi không làm_việc trên hệ_thống hoặc tạm_thời không làm_việc trên hệ_thống . 
+
+Điều 23 .  Quản_lý truy_cập mạng 
+
+1 . Ban_hành các quy_định sử_dụng mạng và các dịch_vụ mạng ;  các thủ_tục cấp phép , xóa bỏ quyền kết_nối đến mạng và dịch_vụ mạng ;  những cách_thức , phương_tiện truy_cập mạng , dịch_vụ mạng .  Trong đó quy_định rõ : 
+
+a ) Các mạng và dịch_vụ mạng được phép sử_dụng ; 
+
+b ) Các điều_kiện để được kết_nối_mạng . 
+
+2 . Sử_dụng các biện_pháp thích_hợp để xác_thực người sử_dụng kết_nối từ bên ngoài vào mạng nội_bộ của đơn_vị đảm_bảo an_toàn , bảo_mật . 
+
+3 . Kiểm_soát truy_cập các cổng dùng để cấu_hình và quản_trị thiết_bị mạng . 
+
+4 . Chia tách hệ_thống mạng thành các vùng mạng khác nhau theo đối_tượng sử_dụng , mục_đích sử_dụng và hệ_thống thông_tin . 
+
+Điều 24 .  Kiểm_soát truy_cập hệ điều_hành 
+
+1 . Có quy_trình để kiểm_soát truy_cập hệ điều_hành ;  quy_định quản_lý mật_khẩu truy_cập hệ điều_hành an_toàn , bảo_mật . 
+
+2 . Mỗi người sử_dụng hệ điều_hành phải có một định_danh duy_nhất và được xác_thực , nhận_dạng , lưu dấu_vết khi truy_cập hệ điều_hành . 
+
+3 . Sử_dụng thêm các phương_pháp xác_thực khác như sinh trắc học hoặc thẻ đối_với các máy_chủ_quan_trọng ngoài việc xác_thực bằng mật_khẩu . 
+
+4 . Quy_định giới_hạn và kiểm_soát chặt_chẽ những tiện_ích hệ_thống có khả_năng ảnh_hưởng đến hệ_thống và chương_trình ứng_dụng khác . 
+
+5 . Tự_động ngắt phiên làm_việc sau một thời_gian không sử_dụng , nhằm ngăn_chặn sự truy_cập trái_phép . 
+
+6 . Quy_định giới_hạn thời_gian kết_nối với những ứng_dụng có độ rủi_ro cao . 
+
+Điều 25 .  Kiểm_soát truy_cập thông_tin và ứng_dụng 
+
+1 . Quản_lý và phân_quyền truy_cập thông_tin và ứng_dụng phù_hợp với chức_năng nhiệm_vụ của người sử_dụng : 
+
+a ) Phân_quyền truy_cập đến từng thư_mục , chức_năng của chương_trình ; 
+
+b ) Phân_quyền đọc , ghi , xóa , thực_thi đối_với thông_tin , dữ_liệu , chương_trình . 
+
+2 . Các hệ_thống thông_tin quan_trọng phải đặt trong môi_trường mạng máy_tính riêng .  Nếu các hệ_thống thông_tin cùng sử_dụng nguồn tài_nguyên chung thì phải được người quản_trị hệ_thống chấp_nhận . 
+
+MỤC 7 
+
+TIẾP_NHẬN , PHÁT_TRIỂN , DUY_TRÌ HỆ_THỐNG THÔNG_TIN 
+
+Điều 26 .  Yêu_cầu về an_toàn , bảo_mật cho các hệ_thống thông_tin 
+
+Khi xây_dựng hệ_thống thông_tin mới hoặc cải_tiến hệ_thống thông_tin hiện_tại , phải đưa ra các yêu_cầu về an_toàn , bảo_mật đồng_thời với việc đưa ra các yêu_cầu kỹ_thuật , nghiệp_vụ . 
+
+Điều 27 .  Đảm_bảo an_toàn , bảo_mật các ứng_dụng 
+
+1 . Kiểm_tra tính hợp_lệ của dữ_liệu nhập vào các ứng_dụng , đảm_bảo dữ_liệu được nhập vào chính_xác và hợp_lệ . 
+
+2 . Kiểm_tra tính hợp_lệ của dữ_liệu cần được xử_lý tự_động trong các ứng_dụng nhằm phát_hiện thông_tin sai_lệch do các lỗi trong quá_trình xử_lý hoặc các hành_vi sửa_đổi thông_tin có chủ_ý . 
+
+3 . Có các biện_pháp đảm_bảo tính xác_thực và bảo_vệ sự toàn_vẹn của dữ_liệu được xử_lý trong các ứng_dụng . 
+
+4 . Kiểm_tra tính hợp_lệ của dữ_liệu xuất ra từ các ứng_dụng , đảm_bảo quá_trình xử_lý thông_tin của các ứng_dụng là chính_xác và hợp_lệ . 
+
+Điều 28 .  Quản_lý mã_hóa 
+
+1 . Quy_định và đưa vào sử_dụng các biện_pháp mã_hóa và quản_lý khóa theo các chuẩn quốc_gia hoặc quốc_tế đã được công_nhận để bảo_vệ thông_tin của đơn_vị .  Sử_dụng các giải_thuật mã_hóa như : 
+
+a ) AES : Advanced_Encryption Standard ; 
+
+b ) 3DES : Triple_Data Encryption Standard ; 
+
+c ) RSA : Rivest-Shamir-Adleman ; 
+
+d ) Giải_thuật khác . 
+
+2 . Dữ_liệu về mật_khẩu khách_hàng , mật_khẩu người sử_dụng và các dữ_liệu nhạy_cảm khác phải được mã_hóa khi truyền lên mạng và khi lưu_trữ . 
+
+Điều 29 .  An_toàn , bảo_mật các tệp_tin hệ_thống 
+
+1 . Quy_định về quản_lý , cài_đặt , cập_nhật các phần_mềm lên hệ_thống hiện_tại , đảm_bảo an_toàn cho các tệp_tin hệ_thống . 
+
+2 . Dữ_liệu kiểm_tra , thử_nghiệm phải được lựa_chọn , bảo_vệ , quản_lý và kiểm_soát một_cách thận_trọng . 
+
+3 . Việc truy_cập vào chương_trình nguồn phải được quản_lý và kiểm_soát chặt_chẽ . 
+
+Điều 30 .  An_toàn , bảo_mật trong quy_trình hỗ_trợ và phát_triển 
+
+1 . Phải có quy_định về quản_lý và kiểm_soát sự thay_đổi hệ_thống thông_tin . 
+
+2 . Khi thay_đổi hệ điều_hành phải kiểm_tra và xem_xét các ứng_dụng nghiệp_vụ quan_trọng để đảm_bảo hệ_thống hoạt_động ổn_định , an_toàn trên môi_trường mới . 
+
+3 . Việc sửa_đổi các gói phần_mềm phải được quản_lý và kiểm_soát chặt_chẽ . 
+
+4 . Giám_sát , quản_lý chặt_chẽ việc thuê_mua phần_mềm bên ngoài . 
+
+Điều 31 .  Quản_lý các điểm yếu về mặt kỹ_thuật 
+
+1 . Có quy_định về việc đánh_giá , quản_lý và kiểm_soát các điểm yếu kỹ_thuật của các hệ_thống CNTT đang sử_dụng .  Định_kỳ đánh_giá , lập báo_cáo về các điểm yếu kỹ_thuật của các hệ_thống CNTT đang sử_dụng . 
+
+2 . Xây_dựng và triển_khai các giải_pháp khắc_phục các điểm yếu kỹ_thuật , hạn_chế các rủi_ro liên_quan . 
+
+MỤC 8 
+
+QUẢN_LÝ CÁC SỰ_CỐ VỀ CNTT 
+
+Điều 32 .  Báo_cáo sự_cố 
+
+1 . Xây_dựng quy_trình báo_cáo , các mẫu báo_cáo và xác_định rõ người nhận báo_cáo về các sự_cố CNTT . 
+
+2 . Quy_định rõ trách_nhiệm báo_cáo của cán_bộ , nhân_viên và bên thứ ba về các sự_cố CNTT . 
+
+3 . Các sự_cố mất an_toàn phải được lập_tức báo_cáo đến những người có thẩm_quyền và những người có liên_quan để có biện_pháp khắc_phục trong thời_gian sớm nhất . 
+
+Điều 33 .  Kiểm_soát và khắc_phục sự_cố 
+
+1 . Ban_hành quy_trình , trách_nhiệm khắc_phục và phòng_ngừa sự_cố CNTT , đảm_bảo sự_cố được xử_lý trong thời_gian ngắn nhất và giảm_thiểu khả_năng sự_cố_lặp lại . 
+
+2 . Quá_trình xử_lý_sự_cố phải được ghi_chép và lưu_trữ tại đơn_vị . 
+
+3 . Thu_thập , ghi_chép , bảo_toàn bằng_chứng , chứng_cứ phục_vụ cho việc kiểm_tra , xử_lý , khắc_phục và phòng_ngừa sự_cố .  Trong trường_hợp sự_cố về CNTT có liên_quan đến các vi_phạm pháp_luật , đơn_vị có trách_nhiệm thu_thập và cung_cấp chứng_cứ cho cơ_quan có thẩm_quyền đúng theo quy_định của pháp_luật . 
+
+MỤC 9 
+
+ĐẢM_BẢO HOẠT_ĐỘNG LIÊN_TỤC CỦA CÁC HỆ_THỐNG CNTT 
+
+Điều 34 .  Đảm_bảo hoạt_động liên_tục 
+
+1 . Căn_cứ quy_mô và mức_độ quan_trọng của từng hệ_thống CNTT đối_với hoạt_động của đơn_vị để lựa_chọn ra các hệ_thống CNTT trọng_yếu , có ảnh_hưởng lớn tới hoạt_động của đơn_vị . 
+
+2 . Xây_dựng và triển_khai kế_hoạch , quy_trình đảm_bảo hoạt_động liên_tục của các hệ_thống CNTT trọng_yếu . 
+
+3 . Tối_thiểu sáu tháng_một lần , tiến_hành kiểm_tra , thử_nghiệm , đánh_giá và cập_nhật các quy_trình đảm_bảo hoạt_động liên_tục của các hệ_thống CNTT trọng_yếu . 
+
+4 . Kế_hoạch , quy_trình đảm_bảo hoạt_động liên_tục phải được kiểm_tra , đánh_giá và cập_nhật khi có sự thay_đổi của hệ_thống . 
+
+Điều 35 .  Công_tác dự_phòng thảm_họa 
+
+1 . Xây_dựng hệ_thống dự_phòng cho các hệ_thống CNTT trọng_yếu của đơn_vị .  Các hệ_thống dự_phòng cách hệ_thống chính tối_thiểu 30 km tính theo đường_thẳng nối giữa hai hệ_thống . 
+
+2 . Hệ_thống dự_phòng phải thay_thế được hệ_thống chính trong vòng 4 giờ kể từ khi hệ_thống chính có sự_cố không khắc_phục được . 
+
+3 . Tối_thiểu ba tháng_một lần , phải chuyển hoạt_động từ hệ_thống chính sang hệ_thống dự_phòng để đảm_bảo tính đồng_nhất và sẵn_sàng của hệ_thống dự_phòng . 
+
+4 . Tối_thiểu ba tháng_một lần , tiến_hành kiểm_tra , đánh_giá hoạt_động của hệ_thống dự_phòng . 
+
+MỤC 10 
+
+KIỂM_TRA NỘI_BỘ VÀ BÁO_CÁO 
+
+Điều 36 .  Kiểm_tra nội_bộ 
+
+1 . Các đơn_vị phải tự tổ_chức kiểm_tra việc tuân_thủ các quy_định tại Thông_tư này tối_thiểu mỗi năm một lần . 
+
+2 . Kết_quả kiểm_tra và các kiến_nghị đề_xuất phải được lập thành báo_cáo . 
+
+Điều 37 .  Báo_cáo 
+
+1 . Quy_chế an_toàn , bảo_mật CNTT của đơn_vị : 
+
+a ) Đối_với các đơn_vị đã ban_hành quy_chế an_toàn , bảo_mật CNTT trước ngày Thông_tư này có hiệu_lực : Các đơn_vị gửi quy_chế an_toàn , bảo_mật CNTT trong thời_hạn 15 ngày kể từ ngày Thông_tư này có hiệu_lực . 
+
+b ) Đối_với các đơn_vị chưa ban_hành quy_chế an_toàn , bảo_mật CNTT kể từ ngày Thông_tư này có hiệu_lực : Các đơn_vị phải ban_hành và gửi quy_chế an_toàn , bảo_mật CNTT trong thời_hạn 6 tháng kể từ ngày Thông_tư này có hiệu_lực . 
+
+2 . Báo_cáo năm : 
+
+a ) Các chỉnh_sửa , bổ_sung quy_chế an_toàn , bảo_mật CNTT nếu có ;  Báo_cáo kiểm_tra nội_bộ của đơn_vị theo quy_định tại Điều 36 của Thông_tư này . 
+
+b ) Thời_hạn gửi báo_cáo : Trước ngày 15 tháng 3 hàng năm . 
+
+c ) Hình_thức và mẫu báo_cáo : Theo hướng_dẫn của Ngân_hàng Nhà_nước Việt_Nam ( Cục Công_nghệ tin_học ) . 
+
+3 . Báo_cáo đột_xuất : 
+
+Khi xảy ra các vụ , việc mất an_toàn đối_với hệ_thống CNTT , đơn_vị gửi báo_cáo đột_xuất bằng văn_bản , cụ_thể như sau : 
+
+a ) Thời_hạn gửi báo_cáo : Trong thời_hạn 10 ngày kể từ thời_điểm vụ , việc được phát_hiện . 
+
+b ) Nội_dung báo_cáo đột_xuất : 
+
+- Ngày , địa_điểm phát_sinh vụ , việc ; 
+
+- Nguyên_nhân vụ , việc ; 
+
+- Đánh_giá rủi_ro , ảnh_hưởng đối_với hệ_thống CNTT và nghiệp_vụ tại nơi xảy ra vụ , việc và những địa_điểm khác có liên_quan ; 
+
+- Các biện_pháp đơn_vị đã tiến_hành để ngăn_chặn , khắc_phục và phòng_ngừa rủi_ro ; 
+
+- Kiến_nghị , đề_xuất . 
+
+Điều 38 .  Xử_lý vi_phạm 
+
+Các tổ_chức , cá_nhân vi_phạm_quy_định tại Thông_tư này , tùy theo mức_độ vi_phạm sẽ bị xử_lý theo các quy_định của pháp_luật . 
+
+Điều 39 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực thi_hành sau bốn mươi lăm ngày kể từ ngày ký ban_hành và thay_thế các văn_bản sau : 
+
+- <QĐ rel="Replace"> Quyết_định số 04/2006/QĐ-NHNN ngày 18/01/2006 </QĐ> của Thống_đốc Ngân_hàng Nhà_nước ban_hành Quy_chế an_toàn , bảo_mật hệ_thống công_nghệ thông_tin trong ngành Ngân_hàng ;
+- <QĐ rel="Replace"> Quyết_định số 14/2000/QĐ-NHNN16 ngày 07/01/2000 </QĐ> của Thống_đốc Ngân_hàng Nhà_nước về việc ban_hành Quy_chế quản_lý , sử_dụng hệ_thống tin_học trong ngành Ngân_hàng ;
+- <QĐ rel="Replace"> Quyết_định số 864/2003/QĐ-NHNN ngày 05/8/2003 </QĐ> của Thống_đốc Ngân_hàng Nhà_nước về việc sửa_đổi , bổ_sung một_số điều của Quy_chế quản_lý , sử_dụng hệ_thống tin_học trong ngành Ngân_hàng ban_hành kèm theo <QĐ rel="Others"> Quyết_định số 14/2000/QĐ-NHNN16 ngày 07/01/2000 </QĐ> .
+2 . Trong quá_trình thực_hiện nếu có vấn_đề phát_sinh , vướng_mắc , các đơn_vị liên_quan phản_ánh kịp_thời về Ngân_hàng Nhà_nước Việt_Nam để xem_xét , bổ_sung , sửa_đổi . 
+
+Điều 40 .  Trách_nhiệm thi_hành 
+
+1 . Cục Công_nghệ tin_học có trách_nhiệm theo_dõi , kiểm_tra việc thi_hành Thông_tư này của các đơn_vị . 
+
+2 . Cơ_quan Thanh_tra , giám_sát ngân_hàng có trách_nhiệm phối_hợp với Cục Công_nghệ tin_học kiểm_tra việc thi_hành Thông_tư này đối_với các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài và xử_lý vi_phạm hành_chính đối_với hành_vi vi_phạm theo quy_định của pháp_luật . 
+
+3 . Vụ Kiểm_toán nội_bộ có trách_nhiệm thực_hiện kiểm_toán nội_bộ việc thi_hành Thông_tư này đối_với các đơn_vị thuộc Ngân_hàng Nhà_nước Việt_Nam . 
+
+4 . Thủ_trưởng các đơn_vị liên_quan thuộc Ngân_hàng Nhà_nước Việt_Nam ;  Giám_đốc Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc trung_ương ;  Chủ_tịch Hội_đồng quản_trị , Tổng_giám_đốc ( Giám_đốc ) các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài có trách_nhiệm tổ_chức triển_khai và kiểm_tra việc thi_hành tại đơn_vị mình theo đúng các quy_định của Thông_tư này ./. 

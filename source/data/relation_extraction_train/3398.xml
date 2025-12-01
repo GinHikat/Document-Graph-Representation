@@ -1,0 +1,403 @@
+Thông tư Sửa đổỉ, bổ sung Chế độ kế toán Quỹ dịch vụ viễn thông công ích Việt Nam ban hành kèm theo Quyết định số 74/2007/QĐ-BTC ngày 21/8/2007 của Bộ trưởng Bộ Tài chính
+
+Căn_cứ <L rel="Pursuant"> Luật Kế_toán số 03/2003/QH11 ngày 17/06/2003 </L> ;
+Căn_cứ <L rel="Pursuant"> Luật Viễn_thông_số 41/2009/QH12 ngày 4/12/2009 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 118/2008/NĐ-CP ngày 27/11/2008 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+Căn_cứ <QĐ rel="Pursuant"> Quyết_định số 191/2004/QĐ-TTg ngày 08/11/2004 </QĐ> của Thủ_tướng Chính_phủ về thành_lập , tổ_chức và hoạt_động của Quỹ dịch_vụ viễn_thông công_ích Việt_Nam ;
+Căn_cứ <QĐ rel="Pursuant"> Quyết_định số 186/2007/QĐ-TTg ngày 03/12/2007 </QĐ> của Thủ_tướng Chính_phủ về việc sửa_đổi <QĐ rel="Others"> Quyết_định số 191/2004/QĐ-TTg </QĐ> của Thủ_tướng Chính_phủ về thành_lập , tổ_chức và hoạt_động của Quỹ dịch_vụ viễn_thông công_ích Việt_Nam .
+Điều 1 .  Phạm_vi và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định một_số Tài_khoản , mẫu Báo_cáo tài_chính áp_dụng riêng cho Quỹ dịch_vụ viễn_thông công_ích Việt_Nam ( dưới đây gọi là Quỹ ) . 
+
+2 . Những nội_dung kế_toán không hướng_dẫn trong Thông_tư này , Quỹ dịch_vụ viễn_thông công_ích Việt_Nam thực_hiện theo Chế_độ kế_toán ban_hành kèm theo <QĐ rel="Reference"> Quyết_định số 74/2007/QĐ-BTC ngày 21/8/2007 </QĐ> của Bộ_trưởng Bộ Tài_chính về việc ban_hành Chế_độ Kế_toán áp_dụng cho Quỹ dịch_vụ viễn_thông công_ích Việt_Nam ( dưới đây gọi là <QĐ rel="Reference"> Quyết_định số 74/2007/QĐ-BTC </QĐ> ) và các <TT rel="Reference"> Thông_tư hướng_dẫn thực_hiện chuẩn_mực kế_toán </TT> .
+Điều 2 .  Quy_định áp_dụng hệ_thống tài_khoản kế_toán 
+
+1 . Sửa_đổi tên và số_hiệu một_số Tài_khoản kế_toán 
+
+- Sửa_đổi số hiệu Tài_khoản 25112 , 25122 – “ Nợ dưới tiêu_chuẩn ” thành Tài_khoản 25113 , 25123 – “ Nợ dưới tiêu_chuẩn ” . 
+
+- Sửa_đổi số hiệu Tài_khoản 25113 , 25123 – “ Nợ nghi_ngờ ” thành Tài_khoản 25114 , 25124 – “ Nợ nghi_ngờ ” . 
+
+- Sửa_đổi số hiệu Tài_khoản 25114 , 25124 – “ Nợ có khả_năng mất vốn ” thành Tài_khoản 25115 , 25125 – “ Nợ có khả_năng mất vốn ” . 
+
+- Sửa_đổi tên và số hiệu Tài_khoản 359 – “ Quỹ dự_phòng rủi_ro cho vay ” thành Tài_khoản 259 – “ Dự_phòng rủi_ro cho vay ” 
+
+- Sửa_đổi tên và số hiệu Tài_khoản 353 – “ Quỹ hỗ_trợ dịch_vụ viễn_thông công_ích ” thành Tài_khoản 372 – “ Quỹ hỗ_trợ dịch_vụ công_ích ” và bỏ 2 Tài_khoản cấp 2 của Tài_khoản này , như sau : 
+
++ Bỏ Tài_khoản 3531 – “ Quỹ hỗ_trợ dịch_vụ phổ_cập ” ; 
+
++ Bỏ Tài_khoản 3532 – “ Quỹ hỗ_trợ dịch_vụ bắt_buộc ” . 
+
+- Sửa_đổi số hiệu Tài_khoản 431 – “ Quỹ khen_thưởng , phúc_lợi ” thành Tài_khoản 353-“ Quỹ khen_thưởng , phúc_lợi ” .  Tài_khoản 353 có 3 tài_khoản cấp 2 sau : 
+
++ Đổi số hiệu tài_khoản 4311 – “ Quỹ khen_thưởng ” thành_tài_khoản 3531 – “ Quỹ khen_thưởng ” ; 
+
++ Đổi số hiệu tài_khoản 4312 – “ Quỹ phúc_lợi ” thành_tài_khoản 3532 – “ Quỹ phúc_lợi ” ; 
+
++ Đổi số hiệu tài_khoản 4313 – “ Quỹ phúc_lợi đã hình_thành TSCĐ ” thành_tài_khoản 3533 – “ Quỹ phúc_lợi đã hình_thành TSCĐ ” ; 
+
+- Sửa_đổi tên và số hiệu Tài_khoản 005 – “ Mức vốn cấp hỗ_trợ ” thành Tài_khoản 020 – “ Vốn cấp hỗ_trợ ” 
+
+- Sửa_đổi số hiệu Tài_khoản 006-“ Mức vốn cho vay ” thành Tài_khoản 025 “ Mức vốn cho vay ” . 
+
+2 . Bổ_sung một_số Tài_khoản kế_toán 
+
+- Tài_khoản 128 “ Đầu_tư ngắn_hạn khác ” và 2 tài_khoản cấp 2 , như sau : 
+
++ Tài_khoản 1281 – “ Tiền gửi có kỳ_hạn ” ; 
+
++ Tài_khoản 1288 – “ Đầu_tư ngắn_hạn khác ” . 
+
+- Bổ_sung Tài_khoản 25112 , 25122 – “ Nợ cần chú_ý ” . 
+
+- Bổ_sung 2 Tài_khoản cấp 3 của Tài_khoản 3388 “ Phải trả , phải nộp khác ” : 
+
++ Tài_khoản 33881 – “ Tiền thu từ bán tài_sản thế_chấp , cầm_cố của khách_hàng ” ; 
+
++ Tài_khoản 33888 – “ Phải trả , phải nộp khác ” . 
+
+- Bổ_sung Tài_khoản 3389 – “ Bảo_hiểm_thất_nghiệp ” . 
+
+- Bổ_sung Tài_khoản 005 – “ Tài_sản thế_chấp , cầm_cố của khách_hàng ” . 
+
+- Bổ_sung Tài_khoản 021 – “ Vốn cấp hỗ_trợ chờ quyết_toán ” . 
+
+- Bổ_sung Tài_khoản 026 – “ Lãi cho vay và phí phải thu chưa thu được ” . 
+
+3 . Không sử_dụng Tài_khoản kế_toán 
+
+- Bỏ Tài_khoản 315 – “ Nợ dài_hạn đến hạn trả ” . 
+
+Danh_mục Hệ_thống Tài_khoản kế_toán áp_dụng cho Quỹ dịch_vụ viễn_thông công_ích Việt_Nam sau khi sửa_đổi , bổ_sung như sau ( Xem phụ_lục 01 ) . 
+
+Điều 3 .  Kế_toán đầu_tư ngắn_hạn khác 
+
+1 . Khi dùng tiền_mặt , tiền gửi Ngân_hàng , … để đầu_tư ngắn_hạn , ghi : 
+
+Nợ TK 128 – Đầu_tư ngắn_hạn khác ( 1281 , 1288 ) 
+
+Có các TK 111 , 112 , … 
+
+2 . Khi phát_sinh các khoản thu lãi tiền gửi và các khoản đầu_tư ngắn_hạn khác , ghi : 
+
+Nợ TK 111 – Tiền_mặt 
+
+Nợ TK 112 – Tiền gửi Ngân_hàng , Kho_bạc 
+
+Nợ TK 138 – Phải thu khác 
+
+Có TK 511 – Thu_nhập từ hoạt_động nghiệp_vụ ( 5112 , 5118 ) . 
+
+3 . Khi thu được tiền các khoản tiền lãi phải thu , ghi : 
+
+Nợ các TK 111 , 112 , … 
+
+Có TK 138 – Phải thu khác . 
+
+4 . Khi thu_hồi các khoản đầu_tư ngắn_hạn khác , ghi : 
+
+Nợ các TK 111 , 112 , 211 , … .  . 
+
+Nợ TK 631 – Chi_phí hoạt_động nghiệp_vụ ( Trường_hợp lỗ ) 
+
+Có TK 128 – Đầu_tư ngắn_hạn khác ( Giá_vốn ) ( 1281 , 1288 ) 
+
+Có TK 511 – Thu_nhập từ hoạt_động nghiệp_vụ ( Trường_hợp lãi ) . 
+
+Điều 4 .  Hướng_dẫn kế_toán chuyển nhóm nợ cho vay 
+
+1 . Trường_hợp khi đến hạn trả nợ vay trung_hạn , dài_hạn nhưng đơn_vị vay chưa có khả_năng trả nợ , nếu không được quỹ cho gia_hạn trả thì kế_toán phải lập phiếu để chuyển nợ vay từ Nợ đủ tiêu_chuẩn sang Nợ cần chú_ý , ghi : 
+
+Nợ TK 25112 – Nợ cần chú_ý , hoặc 
+
+Nợ TK 25122 – Nợ cần chú_ý 
+
+Có TK 25111 – Nợ đủ tiêu_chuẩn , hoặc 
+
+Có TK 25121 – Nợ đủ tiêu_chuẩn . 
+
+2 . Trường_hợp chuyển từ Nợ cần chú_ý sang Nợ dưới tiêu_chuẩn , từ Nợ dưới tiêu_chuẩn sang Nợ nghi_ngờ , và từ Nợ nghi_ngờ sang Nợ có khả_năng mất vốn phải có chứng_cứ và phải có biên_bản xử_lý của cấp có thẩm_quyền trên cơ_sở các quy_định liên_quan của Ngân_hàng Nhà_nước hiện_hành .  Căn_cứ vào biên_bản xử_lý để kế_toán ghi sổ : 
+
+- Khi chuyển từ Nợ cần chú_ý sang Nợ dưới tiêu_chuẩn , ghi : 
+
+Nợ TK 25113 – Nợ dưới tiêu_chuẩn , hoặc 
+
+Nợ TK 25123 – Nợ dưới tiêu_chuẩn 
+
+Có TK 25112 – Nợ cần chú_ý , hoặc 
+
+Có TK 25122 – Nợ cần chú_ý . 
+
+- Khi chuyển từ Nợ dưới tiêu_chuẩn sang Nợ nghi_ngờ , ghi : 
+
+Nợ TK 25114 – Nợ nghi_ngờ , hoặc 
+
+Nợ TK 25124 – Nợ nghi_ngờ 
+
+Có TK 25113 – Nợ dưới tiêu_chuẩn , hoặc 
+
+Có TK 25123 – Nợ dưới tiêu_chuẩn . 
+
+- Khi chuyển từ Nợ nghi_ngờ sang Nợ có khả_năng mất vốn , ghi : 
+
+Nợ TK 25115 – Nợ có khả_năng mất vốn , hoặc 
+
+Nợ TK 25125 – Nợ có khả_năng mất vốn 
+
+Có TK 25114 – Nợ nghi_ngờ , hoặc 
+
+Có TK 25124 – Nợ nghi_ngờ 
+
+Điều 5 .  Kế_toán Dự_phòng rủi_ro cho vay 
+
+Kết_cấu , nội_dung phản_ánh và phương_pháp hạch_toán kế_toán của TK 259 – “ Dự_phòng rủi_ro cho vay ” không thay_đổi so với TK 359 – “ Quỹ dự_phòng rủi_ro cho vay ” quy_định tại <QĐ rel="Reference"> Quyết_định số 74/2007/QĐ-BTC </QĐ> .
+Điều 6 .  Kế_toán Bảo_hiểm_thất_nghiệp 
+
+1 . Định_kỳ trích bảo_hiểm_thất_nghiệp vào chi_phí quản_lý , ghi : 
+
+Nợ TK 642 – Chi_phí quản_lý 
+
+Có TK 338 – Phải trả , phải nộp khác ( 3389 ) . 
+
+2 . Tính số tiền bảo_hiểm_thất_nghiệp mà công_nhân_viên phải nộp trừ vào lương của công_nhân_viên , ghi : 
+
+Nợ TK 334 – Phải trả người lao_động 
+
+3 . Khi nộp bảo_hiểm_thất_nghiệp cho cơ_quan quản_lý quỹ bảo_hiểm_thất_nghiệp , ghi : 
+
+Nợ TK 338 – Phải trả , phải nộp khác ( 3389 ) 
+
+Có các TK 111 , 112 . 
+
+Điều 7 .  Kế_toán Quỹ khen_thưởng , phúc_lợi 
+
+Kết_cấu , nội_dung phản_ánh và phương_pháp hạch_toán của tài_khoản 3531 , 3532 , 3533 không thay_đổi so với tài_khoản 431 ( 4311 , 4312 , 4313 ) quy_định tại <QĐ rel="Reference"> Quyết_định số 74/2007/QĐ-BTC ngày 21/8/2007 </QĐ> của Bộ_trưởng Bộ Tài_chính .
+Điều 8 .  Kế_toán chi_phí nhân_viên 
+
+Sửa nội_dung Tài_khoản 6421 – Chi_phí nhân_viên như sau : 
+
+Tài_khoản này phản_ánh các khoản phải trả cho cán_bộ nhân_viên như : tiền_lương , các khoản phụ_cấp và các khoản trích nộp theo lương được tính vào chi_phí , gồm : bảo_hiểm_xã_hội , bảo_hiểm_y_tế , bảo_hiểm_thất_nghiệp , kinh_phí công_đoàn của Ban giám_đốc , nhân_viên của Quỹ dịch_vụ viễn_thông công_ích . 
+
+Điều 9 .  Kế_toán vốn cấp hỗ_trợ 
+
+1 . Khi xác_định được mức vốn cấp hỗ_trợ cho doanh_nghiệp , kế_toán ghi đơn bên Nợ TK 020 – Vốn cấp hỗ_trợ ( Tài_khoản ngoài Bảng Cân_đối kế_toán ) . 
+
+2 . Khi Quỹ chi tiền cấp_vốn hỗ_trợ cho các doanh_nghiệp để thực_hiện duy_trì , phát_triển cung_ứng dịch_vụ viễn_thông công_ích và các nhiệm_vụ khác theo quy_định , kế_toán ghi : 
+
+Nợ TK 372 – Quỹ hỗ_trợ dịch_vụ công_ích 
+
+Đồng_thời , ghi đơn bên Có TK 020 – Vốn cấp hỗ_trợ . 
+
+3 . Kho_Quỹ hoàn_thành thủ_tục quyết_toán , căn_cứ vào thông_báo quyết_toán để ghi sổ kế_toán như sau : 
+
+3.1 .  Trường_hợp mức tiền được cấp lớn hơn số tiền được quyết_toán , số tiền chênh_lệch ghi Có TK 020 – Vốn cấp hỗ_trợ . 
+
+3.2 .  Trường_hợp_số tiền đã cấp lớn hơn số tiền được quyết_toán : 
+
+- Khi thu_hồi được tiền chênh_lệch giữa số tiền đã cấp lớn hơn số quyết_toán , ghi : 
+
+Nợ các TK 111 , 112 
+
+Có TK 372 – Quỹ hỗ_trợ dịch_vụ công_ích 
+
+- Đồng_thời , ghi đơn bên Nợ TK 020 – Vốn cấp hỗ_trợ ( Số tiền thu_hồi ) . 
+
+Điều 10 .  Kế_toán vốn cấp hỗ_trợ chờ quyết_toán 
+
+1 . Cuối năm , khi khóa sổ kế_toán , nếu số đã cấp tạm_ứng chưa được quyết_toán , kế_toán phản_ánh số vốn đã cấp , đã tạm_ứng cho các doanh_nghiệp chưa được quyết_toán vào bên Nợ TK 021 – Vốn cấp hỗ_trợ chờ quyết_toán ( Tài_khoản ngoài bảng Cân_đối kế_toán ) . 
+
+2 . Khi Quỹ đã hoàn_thành thủ_tục quyết_toán ra thông_báo cho doanh_nghiệp , kế_toán căn_cứ vào biên_bản quyết_toán để phản_ánh số được quyết_toán , ghi đơn bên Có TK 021 – Vốn cấp hỗ_trợ chờ quyết_toán ( Số vốn được quyết_toán ) . 
+
+2.1 .  Nếu số quyết_toán lớn hơn ( > ) số đã cấp : 
+
+- Khi Quỹ chi tiền cấp bổ_sung cho doanh_nghiệp , ghi : 
+
+- Đồng_thời , ghi đơn bên Nợ TK 021 – Vốn cấp hỗ_trợ chờ quyết_toán ( Số vốn cấp bổ_sung ) ( Tài_khoản ngoài Bảng Cân_đối kế_toán ) . 
+
+2.2 .  Nếu số quyết_toán nhỏ hơn ( < ) số đã cấp : 
+
+- Khi Quỹ thu_hồi được tiền về , ghi : 
+
+. 
+
+Đồng_thời , ghi đơn bên Có TK 021 – Vốn cấp hỗ_trợ chờ quyết_toán ( Số tiền thu_hồi ) ( Tài_khoản ngoài Bảng Cân_đối kế_toán ) . 
+
+Điều 11 .  Sửa_đổi phần thứ hai – Hệ_thống báo_cáo tài_chính 
+
+1 . Bảng Cân_đối kế_toán – Mẫu_số B01 – VTF ( Phụ_lục số 03 ) 
+
+1.1 .  Các chỉ_tiêu trong Bảng Cân_đối kế_toán 
+
+- Sửa_đổi cơ_sở lấy số_liệu để lập chỉ_tiêu “ Các khoản tương_đương tiền ” – Mã_số 112 .  Số_liệu để ghi vào chỉ_tiêu này là số dư Nợ chi_tiết của Tài_khoản 121 “ Đầu_tư tài_chính ngắn_hạn ” trên sổ chi_tiết Tài_khoản 121 và số dư Nợ chi_tiết của Tài_khoản 128 “ Đầu_tư ngắn_hạn khác ” trên sổ chi_tiết Tài_khoản 128 của các khoản đầu_tư tài_chính có thời_hạn thu_hồi hoặc đáo_hạn không quá 3 tháng_ít rủi_ro và dễ chuyển thành 1 khoản tiền nhất_định kể từ ngày mua ; 
+
+- Sửa_đổi chỉ_tiêu “ Người mua trả tiền trước ” – Mã_số 313 trên Bảng Cân_đối kế_toán .  Chỉ_tiêu người mua trả tiền trước phản_ánh tổng_số tiền người mua ứng trước để mua dịch_vụ tại thời_điểm báo_cáo .  Chỉ_tiêu này không phản_ánh các khoản doanh_thu chưa thực_hiện ( gồm cả doanh_thu_nhận trước ) .  Số_liệu để ghi vào chỉ_tiêu “ Người mua trả tiền trước ” là số_dư Có chi_tiết của tài_khoản 131 – “ Phải thu của khách_hàng ” mở cho từng khách_hàng trên sổ kế_toán chi_tiết TK 131 ; 
+
+- Đổi mã_số chỉ_tiêu “ Quỹ khen_thưởng , phúc_lợi ” – Mã_số 431 trên Bảng Cân_đối kế_toán thành Mã_số 323 trên Bảng Cân_đối kế_toán .  Số_liệu để ghi vào chỉ_tiêu “ Quỹ khen_thưởng , phúc_lợi ” là số_dư Có của tài_khoản 353 – “ Quỹ khen_thưởng , phúc_lợi ” trên Sổ kế_toán TK 353 ; 
+
+- Sửa_đổi lại tên và mã_số chỉ_tiêu “ Quỹ hỗ_trợ dịch_vụ viễn_thông công_ích ” – Mã_số 338 trên Bảng Cân_đối kế_toán thành “ Quỹ hỗ_trợ dịch_vụ công_ích ” Mã_số 349 trên Bảng Cân_đối kế_toán .  Số_liệu để ghi vào chỉ_tiêu “ Quỹ hỗ_trợ dịch_vụ công_ích ” là số_dư Có_của TK 372 “ Quỹ hỗ_trợ dịch_vụ công_ích ” trên Sổ kế_toán TK 372 ; 
+
+- Đổi mã_số chỉ_tiêu “ Dự_phòng rủi_ro cho vay ” – Mã_số 339 trên Bảng Cân_đối kế_toán thành Mã_số 264 trên Bảng Cân_đối kế_toán .  Số_liệu chỉ_tiêu này được ghi bằng số_âm dưới hình_thức ghi trong ngoặc_đơn ( … ) .  Số_liệu để ghi vào chỉ_tiêu “ Dự_phòng rủi_ro cho vay ” là số_dư Có_của TK 259 “ Dự_phòng rủi_ro cho vay ” trên Sổ kế_toán TK 259 ; 
+
+- Bổ_sung chỉ_tiêu “ Doanh_thu chưa thực_hiện ngắn_hạn ” – Mã_số 328 trên Bảng Cân_đối kế_toán .  Chỉ_tiêu này phản_ánh các khoản doanh_thu chưa thực_hiện ngắn_hạn tại thời_điểm báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Doanh_thu chưa thực_hiện ngắn_hạn ” là số_dư Có của tài_khoản 3387 – “ Doanh_thu chưa thực_hiện ” trên sổ kế_toán chi_tiết TK 3387 ( Chi_tiết doanh_thu chưa thực_hiện ngắn_hạn ) ; 
+
+- Bổ_sung chỉ_tiêu “ Doanh_thu chưa thực_hiện dài_hạn ” – Mã_số 338 trên Bảng Cân_đối kế_toán .  Chỉ_tiêu này phản_ánh các khoản doanh_thu chưa thực_hiện dài_hạn tại thời_điểm báo_cáo .  Số_liệu để ghi vào chỉ_tiêu “ Doanh_thu chưa thực_hiện ” là số_dư Có của tài_khoản 3387 – “ Doanh_thu chưa thực_hiện ” trên sổ kế_toán chi_tiết TK 3387 ( Chi_tiết doanh_thu chưa thực_hiện dài_hạn ) . 
+
+1.2 .  Các chỉ_tiêu ngoài Bảng Cân_đối kế_toán 
+
+- Sửa_đổi lại tên và số_hiệu chỉ_tiêu ngoài bảng Cân_đối kế_toán : chỉ_tiêu số 5 – “ Mức vốn cấp hỗ_trợ ” thành chỉ_tiêu số 8 – “ Vốn cấp hỗ_trợ ” . 
+
+- Sửa_đổi lại số_hiệu chỉ_tiêu ngoài bảng Cân_đối kế_toán : chỉ_tiêu số 6 – “ Mức vốn cho vay ” thành chỉ_tiêu số 10 . 
+
+- Sửa_đổi lại số_hiệu chỉ_tiêu ngoài bảng Cân_đối kế_toán : chỉ_tiêu số 7 – “ Ngoại_tệ các loại ” thành chỉ_tiêu số 6 . 
+
+- Sửa_đổi lại số_hiệu chỉ_tiêu ngoài bảng Cân_đối kế_toán : chỉ_tiêu số 8 – “ Dự_toán chi sự_nghiệp , dự_án ” thành chỉ_tiêu số 7 . 
+
+- Bổ_sung chỉ_tiêu ngoài Bảng cân_đối kế_toán : Chỉ_tiêu số 5 – “ Tài_sản thế_chấp , cầm_cố của khách_hàng ” . 
+
+- Bổ_sung chỉ_tiêu ngoài Bảng cân_đối kế_toán : Chỉ_tiêu số 9 – “ Vốn cấp hỗ_trợ chờ quyết_toán ” . 
+
+- Bổ_sung chỉ_tiêu ngoài Bảng cân_đối kế_toán : Chỉ_tiêu số 11 – “ Lãi cho vay và phí phải thu chưa thu được ” . 
+
+2 . Bổ_sung “ Báo_cáo tình_hình sử_dụng Quỹ hỗ_trợ dịch_vụ công_ích ” – Mẫu_số B06 – VTF ( Phụ_lục số 02 ) 
+
+2.1 .  Mục_đích của Báo_cáo tình_hình sử_dụng Quỹ hỗ_trợ dịch_vụ công_ích 
+
+Báo_cáo tình_hình sử_dụng Quỹ hỗ_trợ dịch_vụ công_ích là báo_cáo tổng_hợp tình_hình tăng , giảm Quỹ hỗ_trợ dịch_vụ công_ích và đồng_thời chi_tiết số phải cấp năm nay và số còn phải cấp năm trước , số phải thu_hồi , số thực cấp tạm_ứng , số đã quyết_toán , số chưa quyết_toán và số còn phải cấp .  Báo_cáo gồm có 2 phần : 
+
+- Phần A : Tổng_hợp tăng , giảm Quỹ hỗ_trợ dịch_vụ công_ích : Phản_ánh số_dư đầu kỳ , số tăng ( thu ) trong kỳ , số giảm ( chi ) đã cấp trong kỳ và số_dư cuối kỳ của Quỹ ; 
+
+- Phần B : Chi_tiết tình_hình tạm_ứng , quyết_toán Quỹ hỗ_trợ dịch_vụ công_ích : Phản_ánh số kinh_phí hỗ_trợ phải cấp , số thực cấp tạm_ứng , số phải thu_hồi , số đã quyết_toán , số đã cấp chưa quyết_toán và số còn phải cấp cho các đơn_vị được cấp hỗ_trợ . 
+
+2.2 .  Cơ_sở lập báo_cáo tình_hình sử_dụng Quỹ hỗ_trợ dịch_vụ công_ích 
+
+- Căn_cứ vào Báo_cáo tình_hình sử_dụng Quỹ hỗ_trợ dịch_vụ công_ích của năm trước ; 
+
+- Căn_cứ vào_sổ kế_toán tổng_hợp và sổ kế_toán chi_tiết trong kỳ của tài_khoản 372 – “ Quỹ hỗ_trợ dịch_vụ công_ích ” , TK 020 – “ Vốn cấp hỗ_trợ ” và TK 021 – “ Vốn cấp hỗ_trợ chờ quyết_toán ” . 
+
+2.3 .  Nội_dung và phương_pháp lập 
+
+Phần_A – “ Tổng_hợp tăng , giảm Quỹ hỗ_trợ dịch_vụ công_ích ” , gồm có 4 cột : 
+
+- Cột A – “ Chỉ_tiêu ” : Phản_ánh số_dư đầu kỳ , số tăng ( thu ) trong kỳ , số giảm ( chi ) trong kỳ và số_dư cuối kỳ của Quỹ hỗ_trợ dịch_vụ công_ích ; 
+
+- Cột B – “ Mã_số ” : Phản_ánh mã_số từ 01 đến 04 tương_ứng với các chỉ_tiêu ở cột A ; 
+
+- Cột 1 – “ Kỳ này ” : Phản_ánh số phát_sinh tăng , giảm của Quỹ hỗ_trợ dịch_vụ công_ích trong kỳ này ;  Số_liệu để ghi vào cột này được lấy theo từng chỉ_tiêu ở Cột A .  Cụ_thể : 
+
++ Chỉ_tiêu “ Số_dư đầu kỳ ” số_liệu được ghi vào cột này bằng cách lấy số_dư có đầu kỳ của TK 372 – “ Quỹ hỗ_trợ dịch_vụ công_ích ” trên sổ cái TK 372 ; 
+
++ Chỉ_tiêu “ Số tăng ( thu ) trong kỳ ” ( Mã_số 02 ) số_liệu được ghi vào cột này bằng cách lấy tổng_số phát_sinh trong kỳ bên Có Tài_khoản 372 “ Quỹ hỗ_trợ dịch_vụ công_ích ” trên sổ cái TK 372 ; 
+
++ Chỉ_tiêu “ Số giảm ( chi ) trong kỳ ” ( Mã_số 03 ) số_liệu được ghi vào cột này bằng cách lấy tổng_số phát_sinh trong kỳ bên Nợ Tài_khoản 372 “ Quỹ hỗ_trợ dịch_vụ công_ích ” trên sổ cái TK 372 ;  và 
+
++ Chỉ_tiêu “ Số_dư cuối kỳ ” ( Mã_số 04 ) số_liệu được ghi vào cột này bằng cách lấy số_dư Có cuối kỳ báo_cáo của TK 372 – “ Quỹ hỗ_trợ dịch_vụ công_ích ” trên sổ cái TK 372 hoặc Mã_số 04 ( Cột 2 ) = Mã_số 01 ( Cột 2 ) + Mã_số 02 ( Cột 2 ) – Mã_số 03 ( Cột 2 ) ; 
+
+- Cột 2 – “ Lũy_kế đến cuối kỳ này ” : Phản_ánh số lũy kế từ đầu năm đến cuối kỳ báo_cáo của Quỹ hỗ_trợ dịch_vụ công_ích .  Số_liệu để ghi vào cột này được lấy theo từng chỉ_tiêu ở Cột A , như sau : 
+
++ Chỉ_tiêu “ Số_dư đầu kỳ ” ( Mã_số 01 ) = Mã_số 01 của cột 1 báo_cáo kỳ này ; 
+
++ Chỉ_tiêu “ Số tăng ( thu ) trong kỳ ” ( Mã_số 02 ) = Mã_số 02 của cột 1 báo_cáo kỳ này cộng ( + ) Mã_số 02 của cột 2 báo_cáo này kỳ trước ; 
+
++ Chỉ_tiêu “ Số giảm ( chi ) trong kỳ ” ( Mã_số 03 ) = Mã_số 03 của cột 1 báo_cáo kỳ này cộng ( + ) Mã_số 03 của cột 2 báo_cáo này kỳ trước ; 
+
++ Chỉ_tiêu “ Số_dư cuối kỳ ” ( Mã_số 04 ) = Mã_số 04 của cột 1 báo_cáo kỳ này hoặc được tính như sau : 
+
+Mã_số 04 = Mã_số 01 + Mã_số 02-Mã_số 03 . 
+
+Phần B – “ Chi_tiết tình_hình tạm_ứng , quyết_toán Quỹ hỗ_trợ dịch_vụ công_ích ” , Gồm : 
+
+- Cột A : Phản_ánh tên doanh_nghiệp được cấp hỗ_trợ ; 
+
+- Cột 1 : Phản_ánh Mức được cấp cho các doanh_nghiệp theo số kế_hoạch được phê_duyệt hoặc số đặt_hàng , số trúng_thầu năm nay .  Cột này được ghi căn_cứ vào số phát_sinh trong kỳ bên Nợ của TK 020 , chi_tiết phần mức được cấp cho các doanh_nghiệp ; 
+
+- Cột 2 : Phản_ánh Mức được cấp của năm trước chưa cấp chuyển sang năm nay cấp tiếp .  Số_liệu để ghi vào cột này được căn_cứ vào số dư Nợ cuối kỳ năm trước của TK 020 “ Vốn cấp hỗ_trợ ” trên sổ chi_tiết TK 020 , chi_tiết phần còn phải cấp năm trước , hoặc căn_cứ vào số_liệu ghi ở cột 13 của báo_cáo này cuối năm trước ; 
+
+- Cột 3 : Phản_ánh tổng_số phải cấp , gồm : số phải cấp năm nay và số phải cấp năm trước còn lại chưa cấp ( Cột 3 = Cột 1 + Cột 2 ) ; 
+
+- Cột 4 , 5 , 6 , 7 : Phản_ánh số thực cấp tạm_ứng phát_sinh trong kỳ báo_cáo và số lũy kế từ khi cấp cho doanh_nghiệp chưa được quyết_toán đến cuối kỳ báo_cáo ; 
+
++ Cột 4 : Phản_ánh số đã thực cấp cho mức cấp năm trước phát_sinh trong kỳ báo_cáo .  Số_liệu để ghi vào cột này được căn_cứ vào số phát_sinh bên Có TK 020 – “ Vốn cấp hỗ_trợ ” ( Chi_tiết số thực cấp của mức cấp năm trước trên sổ chi_tiết TK 020 ) ; 
+
++ Cột 5 : Phản_ánh số đã thực cấp của mức cấp năm nay phát_sinh trong kỳ báo_cáo .  Số_liệu để ghi vào cột này được căn_cứ vào số phát_sinh bên Có TK 020 trên sổ chi_tiết TK 020 – “ Vốn cấp hỗ_trợ ” ( Chi_tiết số cấp cho mức cấp năm nay ) ; 
+
++ Cột 6 = Cột 4 + Cột 5 ; 
+
++ Cột 7 : Phản_ánh số thực cấp lũy kế từ khi bắt_đầu cấp cho đơn_vị chưa được quyết_toán cho đến cuối kỳ báo_cáo . 
+
+Số_liệu để phản_ánh vào cột này bằng số_liệu của cột này của báo_cáo này kỳ trước cộng ( + ) số_liệu cột 6 của báo_cáo này kỳ này . 
+
+- Cột 8 , 9 : Phản_ánh số vốn đã quyết_toán của năm nay và lũy kế số đã quyết_toán cho đến cuối kỳ báo_cáo .  Căn_cứ để ghi là biên_bản quyết_toán và số phát_sinh bên Có TK 021 trên sổ chi_tiết TK 021 – “ Vốn cấp hỗ_trợ chờ quyết_toán ( Chi_tiết số đã quyết_toán năm nay và lũy kế ) ; 
+
+- Cột 10 , 11 : Phản_ánh số vốn đã cấp phải thu_hồi của năm nay và lũy kế .  Cơ_sở số_liệu để ghi vào cột 10 là biên_bản quyết_toán vốn cấp và số phát_sinh trên sổ chi_tiết TK 021 – “ Vốn cấp hỗ_trợ quyết_toán ” ( Chi_tiết số phải thu_hồi năm nay ) .  Số_liệu để ghi vào cột 11 được căn_cứ vào số_liệu ghi ở cột 11 của báo_cáo này kỳ trước cộng ( + ) số_liệu ghi ở cột 10 của báo_cáo này kỳ này ; 
+
+- Cột 12 : Phản_ánh số đã cấp chưa quyết_toán .  Số_liệu để ghi vào cột 12 được căn_cứ vào số_dư bên Nợ TK 021 “ Vốn cấp hỗ_trợ chờ quyết_toán ” ( Chi_tiết số vốn đã cấp chưa quyết_toán ) ; 
+
+- Cột 13 : Phản_ánh số vốn còn phải cấp .  Căn_cứ để ghi là số_dư bên Nợ TK 020 “ Vốn cấp hỗ_trợ ” ( Chi_tiết số vốn còn phải cấp ) . 
+
+3 . Thuyết_minh báo_cáo tài_chính – Mẫu_số B09-VTF ( Phụ_lục số 04 ) 
+
+3.1 .  Bổ_sung , sửa_đổi một_số nội_dung tại khoản 3 “ Các khoản đầu_tư tài_chính ngắn_hạn ” – mục V – “ Thuyết_minh báo_cáo tài_chính ” – Mẫu_số B09 – VTF như sau : 
+
+“ 3 – Các khoản đầu_tư tài_chính ngắn_hạn 
+
+Chỉ_tiêu 
+
+Cuối năm 
+
+Đầu năm 
+
+Số_lượng 
+
+Giá_trị 
+
+- Trái_phiếu Chính_phủ_đầu_tư ngắn_hạn ( Tổng_số và chi_tiết cho từng loại trái_phiếu Chính_phủ bị giảm_giá ) 
+
+- 
+
+Tín_phiếu Kho_bạc_đầu_tư ngắn_hạn ( Tổng_số và chi_tiết cho từng loại tín_phiếu Kho_bạc bị giảm_giá ) 
+
+Đầu_tư ngắn_hạn khác ( Tổng_số và chi_tiết cho từng danh_mục đầu_tư ) 
+
+3.2 .  Bỏ điểm 7 – mục V – Thuyết_minh báo_cáo tài_chính : “ Báo_cáo tình_hình cấp kinh_phí hỗ_trợ phát_triển và duy_trì dịch_vụ viễn_thông công_ích ” và thay bằng nội_dung “ Tình_hình sử_dụng kết_quả hoạt_động sau thuế_thu_nhập doanh_nghiệp ” : 
+
+Tình_hình sử_dụng kết_quả hoạt_động sau thuế_thu_nhập doanh_nghiệp 
+
+Đơn_vị tính : 
+
+Năm_nay 
+
+Năm trước 
+
+Kỳ này 
+
+Lũy_kế đến cuối kỳ này 
+
+A 
+
+1 
+
+2 
+
+3 
+
+4 
+
+. Lợi_nhuận chưa sử_dụng năm trước chuyển sang 
+
+. Lợi_nhuận phát_sinh năm báo_cáo 
+
+. Số lợi_nhuận phân_phối trong năm báo_cáo : 
+
+Trích quỹ Khen_thưởng , phúc_lợi 
+
+Trích quỹ Đầu_tư phát_triển 
+
+Trích quỹ khác 
+
+. Lợi_nhuận chưa sử_dụng đến cuối năm báo_cáo ( = 1 + 2 – 3 ) 
+
+Điều 12 .  Hiệu_lực thi_hành và tổ_chức thực_hiện : 
+
+. Thông_tư này có hiệu_lực thi_hành kể từ ngày 0/0/20 . 
+
+. Vụ_trưởng Vụ Chế_độ Kế_toán và Kiểm_toán , Giám_đốc Quỹ dịch_vụ viễn_thông công_ích Việt_Nam và Thủ_trưởng các đơn_vị có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này ./. 

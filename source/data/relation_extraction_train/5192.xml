@@ -1,0 +1,939 @@
+Thông tư Quy định về bay kiểm tra, hiệu chuẩn hệ thống,
+
+thiết bị dẫn đường, giám sát và bay đánh giá phương thức bay
+
+bằng thiết bị trong lĩnh vực hàng không dân dụng
+
+Căn_cứ <L rel="Pursuant"> Luật Hàng_không dân_dụng Việt_Nam ngày 29 tháng 6 năm 2006 </L> ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+Căn_cứ <NĐ rel="Pursuant"> Nghị_định số 94/2007/NĐ-CP ngày 04 tháng 5 năm 2007 </NĐ> của Chính_phủ về quản_lý hoạt_động bay ;
+Điều 1 .  Phạm_vi điều_chỉnh và đối_tượng áp_dụng 
+
+1 . Thông_tư này quy_định về : 
+
+a ) Bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường , giám_sát ; 
+
+b ) Bay đánh_giá phương_thức bay bằng thiết_bị ; 
+
+c ) Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường , giám_sát ; 
+
+d ) Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá phương_thức bay bằng thiết_bị . 
+
+2 . Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân Việt_Nam và tổ_chức , cá_nhân nước_ngoài có liên_quan đến bay kiểm_tra hiệu chuẩn hệ_thống , thiết_bị dẫn đường , giám_sát ;  bay đánh_giá phương_thức bay bằng thiết_bị . 
+
+Điều 2 .  Quy_ước viết_tắt 
+
+1 . ADS-B ( Automatic Dependent_Surveillance-Broadcasting ) : Giám_sát phụ_thuộc tự_động-Chế_độ phát quảng_bá . 
+
+2 . AIP ( Aeronautical_Information Publication ) : Tập thông_báo tin_tức hàng không . 
+
+3 . DME : ( Distance_Measuring Equipment ) : Thiết_bị đo cự_ly bằng vô_tuyến . 
+
+4 . FMS ( Flight_Management System ) : Hệ_thống dẫn đường và quản_lý chuyến bay , trên tàu_bay . 
+
+5 . FVP ( Flight_Validation Pilot ) : Người lái thực_hiện bay đánh_giá phương_thức bay bằng thiết_bị . 
+
+6 . GBAS ( Ground Based_Augmentation System ) : Hệ_thống tăng_cường độ chính_xác của tín_hiệu vệ_tinh dẫn đường , đặt trên mặt_đất . 
+
+7 . GNSS ( Global Navigation_Satellite System ) : Hệ_thống vệ_tinh dẫn đường toàn_cầu . 
+
+8 . GP ( Glide Path ) : Đài chỉ góc hạ_cánh thuộc hệ_thống hạ_cánh bằng thiết_bị . 
+
+9 . ICAO ( International_Civil Aviation Organization ) : Tổ_chức Hàng_không dân_dụng quốc_tế . 
+
+10 .  IFP ( Instrument_Flight Procedure ) : Phương_thức bay bằng thiết_bị . 
+
+11 .  ILS ( Instrument_Landing System ) : Hệ_thống hạ_cánh bằng thiết_bị . 
+
+12 .  LOC ( Localizer ) : Đài chỉ hướng hạ_cánh thuộc hệ_thống hạ_cánh bằng thiết_bị . 
+
+13 .  MM ( Middle Marker ) : Đài chỉ mốc vô_tuyến giữa thuộc hệ_thống hạ_cánh bằng thiết_bị . 
+
+14 .  NDB ( Non_Directional_Radio_Beacon ) : Đài dẫn đường vô hướng . 
+
+15 .  NO TAM ( Notice_To Airmen ) : Điện_văn thông_báo hàng không . 
+
+16 .  OM ( Outer Marker ) : Đài chỉ mốc vô_tuyến ngoài thuộc hệ_thống hạ_cánh bằng thiết_bị . 
+
+17 .  PA PI ( Precision_Approach Path Indicator ) : Hệ_thống đèn chỉ_thị đường trượt tiếp_cận chính_xác . 
+
+18 .  PBN ( Performance_Based Navigation ) : Dẫn đường dựa vào tính_năng tàu_bay . 
+
+19 .  PSR ( Primary_Surveillance Radar ) : Ra đa giám_sát sơ_cấp . 
+
+20 .  RNAV ( Area Navigation ) : Dẫn đường khu_vực . 
+
+21 .  RNP ( Required_Navigagtion Performance ) : Tính_năng dẫn đường theo yêu_cầu . 
+
+22 .  SID ( Standard_Instrument Departure ) Phương_thức khởi_hành tiêu_chuẩn sử_dụng thiết_bị . 
+
+23 .  SSR ( Secondary_Surveillance Radar ) : Ra đa giám_sát thứ cấp . 
+
+24 .  UTC ( Universal Time Coordination ) : Giờ quốc_tế . 
+
+25 .  VFR ( Visual_Flight Rule ) : Qui_tắc bay bằng mắt . 
+
+26 .  VHF AM ( Very High_Frequency-Amplitude Modulation ) : Sóng cực ngắn-điều_chế biên_độ . 
+
+27 .  WGS-84 ( World_Geodetic System ) : Hệ trắc_địa ( Hệ_tọa độ toàn_cầu ) . 
+
+28 .  VOR ( Very_High Frequency Omnidirectional_Radio_Range ) : Đài dẫn đường đa hướng , sóng cực ngắn . 
+
+Điều 3 .  Giải_thích thuật_ngữ 
+
+1 . Autopilot : Hệ_thống lái tự_động trên tàu_bay . 
+
+2 . Flight_Ability : Đủ điều_kiện bay . 
+
+3 . Flight Inspection_Aircraft : Tàu_bay kiểm_tra , hiệu chuẩn . 
+
+4 . Flight_Inspector : Nhân_viên bay kiểm_tra , hiệu chuẩn . 
+
+5 . Flight_Testing , Inspection : Bay kiểm_tra , hiệu chuẩn . 
+
+6 . Flight_Simulator : Thiết_bị bay giả_định . 
+
+7 . Flight_Validation : Bay đánh_giá phương_thức bay bằng thiết_bị . 
+
+8 . Mode_A ( chế_độ A ) : Làm kích_hoạt bộ phát đáp trả_lời để nhận_dạng và giám_sát tàu_bay . 
+
+9 . Mode_C ( chế_độ C ) : Làm kích_hoạt bộ phát đáp trả_lời để phát độ cao theo khí_áp và giám_sát tàu_bay . 
+
+10 .  Mode_S ( chế_độ S ) : Để trao_đổi thông_tin giám_sát và dữ_liệu liên_lạc có chọn_lựa với riêng từng bộ phát đáp chế_độ S .  Đối_với mỗi lần hỏi chỉ duy_nhất bộ phát đáp có địa_chỉ được xác_định trong tín_hiệu hỏi bị kích_hoạt trả_lời . 
+
+11 .  Position_reference system : Hệ_thống quy chiếu vị_trí chuẩn . 
+
+12 .  Độ_lợi ăng ten : Là tỷ_số cường_độ bức_xạ của ăng ten theo một hướng cụ_thể so với việc nó bức_xạ các tín_hiệu đồng_đều theo tất_cả các hướng .  Khi một ăng ten nhận hoặc truyền tín_hiệu , nó được tập_trung vào một hướng hoặc một phía nhất_định và thu_hẹp vùng phủ_sóng bởi_vậy tăng_cường tín_hiệu trong một vùng hẹp , đó gọi là độ lợi . 
+
+Điều 4 .  Mục_đích bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường , giám_sát 
+
+Bay kiểm_tra , hiệu chuẩn được thực_hiện trên không , bởi người lái tàu_bay kiểm_tra , hiệu chuẩn và nhân_viên bay kiểm_tra , hiệu chuẩn , sử_dụng tàu_bay có trang_bị phù_hợp nhằm mục_đích kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường , giám_sát trên mặt_đất và theo_dõi , đánh_giá chất_lượng hệ_thống , thiết_bị dẫn đường vô_tuyến dựa vào vệ_tinh . 
+
+Điều 5 .  Hệ_thống , thiết_bị dẫn đường phải bay kiểm_tra , hiệu chuẩn định_kỳ 
+
+1 . Đài_VOR ; 
+
+2 . Đài_NDB ; 
+
+3 . Đài_GP ; 
+
+4 . Đài_LOC ; 
+
+5 . Đài MM ; 
+
+6 . Đài_OM ; 
+
+7 . Thiết_bị DME ; 
+
+8 . Hệ_thống đèn phụ_trợ dẫn đường hàng_không ; 
+
+9 . Hệ_thống PA PI ; 
+
+10 .  Hệ_thống GBAS . 
+
+Điều 6 .  Hệ_thống , thiết_bị dẫn đường , giám_sát phải bay kiểm_tra , hiệu chuẩn nghiệm_thu 
+
+1 . Tất_cả các hệ_thống , thiết_bị dẫn đường quy_định tại Điều 5 của Thông_tư này và PSR , SSR sử_dụng trong ngành Hàng_không dân_dụng Việt_Nam khi đưa vào khai_thác phải được bay kiểm_tra , hiệu chuẩn nghiệm_thu . 
+
+2 . Hệ_thống , thiết_bị dẫn đường , giám_sát sau khi được sửa_chữa_lớn hoặc thay_đổi ăng ten , công_suất máy phát , tần_số hoặc dừng khai_thác quá 03 tháng phải được bay kiểm_tra , hiệu chuẩn nghiệm_thu lại . 
+
+Điều 7 .  Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường , giám_sát 
+
+1 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường , giám_sát phải có ba bộ_phận : tổ bay kiểm_tra , hiệu chuẩn ;  tàu_bay kiểm_tra , hiệu chuẩn ;  hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn phải có giấy_phép do Cục Hàng_không Việt_Nam cấp hoặc có giấy_phép do Cơ_quan quản_lý nhà_nước về hàng_không dân_dụng quốc_gia khác cấp và giấy_phép này phải được Cục Hàng_không Việt_Nam công_nhận . 
+
+Điều 8 .  Tổ bay kiểm_tra , hiệu chuẩn 
+
+1 . Tổ bay kiểm_tra , hiệu chuẩn phải có ít_nhất 02 ( hai ) người lái tàu_bay kiểm_tra , hiệu chuẩn và 02 ( hai ) nhân_viên bay kiểm_tra , hiệu chuẩn . 
+
+2 . Thành_viên tổ bay kiểm_tra , hiệu chuẩn phải có đủ điều_kiện và được cấp giấy_phép theo quy_định tại Điều 53 và Điều 54 của Thông_tư này . 
+
+Điều 9 .  Nhiệm_vụ của nhân_viên bay kiểm_tra , hiệu chuẩn 
+
+1 . Đảm_bảo việc kiểm_tra , đo_lường chính_xác các thông_số của hệ_thống , thiết_bị dẫn đường , giám_sát trong quá_trình bay kiểm_tra , hiệu chuẩn . 
+
+2 . Phối_hợp , yêu_cầu nhân_viên kỹ_thuật mặt_đất hiệu_chỉnh các thông_số kỹ_thuật của hệ_thống , thiết_bị dẫn đường , giám_sát theo đúng tiêu_chuẩn quy_định , trong quá_trình bay kiểm_tra , hiệu chuẩn . 
+
+3 . Xác_nhận về kết_quả tình_trạng chất_lượng của hệ_thống , thiết_bị dẫn đường , giám_sát đã được bay kiểm_tra , hiệu chuẩn một_cách chính_xác , trung_thực và chịu trách_nhiệm đối_với xác_nhận này . 
+
+Điều 10 .  Nhiệm_vụ của người lái tàu_bay kiểm_tra , hiệu chuẩn 
+
+1 . Đảm_bảo điều_khiển tàu_bay kiểm_tra , hiệu chuẩn bay chính_xác theo đúng các bài bay đã được Cục Hàng_không Việt_Nam ban_hành . 
+
+2 . Xác_nhận một_cách chính_xác , trung_thực về đủ điều_kiện bay của IFP truyền_thống . 
+
+Điều 11 .  Yêu_cầu cơ_bản đối_với tàu_bay kiểm_tra , hiệu chuẩn 
+
+Tàu_bay kiểm_tra , hiệu chuẩn phải đáp_ứng yêu_cầu quy_định tại Phụ đính 1 Chương 1 Tài_liệu 8071 về kiểm_tra phụ_trợ dẫn đường vô_tuyến của ICAO ( Doc 8071 Volume 1 ) . 
+
+Điều 12 .  Yêu_cầu cơ_bản đối_với hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn 
+
+1 . Hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn trên tàu_bay kiểm_tra , hiệu chuẩn được sử_dụng để xác_định hiệu_lực tín_hiệu vô_tuyến của hệ_thống_thiết_bị dẫn đường , giám_sát dưới mặt_đất , phải giảm_thiểu mức_độ đo_lường không tin_cậy đang thực_hiện đến mức thấp nhất . 
+
+2 . Thành_phần cơ_bản của hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn trên tàu_bay kiểm_tra , hiệu chuẩn , bao_gồm : 
+
+a ) Các máy thu , phát và ăng ten đồng_bộ ; 
+
+b ) Hệ_thống quy chiếu vị_trí chuẩn ; 
+
+c ) Thiết_bị xử_lý và hiển_thị ; 
+
+d ) Thiết_bị ghi dữ_liệu . 
+
+3 . Tất_cả hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn phải được liệt_kê danh_mục và phải được định_kỳ kiểm chuẩn , hiệu chuẩn theo quy_định của Nhà_sản_xuất , nhằm duy_trì độ chính_xác theo tiêu_chuẩn thích_hợp .  Phải dẫn_chứng bằng tài_liệu về phương_thức kiểm chuẩn , hiệu chuẩn và hồ_sơ ghi_chép kết_quả kiểm chuẩn , hiệu chuẩn đối_với từng hệ_thống , thiết_bị . 
+
+4 . Hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và thiết_bị , phụ_tùng dự_phòng thay_thế phải được bảo_quản phù_hợp với quy_định của nhà sản_xuất thiết_bị . 
+
+5 . Hệ_thống quy chiếu vị_trí chuẩn trên tàu_bay kiểm_tra , hiệu chuẩn cung_cấp thông_tin định_vị chuẩn để xác_định độ chính_xác của hệ_thống , thiết_bị được bay kiểm_tra , hiệu chuẩn .  Hệ_thống quy chiếu vị_trí chuẩn độc_lập so với các hệ_thống , thiết_bị đang được bay kiểm_tra , hiệu chuẩn . 
+
+6 . Tổng sai_số của toàn_bộ hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn phải nhỏ hơn 05 ( năm ) lần chất_lượng công_bố của tín_hiệu dẫn đường mặt_đất . 
+
+7 . Khi hệ_thống , thiết_bị trên tàu_bay kiểm_tra , hiệu chuẩn được sử_dụng chung giữa người lái tàu_bay kiểm_tra , hiệu chuẩn và nhân_viên bay kiểm_tra hiệu chuẩn thì nhân_viên bay kiểm_tra , hiệu chuẩn chịu trách_nhiệm kiểm_soát thiết_bị , trong khi bay . 
+
+8 . Các máy thu trên tàu_bay kiểm_tra , hiệu chuẩn cung_cấp cả thông_tin dẫn đường tương_tự thiết_bị tàu_bay tiêu_chuẩn và thông_tin dẫn đường cho kiểm_tra , hiệu chuẩn . 
+
+9 . Dữ_liệu do các máy thu hoặc hệ_thống quy chiếu vị_trí chuẩn trên tàu_bay kiểm_tra , hiệu chuẩn phát ra phải được so_sánh thông_tin giữa hệ_thống_thiết_bị mặt_đất với thông_tin của hệ_thống quy chiếu vị_trí chuẩn . 
+
+10 .  Phải có thiết_bị để in dữ_liệu và kết_quả bay kiểm_tra , hiệu chuẩn . 
+
+11 .  Ăng ten trên tàu_bay kiểm_tra , hiệu chuẩn phải được kiểm_tra diện rộng và kiểm chuẩn , hiệu chuẩn để xác_minh chất_lượng , phục_vụ cho việc kiểm_tra tầm phủ_sóng của trang_thiết_bị mặt_đất . 
+
+12 .  Phải kiểm_tra và xác_định độ lợi ăng ten sử_dụng cho đo_lường cường_độ từ_trường chính_xác ( bao_gồm cả cáp dẫn , chuyển mạch , thiết_bị chia công_suất ) .  Ăng ten phải có đặc_tính đo được toàn_bộ dải_tần_số sử_dụng và ở các hướng bay trong khi thực_hiện phương_thức đo_lường .  Phải áp_dụng các đặc_tính độ lợi ăng ten theo thời_gian thực khi dữ_liệu được đưa vào và được hiển_thị hoặc được xử_lý sau để cho ra dữ_liệu báo_cáo cuối_cùng .  Phải sử_dụng ăng ten có_giản đồ vô hướng cho việc đo_lường cường_độ từ_trường , khi bay hiệu chuẩn ILS Cấp 2 và ILS Cấp 3 . 
+
+13 .  Lắp_đặt ăng ten trên tàu_bay kiểm_tra , hiệu chuẩn . 
+
+a ) Đối_với tàu_bay cánh_quạt , vị_trí đặt các ăng ten phải đảm_bảo không bị_can nhiễu bởi hiệu_ứng điều_chế cánh_quạt . 
+
+b ) Ăng ten ra đa khí_tượng , nếu được lắp_đặt , phải đảm_bảo hướng di_chuyển của nó không ảnh_hưởng đến hoạt_động phù_hợp của ăng ten thu đài GP . 
+
+c ) Trường_hợp có nối_ghép qua nhau giữa các ăng ten thu và ăng ten phát như VHF không-địa và VOR , LOC cần đảm_bảo phân_cách phù_hợp để không gây can nhiễu lẫn nhau . 
+
+d ) Phải xem_xét cấu_trúc tàu_bay kiểm_tra , hiệu chuẩn khi lựa_chọn vị_trí lắp_đặt ăng ten .  Nếu cần bề_mặt tiếp mát tốt , không được lắp_đặt ăng ten gần các mối nối của các loại vật_liệu . 
+
+đ ) Các máy thu_phục_vụ bay kiểm_tra , hiệu chuẩn cần sử_dụng ăng ten riêng_biệt .  Trong trường_hợp sử_dụng một ăng ten cho hai hoặc nhiều máy thu thì phải kiểm_tra để đảm_bảo khi điều_chỉnh máy thu thứ hai toàn_bộ dải_tần không ảnh_hưởng mức tín_hiệu đến máy thu sử_dụng cho đo_lường vùng phủ_sóng . 
+
+e ) Hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn phải sử_dụng phần_mềm và các đầu_vào từ các bộ cảm_biến máy thu để hiệu_chỉnh sự ảnh_hưởng đến các vị_trí tương_đối của ăng ten đo_lường và vị_trí của hệ_thống theo_dõi được quan_sát từ mặt_đất , khi tàu_bay kiểm_tra , hiệu chuẩn thay_đổi độ cao . 
+
+g ) Máy_thu kiểm_tra , hiệu chuẩn được sử_dụng cho hiệu chuẩn , kiểm chuẩn thiết_bị phát xung như DME , ra đa phải cung_cấp tín_hiệu video của thiết_bị . 
+
+14 .  Xử_lý , hiển_thị và ghi dữ_liệu bay kiểm_tra , hiệu chuẩn . 
+
+a ) Hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn phải gồm cả máy_tính được sử_dụng để đọc dữ_liệu từ các bộ cảm_biến hoặc hệ_thống quy chiếu chuẩn và từ các máy thu bay kiểm_tra , hiệu chuẩn .  Máy_tính xử_lý dữ_liệu để so_sánh thông_tin dẫn đường của thiết_bị và thông_tin định_vị chuẩn .  Máy_tính phải có khả_năng xác_định các thông_số thiết_bị ( độ rộng hướng , độ chính_xác thẳng hàng LOC thuộc hệ_thống ILS và các thông_số cần_thiết khác ) . 
+
+b ) Tất_cả các thông_tin liên_quan như thông_tin dẫn đường của thiết_bị thông_tin quy chiếu vị_trí chuẩn ( định_vị chuẩn ) , đúng sai của thiết_bị và thông_tin bổ_sung của máy thu như cường_độ từ_trường phải được hiển_thị cho nhân_viên bay kiểm_tra , hiệu chuẩn trên tàu_bay bằng thiết_bị số trên màn_hình máy_tính . 
+
+c ) Máy_in được sử_dụng để làm tài_liệu kết_quả bay kiểm_tra , hiệu chuẩn .  Tất_cả các dữ_liệu được chú_thích một_cách thích_hợp bởi nhân_viên bay kiểm_tra , hiệu chuẩn hoặc bởi hệ_thống xử_lý dữ_liệu tự_động . 
+
+d ) Tất_cả các dữ_liệu thô và dữ_liệu đã tính_toán được ghi lại trên đĩa và lưu_trữ theo quy_định , nhằm mục_đích cho phép xử_lý về sau , nếu cần điều_tra cụ_thể . 
+
+15 .  Việc tích_hợp hệ_thống trên tàu_bay không được làm ảnh_hưởng đến việc cấp chứng_nhận đủ điều_kiện bay của tàu_bay .  Mỗi_một sửa_đổi phải được ghi lại trong tài_liệu kỹ_thuật của tàu_bay cùng với sự chấp_thuận của nhà sản_xuất hoặc của Cơ_quan quản_lý nhà_nước về hàng_không dân_dụng có liên_quan . 
+
+16 .  Hướng_dẫn khai_thác cụ_thể hệ_thống trên tàu_bay kiểm_tra , hiệu chuẩn phải được ghi vào các tài_liệu khai_thác trong khi bay .  Nếu việc tích_hợp này bắt_buộc bất_kỳ giới_hạn chất_lượng hoặc hạn_chế khai_thác nào đối_với tàu_bay thì giới_hạn hoặc hạn_chế đó phải được ghi rõ trong các tài_liệu tương_ứng . 
+
+Điều 13 .  Hệ_thống quy chiếu vị_trí chuẩn 
+
+1 . Hệ_thống quy chiếu vị_trí chuẩn là bộ_phận cấu_thành quan_trọng của hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn .  Hệ_thống được tạo thành bởi bộ_phận trên tàu_bay kết_nối với bộ_phận đặt dưới mặt_đất . 
+
+2 . Để xác_định độ chính_xác của tín_hiệu dẫn đường , tất_cả các hình_thức bay kiểm_tra , hiệu chuẩn phải có thông_tin chuẩn về vị_trí do hệ_thống quy chiếu vị_trí chuẩn của tàu_bay kiểm_tra , hiệu chuẩn cung_cấp . 
+
+3 . Hệ_thống quy chiếu vị_trí chuẩn phải là hệ_thống độc_lập , phù_hợp với hệ_thống , thiết_bị được bay kiểm_tra , hiệu chuẩn dưới mặt_đất . 
+
+Điều 14 .  Kiểm_định , hiệu chuẩn hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn 
+
+1 . Các thiết_bị phát tín_hiệu chuẩn dùng để hiệu_chỉnh hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn phải được kiểm_định , hiệu chuẩn theo quy_định tại <TT rel="Reference"> Thông_tư số 24/2013/TT-BKHCN ngày 30 tháng 9 năm 2013 </TT> của Bộ_trưởng Bộ Khoa_học và công_nghệ quy_định về hoạt_động kiểm_định , hiệu chuẩn , thử_nghiệm phương_tiện đo , chuẩn đo_lường .
+2 . Đối_với các thiết_bị mà việc kiểm_định , hiệu chuẩn không thực_hiện được tại Việt_Nam , Cục Hàng_không Việt_Nam chỉ_định các tổ_chức của nước_ngoài phù_hợp thực_hiện việc kiểm_định , hiệu chuẩn . 
+
+Điều 15 .  Thứ_tự ưu_tiên bay kiểm_tra , hiệu chuẩn 
+
+1 . Ưu_tiên 1 : Bay kiểm_tra , hiệu chuẩn đặc_biệt . 
+
+2 . Ưu_tiên 2 : Bay kiểm_tra , hiệu chuẩn nghiệm_thu ;  bay kiểm_tra , hiệu chuẩn định_kỳ . 
+
+3 . Ưu_tiên 3 : Bay khảo_sát vị_trí . 
+
+Điều 16 .  Kiểm_tra hệ_thống , thiết_bị mặt_đất trước khi bay kiểm_tra , hiệu chuẩn 
+
+1 . Trước khi bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường giám_sát trên mặt_đất phải được các nhân_viên có giấy_phép nhân_viên thông_tin , dẫn đường , giám_sát hàng không do Cục Hàng_không Việt_Nam cấp , sử_dụng thiết_bị đo_lường phù_hợp , kiểm_tra tại hiện_trường . 
+
+2 . Dữ_liệu kết_quả kiểm_tra mặt_đất được sử_dụng để so_sánh với dữ_liệu kết_quả bay kiểm_tra , hiệu chuẩn và phục_vụ công_tác bay kiểm_tra , hiệu chuẩn . 
+
+Điều 17 .  Thời_gian bay kiểm_tra , hiệu chuẩn định_kỳ hệ_thống , thiết_bị dẫn đường 
+
+Các hệ_thống , thiết_bị dẫn đường truyền_thống trên mặt_đất và hệ_thống tăng_cường độ chính_xác của tín_hiệu vệ_tinh dẫn đường đặt trên mặt_đất phải được bay kiểm_tra , hiệu chuẩn định_kỳ 12 tháng_một lần . 
+
+Điều 18 .  Điều_chỉnh thời_gian bay kiểm_tra , hiệu chuẩn định_kỳ hệ_thống , thiết_bị dẫn đường 
+
+1 . Trong trường_hợp hệ_thống , thiết_bị dẫn đường vô_tuyến có 04 lần bay kiểm_tra , hiệu chuẩn định_kỳ liên_tục đều phải điều_chỉnh máy phát do dung_sai nằm ngoài dung_sai cho phép , Cục Hàng_không Việt_Nam xem_xét rút ngắn thời_gian bay kiểm_tra , hiệu chuẩn định_kỳ hệ_thống hạ_cánh bằng thiết_bị ILS xuống 06 tháng_một lần . 
+
+2 . Hệ_thống , thiết_bị dẫn đường vô_tuyến có 04 lần bay kiểm_tra , hiệu chuẩn định_kỳ liên_tục mà không cần phải điều_chỉnh máy phát , dung_sai vẫn duy_trì được trong dung_sai cho phép và có sự tương_ứng giữa dữ_liệu hồ_sơ kiểm_tra mặt_đất và dữ_liệu hồ_sơ bay kiểm_tra , hiệu chuẩn thì có_thể được xem_xét gia_hạn thời_gian bay kiểm_tra , hiệu chuẩn định_kỳ thêm 12 tháng . 
+
+3 . Cục Hàng_không Việt_Nam xem_xét quyết_định việc rút ngắn hoặc gia_hạn thời_gian bay kiểm_tra , hiệu chuẩn định_kỳ . 
+
+Điều 19 .  Bay kiểm_tra , hiệu chuẩn vào thời_gian ban_đêm 
+
+1 . Thời_gian ban_đêm ( thời_gian từ lúc mặt_trời lặn-tâm của mặt_trời tạo thành góc 6 ° ( độ ) phía dưới đường chân_trời-đến lúc mặt_trời mọc-tâm của mặt_trời tạo thành góc 6 ° ( độ ) phía dưới đường chân_trời . 
+
+2 . Trường_hợp bay kiểm_tra , hiệu chuẩn vào ban_đêm , cần xem_xét ảnh_hưởng của môi_trường ban_đêm đối_với tín_hiệu được phát_xạ và đánh_giá sự khác_biệt kết_quả đo_lường ban_đêm so với kết_quả đo_lường ban_ngày . 
+
+3 . Khi thực_hiện bay kiểm_tra , hiệu chuẩn vào thời_gian ban_đêm , tại khu_vực có chướng_ngại_vật , phải bay cao hơn 300 m ( 1000 ft ) so với độ cao hoặc mực bay sử_dụng ban_ngày .  Trường_hợp cần phải kiểm_tra thông_số của hệ_thống , thiết_bị phụ_trợ dẫn đường thì phải thay_đổi cự_ly nằm ngang để duy_trì góc đứng không đổi tính từ vị_trí của hệ_thống , thiết_bị phụ_trợ dẫn đường tương_ứng . 
+
+4 . Không được thực_hiện bay kiểm_tra , hiệu chuẩn đài GP ở mức thấp dưới đường trượt theo tiêu_chuẩn hệ_thống ILS , trong thời_gian ban_đêm hoặc lúc mức ánh_sáng tự_nhiên thấp . 
+
+5 . Báo_cáo kết_quả bay kiểm_tra , hiệu chuẩn vào ban_đêm cần ghi rõ thời_gian bay vào ban_đêm . 
+
+Điều 20 .  Bay kiểm_tra , hiệu chuẩn hệ_thống đèn phụ_trợ dẫn đường hàng_không 
+
+1 . Nội_dung bay kiểm_tra , hiệu chuẩn các phân hệ đèn , bao_gồm : 
+
+a ) Đèn tiếp_cận : Tầm nhìn , cường_độ sáng , màu_sắc , góc ngẩng . 
+
+b ) Đèn_chớp : Tầm nhìn , sự rõ_ràng , tốc_độ chớp . 
+
+c ) Đèn thềm đường cất hạ_cánh : Tầm nhìn , cường_độ sáng . 
+
+d ) Đèn vùng chạm bánh : Tầm nhìn , cường_độ sáng , độ thẳng hàng . 
+
+đ ) Đèn lề và đèn tim đường cất hạ_cánh : Tính liên_tục , màu sáng , cường_độ sáng và độ thẳng hàng . 
+
+e ) Đèn_pha xoay : Cường_độ sáng và vận_tốc quay . 
+
+2 . Tại các sân_bay chưa sử_dụng IFP , phải bay kiểm_tra , hiệu chuẩn hệ_thống đèn phụ_trợ dẫn đường hàng_không vào ban_đêm để xác_định sự thích_hợp của hệ_thống đèn phụ_trợ dẫn đường , trước khi quyết_định tiêu_chuẩn khai_thác tối_thiểu vào ban_đêm . 
+
+Điều 21 .  Hệ_tọa_độ sử_dụng cho bay kiểm_tra , hiệu chuẩn 
+
+Hệ_tọa_độ sử_dụng cho bay kiểm_tra , hiệu chuẩn là hệ trắc_địa toàn_cầu ( WGS-84 ) . 
+
+Điều 22 .  Dữ_liệu cho bay kiểm_tra , hiệu chuẩn 
+
+1 . Các dữ_liệu về danh_mục hệ_thống , thiết_bị tham_gia bay kiểm_tra , hiệu chuẩn ( tên đài , trạm ;  đài hiệu ;  tần_số ;  tọa_độ WGS-84 và hình_thức bay kiểm_tra , hiệu chuẩn ) ;  nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn ;  phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn và các dữ_liệu có liên_quan khác phải được chuẩn_bị chính_xác , đầy_đủ và được Cục Hàng_không Việt_Nam phê_duyệt trước khi thực_hiện bay kiểm_tra , hiệu chuẩn . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn gửi 01 bộ hồ_sơ đề_nghị phê_duyệt các dữ_liệu cho bay kiểm_tra , hiệu chuẩn qua đường bưu_điện hoặc trực_tiếp tới Cục Hàng_không Việt_Nam .  Hồ_sơ đề_nghị bao_gồm : 
+
+a ) Văn_bản đề_nghị phê_duyệt các dữ_liệu cho bay kiểm_tra , hiệu chuẩn ; 
+
+b ) Danh_mục hệ_thống , thiết_bị tham_gia bay kiểm_tra , hiệu chuẩn ; 
+
+c ) Nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn ; 
+
+d ) Phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn ; 
+
+đ ) Lịch bay kiểm_tra , hiệu chuẩn . 
+
+3 . Trong thời_hạn 02 ngày làm_việc , kể từ ngày nhận hồ_sơ , Cục Hàng_không Việt_Nam kiểm_tra hồ_sơ và có văn_bản thông_báo cho tổ_chức đề_nghị nếu hồ_sơ còn thiếu . 
+
+4 . Trong thời_hạn 20 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định , Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ và phê_duyệt các dữ_liệu cho bay kiểm_tra , hiệu chuẩn .  Trường_hợp không phê_duyệt phải trả_lời bằng văn_bản và nêu rõ lí_do . 
+
+Điều 23 .  Phối_hợp giữa bay kiểm_tra , hiệu chuẩn và kiểm_tra , hiệu_chỉnh thiết_bị mặt_đất 
+
+1 . Nhân_viên có giấy_phép nhân_viên thông_tin , dẫn đường , giám_sát hàng không do Cục Hàng_không Việt_Nam cấp , được phép tham_gia và thực_hiện hiệu_chỉnh các thông_số hệ_thống , thiết_bị mặt_đất theo đúng tiêu_chuẩn quy_định trên cơ_sở yêu_cầu của nhân_viên bay kiểm_tra , hiệu chuẩn trong quá_trình bay kiểm_tra , hiệu chuẩn . 
+
+2 . Thiết_bị thu phát thoại VHF AM không-địa được trang_bị thêm trên tàu_bay kiểm_tra , hiệu chuẩn và thiết_bị thu phát thoại VHF AM không-địa_di_động dưới mặt_đất được dùng để liên_lạc hai chiều giữa nhân_viên bay kiểm_tra , hiệu chuẩn trên tàu_bay và nhân_viên kỹ_thuật hiệu_chỉnh hệ_thống , thiết_bị mặt_đất .  Liên_lạc này không được gây can nhiễu đối_với liên_lạc thoại VHF AM không-địa của các dịch_vụ điều_hành bay . 
+
+Điều 24 .  Xác_định tình_trạng khai_thác của hệ_thống , thiết_bị sau khi bay kiểm_tra , hiệu chuẩn 
+
+1 . Sử_dụng được : 
+
+a ) Sử_dụng không hạn_chế : Hệ_thống , thiết_bị cung_cấp tín_hiệu trong không_gian đáp_ứng hoàn_toàn các tham_số và tiêu_chuẩn được quy_định trong khu_vực phủ_sóng của hệ_thống , thiết_bị . 
+
+b ) Sử_dụng có hạn_chế : Hệ_thống , thiết_bị cung_cấp tín_hiệu trong không_gian không đáp_ứng toàn_bộ các tham_số và tiêu_chuẩn được quy_định trong khu_vực phủ_sóng của hệ_thống , thiết_bị , nhưng an_toàn cho việc sử_dụng trong giới_hạn xác_định . 
+
+2 . Không sử_dụng được : Hệ_thống , thiết_bị không sẵn_sàng cho sử_dụng khai_thác , do cung_cấp các tín_hiệu sai hoặc không an_toàn hoặc cung_cấp các tín_hiệu mà không kiểm_soát được chất_lượng trong không_gian . 
+
+Điều 25 .  Thẩm_quyền xác_định tình_trạng khai_thác của hệ_thống , thiết_bị sau khi bay kiểm_tra , hiệu chuẩn 
+
+1 . Cục Hàng_không Việt_Nam là cơ_quan chịu trách_nhiệm xác_định tình_trạng khai_thác của hệ_thống , thiết_bị dẫn đường , giám_sát sau khi bay kiểm_tra , hiệu chuẩn . 
+
+2 . Việc xác_định dựa trên : 
+
+a ) Đánh_giá , xác_nhận của nhân_viên bay kiểm_tra , hiệu chuẩn về tình_trạng hệ_thống , thiết_bị ; 
+
+b ) Báo_cáo của nhân_viên bảo_dưỡng thiết_bị mặt_đất ; 
+
+c ) Kết_quả theo_dõi , giám_sát bay kiểm_tra , hiệu chuẩn của Cục Hàng_không Việt_Nam . 
+
+Điều 26 .  Thông_báo thay_đổi tình_trạng hệ_thống , thiết_bị 
+
+1 . Hệ_thống , thiết_bị dẫn đường , giám_sát có tiêu_chuẩn khác_biệt so với tiêu_chuẩn ICAO phải được Cục Hàng_không Việt_Nam công_bố trong AIP và thông_báo chính_thức cho ICAO . 
+
+2 . Việc thay_đổi tình_trạng hoạt_động của hệ_thống , thiết_bị dẫn đường , giám_sát có hiệu_lực lâu_dài phải được Cục Hàng_không Việt_Nam thông_báo cho các nhà khai_thác tàu_bay và công_bố trong AIP . 
+
+3 . Việc thay_đổi tình_trạng hệ_thống , thiết_bị dẫn đường , giám_sát đột_xuất và tạm_thời cần phải được tổ_chức cung_cấp dịch_vụ dẫn đường , giám_sát thông_báo ngay cho người khai_thác bằng NO TAM . 
+
+4 . Việc thay_đổi tình_trạng hệ_thống , thiết_bị dẫn đường , giám_sát do bay kiểm_tra , hiệu chuẩn phát_hiện được , phải được tổ_chức cung_cấp dịch_vụ dẫn đường , giám_sát thông_báo ngay cho người khai_thác bằng NO TAM .  Hệ_thống , thiết_bị dẫn đường có tình_trạng “ không sử_dụng được ” phải được Cục Hàng_không Việt_Nam thu_hồi giấy_phép khai_thác và chỉ có_thể cho hoạt_động ở chế_độ thử hoặc để bảo_dưỡng . 
+
+5 . Tổ_chức cung_cấp dịch_vụ dẫn đường , giám_sát phải thông_báo ngừng cung_cấp dịch_vụ đối_với các hệ_thống , thiết_bị dẫn đường , giám_sát đang trong thời_gian tham_gia bay kiểm_tra , hiệu chuẩn ( ngoại_trừ hệ_thống , thiết_bị chỉ được bay kiểm_tra đài hiệu hoặc kiểm_tra giải_mã nhận_dạng tàu_bay ) . 
+
+Điều 27 .  Duy_trì dữ_liệu và báo_cáo kết_quả bay kiểm_tra , hiệu chuẩn 
+
+1 . Tổ_chức cung_cấp dịch_vụ dẫn đường , giám_sát phải có trách_nhiệm lưu_trữ dữ_liệu đầy_đủ ít_nhất 05 ( năm ) năm để phục_vụ công_tác giám_sát chất_lượng của hệ_thống , thiết_bị . 
+
+2 . Báo_cáo bay kiểm_tra , hiệu chuẩn nghiệm_thu và hồ_sơ lưu_trữ dữ_liệu phải được duy_trì tại thiết_bị trong thời_hạn 05 ( năm ) năm gần nhất .  Tất_cả các báo_cáo bay kiểm_tra , hiệu chuẩn đặc_biệt được thực_hiện trong thời_gian này cần được lưu trong hồ_sơ . 
+
+Mục 2 
+
+BAY KIỂM_TRA , HIỆU CHUẨN HỆ_THỐNG , THIẾT_BỊ DẪN ĐƯỜNG TRUYỀN_THỐNG 
+
+Điều 28 .  Phân_loại các hình_thức bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường truyền_thống 
+
+1 . Bay khảo_sát vị_trí : Được thực_hiện tại vị_trí dự_kiến lắp_đặt hệ_thống , thiết_bị nhằm xác_định tác_động của môi_trường lên chất_lượng tín_hiệu vô_tuyến điện của hệ_thống , thiết_bị dự_kiến lắp_đặt .  Thiết_bị di_động , lắp_đặt trên mặt_đất được sử_dụng cho bay khảo_sát vị_trí . 
+
+2 . Bay kiểm_tra , hiệu chuẩn nghiệm_thu : Được thực_hiện tiếp_theo sau kiểm_tra chất_lượng mặt_đất nhằm thiết_lập hiệu_lực của tín_hiệu trong không_gian .  Các thông_số của hệ_thống , thiết_bị được bay kiểm_tra , hiệu chuẩn nghiệm_thu phải được điều_chỉnh đạt đến mức chính_xác nhất có_thể . 
+
+3 . Bay kiểm_tra , hiệu chuẩn định_kỳ : Được thực_hiện trên cơ_sở thường_xuyên hoặc sau khi bảo_dưỡng lớn thiết_bị theo kế_hoạch , nhằm định_kỳ xác_nhận hiệu_lực của tín_hiệu trong không_gian . 
+
+4 . Bay kiểm_tra , hiệu chuẩn đặc_biệt : Bay kiểm_tra , hiệu chuẩn được thực_hiện để kiểm_tra các thông_số có khả_năng ảnh_hưởng đến chất_lượng hệ_thống_thiết_bị khi có nghi_ngờ hệ_thống , thiết_bị thực_hiện sai chức_năng , có tai_nạn tàu_bay hoặc các trường_hợp đặc_biệt khác . 
+
+Điều 29 .  Yêu_cầu nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường truyền_thống 
+
+Cục Hàng_không Việt_Nam hướng_dẫn các yêu_cầu cụ_thể với thông_số bay kiểm_tra , hiệu chuẩn , các giá_trị cần đo_lường , dung_sai cho phép đối_với từng loại hệ_thống , thiết_bị dẫn đường truyền_thống trên mặt_đất , tương_ứng với từng hình_thức bay kiểm_tra , hiệu chuẩn . 
+
+Điều 30 .  Phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường truyền_thống 
+
+1 . Tổ_chức khai_thác hệ_thống , thiết_bị dẫn đường căn_cứ các yêu_cầu nội_dung kỹ_thuật cần bay kiểm_tra , hiệu chuẩn quy_định tại Điều 29 của Thông_tư này và yêu_cầu của tổ_chức cung_cấp dịch_vụ không_lưu có liên_quan bổ_sung khu_vực , độ cao , phương vị cần bay kiểm_tra , hiệu chuẩn cho từng đợt bay ( nếu có ) . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn căn_cứ điều_kiện địa_hình trong từng khu_vực , xây_dựng phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn cho từng hệ_thống , thiết_bị và cho từng hình_thức bay , đợt bay trình Cục Hàng_không Việt_Nam phê_duyệt theo quy_định tại Điều 22 của Thông_tư này . 
+
+Mục 3 
+
+BAY KIỂM_TRA , HIỆU CHUẨN HỆ_THỐNG , THIẾT_BỊ DẪN ĐƯỜNG VÔ TUYỂN 
+
+DỰA VÀO VỆ_TINH 
+
+Điều 31 .  Bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường vô_tuyến dựa vào vệ_tinh 
+
+Việc bay kiểm_tra , hiệu chuẩn hệ_thống , thiết_bị dẫn đường vô_tuyến dựa vào vệ_tinh được thực_hiện với các hệ_thống GBAS và các tham_số của vệ_tinh . 
+
+Điều 32 .  Yêu_cầu nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn hệ_thống GBAS 
+
+Yêu_cầu nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn hệ_thống GBAS do Cục Hàng_không Việt_Nam hướng_dẫn ( trên cơ_sở khuyến_cáo của ICAO tại Doc 8071 Tập_II-Kiểm_tra các hệ_thống dẫn đường vô_tuyến dựa vào vệ_tinh ) . 
+
+Điều 33 .  Phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn hệ_thống GBAS 
+
+1 . Tổ_chức khai_thác hệ_thống GBAS căn_cứ các yêu_cầu kỹ_thuật cần bay kiểm_tra , hiệu chuẩn quy_định tại Điều 32 của Thông_tư này và yêu_cầu của tổ_chức cung_cấp dịch_vụ không_lưu có liên_quan bổ_sung khu_vực , độ cao , phương vị cần bay kiểm_tra , hiệu chuẩn cho từng đợt bay ( nếu có ) . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn căn_cứ điều_kiện địa_hình trong từng khu_vực , xây_dựng phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn cho từng hệ_thống GBAS và cho từng hình_thức bay , đợt bay trình Cục Hàng_không Việt_Nam phê_duyệt theo quy_định tại Điều 22 của Thông_tư này . 
+
+Mục 4 
+
+BAY KIỂM_TRA , HIỆU CHUẨN HỆ_THỐNG , THIẾT_BỊ GIÁM_SÁT 
+
+Điều 34 .  Đánh_giá chất_lượng PSR , SSR mặt_đất 
+
+Hàng năm , tổ_chức khai_thác PSR , SSR phải đánh_giá định_kỳ PSR , SSR .  Kết_quả đánh_giá định_kỳ phải được báo_cáo về Cục Hàng_không Việt_Nam .  Trong trường_hợp kết_quả đánh_giá định_kỳ không duy_trì được như kết_quả đánh_giá lúc bay kiểm_tra , hiệu chuẩn nghiệm_thu , tổ_chức khai_thác PSR , SSR phải thực_hiện bay kiểm_tra , hiệu chuẩn đặc_biệt . 
+
+Điều 35 .  Vai_trò của tàu_bay kiểm_tra , hiệu chuẩn khi bay kiểm_tra hiệu chuẩn PSR , SSR 
+
+1 . Trong quá_trình bay kiểm_tra , hiệu chuẩn PSR , tàu_bay kiểm_tra , hiệu chuẩn là mục_tiêu để phát_hiện trong khu_vực cần_thiết . 
+
+2 . Đối_với bay kiểm_tra , hiệu chuẩn SSR phải sử_dụng bộ phát đáp chế_độ A , chế_độ C và chế_độ S trên tàu_bay kiểm_tra , hiệu chuẩn để trả_lời tín_hiệu hỏi từ trạm SSR mặt_đất . 
+
+3 . Tàu_bay kiểm_tra , hiệu chuẩn có trang_bị bộ phát đáp SSR chế_độ B ( chế_độ kỹ_thuật ) được phép sử_dụng để thu , đo_lường cường_độ tín_hiệu hỏi , phát ra từ SSR mặt_đất , để xác_định vùng phủ_sóng của SSR mặt_đất một_cách tự_động . 
+
+Điều 36 .  Đánh_giá chất_lượng PSR , SSR trong khi bay kiểm_tra , hiệu chuẩn 
+
+1 . Khi bay kiểm_tra , hiệu chuẩn PSR , SSR , kỹ_thuật_viên ra đa căn_cứ tín_hiệu mục_tiêu của tàu_bay kiểm_tra , hiệu chuẩn trên màn_hình ra đa hoặc cường_độ từ trường mục_tiêu đo được để : 
+
+a ) Đánh_giá các cự_ly , độ cao , độ chính_xác và phương vị phát_hiện mục_tiêu của PSR , SSR ; 
+
+b ) Đánh_giá việc giải_mã nhận_dạng , mã khẩn nguy của SSR . 
+
+2 . Tàu_bay kiểm_tra , hiệu chuẩn được trang_bị bộ phát đáp SSR chế_độ B khi được sử_dụng , sẽ tự_động đo , xác_định các cự_ly , độ cao và phương vị phát_hiện mục_tiêu của SSR mặt_đất . 
+
+3 . Tổ_chức khai_thác PSR , SSR được sử_dụng công_cụ đánh_giá ra đa của nhà sản_xuất thiết_bị để thực_hiện thu_thập dữ_liệu trong quá_trình bay kiểm_tra hiệu chuẩn nhằm phân_tích , đánh_giá chất_lượng hệ_thống PSR , SSR . 
+
+Điều 37 Phân_loại các hình_thức bay kiểm_tra , hiệu chuẩn PSR/SSR 
+
+1 . Bay kiểm_tra , hiệu chuẩn nghiệm_thu 
+
+Bay kiểm_tra , hiệu chuẩn nghiệm_thu được thực_hiện để đánh_giá chất_lượng PSR , SSR , xác_định_giản đồ vùng phủ_sóng và xây_dựng tài_liệu_giản đồ vùng phủ_sóng trước khi đưa PSR , SSR vào khai_thác .  Dữ_liệu được sử_dụng làm cơ_sở phát_hiện sự giảm_sút chất_lượng hệ_thống , thiết_bị và định_kỳ so_sánh chất_lượng trong các lần bay kiểm_tra , hiệu chuẩn tiếp_theo ( nếu có ) . 
+
+2 . Bay kiểm_tra , hiệu chuẩn đặc_biệt 
+
+Bay kiểm_tra , hiệu chuẩn được thực_hiện khi có sự thay_đổi , sửa_đổi hoặc giảm_sút chất_lượng đối_với hệ_thống , thiết_bị PSR , SSR đã bay kiểm_tra , hiệu chuẩn nghiêm thu ;  nhu_cầu khai_thác ( đường_bay mới ) cần kiểm_tra thêm thông_số , độ cao , phương vị và khu_vực hoặc theo yêu_cầu của Cục Hàng_không Việt_Nam .  Giản_đồ vùng phủ_sóng mới sẽ được sử_dụng làm cơ_sở so_sánh trong các lần bay kiểm_tra , hiệu chuẩn tiếp_theo ( nếu có ) . 
+
+Điều 38 .  Công_bố_giản đồ vùng phủ_sóng của PSR , SSR 
+
+Sau khi bay kiểm_tra , hiệu chuẩn nghiệm_thu , tổ_chức khai_thác PSR , SSR báo_cáo Cục Hàng_không Việt Nam_giản đồ vùng phủ_sóng PSR , SSR để công_bố trong tập Thông_báo tin_tức hàng không . 
+
+Điều 39 .  Yêu_cầu nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn PSR , SSR 
+
+Yêu_cầu nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn nghiệm_thu và bay kiểm_tra , hiệu chuẩn đặc_biệt cho từng loại PSR , SSR do Cục Hàng_không Việt_Nam hướng_dẫn ( trên cơ_sở khuyến_cáo của ICAO tại Tài_liệu ( Doc ) 8071-Kiểm_tra các phụ_trợ dẫn đường vô_tuyến , Tập_III-Kiểm_tra các hệ_thống ra đa giám_sát , Phụ đính A-Phương_pháp bay kiểm_tra , Bảng_A-1 Danh_mục kiểm_tra , hiệu chuẩn ) . 
+
+Điều 40 .  Phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn PSR , SSR 
+
+1 . Phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn PSR và phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn SSR phải kết_hợp trong một , ngoại_trừ khu_vực chỉ có PSR . 
+
+2 . Tổ_chức khai_thác PSR , SSR căn_cứ các yêu_cầu nội_dung kỹ_thuật cần bay kiểm_tra , hiệu chuẩn nghiệm_thu và bay kiểm_tra , hiệu chuẩn đặc_biệt quy_định tại Điều 39 của Thông_tư này và yêu_cầu của tổ_chức cung_cấp dịch_vụ không_lưu liên_quan bổ_sung thêm khu_vực , độ cao , phương vị và các thông_số cần bay kiểm_tra , hiệu chuẩn ( nếu có ) . 
+
+3 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn căn_cứ điều_kiện địa_hình trong từng khu_vực , xây_dựng phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn cho từng hệ_thống PSR , SSR trình Cục Hàng_không Việt_Nam phê_duyệt theo quy_định tại Điều 22 của Thông_tư này . 
+
+Điều 41 .  Phương_thức bay bằng thiết_bị 
+
+Phương_thức bay bằng thiết_bị ( IFP ) bao_gồm IFP truyền_thống và IFP theo PBN . 
+
+Điều 42 .  Quy_trình đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Quy_trình đánh_giá IFP bao_gồm đánh_giá dưới mặt_đất ( ground validation ) và bay đánh_giá ( flight validation ) , đầy_đủ như sau : 
+
+a ) Đánh_giá IFP dưới mặt_đất ; 
+
+b ) Đánh_giá IFP bằng thiết_bị bay giả_định ( flight simulator ) ; 
+
+c ) Bay đánh_giá IFP ( bằng tàu_bay , bay trên không ) . 
+
+2 . Quy_trình đánh_giá IFP quy_định tại Phụ_lục 1 ban_hành kèm theo Thông_tư này . 
+
+Điều 43 .  Sự cần_thiết bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Trước khi ban_hành IFP phải bay đánh_giá . Việc bay đánh_giá đinh_kỳ IFP truyền_thống thực_hiện tương_tự như bay hiệu chuẩn đối_với các phương_thức bay sử_dụng thiết_bị theo quy_định tại Điều 5 <TT rel="Reference"> Thông_tư số 28/2009/TT-BGTVT ngày 10 tháng 11 năm 2009 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải về phương_thức bay hàng_không dân_dụng .
+2 . Bay đánh_giá IFP theo PBN thực_hiện như sau : 
+
+a ) Người khai_thác Cảng hàng_không đảm_bảo đối_với phương_thức bay GBAS và SID ; 
+
+b ) Các IFP theo PBN khác do doanh_nghiệp cung_cấp dịch_vụ không_lưu đảm_bảo trong khu_vực trách_nhiệm tương_ứng . 
+
+c ) Cục Hàng_không Việt_Nam quyết_định sự cần_thiết phải bay đánh_giá lại đối_với từng IFP cụ_thể . 
+
+Điều 44 .  Bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Bay đánh_giá IFP nhằm mục_đích đánh_giá chất_lượng của thiết_kế phương_thức bay , bao_gồm dữ_liệu chướng_ngại_vật hàng không , dữ_liệu dẫn đường và đưa ra một đánh_giá về đủ điều_kiện bay của dự_thảo IFP . 
+
+2 . Bay đánh_giá IFP được thực_hiện sau khi IFP đã được đánh_giá dưới mặt_đất và đã được đánh_giá bằng thiết_bị bay giả_định . 
+
+3 . Tổ_chức cung_cấp dịch_vụ bay đánh_giá IFP phải có giấy_phép . 
+
+Điều 45 .  Tổ_chức cung_cấp dịch_vụ bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Người lái FVP . 
+
+2 . Hệ_thống , thiết_bị bay đánh_giá IFP trên tàu_bay . 
+
+Điều 46 .  Người lái , thực_hiện bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Người lái FVP phải đáp_ứng các điều_kiện cấp phép tại khoản 1 Điều 59 của Thông_tư này . 
+
+2 . Người lái FVP phải có chỗ ngồi trên buồng_lái và có tầm nhìn tốt , để thực_hiện đúng quy_trình , nội_dung về bay đánh_giá IFP theo hướng_dẫn của Cục Hàng_không Việt_Nam . 
+
+Điều 47 .  Điều_kiện tàu_bay và thiết_bị bay đánh_giá IFP theo PBN 
+
+1 . Tàu_bay bay đánh_giá IFP theo PBN phải được trang_bị hệ_thống FMS , lái tự_động ( Autopilot ) , thiết_bị có năng_lực kiểm_tra các IFP truyền_thống và các IFP theo PBN . 
+
+Điều 48 .  Nhiệm_vụ của người lái và FVP 
+
+1 . Khi thực_hiện bay đánh_giá bay bằng thiết_bị , FVP phải xác_nhận một_cách trung_thực và chính_xác về các yếu_tố có liên_quan , và đưa ra đánh_giá cuối_cùng về đủ điều_kiện bay ( Flight Ability ) của IFP . 
+
+2 . Người lái tàu_bay phải : 
+
+a ) Đảm_bảo điều_khiển tàu_bay bay chính_xác , theo đúng IFP đã được Cục Hàng_không Việt_Nam phê_duyệt một_cách an_toàn . 
+
+b ) Thực_hiện nhiệm_vụ nêu tại khoản 1 Điều 48 của Thông_tư này ( trong trường_hợp kiêm_nhiệm vai_trò của người lái FVP ) . 
+
+Điều 49 .  Bay đánh_giá phương_thức bay bằng thiết_bị , sử_dụng GNSS 
+
+1 . Bay đánh_giá này được thực_hiện khi tín_hiệu của Hệ_thống GNSS đã được phép sử_dụng như là phương_tiện dẫn đường chính_thức cho IFP được bay đánh_giá , trong các vùng thông_báo bay của Việt_Nam . 
+
+2 . Không cần phải xác_minh độ chính_xác của các tín_hiệu phát ra từ các vệ_tinh dẫn đường Hệ_thống GNSS mà chủ_yếu xác_minh phương_thức và xác_minh sự phù_hợp của môi_trường thu tín_hiệu vô_tuyến dẫn đường sử_dụng cho phương_thức . 
+
+3 . Bay đánh_giá IFP có sử_dụng hệ_thống GBAS , được thực_hiện sau khi đã bay kiểm_tra , hiệu chuẩn hệ_thống GBAS . 
+
+Điều 50 .  Dữ_liệu cho bay đánh_giá phương_thức bay bằng thiết_bị . 
+
+1 . Tổ_chức xây_dựng IFP có trách_nhiệm đảm_bảo dự_thảo IFP đã được kiểm_tra bởi một nhân_viên thiết_kế phương_thức bay độc_lập và được Cục Hàng_không Việt_Nam phê_duyệt trước khi cung_cấp cho đơn_vị bay đánh_giá IFP . 
+
+2 . Tổ_chức bay đánh_giá IFP có trách_nhiệm thực_hiện đánh_giá IFP trước khi bay đánh_giá IFP hoặc trước khi đánh_giá IFP bằng thiết_bị bay giả_định . 
+
+Điều 51 .  Cấp , cấp lại giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn 
+
+1 . Điều_kiện cấp giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn , bao_gồm : 
+
+a ) Có tàu_bay kiểm_tra , hiệu chuẩn đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+b ) Có người lái tàu_bay kiểm_tra , hiệu chuẩn đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+c ) Có_nhân_viên bay kiểm_tra , hiệu chuẩn đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+d ) Có hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+đ ) Có Tài_liệu hướng_dẫn cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn được biên_soạn theo hướng_dẫn của Cục Hàng_không Việt_Nam và đã được Cục Hàng_không Việt_Nam phê_duyệt . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn gửi 01 bộ Hồ_sơ đề_nghị cấp giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn qua đường bưu_điện hoặc trực_tiếp tới Cục Hàng_không Việt_Nam .  Hồ_sơ bao_gồm : 
+
+a ) Đơn đề_nghị cấp giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn theo mẫu quy_định tại Phụ_lục II ban_hành kèm theo Thông_tư này ; 
+
+b ) Danh_mục hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn đã được cấp phép ; 
+
+c ) Danh_sách nhân_viên thực_hiện công_tác bay kiểm_tra , hiệu chuẩn đã được cấp giấy_phép ; 
+
+d ) Bản_sao Chứng_chỉ đủ điều_kiện bay của tàu_bay thực_hiện công_tác bay kiểm_tra , hiệu chuẩn ; 
+
+đ ) Bản_sao Giấy_phép lái tàu_bay của người lái tàu_bay ; 
+
+e ) Bản_sao văn_bản phê_duyệt tài_liệu hướng_dẫn khai_thác của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn . 
+
+3 . Cấp lại giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn 
+
+a ) Trong những trường_hợp sau đây , tổ_chức phải làm thủ_tục cấp lại giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn với Cục Hàng_không Việt_Nam : Giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra hiệu chuẩn_bị mất , rách hoặc bị tiêu_hủy ;  thay_đổi tên tổ_chức , địa_chỉ trụ_sở chính của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn đề_nghị ;  thay_đổi tên tổ_chức , địa_chỉ của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn trong giấy_phép được cấp ;  thay_đổi mục_đích , phạm_vi , phương_thức cung_cấp dịch_vụ , chế_độ hoạt_động , tổ_chức bộ_máy của tổ_chức cung_cấp dịch_vụ bay kiểm_tra hiệu chuẩn ; 
+
+b ) Hồ_sơ đề_nghị cấp lại giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn theo quy_định tại khoản 2 Điều 51 Thông_tư này . 
+
+4 . Thời_hạn cấp , cấp lại giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn quy_định như sau : 
+
+a ) Trong thời_hạn 02 ( hai ) ngày làm_việc , kể từ ngày nhận hồ_sơ , Cục Hàng_không Việt_Nam kiểm_tra hồ_sơ và có văn_bản thông_báo cho tổ_chức đề_nghị nếu hồ_sơ còn thiếu . 
+
+b ) Trong thời_hạn 10 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ , thực_hiện việc kiểm_tra , đánh_giá và quyết_định việc cấp giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn tổ_chức đề_nghị . 
+
+c ) Trường_hợp từ_chối đơn đề_nghị cấp , trong thời_hạn 07 ngày làm_việc kể từ ngày nhận được đơn đề_nghị , Cục Hàng_không Việt_Nam có trách_nhiệm thông_báo bằng văn_bản cho tổ_chức biết và nêu rõ lý_do . 
+
+d ) Trong quá_trình kiểm_tra , thẩm_định , Cục Hàng_không Việt_Nam có_thể yêu_cầu người đề_nghị cung_cấp các thông_tin hoặc tài_liệu để làm rõ các vấn_đề liên_quan , thời_gian không tính vào thời_gian quy_định tại điểm b khoản 4 của Điều này nhưng không vượt quá 20 ngày . 
+
+Điều 52 .  Cấp giấy chứng_nhận tàu_bay đủ điều_kiện bay kiểm_tra , hiệu chuẩn 
+
+Điều_kiện , hồ_sơ , trình_tự , cách_thức và thời_hạn thực_hiện việc cấp giấy chứng_nhận tàu_bay đủ điều_kiện bay kiểm_tra , hiệu chuẩn thực_hiện theo quy_định tại Phần 3 và Phần 20 của Bộ quy_chế An_toàn hàng_không dân_dụng lĩnh_vực tàu_bay và khai_thác tàu_bay ban_hành kèm theo <TT rel="Reference"> Thông_tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải .
+Điều 53 .  Cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn 
+
+1 . Điều_kiện cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn : 
+
+a ) Có Giấy_phép Lái máy_bay phù_hợp theo quy_định tại Phần 7 của Bộ quy_chế An_toàn hàng_không dân_dụng lĩnh_vực tàu_bay và khai_thác tàu_bay ban_hành kèm theo <TT rel="Reference"> Thông_tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải .
+b ) Có chứng_chỉ hoàn_thành khóa huấn_luyện về bay kiểm_tra , hiệu chuẩn do Cục Hàng_không Việt_Nam cấp hoặc thừa_nhận . 
+
+2 . Tổ_chức , cá_nhân đề_nghị cấp năng định gửi 01 bộ hồ_sơ qua đường bưu_điện hoặc trực_tiếp tới Cục Hàng_không Việt_Nam .  Hồ_sơ bao_gồm : 
+
+a ) Văn_bản đề_nghị cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn ; 
+
+b ) Bản_sao Giấy_phép lái tàu_bay ; 
+
+c ) Bản_sao có chứng_thực chứng_chỉ hoàn_thành khóa huấn_luyện về bay kiểm_tra , hiệu chuẩn . 
+
+3 . Trong thời_hạn 02 ( hai ) ngày làm_việc , kể từ ngày nhận hồ_sơ , Cục Hàng_không Việt_Nam kiểm_tra hồ_sơ và có văn_bản thông_báo cho tổ_chức đề_nghị nếu hồ_sơ còn thiếu . 
+
+4 . Trong thời_hạn 20 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định tại khoản 2 Điều này , Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ và cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn cho tổ_chức , cá_nhân đề_nghị . 
+
+Điều 54 .  Cấp giấy_phép , năng định nhân_viên bay kiểm_tra , hiệu chuẩn 
+
+1 . Điều_kiện cấp giấy_phép , năng định nhân_viên bay kiểm_tra , hiệu chuẩn : 
+
+a ) Là công_dân Việt_Nam đủ 21 tuổi trở lên , không có tiền_án hoặc không trong tình_trạng chấp_hành bản_án hình_sự hoặc không bị truy_cứu trách_nhiệm hình_sự ; 
+
+b ) Tối_thiểu tốt_nghiệp một trường cao_đẳng điện_tử viễn_thông ; 
+
+c ) Đã hoàn_thành khóa đào_tạo về bay kiểm_tra , hiệu chuẩn tại cơ_sở đào_tạo được Cục Hàng_không Việt_Nam công_nhận ; 
+
+d ) Đã tham_dự và đạt kết_quả của kỳ kiểm_tra năng định để cấp giấy_phép nhân_viên bay kiểm_tra , hiệu chuẩn ; 
+
+đ ) Có chứng_nhận đủ điều_kiện sức_khỏe theo tiêu_chuẩn loại 2 tại mục 6.4 Chương 6 Phụ ước 1 của ICAO . 
+
+2 . Hồ_sơ , trình_tự , cách_thức và thời_hạn thực_hiện việc cấp giấy_phép , năng định nhân_viên bay kiểm_tra , hiệu chuẩn thực_hiện theo quy_định tại Điều 17 , Điều 18 của <TT rel="Reference"> Thông_tư số 22/2011/TT-BGTVT ngày 31 tháng 03 năm 2011 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải quy_định về thủ_tục hành_chính thuộc lĩnh_vực bảo_đảm hoạt_động bay .
+Điều 55 .  Cấp giấy_phép hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn 
+
+1 . Điều_kiện cấp giấy_phép hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn 
+
+a ) Hệ_thống , thiết_bị đáp_ứng tiêu_chuẩn do Cục Hàng_không Việt_Nam quy_định hoặc thừa_nhận phù_hợp với tiêu_chuẩn của ICAO ; 
+
+b ) Có chứng_chỉ xuất_xứ , chứng_chỉ chất_lượng của nhà sản_xuất ; 
+
+c ) Có tài_liệu khai_thác , bảo_dưỡng bằng tiếng Việt hoặc tiếng Anh ; 
+
+d ) Có biên_bản nghiệm_thu hoàn_thành công_trình đưa vào sử_dụng ; 
+
+đ ) Có giấy_phép sử_dụng tần_số ; 
+
+e ) Có thiết_bị và nguồn điện dự_phòng phù_hợp ; 
+
+g ) Có thiết_bị ghi và lưu_trữ theo quy_định ; 
+
+h ) Hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn phải phù_hợp tiêu_chuẩn của nhà sản_xuất tàu_bay kiểm_tra , hiệu chuẩn nếu có kết_nối trực_tiếp vào trang_thiết_bị tàu_bay hoặc có yêu_cầu cải_tiến tàu_bay . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn gửi 01 bộ Hồ_sơ đề_nghị cấp giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra hiệu chuẩn qua đường bưu_điện hoặc trực_tiếp tới Cục Hàng_không Việt_Nam .  Hồ_sơ bao_gồm : 
+
+a ) Đơn đề_nghị cấp giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra hiệu chuẩn theo mẫu quy_định tại Phụ_lục III ban_hành kèm theo Thông_tư này ; 
+
+b ) Báo_cáo giải_trình về hệ_thống , thiết_bị phù_hợp với dịch_vụ bay kiểm_tra , hiệu chuẩn mà tổ_chức cung_cấp ; 
+
+c ) Báo_cáo giải_trình về năng_lực khai_thác , bảo_dưỡng , sửa_chữa hệ_thống , thiết_bị ; 
+
+d ) Bản_sao giấy_phép sử_dụng tần_số và thiết_bị phát_sóng vô_tuyến điện do Cục Tần_số vô_tuyến điện thuộc Bộ Thông_tin và Truyền_thông cấp đối_với thiết_bị phát_sóng vô_tuyến điện ; 
+
+đ ) Bản_sao chứng_chỉ xuất_xứ , chứng_chỉ chất_lượng của nhà sản_xuất . 
+
+3 . Tổ_chức phải làm thủ_tục cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn với Cục Hàng_không Việt_Nam trong những trường_hợp sau : 
+
+a ) Khi có sự thay_đổi so với nội_dung của giấy_phép khai_thác đã được cấp ; 
+
+b ) Khi doanh_nghiệp tiến_hành cải_tạo , nâng_cấp hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+c ) Giấy_phép hết hạn . 
+
+4 . Hồ_sơ đề_nghị cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn , bao_gồm : 
+
+a ) Đơn đề_nghị cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn theo mẫu quy_định tại Phụ_lục III ban_hành kèm theo Thông_tư này ; 
+
+b ) Báo_cáo giải_trình việc cải_tạo , nâng_cấp hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn ; 
+
+c ) Bản_sao giấy_phép sử_dụng tần_số và thiết_bị phát_sóng vô_tuyến điện do Cục Tần_số vô_tuyến điện thuộc Bộ Thông_tin và Truyền_thông cấp đối_với thiết_bị phát_sóng vô_tuyến điện . 
+
+5 . Thời_hạn cấp , cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn 
+
+b ) Trong thời_hạn 30 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định , Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ , thực_hiện việc kiểm_tra , đánh_giá và quyết_định việc cấp giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn cho tổ_chức đề_nghị . 
+
+Trong quá_trình kiểm_tra và đánh_giá hồ_sơ , Cục Hàng_không Việt_Nam có_thể yêu_cầu tổ_chức cung_cấp các thông_tin hoặc tài_liệu để làm rõ các vấn_đề liên_quan . 
+
+c ) Trường_hợp từ_chối đơn đề_nghị , trong thời_hạn 07 ngày làm_việc , kể từ ngày nhận được đơn đề_nghị , Cục Hàng_không Việt_Nam có trách_nhiệm thông_báo bằng văn_bản cho tổ_chức biết và nêu rõ lý_do . 
+
+d ) Trong thời_hạn 20 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định tại khoản 4 Điều này , Cục Hàng_không Việt_Nam cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn . 
+
+6 . Giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn có thời_hạn 02 năm kể từ ngày cấp . 
+
+Mục 2 
+
+TỔ_CHỨC CUNG_CẤP DỊCH_VỤ BAY KIỂM_TRA , HIỆU CHUẨN HỆ_THỐNG , THIẾT_BỊ DẪN ĐƯỜNG , GIÁM_SÁT VÀ BAY ĐÁNH_GIÁ PHƯƠNG_THỨC BAY BẰNG THIẾT_BỊ 
+
+Điều 56 .  Cấp , cấp lại giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Điều_kiện cấp giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP : 
+
+a ) Có tổ_chức bộ_máy cung_cấp đồng_thời cả dịch_vụ bay kiểm_tra , hiệu chuẩn và dịch_vụ bay đánh_giá IFP phù_hợp ; 
+
+b ) Có tàu_bay được trang_bị phù_hợp , có khả_năng đồng_thời bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+c ) Có ít_nhất 02 người lái tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+d ) Có ít_nhất 01 người lái FVP đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+đ ) Có ít_nhất 02 nhân_viên bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+e ) Có hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+g ) Có Tài_liệu hướng_dẫn cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP được Cục Hàng_không Việt_Nam phê_duyệt . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn gửi 01 bộ Hồ_sơ đề_nghị cấp giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP qua đường bưu_điện hoặc trực_tiếp tới Cục Hàng_không Việt_Nam .  Hồ_sơ bao_gồm : 
+
+a ) Đơn đề_nghị cấp giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP theo mẫu quy_định tại Phụ_lục II ban_hành kèm theo Thông_tư này ; 
+
+b ) Danh_mục hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP được Cục Hàng_không Việt_Nam cấp phép ; 
+
+c ) Danh_sách nhân_viên thực_hiện công_tác bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+d ) Danh_sách người lái tàu_bay kiểm_tra hiệu chuẩn và bay đánh_giá IFP đã được Cục Hàng_không Việt_Nam cấp phép ; 
+
+đ ) Bản_sao Chứng_chỉ đủ điều_kiện bay của tàu_bay thực_hiện công_tác bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+e ) Bản_sao Giấy_phép lái tàu_bay của người lái tàu_bay và người lái FVP ; 
+
+g ) Bản_sao văn_bản phê_duyệt tài_liệu hướng_dẫn khai_thác của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn . 
+
+3 . Tổ_chức phải làm thủ_tục cấp lại giấy_phép với Cục Hàng_không Việt_Nam trong các trường_hợp sau đây : 
+
+a ) Giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP bị mất , rách hoặc bị tiêu_hủy ; 
+
+b ) Thay_đổi tên tổ_chức , địa_chỉ trụ_sở chính của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP đề_nghị ; 
+
+c ) Thay_đổi tên tổ_chức , địa_chỉ của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP trong giấy_phép được cấp ; 
+
+d ) Thay_đổi mục_đích , phạm_vi , phương_thức cung_cấp dịch_vụ , chế_độ hoạt_động , tổ_chức bộ_máy của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP . 
+
+4 . Hồ_sơ đề_nghị cấp lại giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP theo quy_định tại khoản 2 Điều này . 
+
+5 . Thời_hạn cấp , cấp lại giấy_phép tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP : 
+
+a ) Trong thời_hạn 02 ( hai ) ngày làm_việc , kể từ ngày nhận hồ_sơ , Cục Hàng_không Việt_Nam kiểm_tra hồ_sơ và có văn_bản thông_báo cho tổ_chức đề_nghị nếu hồ_sơ còn thiếu ; 
+
+b ) Trong thời_hạn 30 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định , Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ , thực_hiện việc kiểm_tra , đánh_giá và quyết_định việc cấp giấy_phép khai_thác tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP cho tổ_chức đề_nghị ; 
+
+c ) Trường_hợp từ_chối đơn đề_nghị cấp , trong thời_hạn 07 ( bẩy ) ngày làm_việc , kể từ ngày nhận đơn đề_nghị , Cục Hàng_không Việt_Nam có trách_nhiệm thông_báo bằng văn_bản cho tổ_chức biết và nêu rõ lý_do ; 
+
+d ) Trong quá_trình kiểm_tra , thẩm_định , Cục Hàng_không Việt_Nam có_thể yêu_cầu người đề_nghị cung_cấp các thông_tin hoặc tài_liệu để làm rõ các vấn_đề liên_quan . 
+
+Điều 57 .  Cấp , cấp lại giấy_phép tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Điều_kiện cấp giấy_phép tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP : 
+
+a ) Tàu_bay phải có khả_năng thực_hiện bay kiểm_tra , hiệu chuẩn theo quy_định cấp giấy_phép tại Điều 52 của Thông_tư này ; 
+
+b ) Tàu_bay phải được trang_bị hệ_thống , thiết_bị có khả_năng thực_hiện bay đánh_giá IFP truyền_thống và IFP theo PBN . 
+
+2 . Hồ_sơ , trình_tự , cách_thức và thời_hạn cấp , cấp lại giấy_phép người lái tàu_bay kiểm_tra hiệu chuẩn và bay đánh_giá IFP thực_hiện theo quy_định tại Phần 3 và Phần 20 của Bộ quy_chế An_toàn hàng_không dân_dụng lĩnh_vực tàu_bay và khai_thác tàu_bay được ban_hành kèm theo <TT rel="Reference"> Thông_tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải .
+Điều 58 .  Cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Điều_kiện cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP : 
+
+a ) Theo quy_định tại khoản 1 Điều 53 của Thông_tư này ; 
+
+b ) Có chứng_chỉ hoàn_thành khóa huấn_luyện về bay đánh_giá IFP . 
+
+a ) Văn_bản đề_nghị cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+c ) Bản_sao có chứng_thực chứng_chỉ hoàn_thành khóa huấn_luyện về bay đánh_giá IFP . 
+
+3 . Trong thời_hạn 02 ( hai ) ngày làm_việc kể từ ngày nhận hồ_sơ , Cục Hàng_không Việt_Nam kiểm_tra hồ_sơ và có văn_bản thông_báo cho tổ_chức đề_nghị nếu hồ_sơ còn thiếu . 
+
+4 . Trong thời_hạn 20 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định tại khoản 2 Điều này , Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ và cấp năng định lái tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP cho tổ_chức , cá_nhân đề_nghị . 
+
+5 . Trường_hợp từ_chối đơn đề_nghị cấp , trong thời_hạn 07 ( bẩy ) ngày làm_việc , kể từ ngày nhận đơn đề_nghị , Cục Hàng_không Việt_Nam có trách_nhiệm thông_báo bằng văn_bản cho tổ_chức biết và nêu rõ lý_do . 
+
+6 . Người lái tàu_bay kiểm_tra , hiệu chuẩn được xem_xét cấp phép bổ_sung chức_năng của người lái FVP trong trường_hợp đáp_ứng đầy_đủ điều_kiện theo quy_định tại khoản 1 Điều 59 Thông_tư này . 
+
+Điều 59 .  Cấp năng định người lái thực_hiện bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Điều_kiện cấp năng định người lái FVP : 
+
+a ) Có Giấy_phép Lái máy_bay thương_mại theo quy_định tại Phần 7 của Bộ quy_chế An_toàn hàng_không dân_dụng lĩnh_vực tàu_bay và khai_thác tàu_bay được ban_hành kèm theo <TT rel="Reference"> Thông_tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải hoặc có giấy_phép do tổ_chức có thẩm_quyền nước_ngoài cấp được Cục Hàng_không Việt_Nam công_nhận ;
+a ) Văn_bản đề_nghị cấp năng định người lái thực_hiện bay đánh_giá IFP ; 
+
+b ) Bản_sao Giấy_phép lái tàu_bay thương_mại ; 
+
+4 . Trong thời_hạn 20 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định tại khoản 2 Điều này , Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ và cấp năng định người lái thực_hiện bay đánh_giá IFP cho tổ_chức , cá_nhân đề_nghị . 
+
+Điều 60 .  Cấp , cấp lại giấy_phép nhân_viên bay kiểm_tra , hiệu chuẩn và bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Điều_kiện cấp giấy_phép nhân_viên bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP : 
+
+a ) Theo quy_định tại khoản 1 Điều 54 của Thông_tư này ; 
+
+2 . Hồ_sơ , trình_tự , cách_thức và thời_hạn cấp , cấp lại giấy_phép nhân_viên bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , thực_hiện theo quy_định tại Điều 17 , Điều 18 của <TT rel="Reference"> Thông_tư 22/2011/TT-BGTVT ngày 31 tháng 03 năm 2011 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải quy_định về thủ_tục hành_chính thuộc lĩnh_vực bảo_đảm hoạt_động bay .
+Điều 61 .  Cấp , cấp lại giấy_phép hệ_thống , thiết_bị bay kiểm_tra hiệu chuẩn và bay đánh_giá phương_thức bay bằng thiết_bị 
+
+và bay đánh_giá IFP , bao_gồm 
+
+a ) Theo quy_định tại khoản 1 Điều 55 của Thông_tư này ; 
+
+b ) Có chức_năng đánh_giá các thông_số , điều_kiện đối_với IFP truyền_thống và IFP theo PBN . 
+
+2 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và đánh_giá IFP gửi 01 ( một ) bộ Hồ_sơ đề_nghị cấp giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra hiệu chuẩn và bay đánh_giá IFP qua đường bưu_điện hoặc trực_tiếp tới Cục Hàng_không Việt_Nam .  Hồ_sơ bao_gồm : 
+
+a ) Đơn đề_nghị cấp giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra hiệu chuẩn và bay đánh_giá IFP theo mẫu quy_định tại Phụ_lục III ban_hành kèm theo Thông_tư này ; 
+
+b ) Báo_cáo giải_trình về hệ_thống , thiết_bị phù_hợp với dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP mà tổ_chức cung_cấp ; 
+
+3 . Tổ_chức phải làm thủ_tục cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP với Cục Hàng_không Việt_Nam trong những trường_hợp sau : 
+
+a ) Khi có sự thay_đổi nội_dung của giấy_phép khai_thác đã được cấp ; 
+
+b ) Khi doanh_nghiệp tiến_hành cải_tạo , nâng_cấp hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP đã được Cục Hàng_không Việt_Nam cấp giấy_phép ; 
+
+c ) Giấy_phép hết hạn hiệu_lực . 
+
+4 . Hồ_sơ đề_nghị cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , bao_gồm : 
+
+a ) Đơn đề_nghị cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP theo mẫu quy_định tại Phụ_lục III ban_hành kèm theo Thông_tư này ; 
+
+b ) Báo_cáo giải_trình việc cải_tạo , nâng_cấp hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+: 
+
+b ) Trong thời_hạn 30 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định , Cục Hàng_không Việt_Nam có trách_nhiệm thẩm_định hồ_sơ , kiểm_tra , đánh_giá và quyết_định , việc cấp giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP cho tổ_chức đề_nghị . 
+
+c ) Trường_hợp từ_chối đơn đề_nghị , trong thời_hạn 07 ( bẩy ) ngày làm_việc kể từ ngày nhận đơn đề_nghị , Cục Hàng_không Việt_Nam có trách_nhiệm thông_báo bằng văn_bản cho tổ_chức biết và nêu rõ lý_do . 
+
+d ) Trong thời_hạn 20 ngày , kể từ ngày nhận hồ_sơ đầy_đủ theo quy_định tại khoản 4 Điều này , Cục Hàng_không Việt_Nam cấp lại giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP . 
+
+6 . Giấy_phép khai_thác hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn có thời_hạn 02 năm kể từ ngày ký . 
+
+Điều 62 .  Công_nhận tổ_chức cung_cấp dịch_vụ của nước_ngoài . 
+
+1 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP của nước_ngoài được Cục Hàng_không Việt_Nam công_nhận trên cơ_sở giấy_phép của Cơ_quan quản_lý nhà_nước về hàng không của quốc_gia khác và đáp_ứng các điều_kiện tương_ứng theo quy_định tại Điều 51 và Điều 56 của Thông_tư này . 
+
+2 . Tổ_chức cung_cấp dịch_vụ của nước_ngoài quy_định tại khoản 1 Điều này chỉ được cung_cấp dịch_vụ cho ngành Hàng_không dân_dụng Việt_Nam khi được Cục Hàng_không Việt_Nam chấp_thuận . 
+
+Điều 63 .  Trách_nhiệm của tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá phương_thức bay bằng thiết_bị 
+
+1 . Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn hoặc tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP thuộc ngành Hàng_không dân_dụng Việt_Nam có trách_nhiệm : 
+
+a ) Đảm_bảo thực_hiện cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn hệ_thống_thiết_bị dẫn đường , giám_sát và bay đánh_giá IFP trong ngành Hàng_không dân_dụng Việt_Nam theo quy_định tại Thông_tư này và các văn_bản hướng_dẫn có liên_quan của Cục Hàng_không Việt_Nam ; 
+
+b ) Giám_sát và đảm_bảo tình_trạng kiểm_định , hiệu chuẩn hệ_thống , thiết_bị theo chỉ_định của Cục Hàng_không Việt_Nam ; 
+
+c ) Căn_cứ yêu_cầu của các tổ_chức cung_cấp dịch_vụ dẫn đường , giám_sát và điều_kiện địa_hình trong từng khu_vực , xây_dựng phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn cho từng hệ_thống , thiết_bị dẫn đường , giám_sát cho từng hình_thức bay , đợt bay ; 
+
+d ) Tổng_hợp trình Cục Hàng_không Việt_Nam phê_duyệt cho từng đợt bay : Danh_mục hệ_thống , thiết_bị dẫn đường , giám_sát tham_gia bay kiểm_tra , hiệu chuẩn ;  nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn cho từng hệ_thống , thiết_bị ;  phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn cho từng hệ_thống , thiết_bị ;  lịch bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+đ ) Xin phép bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , giấy_phép ra vào các khu_vực sân_bay ; 
+
+e ) Thông_báo cho tổ_chức cung_cấp dịch_vụ thông_báo tin_tức hàng không thông_tin liên_quan bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , để phát thông_báo NO TAM kịp_thời ; 
+
+g ) Trong quá_trình thực_hiện bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , phối_hợp với các cơ_quan , đơn_vị có liên_quan và tuân_thủ sự chỉ_đạo của Cục Hàng_không Việt_Nam , chỉ_đạo , giám_sát trực_tiếp của cán_bộ thực_hiện nhiệm_vụ thuộc Cục Hàng_không Việt_Nam ; 
+
+h ) Trình Cục Hàng_không Việt_Nam xem_xét , phê_duyệt kết_quả đợt bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ( trong thời_hạn 14 ngày , kể từ ngày kết_thúc đợt bay ) .  Trường_hợp cần đưa hệ_thống , thiết_bị cụ_thể vào hoạt_động ngay sau khi bay xong , thực_hiện báo_cáo theo yêu_cầu Cục Hàng_không Việt_Nam . 
+
+2 . Tổ_chức cung_cấp dịch_vụ của nước_ngoài có trách_nhiệm tuân_thủ sự hướng_dẫn và giám_sát của Cục Hàng_không Việt_Nam trong quá_trình thực_hiện_tại Việt_Nam . 
+
+Điều 64 .  Trách_nhiệm của các tổ_chức cung_cấp dịch_vụ dẫn đường , giám_sát 
+
+1 . Đảm_bảo hệ_thống , thiết_bị dẫn đường , giám_sát của tổ_chức mình được bay kiểm_tra , hiệu chuẩn theo quy_định tại Thông_tư này và tại các hướng_dẫn có liên_quan của Cục Hàng_không Việt_Nam . 
+
+2 . Tổ_chức thực_hiện bay đánh_giá các IFP thuộc phạm_vi trách_nhiệm của mình khi được Cục Hàng_không Việt_Nam chỉ_định , trước khi công_bố đưa vào khai_thác , phục_vụ hoạt_động bay . 
+
+3 . Phối_hợp với tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP và các cơ_quan , đơn_vị có liên_quan , triển_khai thực_hiện kế_hoạch bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , thuộc khu_vực trách_nhiệm của tổ_chức mình , bao_gồm : 
+
+a ) Phối_hợp với đơn_vị bay kiểm_tra , hiệu chuẩn để kiểm_tra , hiệu_chỉnh hệ_thống , thiết_bị ;  giải_quyết các nội_dung công_việc có liên_quan trong quá_trình chuẩn_bị và trong thời_gian bay kiểm_tra , hiệu chuẩn ; 
+
+b ) Phối_hợp với tổ_chức bay đánh_giá IFP để theo_dõi kết_quả bay đánh_giá IFP ;  giải_quyết các nội_dung công_việc có liên_quan trong quá_trình chuẩn_bị và trong thời_gian bay đánh_giá IFP ; 
+
+c ) Thực_hiện các công_việc để bảo_đảm khai_thác đối_với các hệ_thống_thiết_bị và IFP của tổ_chức mình do Cục Hàng_không Việt_Nam giao sau mỗi đợt bay kiểm_tra , hiệu chuẩn và hoặc bay đánh_giá IFP . 
+
+Điều 65 .  Trách_nhiệm của tổ_chức cung_cấp dịch_vụ không_lưu 
+
+Tổ_chức cung_cấp dịch_vụ không_lưu hàng_không dân_dụng có trách_nhiệm điều_hành các hoạt_động bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP và đảm_bảo an_toàn cho các hoạt_động bay liên_quan . 
+
+Điều 66 .  Trách_nhiệm của tổ_chức cung_cấp dịch_vụ thông_báo tin_tức hàng_không 
+
+Tổ_chức cung_cấp dịch_vụ thông_báo tin_tức hàng không có trách_nhiệm thông_báo NO TAM một_cách đầy_đủ , chi_tiết và kịp_thời về các thông_tin liên_quan đến các hoạt_động bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP . 
+
+Điều 67 .  Trách_nhiệm của các hãng hàng không Việt_Nam 
+
+Tổ_chức thực_hiện đánh_giá các IFP trên thiết_bị bay giả_định ( Flight Simulator ) của mình theo đề_nghị của Cục Hàng_không Việt_Nam . 
+
+Điều 68 .  Trách_nhiệm của Cục Hàng_không Việt_Nam 
+
+1 . Chỉ_đạo , giám_sát công_tác bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP . 
+
+2 . Cấp các giấy_phép : 
+
+a ) Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn ; 
+
+b ) Tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+c ) Chứng_nhận tàu_bay đủ điều_kiện bay kiểm_tra , hiệu chuẩn ; 
+
+d ) Chứng_nhận tàu_bay đủ điều_kiện bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+đ ) Nhân_viên bay kiểm_tra , hiệu chuẩn ; 
+
+e ) Nhân_viên bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+g ) Hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn ; 
+
+h ) Hệ_thống , thiết_bị bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+i ) Người lái tàu_bay kiểm_tra , hiệu chuẩn ; 
+
+k ) Người lái tàu_bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ; 
+
+l ) Người lái FVP . 
+
+3 . Chấp_thuận cải_tiến tàu_bay phục_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP ( nếu có ) . 
+
+4 . Công_nhận giấy_phép của các tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP của nước_ngoài ( nếu có ) . 
+
+5 . Hướng_dẫn , chỉ_đạo và giám_sát tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP của nước_ngoài trong quá_trình thực_hiện_tại Việt_Nam ( nếu có ) . 
+
+6 . Xem_xét quyết_định IFP cần phải bay đánh_giá và bay đánh_giá lại . 
+
+7 . Hỗ_trợ tổ_chức cung_cấp dịch_vụ bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP trong việc xin phép , bay với cơ_quan quân_sự Việt_Nam và với cơ_quan nước_ngoài có liên_quan ( khi cần ) . 
+
+8 . Phê_duyệt cho từng đợt bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP , bao_gồm : Danh_mục hệ_thống , thiết_bị tham_gia bay kiểm_tra , hiệu chuẩn ;  nội_dung kỹ_thuật bay kiểm_tra , hiệu chuẩn ;  các phương_thức ( bài ) bay kiểm_tra , hiệu chuẩn ;  lịch bay chi_tiết ;  kết_quả bay kiểm_tra , hiệu chuẩn và bay đánh_giá IFP . 
+
+9 . Hướng_dẫn việc bay kiểm_tra vùng phủ_sóng trạm liên_lạc thoại VHF AM không-địa và trạm ADS-B , trên cơ_sở nhu_cầu thực_tiễn , tiêu_chuẩn và khuyến_cáo thực_hành có liên_quan của ICAO . 
+
+10 .  Chỉ_đạo các tổ_chức cung_cấp dịch_vụ dẫn đường , giám_sát , không_lưu thực_hiện các biện_pháp giải_quyết , khắc_phục sau mỗi đợt bay . 
+
+Điều 69 .  Hiệu_lực thi_hành 
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 01 tháng 5 năm 2014 . 
+
+2 . Trong trường_hợp các văn_bản được viện_dẫn trong Thông_tư này có những sửa_đổi , bổ_sung hoặc cập_nhật thì áp_dụng các sửa_đổi , bổ_sung hoặc cập_nhật của văn_bản mới tương_ứng . 
+
+3 . Bãi_bỏ các Điều 41 , 42 , 43 , 44 , 45 và Điều 46 của <QĐ rel="PartDrop"> Quyết_định số 14/2007/QĐ-BGTVT ngày 26 tháng 3 năm 2007 </QĐ> của Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Quy_chế thông_tin , dẫn đường , giám_sát hàng_không dân_dụng .
+Điều 70 .  Trách_nhiệm thi_hành 
+
+Chánh_văn_phòng Bộ , Chánh Thanh_tra Bộ , Vụ_trưởng các Vụ , Cục_trưởng Cục Hàng_không Việt_Nam , Thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này ./. 
