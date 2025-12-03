@@ -13,7 +13,7 @@ from docx import Document
 import tempfile
 from docx2pdf import convert
 import subprocess
-import os
+import os, sys
 import win32com.client as win32
 import mammoth, pdfplumber, tempfile, docx2txt
 import json
@@ -22,9 +22,7 @@ s3 = boto3.client("s3")
 
 #For S3 file call
 def list_files_recursive(bucket_name = 'legaldocstorage', file_types = None) -> list[str]:
-    '''
-    List all files inside the S3 bucket in a recursive manner (files and folders)
-    '''
+
     paginator = s3.get_paginator("list_objects_v2")
 
     files = []
@@ -40,11 +38,6 @@ def list_files_recursive(bucket_name = 'legaldocstorage', file_types = None) -> 
 def upload_file_to_s3(file_path: str, bucket_name: str = 'legaldocstorage', expire: int = 3600) -> str:
     """
     Upload a file to S3 and return a presigned URL.
-    
-    Parameter:
-    
-    file_path: local path to the target file
-    
     """
     
     object_name = file_path.split("/")[-1]
@@ -76,7 +69,7 @@ def bucket_object_separator(bucket_object: str) -> tuple[str, str]:
 
 def download_file_from_s3(bucket_object: str, local_path: str = ''):
     """
-    Downloads whole file from S3 and saves it locally.
+    Downloads a file from S3 and saves it locally.
     """
     bucket_name, object_name = bucket_object_separator(bucket_object)
     try:
@@ -86,9 +79,6 @@ def download_file_from_s3(bucket_object: str, local_path: str = ''):
         raise Exception("❌ AWS credentials not available")
 
 def extract_docx_all_text(body):
-    '''
-    Extract content from specifically docx format
-    '''
     doc = Document(io.BytesIO(body))
     texts = []
 
@@ -114,10 +104,7 @@ def extract_docx_all_text(body):
 def get_text_from_s3(object: str):
     """
     Fetch text from S3 for many file formats:
-    PDF, DOCX, DOC, TXT, CSV, JSON
-    
-    Parameter: 
-    object: filename (make sure the file is first level to be accessed at bucket_name/filename)
+    PDF, DOCX, DOC, TXT, CSV, JSON, HTML, XML, RTF, ODT, EPUB, Images (OCR)
     """
 
     bucket_object = f'legaldocstorage/{object}'
@@ -317,14 +304,6 @@ def dml_ddl_neo4j(query: str, **params):
 
 #File format changes
 def save_to_txt(text: str, file_name: str):
-    '''
-    Save text string to a txt file
-    
-    Parameter:
-    text: str
-    file_name: local path to target file
-    '''
-    
     with open(f"D:/Study/Education/Projects/Group_Project/source/document/text_format/{file_name}.txt", "w", encoding="utf-8") as f:
         f.write(text)
     print("File saved as output.txt")
@@ -337,8 +316,6 @@ def docx_to_pdf(input_path, output_path=None):
         input_path (str): Path to the .docx file.
         output_path (str, optional): Path to save the converted PDF.
                                     Defaults to same folder as input.
-                                    
-    Warning: Auto deletes the source docx file after conversion, cannot be undone
     """
     if not input_path.lower().endswith(".docx"):
         raise ValueError("Only .docx files are supported by docx2pdf")
@@ -351,12 +328,12 @@ def docx_to_pdf(input_path, output_path=None):
     os.remove(input_path)
     
     print(f"✅ Converted: {input_path} → {output_path} and safely deleted {input_path}")
+    
+    return output_path
 
 def doc_to_pdf(input_dir = 'D:/Study/Education/Projects/Group_Project/source/document/original_doc', output_dir='D:/Study/Education/Projects/Group_Project/source/document'):
     """
-    Convert all .doc files to PDF from a whole folder to a new folder
-    
-    Warning: Auto deletes the source docx file after conversion, cannot be undone
+    Convert a .doc file to PDF using LibreOffice.
     """
     libreoffice_path = r"C:/Program Files/LibreOffice/program/soffice.exe"
 
@@ -382,15 +359,6 @@ def doc_to_pdf(input_dir = 'D:/Study/Education/Projects/Group_Project/source/doc
     return pdf_path
 
 def doc_to_docx(input_path, output_path=None):
-    '''
-    Convert doc to docx file for easier parsing
-    
-    Parameter:
-    
-    input_path: path to doc file
-    
-    output_path: path to docx target file
-    '''
     # Convert to absolute normalized Windows path
     input_path = os.path.abspath(input_path)
     input_path = input_path.replace("/", "\\")

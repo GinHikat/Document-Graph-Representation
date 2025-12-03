@@ -1,5 +1,5 @@
 '''
-To use these functions, grant the "Editor" permission to the service account email on the target Google Sheet and
+To use these functions, grant the "Editor" permission to the service account email on the target Google Sheet/ Google Drive and
                                                                             change the ID in the function parameter
 
 "gg-service-agent@legalrag-471601.iam.gserviceaccount.com" 
@@ -17,46 +17,29 @@ import json
 # from oauth2client.service_account import ServiceAccountCredentials
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
-from gspread.exceptions import WorksheetNotFound
 
 from typing import List, Dict, Optional
 from google.oauth2 import service_account
 from googleapiclient.http import MediaFileUpload, MediaIoBaseDownload
 from collections import defaultdict
 from dotenv import load_dotenv
+import mimetypes
 
 load_dotenv()
 
-#Change path to match the address of the file
-google_api_creds = 'ggsheet_credentials.json'
+google_api_creds = 'D:/Study/Education/Projects/Group_Project/secrets/ggsheet_credentials.json'
 spreadsheet_id = os.getenv('GOOGLE_SHEET_ID') 
 drive_id = os.getenv('GOOGLE_DRIVE_ID')
 
 #Google Sheet
 def gs_to_df_pandas(tab_name, spreadsheet_id = spreadsheet_id, creds_path=google_api_creds):
-    '''
-    Pull content from ggsheet to pd.DataFrame
-    
-    Parameter:
-    tab_name: Tab name on gg_sheet
-    spreadsheet_id: Already set in .env
-    
-    '''
-    gc = gspread.service_account(filename=creds_path)
-    sh = gc.open_by_key(spreadsheet_id)
-    wks = sh.worksheet(tab_name)
-    df = pd.DataFrame(wks.get_all_records())
-    return df
+  gc = gspread.service_account(filename=creds_path)
+  sh = gc.open_by_key(spreadsheet_id)
+  wks = sh.worksheet(tab_name)
+  df = pd.DataFrame(wks.get_all_records())
+  return df
 
 def gs_to_dict( tab_name, spreadsheet_id = spreadsheet_id, creds_path=google_api_creds):
-    '''
-    Pull content from ggsheet to dictionary
-    
-    Parameter:
-    tab_name: Tab name on gg_sheet
-    spreadsheet_id: Already set in .env
-    
-    '''
     gc = gspread.service_account(filename=creds_path)
     sh = gc.open_by_key(spreadsheet_id)
     wks = sh.worksheet(tab_name)
@@ -64,14 +47,9 @@ def gs_to_dict( tab_name, spreadsheet_id = spreadsheet_id, creds_path=google_api
     return results_json
 
 def write_df_to_gs(df, tab_name, spreadsheet_id = spreadsheet_id, creds_path=google_api_creds):
-    '''
-    Write df content to ggsheet
+    import gspread
+    from gspread.exceptions import WorksheetNotFound
     
-    Parameter:
-    df: pd.DataFrame
-    tab_name: Tab name on gg_sheet
-    
-    '''
     gc = gspread.service_account(filename=creds_path)
     sh = gc.open_by_key(spreadsheet_id)
 
@@ -103,14 +81,6 @@ def list_drive_files(
     folder_id: str = drive_id,
     creds_path: str = google_api_creds,
     prefix_path: str = ''):
-    
-    '''
-    List all folders and files in the Google Drive as tree
-    
-    Parameter:
-    No need
-    
-    '''
     
     service = get_drive_service(creds_path)
     results = []
@@ -192,16 +162,7 @@ def find_file_full_path(
     creds_path: str = google_api_creds,
     drive_id: Optional[str] = None
 ) -> Optional[Dict]:
-    '''
-    Find the full path of a file inside the Drive
-    
-    Parameter:
-    filename: Only filename
-    
-    Return:
-    full path to the file inside the Drive
-    
-    '''
+
     creds = service_account.Credentials.from_service_account_file(
         creds_path,
         scopes=["https://www.googleapis.com/auth/drive"]
@@ -246,16 +207,7 @@ def find_file_full_path(
     return full_path
 
 def read_drive_file(path: str, creds_path: str = google_api_creds, as_type: str = None, drive_id: str = drive_id):
-    '''
-    Return the parsed text from the Drive file
     
-    Parameter:
-    path: Full path to the file or just filename
-    
-    Return: text content inside the file
-    
-    File format supported: json, csv, docx, doc, pdf, txt
-    '''
     full_path = path if "/" in path else find_file_full_path(path)
     service = get_drive_service(creds_path)
     parts = full_path.replace("\\", "/").split("/")
@@ -470,13 +422,6 @@ def count_files_by_folder_name(
 ):
     """
     Count files inside a folder specified by *name*, not ID.
-    
-    Input: name of the folder
-    
-    Return: x, y
-    
-    x: int: number of files inside that folder
-    y: List[str]: list of name of files inside that folder
     """
     folder_info = find_folder_by_name(folder_name, creds_path)
 
@@ -487,4 +432,55 @@ def count_files_by_folder_name(
 
     # Reuse your folder-counting logic:
     return count_files_in_folder(folder_id, creds_path, recursive)
+
+def upload_file_to_drive(
+    filepath: str,
+    folder_name: str,
+    creds_path: str = google_api_creds
+):
+    """
+    Upload a local file to a Google Drive folder specified by name.
+    Supports Shared Drives for service accounts.
+
+    Parameters:
+        filepath (str): Path to the local file to upload.
+        folder_name (str): Name of the target Google Drive folder (can be in a Shared Drive).
+        creds_path (str): Path to service account credentials JSON.
+    """
+
+    # --- 1. Find folder by name ---
+    folder_info = find_folder_by_name(folder_name, creds_path)
+    if folder_info is None:
+        raise ValueError(f"❌ Folder '{folder_name}' not found on Google Drive.")
+    
+    folder_id = folder_info["id"]
+
+    # --- 2. Prepare file metadata ---
+    file_name = os.path.basename(filepath)
+    mime_type, _ = mimetypes.guess_type(filepath)
+    if mime_type is None:
+        mime_type = "application/octet-stream"
+
+    file_metadata = {
+        "name": file_name,
+        "parents": [folder_id]
+    }
+
+    # --- 3. Upload file ---
+    service = get_drive_service(creds_path)
+    media = MediaFileUpload(filepath, mimetype=mime_type, resumable=True)
+    
+    try:
+        uploaded_file = service.files().create(
+            body=file_metadata,
+            media_body=media,
+            fields="id, name",
+            supportsAllDrives=True  # <-- important for Shared Drives
+        ).execute()
+    except HttpError as e:
+        raise RuntimeError(f"❌ Failed to upload file: {e}")
+
+    full_path = os.path.join(folder_info.get("full_path", folder_name), file_name)
+
+    print(f"✅ File uploaded: {full_path} to Folder {folder_name}")
 
