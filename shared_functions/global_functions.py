@@ -18,6 +18,8 @@ import win32com.client as win32
 import mammoth, pdfplumber, tempfile, docx2txt
 import json
 
+from sentence_transformers import SentenceTransformer
+
 s3 = boto3.client("s3")
 
 #For S3 file call
@@ -383,3 +385,34 @@ def doc_to_docx(input_path, output_path=None):
     word.Quit()
 
     return output_path
+
+def text_embedding(text, model_id, phobert=None):
+    """
+    Embed text based on the model from a set of pretrained models
+    
+    Input: 
+    text: str 
+    model_id: int (position of model)
+    
+    Return:
+    embedding: numpy.ndarray
+    """
+    
+    models = {
+        0: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        1: "sentence-transformers/distiluse-base-multilingual-cased-v2",
+        2: "sentence-transformers/all-mpnet-base-v2",
+        3: "vinai/phobert-base"
+    }
+
+    if model_id < 3:
+        embedding_model = SentenceTransformer(models[model_id])
+        return embedding_model.encode(text)
+
+    elif model_id == 3:
+        assert phobert is not None, "PhoBERT model must be passed when model_id == 5"
+
+        embedding, _, _ = phobert.encode(text)
+        embedding = embedding.squeeze(0).mean(0).detach().numpy()
+
+        return embedding
