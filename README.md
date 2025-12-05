@@ -50,3 +50,29 @@ II. Working file for each task
 
 - For the document autoprocessing into Graphdb: rag_model/model/test_pipeline.ipynb
 
+III. Some additional Notes
+
+1. When use text_embedding() from shared_functions/global_functions.py
+
+List of embedding model and their respective id
+
+```python
+models = {
+        0: "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        1: "sentence-transformers/distiluse-base-multilingual-cased-v2",
+        2: "sentence-transformers/all-mpnet-base-v2",
+        3: "vinai/phobert-base"
+    }
+```
+
+If use phobert-base then call PhoBERTEmbedding first
+
+```python
+from rag_model.model.RE.final_re import *
+
+phobert = PhoBERTEmbedding()
+
+text = 'sample text'
+
+embedding = text_embedding(text, 3, phobert)
+```
