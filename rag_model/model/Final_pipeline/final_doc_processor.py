@@ -1446,7 +1446,18 @@ class Doc_processor:
                         law_id=df_relation.iloc[i,6],
                         issue_date=str(df_relation.iloc[i,4])
                     )                   
-                    
+            #if id not available, use date
+            if df_relation.iloc[i,4]:
+                dml_ddl_neo4j(
+                f"""
+                MERGE (l:`{doc_type}`:`{ns_label}` {{issue_date: $issue_date}})
+                WITH l
+                MATCH (r: `{doc_type_label}`:`{ns_label}` {{id: $law_id2}})
+                MERGE (r)-[:`{df_relation.iloc[i,2]}`]->(l)
+                """,
+                issue_date=str(df_relation.iloc[i,4]),
+                law_id2=metadata['law_id']
+            )
         # Parse structure
         parsed = self.parse_legal_text(text)
 
