@@ -9,7 +9,7 @@ from collections import OrderedDict
 from underthesea import sent_tokenize
 import re
 import unicodedata
-from collections import OrderedDict
+from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 
 project_root = os.path.abspath(os.path.join(os.getcwd(), ".."))
 if project_root not in sys.path:
@@ -44,6 +44,7 @@ def text_embedding(text, model_id, phobert=None):
         2: "sentence-transformers/all-mpnet-base-v2",
         3: 'sentence-transformers/all-MiniLM-L12-v2',
         4: "vinai/phobert-base"
+        5: "BAAI/bge-m3"
     }
 
     if model_id < 4:
@@ -55,6 +56,13 @@ def text_embedding(text, model_id, phobert=None):
 
         embedding, _, _ = phobert.encode(text)
         embedding = embedding.squeeze(0).mean(0).detach().numpy()
+        
+    elif model_id == 5:
+        embeddings = HuggingFaceBgeEmbeddings(
+            model_name="BAAI/bge-m3",
+            model_kwargs={"device": "cuda"}, 
+            encode_kwargs={"normalize_embeddings": True}
+        )
 
         return embedding
 

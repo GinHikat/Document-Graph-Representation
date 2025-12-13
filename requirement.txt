@@ -28,6 +28,7 @@ torch torchvision torchaudio
 google-generativeai
 langchain-text-splitters
 pytorch-crf
+transformers
 
 neo4j-graphrag
 neo4j-graphrag[openai]
