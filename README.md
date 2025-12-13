@@ -90,8 +90,49 @@ text = 'sample text'
 embedding = text_embedding(text, 1)
 ```
 
-The Sample Evaluation function can be found in 
+For the evaluation functions, call
 
-rag_model/retrieval_pipeline/evaluation.ipynb
+```python
+from shared_functions.eval import *
 
-This is not the final version and will be changed in the future
+eval = Evaluator()
+
+#if only embedding or jaccard
+result = eval.evaluate_embedding(referenced_context = , retrieved_context = , embedding_threshold = )
+result = eval.evaluate_jaccard(referenced_context = , retrieved_context = , jaccard_threshold = )
+
+#if combined result
+result = eval.combined_evaluator(referenced_context = , retrieved_context = , embedding_threshold = , jaccard_threshold = , scaling_factor = )
+
+#if ragas, pass the whole dataframe instead of single entity, dataframe should contain question/user_input, answer/reference, retrieved_contexts
+#rename input columns if needed
+eval.ragas(df)
+```
+
+For the Graph Retrieval, call
+```python
+from shared_functions.batch_retrieval_neo4j import *
+
+neo4j_retriever = Neo4j_retriever()
+
+#if input is the whole dataframe with a lot of question
+mode = {
+        1: "default",
+        2: "traverse_embed",
+        3: "traverse_exact",
+        4: "pagerank_embed",
+        5: "pagerank_exact",
+        6: "exact_match",
+        7: "exact_match_with_rerank"
+    }
+
+graph = {1 if "use graph embedding", 0 if "use raw text embedding"}
+chunks = {1 if "use only chunk nodes", 0 if "use all availabale nodes"}
+hop = "Number of hops from original seed in traversal
+
+#expect df has a 'question' column
+df = neo4j_retriever.batch_query(df, mode = , graph = , chunks = , hop = )
+
+# if input is one single sentence
+df = neo4j_retriever.query_neo4j(text:str = , mode = , graph = , chunks = , hop = )
+```
