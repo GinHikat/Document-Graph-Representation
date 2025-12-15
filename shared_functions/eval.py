@@ -16,14 +16,17 @@ from rag_model.model.RE.final_re import *
 class Evaluator:
     def __init__(self, embedding_as_judge = 5):
         self.embedding_as_judge = embedding_as_judge
-        if self.embedding_as_judge == 4:
-            self.phobert = PhoBertEmbedding()
-        else:
-            self.phobert = None
-     
+        
     def cosine(self, a, b):
         a = np.array(a)
         b = np.array(b)
+        
+        na = np.linalg.norm(a)
+        nb = np.linalg.norm(b)
+
+        if na == 0.0 or nb == 0.0:
+            return 0.0
+        
         return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
     def jaccard(self, a, b): 
@@ -33,25 +36,24 @@ class Evaluator:
 
     def evaluate_embedding(self, referenced_context: List[str], retrieved_context: List[str], embedding_threshold=0.6):
         """
-        Calculate Precision, Recall, F1-Score, and MRR for embedding-based retrieval.
+        Calculate Precision, Recall, F1-Score, and MRR using Similarity-score
         """
         referenced_set = list(set(referenced_context))
         retrieved_set  = list(set(retrieved_context))
+        recall_entities = set()
+        precision_entities = set()
 
-        tp = 0 
         for ref in referenced_set:
-            max_sim = -1
             for ret in retrieved_set:
-                ref_emb = text_embedding(ref, self.embedding_as_judge, self.phobert)
-                ret_emb = text_embedding(ret, self.embedding_as_judge, self.phobert)
-                sim_score = self.cosine(ref_emb, ret_emb)
-                if sim_score > max_sim:
-                    max_sim = sim_score
-            if max_sim >= embedding_threshold:
-                tp += 1
+                ref_emb = text_embedding(ref, self.embedding_as_judge)
+                ret_emb = text_embedding(ret, self.embedding_as_judge)
+                score = self.cosine(ref_emb, ret_emb)
+                if score >= embedding_threshold:
+                    recall_entities.add(ref)       # reference counted for recall
+                    precision_entities.add(ret)    # retrieved counted for precision
 
-        precision = tp / len(retrieved_set) if len(retrieved_set) > 0 else 0
-        recall    = tp / len(referenced_set) if len(referenced_set) > 0 else 0
+        precision = len(precision_entities) / len(retrieved_set) if retrieved_set else 0
+        recall    = len(recall_entities) / len(referenced_set) if referenced_set else 0
         f1_score  = 2 * precision * recall / (precision + recall) if precision + recall > 0 else 0
 
         reciprocal_rank = 0.0
@@ -62,7 +64,7 @@ class Evaluator:
             )
             if max_sim >= embedding_threshold:
                 reciprocal_rank = 1 / rank
-                break  # only first relevant item counts
+                break  # only first relevant
 
         return {
             'Precision': precision,
@@ -71,43 +73,32 @@ class Evaluator:
             'MRR': reciprocal_rank
         }
 
-    def evaluate_jaccard(self, referenced_context: List[str], retrieved_context: List[str], jaccard_threshold=0.3):
+    def evaluate_jaccard(self, referenced_context: List[str], retrieved_context: List[str], jaccard_threshold=0.2):
         """
         Calculate Precision, Recall, F1-Score, and MRR using Jaccard similarity.
         """
         referenced_set = list(set(referenced_context))
         retrieved_set  = list(set(retrieved_context))
 
-        used = set()   # retrieved indices already matched
-        tp = 0
+        recall_entities = set()
+        precision_entities = set()
 
         for ref in referenced_set:
-            best_match = None
-            best_score = 0
-
-            for i, ret in enumerate(retrieved_set):
-                if i in used:
-                    continue
-
+            for ret in retrieved_set:
                 score = self.jaccard(ref, ret)
-                if score > best_score:
-                    best_score = score
-                    best_match = i
+                if score >= jaccard_threshold:
+                    recall_entities.add(ref)       # reference counted for recall
+                    precision_entities.add(ret)    # retrieved counted for precision
 
-            if best_score >= jaccard_threshold:
-                tp += 1
-                used.add(best_match)
-
-        precision = tp / len(retrieved_set) if len(retrieved_set) > 0 else 0
-        recall    = tp / len(referenced_set) if len(referenced_set) > 0 else 0
+        precision = len(precision_entities) / len(retrieved_set) if retrieved_set else 0
+        recall    = len(recall_entities) / len(referenced_set) if referenced_set else 0
         f1_score  = 2 * precision * recall / (precision + recall) if precision + recall > 0 else 0
-
         reciprocal_rank = 0.0
         for rank, ret in enumerate(retrieved_set, start=1):
             max_score = max(self.jaccard(ref, ret) for ref in referenced_set)
             if max_score >= jaccard_threshold:
                 reciprocal_rank = 1 / rank
-                break  # only first relevant item counts
+                break  # only first relevant
 
         return {
             'Precision': precision,
@@ -116,7 +107,7 @@ class Evaluator:
             'MRR': reciprocal_rank
         }
 
-    def combined_evaluation(self, referenced_context: List[str], retrieved_context: List[str], embedding_threshold = 0.6, jaccard_threshold = 0.3, scaling_factor=0.5):
+    def combined_evaluation(self, referenced_context: List[str], retrieved_context: List[str], embedding_threshold = 0.6, jaccard_threshold = 0.2, scaling_factor=0.5):
         '''
         Get the final combined result from the embedding and jaccard evaluations.
         
