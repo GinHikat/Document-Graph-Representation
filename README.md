@@ -96,7 +96,8 @@ For the evaluation functions, call
 ```python
 from shared_functions.eval import *
 
-eval = Evaluator()
+# default embedding_as_judge is 5 - BAAI/bge-m3
+eval = Evaluator(embedding_as_judge = )
 
 #if only embedding or jaccard
 result = eval.evaluate_embedding(referenced_context = , retrieved_context = , embedding_threshold = )

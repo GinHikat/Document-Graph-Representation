@@ -14,9 +14,13 @@ from rag_model.model.Final_pipeline.final_doc_processor import *
 from rag_model.model.RE.final_re import *
 
 class Evaluator:
-    def __init__(self):
-        pass
-    
+    def __init__(self, embedding_as_judge = 5):
+        self.embedding_as_judge = embedding_as_judge
+        if self.embedding_as_judge == 4:
+            self.phobert = PhoBertEmbedding()
+        else:
+            self.phobert = None
+     
     def cosine(self, a, b):
         a = np.array(a)
         b = np.array(b)
@@ -38,8 +42,8 @@ class Evaluator:
         for ref in referenced_set:
             max_sim = -1
             for ret in retrieved_set:
-                ref_emb = text_embedding(ref, 1)
-                ret_emb = text_embedding(ret, 1)
+                ref_emb = text_embedding(ref, self.embedding_as_judge, self.phobert)
+                ret_emb = text_embedding(ret, self.embedding_as_judge, self.phobert)
                 sim_score = self.cosine(ref_emb, ret_emb)
                 if sim_score > max_sim:
                     max_sim = sim_score
@@ -53,7 +57,7 @@ class Evaluator:
         reciprocal_rank = 0.0
         for rank, ret in enumerate(retrieved_set, start=1):
             max_sim = max(
-                self.cosine(text_embedding(ref, 1), text_embedding(ret, 1))
+                self.cosine(text_embedding(ref, self.embedding_as_judge), text_embedding(ret, self.embedding_as_judge))
                 for ref in referenced_set
             )
             if max_sim >= embedding_threshold:
