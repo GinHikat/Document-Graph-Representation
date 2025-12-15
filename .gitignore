@@ -1,6 +1,56 @@
+# Environment & Secrets
 .env
-.json
-.txt
-.pem
+.env.local
+.env.*.local
+*.pem
 secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ML Models & Data
 VnCoreNLP/
+*.pt
+*.pth
+*.bin
+*.h5
+*.pkl
+*.joblib
+models/
+checkpoints/
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Frontend (node_modules handled by frontend/.gitignore)
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+logs/
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
