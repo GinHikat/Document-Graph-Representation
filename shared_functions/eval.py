@@ -13,10 +13,12 @@ if project_root not in sys.path:
 from rag_model.model.Final_pipeline.final_doc_processor import *
 from rag_model.model.RE.final_re import *
 
+phobert = PhoBertEmbedding()
+
 class Evaluator:
     def __init__(self, embedding_as_judge = 5):
         self.embedding_as_judge = embedding_as_judge
-        
+
     def cosine(self, a, b):
         a = np.array(a)
         b = np.array(b)
@@ -45,8 +47,8 @@ class Evaluator:
 
         for ref in referenced_set:
             for ret in retrieved_set:
-                ref_emb = text_embedding(ref, self.embedding_as_judge)
-                ret_emb = text_embedding(ret, self.embedding_as_judge)
+                ref_emb = text_embedding(ref, self.embedding_as_judge, phobert)
+                ret_emb = text_embedding(ret, self.embedding_as_judge, phobert)
                 score = self.cosine(ref_emb, ret_emb)
                 if score >= embedding_threshold:
                     recall_entities.add(ref)       # reference counted for recall
@@ -59,7 +61,7 @@ class Evaluator:
         reciprocal_rank = 0.0
         for rank, ret in enumerate(retrieved_set, start=1):
             max_sim = max(
-                self.cosine(text_embedding(ref, self.embedding_as_judge), text_embedding(ret, self.embedding_as_judge))
+                self.cosine(text_embedding(ref, self.embedding_as_judge, phobert), text_embedding(ret, self.embedding_as_judge, phobert))
                 for ref in referenced_set
             )
             if max_sim >= embedding_threshold:
@@ -120,8 +122,7 @@ class Evaluator:
         jaccard_results = self.evaluate_jaccard(referenced_context, retrieved_context, jaccard_threshold)
 
         combined = {}
-        combined.keys = embedding_results.keys() # type: ignore
-        for key in combined.keys():
+        for key in embedding_results.keys():
             combined[key] = embedding_results[key] * scaling_factor + jaccard_results[key] * (1-scaling_factor)
             
         return combined
