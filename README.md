@@ -125,7 +125,7 @@ modes = {
     2: "traverse_embed",    		# Embeddings + Graph Traversal
     3: "traverse_exact",    		# Exact Match + Graph TRaversal
     4: "exact_match",  	    		# Exact Match
-    5: "exact_match_with_rerank",    	# Exact match then Rerank with embeddings
+    5: "exact_match_with_rerank",   # Exact match then Rerank with embeddings
     6: "hybrid_search",       		# Top k by both Embeddings and Exact match
 }
 ```
