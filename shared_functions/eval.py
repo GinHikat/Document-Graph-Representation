@@ -59,7 +59,7 @@ class Evaluator:
         f1_score  = 2 * precision * recall / (precision + recall) if precision + recall > 0 else 0
 
         reciprocal_rank = 0.0
-        for rank, ret in enumerate(retrieved_set, start=1):
+        for rank, ret in enumerate(retrieved_context, start=1):
             max_sim = max(
                 self.cosine(text_embedding(ref, self.embedding_as_judge, phobert), text_embedding(ret, self.embedding_as_judge, phobert))
                 for ref in referenced_set

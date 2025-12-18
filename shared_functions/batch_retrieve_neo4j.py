@@ -57,7 +57,7 @@ class Neo4j_retriever:
             
         if graph is not None:
             embedding = "embedding"
-            query_emb = query_emb[:512] # type: ignore
+            # query_emb = query_emb[:512] # type: ignore
         else:
             embedding = 'original_embedding'
         
@@ -68,11 +68,11 @@ class Neo4j_retriever:
                 f"""
                     WITH $emb AS queryEmbedding
                     MATCH (n:{labels})
-                    WHERE n.embedding IS NOT NULL AND n.text IS NOT NULL
+                    WHERE n.{embedding} IS NOT NULL AND n.text IS NOT NULL
                     WITH n, gds.similarity.cosine(n.{embedding}, queryEmbedding) AS score
                     RETURN n.id AS id, n.text AS text, score
                     ORDER BY score DESC
-                    LIMIT 10;
+                    LIMIT 5;
                 """, # type: ignore
                 {"emb": query_emb},
                 result_transformer_=Result.to_df
@@ -93,7 +93,7 @@ class Neo4j_retriever:
 
                     RETURN n.id AS id, n.text AS text, match_count
                     ORDER BY match_count DESC
-                    LIMIT 10;
+                    LIMIT 5;
                 ''', # type: ignore
                 {"query": text},
                 result_transformer_=Result.to_df
@@ -111,7 +111,7 @@ class Neo4j_retriever:
                     WITH n, size([word IN words WHERE toLower(n.text) CONTAINS word]) AS match_count
                     WHERE match_count > 0
                     ORDER BY match_count DESC
-                    LIMIT 10
+                    LIMIT 5
 
                     WITH collect(n) AS seeds
 
@@ -131,7 +131,7 @@ class Neo4j_retriever:
                         seed.text + " " + apoc.text.join([x IN top_neighbors | x.text], " ") AS combined_text
 
                     RETURN seed.id AS id,
-                        combined_text
+                        combined_text as text
                     LIMIT 20;
 
                 """, # type: ignore
@@ -144,30 +144,25 @@ class Neo4j_retriever:
                 f"""
                     WITH $emb AS queryEmbedding
                     MATCH (n:{labels})
-                    WHERE n.embedding IS NOT NULL AND n.text IS NOT NULL
+                    WHERE n.{embedding} IS NOT NULL AND n.text IS NOT NULL
                     WITH n, gds.similarity.cosine(n.{embedding}, queryEmbedding) AS score
                     ORDER BY score DESC
-                    LIMIT 10
+                    LIMIT 5
 
                     WITH collect(n) AS seeds
-
                     UNWIND seeds AS s
 
-                    MATCH (s)-[*1..{hop}]-(nbr)
+                    OPTIONAL MATCH (s)-[*1..{hop}]-(nbr)
                     WHERE nbr <> s
 
                     WITH s AS seed,
-                        nbr
-                    ORDER BY seed.id, nbr.id   // stable ordering
-
-                    WITH seed, COLLECT(DISTINCT nbr)[0..5] AS top_neighbors
+                        COLLECT(DISTINCT nbr)[0..2] AS top_neighbors
 
                     WITH seed,
-                        // concatenated text: seed.text + “ ” + neighbor texts
-                        seed.text + " " + apoc.text.join([x IN top_neighbors | x.text], " ") AS combined_text
+                        seed.text + " " +
+                        apoc.text.join([x IN top_neighbors | x.text], " ") AS text
 
-                    RETURN seed.id AS id,
-                        combined_text
+                    RETURN seed.id AS id, text
                     LIMIT 20;
 
                 """, # type: ignore
@@ -198,7 +193,7 @@ class Neo4j_retriever:
                     //Rerank by embedding similarity
                     RETURN n.id AS id, n.text AS text, match_count, sim_score
                     ORDER BY sim_score DESC
-                    LIMIT 10;
+                    LIMIT 5;
                 ''', # type: ignore
                 {"query": text, "emb": query_emb},
                 result_transformer_=Result.to_df
@@ -207,7 +202,6 @@ class Neo4j_retriever:
         if chosen_mode == 'hybrid_search':
             result = driver.execute_query(
                 f"""
-                
             WITH
                 split(toLower($query), " ") AS words,
                 $emb AS queryEmbedding,
@@ -254,7 +248,7 @@ class Neo4j_retriever:
                 n.text AS text,
                 hybrid_score
             ORDER BY hybrid_score DESC
-            LIMIT 10
+            LIMIT 5
 
                 """, # type: ignore
                 {
@@ -272,12 +266,10 @@ class Neo4j_retriever:
             lambda x: ast.literal_eval(x) if isinstance(x, str) else x
         )
 
-    def batch_query(self, df, mode=1, graph=None, chunks=None, hop=2):
+    def batch_query(self, df, mode=1, graph=None, chunks=None, hop=2, namespace = 'Test'):
         """
         Batch Query from Neo4j and add back retrieved contexts into a column in original DataFrame
         """
-        from tqdm import tqdm
-
         # Initialize the column first
         df['retrieved_context'] = [[] for _ in range(len(df))]
 
@@ -285,15 +277,15 @@ class Neo4j_retriever:
 
         for i, q in enumerate(df['question']):
             try:
-                retrieved = self.query_neo4j(q, mode, graph, chunks, hop)['text'].tolist()
-                df.loc[i, 'retrieved_context'].append(retrieved)
+                retrieved = self.query_neo4j(q, mode, graph, chunks, hop, namespace)['text'].tolist()
+                df.at[df.index[i], 'retrieved_context'] = retrieved
 
             except Exception as e:
                 print(f"\nError at row {i}: {e}")
                 break
             
             pbar.update(1)
-        df['retrieved_context'] = df['retrieved_context'].apply(lambda x: x[0])
+        # df['retrieved_context'] = df['retrieved_context'].apply(lambda x: x[0])
         pbar.close()
         return df
 
