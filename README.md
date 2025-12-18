@@ -121,13 +121,12 @@ Frontend runs at `http://localhost:8080`, API at `http://localhost:8000`.
 
 ```python
 modes = {
-    1: "default",           # Standard embedding search
-    2: "traverse_embed",    # Graph traversal + embeddings
-    3: "traverse_exact",    # Graph traversal + exact match
-    4: "pagerank_embed",    # PageRank + embeddings
-    5: "pagerank_exact",    # PageRank + exact match
-    6: "exact_match",       # Pure exact match
-    7: "exact_match_with_rerank"  # Exact + reranking
+    1: "default",           		# Standard embedding search
+    2: "traverse_embed",    		# Embeddings + Graph Traversal
+    3: "traverse_exact",    		# Exact Match + Graph TRaversal
+    4: "exact_match",  	    		# Exact Match
+    5: "exact_match_with_rerank",    	# Exact match then Rerank with embeddings
+    6: "hybrid_search",       		# Top k by both Embeddings and Exact match
 }
 ```
 
@@ -182,14 +181,14 @@ retriever = Neo4j_retriever()
 # Single query
 result = retriever.query_neo4j(
     text="Thuế thu nhập cá nhân",
-    mode=2,  # traverse_embed
-    graph=1,
-    chunks=1,
-    hop=2
+    mode=2,  		# traverse_embed
+    graph=True,		# Use Graph Embedding, None if only use Textual Embedding
+    chunks=True,	# Include chunk nodes (only available in GraphSAGE integrated database)
+    hop=2		# Number of hops in traversal
 )
 
-# Batch query
-df = retriever.batch_query(df, mode=2, graph=1, chunks=1, hop=2)
+# Batch query, df should include "question" column
+df = retriever.batch_query(df, mode=2, graph=True, chunks=True, hop=2, namespace = 'Test')
 ```
 
 ### Evaluation
