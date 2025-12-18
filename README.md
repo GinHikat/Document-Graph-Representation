@@ -191,9 +191,9 @@ retriever = Neo4j_retriever()
 # Single query
 result = retriever.query_neo4j(
     text="Thuế thu nhập cá nhân",
-    mode=2,  		            # traverse_embed
+    mode=6,  		            # Hybrid search
     graph=True,		            # Use Graph Embedding, None if only use Textual Embedding
-    chunks=True,	            # Include chunk nodes (only available in GraphSAGE integrated database)
+    chunks=None,	            # Include chunk nodes (only available in GraphSAGE integrated database)
     hop=2,		                # Number of hops in traversal
     namespace = 'Test_rel_3'    # Namespace (Node label for filtering)
 )
