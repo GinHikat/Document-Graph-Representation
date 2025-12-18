@@ -143,6 +143,16 @@ models = {
 }
 ```
 
+## Evaluation Modes
+
+```python
+mode_map = {
+    1: 'embedding',
+    2: 'jaccard', 
+    3: 'combined'
+}
+```
+
 ## Environment Variables
 
 ### Backend (.env)
@@ -195,7 +205,9 @@ df = retriever.batch_query(df, mode=2, graph=True, chunks=True, hop=2, namespace
 
 ```python
 from shared_functions.eval import Evaluator
+from shared_functions.batch_retrieve_neo4j import *
 
+retriever = Neo4j_retriever()
 eval = Evaluator(embedding_as_judge=5)
 
 # Combined evaluation
@@ -206,6 +218,11 @@ result = eval.combined_evaluator(
     jaccard_threshold=0.3,
     scaling_factor=0.5
 )
+
+# For batch evaluation, df must have supporting_context and retrieved_context columns with List type
+retriever.str_to_list(df, 'supporting_context')
+retriever.str_to_list(df, 'retrieved_context')
+eval.run_evaluation(df, embedding_threshold = , jaccard_threshold = , scaling_factor = , mode = )
 
 # RAGAS evaluation
 eval.ragas(df)  # df: question, answer, retrieved_contexts

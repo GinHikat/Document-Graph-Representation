@@ -127,6 +127,41 @@ class Evaluator:
             
         return combined
     
+    def run_evaluation(self, df, embedding_threshold = 0.6, jaccard_threshold = 0.2, scaling_factor=0.5, mode = 1):
+        
+        mode_map = {
+            1: 'embedding',
+            2: 'jaccard', 
+            3: 'combined'
+        }
+        
+        eval_mode = mode_map[mode]
+        
+        total_scores = {"Precision": 0, "Recall": 0, "F1-Score": 0, "MRR": 0}
+        num_rows = len(df)
+
+        for idx, row in tqdm(df.iterrows(), total=num_rows, desc="Evaluating rows", ascii=True, dynamic_ncols=True):
+            ref = row['supporting_context']
+            ret = row['retrieved_context']
+            
+            if not ref or not ret:
+                continue
+            
+            if eval_mode == 'embedding':
+                combined = self.evaluate_embedding(ref, ret, embedding_threshold)
+            elif eval_mode == 'jaccard':
+                combined = self.evaluate_jaccard(ref, ret, jaccard_threshold)
+            elif eval_mode == 'combined':
+                combined = self.combined_evaluation(ref, ret, embedding_threshold, jaccard_threshold, scaling_factor)
+
+            for key in total_scores.keys():
+                total_scores[key] += combined[key]
+
+        valid_rows = sum(1 for r in df['supporting_context'] if r)  # only count non-empty references
+        average_scores = {key: value / valid_rows for key, value in total_scores.items()}
+
+        print("Average Scores:", average_scores)
+    
     def ragas(self, df: pd.DataFrame):
         
         #Only import if the function is called to prevent overhead
