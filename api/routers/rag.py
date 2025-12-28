@@ -19,6 +19,7 @@ from api.services.rag_agent import get_rag_agent
 from api.services.tools import retrieve_from_database, retrieve_with_graph_context
 from api.services.reranker import rerank_chunks
 from api.services.gemini import generate_answer
+from api.routers.stats import record_response_time
 
 logger = logging.getLogger(__name__)
 
@@ -246,6 +247,10 @@ async def compare_vector_graph(request: CompareRequest):
         cypher_query = None
 
     graph_latency = int((time.time() - graph_start) * 1000)
+
+    # Record response times for stats
+    total_response_time = (vector_latency + graph_latency) / 1000.0 / 2.0  # Average in seconds
+    record_response_time(total_response_time)
 
     graph_sources = [
         SourceItem(

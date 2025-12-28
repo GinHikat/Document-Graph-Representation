@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 # Load environment variables from parent GP directory
 load_dotenv(os.path.join(os.path.dirname(__file__), "../../.env"))
 
-from api.routers import graph, rag, documents, auth, annotation
+from api.routers import graph, rag, documents, auth, annotation, stats
 from api.db.neo4j import get_neo4j_client
 from api.schemas import HealthResponse
 
@@ -78,6 +78,7 @@ app.include_router(rag.router)
 app.include_router(documents.router)
 app.include_router(auth.router)
 app.include_router(annotation.router)
+app.include_router(stats.router)
 
 
 @app.get("/api/health", response_model=HealthResponse)
