@@ -11,6 +11,15 @@ neo4j==5.27.0
 sentence-transformers==3.3.1
 torch>=2.0.0
 
+# LLM Generation
+google-generativeai>=0.8.0
+
+# Authentication
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+python-multipart>=0.0.9
+email-validator>=2.0.0
+
 # Testing
 pytest==8.3.4
 httpx==0.28.1
