@@ -6,21 +6,21 @@ A full-stack knowledge graph-based Retrieval Augmented Generation (RAG) system f
 
 ```
 Document-Graph-Representation/
-├── api/                    # FastAPI backend
-│   ├── routers/           # API endpoints (graph, rag, health)
-│   ├── services/          # Business logic
-│   └── schemas/           # Pydantic models
-├── frontend/              # React + TypeScript UI
+├── api/                       # FastAPI backend
+│   ├── routers/               # API endpoints (graph, rag, health)
+│   ├── services/              # Business logic
+│   └── schemas/               # Pydantic models
+├── frontend/                  # React + TypeScript UI
 │   ├── src/
-│   │   ├── components/    # UI components (shadcn/ui)
-│   │   ├── pages/         # App views
-│   │   ├── services/      # API client
-│   │   └── stores/        # Zustand state
-├── rag_model/             # ML pipeline
-│   ├── model/             # NER, RE, document processing
-│   └── retrieval_pipeline/# Retrieval strategies
-├── shared_functions/      # Utilities (Neo4j, S3, eval)
-└── docs/                  # Documentation
+│   │   ├── components/        # UI components (shadcn/ui)
+│   │   ├── pages/             # App views
+│   │   ├── services/          # API client
+│   │   └── stores/            # Zustand state
+├── rag_model/                 # ML pipeline
+│   ├── model/                 # NER, RE, document processing
+│   └── retrieval_pipeline/    # Retrieval strategies
+├── shared_functions/          # Utilities (Neo4j, S3, eval)
+└── docs/                      # Documentation
 ```
 
 ## Tech Stack
