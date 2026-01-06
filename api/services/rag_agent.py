@@ -3,13 +3,11 @@ import json
 import logging
 from typing import List, Dict, Any, AsyncGenerator, Optional
 
-from api.services.tools import (
-    retrieve_from_database,
-    RetrieveOutput,
-    ToolName,
-    TOOLS
-)
+from api.config import config
+from api.services.tools import retrieve_from_database, TOOLS
+from api.services.rag_schemas import RetrieveOutput, ToolName
 from api.services.reranker import rerank_chunks
+from api.services.gemini import generate_answer_streaming, generate_answer
 
 logger = logging.getLogger(__name__)
 
@@ -56,8 +54,8 @@ class RAGAgent:
         try:
             retrieve_result = retrieve_from_database(
                 prompt=user_query,
-                top_k=20,
-                namespace="Test_rel_2"
+                top_k=config.RAG_TOP_K,
+                namespace=config.DEFAULT_NAMESPACE
             )
             chunks_found = len(retrieve_result.chunks)
             logger.info(f"Retrieved {chunks_found} chunks")
@@ -111,13 +109,17 @@ class RAGAgent:
         # Step 3: Answer Generation
         yield self._sse_event({"type": "tool_start", "tool": "generate_answer"})
 
-        # Generate answer (stub - user can implement LLM call)
-        answer = self._generate_answer_stub(user_query, reranked_chunks)
-
-        # Stream answer token by token
-        words = answer.split()
-        for i, word in enumerate(words):
-            yield self._sse_event({"type": "text", "delta": word + " "})
+        # Generate answer using Gemini API with streaming
+        try:
+            for text_chunk in generate_answer_streaming(user_query, reranked_chunks):
+                yield self._sse_event({"type": "text", "delta": text_chunk})
+        except Exception as e:
+            logger.error(f"Gemini generation failed: {e}")
+            # Fallback to stub if Gemini fails
+            answer = self._generate_answer_stub(user_query, reranked_chunks)
+            words = answer.split()
+            for word in words:
+                yield self._sse_event({"type": "text", "delta": word + " "})
 
         # Send sources
         sources = [
@@ -147,19 +149,23 @@ class RAGAgent:
         # Retrieval
         retrieve_result = retrieve_from_database(
             prompt=user_query,
-            top_k=20,
-            namespace="Test_rel_2"
+            top_k=config.RAG_TOP_K,
+            namespace=config.DEFAULT_NAMESPACE
         )
 
         # Reranking
         reranked_chunks, rerank_scores = rerank_chunks(
             query=user_query,
             chunks=retrieve_result.chunks,
-            top_n=5
+            top_n=config.RAG_RERANK_TOP_N
         )
 
-        # Generate answer
-        answer = self._generate_answer_stub(user_query, reranked_chunks)
+        # Generate answer using Gemini API
+        try:
+            answer = generate_answer(user_query, reranked_chunks)
+        except Exception as e:
+            logger.error(f"Gemini generation failed: {e}")
+            answer = self._generate_answer_stub(user_query, reranked_chunks)
 
         # Format sources
         sources = [

@@ -1,0 +1,117 @@
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#1e40af', 'primaryTextColor': '#fff', 'primaryBorderColor': '#1e3a8a', 'lineColor': '#64748b', 'secondaryColor': '#059669', 'tertiaryColor': '#d97706'}}}%%
+
+flowchart TB
+    subgraph Context["C4 Level 1: System Context"]
+        direction TB
+
+        subgraph Users["👥 Users"]
+            TaxPro["🧑‍💼 Tax Professional<br/><i>Queries Vietnamese tax law</i>"]
+            Admin["👨‍💼 System Admin<br/><i>Monitors & evaluates</i>"]
+        end
+
+        subgraph System["🏛️ Tax Legal RAG System"]
+            direction LR
+            Core["Vietnamese Tax Law<br/>Knowledge System<br/><i>Graph-enhanced RAG for<br/>legal document Q&A</i>"]
+        end
+
+        subgraph External["🌐 External Services"]
+            Gemini["🧠 Google Gemini<br/><i>LLM Generation</i>"]
+            Neo4jCloud["☁️ Neo4j AuraDB<br/><i>Graph + Vector Storage</i>"]
+            LuatVN["📜 LuatVietnam.vn<br/><i>Legal Document Source</i>"]
+        end
+
+        TaxPro -->|"Ask legal questions"| Core
+        Admin -->|"Monitor, evaluate, configure"| Core
+        Core -->|"Generate answers"| Gemini
+        Core -->|"Store/Query knowledge graph"| Neo4jCloud
+        Core -->|"Crawl legal documents"| LuatVN
+    end
+
+    subgraph Container["C4 Level 2: Container Diagram"]
+        direction TB
+
+        subgraph Frontend["🖥️ Presentation Layer"]
+            ReactApp["<b>React SPA</b><br/>TypeScript + Vite<br/><i>User interface for<br/>querying & visualization</i>"]
+            GraphViz["<b>Force Graph</b><br/>react-force-graph<br/><i>Knowledge graph<br/>visualization</i>"]
+        end
+
+        subgraph Backend["⚡ Application Layer"]
+            FastAPIApp["<b>FastAPI Server</b><br/>Python 3.12<br/><i>REST API + SSE streaming</i>"]
+
+            subgraph Routers["API Routers"]
+                RAGRouter["📝 RAG Router<br/>/api/rag/*"]
+                GraphRouter["🕸️ Graph Router<br/>/api/graph/*"]
+                AuthRouter["🔐 Auth Router<br/>/api/auth/*"]
+                StatsRouter["📊 Stats Router<br/>/api/stats/*"]
+            end
+        end
+
+        subgraph Services["🔧 Service Layer"]
+            RAGAgent["<b>RAG Agent</b><br/><i>Orchestrates retrieve-<br/>rerank-generate</i>"]
+            EmbedService["<b>Embedding Service</b><br/>PhoBERT / MiniLM<br/><i>Query & doc embeddings</i>"]
+            RerankService["<b>Reranker Service</b><br/>BGE-reranker<br/><i>Cross-encoder scoring</i>"]
+            LLMService["<b>LLM Service</b><br/>Gemini + OpenAI fallback<br/><i>Answer generation</i>"]
+        end
+
+        subgraph DataStores["💾 Data Layer"]
+            Neo4jDB[("🗄️ <b>Neo4j</b><br/>Knowledge Graph<br/>+ Vector Index")]
+            Supabase[("📊 <b>Supabase</b><br/>Annotations<br/>+ Metrics")]
+        end
+
+        subgraph Pipeline["🔄 Data Pipeline"]
+            Crawler["🕷️ <b>Document Crawler</b><br/>Playwright<br/><i>Fetch legal docs</i>"]
+            Parser["📄 <b>Structure Parser</b><br/>pdfplumber<br/><i>Extract hierarchy</i>"]
+            NERModel["🏷️ <b>NER Model</b><br/>BiLSTM-CRF<br/><i>Entity extraction</i>"]
+            REModel["🔗 <b>RE Model</b><br/>Transformer<br/><i>Relation extraction</i>"]
+        end
+
+        %% Frontend connections
+        ReactApp -->|"REST + SSE"| FastAPIApp
+        GraphViz -.->|"renders"| ReactApp
+
+        %% Router connections
+        FastAPIApp --> RAGRouter
+        FastAPIApp --> GraphRouter
+        FastAPIApp --> AuthRouter
+        FastAPIApp --> StatsRouter
+
+        %% Service connections
+        RAGRouter --> RAGAgent
+        GraphRouter --> Neo4jDB
+        RAGAgent --> EmbedService
+        RAGAgent --> RerankService
+        RAGAgent --> LLMService
+
+        %% Data connections
+        EmbedService --> Neo4jDB
+        RerankService -.->|"BGE API"| EmbedService
+        LLMService -.->|"Gemini API"| Gemini2["🧠 Gemini"]
+
+        %% Pipeline connections
+        Crawler --> Parser
+        Parser --> NERModel
+        Parser --> REModel
+        NERModel --> Neo4jDB
+        REModel --> Neo4jDB
+
+        %% Annotation storage
+        RAGRouter -.-> Supabase
+    end
+
+    classDef user fill:#dbeafe,stroke:#1e40af,color:#1e3a8a
+    classDef system fill:#dcfce7,stroke:#16a34a,color:#166534
+    classDef external fill:#fef3c7,stroke:#d97706,color:#92400e
+    classDef frontend fill:#e0f2fe,stroke:#0284c7,color:#0c4a6e
+    classDef backend fill:#d1fae5,stroke:#059669,color:#065f46
+    classDef service fill:#fef9c3,stroke:#ca8a04,color:#713f12
+    classDef data fill:#f3e8ff,stroke:#9333ea,color:#581c87
+    classDef pipeline fill:#ffe4e6,stroke:#e11d48,color:#9f1239
+
+    class TaxPro,Admin user
+    class Core system
+    class Gemini,Neo4jCloud,LuatVN,Gemini2 external
+    class ReactApp,GraphViz frontend
+    class FastAPIApp,RAGRouter,GraphRouter,AuthRouter,StatsRouter backend
+    class RAGAgent,EmbedService,RerankService,LLMService service
+    class Neo4jDB,Supabase data
+    class Crawler,Parser,NERModel,REModel pipeline

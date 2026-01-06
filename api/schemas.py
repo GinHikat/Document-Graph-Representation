@@ -115,3 +115,67 @@ class SSEEventType(str, Enum):
     TEXT = "text"
     DONE = "done"
     ERROR = "error"
+
+
+# ============ Annotation Schemas ============
+
+class AnnotationSubmitRequest(BaseModel):
+    """Request for submitting annotation rating."""
+    questionId: str = Field(..., description="Question ID being annotated")
+    vectorCorrectness: int = Field(default=0, ge=0, le=5)
+    vectorCompleteness: int = Field(default=0, ge=0, le=5)
+    vectorRelevance: int = Field(default=0, ge=0, le=5)
+    graphCorrectness: int = Field(default=0, ge=0, le=5)
+    graphCompleteness: int = Field(default=0, ge=0, le=5)
+    graphRelevance: int = Field(default=0, ge=0, le=5)
+    overallComparison: str = Field(..., description="vector_much_better|vector_better|equivalent|graph_better|graph_much_better")
+    comment: Optional[str] = None
+
+
+class AnnotationResponse(BaseModel):
+    """Response after submitting annotation."""
+    id: str
+    message: str
+
+
+class QAMetrics(BaseModel):
+    """QA result metrics."""
+    latencyMs: int = 0
+    chunksUsed: int = 0
+    confidenceScore: Optional[float] = None
+    graphNodesUsed: Optional[int] = None
+    graphHops: Optional[int] = None
+
+
+class QAAnswer(BaseModel):
+    """QA answer with sources and metrics."""
+    answer: str
+    sources: List[Dict[str, Any]] = Field(default_factory=list)
+    metrics: QAMetrics
+    cypherQuery: Optional[str] = None
+    graphContext: List[Dict[str, Any]] = Field(default_factory=list)
+
+
+class AnnotationTask(BaseModel):
+    """Pending annotation task."""
+    id: str
+    questionId: str
+    question: str
+    vectorAnswer: QAAnswer
+    graphAnswer: QAAnswer
+    status: str = "pending"
+
+
+class AnnotatorStats(BaseModel):
+    """Annotator statistics."""
+    totalAssigned: int
+    completedToday: int
+    pendingReview: int
+    agreementRate: float
+
+
+class SimpleAnnotationRequest(BaseModel):
+    """Simple annotation with just preference."""
+    questionId: str
+    preference: str = Field(..., description="vector|equivalent|graph|both_wrong")
+    comment: Optional[str] = None

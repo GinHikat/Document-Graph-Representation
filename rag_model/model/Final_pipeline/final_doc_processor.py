@@ -43,7 +43,7 @@ def text_embedding(text, model_id, phobert=None):
         1: "sentence-transformers/distiluse-base-multilingual-cased-v2",
         2: "sentence-transformers/all-mpnet-base-v2",
         3: 'sentence-transformers/all-MiniLM-L12-v2',
-        4: "vinai/phobert-base"
+        4: "vinai/phobert-base",
         5: "BAAI/bge-m3"
     }
 

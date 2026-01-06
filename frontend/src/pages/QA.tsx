@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 import { Search, ChevronDown, ChevronRight, Clock, Database, Target, Loader2, Zap, Radio } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
@@ -12,14 +13,8 @@ import { useQAStore } from '@/stores/qaStore';
 import { useToast } from '@/hooks/use-toast';
 import { Separator } from '@/components/ui/separator';
 
-const EXAMPLE_QUESTIONS = [
-  'Thuế suất VAT cho dịch vụ giáo dục?',
-  'Điều kiện được miễn thuế thu nhập cá nhân?',
-  'Thời hạn nộp thuế GTGT hàng tháng?',
-  'Cách tính thuế thu nhập doanh nghiệp?',
-];
-
 export default function QA() {
+  const { t } = useTranslation();
   const { toast } = useToast();
   const {
     currentQuestion,
@@ -44,8 +39,8 @@ export default function QA() {
   const handleCompare = async () => {
     if (!currentQuestion.trim()) {
       toast({
-        title: 'Thiếu thông tin',
-        description: 'Vui lòng nhập câu hỏi',
+        title: t('qa.missingInfo'),
+        description: t('qa.enterQuestion'),
         variant: 'destructive',
       });
       return;
@@ -64,16 +59,16 @@ export default function QA() {
     try {
       await submitAnnotation(results.questionId, selectedPreference, comment);
       toast({
-        title: 'Thành công',
-        description: 'Đã lưu đánh giá của bạn',
+        title: t('common.success'),
+        description: t('qa.annotationSaved'),
       });
       setSelectedPreference(null);
       setComment('');
       setShowComment(false);
     } catch (error) {
       toast({
-        title: 'Lỗi',
-        description: 'Không thể lưu đánh giá',
+        title: t('common.error'),
+        description: t('qa.annotationError'),
         variant: 'destructive',
       });
     }
@@ -83,9 +78,9 @@ export default function QA() {
     <PageContainer maxWidth="full">
       <div className="space-y-6">
         <div>
-          <h1 className="text-3xl font-bold">So sánh Q&A</h1>
+          <h1 className="text-3xl font-bold">{t('qa.title')}</h1>
           <p className="text-muted-foreground mt-1">
-            Đánh giá và so sánh Vector Search vs Graph-enhanced Search
+            {t('qa.subtitle')}
           </p>
         </div>
 
@@ -95,7 +90,7 @@ export default function QA() {
             <div className="space-y-4">
               <div>
                 <Textarea
-                  placeholder="Nhập câu hỏi về thuế Việt Nam..."
+                  placeholder={t('qa.questionPlaceholder')}
                   value={currentQuestion}
                   onChange={(e) => setCurrentQuestion(e.target.value)}
                   rows={3}
@@ -104,7 +99,7 @@ export default function QA() {
               </div>
 
               <div className="flex flex-wrap gap-2">
-                <span className="text-sm text-muted-foreground">Ví dụ:</span>
+                <span className="text-sm text-muted-foreground">{t('qa.examples')}:</span>
                 {EXAMPLE_QUESTIONS.map((q) => (
                   <Badge
                     key={q}
@@ -126,12 +121,12 @@ export default function QA() {
                 {isLoading ? (
                   <>
                     <Loader2 className="h-5 w-5 mr-2 animate-spin" />
-                    {streaming.isStreaming ? 'Đang truyền...' : 'Đang xử lý...'}
+                    {streaming.isStreaming ? t('qa.streaming') : t('qa.processing')}
                   </>
                 ) : (
                   <>
                     <Search className="h-5 w-5 mr-2" />
-                    So sánh
+                    {t('qa.compare')}
                   </>
                 )}
               </Button>
@@ -165,7 +160,7 @@ export default function QA() {
             <CardHeader className="pb-2">
               <CardTitle className="text-sm flex items-center gap-2">
                 <Loader2 className="h-4 w-4 animate-spin" />
-                Đang tạo câu trả lời...
+                {t('qa.generatingAnswer')}
               </CardTitle>
             </CardHeader>
             <CardContent>
@@ -206,7 +201,7 @@ export default function QA() {
                   <Collapsible open={vectorSourcesOpen} onOpenChange={setVectorSourcesOpen}>
                     <CollapsibleTrigger className="flex items-center justify-between w-full p-2 hover:bg-muted/50 rounded-md">
                       <span className="text-sm font-medium">
-                        Nguồn tham khảo ({results.vector.sources.length})
+                        {t('qa.sources')} ({results.vector.sources.length})
                       </span>
                       {vectorSourcesOpen ? (
                         <ChevronDown className="h-4 w-4" />
@@ -219,7 +214,7 @@ export default function QA() {
                         <div key={idx} className="p-3 bg-muted rounded-md text-sm">
                           <div className="flex items-center justify-between mb-1">
                             <span className="font-medium text-xs">
-                              {source.documentName || 'Tài liệu'}
+                              {source.documentName || t('qa.document')}
                             </span>
                             <Badge variant="secondary" className="text-xs">
                               {(source.score * 100).toFixed(0)}%
@@ -274,7 +269,7 @@ export default function QA() {
                   {results.graph.cypherQuery && (
                     <Collapsible open={cypherOpen} onOpenChange={setCypherOpen}>
                       <CollapsibleTrigger className="flex items-center justify-between w-full p-2 hover:bg-muted/50 rounded-md">
-                        <span className="text-sm font-medium">Cypher Query đã dùng</span>
+                        <span className="text-sm font-medium">{t('qa.cypherQuery')}</span>
                         {cypherOpen ? (
                           <ChevronDown className="h-4 w-4" />
                         ) : (
@@ -312,7 +307,7 @@ export default function QA() {
                   <Collapsible open={graphSourcesOpen} onOpenChange={setGraphSourcesOpen}>
                     <CollapsibleTrigger className="flex items-center justify-between w-full p-2 hover:bg-muted/50 rounded-md">
                       <span className="text-sm font-medium">
-                        Nguồn tham khảo ({results.graph.sources.length})
+                        {t('qa.sources')} ({results.graph.sources.length})
                       </span>
                       {graphSourcesOpen ? (
                         <ChevronDown className="h-4 w-4" />
@@ -325,7 +320,7 @@ export default function QA() {
                         <div key={idx} className="p-3 bg-muted rounded-md text-sm">
                           <div className="flex items-center justify-between mb-1">
                             <span className="font-medium text-xs">
-                              {source.documentName || 'Tài liệu'}
+                              {source.documentName || t('qa.document')}
                             </span>
                             <Badge variant="secondary" className="text-xs">
                               {(source.score * 100).toFixed(0)}%
@@ -364,31 +359,31 @@ export default function QA() {
               <CardContent className="p-4">
                 <div className="space-y-4">
                   <div>
-                    <p className="text-sm font-medium mb-3">Đánh giá câu trả lời:</p>
+                    <p className="text-sm font-medium mb-3">{t('qa.rateAnswer')}:</p>
                     <div className="flex flex-wrap gap-2">
                       <Button
                         variant={selectedPreference === 'vector' ? 'default' : 'outline'}
                         onClick={() => setSelectedPreference('vector')}
                       >
-                        👈 Vector tốt hơn
+                        {t('qa.vectorBetter')}
                       </Button>
                       <Button
                         variant={selectedPreference === 'equivalent' ? 'default' : 'outline'}
                         onClick={() => setSelectedPreference('equivalent')}
                       >
-                        🤝 Tương đương
+                        {t('qa.equivalent')}
                       </Button>
                       <Button
                         variant={selectedPreference === 'graph' ? 'default' : 'outline'}
                         onClick={() => setSelectedPreference('graph')}
                       >
-                        Graph tốt hơn 👉
+                        {t('qa.graphBetter')}
                       </Button>
                       <Button
                         variant={selectedPreference === 'both_wrong' ? 'destructive' : 'outline'}
                         onClick={() => setSelectedPreference('both_wrong')}
                       >
-                        ❌ Cả hai sai
+                        {t('qa.bothWrong')}
                       </Button>
                     </div>
                   </div>
@@ -400,12 +395,12 @@ export default function QA() {
                         size="sm"
                         onClick={() => setShowComment(!showComment)}
                       >
-                        {showComment ? 'Ẩn' : 'Thêm'} nhận xét
+                        {showComment ? t('qa.hideComment') : t('qa.addComment')}
                       </Button>
 
                       {showComment && (
                         <Textarea
-                          placeholder="Nhận xét của bạn (không bắt buộc)..."
+                          placeholder={t('qa.commentPlaceholder')}
                           value={comment}
                           onChange={(e) => setComment(e.target.value)}
                           rows={2}
@@ -417,7 +412,7 @@ export default function QA() {
                         onClick={handleSubmitAnnotation}
                         className="w-full"
                       >
-                        Gửi đánh giá
+                        {t('qa.submitRating')}
                       </Button>
                     </>
                   )}

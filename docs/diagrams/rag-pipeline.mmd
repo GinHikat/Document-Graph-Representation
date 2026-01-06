@@ -1,0 +1,50 @@
+flowchart LR
+    subgraph Input["📝 Input"]
+        Q[User Query]
+    end
+
+    subgraph Retrieval["🔍 Retrieval Stage"]
+        Embed1[Query Embedding<br/>PhoBERT/MiniLM]
+        VecSearch[Vector Search<br/>Cosine Similarity]
+        GraphSearch[Graph Traversal<br/>k-hop Neighbors]
+    end
+
+    subgraph Ranking["📊 Ranking Stage"]
+        Rerank[BGE Reranker<br/>Cross-Encoder]
+        TopK[Top-K Selection]
+    end
+
+    subgraph Generation["💬 Generation Stage"]
+        Context[Context Assembly]
+        LLM[Gemini 2.0 Flash]
+        Stream[SSE Streaming]
+    end
+
+    subgraph Output["📤 Output"]
+        Answer[Generated Answer]
+        Sources[Source Citations]
+    end
+
+    Q --> Embed1
+    Embed1 --> VecSearch
+    Embed1 --> GraphSearch
+    VecSearch --> Rerank
+    GraphSearch --> Rerank
+    Rerank --> TopK
+    TopK --> Context
+    Context --> LLM
+    LLM --> Stream
+    Stream --> Answer
+    Stream --> Sources
+
+    classDef input fill:#6366f1,stroke:#4f46e5,color:#fff
+    classDef retrieval fill:#14b8a6,stroke:#0d9488,color:#fff
+    classDef ranking fill:#f97316,stroke:#ea580c,color:#fff
+    classDef generation fill:#a855f7,stroke:#9333ea,color:#fff
+    classDef output fill:#22c55e,stroke:#16a34a,color:#fff
+
+    class Q input
+    class Embed1,VecSearch,GraphSearch retrieval
+    class Rerank,TopK ranking
+    class Context,LLM,Stream generation
+    class Answer,Sources output

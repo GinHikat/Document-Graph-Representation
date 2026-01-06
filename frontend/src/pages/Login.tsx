@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import { Lock } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -9,6 +10,7 @@ import { useAuthStore } from '@/stores/authStore';
 import { useToast } from '@/hooks/use-toast';
 
 export default function Login() {
+  const { t } = useTranslation();
   const navigate = useNavigate();
   const { toast } = useToast();
   const login = useAuthStore((state) => state.login);
@@ -23,14 +25,14 @@ export default function Login() {
     try {
       await login(email, password);
       toast({
-        title: 'Đăng nhập thành công',
-        description: 'Chào mừng bạn trở lại!',
+        title: t('login.loginSuccess'),
+        description: t('login.welcomeBack'),
       });
       navigate('/annotate');
     } catch (error) {
       toast({
-        title: 'Đăng nhập thất bại',
-        description: error instanceof Error ? error.message : 'Có lỗi xảy ra',
+        title: t('login.loginFailed'),
+        description: error instanceof Error ? error.message : t('login.genericError'),
         variant: 'destructive',
       });
     } finally {
@@ -47,15 +49,15 @@ export default function Login() {
               <Lock className="h-6 w-6 text-primary" />
             </div>
           </div>
-          <CardTitle className="text-2xl">Đăng nhập Annotator</CardTitle>
+          <CardTitle className="text-2xl">{t('login.title')}</CardTitle>
           <CardDescription>
-            Nhập thông tin đăng nhập để tiếp tục
+            {t('login.subtitle')}
           </CardDescription>
         </CardHeader>
         <CardContent>
           <form onSubmit={handleSubmit} className="space-y-4">
             <div className="space-y-2">
-              <Label htmlFor="email">Email</Label>
+              <Label htmlFor="email">{t('login.email')}</Label>
               <Input
                 id="email"
                 type="email"
@@ -66,7 +68,7 @@ export default function Login() {
               />
             </div>
             <div className="space-y-2">
-              <Label htmlFor="password">Mật khẩu</Label>
+              <Label htmlFor="password">{t('login.password')}</Label>
               <Input
                 id="password"
                 type="password"
@@ -77,17 +79,17 @@ export default function Login() {
               />
             </div>
             <Button type="submit" className="w-full" disabled={isLoading}>
-              {isLoading ? 'Đang đăng nhập...' : 'Đăng nhập'}
+              {isLoading ? t('login.loggingIn') : t('login.loginButton')}
             </Button>
           </form>
           <div className="mt-6 text-center">
             <p className="text-sm text-muted-foreground">
-              Demo: Sử dụng bất kỳ email nào và mật khẩu "demo"
+              {t('login.demoHint')}
             </p>
           </div>
           <div className="mt-4 p-3 bg-muted/50 rounded-md">
             <p className="text-xs text-muted-foreground text-center">
-              Chỉ dành cho annotator được cấp quyền
+              {t('login.authorizedOnly')}
             </p>
           </div>
         </CardContent>

@@ -1,0 +1,63 @@
+flowchart TB
+    subgraph Collection["📥 Data Collection"]
+        Web[LuatVietnam.vn]
+        Crawler[Playwright Crawler]
+        HTML[Raw HTML]
+    end
+
+    subgraph Parsing["📄 Document Parsing"]
+        Parser[Structure Parser]
+        Metadata[Metadata Extraction]
+        Hierarchy[Hierarchical Split]
+    end
+
+    subgraph NLP["🧠 NLP Processing"]
+        NER[NER Model<br/>BiLSTM-CRF]
+        RE[RE Model<br/>Transformer]
+        Embed[Text Embedding<br/>PhoBERT]
+    end
+
+    subgraph GraphBuild["🕸️ Graph Construction"]
+        DocNode[Document Nodes]
+        StructEdge[Structural Edges<br/>HAS_CHAPTER, HAS_CLAUSE]
+        RelEdge[Relational Edges<br/>PURSUANT, REFERENCE]
+        ChunkNode[Chunk Nodes]
+    end
+
+    subgraph Storage["💾 Storage"]
+        Neo4j[(Neo4j AuraDB)]
+        VecIdx[Vector Index]
+    end
+
+    Web --> Crawler
+    Crawler --> HTML
+    HTML --> Parser
+    Parser --> Metadata
+    Parser --> Hierarchy
+
+    Metadata --> NER
+    Hierarchy --> RE
+    Hierarchy --> Embed
+
+    NER --> DocNode
+    RE --> RelEdge
+    Hierarchy --> StructEdge
+    Embed --> ChunkNode
+
+    DocNode --> Neo4j
+    StructEdge --> Neo4j
+    RelEdge --> Neo4j
+    ChunkNode --> VecIdx
+    VecIdx --> Neo4j
+
+    classDef collection fill:#0ea5e9,stroke:#0284c7,color:#fff
+    classDef parsing fill:#84cc16,stroke:#65a30d,color:#fff
+    classDef nlp fill:#f43f5e,stroke:#e11d48,color:#fff
+    classDef graphbuild fill:#8b5cf6,stroke:#7c3aed,color:#fff
+    classDef storage fill:#64748b,stroke:#475569,color:#fff
+
+    class Web,Crawler,HTML collection
+    class Parser,Metadata,Hierarchy parsing
+    class NER,RE,Embed nlp
+    class DocNode,StructEdge,RelEdge,ChunkNode graphbuild
+    class Neo4j,VecIdx storage
