@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import { Database, LogOut, User } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useAuthStore } from '@/stores/authStore';
@@ -12,8 +13,10 @@ import {
 } from '@/components/ui/dropdown-menu';
 import { Avatar, AvatarFallback } from '@/components/ui/avatar';
 import { NavLink } from '@/components/NavLink';
+import { LanguageSwitcher } from '@/components/LanguageSwitcher';
 
 export function Header() {
+  const { t } = useTranslation();
   const { user, isAuthenticated, logout } = useAuthStore();
 
   return (
@@ -31,33 +34,34 @@ export function Header() {
               className="px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground rounded-md"
               activeClassName="bg-muted text-foreground"
             >
-              Tài liệu
+              {t('nav.documents')}
             </NavLink>
             <NavLink
               to="/graph"
               className="px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground rounded-md"
               activeClassName="bg-muted text-foreground"
             >
-              Đồ thị
+              {t('nav.graph')}
             </NavLink>
             <NavLink
               to="/qa"
               className="px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground rounded-md"
               activeClassName="bg-muted text-foreground"
             >
-              So sánh Q&A
+              {t('nav.qa')}
             </NavLink>
             <NavLink
               to="/annotate"
               className="px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground rounded-md"
               activeClassName="bg-muted text-foreground"
             >
-              Annotator
+              {t('nav.annotate')}
             </NavLink>
           </nav>
         </div>
 
         <div className="flex items-center gap-2">
+          <LanguageSwitcher />
           {isAuthenticated && user ? (
             <DropdownMenu>
               <DropdownMenuTrigger asChild>
@@ -80,19 +84,19 @@ export function Header() {
                 <DropdownMenuItem asChild>
                   <Link to="/annotate" className="flex items-center cursor-pointer">
                     <User className="mr-2 h-4 w-4" />
-                    Dashboard
+                    {t('nav.dashboard')}
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuSeparator />
                 <DropdownMenuItem onClick={logout} className="cursor-pointer text-destructive">
                   <LogOut className="mr-2 h-4 w-4" />
-                  Đăng xuất
+                  {t('nav.logout')}
                 </DropdownMenuItem>
               </DropdownMenuContent>
             </DropdownMenu>
           ) : (
             <Button asChild variant="default">
-              <Link to="/login">Đăng nhập</Link>
+              <Link to="/login">{t('nav.login')}</Link>
             </Button>
           )}
         </div>
