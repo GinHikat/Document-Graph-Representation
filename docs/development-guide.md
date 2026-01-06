@@ -97,10 +97,67 @@ Types:
 
 ### Backend Tests
 
+The project includes a comprehensive test suite with 40 tests covering authentication, document management, and RAG functionality.
+
+**Run All Tests**
 ```bash
-pytest
-pytest --cov=api  # With coverage
+# From project root
+pytest api/tests/ -v
+
+# Or from api directory
+cd api
+pytest tests/ -v
 ```
+
+**Run Specific Test Categories**
+```bash
+# Authentication tests (13 tests)
+pytest api/tests/test_auth.py -v
+
+# Document management tests (17 tests)
+pytest api/tests/test_documents.py -v
+
+# RAG endpoint tests (10 tests)
+pytest api/tests/test_rag.py -v
+```
+
+**Generate Coverage Report**
+```bash
+# HTML coverage report (current: 69%)
+pytest api/tests/ --cov=api --cov-report=html
+
+# View in browser
+open htmlcov/index.html
+
+# Terminal coverage report
+pytest api/tests/ --cov=api --cov-report=term-missing
+```
+
+**Run Specific Tests**
+```bash
+# Run specific test class
+pytest api/tests/test_auth.py::TestRegister -v
+
+# Run specific test function
+pytest api/tests/test_auth.py::TestRegister::test_register_user -v
+
+# Stop on first failure
+pytest api/tests/ -v -x
+
+# Run with debugging
+pytest api/tests/ -v --pdb
+```
+
+**Test Structure**
+```
+api/tests/
+├── conftest.py          # Shared fixtures (client, users, auth_headers)
+├── test_auth.py         # Auth endpoints (register, login, profile)
+├── test_documents.py    # Document CRUD and processing
+└── test_rag.py          # RAG query and retrieval
+```
+
+For detailed testing documentation, see `docs/testing.md`.
 
 ### Frontend Tests
 
