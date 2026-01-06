@@ -1,0 +1,64 @@
+sequenceDiagram
+    autonumber
+
+    participant User as 👤 User
+    participant Frontend as 🖥️ React Frontend
+    participant API as ⚡ FastAPI
+    participant RAG as 🤖 RAG Agent
+    participant Embedder as 📐 Embedding Service
+    participant Neo4j as 🗄️ Neo4j
+    participant Reranker as 📊 Reranker
+    participant LLM as 🧠 Gemini LLM
+
+    Note over User,LLM: RAG Query Flow - Graph-Enhanced Retrieval
+
+    %% User initiates query
+    User->>+Frontend: Enter legal question
+    Frontend->>+API: POST /api/rag/query
+    Note right of Frontend: {query, method: "graph"}
+
+    API->>+RAG: process_query(query)
+
+    %% Embedding phase
+    RAG->>+Embedder: embed_query(query)
+    Embedder-->>-RAG: query_vector[768]
+
+    %% Vector retrieval
+    RAG->>+Neo4j: Vector similarity search
+    Note right of RAG: CALL db.index.vector.queryNodes()
+    Neo4j-->>-RAG: seed_nodes[top_k=20]
+
+    %% Graph traversal
+    RAG->>+Neo4j: Graph expansion (k-hop)
+    Note right of RAG: MATCH (n)-[:HAS_*]->(child)<br/>WHERE n IN seed_nodes
+    Neo4j-->>-RAG: expanded_context[50 nodes]
+
+    %% Reranking
+    RAG->>+Reranker: rerank(query, candidates)
+    Note right of Reranker: BGE-reranker-v2<br/>Cross-encoder scoring
+    Reranker-->>-RAG: ranked_chunks[top_10]
+
+    %% LLM Generation
+    RAG->>+LLM: generate_answer(context, query)
+    Note right of LLM: Gemini 2.0 Flash<br/>Streaming response
+
+    loop SSE Streaming
+        LLM-->>RAG: token_chunk
+        RAG-->>API: yield chunk
+        API-->>Frontend: SSE: data: chunk
+        Frontend-->>User: Display token
+    end
+
+    LLM-->>-RAG: [END]
+    RAG-->>-API: Complete with sources
+    API-->>-Frontend: SSE: [DONE]
+    Frontend-->>-User: Show citations
+
+    Note over User,LLM: Query Complete with Source Traceability
+
+    rect rgb(240, 253, 244)
+        Note over User,Frontend: User Feedback Loop
+        User->>Frontend: Rate answer quality
+        Frontend->>API: POST /api/annotation
+        API->>Neo4j: Store feedback
+    end

@@ -2,6 +2,20 @@
 
 This document contains Mermaid diagrams for the Tax Legal RAG System. Render these diagrams and export as PNG/SVG for use in the Typst report.
 
+## Quick Links to Diagram Files
+
+| Diagram | File | Description |
+|---------|------|-------------|
+| UML Use Case | [use-case.mmd](diagrams/use-case.mmd) | Actor interactions and system use cases |
+| Sequence Diagram | [sequence-diagram.mmd](diagrams/sequence-diagram.mmd) | RAG query flow with detailed interactions |
+| C4 Architecture | [architecture-c4.mmd](diagrams/architecture-c4.mmd) | System context and container diagrams |
+| System Architecture | [system-architecture.mmd](diagrams/system-architecture.mmd) | Layered architecture overview |
+| RAG Pipeline | [rag-pipeline.mmd](diagrams/rag-pipeline.mmd) | Retrieval-Augmented Generation flow |
+| Document Processing | [document-processing.mmd](diagrams/document-processing.mmd) | Ingestion pipeline |
+| Graph Structure | [graph-structure.mmd](diagrams/graph-structure.mmd) | Knowledge graph node hierarchy |
+
+---
+
 ## 1. Overall System Architecture
 
 ```mermaid
