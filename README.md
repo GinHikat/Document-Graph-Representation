@@ -6,21 +6,21 @@ A full-stack knowledge graph-based Retrieval Augmented Generation (RAG) system f
 
 ```
 Document-Graph-Representation/
-├── api/                    # FastAPI backend
-│   ├── routers/           # API endpoints (graph, rag, health)
-│   ├── services/          # Business logic
-│   └── schemas/           # Pydantic models
-├── frontend/              # React + TypeScript UI
+├── api/                       # FastAPI backend
+│   ├── routers/               # API endpoints (graph, rag, health)
+│   ├── services/              # Business logic
+│   └── schemas/               # Pydantic models
+├── frontend/                  # React + TypeScript UI
 │   ├── src/
-│   │   ├── components/    # UI components (shadcn/ui)
-│   │   ├── pages/         # App views
-│   │   ├── services/      # API client
-│   │   └── stores/        # Zustand state
-├── rag_model/             # ML pipeline
-│   ├── model/             # NER, RE, document processing
-│   └── retrieval_pipeline/# Retrieval strategies
-├── shared_functions/      # Utilities (Neo4j, S3, eval)
-└── docs/                  # Documentation
+│   │   ├── components/        # UI components (shadcn/ui)
+│   │   ├── pages/             # App views
+│   │   ├── services/          # API client
+│   │   └── stores/            # Zustand state
+├── rag_model/                 # ML pipeline
+│   ├── model/                 # NER, RE, document processing
+│   └── retrieval_pipeline/    # Retrieval strategies
+├── shared_functions/          # Utilities (Neo4j, S3, eval)
+└── docs/                      # Documentation
 ```
 
 ## Tech Stack
@@ -137,13 +137,12 @@ Frontend runs at `http://localhost:8080`, API at `http://localhost:8000`.
 
 ```python
 modes = {
-    1: "default",           # Standard embedding search
-    2: "traverse_embed",    # Graph traversal + embeddings
-    3: "traverse_exact",    # Graph traversal + exact match
-    4: "pagerank_embed",    # PageRank + embeddings
-    5: "pagerank_exact",    # PageRank + exact match
-    6: "exact_match",       # Pure exact match
-    7: "exact_match_with_rerank"  # Exact + reranking
+    1: "default",           		# Standard embedding search
+    2: "traverse_embed",    		# Embeddings + Graph Traversal
+    3: "traverse_exact",    		# Exact Match + Graph TRaversal
+    4: "exact_match",  	    		# Exact Match
+    5: "exact_match_with_rerank",   # Exact match then Rerank with embeddings
+    6: "hybrid_search",       		# Top k by both Embeddings and Exact match
 }
 ```
 
@@ -157,6 +156,16 @@ models = {
     3: "all-MiniLM-L12-v2",
     4: "vinai/phobert-base",   # Vietnamese-specific
     5: "BAAI/bge-m3"           # Evaluation only
+}
+```
+
+## Evaluation Modes
+
+```python
+mode_map = {
+    1: 'embedding',
+    2: 'jaccard', 
+    3: 'combined'
 }
 ```
 
@@ -198,21 +207,24 @@ retriever = Neo4j_retriever()
 # Single query
 result = retriever.query_neo4j(
     text="Thuế thu nhập cá nhân",
-    mode=2,  # traverse_embed
-    graph=1,
-    chunks=1,
-    hop=2
+    mode=6,  		            # Hybrid search
+    graph=True,		            # Use Graph Embedding, None if only use Textual Embedding
+    chunks=None,	            # Include chunk nodes (only available in GraphSAGE integrated database)
+    hop=2,		                # Number of hops in traversal
+    namespace = 'Test_rel_3'    # Namespace (Node label for filtering)
 )
 
-# Batch query
-df = retriever.batch_query(df, mode=2, graph=1, chunks=1, hop=2)
+# Batch query, df should include "question" column
+df = retriever.batch_query(df, mode=2, graph=True, chunks=True, hop=2, namespace = 'Test')
 ```
 
 ### Evaluation
 
 ```python
 from shared_functions.eval import Evaluator
+from shared_functions.batch_retrieve_neo4j import *
 
+retriever = Neo4j_retriever()
 eval = Evaluator(embedding_as_judge=5)
 
 # Combined evaluation
@@ -223,6 +235,11 @@ result = eval.combined_evaluator(
     jaccard_threshold=0.3,
     scaling_factor=0.5
 )
+
+# For batch evaluation, df must have supporting_context and retrieved_context columns with List type
+retriever.str_to_list(df, 'supporting_context')
+retriever.str_to_list(df, 'retrieved_context')
+eval.run_evaluation(df, embedding_threshold = , jaccard_threshold = , scaling_factor = , mode = )
 
 # RAGAS evaluation
 eval.ragas(df)  # df: question, answer, retrieved_contexts
