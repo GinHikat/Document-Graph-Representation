@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { Play, Edit, ZoomIn, ZoomOut, Maximize, Download, RefreshCw, AlertCircle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
@@ -8,11 +8,14 @@ import { Badge } from '@/components/ui/badge';
 import { Slider } from '@/components/ui/slider';
 import { graphService, healthService } from '@/services/api';
 import { useToast } from '@/hooks/use-toast';
-import { GraphVisualization } from '@/components/GraphVisualization';
+import { GraphVisualization, type GraphVisualizationRef } from '@/components/GraphVisualization';
+import { NodeDetailsPanel } from '@/components/NodeDetailsPanel';
 import type { GraphData, GraphNode } from '@/types';
 
 export default function Graph() {
   const { toast } = useToast();
+  const graphVisualizationRef = useRef<GraphVisualizationRef>(null);
+  const nodeDetailsPanelRef = useRef<HTMLDivElement>(null);
   const [query, setQuery] = useState('');
   const [cypher, setCypher] = useState('');
   const [isEditing, setIsEditing] = useState(false);
@@ -141,6 +144,13 @@ export default function Graph() {
 
   const handleNodeClick = (node: GraphNode) => {
     setSelectedNode(node);
+    // Auto-scroll to node details panel
+    setTimeout(() => {
+      nodeDetailsPanelRef.current?.scrollIntoView({
+        behavior: 'smooth',
+        block: 'nearest',
+      });
+    }, 100);
   };
 
   const handleExportJSON = () => {
@@ -291,31 +301,11 @@ export default function Graph() {
             </CardContent>
           </Card>
 
-          {/* Node Details */}
+          {/* Node Details - Enhanced Panel */}
           {selectedNode && (
-            <Card>
-              <CardHeader>
-                <CardTitle className="text-base">Chi tiết node</CardTitle>
-              </CardHeader>
-              <CardContent>
-                <div className="space-y-2">
-                  <div>
-                    <span className="text-sm font-medium">Label:</span>
-                    <p className="text-sm text-muted-foreground">{selectedNode.label}</p>
-                  </div>
-                  <div>
-                    <span className="text-sm font-medium">Type:</span>
-                    <Badge variant="secondary" className="ml-2">{selectedNode.type}</Badge>
-                  </div>
-                  <div>
-                    <span className="text-sm font-medium">Properties:</span>
-                    <pre className="text-xs bg-muted p-2 rounded mt-1 overflow-auto max-h-48">
-                      {JSON.stringify(selectedNode.properties, null, 2)}
-                    </pre>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
+            <div ref={nodeDetailsPanelRef}>
+              <NodeDetailsPanel node={selectedNode} />
+            </div>
           )}
 
           {/* Legend */}
@@ -378,21 +368,40 @@ export default function Graph() {
             {/* Graph Canvas */}
             <div className="w-full h-full">
               <GraphVisualization
+                ref={graphVisualizationRef}
                 data={graphData}
                 onNodeClick={handleNodeClick}
                 height={600}
               />
             </div>
 
-            {/* Floating Controls */}
+            {/* Floating Controls - Now Functional */}
             <div className="absolute top-4 right-4 flex gap-2">
-              <Button variant="secondary" size="icon" title="Zoom In">
+              <Button
+                variant="secondary"
+                size="icon"
+                title="Zoom In"
+                aria-label="Zoom in"
+                onClick={() => graphVisualizationRef.current?.zoomIn()}
+              >
                 <ZoomIn className="h-4 w-4" />
               </Button>
-              <Button variant="secondary" size="icon" title="Zoom Out">
+              <Button
+                variant="secondary"
+                size="icon"
+                title="Zoom Out"
+                aria-label="Zoom out"
+                onClick={() => graphVisualizationRef.current?.zoomOut()}
+              >
                 <ZoomOut className="h-4 w-4" />
               </Button>
-              <Button variant="secondary" size="icon" title="Fit to Screen">
+              <Button
+                variant="secondary"
+                size="icon"
+                title="Fit to Screen"
+                aria-label="Fit to screen"
+                onClick={() => graphVisualizationRef.current?.zoomToFit()}
+              >
                 <Maximize className="h-4 w-4" />
               </Button>
             </div>
