@@ -130,36 +130,15 @@ export const qaService = {
     }
   },
 
-  // Non-streaming compare - real API only
+  // Non-streaming compare - calls /api/rag/compare for vector vs graph comparison
   compare: async (question: string): Promise<CompareResponse> => {
-    const response = await fetchWithErrorHandling(`${API_BASE_URL}/api/rag/query`, {
+    const response = await fetchWithErrorHandling(`${API_BASE_URL}/api/rag/compare`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ question, stream: false }),
+      body: JSON.stringify({ question }),
     });
 
-    const data = await response.json();
-    return {
-      questionId: `q_${Date.now()}`,
-      question,
-      vector: {
-        answer: data.answer || '',
-        sources: data.sources || [],
-        metrics: data.metrics || { latencyMs: 0, chunksUsed: 0 },
-      },
-      graph: {
-        answer: data.answer || '',
-        sources: data.sources || [],
-        cypherQuery: data.cypher_query || '',
-        graphContext: data.graph_context || [],
-        metrics: {
-          ...(data.metrics || { latencyMs: 0, chunksUsed: 0 }),
-          graphNodesUsed: data.graph_nodes_used || 0,
-          graphHops: data.graph_hops || 0,
-        },
-      },
-      timestamp: new Date().toISOString(),
-    };
+    return await response.json();
   },
 
   getHistory: async (): Promise<CompareResponse[]> => {

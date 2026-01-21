@@ -200,11 +200,11 @@ export function NodeDetailsPanel({ node }: NodeDetailsPanelProps) {
               <p className="font-medium text-base leading-relaxed break-words line-clamp-2">
                 {node.label}
               </p>
-              {/* Blur gradient overlay */}
-              <div className="absolute bottom-0 left-0 right-0 h-8 bg-gradient-to-t from-primary/5 to-transparent" />
+              {/* Blur gradient overlay - pointer-events-none to allow clicking through */}
+              <div className="absolute bottom-6 left-0 right-0 h-6 bg-gradient-to-t from-primary/10 to-transparent pointer-events-none" />
               <button
                 onClick={() => toggleExpand('label')}
-                className="mt-1 text-xs text-primary hover:text-primary/80 flex items-center gap-1"
+                className="relative z-10 mt-2 text-xs text-primary hover:text-primary/80 hover:underline flex items-center gap-1 cursor-pointer"
               >
                 <ChevronDown className="h-3 w-3" />
                 Xem thêm ({node.label.length} ký tự)
@@ -216,7 +216,7 @@ export function NodeDetailsPanel({ node }: NodeDetailsPanelProps) {
               {needsExpand(node.label) && (
                 <button
                   onClick={() => toggleExpand('label')}
-                  className="mt-1 text-xs text-muted-foreground hover:text-foreground"
+                  className="mt-2 text-xs text-muted-foreground hover:text-foreground hover:underline cursor-pointer"
                 >
                   Thu gọn
                 </button>

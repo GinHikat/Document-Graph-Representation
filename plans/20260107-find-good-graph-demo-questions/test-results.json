@@ -1,0 +1,72 @@
+{
+  "tested_count": 11,
+  "high_quality_count": 0,
+  "results": [
+    {
+      "question": "Thuế suất VAT cho dịch vụ giáo dục là bao nhiêu?",
+      "question_full": "Thuế suất VAT cho dịch vụ giáo dục là bao nhiêu?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Điều kiện được miễn thuế thu nhập cá nhân?",
+      "question_full": "Điều kiện được miễn thuế thu nhập cá nhân?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Chi phí nào được trừ khi tính thuế TNDN?",
+      "question_full": "Chi phí nào được trừ khi tính thuế TNDN?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Thời hạn nộp thuế GTGT hàng tháng là khi nào?",
+      "question_full": "Thời hạn nộp thuế GTGT hàng tháng là khi nào?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Cách tính thuế thu nhập doanh nghiệp?",
+      "question_full": "Cách tính thuế thu nhập doanh nghiệp?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Thu nhập nào được miễn thuế TNDN?",
+      "question_full": "Thu nhập nào được miễn thuế TNDN?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Doanh nghiệp nào được ưu đãi thuế TNDN?",
+      "question_full": "Doanh nghiệp nào được ưu đãi thuế TNDN?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Thuế suất thuế TNDN hiện hành là bao nhiêu?",
+      "question_full": "Thuế suất thuế TNDN hiện hành là bao nhiêu?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Theo Điều 3 Luật Giá, Nhà nước định giá một số mặt hàng như thế nào và các quy định pháp luật nào liên quan đến việc địn",
+      "question_full": "Theo Điều 3 Luật Giá, Nhà nước định giá một số mặt hàng như thế nào và các quy định pháp luật nào liên quan đến việc định giá này?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Tại sao các hành vi liên quan đến giá, thẩm định giá bị nghiêm cấm theo quy định pháp luật?",
+      "question_full": "Tại sao các hành vi liên quan đến giá, thẩm định giá bị nghiêm cấm theo quy định pháp luật?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    },
+    {
+      "question": "Làm thế nào việc thực hiện bình ổn giá trên phạm vi cả nước khác với việc thực hiện bình ổn giá tại phạm vi địa phương t",
+      "question_full": "Làm thế nào việc thực hiện bình ổn giá trên phạm vi cả nước khác với việc thực hiện bình ổn giá tại phạm vi địa phương theo quy định tại Điều 20 của Luật này?",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=30)",
+      "quality_score": 0
+    }
+  ]
+}

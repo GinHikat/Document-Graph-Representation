@@ -1,11 +1,12 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Search, ChevronDown, ChevronRight, Clock, Database, Target, Loader2, History, Keyboard, CheckCircle2 } from 'lucide-react';
+import { Search, ChevronDown, ChevronRight, Clock, Database, Target, Loader2, History, Keyboard, CheckCircle2, AlertCircle } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { PageContainer } from '@/components/layout/PageContainer';
 import { Badge } from '@/components/ui/badge';
+import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 import { Collapsible, CollapsibleContent, CollapsibleTrigger } from '@/components/ui/collapsible';
 import { useQAStore } from '@/stores/qaStore';
 import { useToast } from '@/hooks/use-toast';
@@ -40,6 +41,7 @@ export default function QA() {
     results,
     history,
     isLoading,
+    error,
     setCurrentQuestion,
     compare,
     submitAnnotation,
@@ -261,6 +263,15 @@ export default function QA() {
             </CardContent>
           </Card>
 
+          {/* Error Display */}
+          {error && (
+            <Alert variant="destructive">
+              <AlertCircle className="h-4 w-4" />
+              <AlertTitle>{t('common.error')}</AlertTitle>
+              <AlertDescription>{error}</AlertDescription>
+            </Alert>
+          )}
+
           {/* Comparison Results */}
           {results && (
             <>
@@ -276,7 +287,7 @@ export default function QA() {
                     </div>
                   </CardHeader>
                   <CardContent className="pt-6 space-y-4">
-                    <Markdown content={results.vector.answer} />
+                    <Markdown content={results.vector?.answer} />
 
                     <Separator />
 
@@ -284,7 +295,7 @@ export default function QA() {
                     <Collapsible open={vectorSourcesOpen} onOpenChange={setVectorSourcesOpen}>
                       <CollapsibleTrigger className="flex items-center justify-between w-full p-2 hover:bg-muted/50 rounded-md">
                         <span className="text-sm font-medium">
-                          {t('qa.sources')} ({results.vector.sources.length})
+                          {t('qa.sources')} ({results.vector?.sources?.length ?? 0})
                         </span>
                         {vectorSourcesOpen ? (
                           <ChevronDown className="h-4 w-4" />
@@ -293,7 +304,7 @@ export default function QA() {
                         )}
                       </CollapsibleTrigger>
                       <CollapsibleContent className="space-y-2 mt-2">
-                        {results.vector.sources.map((source, idx) => (
+                        {results.vector?.sources?.map((source, idx) => (
                           <div key={idx} className="p-3 bg-muted rounded-md text-sm">
                             <div className="flex items-center justify-between mb-1">
                               <span className="font-medium text-xs">
@@ -313,13 +324,13 @@ export default function QA() {
                     <div className="flex gap-4 p-3 bg-muted/50 rounded-lg text-sm">
                       <div className="flex items-center gap-1">
                         <Clock className="h-4 w-4 text-muted-foreground" />
-                        <span>{(results.vector.metrics.latencyMs / 1000).toFixed(2)}s</span>
+                        <span>{((results.vector?.metrics?.latencyMs ?? 0) / 1000).toFixed(2)}s</span>
                       </div>
                       <div className="flex items-center gap-1">
                         <Database className="h-4 w-4 text-muted-foreground" />
-                        <span>{results.vector.metrics.chunksUsed ?? 0} chunks</span>
+                        <span>{results.vector?.metrics?.chunksUsed ?? 0} chunks</span>
                       </div>
-                      {results.vector.metrics.confidenceScore && (
+                      {results.vector?.metrics?.confidenceScore && (
                         <div className="flex items-center gap-1">
                           <Target className="h-4 w-4 text-muted-foreground" />
                           <span>{(results.vector.metrics.confidenceScore * 100).toFixed(0)}%</span>
@@ -340,12 +351,12 @@ export default function QA() {
                     </div>
                   </CardHeader>
                   <CardContent className="pt-6 space-y-4">
-                    <Markdown content={results.graph.answer} />
+                    <Markdown content={results.graph?.answer} />
 
                     <Separator />
 
                     {/* Cypher Query */}
-                    {results.graph.cypherQuery && (
+                    {results.graph?.cypherQuery && (
                       <Collapsible open={cypherOpen} onOpenChange={setCypherOpen}>
                         <CollapsibleTrigger className="flex items-center justify-between w-full p-2 hover:bg-muted/50 rounded-md">
                           <span className="text-sm font-medium">{t('qa.cypherQuery')}</span>
@@ -376,7 +387,7 @@ export default function QA() {
                       <CollapsibleContent className="mt-2">
                         <div className="p-3 bg-muted rounded-md text-sm">
                           <p className="text-muted-foreground">
-                            {results.graph.graphContext.length} graph contexts retrieved
+                            {results.graph?.graphContext?.length ?? 0} graph contexts retrieved
                           </p>
                         </div>
                       </CollapsibleContent>
@@ -386,7 +397,7 @@ export default function QA() {
                     <Collapsible open={graphSourcesOpen} onOpenChange={setGraphSourcesOpen}>
                       <CollapsibleTrigger className="flex items-center justify-between w-full p-2 hover:bg-muted/50 rounded-md">
                         <span className="text-sm font-medium">
-                          {t('qa.sources')} ({results.graph.sources.length})
+                          {t('qa.sources')} ({results.graph?.sources?.length ?? 0})
                         </span>
                         {graphSourcesOpen ? (
                           <ChevronDown className="h-4 w-4" />
@@ -395,7 +406,7 @@ export default function QA() {
                         )}
                       </CollapsibleTrigger>
                       <CollapsibleContent className="space-y-2 mt-2">
-                        {results.graph.sources.map((source, idx) => (
+                        {results.graph?.sources?.map((source, idx) => (
                           <div key={idx} className="p-3 bg-muted rounded-md text-sm">
                             <div className="flex items-center justify-between mb-1">
                               <span className="font-medium text-xs">
@@ -415,18 +426,18 @@ export default function QA() {
                     <div className="flex flex-wrap gap-2 p-3 bg-muted/50 rounded-lg text-sm">
                       <div className="flex items-center gap-1">
                         <Clock className="h-4 w-4 text-muted-foreground" />
-                        <span>{(results.graph.metrics.latencyMs / 1000).toFixed(2)}s</span>
+                        <span>{((results.graph?.metrics?.latencyMs ?? 0) / 1000).toFixed(2)}s</span>
                       </div>
                       <div className="flex items-center gap-1">
                         <Database className="h-4 w-4 text-muted-foreground" />
-                        <span>{results.graph.metrics.chunksUsed ?? 0} chunks</span>
+                        <span>{results.graph?.metrics?.chunksUsed ?? 0} chunks</span>
                       </div>
                       <div className="flex items-center gap-1">
                         <Target className="h-4 w-4 text-muted-foreground" />
-                        <span>{results.graph.metrics.graphNodesUsed ?? 0} nodes</span>
+                        <span>{results.graph?.metrics?.graphNodesUsed ?? 0} nodes</span>
                       </div>
                       <Badge variant="secondary">
-                        {results.graph.metrics.graphHops ?? 0} hops
+                        {results.graph?.metrics?.graphHops ?? 0} hops
                       </Badge>
                     </div>
                   </CardContent>
