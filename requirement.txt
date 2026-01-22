@@ -1,8 +1,6 @@
 langchain 
 langgraph 
-"markitdown[all]" 'markitdown[pdf]' 
-faiss-cpu 
-langchain-openai 
+markitdown[all]
 langchain-experimental 
 pydantic 
 langchain_google_genai 
@@ -24,7 +22,9 @@ pandas
 numpy
 matplotlib
 seaborn
-torch torchvision torchaudio
+torch 
+torchvision 
+torchaudio
 google-generativeai
 langchain-text-splitters
 pytorch-crf

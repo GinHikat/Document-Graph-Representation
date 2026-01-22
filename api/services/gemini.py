@@ -67,31 +67,35 @@ def _build_prompt(query: str, context_chunks: List[Dict[str, Any]]) -> str:
 ## Trả lời:"""
 
 
-def _generate_with_openai(prompt: str, stream: bool = False):
-    """Generate using OpenAI API."""
+def _generate_with_openai_streaming(prompt: str):
+    """Generate using OpenAI API with streaming."""
     import openai
 
     client = openai.OpenAI()
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3,
+        max_tokens=1024,
+        stream=True
+    )
+    for chunk in response:
+        if chunk.choices[0].delta.content:
+            yield chunk.choices[0].delta.content
 
-    if stream:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.3,
-            max_tokens=1024,
-            stream=True
-        )
-        for chunk in response:
-            if chunk.choices[0].delta.content:
-                yield chunk.choices[0].delta.content
-    else:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.3,
-            max_tokens=1024
-        )
-        return response.choices[0].message.content
+
+def _generate_with_openai(prompt: str) -> str:
+    """Generate using OpenAI API (non-streaming)."""
+    import openai
+
+    client = openai.OpenAI()
+    response = client.chat.completions.create(
+        model="gpt-3.5-turbo",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3,
+        max_tokens=1024
+    )
+    return response.choices[0].message.content
 
 
 def _generate_with_gemini(prompt: str, model_name: str = "gemini-2.0-flash") -> str:
@@ -152,7 +156,7 @@ def generate_answer_streaming(
     if _openai_configured:
         try:
             logger.info("Using OpenAI fallback for generation")
-            for chunk in _generate_with_openai(prompt, stream=True):
+            for chunk in _generate_with_openai_streaming(prompt):
                 yield chunk
             return
         except Exception as e:
@@ -195,7 +199,7 @@ def generate_answer(
     if _openai_configured:
         try:
             logger.info("Using OpenAI fallback for generation")
-            return _generate_with_openai(prompt, stream=False)
+            return _generate_with_openai(prompt)
         except Exception as e:
             logger.error(f"OpenAI generation failed: {e}")
 

@@ -50,7 +50,9 @@ def verify_password(plain_password: str, hashed_password: str) -> bool:
 
 def hash_password(password: str) -> str:
     """Hash a password for storage."""
-    return pwd_context.hash(password)
+    # Bcrypt has a 72-byte limit, truncate if necessary
+    password_bytes = password.encode('utf-8')[:72]
+    return pwd_context.hash(password_bytes)
 
 
 def create_access_token(data: dict, expires_delta: Optional[timedelta] = None) -> str:
@@ -179,15 +181,22 @@ def authenticate_user(email: str, password: str) -> Optional[UserInDB]:
 # Create a default demo user for testing
 def init_demo_user():
     """Initialize a demo user for testing."""
-    if "demo@example.com" not in users_db:
-        create_user(
-            email="demo@example.com",
-            password="demo123",
-            name="Demo User",
-            role="annotator"
-        )
-        logger.info("Demo user created: demo@example.com / demo123")
+    try:
+        if "demo@example.com" not in users_db:
+            create_user(
+                email="demo@example.com",
+                password="demo123",
+                name="Demo User",
+                role="annotator"
+            )
+            logger.info("Demo user created: demo@example.com / demo123")
+    except Exception as e:
+        logger.warning(f"Failed to create demo user: {e}")
+        logger.info("Demo mode still available - use any email with password 'demo'")
 
 
 # Initialize demo user on module load
-init_demo_user()
+try:
+    init_demo_user()
+except Exception as e:
+    logger.error(f"Error during demo user initialization: {e}")
