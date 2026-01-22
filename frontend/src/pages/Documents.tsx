@@ -1,5 +1,6 @@
-import { useEffect, useState } from 'react';
-import { Upload, Trash2, RefreshCw, FileText, AlertCircle, CheckCircle2, Loader2 } from 'lucide-react';
+import { useEffect, useState, useMemo } from 'react';
+import { useTranslation } from 'react-i18next';
+import { Upload, Trash2, RefreshCw, FileText, AlertCircle, CheckCircle2, Loader2, Search, X } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { PageContainer } from '@/components/layout/PageContainer';
@@ -8,6 +9,7 @@ import { Checkbox } from '@/components/ui/checkbox';
 import { Badge } from '@/components/ui/badge';
 import { useToast } from '@/hooks/use-toast';
 import { Progress } from '@/components/ui/progress';
+import { Input } from '@/components/ui/input';
 import {
   AlertDialog,
   AlertDialogAction,
@@ -19,7 +21,10 @@ import {
   AlertDialogTitle,
 } from '@/components/ui/alert-dialog';
 
+type StatusFilter = 'all' | 'completed' | 'processing' | 'failed';
+
 export default function Documents() {
+  const { t } = useTranslation();
   const { toast } = useToast();
   const {
     documents,
@@ -37,10 +42,32 @@ export default function Documents() {
 
   const [showDeleteDialog, setShowDeleteDialog] = useState(false);
   const [isDragging, setIsDragging] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [statusFilter, setStatusFilter] = useState<StatusFilter>('all');
 
   useEffect(() => {
     loadDocuments();
   }, [loadDocuments]);
+
+  // Filtered documents based on search and status
+  const filteredDocuments = useMemo(() => {
+    return documents.filter(doc => {
+      const matchesSearch = searchQuery === '' ||
+        doc.name.toLowerCase().includes(searchQuery.toLowerCase());
+      const matchesStatus = statusFilter === 'all' || doc.status === statusFilter;
+      return matchesSearch && matchesStatus;
+    });
+  }, [documents, searchQuery, statusFilter]);
+
+  // Count by status for filter badges
+  const statusCounts = useMemo(() => {
+    return {
+      all: documents.length,
+      completed: documents.filter(d => d.status === 'completed').length,
+      processing: documents.filter(d => d.status === 'processing').length,
+      failed: documents.filter(d => d.status === 'failed').length,
+    };
+  }, [documents]);
 
   const handleFileSelect = async (files: FileList | null) => {
     if (!files || files.length === 0) return;
@@ -49,13 +76,13 @@ export default function Documents() {
     try {
       await uploadDocuments(fileArray);
       toast({
-        title: 'Upload thành công',
-        description: `Đã tải lên ${fileArray.length} tài liệu`,
+        title: t('documents.uploadSuccess'),
+        description: t('documents.uploadSuccessDescription', { count: fileArray.length }),
       });
     } catch (error) {
       toast({
-        title: 'Lỗi upload',
-        description: 'Không thể tải tài liệu lên',
+        title: t('documents.uploadError'),
+        description: t('documents.uploadErrorDescription'),
         variant: 'destructive',
       });
     }
@@ -71,14 +98,14 @@ export default function Documents() {
     try {
       await deleteDocuments(selectedIds);
       toast({
-        title: 'Xóa thành công',
-        description: `Đã xóa ${selectedIds.length} tài liệu`,
+        title: t('documents.deleteSuccess'),
+        description: t('documents.deleteSuccessDescription', { count: selectedIds.length }),
       });
       setShowDeleteDialog(false);
     } catch (error) {
       toast({
-        title: 'Lỗi xóa',
-        description: 'Không thể xóa tài liệu',
+        title: t('documents.deleteError'),
+        description: t('documents.deleteErrorDescription'),
         variant: 'destructive',
       });
     }
@@ -88,14 +115,14 @@ export default function Documents() {
     try {
       await reprocessDocuments(selectedIds);
       toast({
-        title: 'Đang xử lý lại',
-        description: `Bắt đầu xử lý lại ${selectedIds.length} tài liệu`,
+        title: t('documents.reprocessing'),
+        description: t('documents.reprocessingDescription', { count: selectedIds.length }),
       });
       clearSelection();
     } catch (error) {
       toast({
-        title: 'Lỗi',
-        description: 'Không thể xử lý lại tài liệu',
+        title: t('documents.reprocessError'),
+        description: t('documents.reprocessErrorDescription'),
         variant: 'destructive',
       });
     }
@@ -107,21 +134,21 @@ export default function Documents() {
         return (
           <Badge variant="default" className="bg-success">
             <CheckCircle2 className="h-3 w-3 mr-1" />
-            Hoàn thành
+            {t('documents.statusCompleted')}
           </Badge>
         );
       case 'processing':
         return (
           <Badge variant="secondary">
             <Loader2 className="h-3 w-3 mr-1 animate-spin" />
-            Đang xử lý
+            {t('documents.statusProcessing')}
           </Badge>
         );
       case 'failed':
         return (
           <Badge variant="destructive">
             <AlertCircle className="h-3 w-3 mr-1" />
-            Thất bại
+            {t('documents.statusFailed')}
           </Badge>
         );
       default:
@@ -129,16 +156,38 @@ export default function Documents() {
     }
   };
 
-  const allSelected = documents.length > 0 && selectedIds.length === documents.length;
+  const allSelected = filteredDocuments.length > 0 &&
+    filteredDocuments.every(doc => selectedIds.includes(doc.id));
+
+  const handleSelectAllFiltered = () => {
+    if (allSelected) {
+      clearSelection();
+    } else {
+      // Select only filtered documents
+      const filteredIds = filteredDocuments.map(doc => doc.id);
+      filteredIds.forEach(id => {
+        if (!selectedIds.includes(id)) {
+          toggleSelection(id);
+        }
+      });
+    }
+  };
+
+  const clearFilters = () => {
+    setSearchQuery('');
+    setStatusFilter('all');
+  };
+
+  const hasActiveFilters = searchQuery !== '' || statusFilter !== 'all';
 
   return (
     <PageContainer>
       <div className="space-y-6">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold">Quản lý tài liệu</h1>
+            <h1 className="text-3xl font-bold">{t('documents.title')}</h1>
             <p className="text-muted-foreground mt-1">
-              Upload và quản lý văn bản pháp luật thuế
+              {t('documents.subtitle')}
             </p>
           </div>
         </div>
@@ -146,9 +195,9 @@ export default function Documents() {
         {/* Upload Section */}
         <Card>
           <CardHeader>
-            <CardTitle>Tải lên tài liệu</CardTitle>
+            <CardTitle>{t('documents.uploadTitle')}</CardTitle>
             <CardDescription>
-              Hỗ trợ định dạng PDF, DOCX. Có thể tải nhiều file cùng lúc.
+              {t('documents.uploadDescription')}
             </CardDescription>
           </CardHeader>
           <CardContent>
@@ -165,10 +214,10 @@ export default function Documents() {
             >
               <Upload className="h-12 w-12 mx-auto mb-4 text-muted-foreground" />
               <p className="text-lg font-medium mb-2">
-                Kéo thả file vào đây hoặc click để chọn
+                {t('documents.dragDropText')}
               </p>
               <p className="text-sm text-muted-foreground mb-4">
-                PDF, DOCX (tối đa 50MB mỗi file)
+                {t('documents.formatHint')}
               </p>
               <input
                 type="file"
@@ -180,7 +229,7 @@ export default function Documents() {
               />
               <Button asChild>
                 <label htmlFor="file-upload" className="cursor-pointer">
-                  Chọn file
+                  {t('documents.selectFile')}
                 </label>
               </Button>
             </div>
@@ -203,7 +252,7 @@ export default function Documents() {
         {selectedIds.length > 0 && (
           <div className="flex items-center gap-2 p-4 bg-muted rounded-lg">
             <span className="text-sm font-medium">
-              Đã chọn {selectedIds.length} tài liệu
+              {t('documents.selected', { count: selectedIds.length })}
             </span>
             <div className="ml-auto flex gap-2">
               <Button
@@ -212,7 +261,7 @@ export default function Documents() {
                 onClick={handleReprocess}
               >
                 <RefreshCw className="h-4 w-4 mr-2" />
-                Xử lý lại
+                {t('documents.reprocess')}
               </Button>
               <Button
                 variant="destructive"
@@ -220,14 +269,14 @@ export default function Documents() {
                 onClick={() => setShowDeleteDialog(true)}
               >
                 <Trash2 className="h-4 w-4 mr-2" />
-                Xóa
+                {t('common.delete')}
               </Button>
               <Button
                 variant="ghost"
                 size="sm"
                 onClick={clearSelection}
               >
-                Bỏ chọn
+                {t('documents.deselect')}
               </Button>
             </div>
           </div>
@@ -236,33 +285,115 @@ export default function Documents() {
         {/* Documents Table */}
         <Card>
           <CardHeader>
-            <CardTitle>Danh sách tài liệu</CardTitle>
+            <div className="flex flex-col gap-4">
+              <CardTitle>{t('documents.listTitle')}</CardTitle>
+
+              {/* Search and Filter Bar */}
+              <div className="flex flex-col sm:flex-row gap-3">
+                {/* Search Input */}
+                <div className="relative flex-1">
+                  <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+                  <Input
+                    placeholder={t('common.search') + '...'}
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="pl-9 pr-9"
+                  />
+                  {searchQuery && (
+                    <button
+                      onClick={() => setSearchQuery('')}
+                      aria-label="Clear search"
+                      className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+                    >
+                      <X className="h-4 w-4" />
+                    </button>
+                  )}
+                </div>
+
+                {/* Status Filter Chips */}
+                <div className="flex gap-2 flex-wrap">
+                  <Badge
+                    variant={statusFilter === 'all' ? 'default' : 'outline'}
+                    className="cursor-pointer"
+                    onClick={() => setStatusFilter('all')}
+                  >
+                    {t('common.filter')}: All ({statusCounts.all})
+                  </Badge>
+                  <Badge
+                    variant={statusFilter === 'completed' ? 'default' : 'outline'}
+                    className="cursor-pointer bg-success/10 hover:bg-success/20"
+                    onClick={() => setStatusFilter('completed')}
+                  >
+                    <CheckCircle2 className="h-3 w-3 mr-1" />
+                    {statusCounts.completed}
+                  </Badge>
+                  <Badge
+                    variant={statusFilter === 'processing' ? 'default' : 'outline'}
+                    className="cursor-pointer"
+                    onClick={() => setStatusFilter('processing')}
+                  >
+                    <Loader2 className="h-3 w-3 mr-1" />
+                    {statusCounts.processing}
+                  </Badge>
+                  <Badge
+                    variant={statusFilter === 'failed' ? 'destructive' : 'outline'}
+                    className="cursor-pointer"
+                    onClick={() => setStatusFilter('failed')}
+                  >
+                    <AlertCircle className="h-3 w-3 mr-1" />
+                    {statusCounts.failed}
+                  </Badge>
+                </div>
+              </div>
+
+              {/* Active filters indicator */}
+              {hasActiveFilters && (
+                <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                  <span>
+                    Showing {filteredDocuments.length} of {documents.length} documents
+                  </span>
+                  <Button variant="ghost" size="sm" onClick={clearFilters}>
+                    <X className="h-3 w-3 mr-1" />
+                    Clear filters
+                  </Button>
+                </div>
+              )}
+            </div>
           </CardHeader>
           <CardContent>
             {isLoading ? (
               <div className="flex items-center justify-center py-8">
                 <Loader2 className="h-8 w-8 animate-spin text-muted-foreground" />
               </div>
-            ) : documents.length === 0 ? (
+            ) : filteredDocuments.length === 0 ? (
               <div className="text-center py-8">
                 <FileText className="h-12 w-12 mx-auto mb-3 text-muted-foreground" />
-                <p className="text-muted-foreground">Chưa có tài liệu nào</p>
+                <p className="text-muted-foreground">
+                  {hasActiveFilters
+                    ? 'No documents match your filters'
+                    : t('documents.noDocuments')}
+                </p>
+                {hasActiveFilters && (
+                  <Button variant="link" onClick={clearFilters} className="mt-2">
+                    Clear filters
+                  </Button>
+                )}
               </div>
             ) : (
               <div className="space-y-2">
                 <div className="flex items-center p-3 border-b font-medium text-sm">
                   <Checkbox
                     checked={allSelected}
-                    onCheckedChange={() => allSelected ? clearSelection() : selectAll()}
+                    onCheckedChange={handleSelectAllFiltered}
                     className="mr-3"
                   />
-                  <div className="flex-1">Tên tài liệu</div>
-                  <div className="w-40">Ngày tải lên</div>
-                  <div className="w-32">Trạng thái</div>
-                  <div className="w-24">Thao tác</div>
+                  <div className="flex-1">{t('documents.documentName')}</div>
+                  <div className="w-40">{t('documents.uploadDate')}</div>
+                  <div className="w-32">{t('documents.status')}</div>
+                  <div className="w-24">{t('documents.actions')}</div>
                 </div>
 
-                {documents.map((doc) => (
+                {filteredDocuments.map((doc) => (
                   <div
                     key={doc.id}
                     className="flex items-center p-3 hover:bg-muted/50 rounded-lg transition-colors"
@@ -286,7 +417,10 @@ export default function Documents() {
                       <Button
                         variant="ghost"
                         size="sm"
-                        onClick={() => setShowDeleteDialog(true)}
+                        onClick={() => {
+                          toggleSelection(doc.id);
+                          setShowDeleteDialog(true);
+                        }}
                       >
                         <Trash2 className="h-4 w-4" />
                       </Button>
@@ -302,15 +436,14 @@ export default function Documents() {
       <AlertDialog open={showDeleteDialog} onOpenChange={setShowDeleteDialog}>
         <AlertDialogContent>
           <AlertDialogHeader>
-            <AlertDialogTitle>Xác nhận xóa</AlertDialogTitle>
+            <AlertDialogTitle>{t('documents.confirmDeleteTitle')}</AlertDialogTitle>
             <AlertDialogDescription>
-              Bạn có chắc muốn xóa {selectedIds.length} tài liệu đã chọn?
-              Hành động này không thể hoàn tác.
+              {t('documents.confirmDeleteDescription', { count: selectedIds.length })}
             </AlertDialogDescription>
           </AlertDialogHeader>
           <AlertDialogFooter>
-            <AlertDialogCancel>Hủy</AlertDialogCancel>
-            <AlertDialogAction onClick={handleDelete}>Xóa</AlertDialogAction>
+            <AlertDialogCancel>{t('common.cancel')}</AlertDialogCancel>
+            <AlertDialogAction onClick={handleDelete}>{t('common.delete')}</AlertDialogAction>
           </AlertDialogFooter>
         </AlertDialogContent>
       </AlertDialog>

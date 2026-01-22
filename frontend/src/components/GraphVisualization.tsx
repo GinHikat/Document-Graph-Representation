@@ -1,10 +1,20 @@
-import { useEffect, useRef, useState, useCallback, useMemo } from 'react';
+import { useEffect, useRef, useState, useCallback, useMemo, useImperativeHandle, forwardRef } from 'react';
 import ForceGraph2D from 'react-force-graph-2d';
 import type { GraphData, GraphNode, GraphLink } from '@/types';
 
 // Type for ForceGraph2D ref methods
 interface ForceGraphMethods {
   zoomToFit: (duration?: number, padding?: number) => void;
+  zoom: (scale?: number, duration?: number) => number;
+  centerAt: (x?: number, y?: number, duration?: number) => void;
+}
+
+// Exposed methods for parent components
+export interface GraphVisualizationRef {
+  zoomIn: () => void;
+  zoomOut: () => void;
+  zoomToFit: () => void;
+  getZoomLevel: () => number;
 }
 
 interface GraphVisualizationProps {
@@ -48,17 +58,42 @@ interface GraphDataInternal {
   links: GraphLinkInternal[];
 }
 
-export function GraphVisualization({
+export const GraphVisualization = forwardRef<GraphVisualizationRef, GraphVisualizationProps>(({
   data,
   onNodeClick,
   onNodeHover,
   height = 600,
   width,
-}: GraphVisualizationProps) {
+}, ref) => {
   const graphRef = useRef<ForceGraphMethods | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const [highlightNodes, setHighlightNodes] = useState<Set<string>>(new Set());
   const [containerWidth, setContainerWidth] = useState<number>(800);
+  const [currentZoom, setCurrentZoom] = useState<number>(1);
+
+  // Expose zoom methods to parent
+  useImperativeHandle(ref, () => ({
+    zoomIn: () => {
+      if (graphRef.current) {
+        const newZoom = currentZoom * 1.3;
+        graphRef.current.zoom(newZoom, 300);
+        setCurrentZoom(newZoom);
+      }
+    },
+    zoomOut: () => {
+      if (graphRef.current) {
+        const newZoom = currentZoom / 1.3;
+        graphRef.current.zoom(newZoom, 300);
+        setCurrentZoom(newZoom);
+      }
+    },
+    zoomToFit: () => {
+      if (graphRef.current) {
+        graphRef.current.zoomToFit(400, 50);
+      }
+    },
+    getZoomLevel: () => currentZoom,
+  }), [currentZoom]);
 
   // Transform data for force graph
   const graphData: GraphDataInternal = useMemo(() => ({
@@ -259,6 +294,8 @@ export function GraphVisualization({
       />
     </div>
   );
-}
+});
+
+GraphVisualization.displayName = 'GraphVisualization';
 
 export default GraphVisualization;

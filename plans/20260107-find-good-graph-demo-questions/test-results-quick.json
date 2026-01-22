@@ -1,0 +1,18 @@
+{
+  "tested_count": 2,
+  "high_quality_count": 0,
+  "results": [
+    {
+      "question": "Thuế suất VAT cho dịch vụ giáo dục là bao nhiêu?",
+      "question_full": "Thuế suất VAT cho dịch vụ giáo dục là bao nhiêu?",
+      "error": "Timeout after 120.3s",
+      "quality_score": 0
+    },
+    {
+      "question": "Theo Điều 3 Luật Giá, Nhà nước định giá một số mặt hàng như thế nào và các quy định pháp luật nào liên quan đến việc địn",
+      "question_full": "Theo Điều 3 Luật Giá, Nhà nước định giá một số mặt hàng như thế nào và các quy định pháp luật nào liên quan đến việc định giá này?",
+      "error": "Timeout after 121.7s",
+      "quality_score": 0
+    }
+  ]
+}

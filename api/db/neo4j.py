@@ -63,8 +63,6 @@ class Neo4jClient:
                 if n_id not in nodes_dict:
                     # Determine label - prefer 'text' then 'id' then 'name'
                     label = n.get('text', n.get('id', n.get('name', 'Unknown')))
-                    if isinstance(label, str) and len(label) > 50:
-                        label = label[:47] + "..."
 
                     nodes_dict[n_id] = {
                         "id": n_id,
@@ -78,8 +76,6 @@ class Neo4jClient:
                 m_id = m.element_id
                 if m_id not in nodes_dict:
                     label = m.get('text', m.get('id', m.get('name', 'Unknown')))
-                    if isinstance(label, str) and len(label) > 50:
-                        label = label[:47] + "..."
 
                     nodes_dict[m_id] = {
                         "id": m_id,

@@ -50,9 +50,9 @@ Document-Graph-Representation/
 ### Prerequisites
 - Python 3.8+
 - Node.js 18+
-- Neo4j database (local or AuraDB)
+- Neo4j database (local or AuraDB) - **Required for backend to work**
 
-### Backend Setup
+### Step 1: Clone & Setup Environment
 
 ```bash
 # Clone repo
@@ -66,19 +66,35 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirement.txt
 pip install -r requirements-api.txt
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your credentials
-
-# Run API server
-cd api
-uvicorn main:app --reload --port 8000
 ```
 
-### Frontend Setup
+### Step 2: Configure Environment Variables
 
 ```bash
+# Copy example config
+cp .env.example .env
+
+# Ask team lead for the actual credentials to fill in:
+# - NEO4J_URI, NEO4J_AUTH (Neo4j database)
+# - GOOGLE_API_KEY (Gemini API for RAG answers)
+```
+
+**Note**: The project uses a shared Neo4j database. Contact the team for credentials - don't create a new one.
+
+### Step 3: Run Backend Server
+
+```bash
+# From project root (NOT from api/ folder)
+uvicorn api.main:app --reload --port 8000
+
+# Verify: Open http://localhost:8000/api/health
+# Should return {"status": "healthy", ...}
+```
+
+### Step 4: Run Frontend
+
+```bash
+# In a new terminal
 cd frontend
 
 # Install dependencies
@@ -86,7 +102,7 @@ npm install
 
 # Configure environment
 cp .env.example .env
-# Edit .env - set VITE_API_URL=http://localhost:8000/api
+# Default VITE_API_URL=http://localhost:8000/api is correct
 
 # Run dev server
 npm run dev
@@ -242,12 +258,29 @@ eval.ragas(df)  # df: question, answer, retrieved_contexts
 ## Development
 
 ### Run Tests
-```bash
-# Backend
-pytest
 
-# Frontend
+**Backend Tests**
+```bash
+# Run all tests (40 tests, 100% pass rate)
+pytest api/tests/ -v
+
+# Run with coverage (69% coverage)
+pytest api/tests/ --cov=api --cov-report=html
+
+# Run specific test file
+pytest api/tests/test_auth.py -v      # 13 auth tests
+pytest api/tests/test_documents.py -v # 17 document tests
+pytest api/tests/test_rag.py -v       # 10 RAG tests
+
+# See docs/testing.md for detailed testing documentation
+```
+
+**Frontend Tests**
+```bash
+# Linting
 npm run lint
+
+# Type checking
 npm run build
 ```
 
@@ -269,6 +302,53 @@ See `docs/` for detailed documentation:
 - `docs/codebase-summary.md` - Component details
 - `docs/code-standards.md` - Coding conventions
 - `docs/project-roadmap.md` - Development roadmap
+- `docs/testing.md` - Testing guide and coverage reports
+
+## Troubleshooting
+
+### "Cannot connect to backend server. Is it running on localhost:8000?"
+
+**Cause**: Backend server is not running or crashed on startup.
+
+**Solutions**:
+1. Make sure you're running the backend from project root:
+   ```bash
+   # Correct (from project root)
+   uvicorn api.main:app --reload --port 8000
+
+   # Wrong (from api/ folder)
+   cd api && uvicorn main:app --reload --port 8000
+   ```
+
+2. Check if `.env` has valid credentials (ask team for credentials):
+   ```bash
+   # Required in .env
+   NEO4J_URI=<get from team>
+   NEO4J_AUTH=<get from team>
+   ```
+
+3. Verify backend health:
+   ```bash
+   curl http://localhost:8000/api/health
+   # Should return {"status": "healthy", ...}
+   ```
+
+### "Backend Disconnected" in UI
+
+The frontend can't reach the API. Check:
+1. Is backend running on port 8000?
+2. Is `VITE_API_URL=http://localhost:8000/api` set in `frontend/.env`?
+3. Any CORS errors in browser console?
+
+### Port Already in Use
+
+```bash
+# Find process on port 8000
+lsof -i :8000
+
+# Kill it
+kill -9 <PID>
+```
 
 ## License
 

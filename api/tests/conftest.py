@@ -165,15 +165,24 @@ def auth_headers(auth_token) -> Dict[str, str]:
 # ============ Sample Test Documents ============
 
 @pytest.fixture(scope="function")
-def sample_document() -> Dict[str, Any]:
-    """Sample document data for testing."""
+def sample_document(tmp_path) -> Dict[str, Any]:
+    """Sample document data for testing with actual temp file."""
+    # Create a temporary test file (TXT format for easy processing)
+    test_file = tmp_path / "test_document.txt"
+    test_file.write_text("""
+Chương I
+QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Luật này quy định về thuế giá trị gia tăng.
+""", encoding="utf-8")
+
     return {
         "id": "doc_test_123",
-        "name": "test_document.pdf",
+        "name": "test_document.txt",
         "status": "uploaded",
         "uploadedAt": "2026-01-06T10:00:00",
         "size": 1024,
-        "filepath": "/tmp/test_document.pdf",
+        "filepath": str(test_file),
         "progress": 0
     }
 

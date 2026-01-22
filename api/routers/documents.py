@@ -6,7 +6,7 @@ from datetime import datetime
 from typing import List, Optional
 from pathlib import Path
 
-from fastapi import APIRouter, UploadFile, File, HTTPException, Query
+from fastapi import APIRouter, UploadFile, File, HTTPException, Query, BackgroundTasks
 from pydantic import BaseModel
 
 logger = logging.getLogger(__name__)
@@ -30,6 +30,8 @@ class DocumentResponse(BaseModel):
     uploadedAt: str
     size: Optional[int] = None
     progress: Optional[int] = None
+    chunksIndexed: Optional[int] = None
+    error: Optional[str] = None
 
 
 class UploadResponse(BaseModel):
@@ -38,13 +40,77 @@ class UploadResponse(BaseModel):
     taskId: str
 
 
+def process_document_background(doc_id: str, filepath: str):
+    """Background task to process and index document to Neo4j.
+
+    This runs after the upload response is sent (fire-and-forget).
+    """
+    try:
+        # Update status to processing
+        if doc_id in documents_db:
+            documents_db[doc_id]["status"] = "processing"
+            documents_db[doc_id]["progress"] = 10
+
+        # Import here to avoid circular imports and lazy loading
+        from api.services.document_processor import get_document_processor
+        from api.services.neo4j_indexer import get_neo4j_indexer
+
+        processor = get_document_processor()
+        indexer = get_neo4j_indexer()
+
+        # Step 1: Process document (extract text, parse structure)
+        logger.info(f"Processing document {doc_id}...")
+        if doc_id in documents_db:
+            documents_db[doc_id]["progress"] = 30
+
+        result = processor.process_document(filepath)
+        metadata = result["metadata"]
+        chunks = result["chunks"]
+
+        # Use document_id from metadata or fallback to uuid
+        neo4j_doc_id = metadata.get("document_id") or doc_id
+
+        if doc_id in documents_db:
+            documents_db[doc_id]["progress"] = 50
+            documents_db[doc_id]["neo4j_doc_id"] = neo4j_doc_id
+
+        # Step 2: Index to Neo4j with embeddings
+        logger.info(f"Indexing {len(chunks)} chunks to Neo4j...")
+        if doc_id in documents_db:
+            documents_db[doc_id]["progress"] = 70
+
+        stats = indexer.index_document(
+            doc_id=neo4j_doc_id,
+            metadata=metadata,
+            chunks=chunks
+        )
+
+        # Step 3: Update status to completed
+        if doc_id in documents_db:
+            documents_db[doc_id]["status"] = "completed"
+            documents_db[doc_id]["progress"] = 100
+            documents_db[doc_id]["chunksIndexed"] = stats.get("chunks_indexed", 0)
+            documents_db[doc_id]["metadata"] = metadata
+
+        logger.info(f"Document {doc_id} processed successfully: {stats}")
+
+    except Exception as e:
+        logger.error(f"Failed to process document {doc_id}: {e}")
+        if doc_id in documents_db:
+            documents_db[doc_id]["status"] = "failed"
+            documents_db[doc_id]["error"] = str(e)
+
+
 @router.post("/upload", response_model=UploadResponse)
-async def upload_documents(files: List[UploadFile] = File(...)):
+async def upload_documents(
+    background_tasks: BackgroundTasks,
+    files: List[UploadFile] = File(...)
+):
     """
     Upload one or more documents.
 
     Accepts PDF, DOCX, and TXT files.
-    Returns document metadata and a task ID for tracking processing.
+    Documents are automatically processed and indexed to Neo4j in the background.
     """
     allowed_extensions = {".pdf", ".docx", ".doc", ".txt"}
     results = []
@@ -104,6 +170,9 @@ async def upload_documents(files: List[UploadFile] = File(...)):
             }
             documents_db[doc_id] = doc_data
 
+            # Queue background processing (fire-and-forget)
+            background_tasks.add_task(process_document_background, doc_id, filepath)
+
             results.append(DocumentResponse(
                 id=doc_id,
                 name=file.filename or "unknown",
@@ -112,8 +181,10 @@ async def upload_documents(files: List[UploadFile] = File(...)):
                 size=file_size
             ))
 
-            logger.info(f"Uploaded document: {file.filename} (ID: {doc_id})")
+            logger.info(f"Uploaded document: {file.filename} (ID: {doc_id}) - processing queued")
 
+        except HTTPException:
+            raise
         except Exception as e:
             logger.error(f"Failed to save file {file.filename}: {e}")
             raise HTTPException(status_code=500, detail=f"Failed to save file: {str(e)}")
@@ -146,7 +217,9 @@ async def list_documents(
             status=d["status"],
             uploadedAt=d["uploadedAt"],
             size=d.get("size"),
-            progress=d.get("progress")
+            progress=d.get("progress"),
+            chunksIndexed=d.get("chunksIndexed"),
+            error=d.get("error")
         )
         for d in docs[:limit]
     ]
@@ -165,13 +238,15 @@ async def get_document(doc_id: str):
         status=d["status"],
         uploadedAt=d["uploadedAt"],
         size=d.get("size"),
-        progress=d.get("progress")
+        progress=d.get("progress"),
+        chunksIndexed=d.get("chunksIndexed"),
+        error=d.get("error")
     )
 
 
 @router.delete("/{doc_id}")
 async def delete_document(doc_id: str):
-    """Delete a document by ID."""
+    """Delete a document by ID (from disk and Neo4j)."""
     if doc_id not in documents_db:
         raise HTTPException(status_code=404, detail="Document not found")
 
@@ -185,6 +260,16 @@ async def delete_document(doc_id: str):
             logger.info(f"Deleted file: {filepath}")
         except Exception as e:
             logger.error(f"Failed to delete file {filepath}: {e}")
+
+    # Delete from Neo4j if indexed
+    neo4j_doc_id = doc.get("neo4j_doc_id")
+    if neo4j_doc_id:
+        try:
+            from api.services.neo4j_indexer import get_neo4j_indexer
+            indexer = get_neo4j_indexer()
+            indexer.delete_document(neo4j_doc_id)
+        except Exception as e:
+            logger.error(f"Failed to delete from Neo4j: {e}")
 
     # Remove from DB
     del documents_db[doc_id]
@@ -218,18 +303,27 @@ async def batch_delete_documents(doc_ids: List[str]):
 
 
 @router.post("/{doc_id}/reprocess")
-async def reprocess_document(doc_id: str):
+async def reprocess_document(doc_id: str, background_tasks: BackgroundTasks):
     """
     Trigger reprocessing of a document.
 
-    Resets status to 'processing' and queues for re-extraction.
+    Resets status and re-indexes to Neo4j.
     """
     if doc_id not in documents_db:
         raise HTTPException(status_code=404, detail="Document not found")
 
+    doc = documents_db[doc_id]
+    filepath = doc.get("filepath")
+
+    if not filepath or not os.path.exists(filepath):
+        raise HTTPException(status_code=400, detail="Document file not found on disk")
+
+    # Reset status
     documents_db[doc_id]["status"] = "processing"
     documents_db[doc_id]["progress"] = 0
+    documents_db[doc_id]["error"] = None
 
-    # TODO: Queue background task for processing
+    # Queue background reprocessing
+    background_tasks.add_task(process_document_background, doc_id, filepath)
 
     return {"reprocessing": True, "id": doc_id}

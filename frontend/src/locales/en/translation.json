@@ -159,7 +159,10 @@
     "missingInfo": "Missing information",
     "enterQuestion": "Please enter a question",
     "annotationSaved": "Rating saved successfully",
-    "annotationError": "Could not save rating"
+    "annotationError": "Could not save rating",
+    "history": "History",
+    "questionHistory": "Question History",
+    "noHistory": "No questions yet"
   },
   "graph": {
     "backendStatus": {
@@ -183,10 +186,11 @@
     "edit": "Edit",
     "running": "Running...",
     "runQuery": "Run Query",
-    "nodeDetails": "Node details",
-    "label": "Label:",
-    "type": "Type:",
-    "properties": "Properties:",
+    "nodeDetails": "Node Details",
+    "label": "Label",
+    "type": "Type",
+    "properties": "Properties",
+    "noProperties": "No properties available",
     "legend": "Legend",
     "documentType": "Document",
     "articleType": "Article",

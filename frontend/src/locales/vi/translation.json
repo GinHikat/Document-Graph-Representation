@@ -159,7 +159,10 @@
     "missingInfo": "Thiếu thông tin",
     "enterQuestion": "Vui lòng nhập câu hỏi",
     "annotationSaved": "Đã lưu đánh giá của bạn",
-    "annotationError": "Không thể lưu đánh giá"
+    "annotationError": "Không thể lưu đánh giá",
+    "history": "Lịch sử",
+    "questionHistory": "Lịch sử câu hỏi",
+    "noHistory": "Chưa có câu hỏi nào"
   },
   "graph": {
     "backendStatus": {
@@ -184,9 +187,10 @@
     "running": "Đang chạy...",
     "runQuery": "Chạy Query",
     "nodeDetails": "Chi tiết node",
-    "label": "Label:",
-    "type": "Type:",
-    "properties": "Properties:",
+    "label": "Nhãn",
+    "type": "Loại",
+    "properties": "Thuộc tính",
+    "noProperties": "Không có thuộc tính",
     "legend": "Chú giải",
     "documentType": "Văn bản (document)",
     "articleType": "Điều khoản (article)",
