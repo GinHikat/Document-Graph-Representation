@@ -9,12 +9,12 @@ Document-Graph-Representation/
 ├── api/                       # FastAPI backend
 │   ├── routers/               # API endpoints (graph, rag, health)
 │   ├── services/              # Business logic
-│   └── schemas/               # Pydantic models
-├── frontend/                  # React + TypeScript UI
+│   └── schemas/               
+├── frontend/                  # React frontend
 │   ├── src/
-│   │   ├── components/        # UI components (shadcn/ui)
-│   │   ├── pages/             # App views
-│   │   ├── services/          # API client
+│   │   ├── components/        
+│   │   ├── pages/             
+│   │   ├── services/          
 │   │   └── stores/            # Zustand state
 ├── rag_model/                 # ML pipeline
 │   ├── model/                 # NER, RE, document processing
@@ -97,7 +97,6 @@ uvicorn api.main:app --reload --port 8000
 # In a new terminal
 cd frontend
 
-# Install dependencies
 npm install
 
 # Configure environment
